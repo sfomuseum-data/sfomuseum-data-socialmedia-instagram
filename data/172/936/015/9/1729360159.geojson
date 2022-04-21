@@ -2,6 +2,10 @@
   "id": 1729360159,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2016-11-06",
+    "date:cessation_upper": "2016-11-06",
+    "date:inception_lower": "2016-11-06",
+    "date:inception_upper": "2016-11-06",
     "edtf:cessation": "2016-11-06T11:15:24-08:00",
     "edtf:inception": "2016-11-06T11:15:24-08:00",
     "geom:area": 0,
@@ -20,18 +24,19 @@
       "location": "San Francisco International Airport (SFO)",
       "media_id": "5e5fd9be5afd5151cfe384040d150cdc",
       "path": "photos/201611/5e5fd9be5afd5151cfe384040d150cdc.jpg",
+      "perceptual_hash": "p:c0c2be1d593363b9",
       "taken": 1478459724,
       "taken_at": "2016-11-06T19:15:24+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -44,13 +49,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729360159,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729360159,
-    "wof:lastmodified": 1602887865,
+    "wof:lastmodified": 1650564263,
     "wof:name": "\"The ocean has given me so much…it has taught me patience, taught me respect, and helped harness and control fear and turn it into excitement.\"..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -59,9 +65,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

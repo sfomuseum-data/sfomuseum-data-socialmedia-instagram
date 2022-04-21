@@ -2,6 +2,10 @@
   "id": 1729356959,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2019-02-12",
+    "date:cessation_upper": "2019-02-12",
+    "date:inception_lower": "2019-02-12",
+    "date:inception_upper": "2019-02-12",
     "edtf:cessation": "2019-02-12T14:13:00-08:00",
     "edtf:inception": "2019-02-12T14:13:00-08:00",
     "geom:area": 0,
@@ -13,13 +17,13 @@
         "body": "Pan American World Airways' service to South Africa began in 1947. From New York, flights made stops in the Azores, Lisbon, Dakar, Accra, Kinshasa, and finally Johannesburg. The average total travel time was 52 hours. Have you ever been to South Africa?  Image: Pan American World Airways poster, South Africa, 1950s. Gift of Constance Ogilvie. 2002.073.023",
         "excerpt": "Pan American World Airways' service to South Africa began in 1947.",
         "hashtags": [
-          "PanAm", 
-          "PanAmerican", 
-          "PAA", 
-          "TravelTuesday", 
-          "SouthAfrica", 
-          "poster", 
-          "1950s", 
+          "PanAm",
+          "PanAmerican",
+          "PAA",
+          "TravelTuesday",
+          "SouthAfrica",
+          "poster",
+          "1950s",
           "illustration"
         ],
         "users": []
@@ -27,18 +31,19 @@
       "location": "San Francisco International Airport (SFO)",
       "media_id": "3801945f84aa81793b18baf0d19e7dd6",
       "path": "photos/201902/3801945f84aa81793b18baf0d19e7dd6.jpg",
+      "perceptual_hash": "p:b9ce9318c73986c3",
       "taken": 1550009580,
       "taken_at": "2019-02-12T22:13:00+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -51,13 +56,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729356959,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729356959,
-    "wof:lastmodified": 1602887827,
+    "wof:lastmodified": 1650564280,
     "wof:name": "Pan American World Airways' service to South Africa began in 1947...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -66,9 +72,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

@@ -2,6 +2,10 @@
   "id": 1729355433,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-03-17",
+    "date:cessation_upper": "2020-03-17",
+    "date:inception_lower": "2020-03-17",
+    "date:inception_upper": "2020-03-17",
     "edtf:cessation": "2020-03-17T11:15:58-07:00",
     "edtf:inception": "2020-03-17T11:15:58-07:00",
     "geom:area": 0,
@@ -13,7 +17,7 @@
         "body": "The health and safety of our visitors, volunteers, and staff is our highest priority. ⁣In an effort to support community efforts to slow the spread of COVID-19, the Aviation Museum and Library is closed temporarily to the public and we discourage non-essential visits to the Airport.  Stay safe and look out for each other. We are committed to our mission to delight, engage, and inspire a global audience and will continue to do so through Twitter, Instagram, and Facebook. What would you like to see more of?",
         "excerpt": "The health and safety of our visitors, volunteers, and staff is our highest priority.",
         "hashtags": [
-          "flattenthecurve", 
+          "flattenthecurve",
           "slowthespread"
         ],
         "users": []
@@ -21,18 +25,19 @@
       "location": "",
       "media_id": "b75d07449abc4cc9b6059f7b0a02edae",
       "path": "photos/202003/b75d07449abc4cc9b6059f7b0a02edae.jpg",
+      "perceptual_hash": "p:d1163abc6ce1391e",
       "taken": 1584468958,
       "taken_at": "2020-03-17T18:15:58+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -45,13 +50,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729355433,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729355433,
-    "wof:lastmodified": 1602887806,
+    "wof:lastmodified": 1650564244,
     "wof:name": "The health and safety of our visitors, volunteers, and staff is our highest priority...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -60,9 +66,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

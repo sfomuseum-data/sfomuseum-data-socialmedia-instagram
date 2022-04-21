@@ -2,6 +2,10 @@
   "id": 1729359661,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-03-31",
+    "date:cessation_upper": "2017-03-31",
+    "date:inception_lower": "2017-03-31",
+    "date:inception_upper": "2017-03-31",
     "edtf:cessation": "2017-03-30T19:44:50-07:00",
     "edtf:inception": "2017-03-30T19:44:50-07:00",
     "geom:area": 0,
@@ -13,10 +17,10 @@
         "body": "Famed industrial designer Raymond Loewy (1893–1986) designed and styled everything from Studebaker cars to refrigerators, corporate logos, and the NASA Skylab. Loewy oversaw the first redesign of the iconic Coca-Cola bottle in 1954, in a “slenderized” version with bright, white lettering to stand out in vending machines.  All objects are from the collection of Steve Cabella. See more #midcentury #modern #design in \"#AModernApproach: Mid-Century Design\", on display, pre-security, in the International Terminal. http://bit.ly/AModernApproach ",
         "excerpt": "Famed industrial designer Raymond Loewy (1893–1986) designed and styled everything from Studebaker cars to refrigerators, corporate logos, and the NASA Skylab.",
         "hashtags": [
-          "design", 
-          "RaymondLoewy", 
-          "industrialdesign", 
-          "cocacola", 
+          "design",
+          "RaymondLoewy",
+          "industrialdesign",
+          "cocacola",
           "sodaorpop"
         ],
         "users": []
@@ -24,18 +28,19 @@
       "location": "",
       "media_id": "2b22f94a784ef1979d27ab9e372ab5ec",
       "path": "photos/201703/2b22f94a784ef1979d27ab9e372ab5ec.jpg",
+      "perceptual_hash": "p:ad24a75b57ec2238",
       "taken": 1490928290,
       "taken_at": "2017-03-31T02:44:50+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -48,13 +53,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729359661,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729359661,
-    "wof:lastmodified": 1602887859,
+    "wof:lastmodified": 1650564366,
     "wof:name": "Famed industrial designer Raymond Loewy (1893–1986) designed and styled everything from Studebaker cars to refrigerators, corporate logos, and the NASA Skylab...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -63,9 +69,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

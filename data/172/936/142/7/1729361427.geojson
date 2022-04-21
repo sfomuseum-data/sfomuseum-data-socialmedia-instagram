@@ -2,6 +2,10 @@
   "id": 1729361427,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-10-23",
+    "date:cessation_upper": "2015-10-23",
+    "date:inception_lower": "2015-10-23",
+    "date:inception_upper": "2015-10-23",
     "edtf:cessation": "2015-10-23T11:06:26-07:00",
     "edtf:inception": "2015-10-23T11:06:26-07:00",
     "geom:area": 0,
@@ -18,18 +22,19 @@
       "location": "Aviation Museum and Library - San Francisco International Airport (SFO)",
       "media_id": "369451c3aee6991cab598f349966e122",
       "path": "photos/201510/369451c3aee6991cab598f349966e122.jpg",
+      "perceptual_hash": "p:c51a6865fe0cea4e",
       "taken": 1445623586,
       "taken_at": "2015-10-23T18:06:26+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -42,13 +47,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729361427,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729361427,
-    "wof:lastmodified": 1602887880,
+    "wof:lastmodified": 1650564231,
     "wof:name": "This week, our newest exhibition, Early Birds, opens in the Aviation Museum and Library...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -57,9 +63,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

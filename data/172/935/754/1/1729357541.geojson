@@ -2,6 +2,10 @@
   "id": 1729357541,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-10-17",
+    "date:cessation_upper": "2018-10-17",
+    "date:inception_lower": "2018-10-17",
+    "date:inception_upper": "2018-10-17",
     "edtf:cessation": "2018-10-17T16:52:32-07:00",
     "edtf:inception": "2018-10-17T16:52:32-07:00",
     "geom:area": 0,
@@ -13,12 +17,12 @@
         "body": "World Wings International, Inc., a philanthropic organization of former Pan American World Airways flight attendants, conducted a series of career surveys among the airline’s flight attendants in 1990, 1991, and 2012. The surveys resulted in a return of over 500 completed questionnaires that the organization has donated to SFO Museum. With the participants’ dates of employment spanning 1944 to 1990, these documents reveal a broad range of career experiences and unique first person accounts from the women and men who provided cabin service for Pan Am from the post-War air travel boom through the jet age. A selection of photographs of the more than 500 participants are on our website: http://bit.ly/2bGUhwP  Image: World Wings International, Diane Winston Porterfield, 1956. Gift of World Wings International. 2012.155.001.078 a b",
         "excerpt": "World Wings International, Inc., a philanthropic organization of former Pan American World Airways flight attendants, conducted a series of career surveys among the airline’s flight attendants in 1990, 1991, and 2012.",
         "hashtags": [
-          "worldwings", 
-          "panamerican", 
-          "panam", 
-          "PAA", 
-          "flightattendant", 
-          "crewlife", 
+          "worldwings",
+          "panamerican",
+          "panam",
+          "PAA",
+          "flightattendant",
+          "crewlife",
           "womeninaviation"
         ],
         "users": []
@@ -26,18 +30,19 @@
       "location": "San Francisco International Airport (SFO)",
       "media_id": "42bb11c584ee1d7246d1f99835d8a1df",
       "path": "photos/201810/42bb11c584ee1d7246d1f99835d8a1df.jpg",
+      "perceptual_hash": "p:c03f1f4172bb0d56",
       "taken": 1539820352,
       "taken_at": "2018-10-17T23:52:32+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -50,13 +55,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729357541,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729357541,
-    "wof:lastmodified": 1602887833,
+    "wof:lastmodified": 1650564356,
     "wof:name": "World Wings International, Inc., a philanthropic organization of former Pan American World Airways flight attendants, conducted a series of career surveys among the airline’s flight attendants in 1990, 1991, and 2012...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -65,9 +71,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

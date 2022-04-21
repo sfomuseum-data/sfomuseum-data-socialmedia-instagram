@@ -2,6 +2,10 @@
   "id": 1729355777,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2019-12-17",
+    "date:cessation_upper": "2019-12-17",
+    "date:inception_lower": "2019-12-17",
+    "date:inception_upper": "2019-12-17",
     "edtf:cessation": "2019-12-16T17:58:52-08:00",
     "edtf:inception": "2019-12-16T17:58:52-08:00",
     "geom:area": 0,
@@ -13,9 +17,9 @@
         "body": "Barry McGee earned a Bachelor of Fine Arts from the San Francisco Art Institute in 1991. McGee oftentimes works under such aliases as Ray Long and Lydia Fong. His works are inspired by the urgency of contemporary street culture and his background in letterpress printing lends itself to a zen-like understanding of composition, context, pattern, line, and color. Echoing the graffiti, skate, surf, and punk traditions in which he is rooted, McGee paints the characters he observes on materials he collects from the edges and hidden corners of the city.  See “Untitled” by Barry McGee, on display post-security in Terminal 1. http://bit.ly/34tq78q",
         "excerpt": "Barry McGee earned a Bachelor of Fine Arts from the San Francisco Art Institute in 1991.",
         "hashtags": [
-          "publicart", 
-          "BarryMcGee", 
-          "bayareaart", 
+          "publicart",
+          "BarryMcGee",
+          "bayareaart",
           "streetart"
         ],
         "users": []
@@ -23,18 +27,19 @@
       "location": "",
       "media_id": "2baf65f1cbac890d13b17652047737c3",
       "path": "photos/201912/2baf65f1cbac890d13b17652047737c3.jpg",
+      "perceptual_hash": "p:860778f8d2a7a7b0",
       "taken": 1576547932,
       "taken_at": "2019-12-17T01:58:52+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -47,13 +52,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729355777,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729355777,
-    "wof:lastmodified": 1602887810,
+    "wof:lastmodified": 1650564253,
     "wof:name": "Barry McGee earned a Bachelor of Fine Arts from the San Francisco Art Institute in 1991...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -62,9 +68,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

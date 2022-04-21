@@ -2,6 +2,10 @@
   "id": 1729356527,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2019-05-23",
+    "date:cessation_upper": "2019-05-23",
+    "date:inception_lower": "2019-05-23",
+    "date:inception_upper": "2019-05-23",
     "edtf:cessation": "2019-05-23T13:58:27-07:00",
     "edtf:inception": "2019-05-23T13:58:27-07:00",
     "geom:area": 0,
@@ -13,10 +17,10 @@
         "body": "When jetliners were introduced in the 1950s, they brought air travel to a larger percentage of the public as their high speeds, extensive range, and large capacities enabled the airlines to substantially reduce their seat-mile costs. The jet age of commercial aviation had truly arrived when the Boeing 707, initially called the Jet Stratoliner, was introduced by Pan American World Airways in 1958. The following year, Douglas DC-8 jetliner service was launched by United Air Lines. The jet fleets came with new sets of operating procedures and maintenance needs. Advanced airframes, avionics, instruments, controls, and turbofan engines required air crews, mechanics, and ground crews to become familiar with a long list of new systems, parts, and components.  See “By the Book: Airliner Flight, Maintenance, and Training Manuals” on display, pre-security, in the Aviation Museum. http://bit.ly/AMLSFO",
         "excerpt": "When jetliners were introduced in the 1950s, they brought air travel to a larger percentage of the public as their high speeds, extensive range, and large capacities enabled the airlines to substantially reduce their seat-mile costs.",
         "hashtags": [
-          "ByTheBook", 
-          "avgeek", 
-          "jetliners", 
-          "PAA", 
+          "ByTheBook",
+          "avgeek",
+          "jetliners",
+          "PAA",
           "PanAm"
         ],
         "users": []
@@ -24,18 +28,19 @@
       "location": "",
       "media_id": "9e5f4231a3872b1c3a8f20df946319c5",
       "path": "photos/201905/9e5f4231a3872b1c3a8f20df946319c5.jpg",
+      "perceptual_hash": "p:be89d0f2a5c45a99",
       "taken": 1558645107,
       "taken_at": "2019-05-23T20:58:27+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -48,13 +53,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729356527,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729356527,
-    "wof:lastmodified": 1602887821,
+    "wof:lastmodified": 1650564272,
     "wof:name": "When jetliners were introduced in the 1950s, they brought air travel to a larger percentage of the public as their high speeds, extensive range, and large capacities enabled the airlines to substantially reduce their seat-mile costs...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -63,9 +69,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

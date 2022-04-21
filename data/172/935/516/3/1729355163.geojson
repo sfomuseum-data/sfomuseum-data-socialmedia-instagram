@@ -2,6 +2,10 @@
   "id": 1729355163,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-08-06",
+    "date:cessation_upper": "2020-08-06",
+    "date:inception_lower": "2020-08-06",
+    "date:inception_upper": "2020-08-06",
     "edtf:cessation": "2020-08-05T22:45:47-07:00",
     "edtf:inception": "2020-08-05T22:45:47-07:00",
     "geom:area": 0,
@@ -13,10 +17,10 @@
         "body": "Take a short trip with us back in time with our French wallpaper exhibition. “Zuber: The Art of French Scenic Wallpaper” features a panorama of various views of North America from the 19th century.   See more French wallpaper in “Zuber: The Art of French Scenic Wallpaper” online at: http://bit.ly/ZuberScenicWallpaper",
         "excerpt": "Take a short trip with us back in time with our French wallpaper exhibition.",
         "hashtags": [
-          "zuberofficial", 
-          "scenicwallpaper", 
-          "Zuber", 
-          "wallpaper", 
+          "zuberofficial",
+          "scenicwallpaper",
+          "Zuber",
+          "wallpaper",
           "MuseumFromHome"
         ],
         "users": []
@@ -24,18 +28,19 @@
       "location": "",
       "media_id": "9f72b29afba5133a4edcbdb76cb60800",
       "path": "photos/202008/9f72b29afba5133a4edcbdb76cb60800.jpg",
+      "perceptual_hash": "p:809ef9e1464c3be6",
       "taken": 1596692747,
       "taken_at": "2020-08-06T05:45:47+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -48,13 +53,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729355163,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729355163,
-    "wof:lastmodified": 1602887801,
+    "wof:lastmodified": 1650564237,
     "wof:name": "Take a short trip with us back in time with our French wallpaper exhibition...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -63,9 +69,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

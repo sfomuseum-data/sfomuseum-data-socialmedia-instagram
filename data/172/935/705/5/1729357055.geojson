@@ -2,6 +2,10 @@
   "id": 1729357055,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2019-01-23",
+    "date:cessation_upper": "2019-01-23",
+    "date:inception_lower": "2019-01-23",
+    "date:inception_upper": "2019-01-23",
     "edtf:cessation": "2019-01-23T14:04:02-08:00",
     "edtf:inception": "2019-01-23T14:04:02-08:00",
     "geom:area": 0,
@@ -13,13 +17,13 @@
         "body": "Lady Grace Drummond-Hay, an English journalist, was the only woman among sixty passengers and crew on the Graf Zeppelin when it flew around the world in 1929. Our collection features two photographs taken of Lady Drummond-Hay in Wake Island circa 1936, on a Pan American Airways transpacific adventure. Her profession as a journalist and her love affair with aviation led her to document many of the great events in early commercial aviation and she helped to glamorize air travel in the 1920s and 30s.  Image: Pan American Airways, Lady Drummond-Hay, Wake Island, c. 1936. Gift of the Captain John B. Russell Family. 2012.149.0163.054. 2012.149.0163.055 ",
         "excerpt": "Lady Grace Drummond-Hay, an English journalist, was the only woman among sixty passengers and crew on the Graf Zeppelin when it flew around the world in 1929.",
         "hashtags": [
-          "WomenInAviation", 
-          "PAA", 
-          "PanAm", 
-          "WakeIsland", 
-          "journalist", 
-          "PanAmerican", 
-          "avgeek", 
+          "WomenInAviation",
+          "PAA",
+          "PanAm",
+          "WakeIsland",
+          "journalist",
+          "PanAmerican",
+          "avgeek",
           "1930s"
         ],
         "users": []
@@ -27,18 +31,19 @@
       "location": "",
       "media_id": "54b2d5c211cda20f68f880fd560ef3a9",
       "path": "photos/201901/54b2d5c211cda20f68f880fd560ef3a9.jpg",
+      "perceptual_hash": "p:a2bf09cc26f309e6",
       "taken": 1548281042,
       "taken_at": "2019-01-23T22:04:02+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -51,13 +56,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729357055,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729357055,
-    "wof:lastmodified": 1602887828,
+    "wof:lastmodified": 1650564281,
     "wof:name": "Lady Grace Drummond-Hay, an English journalist, was the only woman among sixty passengers and crew on the Graf Zeppelin when it flew around the world in 1929...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -66,9 +72,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

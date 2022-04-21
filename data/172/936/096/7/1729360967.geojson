@@ -2,6 +2,10 @@
   "id": 1729360967,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2016-03-06",
+    "date:cessation_upper": "2016-03-06",
+    "date:inception_lower": "2016-03-06",
+    "date:inception_upper": "2016-03-06",
     "edtf:cessation": "2016-03-06T11:28:37-08:00",
     "edtf:inception": "2016-03-06T11:28:37-08:00",
     "geom:area": 0,
@@ -18,18 +22,19 @@
       "location": "San Francisco International Airport (SFO)",
       "media_id": "f135fd01fa7700bdd5a13a904f469945",
       "path": "photos/201603/f135fd01fa7700bdd5a13a904f469945.jpg",
+      "perceptual_hash": "p:ee668989a7659a92",
       "taken": 1457292517,
       "taken_at": "2016-03-06T19:28:37+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -42,13 +47,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729360967,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729360967,
-    "wof:lastmodified": 1602887875,
+    "wof:lastmodified": 1650564223,
     "wof:name": "To create “The Hexapodarium” series, Gail Wight focused her creative vision on the housefly, an insect that evolved sixty-five-million-years ago...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -57,9 +63,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

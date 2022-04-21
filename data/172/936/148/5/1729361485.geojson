@@ -2,6 +2,10 @@
   "id": 1729361485,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-10-03",
+    "date:cessation_upper": "2015-10-03",
+    "date:inception_lower": "2015-10-03",
+    "date:inception_upper": "2015-10-03",
     "edtf:cessation": "2015-10-02T19:13:01-07:00",
     "edtf:inception": "2015-10-02T19:13:01-07:00",
     "geom:area": 0,
@@ -18,18 +22,19 @@
       "location": "SFO Museum",
       "media_id": "f191146ece5df0c670dbf5bf1f5ada5a",
       "path": "photos/201510/f191146ece5df0c670dbf5bf1f5ada5a.jpg",
+      "perceptual_hash": "p:ea33916c9769929c",
       "taken": 1443838381,
       "taken_at": "2015-10-03T02:13:01+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -42,13 +47,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729361485,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729361485,
-    "wof:lastmodified": 1602887881,
+    "wof:lastmodified": 1650564234,
     "wof:name": "Travel posters endeavor to showcase a destination’s most interesting attractions...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -57,9 +63,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

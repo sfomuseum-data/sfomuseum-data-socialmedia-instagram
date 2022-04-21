@@ -2,6 +2,10 @@
   "id": 1729356671,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2019-04-12",
+    "date:cessation_upper": "2019-04-12",
+    "date:inception_lower": "2019-04-12",
+    "date:inception_upper": "2019-04-12",
     "edtf:cessation": "2019-04-11T19:58:49-07:00",
     "edtf:inception": "2019-04-11T19:58:49-07:00",
     "geom:area": 0,
@@ -13,11 +17,11 @@
         "body": "As commercial aviation advanced in the 1920s and ‘30s, manuals for airliners were separated into flight operations and maintenance categories. Eastern Air Lines was a major operator of the Douglas DC-2 and DC-3 in the 1930s and provided maintenance crews with manuals that included data on the airframe, lubrication, brakes, the electrical system, instruments, engines, the oil system, landing gear, and fuel systems. After World War II,  larger, multi-engine airliners enabled the rapid growth of the airline industry. These aircraft were more demanding to fly and required large crews to operate them and rigorous maintenance schedules. The number of airliner manuals and the complexity of their content grew to voluminous levels. With the arrival of the jet fleets by the late 1950s, more manuals with new types of information were issued. “By the Book: Airliner Flight, Maintenance, and Training Manuals” is on display, pre-security, in the Aviation Museum and Library in the International Terminal. . . .",
         "excerpt": "As commercial aviation advanced in the 1920s and ‘30s, manuals for airliners were separated into flight operations and maintenance categories.",
         "hashtags": [
-          "ByTheBook", 
-          "modelairplane", 
-          "design", 
-          "library", 
-          "avgeek", 
+          "ByTheBook",
+          "modelairplane",
+          "design",
+          "library",
+          "avgeek",
           "book"
         ],
         "users": []
@@ -25,18 +29,19 @@
       "location": "San Francisco International Airport (SFO)",
       "media_id": "3bd96013e56e66abc94f4969ca4b903d",
       "path": "photos/201904/3bd96013e56e66abc94f4969ca4b903d.jpg",
+      "perceptual_hash": "p:bae0b497962c899d",
       "taken": 1555037929,
       "taken_at": "2019-04-12T02:58:49+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -49,13 +54,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729356671,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729356671,
-    "wof:lastmodified": 1602887823,
+    "wof:lastmodified": 1650564351,
     "wof:name": "As commercial aviation advanced in the 1920s and ‘30s, manuals for airliners were separated into flight operations and maintenance categories...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -64,9 +70,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

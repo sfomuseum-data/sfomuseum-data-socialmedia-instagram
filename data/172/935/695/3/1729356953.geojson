@@ -2,6 +2,10 @@
   "id": 1729356953,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2019-02-15",
+    "date:cessation_upper": "2019-02-15",
+    "date:inception_lower": "2019-02-15",
+    "date:inception_upper": "2019-02-15",
     "edtf:cessation": "2019-02-14T18:46:51-08:00",
     "edtf:inception": "2019-02-14T18:46:51-08:00",
     "geom:area": 0,
@@ -13,12 +17,12 @@
         "body": "Introduced by Pan American World Airways in 1970, the Boeing 747-100 was the first of a new breed of jetliner, the “wide-body,” which ultimately revolutionized the airline industry. The 747 main cabin was wide enough to seat ten abreast and could carry up to 450 passengers. United Air Lines introduced its first “jumbo jet” in 1970 for the popular west coast-to-Hawai’i route. United furnished their “Captain’s Lounge” with namesake chairs in an open layout. Other carriers also initially included a large coach lounge in the main cabin. By the 1980s, many carriers, in an effort to maintain economic viability, began to eliminate the 747 lounges in favor of increased seating. What are your fondest memories of the Boeing 747?  Image: United Air Lines, Boeing 747, 1970. Gift of David Mills. 2018.035.003",
         "excerpt": "Introduced by Pan American World Airways in 1970, the Boeing 747-100 was the first of a new breed of jetliner, the “wide-body,” which ultimately revolutionized the airline industry.",
         "hashtags": [
-          "avgeek", 
-          "747", 
-          "Boeing", 
-          "jumbojet", 
-          "unitedairlines", 
-          "lounge", 
+          "avgeek",
+          "747",
+          "Boeing",
+          "jumbojet",
+          "unitedairlines",
+          "lounge",
           "jetage"
         ],
         "users": []
@@ -26,18 +30,19 @@
       "location": "SFO Museum",
       "media_id": "7eb05bd22ca8992fdb82ae6c59c6949c",
       "path": "photos/201902/7eb05bd22ca8992fdb82ae6c59c6949c.jpg",
+      "perceptual_hash": "p:8adfa1405fb55c83",
       "taken": 1550198811,
       "taken_at": "2019-02-15T02:46:51+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -50,13 +55,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729356953,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729356953,
-    "wof:lastmodified": 1602887826,
+    "wof:lastmodified": 1650564279,
     "wof:name": "Introduced by Pan American World Airways in 1970, the Boeing 747-100 was the first of a new breed of jetliner, the “wide-body,” which ultimately revolutionized the airline industry...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -65,9 +71,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

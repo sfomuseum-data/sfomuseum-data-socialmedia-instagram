@@ -2,6 +2,10 @@
   "id": 1729360675,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2016-05-28",
+    "date:cessation_upper": "2016-05-28",
+    "date:inception_lower": "2016-05-28",
+    "date:inception_upper": "2016-05-28",
     "edtf:cessation": "2016-05-27T17:04:05-07:00",
     "edtf:inception": "2016-05-27T17:04:05-07:00",
     "geom:area": 0,
@@ -13,7 +17,7 @@
         "body": "",
         "excerpt": "",
         "hashtags": [
-          "FashionInFlight", 
+          "FashionInFlight",
           "FashionFriday"
         ],
         "users": []
@@ -21,18 +25,19 @@
       "location": "San Francisco International Airport (SFO)",
       "media_id": "11ca3ee3f5bbe13c14d9d8fa012f4942",
       "path": "photos/201605/11ca3ee3f5bbe13c14d9d8fa012f4942.jpg",
+      "perceptual_hash": "p:b5c9add269949a15",
       "taken": 1464393845,
       "taken_at": "2016-05-28T00:04:05+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -45,13 +50,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729360675,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729360675,
-    "wof:lastmodified": 1602887871,
+    "wof:lastmodified": 1650564219,
     "wof:name": "..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -60,9 +66,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

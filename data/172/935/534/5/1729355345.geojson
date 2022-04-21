@@ -2,6 +2,10 @@
   "id": 1729355345,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-04-15",
+    "date:cessation_upper": "2020-04-15",
+    "date:inception_lower": "2020-04-15",
+    "date:inception_upper": "2020-04-15",
     "edtf:cessation": "2020-04-14T19:00:16-07:00",
     "edtf:inception": "2020-04-14T19:00:16-07:00",
     "geom:area": 0,
@@ -13,9 +17,9 @@
         "body": "#Onthisday in 2011, the newly remodeled Terminal 2 opened. Completed in 1954 as the Central Terminal, this building was the third passenger terminal to be built at SFO. Terminal 2 has gone through various remodels over the years, including this one in the early 1980s that updated the control tower.  Image: San Francisco International Airport (SFO), Central Terminal construction, 1982. SFO Museum Collection. 2005.137.043.001",
         "excerpt": "#Onthisday in 2011, the newly remodeled Terminal 2 opened.",
         "hashtags": [
-          "SFOHistory", 
-          "avgeek", 
-          "MuseumFromHome", 
+          "SFOHistory",
+          "avgeek",
+          "MuseumFromHome",
           "airport"
         ],
         "users": []
@@ -23,18 +27,19 @@
       "location": "",
       "media_id": "513c759fd21ca556d1294176f697d69d",
       "path": "photos/202004/513c759fd21ca556d1294176f697d69d.jpg",
+      "perceptual_hash": "p:d32c46bbe912cc63",
       "taken": 1586916016,
       "taken_at": "2020-04-15T02:00:16+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -47,13 +52,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729355345,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729355345,
-    "wof:lastmodified": 1602887805,
+    "wof:lastmodified": 1650564242,
     "wof:name": "#Onthisday in 2011, the newly remodeled Terminal 2 opened...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -62,9 +68,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

@@ -2,6 +2,10 @@
   "id": 1729356159,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2019-08-27",
+    "date:cessation_upper": "2019-08-27",
+    "date:inception_lower": "2019-08-27",
+    "date:inception_upper": "2019-08-27",
     "edtf:cessation": "2019-08-26T18:39:00-07:00",
     "edtf:inception": "2019-08-26T18:39:00-07:00",
     "geom:area": 0,
@@ -13,14 +17,14 @@
         "body": "NOW PLAYING: From the filmmaker’s documentary series on craft methods employed in the state of Michoacán, artisan Carlos Hernández and three generations of his family demonstrate their method for producing exquisite pottery in the town of San José de Gracia.  See “Mexican Handcraft Masters: Glazed Pottery\" by Mariano Rentería Garnica, now playing in the Video Arts Room located pre-security in the International Terminal. http://bit.ly/340qOX0",
         "excerpt": "NOW PLAYING: From the filmmaker’s documentary series on craft methods employed in the state of Michoacán, artisan Carlos Hernández and three generations of his family demonstrate their method for producing exquisite pottery in the town of San José de Gracia.",
         "hashtags": [
-          "VideoArtsSFOM", 
-          "film", 
-          "video", 
-          "mexico", 
-          "mexican", 
-          "handcraft", 
-          "pottery", 
-          "MarianoRenteríaGarnica", 
+          "VideoArtsSFOM",
+          "film",
+          "video",
+          "mexico",
+          "mexican",
+          "handcraft",
+          "pottery",
+          "MarianoRenteríaGarnica",
           "Michoacán"
         ],
         "users": []
@@ -28,18 +32,19 @@
       "location": "San Francisco International Airport (SFO)",
       "media_id": "410cba6a4d6ad912d1db8dd22fa7be8f",
       "path": "photos/201908/410cba6a4d6ad912d1db8dd22fa7be8f.jpg",
+      "perceptual_hash": "p:c11eee513bc04caf",
       "taken": 1566869940,
       "taken_at": "2019-08-27T01:39:00+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -52,13 +57,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729356159,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729356159,
-    "wof:lastmodified": 1602887816,
+    "wof:lastmodified": 1650564263,
     "wof:name": "NOW PLAYING: From the filmmaker’s documentary series on craft methods employed in the state of Michoacán, artisan Carlos Hernández and three generations of his family demonstrate their method for producing exquisite pottery in the town of San José de Gracia...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -67,9 +73,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

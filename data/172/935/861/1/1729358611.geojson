@@ -2,6 +2,10 @@
   "id": 1729358611,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-02-01",
+    "date:cessation_upper": "2018-02-01",
+    "date:inception_lower": "2018-02-01",
+    "date:inception_upper": "2018-02-01",
     "edtf:cessation": "2018-01-31T17:30:06-08:00",
     "edtf:inception": "2018-01-31T17:30:06-08:00",
     "geom:area": 0,
@@ -13,15 +17,15 @@
         "body": "Horse racing is one of the world's oldest sports. Its roots trace back to the Olympic Games in Greece, when chariot racing was introduced around 640 BCE. Modern flat-track racing gained popularity in England during the late 18th century with inauguration of The Derby Stakes (1780), and then in the United States with the Belmont Stakes (1867) and Kentucky Derby (1875). Counter games and trade stimulators capitalized on the popularity of horse racing. Patented in 1929, Good Luck Race Horse is a dial machine based on earlier wheel-mechanism trade stimulators from the 1890s. Good Luck Race Horse featured six horses and a six-to-one odds of a prize from the operator or merchant.  All objects are courtesy of Joe Welch American Antique Museum in San Bruno, California. \"The Automatic Age: Coin-Operated Machines\" is on display, pre-security, in the International Terminal. http://bit.ly/CoinOperated",
         "excerpt": "Horse racing is one of the world's oldest sports.",
         "hashtags": [
-          "coinoperated", 
-          "TheAutomaticAge", 
-          "coinop", 
-          "vintage", 
-          "antique", 
-          "gamemachines", 
-          "slotmachine", 
-          "slotmachines", 
-          "horseracing", 
+          "coinoperated",
+          "TheAutomaticAge",
+          "coinop",
+          "vintage",
+          "antique",
+          "gamemachines",
+          "slotmachine",
+          "slotmachines",
+          "horseracing",
           "goodluck"
         ],
         "users": []
@@ -29,18 +33,19 @@
       "location": "",
       "media_id": "cc6549b9104d7cb15df2a82cbc9858ab",
       "path": "photos/201801/cc6549b9104d7cb15df2a82cbc9858ab.jpg",
+      "perceptual_hash": "p:e51b9a709a61966d",
       "taken": 1517448606,
       "taken_at": "2018-02-01T01:30:06+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -53,13 +58,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729358611,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729358611,
-    "wof:lastmodified": 1602887845,
+    "wof:lastmodified": 1650564361,
     "wof:name": "Horse racing is one of the world's oldest sports...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -68,9 +74,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

@@ -2,6 +2,10 @@
   "id": 1729358195,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-23",
+    "date:cessation_upper": "2018-05-23",
+    "date:inception_lower": "2018-05-23",
+    "date:inception_upper": "2018-05-23",
     "edtf:cessation": "2018-05-22T20:06:44-07:00",
     "edtf:inception": "2018-05-22T20:06:44-07:00",
     "geom:area": 0,
@@ -13,16 +17,16 @@
         "body": "“The light of Akari is like the light of the sun filtered through the paper of shoji. The harshness of electricity is thus transformed through the magic of paper back to the light of our origin—the sun—so that its warmth may continue to fill our rooms at night.” Isamu Noguchi, November 17, 1981  Thank you to The Isamu Noguchi Foundation and Garden Museum for their generous loan. See \"Isamu Noguchi: Inside and Out\" on display, pre-security, in the International Terminal. http://bit.ly/NoguchiSFO",
         "excerpt": "“The light of Akari is like the light of the sun filtered through the paper of shoji.",
         "hashtags": [
-          "NoguchiSFO", 
-          "IsamuNoguchi", 
-          "noguchi", 
-          "sculpture", 
-          "art", 
-          "modernart", 
-          "design", 
-          "washi", 
-          "washipaper", 
-          "bamboo", 
+          "NoguchiSFO",
+          "IsamuNoguchi",
+          "noguchi",
+          "sculpture",
+          "art",
+          "modernart",
+          "design",
+          "washi",
+          "washipaper",
+          "bamboo",
           "lamp"
         ],
         "users": []
@@ -30,18 +34,19 @@
       "location": "San Francisco International Airport (SFO)",
       "media_id": "8200cdd9388e7a8def63776040310015",
       "path": "photos/201805/8200cdd9388e7a8def63776040310015.jpg",
+      "perceptual_hash": "p:e2c4ea391f3b1362",
       "taken": 1527044804,
       "taken_at": "2018-05-23T03:06:44+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -54,13 +59,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729358195,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729358195,
-    "wof:lastmodified": 1602887840,
+    "wof:lastmodified": 1650564298,
     "wof:name": "“The light of Akari is like the light of the sun filtered through the paper of shoji...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,9 +75,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

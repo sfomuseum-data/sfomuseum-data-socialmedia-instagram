@@ -2,6 +2,10 @@
   "id": 1729356233,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2019-08-11",
+    "date:cessation_upper": "2019-08-11",
+    "date:inception_lower": "2019-08-11",
+    "date:inception_upper": "2019-08-11",
     "edtf:cessation": "2019-08-11T11:26:31-07:00",
     "edtf:inception": "2019-08-11T11:26:31-07:00",
     "geom:area": 0,
@@ -13,12 +17,12 @@
         "body": "According to Alejandro Durán, his “Washed Up” series “transforms the international debris washing up on Mexico’s Caribbean coast into aesthetic yet disquieting works.” Durán photographs the various waste he collects and makes into assemblages on site. “At times he distributes the objects the way the waves would; at other times, the plastic mimics algae, roots, rivers, or fruit, reflecting the infiltration of plastics into the natural environment.” More than surreal landscapes, Durán’s images serve as a reminder of the dire consequences of worldwide environmental pollution. “Washed Up” by Alejandro Durán is on display, pre-security in Terminal 3. ",
         "excerpt": "According to Alejandro Durán, his “Washed Up” series “transforms the international debris washing up on Mexico’s Caribbean coast into aesthetic yet disquieting works.”",
         "hashtags": [
-          "AlejandroDurán", 
-          "photography", 
-          "plastic", 
-          "mexico", 
-          "debris", 
-          "waste", 
+          "AlejandroDurán",
+          "photography",
+          "plastic",
+          "mexico",
+          "debris",
+          "waste",
           "assemblage"
         ],
         "users": []
@@ -26,18 +30,19 @@
       "location": "SFO Museum",
       "media_id": "9ac257160ff9f94e09067791d676d867",
       "path": "photos/201908/9ac257160ff9f94e09067791d676d867.jpg",
+      "perceptual_hash": "p:89a789cbe8f250f4",
       "taken": 1565547991,
       "taken_at": "2019-08-11T18:26:31+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -50,13 +55,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729356233,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729356233,
-    "wof:lastmodified": 1602887817,
+    "wof:lastmodified": 1650564264,
     "wof:name": "According to Alejandro Durán, his “Washed Up” series “transforms the international debris washing up on Mexico’s Caribbean coast into aesthetic yet disquieting works.”..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -65,9 +71,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

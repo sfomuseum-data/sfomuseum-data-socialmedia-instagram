@@ -2,6 +2,10 @@
   "id": 1729361647,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-08-03",
+    "date:cessation_upper": "2015-08-03",
+    "date:inception_lower": "2015-08-03",
+    "date:inception_upper": "2015-08-03",
     "edtf:cessation": "2015-08-03T11:22:15-07:00",
     "edtf:inception": "2015-08-03T11:22:15-07:00",
     "geom:area": 0,
@@ -13,9 +17,9 @@
         "body": "",
         "excerpt": "",
         "hashtags": [
-          "airportmuseum", 
-          "behindthescenes", 
-          "sneakpeak", 
+          "airportmuseum",
+          "behindthescenes",
+          "sneakpeak",
           "mingeifolkart"
         ],
         "users": [
@@ -25,18 +29,19 @@
       "location": "San Francisco International Airport (SFO)",
       "media_id": "6505da96e77093b965f68b0171d5efbe",
       "path": "photos/201508/6505da96e77093b965f68b0171d5efbe.jpg",
+      "perceptual_hash": "p:818b68d467c33c6f",
       "taken": 1438626135,
       "taken_at": "2015-08-03T18:22:15+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -49,13 +54,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729361647,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729361647,
-    "wof:lastmodified": 1602887883,
+    "wof:lastmodified": 1650564239,
     "wof:name": "..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -64,9 +70,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

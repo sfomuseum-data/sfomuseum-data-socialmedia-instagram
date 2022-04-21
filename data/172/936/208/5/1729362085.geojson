@@ -2,6 +2,10 @@
   "id": 1729362085,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-10-23",
+    "date:cessation_upper": "2014-10-23",
+    "date:inception_lower": "2014-10-23",
+    "date:inception_upper": "2014-10-23",
     "edtf:cessation": "2014-10-23T13:41:54-07:00",
     "edtf:inception": "2014-10-23T13:41:54-07:00",
     "geom:area": 0,
@@ -13,8 +17,8 @@
         "body": "",
         "excerpt": "",
         "hashtags": [
-          "throwbackthursday", 
-          "tbt", 
+          "throwbackthursday",
+          "tbt",
           "controltower"
         ],
         "users": [
@@ -24,18 +28,19 @@
       "location": "",
       "media_id": "544794476c1cd4fd2878086921011d1d",
       "path": "photos/201410/544794476c1cd4fd2878086921011d1d.jpg",
+      "perceptual_hash": "p:9cac4333ec32c56b",
       "taken": 1414096914,
       "taken_at": "2014-10-23T20:41:54+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -48,13 +53,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729362085,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729362085,
-    "wof:lastmodified": 1602887888,
+    "wof:lastmodified": 1650564250,
     "wof:name": "..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -63,9 +69,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

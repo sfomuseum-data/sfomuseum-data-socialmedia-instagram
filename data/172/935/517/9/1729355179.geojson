@@ -2,6 +2,10 @@
   "id": 1729355179,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-07-20",
+    "date:cessation_upper": "2020-07-20",
+    "date:inception_lower": "2020-07-20",
+    "date:inception_upper": "2020-07-20",
     "edtf:cessation": "2020-07-20T16:36:49-07:00",
     "edtf:inception": "2020-07-20T16:36:49-07:00",
     "geom:area": 0,
@@ -13,9 +17,9 @@
         "body": "This year marks the 150th anniversary of San Francisco’s Golden Gate Park. In partnership with the San Francisco Parks Alliance and the San Francisco Public Library, SFO Museum is proud to present an exhibition of historical photographs by photographer R.J. Waters that date to the early days of Golden Gate Park between 1896 and 1902.  See “Golden Gate Park” by R.J. Waters is online at https://bit.ly/GGP-150",
         "excerpt": "This year marks the 150th anniversary of San Francisco’s Golden Gate Park.",
         "hashtags": [
-          "MuseumFromHome", 
-          "GGP150", 
-          "SFHistory", 
+          "MuseumFromHome",
+          "GGP150",
+          "SFHistory",
           "RJWaters"
         ],
         "users": []
@@ -23,18 +27,19 @@
       "location": "",
       "media_id": "5f526448638e9587466a15e0e2fa1b86",
       "path": "photos/202007/5f526448638e9587466a15e0e2fa1b86.jpg",
+      "perceptual_hash": "p:918eee391b86e172",
       "taken": 1595288209,
       "taken_at": "2020-07-20T23:36:49+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -47,13 +52,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729355179,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729355179,
-    "wof:lastmodified": 1602887802,
+    "wof:lastmodified": 1650564238,
     "wof:name": "This year marks the 150th anniversary of San Francisco’s Golden Gate Park...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -62,9 +68,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

@@ -2,6 +2,10 @@
   "id": 1729356541,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2019-05-21",
+    "date:cessation_upper": "2019-05-21",
+    "date:inception_lower": "2019-05-21",
+    "date:inception_upper": "2019-05-21",
     "edtf:cessation": "2019-05-20T18:07:34-07:00",
     "edtf:inception": "2019-05-20T18:07:34-07:00",
     "geom:area": 0,
@@ -13,12 +17,12 @@
         "body": "#Onthisday in 1939, Pan American Airways established the first regular air mail service across the Atlantic. Passenger service followed a month later. The route included service from Port Washington, New York, to Marseilles, France, via the Azores and Lisbon, Portugal. The trip took around 36 hours of flying time for a complete total of 51 total hours with layovers. A round-trip ticket cost $675, equivalent to over $11,000 today.  Image: Pan American Airways, Boeing 314 “Dixie Clipper”, 1939. Gift of the Pan Am Association. 2000.058.0511.002",
         "excerpt": "#Onthisday in 1939, Pan American Airways established the first regular air mail service across the Atlantic.",
         "hashtags": [
-          "PanAmerican", 
-          "PAA", 
-          "Boeing", 
-          "Boeing314", 
-          "transatlantic", 
-          "airmail", 
+          "PanAmerican",
+          "PAA",
+          "Boeing",
+          "Boeing314",
+          "transatlantic",
+          "airmail",
           "aviationhistory"
         ],
         "users": []
@@ -26,18 +30,19 @@
       "location": "San Francisco International Airport (SFO)",
       "media_id": "fa4b4aa5786baf598cc6bc4a7eca97c8",
       "path": "photos/201905/fa4b4aa5786baf598cc6bc4a7eca97c8.jpg",
+      "perceptual_hash": "p:baddc60f861b3930",
       "taken": 1558400854,
       "taken_at": "2019-05-21T01:07:34+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -50,13 +55,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729356541,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729356541,
-    "wof:lastmodified": 1602887821,
+    "wof:lastmodified": 1650564350,
     "wof:name": "#Onthisday in 1939, Pan American Airways established the first regular air mail service across the Atlantic...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -65,9 +71,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

@@ -2,6 +2,10 @@
   "id": 1729361891,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-03-19",
+    "date:cessation_upper": "2015-03-19",
+    "date:inception_lower": "2015-03-19",
+    "date:inception_upper": "2015-03-19",
     "edtf:cessation": "2015-03-19T13:47:54-07:00",
     "edtf:inception": "2015-03-19T13:47:54-07:00",
     "geom:area": 0,
@@ -13,10 +17,10 @@
         "body": "",
         "excerpt": "",
         "hashtags": [
-          "TushanwanPagodas", 
-          "pagodas", 
-          "PPIE100", 
-          "SneakPeek", 
+          "TushanwanPagodas",
+          "pagodas",
+          "PPIE100",
+          "SneakPeek",
           "BehindTheScenes"
         ],
         "users": []
@@ -24,18 +28,19 @@
       "location": "",
       "media_id": "52599ba2bf2eaca40084f3e8b93fc6ef",
       "path": "photos/201503/52599ba2bf2eaca40084f3e8b93fc6ef.jpg",
+      "perceptual_hash": "p:84fd4f92706c5b1a",
       "taken": 1426798074,
       "taken_at": "2015-03-19T20:47:54+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -48,13 +53,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729361891,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729361891,
-    "wof:lastmodified": 1602887885,
+    "wof:lastmodified": 1650564341,
     "wof:name": "..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -63,9 +69,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

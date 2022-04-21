@@ -2,6 +2,10 @@
   "id": 1729359767,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-02-28",
+    "date:cessation_upper": "2017-02-28",
+    "date:inception_lower": "2017-02-28",
+    "date:inception_upper": "2017-02-28",
     "edtf:cessation": "2017-02-28T10:23:48-08:00",
     "edtf:inception": "2017-02-28T10:23:48-08:00",
     "geom:area": 0,
@@ -18,18 +22,19 @@
       "location": "SFO Museum",
       "media_id": "5f06eff2224bf1598b8077cd165edc05",
       "path": "photos/201702/5f06eff2224bf1598b8077cd165edc05.jpg",
+      "perceptual_hash": "p:eee07ac0593b263c",
       "taken": 1488306228,
       "taken_at": "2017-02-28T18:23:48+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -42,13 +47,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729359767,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729359767,
-    "wof:lastmodified": 1602887860,
+    "wof:lastmodified": 1650564323,
     "wof:name": "Pan American Airways' pioneering transpacific service is advertised in this brochure from 1940: \"Over pioneer aerial trade routes blazed by Lindbergh to the lands of the West Indies, Central and South America, high above the age-old routes of Columbus, Spanish conquistadores, swash-buckling pirateers, of clipper ships of another generation, great Flying Clipper Ships now speed along radio-guarded highways of the sky to thirty-three countries and colonies of the southern Americas...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -57,9 +63,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

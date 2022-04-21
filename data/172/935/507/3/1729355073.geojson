@@ -2,6 +2,10 @@
   "id": 1729355073,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-09-15",
+    "date:cessation_upper": "2020-09-15",
+    "date:inception_lower": "2020-09-15",
+    "date:inception_upper": "2020-09-15",
     "edtf:cessation": "2020-09-15T16:15:05-07:00",
     "edtf:inception": "2020-09-15T16:15:05-07:00",
     "geom:area": 0,
@@ -13,8 +17,8 @@
         "body": "On September 15, 1963, the South Terminal (now Harvey Milk Terminal 1) was dedicated at San Francisco International Airport. This was the Airport's first major addition since the Central Terminal (now Terminal 2) was completed in 1954. South Terminal further encircled the central parking area and began a pattern of growth that would continue at the airport for decades to come.  Image: San Francisco International Airport (SFO), dedication of South Terminal, 1963. SFO Museum Collection. 2011.032.0853",
         "excerpt": "On September 15, 1963, the South Terminal (now Harvey Milk Terminal 1) was dedicated at San Francisco International Airport.",
         "hashtags": [
-          "SFOHistory", 
-          "HarveyMilkTerminal1", 
+          "SFOHistory",
+          "HarveyMilkTerminal1",
           "MuseumFromHome"
         ],
         "users": []
@@ -22,18 +26,19 @@
       "location": "",
       "media_id": "3f0cb557ef11a4df990392e4c3d6a170",
       "path": "photos/202009/3f0cb557ef11a4df990392e4c3d6a170.jpg",
+      "perceptual_hash": "p:94e98adb354ad2a5",
       "taken": 1600211705,
       "taken_at": "2020-09-15T23:15:05+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -46,13 +51,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729355073,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729355073,
-    "wof:lastmodified": 1602887800,
+    "wof:lastmodified": 1650564234,
     "wof:name": "On September 15, 1963, the South Terminal (now Harvey Milk Terminal 1) was dedicated at San Francisco International Airport...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -61,9 +67,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

@@ -2,6 +2,10 @@
   "id": 1729357769,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-08-15",
+    "date:cessation_upper": "2018-08-15",
+    "date:inception_lower": "2018-08-15",
+    "date:inception_upper": "2018-08-15",
     "edtf:cessation": "2018-08-15T09:17:16-07:00",
     "edtf:inception": "2018-08-15T09:17:16-07:00",
     "geom:area": 0,
@@ -13,16 +17,16 @@
         "body": "#Onthiday in 1958, Pan American World Airways received their first Boeing 707. One of the greatest advances in commercial aviation was the successful introduction of jet airliners during the late 1950s. The Boeing 707 was the world’s first viable commercial jetliner and revolutionized the airline industry while effectively ushering in the jet age. Have you ever flown on a Boeing 707?  Image: Pan American World Airways, Boeing 707 postcard, 1958. Gift of Serge Mitt. 1993.01.086",
         "excerpt": "#Onthiday in 1958, Pan American World Airways received their first Boeing 707.",
         "hashtags": [
-          "Boeing", 
-          "Boeing707", 
-          "jetage", 
-          "jet", 
-          "aviation", 
-          "avgeek", 
-          "aviationgeek", 
-          "panam", 
-          "panamerican", 
-          "paa", 
+          "Boeing",
+          "Boeing707",
+          "jetage",
+          "jet",
+          "aviation",
+          "avgeek",
+          "aviationgeek",
+          "panam",
+          "panamerican",
+          "paa",
           "history"
         ],
         "users": []
@@ -30,18 +34,19 @@
       "location": "SFO Museum",
       "media_id": "3ad4dd398c1a18483df3f92b633a6ec6",
       "path": "photos/201808/3ad4dd398c1a18483df3f92b633a6ec6.jpg",
+      "perceptual_hash": "p:9de3de2ce380642e",
       "taken": 1534349836,
       "taken_at": "2018-08-15T16:17:16+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -54,13 +59,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729357769,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729357769,
-    "wof:lastmodified": 1602887836,
+    "wof:lastmodified": 1650564291,
     "wof:name": "#Onthiday in 1958, Pan American World Airways received their first Boeing 707...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,9 +75,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

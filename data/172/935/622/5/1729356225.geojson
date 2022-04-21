@@ -2,6 +2,10 @@
   "id": 1729356225,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2019-08-10",
+    "date:cessation_upper": "2019-08-10",
+    "date:inception_lower": "2019-08-10",
+    "date:inception_upper": "2019-08-10",
     "edtf:cessation": "2019-08-10T11:42:59-07:00",
     "edtf:inception": "2019-08-10T11:42:59-07:00",
     "geom:area": 0,
@@ -13,11 +17,11 @@
         "body": "Leonardo Drew’s work is a multi-layered installation spanning three walls. Comprised of hundreds of small sculptural components to create a massive galaxy, the installation is a cosmos whose collective parts can be identified as letters of an alphabet that create a narrative. The elements comprising the whole are remnants of past artworks, a recycling effort that is integral to Drew’s desire to never let anything go to waste. When juxtaposed in a new setting, this visual alphabet creates new words and new meanings.  The installation at San Francisco International Airport speaks to an enormous cross-section of people, carrying with them a multitude of life experiences and cultures.  See “Number 69S” by Leonardo Drew, on display, post security in Terminal 1. ",
         "excerpt": "Leonardo Drew’s work is a multi-layered installation spanning three walls.",
         "hashtags": [
-          "leonardodrew", 
-          "installationart", 
-          "sculpture", 
-          "publicart", 
-          "recycling", 
+          "leonardodrew",
+          "installationart",
+          "sculpture",
+          "publicart",
+          "recycling",
           "galaxy"
         ],
         "users": []
@@ -25,18 +29,19 @@
       "location": "San Francisco International Airport",
       "media_id": "effcaa4ce45b373446ee5c2c68f4d071",
       "path": "photos/201908/effcaa4ce45b373446ee5c2c68f4d071.jpg",
+      "perceptual_hash": "p:fee2c13dcf0222c5",
       "taken": 1565462579,
       "taken_at": "2019-08-10T18:42:59+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -49,13 +54,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729356225,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729356225,
-    "wof:lastmodified": 1602887817,
+    "wof:lastmodified": 1650564264,
     "wof:name": "Leonardo Drew’s work is a multi-layered installation spanning three walls...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -64,9 +70,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

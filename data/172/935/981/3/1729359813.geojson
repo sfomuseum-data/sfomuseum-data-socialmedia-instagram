@@ -2,6 +2,10 @@
   "id": 1729359813,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-02-14",
+    "date:cessation_upper": "2017-02-14",
+    "date:inception_lower": "2017-02-14",
+    "date:inception_upper": "2017-02-14",
     "edtf:cessation": "2017-02-13T19:26:26-08:00",
     "edtf:inception": "2017-02-13T19:26:26-08:00",
     "geom:area": 0,
@@ -13,10 +17,10 @@
         "body": "The Arch of Constantine spans the route taken by triumphant emperors returning from battle to Rome. The monument commemorates the victory by Constantine I over rival Maxentius in 312 CE after God allegedly promised the emperor’s soldiers victory if the sign of the cross was made on their shields. The Arch of Constantine was constructed with spolia—the remains of earlier buildings.",
         "excerpt": "The Arch of Constantine spans the route taken by triumphant emperors returning from battle to Rome.",
         "hashtags": [
-          "Rome:", 
-          "Piraneseum\",", 
-          "AllRoadsRome", 
-          "GrandTour", 
+          "Rome:",
+          "Piraneseum\",",
+          "AllRoadsRome",
+          "GrandTour",
           "Italy"
         ],
         "users": []
@@ -24,18 +28,19 @@
       "location": "San Francisco International Airport (SFO)",
       "media_id": "8cf951906d9bcc63680e750a18e0af28",
       "path": "photos/201702/8cf951906d9bcc63680e750a18e0af28.jpg",
+      "perceptual_hash": "p:ad06126d7c9b69cc",
       "taken": 1487042786,
       "taken_at": "2017-02-14T03:26:26+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -48,13 +53,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729359813,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729359813,
-    "wof:lastmodified": 1602887861,
+    "wof:lastmodified": 1650564323,
     "wof:name": "The Arch of Constantine spans the route taken by triumphant emperors returning from battle to Rome...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -63,9 +69,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

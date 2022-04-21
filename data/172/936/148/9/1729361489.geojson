@@ -2,6 +2,10 @@
   "id": 1729361489,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-10-02",
+    "date:cessation_upper": "2015-10-02",
+    "date:inception_lower": "2015-10-02",
+    "date:inception_upper": "2015-10-02",
     "edtf:cessation": "2015-10-01T20:53:20-07:00",
     "edtf:inception": "2015-10-01T20:53:20-07:00",
     "geom:area": 0,
@@ -13,7 +17,7 @@
         "body": "",
         "excerpt": "",
         "hashtags": [
-          "TBT", 
+          "TBT",
           "ThrowbackThursday"
         ],
         "users": []
@@ -21,18 +25,19 @@
       "location": "SFO Museum",
       "media_id": "112a4c4899362e7dd31d09379f7bac42",
       "path": "photos/201510/112a4c4899362e7dd31d09379f7bac42.jpg",
+      "perceptual_hash": "p:aa2ad5d42d85d6d8",
       "taken": 1443758000,
       "taken_at": "2015-10-02T03:53:20+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -45,13 +50,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729361489,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729361489,
-    "wof:lastmodified": 1602887881,
+    "wof:lastmodified": 1650564235,
     "wof:name": "..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -60,9 +66,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

@@ -2,6 +2,10 @@
   "id": 1729357061,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2019-01-22",
+    "date:cessation_upper": "2019-01-22",
+    "date:inception_lower": "2019-01-22",
+    "date:inception_upper": "2019-01-22",
     "edtf:cessation": "2019-01-22T12:31:58-08:00",
     "edtf:inception": "2019-01-22T12:31:58-08:00",
     "geom:area": 0,
@@ -13,9 +17,9 @@
         "body": "On October 1, 1988, the newly reformed and privatized airline Aeromexico commenced operations. The airline was originally founded in 1934 as Aeronaves de Mexico by Antonio Díaz Lombardo. During the 1970s, it was nationalized. However, by the 1988, the carrier was declared bankrupt and a new privatized parent company, Aerovías de México, S.A. de C.V., was formed. Aeromexico is currently the flag carrier of Mexico, and based in Mexico City. The airline flies to over 100 cities world wide. Their emblem, the Eagle Knight, is an important figure from Mexico's indigenous heritage. Have you ever flown on Aeromexico?  Image: AeroMexico, McDonnell Douglas DC-10 postcard, 1970s-1980. Gift of Thomas G. Dragges. 2015.166.0097 ",
         "excerpt": "On October 1, 1988, the newly reformed and privatized airline Aeromexico commenced operations.",
         "hashtags": [
-          "TravelTuesday", 
-          "avgeek", 
-          "aeromexico", 
+          "TravelTuesday",
+          "avgeek",
+          "aeromexico",
           "mexico"
         ],
         "users": []
@@ -23,18 +27,19 @@
       "location": "SFO Museum",
       "media_id": "b54404fcde6018adb8a81a9aa1041b0e",
       "path": "photos/201901/b54404fcde6018adb8a81a9aa1041b0e.jpg",
+      "perceptual_hash": "p:eac48d0a9f1cf03d",
       "taken": 1548189118,
       "taken_at": "2019-01-22T20:31:58+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -47,13 +52,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729357061,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729357061,
-    "wof:lastmodified": 1602887828,
+    "wof:lastmodified": 1650564354,
     "wof:name": "On October 1, 1988, the newly reformed and privatized airline Aeromexico commenced operations...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -62,9 +68,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

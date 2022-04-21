@@ -2,6 +2,10 @@
   "id": 1729361433,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-10-22",
+    "date:cessation_upper": "2015-10-22",
+    "date:inception_lower": "2015-10-22",
+    "date:inception_upper": "2015-10-22",
     "edtf:cessation": "2015-10-22T09:23:58-07:00",
     "edtf:inception": "2015-10-22T09:23:58-07:00",
     "geom:area": 0,
@@ -18,18 +22,19 @@
       "location": "San Francisco International Airport (SFO)",
       "media_id": "9df0758e2e0b5f0e5a704966d307531f",
       "path": "photos/201510/9df0758e2e0b5f0e5a704966d307531f.jpg",
+      "perceptual_hash": "p:d7ca75c15a73d208",
       "taken": 1445531038,
       "taken_at": "2015-10-22T16:23:58+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -42,13 +47,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729361433,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729361433,
-    "wof:lastmodified": 1602887880,
+    "wof:lastmodified": 1650564231,
     "wof:name": "Within the aircraft model making community, Edward Chavez is a recognized master...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -57,9 +63,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

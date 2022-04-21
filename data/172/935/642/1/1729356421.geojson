@@ -2,6 +2,10 @@
   "id": 1729356421,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2019-06-18",
+    "date:cessation_upper": "2019-06-18",
+    "date:inception_lower": "2019-06-18",
+    "date:inception_upper": "2019-06-18",
     "edtf:cessation": "2019-06-17T17:09:52-07:00",
     "edtf:inception": "2019-06-17T17:09:52-07:00",
     "geom:area": 0,
@@ -13,13 +17,13 @@
         "body": "What’s happening at the museum? Our photography curator is mocking up the final layout of our upcoming photo exhibition surveying the life and legacy of Harvey Milk. The exhibition will encompass a 400-foot long temporary construction wall featuring approximately 100 images, including photographs sourced from the public. The photos will be printed onto metal for long term display as the exhibition will be on view until 2021. We received small proof of every photo in the same material used in the final production.  Stay tuned for more behind the scenes from “Harvey Milk: Messenger of Hope” opening soon in Harvey Milk Terminal 1",
         "excerpt": "What’s happening at the museum?",
         "hashtags": [
-          "behindthescenes", 
-          "sneakpeek", 
-          "harveymilk", 
-          "pride", 
-          "pride2019", 
-          "pridemonth", 
-          "SFOHistory", 
+          "behindthescenes",
+          "sneakpeek",
+          "harveymilk",
+          "pride",
+          "pride2019",
+          "pridemonth",
+          "SFOHistory",
           "museummonday"
         ],
         "users": []
@@ -27,18 +31,19 @@
       "location": "San Francisco International Airport (SFO)",
       "media_id": "1ae829c32b37d262338253f6d1f43dac",
       "path": "photos/201906/1ae829c32b37d262338253f6d1f43dac.jpg",
+      "perceptual_hash": "p:802d7ef2a586ef0c",
       "taken": 1560816592,
       "taken_at": "2019-06-18T00:09:52+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -51,13 +56,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729356421,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729356421,
-    "wof:lastmodified": 1602887820,
+    "wof:lastmodified": 1650564349,
     "wof:name": "What’s happening at the museum?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -66,9 +72,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

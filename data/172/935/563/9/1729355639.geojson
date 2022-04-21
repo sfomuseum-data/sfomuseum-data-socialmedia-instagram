@@ -2,6 +2,10 @@
   "id": 1729355639,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-01-23",
+    "date:cessation_upper": "2020-01-23",
+    "date:inception_lower": "2020-01-23",
+    "date:inception_upper": "2020-01-23",
     "edtf:cessation": "2020-01-22T17:56:51-08:00",
     "edtf:inception": "2020-01-22T17:56:51-08:00",
     "geom:area": 0,
@@ -13,12 +17,12 @@
         "body": "In 1961, about an hour north of Washington, D.C., a construction crew prepared to demolish a historic home in Thurmont, Maryland. A set of “Views of North America” created by Zuber et Zie remained on its walls. An employee at the Smithsonian, who was aware of First Lady Jacqueline Kennedy’s initiative to refurbish the Diplomatic Reception Room with a historic American theme, contacted the White House about the paper set. The National Society of Interior Designers, who were assisting the First Lady in her efforts, purchased the paper for $12,500 and donated it to the White House. Technicians then conserved the wallpaper before a small staff worked for several weeks on the installation. The famous wallpaper remains on the walls of the Diplomatic Reception Room today. “Zuber: The Art of French Scenic Wallpaper” is on display, pre-security in the International Terminal. http://bit.ly/ZuberScenicWallpaper",
         "excerpt": "In 1961, about an hour north of Washington, D.C., a construction crew prepared to demolish a historic home in Thurmont, Maryland.",
         "hashtags": [
-          "ZuberScenicWallpaper", 
-          "wallpaper", 
-          "zuber", 
-          "scenicwallpaper", 
-          "interiordesign", 
-          "museum", 
+          "ZuberScenicWallpaper",
+          "wallpaper",
+          "zuber",
+          "scenicwallpaper",
+          "interiordesign",
+          "museum",
           "design"
         ],
         "users": [
@@ -28,18 +32,19 @@
       "location": "",
       "media_id": "1f8f9b5a68fb351252737b4c316aeb2d",
       "path": "photos/202001/1f8f9b5a68fb351252737b4c316aeb2d.jpg",
+      "perceptual_hash": "p:c1fc9d8378638596",
       "taken": 1579744611,
       "taken_at": "2020-01-23T01:56:51+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -52,13 +57,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729355639,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729355639,
-    "wof:lastmodified": 1602887809,
+    "wof:lastmodified": 1650564249,
     "wof:name": "In 1961, about an hour north of Washington, D.C., a construction crew prepared to demolish a historic home in Thurmont, Maryland...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -67,9 +73,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

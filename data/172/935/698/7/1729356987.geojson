@@ -2,6 +2,10 @@
   "id": 1729356987,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2019-02-07",
+    "date:cessation_upper": "2019-02-07",
+    "date:inception_lower": "2019-02-07",
+    "date:inception_upper": "2019-02-07",
     "edtf:cessation": "2019-02-06T18:36:26-08:00",
     "edtf:inception": "2019-02-06T18:36:26-08:00",
     "geom:area": 0,
@@ -13,7 +17,7 @@
         "body": "This rare view of the United Air Lines Ticket Office in downtown San Francisco is from circa 1933. In the early 1930s, only one class of service was offered. Everyone paid the same fare but got a 10% discount for round trip tickets. Behind the counter at the right is Steve Stimpson, United’s district manager who hired Ellen Church, world’s first female flight attendant. Do you remember purchasing flight tickets at a ticket office?  Image: United Air Lines San Francisco ticket office, c. 1933. Gift of United Airlines Archives. 1999.047.239",
         "excerpt": "This rare view of the United Air Lines Ticket Office in downtown San Francisco is from circa 1933.",
         "hashtags": [
-          "WomenInAviation", 
+          "WomenInAviation",
           "avgeek"
         ],
         "users": []
@@ -21,18 +25,19 @@
       "location": "SFO Museum",
       "media_id": "d41af99ec7753423a42917d8467ecb33",
       "path": "photos/201902/d41af99ec7753423a42917d8467ecb33.jpg",
+      "perceptual_hash": "p:f9b63a596564a44a",
       "taken": 1549506986,
       "taken_at": "2019-02-07T02:36:26+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -45,13 +50,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729356987,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729356987,
-    "wof:lastmodified": 1602887827,
+    "wof:lastmodified": 1650564280,
     "wof:name": "This rare view of the United Air Lines Ticket Office in downtown San Francisco is from circa 1933...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -60,9 +66,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

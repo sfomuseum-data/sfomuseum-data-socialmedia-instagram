@@ -2,6 +2,10 @@
   "id": 1729355165,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-07-30",
+    "date:cessation_upper": "2020-07-30",
+    "date:inception_lower": "2020-07-30",
+    "date:inception_upper": "2020-07-30",
     "edtf:cessation": "2020-07-30T13:25:05-07:00",
     "edtf:inception": "2020-07-30T13:25:05-07:00",
     "geom:area": 0,
@@ -13,9 +17,9 @@
         "body": "Now a staple of airports around the world, the enclosed passenger boarding bridge arrived in the late 1950s with the introduction of jet aircraft. Before the jet bridge, passengers would board planes from the ground level using rolling stairs regardless of the heat, rain, snow, or wind on the airfield. With jet bridges, passengers could enjoy the luxury of direct terminal-to-airplane boarding, thus avoiding the elements. An experimental, fully enclosed and retractable passenger loading bridge, installed at SFO in 1959 for American Airlines, was one of the earliest jet bridges in the world.   Image: San Francisco International Airport (SFO), Concourse E. American Airlines Boeing 707 and DC-7 and early air bridge, 1960. SFO Museum Collection. 1997.52.068.001 a",
         "excerpt": "Now a staple of airports around the world, the enclosed passenger boarding bridge arrived in the late 1950s with the introduction of jet aircraft.",
         "hashtags": [
-          "SFOHistory", 
-          "SFO", 
-          "avgeek", 
+          "SFOHistory",
+          "SFO",
+          "avgeek",
           "MuseumFromHome"
         ],
         "users": []
@@ -23,18 +27,19 @@
       "location": "",
       "media_id": "9c5a386ddca60d51627ed5791eae378d",
       "path": "photos/202007/9c5a386ddca60d51627ed5791eae378d.jpg",
+      "perceptual_hash": "p:bbc0847ad980b47f",
       "taken": 1596140705,
       "taken_at": "2020-07-30T20:25:05+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -47,13 +52,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729355165,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729355165,
-    "wof:lastmodified": 1602887801,
+    "wof:lastmodified": 1650564237,
     "wof:name": "Now a staple of airports around the world, the enclosed passenger boarding bridge arrived in the late 1950s with the introduction of jet aircraft...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -62,9 +68,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

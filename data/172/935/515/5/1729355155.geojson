@@ -2,6 +2,10 @@
   "id": 1729355155,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-08-11",
+    "date:cessation_upper": "2020-08-11",
+    "date:inception_lower": "2020-08-11",
+    "date:inception_upper": "2020-08-11",
     "edtf:cessation": "2020-08-11T14:22:55-07:00",
     "edtf:inception": "2020-08-11T14:22:55-07:00",
     "geom:area": 0,
@@ -13,8 +17,8 @@
         "body": "When Natalya Burd was in her last year in high school, she took a train ride with her father from their home in Bishkek, Kyrgyzstan, to Moscow, Russia. There, the artist would compete for a scholarship to attend a university level art school. Over the course of their 2,000-mile, four-day journey, Burd remembers seeing varied landscapes whiz by in cinematic fashion—from the sculpted mountain ranges of her homeland to the vast forests of Russia and the dusty roadsides along the way. That journey would have a major impact on Burd and her artistic practice for years to come. “So much more than this” is an example of a work inspired by this journey.  “So much more than this” by #NatalyaBurd is online at: https://bit.ly/3i8vEI9",
         "excerpt": "When Natalya Burd was in her last year in high school, she took a train ride with her father from their home in Bishkek, Kyrgyzstan, to Moscow, Russia.",
         "hashtags": [
-          "SFAC", 
-          "MuseumFromHome", 
+          "SFAC",
+          "MuseumFromHome",
           "publicart"
         ],
         "users": [
@@ -24,18 +28,19 @@
       "location": "",
       "media_id": "06d85bd93276afd789d4579920a47694",
       "path": "photos/202008/06d85bd93276afd789d4579920a47694.jpg",
+      "perceptual_hash": "p:f1ad88729f5cd025",
       "taken": 1597180975,
       "taken_at": "2020-08-11T21:22:55+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -48,13 +53,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729355155,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729355155,
-    "wof:lastmodified": 1602887801,
+    "wof:lastmodified": 1650564237,
     "wof:name": "When Natalya Burd was in her last year in high school, she took a train ride with her father from their home in Bishkek, Kyrgyzstan, to Moscow, Russia...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -63,9 +69,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

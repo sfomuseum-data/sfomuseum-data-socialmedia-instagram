@@ -2,6 +2,10 @@
   "id": 1729359951,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-01-01",
+    "date:cessation_upper": "2017-01-01",
+    "date:inception_lower": "2017-01-01",
+    "date:inception_upper": "2017-01-01",
     "edtf:cessation": "2016-12-31T17:02:00-08:00",
     "edtf:inception": "2016-12-31T17:02:00-08:00",
     "geom:area": 0,
@@ -13,12 +17,12 @@
         "body": "Alex Ramos is a San Francisco Bay Area photographer with a deeply rooted passion for railroading. As a child, the Berkeley native was fascinated by the late-night passage of Amtrak’s Coast Starlight as it raced by his home towards Seattle. Before long, weekend ventures to the California State Railroad Museum led to road trips across the state, “to track down two-mile-long, 3,000-ton steel snakes easing their way through the landscape.” Ramos captures the technical might and nostalgia of train travel with his camera. In Railroads, he explores the sights, sounds, and force of the modern railroad in American landscapes.  See \"Railroads\" by @alexramosphoto , pre-security, on the departures level of Terminal 2. http://bit.ly/2gKux18",
         "excerpt": "Alex Ramos is a San Francisco Bay Area photographer with a deeply rooted passion for railroading.",
         "hashtags": [
-          "Railroads", 
-          "AlexRamos", 
-          "Amtrack", 
-          "trains", 
-          "airportart", 
-          "photography", 
+          "Railroads",
+          "AlexRamos",
+          "Amtrack",
+          "trains",
+          "airportart",
+          "photography",
           "fineart"
         ],
         "users": []
@@ -26,18 +30,19 @@
       "location": "San Francisco International Airport (SFO)",
       "media_id": "2ce6346aa1757f97e1efd5c2f2bc71ad",
       "path": "photos/201612/2ce6346aa1757f97e1efd5c2f2bc71ad.jpg",
+      "perceptual_hash": "p:c7997ac33c6385b0",
       "taken": 1483232520,
       "taken_at": "2017-01-01T01:02:00+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -50,13 +55,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729359951,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729359951,
-    "wof:lastmodified": 1602887862,
+    "wof:lastmodified": 1650564367,
     "wof:name": "Alex Ramos is a San Francisco Bay Area photographer with a deeply rooted passion for railroading...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -65,9 +71,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

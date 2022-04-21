@@ -2,6 +2,10 @@
   "id": 1729361307,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-12-04",
+    "date:cessation_upper": "2015-12-04",
+    "date:inception_lower": "2015-12-04",
+    "date:inception_upper": "2015-12-04",
     "edtf:cessation": "2015-12-03T20:36:02-08:00",
     "edtf:inception": "2015-12-03T20:36:02-08:00",
     "geom:area": 0,
@@ -18,18 +22,19 @@
       "location": "San Francisco International Airport (SFO)",
       "media_id": "ffbed44aa44be05aa688a2f2979e3c3c",
       "path": "photos/201512/ffbed44aa44be05aa688a2f2979e3c3c.jpg",
+      "perceptual_hash": "p:98a4d4f9b6c8b21d",
       "taken": 1449203762,
       "taken_at": "2015-12-04T04:36:02+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -42,13 +47,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729361307,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729361307,
-    "wof:lastmodified": 1602887879,
+    "wof:lastmodified": 1650564229,
     "wof:name": "The modern-day Coast Guard was formed In 1915 by merging the U.S. Life Saving Service with the Revenue Cutter Service and placing it under the Department of the Treasury...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -57,9 +63,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

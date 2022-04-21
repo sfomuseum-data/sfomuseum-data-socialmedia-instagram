@@ -2,6 +2,10 @@
   "id": 1729360515,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2016-07-18",
+    "date:cessation_upper": "2016-07-18",
+    "date:inception_lower": "2016-07-18",
+    "date:inception_upper": "2016-07-18",
     "edtf:cessation": "2016-07-18T11:19:35-07:00",
     "edtf:inception": "2016-07-18T11:19:35-07:00",
     "geom:area": 0,
@@ -18,18 +22,19 @@
       "location": "SFO Museum",
       "media_id": "9553eda000f3e32aa4d66f65bb3fecb7",
       "path": "photos/201607/9553eda000f3e32aa4d66f65bb3fecb7.jpg",
+      "perceptual_hash": "p:fe878f78a51e8248",
       "taken": 1468865975,
       "taken_at": "2016-07-18T18:19:35+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -42,13 +47,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729360515,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729360515,
-    "wof:lastmodified": 1602887869,
+    "wof:lastmodified": 1650564330,
     "wof:name": "In the 1960s, Pan American offered in flight entertainment for children in the form of Children's Tell-a-Tale jet flight story books...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -57,9 +63,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

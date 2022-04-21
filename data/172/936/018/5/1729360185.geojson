@@ -2,6 +2,10 @@
   "id": 1729360185,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2016-10-27",
+    "date:cessation_upper": "2016-10-27",
+    "date:inception_lower": "2016-10-27",
+    "date:inception_upper": "2016-10-27",
     "edtf:cessation": "2016-10-26T18:25:49-07:00",
     "edtf:inception": "2016-10-26T18:25:49-07:00",
     "geom:area": 0,
@@ -13,7 +17,7 @@
         "body": "Recognizing the progress Pan American was making in building its Pacific route while simultaneously conducting survey flights with its Sikorsky S-42 to Hawai’i, Midway, Wake, and Guam, the U.S. Post Office Department issued a call for bids for airmail service to the Far East on August 13, 1935. Government airmail contracts were vital to the economic viability of airlines and airmail service almost always preceded passenger service. Pan American was awarded the contract on October 24th. The first regularly scheduled flight on November 22, 1935, carried only airmail. At the inaugural ceremony at Alameda, California, Governor Frank L. Merriam declared it “Pan American Airways Day.” Postmaster General James A. Farley added a personal greeting from President Franklin D. Roosevelt to the Philippines President Manuel L. Quezón to the 110,865 letters that were loaded aboard the China Clipper.",
         "excerpt": "Recognizing the progress Pan American was making in building its Pacific route while simultaneously conducting survey flights with its Sikorsky S-42 to Hawai’i, Midway, Wake, and Guam, the U.S. Post Office Department issued a call for bids for airmail service to the Far East on August 13, 1935.",
         "hashtags": [
-          "ChinaClipper", 
+          "ChinaClipper",
           "aviationhistory"
         ],
         "users": []
@@ -21,18 +25,19 @@
       "location": "SFO Museum",
       "media_id": "4e859e2e5bebc6da8553a227db64f703",
       "path": "photos/201610/4e859e2e5bebc6da8553a227db64f703.jpg",
+      "perceptual_hash": "p:9b08e5b5ba43c53c",
       "taken": 1477531549,
       "taken_at": "2016-10-27T01:25:49+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -45,13 +50,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729360185,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729360185,
-    "wof:lastmodified": 1602887865,
+    "wof:lastmodified": 1650564274,
     "wof:name": "Recognizing the progress Pan American was making in building its Pacific route while simultaneously conducting survey flights with its Sikorsky S-42 to Hawai’i, Midway, Wake, and Guam, the U.S. Post Office Department issued a call for bids for airmail service to the Far East on August 13, 1935...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -60,9 +66,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

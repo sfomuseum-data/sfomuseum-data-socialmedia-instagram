@@ -2,6 +2,10 @@
   "id": 1729362387,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-02-26",
+    "date:cessation_upper": "2014-02-26",
+    "date:inception_lower": "2014-02-26",
+    "date:inception_upper": "2014-02-26",
     "edtf:cessation": "2014-02-25T16:15:56-08:00",
     "edtf:inception": "2014-02-25T16:15:56-08:00",
     "geom:area": 0,
@@ -13,8 +17,8 @@
         "body": "",
         "excerpt": "",
         "hashtags": [
-          "JapaneseToys", 
-          "folkart", 
+          "JapaneseToys",
+          "folkart",
           "toys"
         ],
         "users": []
@@ -22,18 +26,19 @@
       "location": "",
       "media_id": "1bda976c412387f2e95647781dfe74a3",
       "path": "photos/201402/1bda976c412387f2e95647781dfe74a3.jpg",
+      "perceptual_hash": "p:84513b266eab58be",
       "taken": 1393373756,
       "taken_at": "2014-02-26T00:15:56+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -46,13 +51,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729362387,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729362387,
-    "wof:lastmodified": 1602887891,
+    "wof:lastmodified": 1650564258,
     "wof:name": "..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -61,9 +67,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

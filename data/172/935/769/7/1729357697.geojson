@@ -2,6 +2,10 @@
   "id": 1729357697,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-09-09",
+    "date:cessation_upper": "2018-09-09",
+    "date:inception_lower": "2018-09-09",
+    "date:inception_upper": "2018-09-09",
     "edtf:cessation": "2018-09-09T12:03:24-07:00",
     "edtf:inception": "2018-09-09T12:03:24-07:00",
     "geom:area": 0,
@@ -18,18 +22,19 @@
       "location": "San Francisco International Airport (SFO)",
       "media_id": "8b3a54d31bf7c62c0a9ce52ae75b924a",
       "path": "photos/201809/8b3a54d31bf7c62c0a9ce52ae75b924a.jpg",
+      "perceptual_hash": "p:912a6ed4c835d763",
       "taken": 1536519804,
       "taken_at": "2018-09-09T19:03:24+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -42,13 +47,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729357697,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729357697,
-    "wof:lastmodified": 1602887835,
+    "wof:lastmodified": 1650564290,
     "wof:name": "What's going on in the museum?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -57,9 +63,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

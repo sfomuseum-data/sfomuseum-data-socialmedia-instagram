@@ -2,6 +2,10 @@
   "id": 1729355673,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-01-15",
+    "date:cessation_upper": "2020-01-15",
+    "date:inception_lower": "2020-01-15",
+    "date:inception_upper": "2020-01-15",
     "edtf:cessation": "2020-01-15T13:38:01-08:00",
     "edtf:inception": "2020-01-15T13:38:01-08:00",
     "geom:area": 0,
@@ -13,10 +17,10 @@
         "body": "Harvey Bernard Milk (1930–78) was a visionary human rights leader, a groundbreaking political luminary, and a seminal figure of the LGBTQ rights movement. Did you know Harvey Milk ran for the San Francisco City and County Board of Supervisors twice before he won? Milk first announced his candidacy for the SF Board of Supervisors in 1973 on a platform advocating gay and lesbian rights, individual freedom, and economic reform. Although the grassroots campaign was defeated, Milk proudly stated, “Win or not, the fact that we’re willing to wage a hard, uphill fight for what we feel is right will provide help and courage to others.” He did not win his bid for the 1973 election or the 1975 election, but as they say, third time's the charm. Harvey Milk won the 1977 elections to become the first openly gay elected official in California. Milk’s watershed 1977 victory made national and international headlines and served as a triumphant milestone for the LGBTQ community.  See “Harvey Milk: Messenger of Hope” on display, post-security, in Terminal 1. http://bit.ly/HarveyMilkExhibition",
         "excerpt": "Harvey Bernard Milk (1930–78) was a visionary human rights leader, a groundbreaking political luminary, and a seminal figure of the LGBTQ rights movement.",
         "hashtags": [
-          "HarveyMilk", 
-          "HarveyMilkExhibition", 
-          "LGBTQ", 
-          "LGBTQrights", 
+          "HarveyMilk",
+          "HarveyMilkExhibition",
+          "LGBTQ",
+          "LGBTQrights",
           "SFHistory"
         ],
         "users": []
@@ -24,18 +28,19 @@
       "location": "",
       "media_id": "005b875fc92846ce37b2e7c49456c41e",
       "path": "photos/202001/005b875fc92846ce37b2e7c49456c41e.jpg",
+      "perceptual_hash": "p:cfcf933ca46033a1",
       "taken": 1579124281,
       "taken_at": "2020-01-15T21:38:01+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -48,13 +53,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729355673,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729355673,
-    "wof:lastmodified": 1602887809,
+    "wof:lastmodified": 1650564250,
     "wof:name": "Harvey Bernard Milk (1930–78) was a visionary human rights leader, a groundbreaking political luminary, and a seminal figure of the LGBTQ rights movement...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -63,9 +69,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

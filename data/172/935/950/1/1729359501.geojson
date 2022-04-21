@@ -2,6 +2,10 @@
   "id": 1729359501,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-05-16",
+    "date:cessation_upper": "2017-05-16",
+    "date:inception_lower": "2017-05-16",
+    "date:inception_upper": "2017-05-16",
     "edtf:cessation": "2017-05-16T11:19:35-07:00",
     "edtf:inception": "2017-05-16T11:19:35-07:00",
     "geom:area": 0,
@@ -13,12 +17,12 @@
         "body": "What does it take to fly an airplane? A lot! SAS shows us the interior of a 747 cockpit feature a multitude of buttons, knobs, and other aircraft controls, which are one group of components out of many that make flight possible.  Image: SAS (Scandinavian Airlines System) poster, Boeing 747, 1979. Gift of the William Hough Collection. 2005.133.063",
         "excerpt": "What does it take to fly an airplane?",
         "hashtags": [
-          "Boeing", 
-          "boeing747", 
-          "747", 
-          "SAS", 
-          "avgeek", 
-          "ScandinavianAirlinesSystem", 
+          "Boeing",
+          "boeing747",
+          "747",
+          "SAS",
+          "avgeek",
+          "ScandinavianAirlinesSystem",
           "Scandinavia"
         ],
         "users": []
@@ -26,18 +30,19 @@
       "location": "SFO Museum",
       "media_id": "9ed22c7f6a2dc5160376d32e73aa1e0d",
       "path": "photos/201705/9ed22c7f6a2dc5160376d32e73aa1e0d.jpg",
+      "perceptual_hash": "p:8aad3c6ac291575d",
       "taken": 1494958775,
       "taken_at": "2017-05-16T18:19:35+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -50,13 +55,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729359501,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729359501,
-    "wof:lastmodified": 1602887856,
+    "wof:lastmodified": 1650564366,
     "wof:name": "What does it take to fly an airplane?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -65,9 +71,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

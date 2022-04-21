@@ -2,6 +2,10 @@
   "id": 1729355169,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-07-24",
+    "date:cessation_upper": "2020-07-24",
+    "date:inception_lower": "2020-07-24",
+    "date:inception_upper": "2020-07-24",
     "edtf:cessation": "2020-07-24T15:57:14-07:00",
     "edtf:inception": "2020-07-24T15:57:14-07:00",
     "geom:area": 0,
@@ -13,9 +17,9 @@
         "body": "Cable cars are one of San Francisco's best known landmarks and have been featured on a wide variety of promotional items, especially those related to travel. Did you know San Francisco's cable cars date back to 1873? The cable car system was originally constructed to create a better way of moving people and things up San Francisco's steep hills instead of using literal horsepower. The cars grip wire cables running beneath the street, causing them to move with the cables. To stop the car, the operator releases the cable and puts on the brakes. An operator for the cable is called a gripman; there have only been three women grip operators to date. Only three of the original twenty-three lines established between 1873 to 1890 are still running: the Powell-Mason, Powell-Hyde, and California lines. The cables under each line all run to a central power house and cable car barn located at the corner of Washington and Mason street, which is also home to the Cable Car Museum. Have you ever ridden on a cable car?  Image: United Air Lines ticket jacket, 1974. Gift of Thomas G. Dragges. 2011.051.329",
         "excerpt": "Cable cars are one of San Francisco's best known landmarks and have been featured on a wide variety of promotional items, especially those related to travel.",
         "hashtags": [
-          "united", 
-          "avgeek", 
-          "MuseumFromHome", 
+          "united",
+          "avgeek",
+          "MuseumFromHome",
           "SFHistory"
         ],
         "users": []
@@ -23,18 +27,19 @@
       "location": "SFO Museum",
       "media_id": "bfa78f84883efdb94495b47926ec562f",
       "path": "photos/202007/bfa78f84883efdb94495b47926ec562f.jpg",
+      "perceptual_hash": "p:b19acf389e3286c6",
       "taken": 1595631434,
       "taken_at": "2020-07-24T22:57:14+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -47,13 +52,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729355169,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729355169,
-    "wof:lastmodified": 1602887802,
+    "wof:lastmodified": 1650564238,
     "wof:name": "Cable cars are one of San Francisco's best known landmarks and have been featured on a wide variety of promotional items, especially those related to travel...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -62,9 +68,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

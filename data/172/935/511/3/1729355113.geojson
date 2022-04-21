@@ -2,6 +2,10 @@
   "id": 1729355113,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-08-21",
+    "date:cessation_upper": "2020-08-21",
+    "date:inception_lower": "2020-08-21",
+    "date:inception_upper": "2020-08-21",
     "edtf:cessation": "2020-08-21T16:35:05-07:00",
     "edtf:inception": "2020-08-21T16:35:05-07:00",
     "geom:area": 0,
@@ -13,8 +17,8 @@
         "body": "Our newest blog post is up! \"From Evelyn with Love\" features the story of one of our beloved volunteers, Evelyn David, who has generously donated her career history to SFO Museum. Evelyn worked for Pan American World Airways, beginning her career as a stewardess in 1949. She advanced to become a purser and an in-flight service director, and she remained with Pan Am until their final month of operation in 1991. Over her four decade career, she traveled to more than 50 countries on six continents. Thanks to her extensive documentation and meticulous record keeping, we can easily follow her journey over more than forty years of service.   Read more about her on our blog! https://www.sfomuseum.org/about/blog/evelyn-love-travelogue-stewardess  Image: Pan American World Airways, flight service crew [digital image], 1949. Gift of Evelyn R. David. 2016.068.001",
         "excerpt": "Our newest blog post is up!",
         "hashtags": [
-          "MuseumFromHome", 
-          "avgeek", 
+          "MuseumFromHome",
+          "avgeek",
           "crewlife"
         ],
         "users": []
@@ -22,18 +26,19 @@
       "location": "",
       "media_id": "23aef34410f8c51fbb89bcfbe25c9a5b",
       "path": "photos/202008/23aef34410f8c51fbb89bcfbe25c9a5b.jpg",
+      "perceptual_hash": "p:85ab3f53d433301d",
       "taken": 1598052905,
       "taken_at": "2020-08-21T23:35:05+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -46,13 +51,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729355113,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729355113,
-    "wof:lastmodified": 1602887800,
+    "wof:lastmodified": 1650564235,
     "wof:name": "Our newest blog post is up!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -61,9 +67,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

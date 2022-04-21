@@ -2,6 +2,10 @@
   "id": 1729359479,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-05-23",
+    "date:cessation_upper": "2017-05-23",
+    "date:inception_lower": "2017-05-23",
+    "date:inception_upper": "2017-05-23",
     "edtf:cessation": "2017-05-22T19:26:28-07:00",
     "edtf:inception": "2017-05-22T19:26:28-07:00",
     "geom:area": 0,
@@ -13,12 +17,12 @@
         "body": "What did flight kitchens look like in the 1970s? These chefs are prepping over 100 meals for passengers in United's flight kitchen. Did you know that some of the first airline meals in the 1930s consisted of fried chicken in a paper box? Tasty indeed.  Image: United Air Lines flight kitchen, c. 1970, Gift of United Airlines Archive. 2005.015.034",
         "excerpt": "What did flight kitchens look like in the 1970s?",
         "hashtags": [
-          "united", 
-          "airplanefood", 
-          "chefs", 
-          "cooking", 
-          "avgeek", 
-          "aviationhistory", 
+          "united",
+          "airplanefood",
+          "chefs",
+          "cooking",
+          "avgeek",
+          "aviationhistory",
           "aviationtrivia"
         ],
         "users": []
@@ -26,18 +30,19 @@
       "location": "SFO Museum",
       "media_id": "4e37e97480f73a68cf164708cd152bca",
       "path": "photos/201705/4e37e97480f73a68cf164708cd152bca.jpg",
+      "perceptual_hash": "p:8f305aeea599594a",
       "taken": 1495506388,
       "taken_at": "2017-05-23T02:26:28+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -50,13 +55,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729359479,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729359479,
-    "wof:lastmodified": 1602887856,
+    "wof:lastmodified": 1650564318,
     "wof:name": "What did flight kitchens look like in the 1970s?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -65,9 +71,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

@@ -2,6 +2,10 @@
   "id": 1729357279,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-04",
+    "date:cessation_upper": "2018-12-04",
+    "date:inception_lower": "2018-12-04",
+    "date:inception_upper": "2018-12-04",
     "edtf:cessation": "2018-12-04T10:46:16-08:00",
     "edtf:inception": "2018-12-04T10:46:16-08:00",
     "geom:area": 0,
@@ -13,12 +17,12 @@
         "body": "Operating a Boeing 727, the last Pan American World Airways flight took off from Barbados to Miami, Florida, #onthisday in 1991. Pan Am made aviation history on numerous occasions; among the famous firsts, the airline was the first airline to inaugurate scheduled service from the United States to the Caribbean, Asia, Oceania, and Europe. What are your favorite memories of Pan American?  Image: Pan American World Airways advertisement, 1948. Gift of the Captain John B. Russell Family. 2012.149.0789",
         "excerpt": "Operating a Boeing 727, the last Pan American World Airways flight took off from Barbados to Miami, Florida, #onthisday in 1991.",
         "hashtags": [
-          "pamam", 
-          "pamerican", 
-          "paa", 
-          "Boeing", 
-          "Boeing727", 
-          "jetage", 
+          "pamam",
+          "pamerican",
+          "paa",
+          "Boeing",
+          "Boeing727",
+          "jetage",
           "goldenage"
         ],
         "users": []
@@ -26,18 +30,19 @@
       "location": "San Francisco International Airport (SFO)",
       "media_id": "26eeecd1a082287df281063c96eb6b07",
       "path": "photos/201812/26eeecd1a082287df281063c96eb6b07.jpg",
+      "perceptual_hash": "p:fa3dc9e82595c0c6",
       "taken": 1543949176,
       "taken_at": "2018-12-04T18:46:16+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -50,13 +55,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729357279,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729357279,
-    "wof:lastmodified": 1602887831,
+    "wof:lastmodified": 1650564355,
     "wof:name": "Operating a Boeing 727, the last Pan American World Airways flight took off from Barbados to Miami, Florida, #onthisday in 1991...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -65,9 +71,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

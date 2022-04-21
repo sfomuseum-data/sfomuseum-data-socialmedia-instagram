@@ -2,6 +2,10 @@
   "id": 1729356049,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2019-09-30",
+    "date:cessation_upper": "2019-09-30",
+    "date:inception_lower": "2019-09-30",
+    "date:inception_upper": "2019-09-30",
     "edtf:cessation": "2019-09-30T14:09:46-07:00",
     "edtf:inception": "2019-09-30T14:09:46-07:00",
     "geom:area": 0,
@@ -13,8 +17,8 @@
         "body": "Austrian Airlines traces its commercial air transport origins back to 1923 with the establishment of ÖLAG (Österreichische Luftverkehrs AG, or Austrian Airlines). ÖLAG soon became the fourth largest airline in Europe, though it had to stop operations when Germany annexed Austria in 1938. Two separate airlines, Air Austria and Austrian Airways, were founded in 1955 when Austria regained its sovereignty. The modern Austrian Airlines celebrates its birth on September 30, 1957, when the two companies merged. The newly formed Austrian Airlines started service the next year, on March 31, 1958. Have you ever flown on Austrian Airlines?  Image: Austrian Airlines postcard, Douglas DC-9 Super 80, c. 1982. Gift of the William Hough Collection. 2008.055.195",
         "excerpt": "Austrian Airlines traces its commercial air transport origins back to 1923 with the establishment of ÖLAG (Österreichische Luftverkehrs AG, or Austrian Airlines).",
         "hashtags": [
-          "avgeek", 
-          "Austria", 
+          "avgeek",
+          "Austria",
           "AustrianAirlines"
         ],
         "users": []
@@ -22,18 +26,19 @@
       "location": "San Francisco International Airport (SFO)",
       "media_id": "1a88402de095681a2c908f4ee538fe0f",
       "path": "photos/201909/1a88402de095681a2c908f4ee538fe0f.jpg",
+      "perceptual_hash": "p:8b2d2d8bc2e5d652",
       "taken": 1569877786,
       "taken_at": "2019-09-30T21:09:46+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -46,13 +51,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729356049,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729356049,
-    "wof:lastmodified": 1602887815,
+    "wof:lastmodified": 1650564260,
     "wof:name": "Austrian Airlines traces its commercial air transport origins back to 1923 with the establishment of ÖLAG (Österreichische Luftverkehrs AG, or Austrian Airlines)...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -61,9 +67,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

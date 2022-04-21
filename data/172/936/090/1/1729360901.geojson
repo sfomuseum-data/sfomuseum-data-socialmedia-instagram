@@ -2,6 +2,10 @@
   "id": 1729360901,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2016-03-26",
+    "date:cessation_upper": "2016-03-26",
+    "date:inception_lower": "2016-03-26",
+    "date:inception_upper": "2016-03-26",
     "edtf:cessation": "2016-03-25T20:36:08-07:00",
     "edtf:inception": "2016-03-25T20:36:08-07:00",
     "geom:area": 0,
@@ -18,18 +22,19 @@
       "location": "SFO Museum",
       "media_id": "61bfc16077307010be5b20904c182da5",
       "path": "photos/201603/61bfc16077307010be5b20904c182da5.jpg",
+      "perceptual_hash": "p:83a0f41f3da3984f",
       "taken": 1458963368,
       "taken_at": "2016-03-26T03:36:08+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -42,13 +47,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729360901,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729360901,
-    "wof:lastmodified": 1602887874,
+    "wof:lastmodified": 1650564333,
     "wof:name": "The United Air Lines Ticket office opened in the 1930s on the northwest corner of Union Square in downtown San Francisco...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -57,9 +63,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

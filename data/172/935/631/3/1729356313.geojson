@@ -2,6 +2,10 @@
   "id": 1729356313,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2019-07-16",
+    "date:cessation_upper": "2019-07-16",
+    "date:inception_lower": "2019-07-16",
+    "date:inception_upper": "2019-07-16",
     "edtf:cessation": "2019-07-15T17:23:50-07:00",
     "edtf:inception": "2019-07-15T17:23:50-07:00",
     "geom:area": 0,
@@ -13,10 +17,10 @@
         "body": "Aeroflot commenced regular domestic operations #onthisday in 1923 in the Soviet Union. One of the oldest airlines in the world, the company started as DOBROLET, before changing its name to Aeroflot in 1932. Their first regularly scheduled domestic flight departed from Moscow to Nizhny Novgorod on this day.  Image: Aeroflot Soviet Airlines postcard, Ilyushin IL-86, c. 1995.  Gift of the William Hough Collection. 2005.133.178 e ",
         "excerpt": "Aeroflot commenced regular domestic operations #onthisday in 1923 in the Soviet Union.",
         "hashtags": [
-          "avgeek", 
-          "aeroflot", 
-          "Ilyushin", 
-          "postcard", 
+          "avgeek",
+          "aeroflot",
+          "Ilyushin",
+          "postcard",
           "museum"
         ],
         "users": []
@@ -24,18 +28,19 @@
       "location": "San Francisco International Airport (SFO)",
       "media_id": "baabf50cb475ef2b1af7b7b781ab68a5",
       "path": "photos/201907/baabf50cb475ef2b1af7b7b781ab68a5.jpg",
+      "perceptual_hash": "p:dc580b35e9c2a6d6",
       "taken": 1563236630,
       "taken_at": "2019-07-16T00:23:50+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -48,13 +53,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729356313,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729356313,
-    "wof:lastmodified": 1602887819,
+    "wof:lastmodified": 1650564266,
     "wof:name": "Aeroflot commenced regular domestic operations #onthisday in 1923 in the Soviet Union...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -63,9 +69,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

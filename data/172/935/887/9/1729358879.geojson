@@ -2,6 +2,10 @@
   "id": 1729358879,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-11-27",
+    "date:cessation_upper": "2017-11-27",
+    "date:inception_lower": "2017-11-27",
+    "date:inception_upper": "2017-11-27",
     "edtf:cessation": "2017-11-27T14:53:35-08:00",
     "edtf:inception": "2017-11-27T14:53:35-08:00",
     "geom:area": 0,
@@ -13,11 +17,11 @@
         "body": "How does the art at SFO stay clean? The staff at SFO Museum, along with a specially trained airport custodian, clean and care for all the art at the airport. Here, our registrars are carefully cleaning each of the 5,400 unique tiles that make up Ik-Joong Kang's \"Gateway\". See \"Gateway\" on display, pre-security in the International Terminal. http://bit.ly/2c5FcSB",
         "excerpt": "How does the art at SFO stay clean?",
         "hashtags": [
-          "museummonday", 
-          "sfac", 
-          "publicart", 
-          "airportart", 
-          "Gateway", 
+          "museummonday",
+          "sfac",
+          "publicart",
+          "airportart",
+          "Gateway",
           "IkJoongKang"
         ],
         "users": []
@@ -25,18 +29,19 @@
       "location": "San Francisco International Airport (SFO)",
       "media_id": "c6ca0be705832d2426555007ce53deea",
       "path": "photos/201711/c6ca0be705832d2426555007ce53deea.jpg",
+      "perceptual_hash": "p:d4a8fd0a00777a7c",
       "taken": 1511823215,
       "taken_at": "2017-11-27T22:53:35+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -49,13 +54,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729358879,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729358879,
-    "wof:lastmodified": 1602887848,
+    "wof:lastmodified": 1650564309,
     "wof:name": "How does the art at SFO stay clean?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -64,9 +70,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

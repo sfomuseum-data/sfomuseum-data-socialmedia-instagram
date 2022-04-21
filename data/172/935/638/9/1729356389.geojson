@@ -2,6 +2,10 @@
   "id": 1729356389,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2019-06-25",
+    "date:cessation_upper": "2019-06-25",
+    "date:inception_lower": "2019-06-25",
+    "date:inception_upper": "2019-06-25",
     "edtf:cessation": "2019-06-24T18:31:10-07:00",
     "edtf:inception": "2019-06-24T18:31:10-07:00",
     "geom:area": 0,
@@ -13,14 +17,14 @@
         "body": "Did you know that 2% of the budget of civic construction projects in San Francisco goes towards funding public art? The new Harvey Milk Terminal 1 will have several new works of art installed when it opens on July 23rd. This tile mosaic by Jason Jägel is located post-security in Boarding Area B. Learn more about the art in Terminal 1. http://bit.ly/2KAJciU",
         "excerpt": "Did you know that 2% of the budget of civic construction projects in San Francisco goes towards funding public art?",
         "hashtags": [
-          "art", 
-          "airportart", 
-          "JasonJägel", 
-          "mosaic", 
-          "tile", 
-          "behindthescenes", 
-          "museummonday", 
-          "sneakpeek", 
+          "art",
+          "airportart",
+          "JasonJägel",
+          "mosaic",
+          "tile",
+          "behindthescenes",
+          "museummonday",
+          "sneakpeek",
           "Terminal1"
         ],
         "users": [
@@ -30,18 +34,19 @@
       "location": "San Francisco International Airport (SFO)",
       "media_id": "6e8fa69758594344654b5eb23fb52a68",
       "path": "photos/201906/6e8fa69758594344654b5eb23fb52a68.jpg",
+      "perceptual_hash": "p:fbee116982ec1166",
       "taken": 1561426270,
       "taken_at": "2019-06-25T01:31:10+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -54,13 +59,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729356389,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729356389,
-    "wof:lastmodified": 1602887819,
+    "wof:lastmodified": 1650564268,
     "wof:name": "Did you know that 2% of the budget of civic construction projects in San Francisco goes towards funding public art?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,9 +75,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

@@ -2,6 +2,10 @@
   "id": 1729360497,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2016-07-26",
+    "date:cessation_upper": "2016-07-26",
+    "date:inception_lower": "2016-07-26",
+    "date:inception_upper": "2016-07-26",
     "edtf:cessation": "2016-07-26T11:18:41-07:00",
     "edtf:inception": "2016-07-26T11:18:41-07:00",
     "geom:area": 0,
@@ -18,18 +22,19 @@
       "location": "San Francisco International Airport (SFO)",
       "media_id": "46c2e45549395005dae8b11d876c4d5d",
       "path": "photos/201607/46c2e45549395005dae8b11d876c4d5d.jpg",
+      "perceptual_hash": "p:c3b774e812c04afd",
       "taken": 1469557121,
       "taken_at": "2016-07-26T18:18:41+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -42,13 +47,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729360497,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729360497,
-    "wof:lastmodified": 1602887869,
+    "wof:lastmodified": 1650564329,
     "wof:name": "Records filed with the Bureau of Air Commerce tracked all parts used on Pan American's flying boats such as this Model 3E50-97 propeller...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -57,9 +63,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

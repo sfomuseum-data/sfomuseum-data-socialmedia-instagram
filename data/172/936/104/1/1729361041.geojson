@@ -2,6 +2,10 @@
   "id": 1729361041,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2016-02-19",
+    "date:cessation_upper": "2016-02-19",
+    "date:inception_lower": "2016-02-19",
+    "date:inception_upper": "2016-02-19",
     "edtf:cessation": "2016-02-19T00:36:34-08:00",
     "edtf:inception": "2016-02-19T00:36:34-08:00",
     "geom:area": 0,
@@ -20,18 +24,19 @@
       "location": "San Francisco International Airport (SFO)",
       "media_id": "33756f2b7900e80334f5cb50135b6746",
       "path": "photos/201602/33756f2b7900e80334f5cb50135b6746.jpg",
+      "perceptual_hash": "p:cbc6ccb9b0f154d0",
       "taken": 1455870994,
       "taken_at": "2016-02-19T08:36:34+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -44,13 +49,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729361041,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729361041,
-    "wof:lastmodified": 1602887875,
+    "wof:lastmodified": 1650564334,
     "wof:name": "Before satellites and computers: these photographs of Mills Field in 1928 document the various instruments airport workers used to take weather readings...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -59,9 +65,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

@@ -2,6 +2,10 @@
   "id": 1729356769,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2019-03-28",
+    "date:cessation_upper": "2019-03-28",
+    "date:inception_lower": "2019-03-28",
+    "date:inception_upper": "2019-03-28",
     "edtf:cessation": "2019-03-27T18:03:33-07:00",
     "edtf:inception": "2019-03-27T18:03:33-07:00",
     "geom:area": 0,
@@ -13,13 +17,13 @@
         "body": "Ever wonder what the cockpit of the Boeing 377 looked like? Our newest exhibition \"American Airliner Cockpits, 1925–1975\" has not one but two views inside this aircraft, and many more of other aircraft. The images in this exhibition trace the evolution of flight control technology from the open cockpits of early mail planes, to the dizzying array of instrumentation and controls on the flight deck of the first wide-body airliners of the late 1960s.  See \"American Airliner Cockpits, 1925–1975\" on display, in the Aviation Museum and Library",
         "excerpt": "Ever wonder what the cockpit of the Boeing 377 looked like?",
         "hashtags": [
-          "cockpits", 
-          "cockpit", 
-          "Boeing377", 
-          "Boeing", 
-          "Airliners", 
-          "PanAm", 
-          "PanAmerican", 
+          "cockpits",
+          "cockpit",
+          "Boeing377",
+          "Boeing",
+          "Airliners",
+          "PanAm",
+          "PanAmerican",
           "avgeek"
         ],
         "users": []
@@ -27,18 +31,19 @@
       "location": "",
       "media_id": "497a8be819bd1edd0ce30b8d3e01d889",
       "path": "photos/201903/497a8be819bd1edd0ce30b8d3e01d889.jpg",
+      "perceptual_hash": "p:f2e54082a7757cb2",
       "taken": 1553735013,
       "taken_at": "2019-03-28T01:03:33+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -51,13 +56,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729356769,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729356769,
-    "wof:lastmodified": 1602887824,
+    "wof:lastmodified": 1650564277,
     "wof:name": "Ever wonder what the cockpit of the Boeing 377 looked like?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -66,9 +72,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

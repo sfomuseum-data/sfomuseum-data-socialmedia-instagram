@@ -2,6 +2,10 @@
   "id": 1729360073,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2016-11-28",
+    "date:cessation_upper": "2016-11-28",
+    "date:inception_lower": "2016-11-28",
+    "date:inception_upper": "2016-11-28",
     "edtf:cessation": "2016-11-28T10:51:08-08:00",
     "edtf:inception": "2016-11-28T10:51:08-08:00",
     "geom:area": 0,
@@ -13,8 +17,8 @@
         "body": "This is your last week to catch \"Celebrating a Vision: #ArtAndDisability.\" Richmond, California’s NIAD Art Center is one of three remarkable organizations featured in this exhibition. For more information, watch this overview that features NIAD’s staff and artists, including Sylvia Fragosa and Billy White, who are exhibited in our gallery: https://www.youtube.com/watch?v=bHIfeaDzq1g. Link is also on our bio page.  See \"Celebrating a Vision: #ArtAndDisability\" on display post-security, in Terminal 3 until Monday, December 5.",
         "excerpt": "This is your last week to catch \"Celebrating a Vision: #ArtAndDisability.\"",
         "hashtags": [
-          "NIADArtCenter", 
-          "Richmond", 
+          "NIADArtCenter",
+          "Richmond",
           "Art"
         ],
         "users": [
@@ -24,18 +28,19 @@
       "location": "San Francisco International Airport (SFO)",
       "media_id": "69682abc661d49da73141e3c73d7880a",
       "path": "photos/201611/69682abc661d49da73141e3c73d7880a.jpg",
+      "perceptual_hash": "p:90b576c32cb4dc6a",
       "taken": 1480359068,
       "taken_at": "2016-11-28T18:51:08+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -48,13 +53,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729360073,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729360073,
-    "wof:lastmodified": 1602887864,
+    "wof:lastmodified": 1650564228,
     "wof:name": "This is your last week to catch \"Celebrating a Vision: #ArtAndDisability.\"..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -63,9 +69,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

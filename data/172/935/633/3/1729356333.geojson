@@ -2,6 +2,10 @@
   "id": 1729356333,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2019-07-09",
+    "date:cessation_upper": "2019-07-09",
+    "date:inception_lower": "2019-07-09",
+    "date:inception_upper": "2019-07-09",
     "edtf:cessation": "2019-07-09T16:18:07-07:00",
     "edtf:inception": "2019-07-09T16:18:07-07:00",
     "geom:area": 0,
@@ -13,12 +17,12 @@
         "body": "C. Carl Jennings (1910–2003) forged modern, sculptural forms and decorative items using ancient metalworking techniques. A third-generation blacksmith, Jennings studied coppersmithing and silversmithing during the 1930s under metalsmith Harry Dixon (1890–1967) at the California College of Arts and Crafts (now the California College of the Arts) in Oakland. After graduation, Jennings worked with John Foster on architectural ironwork for the 1939 Golden Gate International Exposition.  See \"California Studio Craft: Featuring Works from the Forrest L. Merrill Collection\" on display, post-security, in Terminal 2. http://bit.ly/CaliforniaCrafts",
         "excerpt": "C. Carl Jennings (1910–2003) forged modern, sculptural forms and decorative items using ancient metalworking techniques.",
         "hashtags": [
-          "CaliforniaCrafts", 
-          "ForrestMerrill", 
-          "StudioCraft", 
-          "CCarlJennings", 
-          "metalwork", 
-          "blacksmith", 
+          "CaliforniaCrafts",
+          "ForrestMerrill",
+          "StudioCraft",
+          "CCarlJennings",
+          "metalwork",
+          "blacksmith",
           "coppersmith"
         ],
         "users": []
@@ -26,18 +30,19 @@
       "location": "San Francisco International Airport (SFO)",
       "media_id": "0ad9b5c102729d0376962f342f42a10e",
       "path": "photos/201907/0ad9b5c102729d0376962f342f42a10e.jpg",
+      "perceptual_hash": "p:b24dcc737472c94c",
       "taken": 1562714287,
       "taken_at": "2019-07-09T23:18:07+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -50,13 +55,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729356333,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729356333,
-    "wof:lastmodified": 1602887819,
+    "wof:lastmodified": 1650564267,
     "wof:name": "C. Carl Jennings (1910–2003) forged modern, sculptural forms and decorative items using ancient metalworking techniques...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -65,9 +71,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

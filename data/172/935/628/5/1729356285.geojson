@@ -2,6 +2,10 @@
   "id": 1729356285,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2019-07-25",
+    "date:cessation_upper": "2019-07-25",
+    "date:inception_lower": "2019-07-25",
+    "date:inception_upper": "2019-07-25",
     "edtf:cessation": "2019-07-24T22:58:05-07:00",
     "edtf:inception": "2019-07-24T22:58:05-07:00",
     "geom:area": 0,
@@ -13,15 +17,15 @@
         "body": "SFO Museum received a special visit from filmmaker Howard Kung and his sister Michelle, who flew to SFO  to see Howard’s wonderful animated short The Lonely Stoplight, now playing at our Video Arts screening room in the International Terminal Main Hall. An award winner at this year’s Teen Animation International Festival, sponsored by the Walt Disney Family Museum, Howard’s film will be screened through July 31. http://bit.ly/307xG28",
         "excerpt": "SFO Museum received a special visit from filmmaker Howard Kung and his sister Michelle, who flew to SFO  to see Howard’s wonderful animated short The Lonely Stoplight, now playing at our Video Arts screening room in the International Terminal Main Hall.",
         "hashtags": [
-          "VideoArtsSFOM", 
-          "film", 
-          "video", 
-          "illustration", 
-          "thelonelystreetlight", 
-          "streetlight", 
-          "disney", 
-          "HowardKung", 
-          "waltdisney", 
+          "VideoArtsSFOM",
+          "film",
+          "video",
+          "illustration",
+          "thelonelystreetlight",
+          "streetlight",
+          "disney",
+          "HowardKung",
+          "waltdisney",
           "waltdisneyfamilymuseum"
         ],
         "users": []
@@ -29,18 +33,19 @@
       "location": "San Francisco International Airport (SFO)",
       "media_id": "04e431ccd4a311061245b89c9ee4ac56",
       "path": "photos/201907/04e431ccd4a311061245b89c9ee4ac56.jpg",
+      "perceptual_hash": "p:d0e2c336995c63da",
       "taken": 1564034285,
       "taken_at": "2019-07-25T05:58:05+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -53,13 +58,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729356285,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729356285,
-    "wof:lastmodified": 1602887818,
+    "wof:lastmodified": 1650564266,
     "wof:name": "SFO Museum received a special visit from filmmaker Howard Kung and his sister Michelle, who flew to SFO  to see Howard’s wonderful animated short The Lonely Stoplight, now playing at our Video Arts screening room in the International Terminal Main Hall...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -68,9 +74,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

@@ -2,6 +2,10 @@
   "id": 1729356163,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2019-08-26",
+    "date:cessation_upper": "2019-08-26",
+    "date:inception_lower": "2019-08-26",
+    "date:inception_upper": "2019-08-26",
     "edtf:cessation": "2019-08-26T10:33:34-07:00",
     "edtf:inception": "2019-08-26T10:33:34-07:00",
     "geom:area": 0,
@@ -13,10 +17,10 @@
         "body": "Sam Francis began painting while hospitalized at Letterman Hospital in San Francisco, where he studied privately with well-known Bay Area painter David Park. Later, as a student at U.C. Berkeley, he developed his distinctive brand of abstract expressionism. He was among the first of the American Abstract Expressionists to be exhibited in Europe, where his work was very influential. This commissioned painting is a good example of the artist’s signature stained and dripped “cells” of saturated color. “Untitled” by Sam Francis is on display, post-security, in Terminal 3. http://bit.ly/2L5G8ZR",
         "excerpt": "Sam Francis began painting while hospitalized at Letterman Hospital in San Francisco, where he studied privately with well-known Bay Area painter David Park.",
         "hashtags": [
-          "SamFrancis", 
-          "Untitled", 
-          "publicart", 
-          "painting", 
+          "SamFrancis",
+          "Untitled",
+          "publicart",
+          "painting",
           "abstractexpressionist"
         ],
         "users": []
@@ -24,18 +28,19 @@
       "location": "SFO - Terminal 3",
       "media_id": "0dbc5a9badacfc1fa4f4c85d53ce9e46",
       "path": "photos/201908/0dbc5a9badacfc1fa4f4c85d53ce9e46.jpg",
+      "perceptual_hash": "p:96a3ff0678bd1061",
       "taken": 1566840814,
       "taken_at": "2019-08-26T17:33:34+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -48,13 +53,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729356163,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729356163,
-    "wof:lastmodified": 1602887816,
+    "wof:lastmodified": 1650564262,
     "wof:name": "Sam Francis began painting while hospitalized at Letterman Hospital in San Francisco, where he studied privately with well-known Bay Area painter David Park...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -63,9 +69,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

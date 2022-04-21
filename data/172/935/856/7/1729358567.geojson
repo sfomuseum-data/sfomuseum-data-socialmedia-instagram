@@ -2,6 +2,10 @@
   "id": 1729358567,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-02-11",
+    "date:cessation_upper": "2018-02-11",
+    "date:inception_lower": "2018-02-11",
+    "date:inception_upper": "2018-02-11",
     "edtf:cessation": "2018-02-11T13:08:48-08:00",
     "edtf:inception": "2018-02-11T13:08:48-08:00",
     "geom:area": 0,
@@ -18,18 +22,19 @@
       "location": "",
       "media_id": "d0981b0a0e3b6c32ee9a923f47cdc1ed",
       "path": "photos/201802/d0981b0a0e3b6c32ee9a923f47cdc1ed.jpg",
+      "perceptual_hash": "p:d4214461679f1e6f",
       "taken": 1518383328,
       "taken_at": "2018-02-11T21:08:48+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -42,13 +47,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729358567,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729358567,
-    "wof:lastmodified": 1602887845,
+    "wof:lastmodified": 1650564304,
     "wof:name": "Oakland School for the Arts (OSA) is a nonprofit public school founded by the city's former Mayor, California Governor Jerry Brown...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -57,9 +63,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

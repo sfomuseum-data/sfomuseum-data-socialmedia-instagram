@@ -2,6 +2,10 @@
   "id": 1729356889,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2019-03-01",
+    "date:cessation_upper": "2019-03-01",
+    "date:inception_lower": "2019-03-01",
+    "date:inception_upper": "2019-03-01",
     "edtf:cessation": "2019-03-01T11:55:31-08:00",
     "edtf:inception": "2019-03-01T11:55:31-08:00",
     "geom:area": 0,
@@ -13,11 +17,11 @@
         "body": "“A cat has absolute emotional honesty; human beings, for one reason or another, may hide their feelings, but a cat does not. Where else can we be as sure of love as when it is given by a cat?” —Ernest Hemingway (1899–1961)  A very special thank you to Sandy Lerner for making this exhibition possible. See \"Caticons: The Cat in Art\" is on display, pre-security, in the International Terminal. http://bit.ly/Caticons",
         "excerpt": "“A cat has absolute emotional honesty; human beings, for one reason or another, may hide their feelings, but a cat does not.",
         "hashtags": [
-          "caticons", 
-          "catsofinstagram", 
-          "cats", 
-          "mewseum", 
-          "caticon", 
+          "caticons",
+          "catsofinstagram",
+          "cats",
+          "mewseum",
+          "caticon",
           "cat"
         ],
         "users": []
@@ -25,18 +29,19 @@
       "location": "",
       "media_id": "ccf389786f9d55bff453d16b422f7366",
       "path": "photos/201903/ccf389786f9d55bff453d16b422f7366.jpg",
+      "perceptual_hash": "p:86b4d90a8671f65d",
       "taken": 1551470131,
       "taken_at": "2019-03-01T19:55:31+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -49,13 +54,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729356889,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729356889,
-    "wof:lastmodified": 1602887826,
+    "wof:lastmodified": 1650564279,
     "wof:name": "“A cat has absolute emotional honesty; human beings, for one reason or another, may hide their feelings, but a cat does not...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -64,9 +70,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

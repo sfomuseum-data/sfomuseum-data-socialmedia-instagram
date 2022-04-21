@@ -2,6 +2,10 @@
   "id": 1729359349,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-07-05",
+    "date:cessation_upper": "2017-07-05",
+    "date:inception_lower": "2017-07-05",
+    "date:inception_upper": "2017-07-05",
     "edtf:cessation": "2017-07-05T12:00:55-07:00",
     "edtf:inception": "2017-07-05T12:00:55-07:00",
     "geom:area": 0,
@@ -13,12 +17,12 @@
         "body": "#Onthisday in 1994, the \"rebooted\" Frontier Airlines commenced operations. The ultra low cost carrier traces its legacy back to the first Frontier Airlines, which was founded in 1950 and operated until 1986. In 1994, the new Frontier introduced a livery which included animals painted on the tail of every aircraft. Every animal also has a name, which is included in Frontier marketing and branding, a clever marketing approach. Passengers have reported to have favorite animals. Have you ever flown on Frontier?  Image:  Frontier Airlines postcard, Boeing 737, 1996. Mark F. Adams Collection. 2001.106.154",
         "excerpt": "#Onthisday in 1994, the \"rebooted\" Frontier Airlines commenced operations.",
         "hashtags": [
-          "avgeek", 
-          "aviationhistory", 
-          "frontier", 
-          "frontierairlines", 
-          "ULCC", 
-          "livery", 
+          "avgeek",
+          "aviationhistory",
+          "frontier",
+          "frontierairlines",
+          "ULCC",
+          "livery",
           "liveryhistory"
         ],
         "users": []
@@ -26,18 +30,19 @@
       "location": "SFO Museum",
       "media_id": "2d3d5827e3531120d6a4f59d15e4b476",
       "path": "photos/201707/2d3d5827e3531120d6a4f59d15e4b476.jpg",
+      "perceptual_hash": "p:9f9f6b61d4706860",
       "taken": 1499281255,
       "taken_at": "2017-07-05T19:00:55+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -50,13 +55,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729359349,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729359349,
-    "wof:lastmodified": 1602887854,
+    "wof:lastmodified": 1650564316,
     "wof:name": "#Onthisday in 1994, the \"rebooted\" Frontier Airlines commenced operations...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -65,9 +71,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

@@ -2,6 +2,10 @@
   "id": 1729359811,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-02-14",
+    "date:cessation_upper": "2017-02-14",
+    "date:inception_lower": "2017-02-14",
+    "date:inception_upper": "2017-02-14",
     "edtf:cessation": "2017-02-14T11:17:43-08:00",
     "edtf:inception": "2017-02-14T11:17:43-08:00",
     "geom:area": 0,
@@ -18,18 +22,19 @@
       "location": "SFO Museum",
       "media_id": "b5b41896c60f8ed5c2a313e3467c846e",
       "path": "photos/201702/b5b41896c60f8ed5c2a313e3467c846e.jpg",
+      "perceptual_hash": "p:ffb0b4acc183c11d",
       "taken": 1487099863,
       "taken_at": "2017-02-14T19:17:43+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -42,13 +47,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729359811,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729359811,
-    "wof:lastmodified": 1602887861,
+    "wof:lastmodified": 1650564367,
     "wof:name": "This #Valentine card from c. 1915 reads, “I'm up in the air about you, dear valentine”...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -57,9 +63,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

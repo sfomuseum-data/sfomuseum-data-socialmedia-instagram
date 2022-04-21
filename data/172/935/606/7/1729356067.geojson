@@ -2,6 +2,10 @@
   "id": 1729356067,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2019-09-24",
+    "date:cessation_upper": "2019-09-24",
+    "date:inception_lower": "2019-09-24",
+    "date:inception_upper": "2019-09-24",
     "edtf:cessation": "2019-09-23T20:16:04-07:00",
     "edtf:inception": "2019-09-23T20:16:04-07:00",
     "geom:area": 0,
@@ -13,10 +17,10 @@
         "body": "Happy Autumn! Today is the first day of the Fall season in the Northern Hemisphere. Where would you like to travel to? On the west coast we would love to travel to New England to see the changing colors of the leaves.  Image: United Airlines poster, New England, 2004. Gift of Manuel de Alba Perez. 2012.030.042",
         "excerpt": "Happy Autumn!",
         "hashtags": [
-          "avgeek", 
-          "united", 
-          "autumn", 
-          "travel", 
+          "avgeek",
+          "united",
+          "autumn",
+          "travel",
           "firstdayoffall"
         ],
         "users": []
@@ -24,18 +28,19 @@
       "location": "",
       "media_id": "597a197afa27c7e75d4e94e4e0caaa7f",
       "path": "photos/201909/597a197afa27c7e75d4e94e4e0caaa7f.jpg",
+      "perceptual_hash": "p:eec59c30da730d1c",
       "taken": 1569294964,
       "taken_at": "2019-09-24T03:16:04+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -48,13 +53,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729356067,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729356067,
-    "wof:lastmodified": 1602887815,
+    "wof:lastmodified": 1650564260,
     "wof:name": "Happy Autumn!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -63,9 +69,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

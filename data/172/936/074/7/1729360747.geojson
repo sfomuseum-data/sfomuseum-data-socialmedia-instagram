@@ -2,6 +2,10 @@
   "id": 1729360747,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2016-05-06",
+    "date:cessation_upper": "2016-05-06",
+    "date:inception_lower": "2016-05-06",
+    "date:inception_upper": "2016-05-06",
     "edtf:cessation": "2016-05-06T11:34:13-07:00",
     "edtf:inception": "2016-05-06T11:34:13-07:00",
     "geom:area": 0,
@@ -18,18 +22,19 @@
       "location": "SFO Museum",
       "media_id": "5dda7b4fb4417e0d62354ab8beb2c3b6",
       "path": "photos/201605/5dda7b4fb4417e0d62354ab8beb2c3b6.jpg",
+      "perceptual_hash": "p:ad123e9919f0f20f",
       "taken": 1462559653,
       "taken_at": "2016-05-06T18:34:13+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -42,13 +47,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729360747,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729360747,
-    "wof:lastmodified": 1602887872,
+    "wof:lastmodified": 1650564220,
     "wof:name": "These Pan American service pins feature the company's old winged globe logo...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -57,9 +63,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

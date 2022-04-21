@@ -2,6 +2,10 @@
   "id": 1729359937,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-01-09",
+    "date:cessation_upper": "2017-01-09",
+    "date:inception_lower": "2017-01-09",
+    "date:inception_upper": "2017-01-09",
     "edtf:cessation": "2017-01-09T11:32:23-08:00",
     "edtf:inception": "2017-01-09T11:32:23-08:00",
     "geom:area": 0,
@@ -13,9 +17,9 @@
         "body": "“Artists frequently try to use old techniques on a new medium. I tried to discover the possibilities within the medium itself.” – Zahara Schatz  Trained as a painter, Zahara Schatz (1916–99) translated modern art into laminated plastics. In her Berkeley studio, she created two-dimensional “planar layered paintings,” molded sculpture, lighting, jewelry, and architectural elements in translucent Plexiglas. This aircraft-surplus plastic was readily available after the Second World War, and offered fantastic optical clarity for exploration in color and reflection. Her artwork plays upon viewing angles and varying sources of light, changing in appearance with movement of perspective and illumination.",
         "excerpt": "“Artists frequently try to use old techniques on a new medium.",
         "hashtags": [
-          "midcentury", 
-          "modern", 
-          "design", 
+          "midcentury",
+          "modern",
+          "design",
           "ZaharaSchatz"
         ],
         "users": []
@@ -23,18 +27,19 @@
       "location": "San Francisco International Airport (SFO)",
       "media_id": "4198c460fe4e7b530d65f76f58c5dc47",
       "path": "photos/201701/4198c460fe4e7b530d65f76f58c5dc47.jpg",
+      "perceptual_hash": "p:85d3561e4bc43d39",
       "taken": 1483990343,
       "taken_at": "2017-01-09T19:32:23+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -47,13 +52,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729359937,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729359937,
-    "wof:lastmodified": 1602887862,
+    "wof:lastmodified": 1650564325,
     "wof:name": "“Artists frequently try to use old techniques on a new medium...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -62,9 +68,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

@@ -2,6 +2,10 @@
   "id": 1729360685,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2016-05-26",
+    "date:cessation_upper": "2016-05-26",
+    "date:inception_lower": "2016-05-26",
+    "date:inception_upper": "2016-05-26",
     "edtf:cessation": "2016-05-25T18:41:56-07:00",
     "edtf:inception": "2016-05-25T18:41:56-07:00",
     "geom:area": 0,
@@ -18,18 +22,19 @@
       "location": "SFO Museum",
       "media_id": "4bf26409b45aa68ddbbf1617e2b1366a",
       "path": "photos/201605/4bf26409b45aa68ddbbf1617e2b1366a.jpg",
+      "perceptual_hash": "p:bdd0c1e5c63a329c",
       "taken": 1464226916,
       "taken_at": "2016-05-26T01:41:56+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -42,13 +47,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729360685,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729360685,
-    "wof:lastmodified": 1602887871,
+    "wof:lastmodified": 1650564220,
     "wof:name": "For the 40th anniversary of United Air Lines, flight attendants Chloe Ann Cox (left) and Diane (DiAnn) Marcus dressed in uniforms from 1930 and 1967, with matching meal service trays...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -57,9 +63,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

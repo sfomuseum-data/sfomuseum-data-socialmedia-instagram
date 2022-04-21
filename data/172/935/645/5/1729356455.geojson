@@ -2,6 +2,10 @@
   "id": 1729356455,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2019-06-06",
+    "date:cessation_upper": "2019-06-06",
+    "date:inception_lower": "2019-06-06",
+    "date:inception_upper": "2019-06-06",
     "edtf:cessation": "2019-06-06T10:29:33-07:00",
     "edtf:inception": "2019-06-06T10:29:33-07:00",
     "geom:area": 0,
@@ -13,14 +17,14 @@
         "body": "Insects with bright, high-contrast colors are often noxious and do not taste good, or may bite, or sting. They evolved these repellant color patterns as a result of predators easily recognizing the brightly colored individuals in the population. In some places, several different kinds of noxious insects have evolved similar repellant color patterns. Referred to as Müllerian mimicry, this allows predators to learn to quickly identify these patterns and to avoid the untasty insect.  Some palatable insects have evolved color patterns similar to the noxious species. Called Batesian mimicry, these imposters trick visual predators into thinking they will taste bad. For this mimicry to work, there needs to be more models than mimics in the area.  See “The Intriguing World of Insects” on display, pre-security, in the International Terminal. http://bit.ly/IntriguingInsects",
         "excerpt": "Insects with bright, high-contrast colors are often noxious and do not taste good, or may bite, or sting.",
         "hashtags": [
-          "IntriguingInsects", 
-          "WorldofInsects", 
-          "insects", 
-          "Entomology", 
-          "Berkeley", 
-          "UCBerkeley", 
-          "mimicry", 
-          "Müllerian", 
+          "IntriguingInsects",
+          "WorldofInsects",
+          "insects",
+          "Entomology",
+          "Berkeley",
+          "UCBerkeley",
+          "mimicry",
+          "Müllerian",
           "Batesianmimicry"
         ],
         "users": []
@@ -28,18 +32,19 @@
       "location": "",
       "media_id": "c1db53eb785825d790e77ceb9af5c17c",
       "path": "photos/201906/c1db53eb785825d790e77ceb9af5c17c.jpg",
+      "perceptual_hash": "p:b0077f00c7ff8139",
       "taken": 1559842173,
       "taken_at": "2019-06-06T17:29:33+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -52,13 +57,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729356455,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729356455,
-    "wof:lastmodified": 1602887820,
+    "wof:lastmodified": 1650564349,
     "wof:name": "Insects with bright, high-contrast colors are often noxious and do not taste good, or may bite, or sting...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -67,9 +73,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

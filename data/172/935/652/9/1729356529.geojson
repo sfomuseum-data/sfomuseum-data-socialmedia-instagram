@@ -2,6 +2,10 @@
   "id": 1729356529,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2019-05-24",
+    "date:cessation_upper": "2019-05-24",
+    "date:inception_lower": "2019-05-24",
+    "date:inception_upper": "2019-05-24",
     "edtf:cessation": "2019-05-24T13:59:20-07:00",
     "edtf:inception": "2019-05-24T13:59:20-07:00",
     "geom:area": 0,
@@ -13,11 +17,11 @@
         "body": "#Onthisday in 1976, the first Concorde flights from the United States began at Washington Dulles International Airport. Both Air France and British Airways started scheduled service from Dulles to London and Paris. The Concorde was a supersonic transport that flew primarily commercial transatlantic flights. It could reach supersonic speeds of up to Mach II and fly from New York to London in under 4 hours. Air France tickets to Paris were priced at $1654 round trip (approximately $7,500 today, adjusted for inflation). The Concorde was in service between 1976 and 2003. Did you ever fly on a Concorde?  Image: Air France postcard, Concorde, c. 1976. Gift of the William Hough Collection. 2008.055.100 ",
         "excerpt": "#Onthisday in 1976, the first Concorde flights from the United States began at Washington Dulles International Airport.",
         "hashtags": [
-          "avgeek", 
-          "concorde", 
-          "dulles", 
-          "washington", 
-          "paris", 
+          "avgeek",
+          "concorde",
+          "dulles",
+          "washington",
+          "paris",
           "london"
         ],
         "users": []
@@ -25,18 +29,19 @@
       "location": "San Francisco International Airport",
       "media_id": "3b847a730645d5d950734841454eadd6",
       "path": "photos/201905/3b847a730645d5d950734841454eadd6.jpg",
+      "perceptual_hash": "p:85376ada8dac7249",
       "taken": 1558731560,
       "taken_at": "2019-05-24T20:59:20+00:00"
     },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159160869, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -49,13 +54,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1729356529,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637
       }
     ],
     "wof:id": 1729356529,
-    "wof:lastmodified": 1602887821,
+    "wof:lastmodified": 1650564272,
     "wof:name": "#Onthisday in 1976, the first Concorde flights from the United States began at Washington Dulles International Airport...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -64,9 +70,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
