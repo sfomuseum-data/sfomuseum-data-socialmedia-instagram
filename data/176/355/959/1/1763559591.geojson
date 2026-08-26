@@ -30,6 +30,50 @@
       "taken": 1645554000,
       "taken_at": "Feb 22, 2022 6:20 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18434542417526245,
+          "id": 1763559129
+        },
+        {
+          "distance": 0.1888188123703003,
+          "id": 1763559473
+        },
+        {
+          "distance": 0.19580858945846558,
+          "id": 1763559569
+        },
+        {
+          "distance": 0.20457017421722412,
+          "id": 1880151657
+        },
+        {
+          "distance": 0.20467084646224976,
+          "id": 1947425039
+        },
+        {
+          "distance": 0.2069389820098877,
+          "id": 1763558907
+        },
+        {
+          "distance": 0.2097008228302002,
+          "id": 1763559281
+        },
+        {
+          "distance": 0.21551603078842163,
+          "id": 1880151547
+        },
+        {
+          "distance": 0.2155272364616394,
+          "id": 1763558925
+        },
+        {
+          "distance": 0.21584850549697876,
+          "id": 1729355785
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559591,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "“Harlem of the West” is an exhibition of select images from the monograph and curatorial project authored by Lewis Watts and Elizabeth Pepin...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

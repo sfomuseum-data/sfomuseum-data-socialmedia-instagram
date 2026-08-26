@@ -25,6 +25,50 @@
       "taken": 1675163160,
       "taken_at": "Jan 31, 2023 11:06 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0992591381072998,
+          "id": 1729359051
+        },
+        {
+          "distance": 0.11938321590423584,
+          "id": 1729357057
+        },
+        {
+          "distance": 0.12475740909576416,
+          "id": 1729355165
+        },
+        {
+          "distance": 0.13019424676895142,
+          "id": 1729359077
+        },
+        {
+          "distance": 0.13082265853881836,
+          "id": 1763558959
+        },
+        {
+          "distance": 0.13087183237075806,
+          "id": 1729359051
+        },
+        {
+          "distance": 0.13089340925216675,
+          "id": 1729357667
+        },
+        {
+          "distance": 0.13912534713745117,
+          "id": 1729360259
+        },
+        {
+          "distance": 0.13975179195404053,
+          "id": 1729360247
+        },
+        {
+          "distance": 0.14394760131835938,
+          "id": 1729358851
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1880151167,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "The last commercial Boeing 747 jumbo jet is scheduled to be delivered today to Atlas Air from the Boeing Everett Factory in Everett, Washington...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

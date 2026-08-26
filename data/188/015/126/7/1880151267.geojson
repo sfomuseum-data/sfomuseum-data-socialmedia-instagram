@@ -30,6 +30,50 @@
       "taken": 1670951820,
       "taken_at": "Dec 13, 2022 5:17 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1697261929512024,
+          "id": 1763559263
+        },
+        {
+          "distance": 0.2102198600769043,
+          "id": 1763559263
+        },
+        {
+          "distance": 0.21872776746749878,
+          "id": 1880151555
+        },
+        {
+          "distance": 0.2351885437965393,
+          "id": 1880151555
+        },
+        {
+          "distance": 0.23797005414962769,
+          "id": 1729361489
+        },
+        {
+          "distance": 0.24381381273269653,
+          "id": 1947424799
+        },
+        {
+          "distance": 0.24995440244674683,
+          "id": 1947424927
+        },
+        {
+          "distance": 0.2617632746696472,
+          "id": 1729361495
+        },
+        {
+          "distance": 0.26550614833831787,
+          "id": 1947424917
+        },
+        {
+          "distance": 0.2791150212287903,
+          "id": 1947424843
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151267,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "“I got interested in air traffic controlling because of my love for aviation…Flying was complete happiness to me.” —Maxine Crookston (Schmidt), 2015   Maxine Crookston (1915–2016) was known as “The Voice of San Francisco Airport” from the late 1940s through the 1950s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

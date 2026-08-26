@@ -55,6 +55,50 @@
       "taken": 1502218860,
       "taken_at": "Aug 08, 2017 7:01 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23368912935256958,
+          "id": 1763559109
+        },
+        {
+          "distance": 0.28912216424942017,
+          "id": 1729356623
+        },
+        {
+          "distance": 0.28999048471450806,
+          "id": 1763559109
+        },
+        {
+          "distance": 0.2943783402442932,
+          "id": 1763558689
+        },
+        {
+          "distance": 0.2943783402442932,
+          "id": 1729359221
+        },
+        {
+          "distance": 0.2963796854019165,
+          "id": 1729357307
+        },
+        {
+          "distance": 0.30710864067077637,
+          "id": 1880150923
+        },
+        {
+          "distance": 0.3095008134841919,
+          "id": 1729360855
+        },
+        {
+          "distance": 0.31382858753204346,
+          "id": 1729357707
+        },
+        {
+          "distance": 0.31443220376968384,
+          "id": 1729360029
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -84,7 +128,7 @@
       }
     ],
     "wof:id": 1729359227,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "In 1948, TWA (Trans World Airlines) promoted itself as the only US airline with Coast-to-Coast service in the U.S. and direct flights to Rome...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -101,5 +145,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

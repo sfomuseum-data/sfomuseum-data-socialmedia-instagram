@@ -33,6 +33,50 @@
       "taken": 1535191800,
       "taken_at": "Aug 25, 2018 10:10 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.010913968086242676,
+          "id": 1729355289
+        },
+        {
+          "distance": 0.09673017263412476,
+          "id": 1729355289
+        },
+        {
+          "distance": 0.22613197565078735,
+          "id": 1880151713
+        },
+        {
+          "distance": 0.24488210678100586,
+          "id": 1729355707
+        },
+        {
+          "distance": 0.24821078777313232,
+          "id": 1729357999
+        },
+        {
+          "distance": 0.24982589483261108,
+          "id": 1880151713
+        },
+        {
+          "distance": 0.2652283310890198,
+          "id": 1763559555
+        },
+        {
+          "distance": 0.26744747161865234,
+          "id": 1729355723
+        },
+        {
+          "distance": 0.2686401605606079,
+          "id": 1729359429
+        },
+        {
+          "distance": 0.26869893074035645,
+          "id": 1763558931
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729357759,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "\"Bird Technology\" by Rupert Garcia combines two images: a bird that symbolizes natural flight and a geometric grid that symbolizes the technological advances that made human flight possible...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1460370300,
       "taken_at": "Apr 11, 2016 10:25 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2208172082901001,
+          "id": 1729356155
+        },
+        {
+          "distance": 0.23193800449371338,
+          "id": 1729360317
+        },
+        {
+          "distance": 0.23374402523040771,
+          "id": 1729360317
+        },
+        {
+          "distance": 0.24017101526260376,
+          "id": 1729355955
+        },
+        {
+          "distance": 0.24520212411880493,
+          "id": 1729355955
+        },
+        {
+          "distance": 0.25021952390670776,
+          "id": 1729357235
+        },
+        {
+          "distance": 0.2600676417350769,
+          "id": 1729356771
+        },
+        {
+          "distance": 0.26100850105285645,
+          "id": 1729356155
+        },
+        {
+          "distance": 0.2623996138572693,
+          "id": 1729360581
+        },
+        {
+          "distance": 0.26580214500427246,
+          "id": 1729357159
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360833,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "John Martin creates drawings from his memories of time spent with his family on their Arkansas farm...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

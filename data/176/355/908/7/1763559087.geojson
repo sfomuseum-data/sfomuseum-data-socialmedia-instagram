@@ -31,6 +31,50 @@
       "taken": 1624895100,
       "taken_at": "Jun 28, 2021 3:45 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15329480171203613,
+          "id": 1880151137
+        },
+        {
+          "distance": 0.19579094648361206,
+          "id": 1729359425
+        },
+        {
+          "distance": 0.20001673698425293,
+          "id": 1729360131
+        },
+        {
+          "distance": 0.21891915798187256,
+          "id": 1880151131
+        },
+        {
+          "distance": 0.22029650211334229,
+          "id": 1880151205
+        },
+        {
+          "distance": 0.2208980917930603,
+          "id": 1729357895
+        },
+        {
+          "distance": 0.22612518072128296,
+          "id": 1880151091
+        },
+        {
+          "distance": 0.24376219511032104,
+          "id": 1729356553
+        },
+        {
+          "distance": 0.24861657619476318,
+          "id": 1729356549
+        },
+        {
+          "distance": 0.2573966383934021,
+          "id": 1729355137
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559087,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Galvanized by an atmosphere of protest and possibility, pioneering artist, filmmaker, and blues musician Mike Henderson left Marshall, Missouri, to attend @sfaiofficial where he received his MFA in 1970...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

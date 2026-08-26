@@ -27,6 +27,50 @@
       "taken": 1718117640,
       "taken_at": "Jun 11, 2024 2:54 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13370740413665771,
+          "id": 1947424939
+        },
+        {
+          "distance": 0.1482742428779602,
+          "id": 1947425007
+        },
+        {
+          "distance": 0.19163459539413452,
+          "id": 1947425145
+        },
+        {
+          "distance": 0.2361750602722168,
+          "id": 1880151091
+        },
+        {
+          "distance": 0.24882042407989502,
+          "id": 1947425269
+        },
+        {
+          "distance": 0.2524382472038269,
+          "id": 1947425235
+        },
+        {
+          "distance": 0.26603686809539795,
+          "id": 1947424957
+        },
+        {
+          "distance": 0.2677707076072693,
+          "id": 1947424853
+        },
+        {
+          "distance": 0.2679096460342407,
+          "id": 1947424829
+        },
+        {
+          "distance": 0.27676117420196533,
+          "id": 1880151137
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947424975,
-    "wof:lastmodified": 1733175322,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Gabriel Bien-Aimé (b...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

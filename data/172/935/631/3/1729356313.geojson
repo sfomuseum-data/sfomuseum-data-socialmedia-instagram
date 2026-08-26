@@ -31,6 +31,50 @@
       "taken": 1563207780,
       "taken_at": "Jul 15, 2019 4:23 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1486559510231018,
+          "id": 1729355783
+        },
+        {
+          "distance": 0.14987599849700928,
+          "id": 1729358831
+        },
+        {
+          "distance": 0.15047353506088257,
+          "id": 1729355783
+        },
+        {
+          "distance": 0.1564335823059082,
+          "id": 1729358831
+        },
+        {
+          "distance": 0.20075249671936035,
+          "id": 1729358231
+        },
+        {
+          "distance": 0.20572108030319214,
+          "id": 1729358319
+        },
+        {
+          "distance": 0.20584529638290405,
+          "id": 1729359569
+        },
+        {
+          "distance": 0.21140533685684204,
+          "id": 1729357575
+        },
+        {
+          "distance": 0.212041974067688,
+          "id": 1729358563
+        },
+        {
+          "distance": 0.2150864601135254,
+          "id": 1729355477
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729356313,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Aeroflot commenced regular domestic operations #onthisday in 1923 in the Soviet Union...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

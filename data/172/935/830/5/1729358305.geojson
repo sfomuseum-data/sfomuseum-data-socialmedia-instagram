@@ -38,6 +38,50 @@
       "taken": 1525034220,
       "taken_at": "Apr 29, 2018, 8:37 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.009014427661895752,
+          "id": 1763558735
+        },
+        {
+          "distance": 0.12178951501846313,
+          "id": 1763558735
+        },
+        {
+          "distance": 0.3814331293106079,
+          "id": 1729356191
+        },
+        {
+          "distance": 0.3858804702758789,
+          "id": 1729356955
+        },
+        {
+          "distance": 0.38999032974243164,
+          "id": 1763559091
+        },
+        {
+          "distance": 0.3951878547668457,
+          "id": 1729356391
+        },
+        {
+          "distance": 0.40114808082580566,
+          "id": 1729355601
+        },
+        {
+          "distance": 0.4036875367164612,
+          "id": 1729356113
+        },
+        {
+          "distance": 0.40691858530044556,
+          "id": 1729356931
+        },
+        {
+          "distance": 0.4075884222984314,
+          "id": 1763559091
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729358305,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Fifty-two years ago, the Black Panther Party (BPP) formed in Oakland, California...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

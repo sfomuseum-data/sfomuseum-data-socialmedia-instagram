@@ -25,6 +25,50 @@
       "taken": 1380024600,
       "taken_at": "Sep 24, 2013 12:10 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.21677827835083008,
+          "id": 1729362579
+        },
+        {
+          "distance": 0.22279131412506104,
+          "id": 1729362621
+        },
+        {
+          "distance": 0.23413437604904175,
+          "id": 1729362621
+        },
+        {
+          "distance": 0.25705838203430176,
+          "id": 1729362689
+        },
+        {
+          "distance": 0.27224528789520264,
+          "id": 1729362689
+        },
+        {
+          "distance": 0.27653318643569946,
+          "id": 1729362647
+        },
+        {
+          "distance": 0.2827131152153015,
+          "id": 1729362229
+        },
+        {
+          "distance": 0.29207736253738403,
+          "id": 1729362579
+        },
+        {
+          "distance": 0.2940310835838318,
+          "id": 1729362981
+        },
+        {
+          "distance": 0.29906409978866577,
+          "id": 1729362237
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362547,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "Half models of ships in shadowboxes were crafted by sailors both at sea and on shore, and were often kept as mementos of their journeys or given as gifts to family members...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -29,6 +29,50 @@
       "taken": 1440150660,
       "taken_at": "Aug 21, 2015 9:51 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.217776358127594,
+          "id": 1729362959
+        },
+        {
+          "distance": 0.2466106414794922,
+          "id": 1729361679
+        },
+        {
+          "distance": 0.25322556495666504,
+          "id": 1729361797
+        },
+        {
+          "distance": 0.2543110251426697,
+          "id": 1763559323
+        },
+        {
+          "distance": 0.25437790155410767,
+          "id": 1880151325
+        },
+        {
+          "distance": 0.25706779956817627,
+          "id": 1947424927
+        },
+        {
+          "distance": 0.26761603355407715,
+          "id": 1947424917
+        },
+        {
+          "distance": 0.2676772475242615,
+          "id": 1729356755
+        },
+        {
+          "distance": 0.26879578828811646,
+          "id": 1880150939
+        },
+        {
+          "distance": 0.26941490173339844,
+          "id": 1947424799
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729361597,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777646,
     "wof:name": "Terminal 3 is home to San Francisco Nova by Robert Bechtle, 18th Street Downgrade by Wayne Thiebaud, and Behind Ted McMann's Garage by James Torlakson...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

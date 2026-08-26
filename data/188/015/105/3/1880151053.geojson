@@ -30,6 +30,50 @@
       "taken": 1678895820,
       "taken_at": "Mar 15, 2023 3:57 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16663199663162231,
+          "id": 1880151069
+        },
+        {
+          "distance": 0.18019014596939087,
+          "id": 1947425089
+        },
+        {
+          "distance": 0.18837839365005493,
+          "id": 1729359429
+        },
+        {
+          "distance": 0.1989051103591919,
+          "id": 1880151137
+        },
+        {
+          "distance": 0.19993841648101807,
+          "id": 1947425185
+        },
+        {
+          "distance": 0.20318222045898438,
+          "id": 1729357871
+        },
+        {
+          "distance": 0.2152138352394104,
+          "id": 1880151131
+        },
+        {
+          "distance": 0.2272661328315735,
+          "id": 1880151511
+        },
+        {
+          "distance": 0.2295060157775879,
+          "id": 1729357701
+        },
+        {
+          "distance": 0.23173707723617554,
+          "id": 1729356163
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151053,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777661,
     "wof:name": "Linda Geary is an abstract painter whose work is inspired by material processes of cutting, revision and repair; a collage approach that references actions of sewing and construction, akin to making a quilt...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -36,6 +36,50 @@
       "taken": 1492592520,
       "taken_at": "Apr 19, 2017 9:02 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.245530366897583,
+          "id": 1729360545
+        },
+        {
+          "distance": 0.25809329748153687,
+          "id": 1729359947
+        },
+        {
+          "distance": 0.27284568548202515,
+          "id": 1729360133
+        },
+        {
+          "distance": 0.2732540965080261,
+          "id": 1729359201
+        },
+        {
+          "distance": 0.27452224493026733,
+          "id": 1729358387
+        },
+        {
+          "distance": 0.27886974811553955,
+          "id": 1729361255
+        },
+        {
+          "distance": 0.2866366505622864,
+          "id": 1729360859
+        },
+        {
+          "distance": 0.2886089086532593,
+          "id": 1729361085
+        },
+        {
+          "distance": 0.293307363986969,
+          "id": 1729358079
+        },
+        {
+          "distance": 0.296597421169281,
+          "id": 1729358221
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729359595,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "The first American Airlines Boeing 747 jet flight to New York took off from SFO #onthisday in 1970...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1500212700,
       "taken_at": "Jul 16, 2017 1:45 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1474737524986267,
+          "id": 1729359645
+        },
+        {
+          "distance": 0.1733473539352417,
+          "id": 1729359645
+        },
+        {
+          "distance": 0.17889177799224854,
+          "id": 1729355505
+        },
+        {
+          "distance": 0.18163025379180908,
+          "id": 1729355505
+        },
+        {
+          "distance": 0.18624228239059448,
+          "id": 1729360399
+        },
+        {
+          "distance": 0.19253534078598022,
+          "id": 1729359879
+        },
+        {
+          "distance": 0.19449681043624878,
+          "id": 1729360399
+        },
+        {
+          "distance": 0.2063336968421936,
+          "id": 1729359511
+        },
+        {
+          "distance": 0.2066415548324585,
+          "id": 1763559085
+        },
+        {
+          "distance": 0.2077341079711914,
+          "id": 1729356953
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359307,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Continental advertised their Boeing 747 service as the only 747 with 2 lounges and a pub...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

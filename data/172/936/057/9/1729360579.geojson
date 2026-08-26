@@ -25,6 +25,50 @@
       "taken": 1467043500,
       "taken_at": "Jun 27, 2016 4:05 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3015364408493042,
+          "id": 1729360573
+        },
+        {
+          "distance": 0.3183199167251587,
+          "id": 1947425147
+        },
+        {
+          "distance": 0.3280975818634033,
+          "id": 1729360573
+        },
+        {
+          "distance": 0.3283528685569763,
+          "id": 1729359839
+        },
+        {
+          "distance": 0.33027952909469604,
+          "id": 1947425147
+        },
+        {
+          "distance": 0.3366392254829407,
+          "id": 1729359149
+        },
+        {
+          "distance": 0.3377649784088135,
+          "id": 1763559085
+        },
+        {
+          "distance": 0.33967721462249756,
+          "id": 1729359645
+        },
+        {
+          "distance": 0.34080153703689575,
+          "id": 1729359839
+        },
+        {
+          "distance": 0.3456025719642639,
+          "id": 1729360133
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360579,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "United opened the airline industry's first kitchen in Oakland, California in the late 1930s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

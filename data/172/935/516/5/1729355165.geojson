@@ -30,6 +30,50 @@
       "taken": 1596111900,
       "taken_at": "Jul 30, 2020 12:25 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12468868494033813,
+          "id": 1880151167
+        },
+        {
+          "distance": 0.13754278421401978,
+          "id": 1729361019
+        },
+        {
+          "distance": 0.15589916706085205,
+          "id": 1729356177
+        },
+        {
+          "distance": 0.15741753578186035,
+          "id": 1729360541
+        },
+        {
+          "distance": 0.15828365087509155,
+          "id": 1729359077
+        },
+        {
+          "distance": 0.15911006927490234,
+          "id": 1763558959
+        },
+        {
+          "distance": 0.16260027885437012,
+          "id": 1729361085
+        },
+        {
+          "distance": 0.16441142559051514,
+          "id": 1729356791
+        },
+        {
+          "distance": 0.16827178001403809,
+          "id": 1729361255
+        },
+        {
+          "distance": 0.17159503698349,
+          "id": 1729359051
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729355165,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777618,
     "wof:name": "Now a staple of airports around the world, the enclosed passenger boarding bridge arrived in the late 1950s with the introduction of jet aircraft...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

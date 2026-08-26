@@ -42,6 +42,50 @@
       "taken": 1553778180,
       "taken_at": "Mar 28, 2019 1:03 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20564532279968262,
+          "id": 1729358211
+        },
+        {
+          "distance": 0.20839685201644897,
+          "id": 1729358313
+        },
+        {
+          "distance": 0.2118668556213379,
+          "id": 1729356275
+        },
+        {
+          "distance": 0.2281615138053894,
+          "id": 1880151109
+        },
+        {
+          "distance": 0.23251891136169434,
+          "id": 1729357069
+        },
+        {
+          "distance": 0.23289304971694946,
+          "id": 1729358531
+        },
+        {
+          "distance": 0.23295652866363525,
+          "id": 1729357959
+        },
+        {
+          "distance": 0.23567324876785278,
+          "id": 1729357609
+        },
+        {
+          "distance": 0.2367027997970581,
+          "id": 1729358085
+        },
+        {
+          "distance": 0.23830252885818481,
+          "id": 1729356411
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -71,7 +115,7 @@
       }
     ],
     "wof:id": 1729356751,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777629,
     "wof:name": "\"When I shape this wood, I put my soul into this wood...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -88,5 +132,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

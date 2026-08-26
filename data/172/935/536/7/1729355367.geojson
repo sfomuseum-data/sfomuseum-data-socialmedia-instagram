@@ -32,6 +32,50 @@
       "taken": 1585938900,
       "taken_at": "Apr 03, 2020 6:35 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.028653979301452637,
+          "id": 1729355561
+        },
+        {
+          "distance": 0.09340077638626099,
+          "id": 1729355561
+        },
+        {
+          "distance": 0.2750910520553589,
+          "id": 1729355555
+        },
+        {
+          "distance": 0.27959251403808594,
+          "id": 1729355567
+        },
+        {
+          "distance": 0.29246336221694946,
+          "id": 1729355555
+        },
+        {
+          "distance": 0.3037766218185425,
+          "id": 1729358165
+        },
+        {
+          "distance": 0.30511629581451416,
+          "id": 1729361023
+        },
+        {
+          "distance": 0.3153536319732666,
+          "id": 1729360659
+        },
+        {
+          "distance": 0.31895434856414795,
+          "id": 1729361023
+        },
+        {
+          "distance": 0.32883358001708984,
+          "id": 1729357777
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729355367,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777624,
     "wof:name": "Founded in 2011, the Art School of San Francisco Bay grew from the desire to teach classical art skills to students in a manner that appeals to a wide audience...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

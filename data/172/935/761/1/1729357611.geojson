@@ -32,6 +32,50 @@
       "taken": 1538678280,
       "taken_at": "Oct 04, 2018 6:38 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18042081594467163,
+          "id": 1729357365
+        },
+        {
+          "distance": 0.18103480339050293,
+          "id": 1729355435
+        },
+        {
+          "distance": 0.18485045433044434,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.20024645328521729,
+          "id": 1880151253
+        },
+        {
+          "distance": 0.2010403275489807,
+          "id": 1729359429
+        },
+        {
+          "distance": 0.20263463258743286,
+          "id": 1947425185
+        },
+        {
+          "distance": 0.20655596256256104,
+          "id": 1729355435
+        },
+        {
+          "distance": 0.20733368396759033,
+          "id": 1880150939
+        },
+        {
+          "distance": 0.21089375019073486,
+          "id": 1880151285
+        },
+        {
+          "distance": 0.21238833665847778,
+          "id": 1729355383
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729357611,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777632,
     "wof:name": "David Simpson’s paintings with their thin films of paint and soft  edges, anticipate the 1960’s formalist trends in pure color painting...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

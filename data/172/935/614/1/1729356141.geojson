@@ -32,6 +32,50 @@
       "taken": 1567501200,
       "taken_at": "Sep 03, 2019 9:00 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.059471726417541504,
+          "id": 1729356247
+        },
+        {
+          "distance": 0.09438025951385498,
+          "id": 1729356247
+        },
+        {
+          "distance": 0.10495209693908691,
+          "id": 1729356593
+        },
+        {
+          "distance": 0.17221951484680176,
+          "id": 1729356241
+        },
+        {
+          "distance": 0.18641072511672974,
+          "id": 1729356213
+        },
+        {
+          "distance": 0.18838614225387573,
+          "id": 1729356209
+        },
+        {
+          "distance": 0.18849480152130127,
+          "id": 1729356197
+        },
+        {
+          "distance": 0.1987764835357666,
+          "id": 1729356371
+        },
+        {
+          "distance": 0.21305161714553833,
+          "id": 1729356245
+        },
+        {
+          "distance": 0.2150038480758667,
+          "id": 1729356245
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729356141,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777628,
     "wof:name": "“The Intriguing World of Insects” features over one thousand specimens from the Essig Museum of Entomology at the University of California, Berkeley...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

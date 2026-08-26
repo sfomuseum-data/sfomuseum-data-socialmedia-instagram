@@ -28,6 +28,50 @@
       "taken": 1729269660,
       "taken_at": "Oct 18, 2024 4:41 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06989264488220215,
+          "id": 1729355329
+        },
+        {
+          "distance": 0.13244086503982544,
+          "id": 1729355329
+        },
+        {
+          "distance": 0.2617036700248718,
+          "id": 1729360987
+        },
+        {
+          "distance": 0.26456183195114136,
+          "id": 1729360649
+        },
+        {
+          "distance": 0.2719504237174988,
+          "id": 1729355323
+        },
+        {
+          "distance": 0.275499165058136,
+          "id": 1729355325
+        },
+        {
+          "distance": 0.28672724962234497,
+          "id": 1729361153
+        },
+        {
+          "distance": 0.291440486907959,
+          "id": 1729360987
+        },
+        {
+          "distance": 0.29181796312332153,
+          "id": 1729359015
+        },
+        {
+          "distance": 0.29574835300445557,
+          "id": 1763558821
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1947424831,
-    "wof:lastmodified": 1733175318,
+    "wof:lastmodified": 1787777664,
     "wof:name": "For the majority of the 1970s, only four domestic airlines were approved by the Civil Aeronautics Board (CAB) to fly to Europe from the United States...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -70,5 +114,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

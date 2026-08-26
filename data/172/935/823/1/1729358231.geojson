@@ -41,6 +41,50 @@
       "taken": 1526309460,
       "taken_at": "May 14, 2018 2:51 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12463194131851196,
+          "id": 1763558623
+        },
+        {
+          "distance": 0.13192814588546753,
+          "id": 1729357769
+        },
+        {
+          "distance": 0.13194316625595093,
+          "id": 1729361039
+        },
+        {
+          "distance": 0.1388084888458252,
+          "id": 1729361039
+        },
+        {
+          "distance": 0.14232641458511353,
+          "id": 1763558623
+        },
+        {
+          "distance": 0.14507770538330078,
+          "id": 1729357849
+        },
+        {
+          "distance": 0.1490599513053894,
+          "id": 1729358651
+        },
+        {
+          "distance": 0.14951878786087036,
+          "id": 1729359691
+        },
+        {
+          "distance": 0.1497393250465393,
+          "id": 1729358651
+        },
+        {
+          "distance": 0.15146899223327637,
+          "id": 1763559637
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -70,7 +114,7 @@
       }
     ],
     "wof:id": 1729358231,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Lufthansa Airlines' inaugural flight landed in #SFO #onthisday in 1960 from Frankfurt, Germany...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -87,5 +131,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

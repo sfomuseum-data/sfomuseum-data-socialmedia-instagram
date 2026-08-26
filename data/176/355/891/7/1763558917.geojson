@@ -25,6 +25,50 @@
       "taken": 1610107140,
       "taken_at": "Jan 08, 2021 11:59 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.22383618354797363,
+          "id": 1729357135
+        },
+        {
+          "distance": 0.22383618354797363,
+          "id": 1763558801
+        },
+        {
+          "distance": 0.2312178611755371,
+          "id": 1763558801
+        },
+        {
+          "distance": 0.2312178611755371,
+          "id": 1729357135
+        },
+        {
+          "distance": 0.24064606428146362,
+          "id": 1763558891
+        },
+        {
+          "distance": 0.2425737977027893,
+          "id": 1729357325
+        },
+        {
+          "distance": 0.24355751276016235,
+          "id": 1729357693
+        },
+        {
+          "distance": 0.2464885115623474,
+          "id": 1729355149
+        },
+        {
+          "distance": 0.24805784225463867,
+          "id": 1947425115
+        },
+        {
+          "distance": 0.2502255439758301,
+          "id": 1729355149
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1763558917,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Link Wray (1929–2005) was the archetypal rock ‘n’ roll guitarist, a seemingly mythical figure whose sound was shaped by a series of significant life events...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -29,6 +29,50 @@
       "taken": 1569848940,
       "taken_at": "Sep 30, 2019 1:09 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17355364561080933,
+          "id": 1729357255
+        },
+        {
+          "distance": 0.1809934377670288,
+          "id": 1729357255
+        },
+        {
+          "distance": 0.18480271100997925,
+          "id": 1729355509
+        },
+        {
+          "distance": 0.18761521577835083,
+          "id": 1880151639
+        },
+        {
+          "distance": 0.18791282176971436,
+          "id": 1763558979
+        },
+        {
+          "distance": 0.19176000356674194,
+          "id": 1763558979
+        },
+        {
+          "distance": 0.19693660736083984,
+          "id": 1729355509
+        },
+        {
+          "distance": 0.20518094301223755,
+          "id": 1880151413
+        },
+        {
+          "distance": 0.20777904987335205,
+          "id": 1880151639
+        },
+        {
+          "distance": 0.2107560634613037,
+          "id": 1729356265
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729356049,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777628,
     "wof:name": "Austrian Airlines traces its commercial air transport origins back to 1923 with the establishment of ÖLAG (Österreichische Luftverkehrs AG, or Austrian Airlines)...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

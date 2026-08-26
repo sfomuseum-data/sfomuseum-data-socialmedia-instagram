@@ -25,6 +25,50 @@
       "taken": 1456479900,
       "taken_at": "Feb 26, 2016 9:45 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17665719985961914,
+          "id": 1880150941
+        },
+        {
+          "distance": 0.18332308530807495,
+          "id": 1729357909
+        },
+        {
+          "distance": 0.22567099332809448,
+          "id": 1729362219
+        },
+        {
+          "distance": 0.23523825407028198,
+          "id": 1880150941
+        },
+        {
+          "distance": 0.23969894647598267,
+          "id": 1729357909
+        },
+        {
+          "distance": 0.25738245248794556,
+          "id": 1729362219
+        },
+        {
+          "distance": 0.26909494400024414,
+          "id": 1729357901
+        },
+        {
+          "distance": 0.2802945375442505,
+          "id": 1729358965
+        },
+        {
+          "distance": 0.2857651114463806,
+          "id": 1729355737
+        },
+        {
+          "distance": 0.3015924096107483,
+          "id": 1729358965
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361003,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "By the late 1940s, a seat capable of reclining into a bed, the “Sleeperette,” was introduced and trademarked by Pan American World Airways...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

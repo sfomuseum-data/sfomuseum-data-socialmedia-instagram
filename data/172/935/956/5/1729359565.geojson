@@ -33,6 +33,50 @@
       "taken": 1493230620,
       "taken_at": "Apr 26, 2017 6:17 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20464730262756348,
+          "id": 1729357541
+        },
+        {
+          "distance": 0.20514816045761108,
+          "id": 1729361015
+        },
+        {
+          "distance": 0.2126098871231079,
+          "id": 1729361695
+        },
+        {
+          "distance": 0.22908908128738403,
+          "id": 1729357391
+        },
+        {
+          "distance": 0.23601901531219482,
+          "id": 1729357403
+        },
+        {
+          "distance": 0.23681479692459106,
+          "id": 1729356715
+        },
+        {
+          "distance": 0.23911428451538086,
+          "id": 1729357679
+        },
+        {
+          "distance": 0.243089497089386,
+          "id": 1729357391
+        },
+        {
+          "distance": 0.24327325820922852,
+          "id": 1729361015
+        },
+        {
+          "distance": 0.24700528383255005,
+          "id": 1729361695
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729359565,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "George Petty became famous as a pinup artist in the 1930s and 40s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -28,6 +28,50 @@
       "taken": 1623949680,
       "taken_at": "Jun 17, 2021 5:08 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2720056176185608,
+          "id": 1729362779
+        },
+        {
+          "distance": 0.2790963053703308,
+          "id": 1729357711
+        },
+        {
+          "distance": 0.29594725370407104,
+          "id": 1729360537
+        },
+        {
+          "distance": 0.2988312244415283,
+          "id": 1729362779
+        },
+        {
+          "distance": 0.31771212816238403,
+          "id": 1729355201
+        },
+        {
+          "distance": 0.31795626878738403,
+          "id": 1729361085
+        },
+        {
+          "distance": 0.319410502910614,
+          "id": 1729363051
+        },
+        {
+          "distance": 0.3199619650840759,
+          "id": 1729360541
+        },
+        {
+          "distance": 0.320045530796051,
+          "id": 1729361577
+        },
+        {
+          "distance": 0.3210594654083252,
+          "id": 1729362949
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1763559095,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Frequent United fliers may have noticed that the oversize model aircraft suspended twenty-five feet above the Terminal 3 hub have been removed...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

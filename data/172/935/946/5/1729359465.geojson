@@ -36,6 +36,50 @@
       "taken": 1495729260,
       "taken_at": "May 25, 2017 4:21 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.058255016803741455,
+          "id": 1729360411
+        },
+        {
+          "distance": 0.12494874000549316,
+          "id": 1729361577
+        },
+        {
+          "distance": 0.13165462017059326,
+          "id": 1729360411
+        },
+        {
+          "distance": 0.14494359493255615,
+          "id": 1729361577
+        },
+        {
+          "distance": 0.18482643365859985,
+          "id": 1729355115
+        },
+        {
+          "distance": 0.18714618682861328,
+          "id": 1729359947
+        },
+        {
+          "distance": 0.19277745485305786,
+          "id": 1729361735
+        },
+        {
+          "distance": 0.19355088472366333,
+          "id": 1729360429
+        },
+        {
+          "distance": 0.193719744682312,
+          "id": 1729359149
+        },
+        {
+          "distance": 0.1997656226158142,
+          "id": 1729355115
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729359465,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "On August 27, 1954, the new Central Terminal at SFO was dedicated...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

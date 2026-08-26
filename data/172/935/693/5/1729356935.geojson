@@ -35,6 +35,50 @@
       "taken": 1550314980,
       "taken_at": "Feb 16, 2019 11:03 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.03247314691543579,
+          "id": 1729357507
+        },
+        {
+          "distance": 0.06090950965881348,
+          "id": 1729357797
+        },
+        {
+          "distance": 0.06780242919921875,
+          "id": 1729357517
+        },
+        {
+          "distance": 0.07909560203552246,
+          "id": 1729357507
+        },
+        {
+          "distance": 0.0996662974357605,
+          "id": 1729357517
+        },
+        {
+          "distance": 0.10249865055084229,
+          "id": 1729357505
+        },
+        {
+          "distance": 0.10987651348114014,
+          "id": 1729357797
+        },
+        {
+          "distance": 0.15090537071228027,
+          "id": 1729357505
+        },
+        {
+          "distance": 0.163532555103302,
+          "id": 1729358485
+        },
+        {
+          "distance": 0.17559516429901123,
+          "id": 1729358149
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729356935,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Who doesn't enjoy a quick, quiet cat nap?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

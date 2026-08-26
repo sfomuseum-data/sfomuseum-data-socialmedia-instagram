@@ -25,6 +25,50 @@
       "taken": 1450259880,
       "taken_at": "Dec 16, 2015 9:58 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0942530632019043,
+          "id": 1729356749
+        },
+        {
+          "distance": 0.09717553853988647,
+          "id": 1729356581
+        },
+        {
+          "distance": 0.13588649034500122,
+          "id": 1729356749
+        },
+        {
+          "distance": 0.1437474489212036,
+          "id": 1729361573
+        },
+        {
+          "distance": 0.14581412076950073,
+          "id": 1880151085
+        },
+        {
+          "distance": 0.14645302295684814,
+          "id": 1729357751
+        },
+        {
+          "distance": 0.14983254671096802,
+          "id": 1729361497
+        },
+        {
+          "distance": 0.15590405464172363,
+          "id": 1729356143
+        },
+        {
+          "distance": 0.15666121244430542,
+          "id": 1729355863
+        },
+        {
+          "distance": 0.16755282878875732,
+          "id": 1729356769
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361263,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "The newspaper blurb accompanying these photos of a Pan American Stratocruiser cockpit simulator read: “Reproducing in every detail the flight deck of one of Pan American World Airways’ big Pacific Strato Clippers, this electronic flight simulator has gone into service in the crew training program of PAA’s Pacific-Alaska Division at San Francisco International Airport...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

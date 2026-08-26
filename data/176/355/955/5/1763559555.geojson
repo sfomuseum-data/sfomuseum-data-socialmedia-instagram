@@ -31,6 +31,50 @@
       "taken": 1647334020,
       "taken_at": "Mar 15, 2022 8:47 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0038899779319763184,
+          "id": 1763558931
+        },
+        {
+          "distance": 0.12171709537506104,
+          "id": 1763558931
+        },
+        {
+          "distance": 0.1764153242111206,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.1854063868522644,
+          "id": 1763559469
+        },
+        {
+          "distance": 0.19357800483703613,
+          "id": 1763559105
+        },
+        {
+          "distance": 0.19962751865386963,
+          "id": 1729357999
+        },
+        {
+          "distance": 0.20692968368530273,
+          "id": 1880151585
+        },
+        {
+          "distance": 0.2121102213859558,
+          "id": 1729357365
+        },
+        {
+          "distance": 0.21328109502792358,
+          "id": 1729357999
+        },
+        {
+          "distance": 0.21367788314819336,
+          "id": 1763559685
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559555,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "This painting is a family portrait of the Bay Area, a place rich with many different cultures...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

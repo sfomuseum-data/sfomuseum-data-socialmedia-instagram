@@ -37,6 +37,50 @@
       "taken": 1527015960,
       "taken_at": "May 22, 2018 7:06 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15058159828186035,
+          "id": 1729358159
+        },
+        {
+          "distance": 0.15765374898910522,
+          "id": 1729358241
+        },
+        {
+          "distance": 0.1794254183769226,
+          "id": 1729358159
+        },
+        {
+          "distance": 0.18395525217056274,
+          "id": 1729358241
+        },
+        {
+          "distance": 0.22868001461029053,
+          "id": 1729357861
+        },
+        {
+          "distance": 0.2323482632637024,
+          "id": 1729357421
+        },
+        {
+          "distance": 0.23371201753616333,
+          "id": 1729357861
+        },
+        {
+          "distance": 0.27683407068252563,
+          "id": 1729357421
+        },
+        {
+          "distance": 0.284554123878479,
+          "id": 1880150945
+        },
+        {
+          "distance": 0.28613823652267456,
+          "id": 1729360669
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729358195,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "“The light of Akari is like the light of the sun filtered through the paper of shoji...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -51,6 +51,50 @@
       "taken": 1500808860,
       "taken_at": "Jul 23, 2017 11:21 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2055930495262146,
+          "id": 1729359507
+        },
+        {
+          "distance": 0.2785620093345642,
+          "id": 1729359507
+        },
+        {
+          "distance": 0.2844427824020386,
+          "id": 1729358085
+        },
+        {
+          "distance": 0.3207126259803772,
+          "id": 1763559381
+        },
+        {
+          "distance": 0.32643455266952515,
+          "id": 1729357069
+        },
+        {
+          "distance": 0.32967180013656616,
+          "id": 1729358531
+        },
+        {
+          "distance": 0.3323209881782532,
+          "id": 1729360259
+        },
+        {
+          "distance": 0.33979713916778564,
+          "id": 1763559299
+        },
+        {
+          "distance": 0.34153854846954346,
+          "id": 1763559443
+        },
+        {
+          "distance": 0.34275007247924805,
+          "id": 1729358085
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -80,7 +124,7 @@
       }
     ],
     "wof:id": 1729359287,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Mike Kelley travels to airports throughout the globe, looking for scenes that accurately describe the landscape while providing a vantage point from which the airport’s traffic can be seen in a linear trajectory...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -97,5 +141,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

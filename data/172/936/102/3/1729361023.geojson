@@ -25,6 +25,50 @@
       "taken": 1455791880,
       "taken_at": "Feb 18, 2016 10:38 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2940276861190796,
+          "id": 1729359919
+        },
+        {
+          "distance": 0.304923951625824,
+          "id": 1729355367
+        },
+        {
+          "distance": 0.32301902770996094,
+          "id": 1729357777
+        },
+        {
+          "distance": 0.35252922773361206,
+          "id": 1763558915
+        },
+        {
+          "distance": 0.3574334383010864,
+          "id": 1729356547
+        },
+        {
+          "distance": 0.3612915873527527,
+          "id": 1729360993
+        },
+        {
+          "distance": 0.36153489351272583,
+          "id": 1729359461
+        },
+        {
+          "distance": 0.36171287298202515,
+          "id": 1729355561
+        },
+        {
+          "distance": 0.3617634177207947,
+          "id": 1729357603
+        },
+        {
+          "distance": 0.363029420375824,
+          "id": 1729356811
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361023,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777643,
     "wof:name": "The Laurel School, located in San Francisco’s Richmond District, nurtures and supports children with learning differences who struggle in a traditional school setting...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

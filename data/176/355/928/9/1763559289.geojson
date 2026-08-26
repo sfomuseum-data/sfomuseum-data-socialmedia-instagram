@@ -29,6 +29,50 @@
       "taken": 1638447600,
       "taken_at": "Dec 02, 2021 12:20 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2578502297401428,
+          "id": 1729357895
+        },
+        {
+          "distance": 0.26950985193252563,
+          "id": 1880151091
+        },
+        {
+          "distance": 0.27285903692245483,
+          "id": 1729359425
+        },
+        {
+          "distance": 0.2868030071258545,
+          "id": 1880151205
+        },
+        {
+          "distance": 0.2905334234237671,
+          "id": 1729357097
+        },
+        {
+          "distance": 0.2913411855697632,
+          "id": 1729359635
+        },
+        {
+          "distance": 0.29326504468917847,
+          "id": 1729356811
+        },
+        {
+          "distance": 0.2978094816207886,
+          "id": 1729362613
+        },
+        {
+          "distance": 0.30159372091293335,
+          "id": 1729359363
+        },
+        {
+          "distance": 0.301998496055603,
+          "id": 1880151131
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1763559289,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Nimisha Doongarwal (@nimishart) collects grouped inventories of fragments—paintings, photographs, fabrics, and digital prints—to create her artwork...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

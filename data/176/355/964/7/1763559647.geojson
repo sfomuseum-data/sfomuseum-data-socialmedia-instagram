@@ -33,6 +33,50 @@
       "taken": 1642770960,
       "taken_at": "Jan 21, 2022 1:16 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.000025153160095214844,
+          "id": 1763559653
+        },
+        {
+          "distance": 0.000025153160095214844,
+          "id": 1763559665
+        },
+        {
+          "distance": 0.008096933364868164,
+          "id": 1763559335
+        },
+        {
+          "distance": 0.06545227766036987,
+          "id": 1763559267
+        },
+        {
+          "distance": 0.06545227766036987,
+          "id": 1763559681
+        },
+        {
+          "distance": 0.10031276941299438,
+          "id": 1763559681
+        },
+        {
+          "distance": 0.10031276941299438,
+          "id": 1763559267
+        },
+        {
+          "distance": 0.10216760635375977,
+          "id": 1763559335
+        },
+        {
+          "distance": 0.10636472702026367,
+          "id": 1763559653
+        },
+        {
+          "distance": 0.10636472702026367,
+          "id": 1763559665
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1763559647,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "German filmmaker Sylvia Borges was inspired by choir rehearsals in an empty parking lot during the COVID-19 pandemic to produce a film that speaks to forced separation, but also to unity and resilience during these difficult times...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

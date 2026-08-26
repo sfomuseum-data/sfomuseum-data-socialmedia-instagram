@@ -25,6 +25,50 @@
       "taken": 1456393980,
       "taken_at": "Feb 25, 2016 9:53 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3482648730278015,
+          "id": 1729359321
+        },
+        {
+          "distance": 0.38130271434783936,
+          "id": 1729359321
+        },
+        {
+          "distance": 0.38293302059173584,
+          "id": 1729355519
+        },
+        {
+          "distance": 0.3882119655609131,
+          "id": 1729361965
+        },
+        {
+          "distance": 0.3884592056274414,
+          "id": 1729359415
+        },
+        {
+          "distance": 0.3892055153846741,
+          "id": 1729355519
+        },
+        {
+          "distance": 0.39237141609191895,
+          "id": 1729356681
+        },
+        {
+          "distance": 0.4087451100349426,
+          "id": 1729362527
+        },
+        {
+          "distance": 0.4105585813522339,
+          "id": 1729356699
+        },
+        {
+          "distance": 0.4134197235107422,
+          "id": 1729358115
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361013,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777641,
     "wof:name": "In our collection are a couple of onboard medical kits from the Pan American Clippers of the 1930s and ‘40s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

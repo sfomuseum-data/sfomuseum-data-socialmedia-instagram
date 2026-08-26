@@ -32,6 +32,50 @@
       "taken": 1621612680,
       "taken_at": "May 21, 2021 3:58 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24847185611724854,
+          "id": 1763558875
+        },
+        {
+          "distance": 0.3079950213432312,
+          "id": 1763559121
+        },
+        {
+          "distance": 0.3259643316268921,
+          "id": 1763558875
+        },
+        {
+          "distance": 0.32891273498535156,
+          "id": 1763558855
+        },
+        {
+          "distance": 0.3396974802017212,
+          "id": 1729356403
+        },
+        {
+          "distance": 0.3416546583175659,
+          "id": 1729356403
+        },
+        {
+          "distance": 0.3442080020904541,
+          "id": 1763559121
+        },
+        {
+          "distance": 0.35886746644973755,
+          "id": 1763559433
+        },
+        {
+          "distance": 0.35923802852630615,
+          "id": 1763559463
+        },
+        {
+          "distance": 0.3642934560775757,
+          "id": 1729363009
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1763559139,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Motorcycling and aviation legend Glenn Hammond Curtiss was born #OnThisDay in 1878...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

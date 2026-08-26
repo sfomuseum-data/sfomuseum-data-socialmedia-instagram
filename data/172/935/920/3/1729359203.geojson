@@ -48,6 +48,50 @@
       "taken": 1502369880,
       "taken_at": "Aug 10, 2017 12:58 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20843493938446045,
+          "id": 1729359023
+        },
+        {
+          "distance": 0.23115479946136475,
+          "id": 1729358517
+        },
+        {
+          "distance": 0.234106183052063,
+          "id": 1729358517
+        },
+        {
+          "distance": 0.2357335090637207,
+          "id": 1729358495
+        },
+        {
+          "distance": 0.2357993721961975,
+          "id": 1729359061
+        },
+        {
+          "distance": 0.2485080361366272,
+          "id": 1880151545
+        },
+        {
+          "distance": 0.2575027346611023,
+          "id": 1729359061
+        },
+        {
+          "distance": 0.2582396864891052,
+          "id": 1729358495
+        },
+        {
+          "distance": 0.27352607250213623,
+          "id": 1729359023
+        },
+        {
+          "distance": 0.2827534079551697,
+          "id": 1729358927
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -77,7 +121,7 @@
       }
     ],
     "wof:id": 1729359203,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Our newest exhibition, \"Empowering Threads: Textiles of Jolom Mayaetik\" will feature this 8-foot-long loom!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -94,5 +138,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

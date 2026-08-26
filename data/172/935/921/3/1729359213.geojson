@@ -25,6 +25,50 @@
       "taken": 1502122620,
       "taken_at": "Aug 07, 2017 4:17 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.25343018770217896,
+          "id": 1729355037
+        },
+        {
+          "distance": 0.26838093996047974,
+          "id": 1763558821
+        },
+        {
+          "distance": 0.2719534635543823,
+          "id": 1729356023
+        },
+        {
+          "distance": 0.28511667251586914,
+          "id": 1763558719
+        },
+        {
+          "distance": 0.2862081527709961,
+          "id": 1729358583
+        },
+        {
+          "distance": 0.2869376540184021,
+          "id": 1880151251
+        },
+        {
+          "distance": 0.28846919536590576,
+          "id": 1729359883
+        },
+        {
+          "distance": 0.2894957661628723,
+          "id": 1880151739
+        },
+        {
+          "distance": 0.29663002490997314,
+          "id": 1729358583
+        },
+        {
+          "distance": 0.30045539140701294,
+          "id": 1880151799
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359213,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "\"Wherever in the world you want to go...the world's largest fleet of over-ocean Jets is at your service...the Pan Am Jet Clipper Fleet\"  Pioneering jet travel with the Boeing 707, and later the 747, Pan American World Airways emphasized its position as the \"World's Most Experienced Airline\"...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

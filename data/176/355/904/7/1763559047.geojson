@@ -30,6 +30,50 @@
       "taken": 1627401120,
       "taken_at": "Jul 27, 2021 3:52 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.03605931997299194,
+          "id": 1729358035
+        },
+        {
+          "distance": 0.03717851638793945,
+          "id": 1729358391
+        },
+        {
+          "distance": 0.03945404291152954,
+          "id": 1729358377
+        },
+        {
+          "distance": 0.09341108798980713,
+          "id": 1729358035
+        },
+        {
+          "distance": 0.09427058696746826,
+          "id": 1729358381
+        },
+        {
+          "distance": 0.09433591365814209,
+          "id": 1729358391
+        },
+        {
+          "distance": 0.09702074527740479,
+          "id": 1729358377
+        },
+        {
+          "distance": 0.10398292541503906,
+          "id": 1729358041
+        },
+        {
+          "distance": 0.12555146217346191,
+          "id": 1729358381
+        },
+        {
+          "distance": 0.1609233021736145,
+          "id": 1729358041
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559047,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "#Onthisday in 1882, Geoffrey de Havilland was born in Buckinghamshire, United Kingdom...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -31,6 +31,50 @@
       "taken": 1673282640,
       "taken_at": "Jan 09, 2023 4:44 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20696943998336792,
+          "id": 1729357737
+        },
+        {
+          "distance": 0.20768147706985474,
+          "id": 1763558869
+        },
+        {
+          "distance": 0.21176522970199585,
+          "id": 1763558869
+        },
+        {
+          "distance": 0.2661935091018677,
+          "id": 1729362185
+        },
+        {
+          "distance": 0.2668067216873169,
+          "id": 1729362089
+        },
+        {
+          "distance": 0.26744139194488525,
+          "id": 1729362391
+        },
+        {
+          "distance": 0.284296452999115,
+          "id": 1763559173
+        },
+        {
+          "distance": 0.2916297912597656,
+          "id": 1880151225
+        },
+        {
+          "distance": 0.2932965159416199,
+          "id": 1880151225
+        },
+        {
+          "distance": 0.2943335771560669,
+          "id": 1729360147
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151203,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "This pencil-drawn site plan was produced by the City and County of San Francisco’s Department of Public Works, for the Mills Field Municipal Airport of San Francisco, titled “Progress Chart for Grading / Contract No...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

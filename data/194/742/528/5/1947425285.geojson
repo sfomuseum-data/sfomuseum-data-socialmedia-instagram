@@ -30,6 +30,50 @@
       "taken": 1695830820,
       "taken_at": "Sep 27, 2023 4:07 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18815666437149048,
+          "id": 1880150939
+        },
+        {
+          "distance": 0.2110639214515686,
+          "id": 1729355147
+        },
+        {
+          "distance": 0.21165239810943604,
+          "id": 1729359889
+        },
+        {
+          "distance": 0.2125873565673828,
+          "id": 1729355383
+        },
+        {
+          "distance": 0.21538883447647095,
+          "id": 1880150939
+        },
+        {
+          "distance": 0.22582274675369263,
+          "id": 1729355119
+        },
+        {
+          "distance": 0.23011445999145508,
+          "id": 1880151137
+        },
+        {
+          "distance": 0.2309272289276123,
+          "id": 1729355025
+        },
+        {
+          "distance": 0.23540449142456055,
+          "id": 1729355177
+        },
+        {
+          "distance": 0.23729091882705688,
+          "id": 1729359429
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1947425285,
-    "wof:lastmodified": 1733175331,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Miguel Arzabe collects and repurposes printed promotional material (posters, flyers, brochures, etc.)..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

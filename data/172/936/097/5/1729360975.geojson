@@ -25,6 +25,50 @@
       "taken": 1457176320,
       "taken_at": "Mar 05, 2016 11:12 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07066476345062256,
+          "id": 1729355477
+        },
+        {
+          "distance": 0.09651076793670654,
+          "id": 1729355477
+        },
+        {
+          "distance": 0.10541707277297974,
+          "id": 1729355649
+        },
+        {
+          "distance": 0.10724985599517822,
+          "id": 1729358663
+        },
+        {
+          "distance": 0.116854727268219,
+          "id": 1880151013
+        },
+        {
+          "distance": 0.1170240044593811,
+          "id": 1729358663
+        },
+        {
+          "distance": 0.11867088079452515,
+          "id": 1729355649
+        },
+        {
+          "distance": 0.13730627298355103,
+          "id": 1729357345
+        },
+        {
+          "distance": 0.14846837520599365,
+          "id": 1729358319
+        },
+        {
+          "distance": 0.15425825119018555,
+          "id": 1729358563
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360975,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "The first Boeing 747SP (Special Performance), the Clipper Young America, was delivered to Pan American World Airways #onthisday in 1976...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

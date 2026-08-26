@@ -32,6 +32,50 @@
       "taken": 1563470760,
       "taken_at": "Jul 18, 2019 5:26 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.26941990852355957,
+          "id": 1729360607
+        },
+        {
+          "distance": 0.2704780697822571,
+          "id": 1729356177
+        },
+        {
+          "distance": 0.27085691690444946,
+          "id": 1729356791
+        },
+        {
+          "distance": 0.28536856174468994,
+          "id": 1729355165
+        },
+        {
+          "distance": 0.28564924001693726,
+          "id": 1729355161
+        },
+        {
+          "distance": 0.2869531512260437,
+          "id": 1729357709
+        },
+        {
+          "distance": 0.29354554414749146,
+          "id": 1729359031
+        },
+        {
+          "distance": 0.29500722885131836,
+          "id": 1729361255
+        },
+        {
+          "distance": 0.29659026861190796,
+          "id": 1763559547
+        },
+        {
+          "distance": 0.2981301546096802,
+          "id": 1729357197
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729356293,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Before the AirTrain was completed in 2003, passengers were shuttled around SFO in buses...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

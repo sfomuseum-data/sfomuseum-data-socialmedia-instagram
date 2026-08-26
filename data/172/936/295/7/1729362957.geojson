@@ -25,6 +25,50 @@
       "taken": 1342105380,
       "taken_at": "Jul 12, 2012 3:03 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2167898416519165,
+          "id": 1729362709
+        },
+        {
+          "distance": 0.2335091233253479,
+          "id": 1729362259
+        },
+        {
+          "distance": 0.24320560693740845,
+          "id": 1729361929
+        },
+        {
+          "distance": 0.24586665630340576,
+          "id": 1729362165
+        },
+        {
+          "distance": 0.2520430088043213,
+          "id": 1729362655
+        },
+        {
+          "distance": 0.2532085180282593,
+          "id": 1729362655
+        },
+        {
+          "distance": 0.25587040185928345,
+          "id": 1729362229
+        },
+        {
+          "distance": 0.2637840509414673,
+          "id": 1729362031
+        },
+        {
+          "distance": 0.26651763916015625,
+          "id": 1729362619
+        },
+        {
+          "distance": 0.2677209973335266,
+          "id": 1729361929
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362957,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777657,
     "wof:name": "Not sure where you're going?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -33,6 +33,50 @@
       "taken": 1578646980,
       "taken_at": "Jan 10, 2020 9:03 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16702157258987427,
+          "id": 1729356753
+        },
+        {
+          "distance": 0.17509549856185913,
+          "id": 1729360469
+        },
+        {
+          "distance": 0.1965470314025879,
+          "id": 1763559365
+        },
+        {
+          "distance": 0.20001143217086792,
+          "id": 1729356753
+        },
+        {
+          "distance": 0.20297491550445557,
+          "id": 1729356033
+        },
+        {
+          "distance": 0.20610255002975464,
+          "id": 1729357345
+        },
+        {
+          "distance": 0.20646250247955322,
+          "id": 1729357345
+        },
+        {
+          "distance": 0.20789897441864014,
+          "id": 1729357561
+        },
+        {
+          "distance": 0.20842939615249634,
+          "id": 1729360469
+        },
+        {
+          "distance": 0.2111871838569641,
+          "id": 1729359569
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729355683,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777627,
     "wof:name": "#Onthisday in 1990, the McDonnell Douglas MD-11 took off on its first flight...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

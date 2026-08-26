@@ -34,6 +34,50 @@
       "taken": 1544723640,
       "taken_at": "Dec 13, 2018 5:54 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1309080719947815,
+          "id": 1729357925
+        },
+        {
+          "distance": 0.13138997554779053,
+          "id": 1729359501
+        },
+        {
+          "distance": 0.14741849899291992,
+          "id": 1729356143
+        },
+        {
+          "distance": 0.15426325798034668,
+          "id": 1729356143
+        },
+        {
+          "distance": 0.16564905643463135,
+          "id": 1729357189
+        },
+        {
+          "distance": 0.17570823431015015,
+          "id": 1729357925
+        },
+        {
+          "distance": 0.18140554428100586,
+          "id": 1729361573
+        },
+        {
+          "distance": 0.18635737895965576,
+          "id": 1729357751
+        },
+        {
+          "distance": 0.18857496976852417,
+          "id": 1729356749
+        },
+        {
+          "distance": 0.1895039677619934,
+          "id": 1729356749
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729357243,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777630,
     "wof:name": "Have you ever seen the cockpit of the Concorde?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

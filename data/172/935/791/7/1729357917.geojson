@@ -38,6 +38,50 @@
       "taken": 1532134260,
       "taken_at": "Jul 21, 2018 12:51 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.01167750358581543,
+          "id": 1729357867
+        },
+        {
+          "distance": 0.10954314470291138,
+          "id": 1729357867
+        },
+        {
+          "distance": 0.31790798902511597,
+          "id": 1880151529
+        },
+        {
+          "distance": 0.347964882850647,
+          "id": 1729358603
+        },
+        {
+          "distance": 0.3524503707885742,
+          "id": 1729357583
+        },
+        {
+          "distance": 0.3616918921470642,
+          "id": 1729361027
+        },
+        {
+          "distance": 0.36760830879211426,
+          "id": 1729357359
+        },
+        {
+          "distance": 0.3722960948944092,
+          "id": 1763559427
+        },
+        {
+          "distance": 0.3742240071296692,
+          "id": 1729357967
+        },
+        {
+          "distance": 0.3775838613510132,
+          "id": 1729356593
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729357917,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Cats have charmed people with their mysterious allure for thousands of years...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -39,6 +39,50 @@
       "taken": 1497469140,
       "taken_at": "Jun 14, 2017 7:39 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2005952000617981,
+          "id": 1763559643
+        },
+        {
+          "distance": 0.20418477058410645,
+          "id": 1729359183
+        },
+        {
+          "distance": 0.2143239974975586,
+          "id": 1763559113
+        },
+        {
+          "distance": 0.21834790706634521,
+          "id": 1729361467
+        },
+        {
+          "distance": 0.23361331224441528,
+          "id": 1763559079
+        },
+        {
+          "distance": 0.24158042669296265,
+          "id": 1763559643
+        },
+        {
+          "distance": 0.24705767631530762,
+          "id": 1729360313
+        },
+        {
+          "distance": 0.2598886489868164,
+          "id": 1729361731
+        },
+        {
+          "distance": 0.2636117935180664,
+          "id": 1729359139
+        },
+        {
+          "distance": 0.2657047510147095,
+          "id": 1729360205
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729359401,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "This two-tone uniform in checked and solid navy blue polyester was created in 1974 by American fashion designer Bill Blass (1922–2002), who was known for elegant daywear and traditional fabrics...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

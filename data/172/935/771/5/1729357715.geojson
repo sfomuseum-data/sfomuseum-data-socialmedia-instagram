@@ -36,6 +36,50 @@
       "taken": 1536060660,
       "taken_at": "Sep 04, 2018 11:31 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20817714929580688,
+          "id": 1763558835
+        },
+        {
+          "distance": 0.2093450427055359,
+          "id": 1729360245
+        },
+        {
+          "distance": 0.20981276035308838,
+          "id": 1729355249
+        },
+        {
+          "distance": 0.21867823600769043,
+          "id": 1763558925
+        },
+        {
+          "distance": 0.21938174962997437,
+          "id": 1729357693
+        },
+        {
+          "distance": 0.22095656394958496,
+          "id": 1729357325
+        },
+        {
+          "distance": 0.22655928134918213,
+          "id": 1729358347
+        },
+        {
+          "distance": 0.23177170753479004,
+          "id": 1729355059
+        },
+        {
+          "distance": 0.23407328128814697,
+          "id": 1729357499
+        },
+        {
+          "distance": 0.23500537872314453,
+          "id": 1763558835
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729357715,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "This is your last week to see \"\"Maneki Neko: Japan's Beckoning Cats.\"\"..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

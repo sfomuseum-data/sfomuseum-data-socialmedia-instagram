@@ -39,6 +39,50 @@
       "taken": 1540385700,
       "taken_at": "Oct 24, 2018 12:55 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10831594467163086,
+          "id": 1763559233
+        },
+        {
+          "distance": 0.1288469433784485,
+          "id": 1729361143
+        },
+        {
+          "distance": 0.13758325576782227,
+          "id": 1729357547
+        },
+        {
+          "distance": 0.14059984683990479,
+          "id": 1729359515
+        },
+        {
+          "distance": 0.14502739906311035,
+          "id": 1763559413
+        },
+        {
+          "distance": 0.14730393886566162,
+          "id": 1729361143
+        },
+        {
+          "distance": 0.14738225936889648,
+          "id": 1763559233
+        },
+        {
+          "distance": 0.15271532535552979,
+          "id": 1729358903
+        },
+        {
+          "distance": 0.1541730761528015,
+          "id": 1729360111
+        },
+        {
+          "distance": 0.1571594476699829,
+          "id": 1729360199
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729357513,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777632,
     "wof:name": "The second passenger terminal building at SFO was dedicated #onthisday in 1937...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

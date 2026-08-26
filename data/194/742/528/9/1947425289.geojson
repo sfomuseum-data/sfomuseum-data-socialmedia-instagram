@@ -25,6 +25,50 @@
       "taken": 1695658020,
       "taken_at": "Sep 25, 2023 4:07 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.030157625675201416,
+          "id": 1763559519
+        },
+        {
+          "distance": 0.03508633375167847,
+          "id": 1729356061
+        },
+        {
+          "distance": 0.07492417097091675,
+          "id": 1729356061
+        },
+        {
+          "distance": 0.07883739471435547,
+          "id": 1763559519
+        },
+        {
+          "distance": 0.16926860809326172,
+          "id": 1729358111
+        },
+        {
+          "distance": 0.19378578662872314,
+          "id": 1729356847
+        },
+        {
+          "distance": 0.1958264708518982,
+          "id": 1729358111
+        },
+        {
+          "distance": 0.19642210006713867,
+          "id": 1763559661
+        },
+        {
+          "distance": 0.2015843391418457,
+          "id": 1729356847
+        },
+        {
+          "distance": 0.2035369873046875,
+          "id": 1729357331
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -53,7 +97,7 @@
       }
     ],
     "wof:id": 1947425289,
-    "wof:lastmodified": 1733175331,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Olive Ann Beech (née Mellor) (1903 –1993) was born in Kansas in 1903...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -67,5 +111,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

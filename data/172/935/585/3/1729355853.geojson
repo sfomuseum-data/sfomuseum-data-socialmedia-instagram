@@ -35,6 +35,50 @@
       "taken": 1574765700,
       "taken_at": "Nov 26, 2019, 10:55 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.006421923637390137,
+          "id": 1729356361
+        },
+        {
+          "distance": 0.09921872615814209,
+          "id": 1729356361
+        },
+        {
+          "distance": 0.10409069061279297,
+          "id": 1729356343
+        },
+        {
+          "distance": 0.14637446403503418,
+          "id": 1729356353
+        },
+        {
+          "distance": 0.15012913942337036,
+          "id": 1729355855
+        },
+        {
+          "distance": 0.1539396047592163,
+          "id": 1729356343
+        },
+        {
+          "distance": 0.19158631563186646,
+          "id": 1729355835
+        },
+        {
+          "distance": 0.1925750970840454,
+          "id": 1729356465
+        },
+        {
+          "distance": 0.19402581453323364,
+          "id": 1729355835
+        },
+        {
+          "distance": 0.19521015882492065,
+          "id": 1729356469
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729355853,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777627,
     "wof:name": "The pedestal displayed here exhibits both veneering and marquetry...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

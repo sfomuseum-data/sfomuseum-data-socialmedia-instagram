@@ -25,6 +25,50 @@
       "taken": 1482433860,
       "taken_at": "Dec 22, 2016 7:11 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07418167591094971,
+          "id": 1729359845
+        },
+        {
+          "distance": 0.07717877626419067,
+          "id": 1729359421
+        },
+        {
+          "distance": 0.09210383892059326,
+          "id": 1729359615
+        },
+        {
+          "distance": 0.1069498062133789,
+          "id": 1729359421
+        },
+        {
+          "distance": 0.11113524436950684,
+          "id": 1729359615
+        },
+        {
+          "distance": 0.12687402963638306,
+          "id": 1729359845
+        },
+        {
+          "distance": 0.14504188299179077,
+          "id": 1729361055
+        },
+        {
+          "distance": 0.1500888466835022,
+          "id": 1729359587
+        },
+        {
+          "distance": 0.15679073333740234,
+          "id": 1729356987
+        },
+        {
+          "distance": 0.16546636819839478,
+          "id": 1729359587
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359983,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777638,
     "wof:name": "In no part of the world did gambling take place so openly and on such a large scale than in San Francisco during the Victorian era...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

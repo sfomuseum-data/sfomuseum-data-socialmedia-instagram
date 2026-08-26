@@ -52,6 +52,50 @@
       "taken": 1512665520,
       "taken_at": "Dec 7, 2017, 4:52 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09293299913406372,
+          "id": 1729358527
+        },
+        {
+          "distance": 0.09999114274978638,
+          "id": 1729358515
+        },
+        {
+          "distance": 0.10092699527740479,
+          "id": 1729358521
+        },
+        {
+          "distance": 0.11994391679763794,
+          "id": 1729358581
+        },
+        {
+          "distance": 0.1261615753173828,
+          "id": 1729358443
+        },
+        {
+          "distance": 0.13092637062072754,
+          "id": 1729358545
+        },
+        {
+          "distance": 0.13134747743606567,
+          "id": 1729358917
+        },
+        {
+          "distance": 0.13334298133850098,
+          "id": 1729358619
+        },
+        {
+          "distance": 0.1399822235107422,
+          "id": 1729358555
+        },
+        {
+          "distance": 0.14257609844207764,
+          "id": 1729358521
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -81,7 +125,7 @@
       }
     ],
     "wof:id": 1729358835,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Art found in ancient sites throughout the Chiapas highlands preserves images of early attire and the oldest symbols utilized in contemporary Mayan weaving...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -98,5 +142,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

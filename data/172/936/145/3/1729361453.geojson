@@ -25,6 +25,50 @@
       "taken": 1445023440,
       "taken_at": "Oct 16, 2015 7:24 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2306261658668518,
+          "id": 1947425271
+        },
+        {
+          "distance": 0.24089062213897705,
+          "id": 1729357593
+        },
+        {
+          "distance": 0.2532665729522705,
+          "id": 1729361227
+        },
+        {
+          "distance": 0.2605786919593811,
+          "id": 1947425271
+        },
+        {
+          "distance": 0.2680147886276245,
+          "id": 1729359523
+        },
+        {
+          "distance": 0.2739573121070862,
+          "id": 1729359987
+        },
+        {
+          "distance": 0.2759028673171997,
+          "id": 1729359987
+        },
+        {
+          "distance": 0.2792884111404419,
+          "id": 1729359947
+        },
+        {
+          "distance": 0.27990132570266724,
+          "id": 1729360297
+        },
+        {
+          "distance": 0.28058838844299316,
+          "id": 1729358457
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361453,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "In the 1930s, TWA (Transcontinental \u0026 Western Air, later Trans World Airlines) was known as the Lindbergh Line...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

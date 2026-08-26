@@ -34,6 +34,50 @@
       "taken": 1499762460,
       "taken_at": "Jul 11, 2017 8:41 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1529434323310852,
+          "id": 1729359223
+        },
+        {
+          "distance": 0.18207085132598877,
+          "id": 1729359871
+        },
+        {
+          "distance": 0.19684064388275146,
+          "id": 1729359223
+        },
+        {
+          "distance": 0.20882272720336914,
+          "id": 1729362209
+        },
+        {
+          "distance": 0.22949844598770142,
+          "id": 1729359871
+        },
+        {
+          "distance": 0.24558335542678833,
+          "id": 1729361289
+        },
+        {
+          "distance": 0.2483609914779663,
+          "id": 1729362309
+        },
+        {
+          "distance": 0.24859601259231567,
+          "id": 1729359469
+        },
+        {
+          "distance": 0.2517808675765991,
+          "id": 1729362149
+        },
+        {
+          "distance": 0.2549152374267578,
+          "id": 1729362173
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729359331,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "“From the dome of St. Peter’s one can see every notable object in Rome, from the Castle of St. Angelo to the Coliseum...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

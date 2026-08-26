@@ -30,6 +30,50 @@
       "taken": 1641321120,
       "taken_at": "Jan 04, 2022 6:32 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1644972562789917,
+          "id": 1763559309
+        },
+        {
+          "distance": 0.19244694709777832,
+          "id": 1763559309
+        },
+        {
+          "distance": 0.2053033709526062,
+          "id": 1763559361
+        },
+        {
+          "distance": 0.2201051115989685,
+          "id": 1729358639
+        },
+        {
+          "distance": 0.22282135486602783,
+          "id": 1763559361
+        },
+        {
+          "distance": 0.23082655668258667,
+          "id": 1729358639
+        },
+        {
+          "distance": 0.2614002227783203,
+          "id": 1729361283
+        },
+        {
+          "distance": 0.2961934208869934,
+          "id": 1729358645
+        },
+        {
+          "distance": 0.29731041193008423,
+          "id": 1729360245
+        },
+        {
+          "distance": 0.30186396837234497,
+          "id": 1880151305
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559669,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "The enslaved potter known as Dave inscribed poetry onto the pottery he made over the course of more than forty years...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

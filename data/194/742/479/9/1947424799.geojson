@@ -28,6 +28,50 @@
       "taken": 1731948480,
       "taken_at": "Nov 18, 2024 4:48 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13146382570266724,
+          "id": 1880151259
+        },
+        {
+          "distance": 0.13660234212875366,
+          "id": 1763559379
+        },
+        {
+          "distance": 0.1582774519920349,
+          "id": 1947425039
+        },
+        {
+          "distance": 0.16671216487884521,
+          "id": 1947424917
+        },
+        {
+          "distance": 0.1668792963027954,
+          "id": 1880150991
+        },
+        {
+          "distance": 0.16700750589370728,
+          "id": 1947424927
+        },
+        {
+          "distance": 0.16811156272888184,
+          "id": 1880151259
+        },
+        {
+          "distance": 0.1724334955215454,
+          "id": 1729355785
+        },
+        {
+          "distance": 0.18192005157470703,
+          "id": 1763559379
+        },
+        {
+          "distance": 0.1902274489402771,
+          "id": 1763559569
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1947424799,
-    "wof:lastmodified": 1733175316,
+    "wof:lastmodified": 1787777663,
     "wof:name": "Students of the photography program at the California College of the Arts (CCA) created the works in “Here and Home.” Photographs, which are passed down through generations, play an important role in how family members tell their stories...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -70,5 +114,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

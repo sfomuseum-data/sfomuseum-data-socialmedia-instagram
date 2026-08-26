@@ -40,6 +40,50 @@
       "taken": 1529002860,
       "taken_at": "Jun 14, 2018, 7:01 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16328907012939453,
+          "id": 1729358223
+        },
+        {
+          "distance": 0.1683860421180725,
+          "id": 1729357987
+        },
+        {
+          "distance": 0.1683860421180725,
+          "id": 1729357985
+        },
+        {
+          "distance": 0.17377138137817383,
+          "id": 1729358269
+        },
+        {
+          "distance": 0.17871946096420288,
+          "id": 1729357825
+        },
+        {
+          "distance": 0.18228405714035034,
+          "id": 1729358245
+        },
+        {
+          "distance": 0.19076573848724365,
+          "id": 1729357939
+        },
+        {
+          "distance": 0.19229650497436523,
+          "id": 1729358359
+        },
+        {
+          "distance": 0.19335389137268066,
+          "id": 1729358247
+        },
+        {
+          "distance": 0.19644522666931152,
+          "id": 1729358345
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729358115,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777632,
     "wof:name": "From picnics in the park, to outings at the beach or simply relaxing in the backyard, portable radios brought the style and excitement of radio technology outdoors...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

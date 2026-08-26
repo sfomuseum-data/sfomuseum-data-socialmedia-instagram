@@ -27,6 +27,50 @@
       "taken": 1716393060,
       "taken_at": "May 22, 2024 3:51 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12098824977874756,
+          "id": 1763559571
+        },
+        {
+          "distance": 0.13768911361694336,
+          "id": 1763559571
+        },
+        {
+          "distance": 0.14560681581497192,
+          "id": 1729355237
+        },
+        {
+          "distance": 0.14592903852462769,
+          "id": 1880151415
+        },
+        {
+          "distance": 0.16149556636810303,
+          "id": 1880151415
+        },
+        {
+          "distance": 0.18010592460632324,
+          "id": 1880151649
+        },
+        {
+          "distance": 0.18388432264328003,
+          "id": 1763558935
+        },
+        {
+          "distance": 0.19022893905639648,
+          "id": 1763559417
+        },
+        {
+          "distance": 0.19446665048599243,
+          "id": 1880151235
+        },
+        {
+          "distance": 0.19618332386016846,
+          "id": 1880150993
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947425001,
-    "wof:lastmodified": 1733175323,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Harvey Milk Day, organized by the Harvey Milk Foundation (@harveymilkfoundation), is celebrated each year on May 22 on Harvey Milk’s birthday...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

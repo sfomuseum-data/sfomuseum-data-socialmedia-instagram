@@ -29,6 +29,50 @@
       "taken": 1569588780,
       "taken_at": "Sep 27, 2019 12:53 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20696288347244263,
+          "id": 1729358849
+        },
+        {
+          "distance": 0.22949731349945068,
+          "id": 1729360175
+        },
+        {
+          "distance": 0.2449551820755005,
+          "id": 1729356907
+        },
+        {
+          "distance": 0.2606092095375061,
+          "id": 1729359007
+        },
+        {
+          "distance": 0.26254957914352417,
+          "id": 1729359301
+        },
+        {
+          "distance": 0.26374977827072144,
+          "id": 1729358849
+        },
+        {
+          "distance": 0.2642582058906555,
+          "id": 1729358403
+        },
+        {
+          "distance": 0.2696072459220886,
+          "id": 1729360469
+        },
+        {
+          "distance": 0.2717820405960083,
+          "id": 1729355167
+        },
+        {
+          "distance": 0.2744244337081909,
+          "id": 1729356495
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729356053,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777628,
     "wof:name": "Today is #WorldTourismDay!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

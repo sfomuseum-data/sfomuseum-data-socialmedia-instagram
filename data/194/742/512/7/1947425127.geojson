@@ -29,6 +29,50 @@
       "taken": 1707496440,
       "taken_at": "Feb 09, 2024 4:34 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.22892427444458008,
+          "id": 1947424879
+        },
+        {
+          "distance": 0.2377481460571289,
+          "id": 1729361283
+        },
+        {
+          "distance": 0.2463119626045227,
+          "id": 1947424823
+        },
+        {
+          "distance": 0.24841415882110596,
+          "id": 1763559361
+        },
+        {
+          "distance": 0.25926995277404785,
+          "id": 1729362675
+        },
+        {
+          "distance": 0.26090580224990845,
+          "id": 1729362751
+        },
+        {
+          "distance": 0.27532410621643066,
+          "id": 1947424945
+        },
+        {
+          "distance": 0.27636343240737915,
+          "id": 1880151379
+        },
+        {
+          "distance": 0.28052520751953125,
+          "id": 1729360679
+        },
+        {
+          "distance": 0.28135401010513306,
+          "id": 1880151305
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1947425127,
-    "wof:lastmodified": 1733175326,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Happy Lunar New Year!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

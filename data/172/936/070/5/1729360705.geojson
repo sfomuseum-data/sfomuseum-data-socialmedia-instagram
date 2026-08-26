@@ -25,6 +25,50 @@
       "taken": 1463675400,
       "taken_at": "May 19, 2016 4:30 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1299809217453003,
+          "id": 1729355035
+        },
+        {
+          "distance": 0.18632805347442627,
+          "id": 1729355035
+        },
+        {
+          "distance": 0.1872820258140564,
+          "id": 1880151063
+        },
+        {
+          "distance": 0.19461727142333984,
+          "id": 1763559233
+        },
+        {
+          "distance": 0.1966620683670044,
+          "id": 1729360111
+        },
+        {
+          "distance": 0.19686102867126465,
+          "id": 1729358903
+        },
+        {
+          "distance": 0.20677030086517334,
+          "id": 1729362257
+        },
+        {
+          "distance": 0.20696192979812622,
+          "id": 1729356859
+        },
+        {
+          "distance": 0.20747041702270508,
+          "id": 1729361143
+        },
+        {
+          "distance": 0.21131718158721924,
+          "id": 1729357855
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360705,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Hangar No...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

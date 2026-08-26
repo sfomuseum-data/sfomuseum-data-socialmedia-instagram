@@ -29,6 +29,50 @@
       "taken": 1720626420,
       "taken_at": "Jul 10, 2024 3:47 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2769837975502014,
+          "id": 1880151011
+        },
+        {
+          "distance": 0.27714449167251587,
+          "id": 1880150979
+        },
+        {
+          "distance": 0.2877834439277649,
+          "id": 1947424795
+        },
+        {
+          "distance": 0.2885819673538208,
+          "id": 1729360681
+        },
+        {
+          "distance": 0.29228299856185913,
+          "id": 1880150965
+        },
+        {
+          "distance": 0.293163537979126,
+          "id": 1947425209
+        },
+        {
+          "distance": 0.2931895852088928,
+          "id": 1947425237
+        },
+        {
+          "distance": 0.2990018129348755,
+          "id": 1880150997
+        },
+        {
+          "distance": 0.2991623878479004,
+          "id": 1947425141
+        },
+        {
+          "distance": 0.3023964762687683,
+          "id": 1947425261
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1947424949,
-    "wof:lastmodified": 1733175321,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Did you know SFO Museum has an exhibition prep area where we can mockup exhibitions on a 1:1 scale?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

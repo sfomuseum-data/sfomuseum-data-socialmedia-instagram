@@ -25,6 +25,50 @@
       "taken": 1483119840,
       "taken_at": "Dec 30, 2016 5:44 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.21442753076553345,
+          "id": 1729359293
+        },
+        {
+          "distance": 0.2215002179145813,
+          "id": 1729359467
+        },
+        {
+          "distance": 0.2249656319618225,
+          "id": 1729360013
+        },
+        {
+          "distance": 0.22593539953231812,
+          "id": 1763559499
+        },
+        {
+          "distance": 0.2308567762374878,
+          "id": 1729359995
+        },
+        {
+          "distance": 0.23737680912017822,
+          "id": 1729359325
+        },
+        {
+          "distance": 0.2377907633781433,
+          "id": 1729360101
+        },
+        {
+          "distance": 0.24197757244110107,
+          "id": 1729360013
+        },
+        {
+          "distance": 0.2448596954345703,
+          "id": 1729359467
+        },
+        {
+          "distance": 0.24578803777694702,
+          "id": 1729359995
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359957,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "In 1970, Jean Louis (1907–1997) re-imagined United Air Lines' uniform for the wide-body jet era...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

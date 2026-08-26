@@ -25,6 +25,50 @@
       "taken": 1339166880,
       "taken_at": "Jun 08, 2012 2:48 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13215458393096924,
+          "id": 1729362917
+        },
+        {
+          "distance": 0.14385616779327393,
+          "id": 1729362793
+        },
+        {
+          "distance": 0.1809624433517456,
+          "id": 1729361585
+        },
+        {
+          "distance": 0.20119816064834595,
+          "id": 1729362917
+        },
+        {
+          "distance": 0.20966976881027222,
+          "id": 1729362817
+        },
+        {
+          "distance": 0.21368664503097534,
+          "id": 1729362793
+        },
+        {
+          "distance": 0.22038370370864868,
+          "id": 1729362201
+        },
+        {
+          "distance": 0.22388577461242676,
+          "id": 1729362997
+        },
+        {
+          "distance": 0.22436994314193726,
+          "id": 1729362817
+        },
+        {
+          "distance": 0.22571301460266113,
+          "id": 1729361585
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362993,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777657,
     "wof:name": "Model of Pan Am's Boeing 314, the California Clipper, on view in the #Aviation Museum..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -42,6 +42,50 @@
       "taken": 1498080840,
       "taken_at": "Jun 21, 2017 9:34 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24007880687713623,
+          "id": 1729359521
+        },
+        {
+          "distance": 0.2587999105453491,
+          "id": 1729356497
+        },
+        {
+          "distance": 0.28560423851013184,
+          "id": 1729359521
+        },
+        {
+          "distance": 0.295415461063385,
+          "id": 1763559539
+        },
+        {
+          "distance": 0.299747109413147,
+          "id": 1729359681
+        },
+        {
+          "distance": 0.29983001947402954,
+          "id": 1729358943
+        },
+        {
+          "distance": 0.30277925729751587,
+          "id": 1729356481
+        },
+        {
+          "distance": 0.3108503222465515,
+          "id": 1729357143
+        },
+        {
+          "distance": 0.31587445735931396,
+          "id": 1729359671
+        },
+        {
+          "distance": 0.3164675831794739,
+          "id": 1729356497
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -71,7 +115,7 @@
       }
     ],
     "wof:id": 1729359407,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "In May of 1967, Elaine Mayes was a young freelance photographer living in San Francisco when Hullabaloo magazine assigned her to document a three-day concert scheduled for June 16th through June 18th at the Monterey County Fairgrounds, one hundred miles south of the city...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -88,5 +132,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

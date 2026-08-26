@@ -31,6 +31,50 @@
       "taken": 1588336440,
       "taken_at": "May 01, 2020 12:34 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17893922328948975,
+          "id": 1729355313
+        },
+        {
+          "distance": 0.1897575855255127,
+          "id": 1729355315
+        },
+        {
+          "distance": 0.19494551420211792,
+          "id": 1763559173
+        },
+        {
+          "distance": 0.20534300804138184,
+          "id": 1729360937
+        },
+        {
+          "distance": 0.20536154508590698,
+          "id": 1729359145
+        },
+        {
+          "distance": 0.20626956224441528,
+          "id": 1729359713
+        },
+        {
+          "distance": 0.20792150497436523,
+          "id": 1729355793
+        },
+        {
+          "distance": 0.21145468950271606,
+          "id": 1729355361
+        },
+        {
+          "distance": 0.21334397792816162,
+          "id": 1729355793
+        },
+        {
+          "distance": 0.2228870987892151,
+          "id": 1729358135
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729355307,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777623,
     "wof:name": "Pan American Airways pioneered commercial airline service to Latin America and the Caribbean in the late 1920s and early 1930s, when air travel was first developing into a viable form of transportation...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

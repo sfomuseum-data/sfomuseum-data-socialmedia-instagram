@@ -25,6 +25,50 @@
       "taken": 1610017620,
       "taken_at": "Jan 07, 2021 11:07 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.30709439516067505,
+          "id": 1763559437
+        },
+        {
+          "distance": 0.34032392501831055,
+          "id": 1763559437
+        },
+        {
+          "distance": 0.34518247842788696,
+          "id": 1729356007
+        },
+        {
+          "distance": 0.34821778535842896,
+          "id": 1729356007
+        },
+        {
+          "distance": 0.3720366954803467,
+          "id": 1729358943
+        },
+        {
+          "distance": 0.3724045753479004,
+          "id": 1763559091
+        },
+        {
+          "distance": 0.3774152994155884,
+          "id": 1729357607
+        },
+        {
+          "distance": 0.3789408802986145,
+          "id": 1729358943
+        },
+        {
+          "distance": 0.3803853392601013,
+          "id": 1729360445
+        },
+        {
+          "distance": 0.38242995738983154,
+          "id": 1763559271
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1763558927,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "With actual face-to-face interaction limited by this public health crisis, many of us are missing that human connectivity that is so crucial to our happiness...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

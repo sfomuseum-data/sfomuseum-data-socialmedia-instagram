@@ -37,6 +37,50 @@
       "taken": 1580838960,
       "taken_at": "Feb 4, 2020, 5:56 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24251800775527954,
+          "id": 1729355541
+        },
+        {
+          "distance": 0.3004017472267151,
+          "id": 1729356955
+        },
+        {
+          "distance": 0.33004164695739746,
+          "id": 1729357097
+        },
+        {
+          "distance": 0.3306630849838257,
+          "id": 1729356985
+        },
+        {
+          "distance": 0.3312262296676636,
+          "id": 1729356933
+        },
+        {
+          "distance": 0.33838677406311035,
+          "id": 1729359177
+        },
+        {
+          "distance": 0.34001100063323975,
+          "id": 1729358233
+        },
+        {
+          "distance": 0.34001100063323975,
+          "id": 1763558729
+        },
+        {
+          "distance": 0.3418766260147095,
+          "id": 1729356409
+        },
+        {
+          "distance": 0.3436703085899353,
+          "id": 1729359681
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729355601,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777626,
     "wof:name": "Brooklyn-based filmmaker Eugene Kolb recalls love at first sight in this charming animated short that illustrates the story of how he and his partner Clara met and fell for each other while riding a subway train...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

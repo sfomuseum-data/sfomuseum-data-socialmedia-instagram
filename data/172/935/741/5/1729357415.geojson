@@ -37,6 +37,50 @@
       "taken": 1541362680,
       "taken_at": "Nov 4, 2018, 8:18 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18386751413345337,
+          "id": 1729357433
+        },
+        {
+          "distance": 0.2070971131324768,
+          "id": 1729357429
+        },
+        {
+          "distance": 0.21095776557922363,
+          "id": 1729357097
+        },
+        {
+          "distance": 0.23443084955215454,
+          "id": 1729359425
+        },
+        {
+          "distance": 0.25696682929992676,
+          "id": 1729357895
+        },
+        {
+          "distance": 0.26039010286331177,
+          "id": 1729356819
+        },
+        {
+          "distance": 0.26431357860565186,
+          "id": 1729355997
+        },
+        {
+          "distance": 0.2657838463783264,
+          "id": 1729355145
+        },
+        {
+          "distance": 0.2668986916542053,
+          "id": 1729356577
+        },
+        {
+          "distance": 0.2739993929862976,
+          "id": 1729362075
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729357415,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777631,
     "wof:name": "Every winter, hundreds of thousands of starlings migrate from northern Europe to the countryside near Rome in search of a warmer climate...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

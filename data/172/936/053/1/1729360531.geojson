@@ -25,6 +25,50 @@
       "taken": 1467908220,
       "taken_at": "Jul 07, 2016 4:17 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09276372194290161,
+          "id": 1880150909
+        },
+        {
+          "distance": 0.10947155952453613,
+          "id": 1729357323
+        },
+        {
+          "distance": 0.12931209802627563,
+          "id": 1729358457
+        },
+        {
+          "distance": 0.13500314950942993,
+          "id": 1729359145
+        },
+        {
+          "distance": 0.1432611346244812,
+          "id": 1729359933
+        },
+        {
+          "distance": 0.14536845684051514,
+          "id": 1880151063
+        },
+        {
+          "distance": 0.14632099866867065,
+          "id": 1880150909
+        },
+        {
+          "distance": 0.14740288257598877,
+          "id": 1880151041
+        },
+        {
+          "distance": 0.15002644062042236,
+          "id": 1729356859
+        },
+        {
+          "distance": 0.15552544593811035,
+          "id": 1729357547
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360531,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "The suburban landscape surrounding SFO has changed a lot since the 1940s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

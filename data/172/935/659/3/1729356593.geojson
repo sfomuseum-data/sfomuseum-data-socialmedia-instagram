@@ -38,6 +38,50 @@
       "taken": 1557176820,
       "taken_at": "May 06, 2019 9:07 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1050228476524353,
+          "id": 1729356141
+        },
+        {
+          "distance": 0.13302987813949585,
+          "id": 1729356247
+        },
+        {
+          "distance": 0.13462871313095093,
+          "id": 1729356141
+        },
+        {
+          "distance": 0.14466440677642822,
+          "id": 1729356247
+        },
+        {
+          "distance": 0.1631191372871399,
+          "id": 1729356461
+        },
+        {
+          "distance": 0.17299318313598633,
+          "id": 1729356197
+        },
+        {
+          "distance": 0.17904114723205566,
+          "id": 1729356371
+        },
+        {
+          "distance": 0.18345731496810913,
+          "id": 1729356209
+        },
+        {
+          "distance": 0.18800795078277588,
+          "id": 1729356241
+        },
+        {
+          "distance": 0.18802332878112793,
+          "id": 1729356297
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729356593,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Do you know that butterflies are a type of moth?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

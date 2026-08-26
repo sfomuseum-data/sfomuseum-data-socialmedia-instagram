@@ -30,6 +30,50 @@
       "taken": 1604500020,
       "taken_at": "Nov 04, 2020 2:27 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2727040648460388,
+          "id": 1729360785
+        },
+        {
+          "distance": 0.2835114002227783,
+          "id": 1729360641
+        },
+        {
+          "distance": 0.303416907787323,
+          "id": 1729359199
+        },
+        {
+          "distance": 0.31238025426864624,
+          "id": 1729361355
+        },
+        {
+          "distance": 0.313961923122406,
+          "id": 1729358887
+        },
+        {
+          "distance": 0.3142731189727783,
+          "id": 1729358887
+        },
+        {
+          "distance": 0.3203791379928589,
+          "id": 1729359199
+        },
+        {
+          "distance": 0.32082849740982056,
+          "id": 1729358463
+        },
+        {
+          "distance": 0.3210330605506897,
+          "id": 1729360785
+        },
+        {
+          "distance": 0.3257880210876465,
+          "id": 1729360641
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559005,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Do you ever wonder how animals traveled in the past?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

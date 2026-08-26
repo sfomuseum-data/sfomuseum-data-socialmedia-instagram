@@ -56,6 +56,50 @@
       "taken": 1504262640,
       "taken_at": "Sep 1, 2017, 10:44 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1434699296951294,
+          "id": 1729359417
+        },
+        {
+          "distance": 0.15902107954025269,
+          "id": 1729359365
+        },
+        {
+          "distance": 0.1726219654083252,
+          "id": 1729358661
+        },
+        {
+          "distance": 0.19681614637374878,
+          "id": 1729359121
+        },
+        {
+          "distance": 0.1992257833480835,
+          "id": 1729359417
+        },
+        {
+          "distance": 0.21292632818222046,
+          "id": 1729359125
+        },
+        {
+          "distance": 0.22209125757217407,
+          "id": 1729359485
+        },
+        {
+          "distance": 0.22363156080245972,
+          "id": 1729358989
+        },
+        {
+          "distance": 0.22726738452911377,
+          "id": 1729360019
+        },
+        {
+          "distance": 0.22749817371368408,
+          "id": 1729357683
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -85,7 +129,7 @@
       }
     ],
     "wof:id": 1729359119,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Kanji, or Japanese character writing, is based on Chinese script and shares many meanings and definitions...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -102,5 +146,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

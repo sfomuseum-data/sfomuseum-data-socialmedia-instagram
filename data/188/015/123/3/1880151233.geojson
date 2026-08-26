@@ -30,6 +30,50 @@
       "taken": 1672334820,
       "taken_at": "Dec 29, 2022 5:27 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1279786229133606,
+          "id": 1729355989
+        },
+        {
+          "distance": 0.12951195240020752,
+          "id": 1729355989
+        },
+        {
+          "distance": 0.14534497261047363,
+          "id": 1880151717
+        },
+        {
+          "distance": 0.1568664312362671,
+          "id": 1880151617
+        },
+        {
+          "distance": 0.16873162984848022,
+          "id": 1880151717
+        },
+        {
+          "distance": 0.19240891933441162,
+          "id": 1880151005
+        },
+        {
+          "distance": 0.193647563457489,
+          "id": 1880151617
+        },
+        {
+          "distance": 0.20409280061721802,
+          "id": 1729362901
+        },
+        {
+          "distance": 0.21167713403701782,
+          "id": 1880151005
+        },
+        {
+          "distance": 0.21841013431549072,
+          "id": 1729357255
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151233,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Following the passage of the Airline Deregulation Act, in 1979 Allegheny Airways changed its name to US Air...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

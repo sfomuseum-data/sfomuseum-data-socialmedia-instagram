@@ -32,6 +32,50 @@
       "taken": 1575654900,
       "taken_at": "Dec 6, 2019, 5:55 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15006667375564575,
+          "id": 1729361235
+        },
+        {
+          "distance": 0.15846741199493408,
+          "id": 1729360905
+        },
+        {
+          "distance": 0.18196678161621094,
+          "id": 1729360963
+        },
+        {
+          "distance": 0.18219703435897827,
+          "id": 1729361235
+        },
+        {
+          "distance": 0.19440299272537231,
+          "id": 1729360963
+        },
+        {
+          "distance": 0.21212512254714966,
+          "id": 1729357235
+        },
+        {
+          "distance": 0.22769999504089355,
+          "id": 1729355539
+        },
+        {
+          "distance": 0.2467537522315979,
+          "id": 1729355539
+        },
+        {
+          "distance": 0.2510937452316284,
+          "id": 1729356667
+        },
+        {
+          "distance": 0.26185178756713867,
+          "id": 1729357159
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729355809,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777627,
     "wof:name": "Peter Voulkos (1924–2002) was at the leading edge of a revolution in American ceramics...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

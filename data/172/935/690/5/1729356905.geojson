@@ -34,6 +34,50 @@
       "taken": 1551029100,
       "taken_at": "Feb 24, 2019 5:25 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.30814915895462036,
+          "id": 1729357777
+        },
+        {
+          "distance": 0.315451979637146,
+          "id": 1729359635
+        },
+        {
+          "distance": 0.32300204038619995,
+          "id": 1763558975
+        },
+        {
+          "distance": 0.3354646563529968,
+          "id": 1729355455
+        },
+        {
+          "distance": 0.34049755334854126,
+          "id": 1729361371
+        },
+        {
+          "distance": 0.3450000286102295,
+          "id": 1729359919
+        },
+        {
+          "distance": 0.35003989934921265,
+          "id": 1729360993
+        },
+        {
+          "distance": 0.3508204221725464,
+          "id": 1729360651
+        },
+        {
+          "distance": 0.35669416189193726,
+          "id": 1729359919
+        },
+        {
+          "distance": 0.35791176557540894,
+          "id": 1729355455
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729356905,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Located in Oakland, Peralta Elementary School is a public school where art enhances every aspect of student learning...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -31,6 +31,50 @@
       "taken": 1547128860,
       "taken_at": "Jan 10, 2019 2:01 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.004093050956726074,
+          "id": 1880151243
+        },
+        {
+          "distance": 0.13627082109451294,
+          "id": 1729359159
+        },
+        {
+          "distance": 0.1543547511100769,
+          "id": 1729355207
+        },
+        {
+          "distance": 0.16452240943908691,
+          "id": 1880151243
+        },
+        {
+          "distance": 0.18315982818603516,
+          "id": 1729360279
+        },
+        {
+          "distance": 0.18761855363845825,
+          "id": 1729355207
+        },
+        {
+          "distance": 0.19952517747879028,
+          "id": 1729360121
+        },
+        {
+          "distance": 0.20394420623779297,
+          "id": 1729355091
+        },
+        {
+          "distance": 0.20641952753067017,
+          "id": 1880151095
+        },
+        {
+          "distance": 0.21182513236999512,
+          "id": 1729359159
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729357103,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777630,
     "wof:name": "What did Terminal 2 look like in the 1980s?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

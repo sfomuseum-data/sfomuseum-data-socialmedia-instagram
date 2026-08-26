@@ -36,6 +36,50 @@
       "taken": 1578692100,
       "taken_at": "Jan 10, 2020, 9:35 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.04506409168243408,
+          "id": 1729356205
+        },
+        {
+          "distance": 0.16045266389846802,
+          "id": 1729356125
+        },
+        {
+          "distance": 0.16842323541641235,
+          "id": 1729356419
+        },
+        {
+          "distance": 0.17735731601715088,
+          "id": 1729356205
+        },
+        {
+          "distance": 0.19609153270721436,
+          "id": 1729355775
+        },
+        {
+          "distance": 0.2035313844680786,
+          "id": 1729356161
+        },
+        {
+          "distance": 0.208027184009552,
+          "id": 1729355901
+        },
+        {
+          "distance": 0.21265989542007446,
+          "id": 1729356397
+        },
+        {
+          "distance": 0.21350866556167603,
+          "id": 1729355975
+        },
+        {
+          "distance": 0.2514106035232544,
+          "id": 1729356487
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729355681,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777627,
     "wof:name": "Louis Comfort Tiffany (1848–1933) left a prodigious mark on American glass and decorative arts during his career that spanned nearly fifty years...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

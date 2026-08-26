@@ -29,6 +29,50 @@
       "taken": 1719935400,
       "taken_at": "Jul 02, 2024 3:50 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06525582075119019,
+          "id": 1880151285
+        },
+        {
+          "distance": 0.11939054727554321,
+          "id": 1880151285
+        },
+        {
+          "distance": 0.17031759023666382,
+          "id": 1880151253
+        },
+        {
+          "distance": 0.17687106132507324,
+          "id": 1880151241
+        },
+        {
+          "distance": 0.19551217555999756,
+          "id": 1763559105
+        },
+        {
+          "distance": 0.20227015018463135,
+          "id": 1880151253
+        },
+        {
+          "distance": 0.20492273569107056,
+          "id": 1947425185
+        },
+        {
+          "distance": 0.20678722858428955,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.21418404579162598,
+          "id": 1880151241
+        },
+        {
+          "distance": 0.21638846397399902,
+          "id": 1729357611
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1947424961,
-    "wof:lastmodified": 1733175321,
+    "wof:lastmodified": 1787777664,
     "wof:name": "San Francisco-based artist Paul Madonna is known for blending poetic and poignant text with lush and inviting hand-drawn cityscapes...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

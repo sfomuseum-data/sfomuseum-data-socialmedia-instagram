@@ -36,6 +36,50 @@
       "taken": 1538659500,
       "taken_at": "Oct 04, 2018 1:25 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.045861244201660156,
+          "id": 1729360445
+        },
+        {
+          "distance": 0.0885733962059021,
+          "id": 1729360445
+        },
+        {
+          "distance": 0.2690870761871338,
+          "id": 1729359587
+        },
+        {
+          "distance": 0.2858467102050781,
+          "id": 1729359587
+        },
+        {
+          "distance": 0.3077559471130371,
+          "id": 1729359845
+        },
+        {
+          "distance": 0.3119691014289856,
+          "id": 1729359421
+        },
+        {
+          "distance": 0.3138337731361389,
+          "id": 1729359615
+        },
+        {
+          "distance": 0.31456679105758667,
+          "id": 1729357969
+        },
+        {
+          "distance": 0.3149746060371399,
+          "id": 1729359983
+        },
+        {
+          "distance": 0.320453941822052,
+          "id": 1729359421
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729357607,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777632,
     "wof:name": "A barbershop opened at San Francisco International Airport in the 1970s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

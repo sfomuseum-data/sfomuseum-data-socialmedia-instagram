@@ -25,6 +25,50 @@
       "taken": 1518217860,
       "taken_at": "Feb 09, 2018 11:11 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.35859978199005127,
+          "id": 1947425129
+        },
+        {
+          "distance": 0.36031389236450195,
+          "id": 1729355083
+        },
+        {
+          "distance": 0.3611208200454712,
+          "id": 1729355083
+        },
+        {
+          "distance": 0.36403632164001465,
+          "id": 1729360409
+        },
+        {
+          "distance": 0.3671368956565857,
+          "id": 1729360663
+        },
+        {
+          "distance": 0.3696073889732361,
+          "id": 1729360933
+        },
+        {
+          "distance": 0.3735195994377136,
+          "id": 1729360663
+        },
+        {
+          "distance": 0.37431222200393677,
+          "id": 1729360409
+        },
+        {
+          "distance": 0.3859533667564392,
+          "id": 1947425129
+        },
+        {
+          "distance": 0.40229296684265137,
+          "id": 1729359455
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729358571,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Are you excited about the #WinterOlympics?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

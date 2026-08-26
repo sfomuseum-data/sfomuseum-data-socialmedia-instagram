@@ -40,6 +40,50 @@
       "taken": 1518101400,
       "taken_at": "Feb 08, 2018 2:50 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24764478206634521,
+          "id": 1729358405
+        },
+        {
+          "distance": 0.2558758854866028,
+          "id": 1729361085
+        },
+        {
+          "distance": 0.25654852390289307,
+          "id": 1729361255
+        },
+        {
+          "distance": 0.25786083936691284,
+          "id": 1729355091
+        },
+        {
+          "distance": 0.2592312693595886,
+          "id": 1729359289
+        },
+        {
+          "distance": 0.26126593351364136,
+          "id": 1729360551
+        },
+        {
+          "distance": 0.2634970545768738,
+          "id": 1729357969
+        },
+        {
+          "distance": 0.2639540433883667,
+          "id": 1729355333
+        },
+        {
+          "distance": 0.26634079217910767,
+          "id": 1729355143
+        },
+        {
+          "distance": 0.2684261202812195,
+          "id": 1729355333
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729358589,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "This photo from around 1985 shows a United Airlines employee cleaning a flight information kiosk with cathode ray tube (CRT) displays...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

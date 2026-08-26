@@ -25,6 +25,50 @@
       "taken": 1709224740,
       "taken_at": "Feb 29, 2024 4:39 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.03758472204208374,
+          "id": 1729359457
+        },
+        {
+          "distance": 0.12426990270614624,
+          "id": 1729359457
+        },
+        {
+          "distance": 0.3296416401863098,
+          "id": 1729361243
+        },
+        {
+          "distance": 0.3401804566383362,
+          "id": 1729355167
+        },
+        {
+          "distance": 0.34263235330581665,
+          "id": 1729355971
+        },
+        {
+          "distance": 0.34299540519714355,
+          "id": 1729358537
+        },
+        {
+          "distance": 0.35091400146484375,
+          "id": 1729357043
+        },
+        {
+          "distance": 0.3513104319572449,
+          "id": 1729357661
+        },
+        {
+          "distance": 0.35139864683151245,
+          "id": 1729358441
+        },
+        {
+          "distance": 0.35169267654418945,
+          "id": 1729360007
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -53,7 +97,7 @@
       }
     ],
     "wof:id": 1947425099,
-    "wof:lastmodified": 1733175325,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Not only did Beverly Carlson take a flight on Leap Day during a Leap Year, she also flew across the equator on a Qantas Empire Airways Boeing 707...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -67,5 +111,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

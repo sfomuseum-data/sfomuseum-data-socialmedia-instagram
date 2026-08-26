@@ -39,6 +39,50 @@
       "taken": 1540035660,
       "taken_at": "Oct 20, 2018 11:41 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17521744966506958,
+          "id": 1729356889
+        },
+        {
+          "distance": 0.18429183959960938,
+          "id": 1729356889
+        },
+        {
+          "distance": 0.2004687786102295,
+          "id": 1729357485
+        },
+        {
+          "distance": 0.20691734552383423,
+          "id": 1729357467
+        },
+        {
+          "distance": 0.20719611644744873,
+          "id": 1729358025
+        },
+        {
+          "distance": 0.2072126269340515,
+          "id": 1729358025
+        },
+        {
+          "distance": 0.21027374267578125,
+          "id": 1729357807
+        },
+        {
+          "distance": 0.2106105089187622,
+          "id": 1729357583
+        },
+        {
+          "distance": 0.2130029797554016,
+          "id": 1729357507
+        },
+        {
+          "distance": 0.21409547328948975,
+          "id": 1729357583
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729357519,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777632,
     "wof:name": "By the 17th century, many Japanese people kept cats as pets, and felines frequently appeared on decorated ceramics...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

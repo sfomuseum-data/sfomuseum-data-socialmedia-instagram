@@ -28,6 +28,50 @@
       "taken": 1484486160,
       "taken_at": "Jan 15, 2017 1:16 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2591032385826111,
+          "id": 1729357097
+        },
+        {
+          "distance": 0.2736092805862427,
+          "id": 1729359941
+        },
+        {
+          "distance": 0.2772185206413269,
+          "id": 1729355903
+        },
+        {
+          "distance": 0.2803378701210022,
+          "id": 1729359425
+        },
+        {
+          "distance": 0.2845308780670166,
+          "id": 1729357827
+        },
+        {
+          "distance": 0.2854853868484497,
+          "id": 1729355677
+        },
+        {
+          "distance": 0.2856040596961975,
+          "id": 1729355903
+        },
+        {
+          "distance": 0.28694039583206177,
+          "id": 1729355677
+        },
+        {
+          "distance": 0.2911651134490967,
+          "id": 1729356665
+        },
+        {
+          "distance": 0.2944986820220947,
+          "id": 1729355749
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1729359911,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "Bob Cornelis has always been struck by the sublime beauty of paper...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

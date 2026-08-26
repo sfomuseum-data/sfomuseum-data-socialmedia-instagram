@@ -25,6 +25,50 @@
       "taken": 1472057760,
       "taken_at": "Aug 24, 2016 4:56 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1822311282157898,
+          "id": 1729355505
+        },
+        {
+          "distance": 0.18586140871047974,
+          "id": 1729359307
+        },
+        {
+          "distance": 0.2040863037109375,
+          "id": 1729355505
+        },
+        {
+          "distance": 0.21365314722061157,
+          "id": 1729358079
+        },
+        {
+          "distance": 0.2183017134666443,
+          "id": 1729355273
+        },
+        {
+          "distance": 0.22507649660110474,
+          "id": 1729359645
+        },
+        {
+          "distance": 0.2283560037612915,
+          "id": 1729359511
+        },
+        {
+          "distance": 0.22892063856124878,
+          "id": 1729359511
+        },
+        {
+          "distance": 0.2304764986038208,
+          "id": 1729355691
+        },
+        {
+          "distance": 0.23530173301696777,
+          "id": 1729355977
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360399,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "In 1970, PSA introduced a form-fitting polyester princess-line dress with a matching jacket, complemented by either a heart-shaped hat or dome-style hat and a choice of boots or pumps...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

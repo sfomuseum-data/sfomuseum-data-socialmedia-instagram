@@ -38,6 +38,50 @@
       "taken": 1517742000,
       "taken_at": "Feb 04, 2018 11:00 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.05225282907485962,
+          "id": 1729359483
+        },
+        {
+          "distance": 0.1143108606338501,
+          "id": 1729359483
+        },
+        {
+          "distance": 0.14863121509552002,
+          "id": 1729359843
+        },
+        {
+          "distance": 0.16168731451034546,
+          "id": 1729358203
+        },
+        {
+          "distance": 0.1623516082763672,
+          "id": 1729359843
+        },
+        {
+          "distance": 0.16706860065460205,
+          "id": 1729358203
+        },
+        {
+          "distance": 0.19048774242401123,
+          "id": 1763558833
+        },
+        {
+          "distance": 0.19268053770065308,
+          "id": 1729362189
+        },
+        {
+          "distance": 0.20592057704925537,
+          "id": 1729356707
+        },
+        {
+          "distance": 0.206462562084198,
+          "id": 1729355233
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729358607,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Happy Birthday Charles Lindbergh!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

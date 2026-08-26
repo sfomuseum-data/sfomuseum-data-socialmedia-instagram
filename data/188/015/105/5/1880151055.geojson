@@ -30,6 +30,50 @@
       "taken": 1678811160,
       "taken_at": "Mar 14, 2023 4:26 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.4393047094345093,
+          "id": 1729359323
+        },
+        {
+          "distance": 0.45455682277679443,
+          "id": 1729359313
+        },
+        {
+          "distance": 0.45455682277679443,
+          "id": 1763558669
+        },
+        {
+          "distance": 0.47562724351882935,
+          "id": 1763559201
+        },
+        {
+          "distance": 0.4872046113014221,
+          "id": 1763559611
+        },
+        {
+          "distance": 0.4890972971916199,
+          "id": 1729359547
+        },
+        {
+          "distance": 0.49107712507247925,
+          "id": 1729359323
+        },
+        {
+          "distance": 0.5019844770431519,
+          "id": 1763559201
+        },
+        {
+          "distance": 0.502203643321991,
+          "id": 1729359313
+        },
+        {
+          "distance": 0.502203643321991,
+          "id": 1763558669
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151055,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777661,
     "wof:name": "People often ask: “Where is the museum at SFO?” One way to answer this question is to say: The airport is the museum...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

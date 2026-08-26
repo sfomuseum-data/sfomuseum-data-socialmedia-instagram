@@ -25,6 +25,50 @@
       "taken": 1449741000,
       "taken_at": "Dec 10, 2015 9:50 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.197026789188385,
+          "id": 1729362675
+        },
+        {
+          "distance": 0.20955371856689453,
+          "id": 1947424879
+        },
+        {
+          "distance": 0.21620768308639526,
+          "id": 1880151305
+        },
+        {
+          "distance": 0.23251289129257202,
+          "id": 1729362675
+        },
+        {
+          "distance": 0.2351716160774231,
+          "id": 1729360655
+        },
+        {
+          "distance": 0.2376747727394104,
+          "id": 1947425127
+        },
+        {
+          "distance": 0.242109477519989,
+          "id": 1729362137
+        },
+        {
+          "distance": 0.24775022268295288,
+          "id": 1729362175
+        },
+        {
+          "distance": 0.2497345209121704,
+          "id": 1729362117
+        },
+        {
+          "distance": 0.25181639194488525,
+          "id": 1729362751
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361283,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "In 2010, we produced an exhibition called “Japanese Ceramics: An Enduring Tradition”...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

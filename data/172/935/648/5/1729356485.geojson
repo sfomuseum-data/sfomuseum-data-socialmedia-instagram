@@ -30,6 +30,50 @@
       "taken": 1559557920,
       "taken_at": "Jun 03, 2019 10:32 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1367012858390808,
+          "id": 1729358785
+        },
+        {
+          "distance": 0.1584697961807251,
+          "id": 1729355619
+        },
+        {
+          "distance": 0.16720223426818848,
+          "id": 1729355477
+        },
+        {
+          "distance": 0.17505931854248047,
+          "id": 1729357345
+        },
+        {
+          "distance": 0.176643967628479,
+          "id": 1729355477
+        },
+        {
+          "distance": 0.17941927909851074,
+          "id": 1729360975
+        },
+        {
+          "distance": 0.1818016767501831,
+          "id": 1729358785
+        },
+        {
+          "distance": 0.18245679140090942,
+          "id": 1729355649
+        },
+        {
+          "distance": 0.18407869338989258,
+          "id": 1729358663
+        },
+        {
+          "distance": 0.190839946269989,
+          "id": 1729357345
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729356485,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Pan Am Express was a subsidiary of Pan American World Airways primarily focused on connecting passengers to Pan Am's hub at John F. Kennedy International Airport (JFK) for Latin American and trans-Atlantic routes, but also provided regional services in many other areas of the U.S., as well as the Bahamas and Europe...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

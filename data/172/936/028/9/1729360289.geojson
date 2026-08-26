@@ -25,6 +25,50 @@
       "taken": 1475143260,
       "taken_at": "Sep 29, 2016 10:01 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.00868290662765503,
+          "id": 1729359267
+        },
+        {
+          "distance": 0.10670357942581177,
+          "id": 1729359267
+        },
+        {
+          "distance": 0.17219603061676025,
+          "id": 1729360473
+        },
+        {
+          "distance": 0.21280652284622192,
+          "id": 1729360473
+        },
+        {
+          "distance": 0.21850574016571045,
+          "id": 1729360405
+        },
+        {
+          "distance": 0.22431713342666626,
+          "id": 1729360551
+        },
+        {
+          "distance": 0.229123055934906,
+          "id": 1729358395
+        },
+        {
+          "distance": 0.2447914481163025,
+          "id": 1763559041
+        },
+        {
+          "distance": 0.24887484312057495,
+          "id": 1729360551
+        },
+        {
+          "distance": 0.24993598461151123,
+          "id": 1729360523
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360289,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "From the hiring of the world’s first airline stewardess in 1930—which took place in San Francisco—the flight attendant uniform has been documented in photographs ranging from the formal to the impromptu...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

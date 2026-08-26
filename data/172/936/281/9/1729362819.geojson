@@ -25,6 +25,50 @@
       "taken": 1356691860,
       "taken_at": "Dec 28, 2012 10:51 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2623941898345947,
+          "id": 1729362727
+        },
+        {
+          "distance": 0.26891064643859863,
+          "id": 1729362571
+        },
+        {
+          "distance": 0.2739298343658447,
+          "id": 1729362641
+        },
+        {
+          "distance": 0.27506422996520996,
+          "id": 1729362291
+        },
+        {
+          "distance": 0.27585822343826294,
+          "id": 1729362419
+        },
+        {
+          "distance": 0.2837778925895691,
+          "id": 1729362079
+        },
+        {
+          "distance": 0.28515636920928955,
+          "id": 1729360393
+        },
+        {
+          "distance": 0.28680795431137085,
+          "id": 1729362327
+        },
+        {
+          "distance": 0.2875770926475525,
+          "id": 1729362327
+        },
+        {
+          "distance": 0.2913787364959717,
+          "id": 1729359185
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362819,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777648,
     "wof:name": "It's quiet around here, but exhibitions are humming along as usual...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

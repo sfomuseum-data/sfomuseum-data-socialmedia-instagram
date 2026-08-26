@@ -25,6 +25,50 @@
       "taken": 1458386940,
       "taken_at": "Mar 19, 2016 11:29 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.143549382686615,
+          "id": 1729357293
+        },
+        {
+          "distance": 0.19682419300079346,
+          "id": 1729357293
+        },
+        {
+          "distance": 0.2165544629096985,
+          "id": 1729356979
+        },
+        {
+          "distance": 0.2196255326271057,
+          "id": 1729355559
+        },
+        {
+          "distance": 0.22114086151123047,
+          "id": 1729355245
+        },
+        {
+          "distance": 0.22281908988952637,
+          "id": 1729360263
+        },
+        {
+          "distance": 0.22363144159317017,
+          "id": 1763559547
+        },
+        {
+          "distance": 0.22630244493484497,
+          "id": 1729361085
+        },
+        {
+          "distance": 0.23000198602676392,
+          "id": 1763559617
+        },
+        {
+          "distance": 0.23350447416305542,
+          "id": 1880151167
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360921,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "The field of aeronautical engineering led to some of the most profound technological advancements of the 20th century...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

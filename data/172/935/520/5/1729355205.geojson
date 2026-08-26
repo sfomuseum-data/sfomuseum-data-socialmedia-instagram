@@ -25,6 +25,50 @@
       "taken": 1594121400,
       "taken_at": "Jul 07, 2020 11:30 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.31518930196762085,
+          "id": 1763559295
+        },
+        {
+          "distance": 0.3292456865310669,
+          "id": 1763559129
+        },
+        {
+          "distance": 0.3342331647872925,
+          "id": 1729359897
+        },
+        {
+          "distance": 0.33636021614074707,
+          "id": 1763559295
+        },
+        {
+          "distance": 0.3381536602973938,
+          "id": 1763559129
+        },
+        {
+          "distance": 0.34366899728775024,
+          "id": 1729360245
+        },
+        {
+          "distance": 0.3439600467681885,
+          "id": 1729359343
+        },
+        {
+          "distance": 0.34419405460357666,
+          "id": 1763559431
+        },
+        {
+          "distance": 0.346846342086792,
+          "id": 1947425291
+        },
+        {
+          "distance": 0.34786343574523926,
+          "id": 1729358913
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729355205,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777619,
     "wof:name": "Our newest gallery space, located behind security in Harvey Milk Terminal 1, is getting ready for its inaugural exhibition, “Eclectic Taste: Victorian Silver Plate”...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

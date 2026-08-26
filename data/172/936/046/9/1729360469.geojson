@@ -25,6 +25,50 @@
       "taken": 1470414480,
       "taken_at": "Aug 05, 2016 4:28 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12652266025543213,
+          "id": 1729357345
+        },
+        {
+          "distance": 0.13601911067962646,
+          "id": 1729357345
+        },
+        {
+          "distance": 0.14347374439239502,
+          "id": 1729357255
+        },
+        {
+          "distance": 0.1444188952445984,
+          "id": 1729356753
+        },
+        {
+          "distance": 0.14506763219833374,
+          "id": 1729356033
+        },
+        {
+          "distance": 0.14539974927902222,
+          "id": 1729356033
+        },
+        {
+          "distance": 0.15370476245880127,
+          "id": 1729357769
+        },
+        {
+          "distance": 0.15646499395370483,
+          "id": 1763558745
+        },
+        {
+          "distance": 0.1570492386817932,
+          "id": 1729355171
+        },
+        {
+          "distance": 0.15845662355422974,
+          "id": 1729357061
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360469,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "The first McDonnell Douglas DC-10 entered service #onthisday in 1971...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

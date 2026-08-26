@@ -39,6 +39,50 @@
       "taken": 1520964180,
       "taken_at": "Mar 13, 2018 6:03 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.27012091875076294,
+          "id": 1729358445
+        },
+        {
+          "distance": 0.28498029708862305,
+          "id": 1729358445
+        },
+        {
+          "distance": 0.29635679721832275,
+          "id": 1729358399
+        },
+        {
+          "distance": 0.32025808095932007,
+          "id": 1729358549
+        },
+        {
+          "distance": 0.32305628061294556,
+          "id": 1729358101
+        },
+        {
+          "distance": 0.3294004201889038,
+          "id": 1729358149
+        },
+        {
+          "distance": 0.3306124210357666,
+          "id": 1729358301
+        },
+        {
+          "distance": 0.3366672396659851,
+          "id": 1729358275
+        },
+        {
+          "distance": 0.35077571868896484,
+          "id": 1729357507
+        },
+        {
+          "distance": 0.3561563491821289,
+          "id": 1729356961
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729358473,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777633,
     "wof:name": "These two cats, imitating the gods Daikoku and Ebisu, are playing Go, a strategy board game invented in China more than 2,500 years ago...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -29,6 +29,50 @@
       "taken": 1569516300,
       "taken_at": "Sep 26, 2019 4:45 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06139713525772095,
+          "id": 1729355495
+        },
+        {
+          "distance": 0.08209627866744995,
+          "id": 1729356529
+        },
+        {
+          "distance": 0.09494894742965698,
+          "id": 1763559419
+        },
+        {
+          "distance": 0.09560412168502808,
+          "id": 1729357503
+        },
+        {
+          "distance": 0.10306376218795776,
+          "id": 1729360209
+        },
+        {
+          "distance": 0.10629689693450928,
+          "id": 1729358971
+        },
+        {
+          "distance": 0.10967528820037842,
+          "id": 1729355945
+        },
+        {
+          "distance": 0.11185622215270996,
+          "id": 1729355687
+        },
+        {
+          "distance": 0.11770081520080566,
+          "id": 1729355495
+        },
+        {
+          "distance": 0.12115174531936646,
+          "id": 1729358665
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729356065,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777628,
     "wof:name": "#Onthisday in 1973, the first non-stop Concorde flight over the North Atlantic was completed in a record-breaking duration of 3 hours 33 minutes...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

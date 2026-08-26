@@ -46,6 +46,50 @@
       "taken": 1502894040,
       "taken_at": "Aug 16, 2017 2:34 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1577918529510498,
+          "id": 1763559113
+        },
+        {
+          "distance": 0.16370725631713867,
+          "id": 1763559079
+        },
+        {
+          "distance": 0.2040368914604187,
+          "id": 1729359401
+        },
+        {
+          "distance": 0.2120969295501709,
+          "id": 1729361731
+        },
+        {
+          "distance": 0.21762466430664062,
+          "id": 1763559079
+        },
+        {
+          "distance": 0.21818971633911133,
+          "id": 1729360205
+        },
+        {
+          "distance": 0.22782021760940552,
+          "id": 1763559113
+        },
+        {
+          "distance": 0.2290334701538086,
+          "id": 1729360149
+        },
+        {
+          "distance": 0.23141956329345703,
+          "id": 1729360329
+        },
+        {
+          "distance": 0.23420965671539307,
+          "id": 1763559475
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -75,7 +119,7 @@
       }
     ],
     "wof:id": 1729359183,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Created for TWA by knitwear maker Dalton Apparel, this uniform was introduced in the summer of 1968 and worn until 1971...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -92,5 +136,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

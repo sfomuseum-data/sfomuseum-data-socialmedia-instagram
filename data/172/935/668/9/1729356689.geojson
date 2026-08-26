@@ -25,6 +25,50 @@
       "taken": 1554979080,
       "taken_at": "Apr 11, 2019 10:38 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.40647125244140625,
+          "id": 1729362179
+        },
+        {
+          "distance": 0.41141724586486816,
+          "id": 1947424881
+        },
+        {
+          "distance": 0.4152931571006775,
+          "id": 1729358205
+        },
+        {
+          "distance": 0.4227057099342346,
+          "id": 1729357027
+        },
+        {
+          "distance": 0.42732542753219604,
+          "id": 1729360897
+        },
+        {
+          "distance": 0.42879718542099,
+          "id": 1729356743
+        },
+        {
+          "distance": 0.42887628078460693,
+          "id": 1729357485
+        },
+        {
+          "distance": 0.4329416751861572,
+          "id": 1729357485
+        },
+        {
+          "distance": 0.4364185929298401,
+          "id": 1729360241
+        },
+        {
+          "distance": 0.4365012049674988,
+          "id": 1729357791
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729356689,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "It is #NationalPetDay...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

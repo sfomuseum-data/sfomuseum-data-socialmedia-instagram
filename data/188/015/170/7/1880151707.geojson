@@ -30,6 +30,50 @@
       "taken": 1653484020,
       "taken_at": "May 25, 2022 1:07 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10937362909317017,
+          "id": 1763559649
+        },
+        {
+          "distance": 0.12882059812545776,
+          "id": 1880151323
+        },
+        {
+          "distance": 0.13515442609786987,
+          "id": 1880151217
+        },
+        {
+          "distance": 0.13604223728179932,
+          "id": 1763559649
+        },
+        {
+          "distance": 0.14492839574813843,
+          "id": 1880151493
+        },
+        {
+          "distance": 0.16255700588226318,
+          "id": 1763559523
+        },
+        {
+          "distance": 0.16262048482894897,
+          "id": 1880151323
+        },
+        {
+          "distance": 0.1633983850479126,
+          "id": 1880151245
+        },
+        {
+          "distance": 0.16376924514770508,
+          "id": 1763559523
+        },
+        {
+          "distance": 0.16838431358337402,
+          "id": 1880151217
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151707,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777663,
     "wof:name": "Christian Herter (1839–83) arrived in New York from Germany in 1859 and became a full partner in his brother Gustave’s firm in 1864, forming Herter Brothers...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

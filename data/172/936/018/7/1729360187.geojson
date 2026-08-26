@@ -38,6 +38,50 @@
       "taken": 1477938900,
       "taken_at": "Oct 31, 2016 6:35 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1144859790802002,
+          "id": 1729355295
+        },
+        {
+          "distance": 0.1745370626449585,
+          "id": 1729355295
+        },
+        {
+          "distance": 0.3376503586769104,
+          "id": 1729361609
+        },
+        {
+          "distance": 0.33946019411087036,
+          "id": 1880151253
+        },
+        {
+          "distance": 0.3579480051994324,
+          "id": 1729356225
+        },
+        {
+          "distance": 0.3585694432258606,
+          "id": 1729359429
+        },
+        {
+          "distance": 0.36637771129608154,
+          "id": 1947425185
+        },
+        {
+          "distance": 0.3666761517524719,
+          "id": 1880151713
+        },
+        {
+          "distance": 0.36704057455062866,
+          "id": 1729355341
+        },
+        {
+          "distance": 0.36818206310272217,
+          "id": 1880151253
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729360187,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "SFO Museum offers exploration areas that allow children to “let off steam” prior to their flights scattered around the airport...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -38,6 +38,50 @@
       "taken": 1530033420,
       "taken_at": "Jun 26, 2018 5:17 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.017808735370635986,
+          "id": 1729361341
+        },
+        {
+          "distance": 0.12936437129974365,
+          "id": 1729361341
+        },
+        {
+          "distance": 0.27979785203933716,
+          "id": 1729360641
+        },
+        {
+          "distance": 0.31033676862716675,
+          "id": 1729357279
+        },
+        {
+          "distance": 0.31830692291259766,
+          "id": 1729360475
+        },
+        {
+          "distance": 0.32130223512649536,
+          "id": 1729360489
+        },
+        {
+          "distance": 0.32470428943634033,
+          "id": 1729357279
+        },
+        {
+          "distance": 0.3292849063873291,
+          "id": 1729360427
+        },
+        {
+          "distance": 0.3339897394180298,
+          "id": 1729360641
+        },
+        {
+          "distance": 0.33418238162994385,
+          "id": 1947424967
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729358067,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Summer is upon us in the Northern Hemisphere...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

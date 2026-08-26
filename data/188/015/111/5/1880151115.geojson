@@ -31,6 +31,50 @@
       "taken": 1676481060,
       "taken_at": "Feb 15, 2023 5:11 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1692042350769043,
+          "id": 1880151439
+        },
+        {
+          "distance": 0.20538926124572754,
+          "id": 1880151439
+        },
+        {
+          "distance": 0.20568662881851196,
+          "id": 1947425291
+        },
+        {
+          "distance": 0.2085697054862976,
+          "id": 1880151187
+        },
+        {
+          "distance": 0.22630709409713745,
+          "id": 1947425257
+        },
+        {
+          "distance": 0.22963309288024902,
+          "id": 1729355929
+        },
+        {
+          "distance": 0.22997039556503296,
+          "id": 1729356307
+        },
+        {
+          "distance": 0.23204505443572998,
+          "id": 1947424843
+        },
+        {
+          "distance": 0.2337195873260498,
+          "id": 1729357337
+        },
+        {
+          "distance": 0.24138885736465454,
+          "id": 1763558801
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151115,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Zahara Schatz (1916–99) created modern decorative arts from metal and laminated plastic...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

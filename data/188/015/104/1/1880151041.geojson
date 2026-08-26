@@ -29,6 +29,50 @@
       "taken": 1679587500,
       "taken_at": "Mar 23, 2023 4:05 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0684393048286438,
+          "id": 1729359537
+        },
+        {
+          "distance": 0.12084805965423584,
+          "id": 1729361317
+        },
+        {
+          "distance": 0.12161386013031006,
+          "id": 1729359537
+        },
+        {
+          "distance": 0.14031916856765747,
+          "id": 1880150909
+        },
+        {
+          "distance": 0.14717411994934082,
+          "id": 1729360531
+        },
+        {
+          "distance": 0.15929359197616577,
+          "id": 1763559173
+        },
+        {
+          "distance": 0.16796016693115234,
+          "id": 1729356131
+        },
+        {
+          "distance": 0.17378610372543335,
+          "id": 1729359235
+        },
+        {
+          "distance": 0.18386328220367432,
+          "id": 1729360235
+        },
+        {
+          "distance": 0.19021791219711304,
+          "id": 1880150909
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880151041,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777661,
     "wof:name": "There was beautiful weather #onthisday in 1966!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

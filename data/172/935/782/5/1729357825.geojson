@@ -39,6 +39,50 @@
       "taken": 1533658260,
       "taken_at": "Aug 07, 2018 4:11 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06938540935516357,
+          "id": 1729358359
+        },
+        {
+          "distance": 0.08394712209701538,
+          "id": 1729358223
+        },
+        {
+          "distance": 0.09882491827011108,
+          "id": 1729358375
+        },
+        {
+          "distance": 0.10331237316131592,
+          "id": 1729358021
+        },
+        {
+          "distance": 0.13092029094696045,
+          "id": 1729358223
+        },
+        {
+          "distance": 0.14370864629745483,
+          "id": 1729358373
+        },
+        {
+          "distance": 0.14484363794326782,
+          "id": 1729358359
+        },
+        {
+          "distance": 0.1605948805809021,
+          "id": 1729357987
+        },
+        {
+          "distance": 0.1605948805809021,
+          "id": 1729357985
+        },
+        {
+          "distance": 0.17389607429504395,
+          "id": 1729358375
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729357825,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "During the 1930s, the finest radio sets were influenced by popular aesthetic movements such as Art Deco, with designs rendered in streamlined and asymmetrical shapes...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

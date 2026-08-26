@@ -34,6 +34,50 @@
       "taken": 1566915720,
       "taken_at": "Aug 27, 2019 2:22 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.02291285991668701,
+          "id": 1729355901
+        },
+        {
+          "distance": 0.09048330783843994,
+          "id": 1729355901
+        },
+        {
+          "distance": 0.14374637603759766,
+          "id": 1729356125
+        },
+        {
+          "distance": 0.17938655614852905,
+          "id": 1729356487
+        },
+        {
+          "distance": 0.18729567527770996,
+          "id": 1729356419
+        },
+        {
+          "distance": 0.18836373090744019,
+          "id": 1729356125
+        },
+        {
+          "distance": 0.1956942081451416,
+          "id": 1729356487
+        },
+        {
+          "distance": 0.20078903436660767,
+          "id": 1729356205
+        },
+        {
+          "distance": 0.20356261730194092,
+          "id": 1729355681
+        },
+        {
+          "distance": 0.21121221780776978,
+          "id": 1729356397
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729356161,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777628,
     "wof:name": "Exposure to Ancient Egypt inspired the Egyptian Revival, a design style that permeated western decorative arts and furniture in the nineteenth century...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

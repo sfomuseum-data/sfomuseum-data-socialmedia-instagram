@@ -32,6 +32,50 @@
       "taken": 1541510700,
       "taken_at": "Nov 06, 2018 1:25 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.322998583316803,
+          "id": 1729361623
+        },
+        {
+          "distance": 0.3270387053489685,
+          "id": 1729359015
+        },
+        {
+          "distance": 0.34314578771591187,
+          "id": 1729359015
+        },
+        {
+          "distance": 0.34487706422805786,
+          "id": 1729355197
+        },
+        {
+          "distance": 0.345903217792511,
+          "id": 1729360867
+        },
+        {
+          "distance": 0.3466206192970276,
+          "id": 1729359319
+        },
+        {
+          "distance": 0.3473374843597412,
+          "id": 1729357961
+        },
+        {
+          "distance": 0.3618147373199463,
+          "id": 1729361623
+        },
+        {
+          "distance": 0.3776663541793823,
+          "id": 1729360867
+        },
+        {
+          "distance": 0.37874835729599,
+          "id": 1729359281
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729357419,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777631,
     "wof:name": "Daylight savings time just ended in the United States, signaling the beginning of winter...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

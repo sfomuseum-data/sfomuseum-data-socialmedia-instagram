@@ -33,6 +33,50 @@
       "taken": 1580488020,
       "taken_at": "Jan 31, 2020 4:27 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12040102481842041,
+          "id": 1729359397
+        },
+        {
+          "distance": 0.13662934303283691,
+          "id": 1729358209
+        },
+        {
+          "distance": 0.14319086074829102,
+          "id": 1763559085
+        },
+        {
+          "distance": 0.1534772515296936,
+          "id": 1729359645
+        },
+        {
+          "distance": 0.1538487672805786,
+          "id": 1763559125
+        },
+        {
+          "distance": 0.17300176620483398,
+          "id": 1729358635
+        },
+        {
+          "distance": 0.19517886638641357,
+          "id": 1729359397
+        },
+        {
+          "distance": 0.20084726810455322,
+          "id": 1763559229
+        },
+        {
+          "distance": 0.20485740900039673,
+          "id": 1729360723
+        },
+        {
+          "distance": 0.20584285259246826,
+          "id": 1763558867
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729355605,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777626,
     "wof:name": "Introduced on April 1,1949 by Pan American World Airways, the Boeing 377 Stratocruiser was considered the most luxurious airliner in the skies...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

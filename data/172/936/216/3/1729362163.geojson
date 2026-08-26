@@ -25,6 +25,50 @@
       "taken": 1408627200,
       "taken_at": "Aug 21, 2014 1:20 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24410104751586914,
+          "id": 1729363007
+        },
+        {
+          "distance": 0.24418306350708008,
+          "id": 1729362107
+        },
+        {
+          "distance": 0.2476704716682434,
+          "id": 1729363015
+        },
+        {
+          "distance": 0.25583773851394653,
+          "id": 1729362989
+        },
+        {
+          "distance": 0.25923043489456177,
+          "id": 1729363007
+        },
+        {
+          "distance": 0.2599272131919861,
+          "id": 1729362235
+        },
+        {
+          "distance": 0.2625925540924072,
+          "id": 1729362235
+        },
+        {
+          "distance": 0.2633880376815796,
+          "id": 1729362999
+        },
+        {
+          "distance": 0.27427172660827637,
+          "id": 1729362961
+        },
+        {
+          "distance": 0.2753119468688965,
+          "id": 1729362983
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362163,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777646,
     "wof:name": "Among the tools of the #Tiffany trade: tweezers, hammers, files, and shards upon shards of glass...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

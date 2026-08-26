@@ -30,6 +30,50 @@
       "taken": 1664986560,
       "taken_at": "Oct 05, 2022 4:16 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06050240993499756,
+          "id": 1880151109
+        },
+        {
+          "distance": 0.11452126502990723,
+          "id": 1880151109
+        },
+        {
+          "distance": 0.12511533498764038,
+          "id": 1880151175
+        },
+        {
+          "distance": 0.13410723209381104,
+          "id": 1880151337
+        },
+        {
+          "distance": 0.14735352993011475,
+          "id": 1880151049
+        },
+        {
+          "distance": 0.15084761381149292,
+          "id": 1729356411
+        },
+        {
+          "distance": 0.15333694219589233,
+          "id": 1947425187
+        },
+        {
+          "distance": 0.17501580715179443,
+          "id": 1880151175
+        },
+        {
+          "distance": 0.17852294445037842,
+          "id": 1880151631
+        },
+        {
+          "distance": 0.18058019876480103,
+          "id": 1880151337
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151409,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Flown by Australian pilots Charles Kingsford Smith (1897–1935) and Charles Ulm (1898–1934), with navigation and radio operations performed by American crew members Harry Lyon (c...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

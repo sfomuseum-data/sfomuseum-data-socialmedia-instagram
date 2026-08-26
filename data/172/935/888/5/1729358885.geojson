@@ -45,6 +45,50 @@
       "taken": 1511264760,
       "taken_at": "Nov 21, 2017 11:46 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16069430112838745,
+          "id": 1729362073
+        },
+        {
+          "distance": 0.18894058465957642,
+          "id": 1729362073
+        },
+        {
+          "distance": 0.25021976232528687,
+          "id": 1729356825
+        },
+        {
+          "distance": 0.25021976232528687,
+          "id": 1729356823
+        },
+        {
+          "distance": 0.26745766401290894,
+          "id": 1729360785
+        },
+        {
+          "distance": 0.27402371168136597,
+          "id": 1729357679
+        },
+        {
+          "distance": 0.2784860134124756,
+          "id": 1729357293
+        },
+        {
+          "distance": 0.2818523645401001,
+          "id": 1729360513
+        },
+        {
+          "distance": 0.2836151719093323,
+          "id": 1880150903
+        },
+        {
+          "distance": 0.28729790449142456,
+          "id": 1729360811
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -74,7 +118,7 @@
       }
     ],
     "wof:id": 1729358885,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "In the 1950s, people weren't the only airplane passengers!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -91,5 +135,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

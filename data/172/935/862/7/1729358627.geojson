@@ -42,6 +42,50 @@
       "taken": 1517067720,
       "taken_at": "Jan 27, 2018, 3:42 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.00002300739288330078,
+          "id": 1763558723
+        },
+        {
+          "distance": 0.08091431856155396,
+          "id": 1763558723
+        },
+        {
+          "distance": 0.09135216474533081,
+          "id": 1729361165
+        },
+        {
+          "distance": 0.1180570125579834,
+          "id": 1729361165
+        },
+        {
+          "distance": 0.1527755856513977,
+          "id": 1763559247
+        },
+        {
+          "distance": 0.16237503290176392,
+          "id": 1729358695
+        },
+        {
+          "distance": 0.1676732301712036,
+          "id": 1729357041
+        },
+        {
+          "distance": 0.16812485456466675,
+          "id": 1880151169
+        },
+        {
+          "distance": 0.17028796672821045,
+          "id": 1763559257
+        },
+        {
+          "distance": 0.17066192626953125,
+          "id": 1763558939
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -71,7 +115,7 @@
       }
     ],
     "wof:id": 1729358627,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777634,
     "wof:name": "#OnThisDay in 1939, Pan American Airways received its first two Boeing 314 flying boats...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -88,5 +132,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

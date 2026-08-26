@@ -29,6 +29,50 @@
       "taken": 1589408460,
       "taken_at": "May 13, 2020 10:21 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.08492279052734375,
+          "id": 1729359201
+        },
+        {
+          "distance": 0.12173628807067871,
+          "id": 1729355335
+        },
+        {
+          "distance": 0.1232098937034607,
+          "id": 1729360551
+        },
+        {
+          "distance": 0.1265752911567688,
+          "id": 1763558845
+        },
+        {
+          "distance": 0.13880717754364014,
+          "id": 1729359201
+        },
+        {
+          "distance": 0.15884947776794434,
+          "id": 1729359743
+        },
+        {
+          "distance": 0.16416877508163452,
+          "id": 1729360981
+        },
+        {
+          "distance": 0.16509586572647095,
+          "id": 1729360551
+        },
+        {
+          "distance": 0.16737037897109985,
+          "id": 1729355335
+        },
+        {
+          "distance": 0.16806960105895996,
+          "id": 1763558845
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729355261,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777622,
     "wof:name": "A well-known and multi-talented Hollywood figure, Beverly Hills designer Don Loper (1906–1972) added airline stewardesses to the long list of stars wearing Don Loper originals...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

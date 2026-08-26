@@ -31,6 +31,50 @@
       "taken": 1566549540,
       "taken_at": "Aug 23, 2019 8:39 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.01074206829071045,
+          "id": 1947425309
+        },
+        {
+          "distance": 0.037711143493652344,
+          "id": 1729361177
+        },
+        {
+          "distance": 0.07777589559555054,
+          "id": 1729356989
+        },
+        {
+          "distance": 0.0810505747795105,
+          "id": 1763558797
+        },
+        {
+          "distance": 0.09214425086975098,
+          "id": 1729355993
+        },
+        {
+          "distance": 0.0947413444519043,
+          "id": 1729359597
+        },
+        {
+          "distance": 0.10682904720306396,
+          "id": 1729361163
+        },
+        {
+          "distance": 0.11166512966156006,
+          "id": 1947425309
+        },
+        {
+          "distance": 0.1177288293838501,
+          "id": 1729356989
+        },
+        {
+          "distance": 0.1210748553276062,
+          "id": 1729361177
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729356173,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777628,
     "wof:name": "On August 22, 1938, Pan American Airways signed a ten-year lease with San Francisco for a base at Treasure Island...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

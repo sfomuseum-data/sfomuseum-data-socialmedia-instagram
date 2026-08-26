@@ -25,6 +25,50 @@
       "taken": 1370879520,
       "taken_at": "Jun 10, 2013 3:52 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3264865279197693,
+          "id": 1729362637
+        },
+        {
+          "distance": 0.3314915895462036,
+          "id": 1729362623
+        },
+        {
+          "distance": 0.3398098945617676,
+          "id": 1729362309
+        },
+        {
+          "distance": 0.3495137095451355,
+          "id": 1729362613
+        },
+        {
+          "distance": 0.351215660572052,
+          "id": 1729362173
+        },
+        {
+          "distance": 0.36840856075286865,
+          "id": 1729362191
+        },
+        {
+          "distance": 0.3779990077018738,
+          "id": 1729362437
+        },
+        {
+          "distance": 0.38035500049591064,
+          "id": 1729362007
+        },
+        {
+          "distance": 0.38319307565689087,
+          "id": 1729362441
+        },
+        {
+          "distance": 0.384559690952301,
+          "id": 1729359331
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362659,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "A scene of Edinburgh graces a painted windowpane from the dining room of the Clansman, a steamship built in Scotland in 1884...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

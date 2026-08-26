@@ -37,6 +37,50 @@
       "taken": 1521476220,
       "taken_at": "Mar 19, 2018 4:17 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.22917544841766357,
+          "id": 1763559073
+        },
+        {
+          "distance": 0.23781996965408325,
+          "id": 1729355171
+        },
+        {
+          "distance": 0.24692779779434204,
+          "id": 1729357121
+        },
+        {
+          "distance": 0.24970901012420654,
+          "id": 1729357817
+        },
+        {
+          "distance": 0.24979901313781738,
+          "id": 1763558745
+        },
+        {
+          "distance": 0.2572900056838989,
+          "id": 1763559073
+        },
+        {
+          "distance": 0.25758928060531616,
+          "id": 1729357769
+        },
+        {
+          "distance": 0.2596213221549988,
+          "id": 1729356023
+        },
+        {
+          "distance": 0.26120543479919434,
+          "id": 1729355171
+        },
+        {
+          "distance": 0.2616877555847168,
+          "id": 1729357817
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729358441,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "This poster produced by McDonnell Douglas illustrates the commercial aircraft they had produced over nearly fifty years, from the DC-1 to the DC-10...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -34,6 +34,50 @@
       "taken": 1493665080,
       "taken_at": "May 01, 2017 6:58 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.34362953901290894,
+          "id": 1729359489
+        },
+        {
+          "distance": 0.34612375497817993,
+          "id": 1729356497
+        },
+        {
+          "distance": 0.3486790657043457,
+          "id": 1729356497
+        },
+        {
+          "distance": 0.35147130489349365,
+          "id": 1729355273
+        },
+        {
+          "distance": 0.3562973737716675,
+          "id": 1763559181
+        },
+        {
+          "distance": 0.3593983054161072,
+          "id": 1729360907
+        },
+        {
+          "distance": 0.3637123703956604,
+          "id": 1729359775
+        },
+        {
+          "distance": 0.36605340242385864,
+          "id": 1729359935
+        },
+        {
+          "distance": 0.36697787046432495,
+          "id": 1729358923
+        },
+        {
+          "distance": 0.36840176582336426,
+          "id": 1763558639
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729359545,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "Malayan Airways started service #onthisday in 1947, and later became Malaysia-Singapore Airlines in the 1960s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

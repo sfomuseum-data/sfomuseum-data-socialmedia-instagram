@@ -29,6 +29,50 @@
       "taken": 1613475840,
       "taken_at": "Feb 16, 2021 11:44 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13620918989181519,
+          "id": 1763559089
+        },
+        {
+          "distance": 0.1689090132713318,
+          "id": 1763559089
+        },
+        {
+          "distance": 0.17454707622528076,
+          "id": 1763559245
+        },
+        {
+          "distance": 0.2042033076286316,
+          "id": 1763559227
+        },
+        {
+          "distance": 0.20453274250030518,
+          "id": 1763559245
+        },
+        {
+          "distance": 0.20645266771316528,
+          "id": 1763559175
+        },
+        {
+          "distance": 0.20659899711608887,
+          "id": 1763559175
+        },
+        {
+          "distance": 0.21229666471481323,
+          "id": 1763559205
+        },
+        {
+          "distance": 0.21480876207351685,
+          "id": 1763559433
+        },
+        {
+          "distance": 0.2241358757019043,
+          "id": 1763559433
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1763558855,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777659,
     "wof:name": "The evolution of motorcycling dates to the bicycling craze of the late-1800s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

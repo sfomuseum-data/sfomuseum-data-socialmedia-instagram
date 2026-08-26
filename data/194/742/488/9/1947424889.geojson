@@ -30,6 +30,50 @@
       "taken": 1725030240,
       "taken_at": "Aug 30, 2024 3:04 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.25616902112960815,
+          "id": 1947424917
+        },
+        {
+          "distance": 0.26455962657928467,
+          "id": 1947424927
+        },
+        {
+          "distance": 0.2763299345970154,
+          "id": 1947425009
+        },
+        {
+          "distance": 0.2763299345970154,
+          "id": 1947425027
+        },
+        {
+          "distance": 0.28521090745925903,
+          "id": 1729361489
+        },
+        {
+          "distance": 0.2909095287322998,
+          "id": 1729356755
+        },
+        {
+          "distance": 0.29619449377059937,
+          "id": 1729359033
+        },
+        {
+          "distance": 0.2972288131713867,
+          "id": 1729361495
+        },
+        {
+          "distance": 0.3014957308769226,
+          "id": 1729355755
+        },
+        {
+          "distance": 0.3028581142425537,
+          "id": 1763558827
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1947424889,
-    "wof:lastmodified": 1733175319,
+    "wof:lastmodified": 1787777664,
     "wof:name": "“Flying on Display: Aviation at the Panama-Pacific International Exposition” celebrates the 1915 Panama-Pacific International Exposition (PPIE) held along San Francisco’s northern shore in the Presidio, Fort Mason, and Harbor View, a wetland area now known as the Marina District...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

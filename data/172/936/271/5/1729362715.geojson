@@ -25,6 +25,50 @@
       "taken": 1368192600,
       "taken_at": "May 10, 2013 1:30 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24242180585861206,
+          "id": 1729362711
+        },
+        {
+          "distance": 0.2560553550720215,
+          "id": 1729362711
+        },
+        {
+          "distance": 0.2594754695892334,
+          "id": 1729360749
+        },
+        {
+          "distance": 0.27398955821990967,
+          "id": 1729362705
+        },
+        {
+          "distance": 0.2858872413635254,
+          "id": 1729360749
+        },
+        {
+          "distance": 0.2868261933326721,
+          "id": 1729362307
+        },
+        {
+          "distance": 0.2872706651687622,
+          "id": 1729362889
+        },
+        {
+          "distance": 0.28940922021865845,
+          "id": 1729361713
+        },
+        {
+          "distance": 0.29036229848861694,
+          "id": 1729362705
+        },
+        {
+          "distance": 0.2931186556816101,
+          "id": 1763559443
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362715,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "Seats on an #A380 seem to go on for miles.....",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

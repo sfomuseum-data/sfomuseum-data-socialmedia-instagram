@@ -41,6 +41,50 @@
       "taken": 1503050340,
       "taken_at": "Aug 18, 2017 9:59 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.28824347257614136,
+          "id": 1729359587
+        },
+        {
+          "distance": 0.29309386014938354,
+          "id": 1729361919
+        },
+        {
+          "distance": 0.29888421297073364,
+          "id": 1729357339
+        },
+        {
+          "distance": 0.3090898394584656,
+          "id": 1729359587
+        },
+        {
+          "distance": 0.3180190324783325,
+          "id": 1729361459
+        },
+        {
+          "distance": 0.3192260265350342,
+          "id": 1729357339
+        },
+        {
+          "distance": 0.3265712857246399,
+          "id": 1729359845
+        },
+        {
+          "distance": 0.32753676176071167,
+          "id": 1729359417
+        },
+        {
+          "distance": 0.32890892028808594,
+          "id": 1947425065
+        },
+        {
+          "distance": 0.33075588941574097,
+          "id": 1729356845
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -70,7 +114,7 @@
       }
     ],
     "wof:id": 1729359169,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "From the mid-1860s to about 1890, cowboys on horseback drove cattle from Texas to the stockyards of Kansas for shipment further east...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -87,5 +131,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

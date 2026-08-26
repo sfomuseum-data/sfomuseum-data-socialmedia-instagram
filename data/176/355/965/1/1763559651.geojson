@@ -30,6 +30,50 @@
       "taken": 1642674120,
       "taken_at": "Jan 20, 2022 10:22 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11064660549163818,
+          "id": 1729357537
+        },
+        {
+          "distance": 0.12012547254562378,
+          "id": 1729356037
+        },
+        {
+          "distance": 0.12245696783065796,
+          "id": 1880151691
+        },
+        {
+          "distance": 0.1339777708053589,
+          "id": 1729357041
+        },
+        {
+          "distance": 0.1369801163673401,
+          "id": 1729361271
+        },
+        {
+          "distance": 0.13992047309875488,
+          "id": 1729356037
+        },
+        {
+          "distance": 0.14783763885498047,
+          "id": 1763559373
+        },
+        {
+          "distance": 0.15073221921920776,
+          "id": 1729361271
+        },
+        {
+          "distance": 0.15117597579956055,
+          "id": 1729361881
+        },
+        {
+          "distance": 0.15956568717956543,
+          "id": 1880151387
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559651,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "#Onthisday in 1889 Lockheed Aircraft Corporation founder Allan Lockheed was born in Fremont, California...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

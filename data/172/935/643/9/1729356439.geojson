@@ -32,6 +32,50 @@
       "taken": 1560438720,
       "taken_at": "Jun 13, 2019 3:12 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15171360969543457,
+          "id": 1729355115
+        },
+        {
+          "distance": 0.18562984466552734,
+          "id": 1729357789
+        },
+        {
+          "distance": 0.18899661302566528,
+          "id": 1729358283
+        },
+        {
+          "distance": 0.18923598527908325,
+          "id": 1729361019
+        },
+        {
+          "distance": 0.1938987374305725,
+          "id": 1729358519
+        },
+        {
+          "distance": 0.20408862829208374,
+          "id": 1729355165
+        },
+        {
+          "distance": 0.20912116765975952,
+          "id": 1729355165
+        },
+        {
+          "distance": 0.21229571104049683,
+          "id": 1729359361
+        },
+        {
+          "distance": 0.21395736932754517,
+          "id": 1729358519
+        },
+        {
+          "distance": 0.215215802192688,
+          "id": 1729359149
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729356439,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Early color photographs of San Francisco Airport are rare, so we’re excited to share with you a recent gift to our collection...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

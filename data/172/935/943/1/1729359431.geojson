@@ -32,6 +32,50 @@
       "taken": 1496943540,
       "taken_at": "Jun 08, 2017 5:39 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06540161371231079,
+          "id": 1729360529
+        },
+        {
+          "distance": 0.13561385869979858,
+          "id": 1729360529
+        },
+        {
+          "distance": 0.22263330221176147,
+          "id": 1729360637
+        },
+        {
+          "distance": 0.22316431999206543,
+          "id": 1729355017
+        },
+        {
+          "distance": 0.23082977533340454,
+          "id": 1729359719
+        },
+        {
+          "distance": 0.24435633420944214,
+          "id": 1729360559
+        },
+        {
+          "distance": 0.24791568517684937,
+          "id": 1729361615
+        },
+        {
+          "distance": 0.2489004135131836,
+          "id": 1729360019
+        },
+        {
+          "distance": 0.25219911336898804,
+          "id": 1729355073
+        },
+        {
+          "distance": 0.2561492323875427,
+          "id": 1729355279
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729359431,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "During the late 1960s and early 1970s, with airport planners projecting that annual passenger traffic at SFO would reach 23 million, a series of design, engineering, and construction projects were proposed...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

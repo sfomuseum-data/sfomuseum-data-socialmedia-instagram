@@ -33,6 +33,50 @@
       "taken": 1547141100,
       "taken_at": "Jan 10, 2019 5:25 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.25054824352264404,
+          "id": 1729358913
+        },
+        {
+          "distance": 0.25909000635147095,
+          "id": 1729356573
+        },
+        {
+          "distance": 0.26317930221557617,
+          "id": 1729355549
+        },
+        {
+          "distance": 0.2637178301811218,
+          "id": 1947424861
+        },
+        {
+          "distance": 0.27189087867736816,
+          "id": 1729355549
+        },
+        {
+          "distance": 0.27359968423843384,
+          "id": 1729358913
+        },
+        {
+          "distance": 0.28935378789901733,
+          "id": 1729358997
+        },
+        {
+          "distance": 0.2932547926902771,
+          "id": 1729355521
+        },
+        {
+          "distance": 0.29412686824798584,
+          "id": 1729356005
+        },
+        {
+          "distance": 0.29496341943740845,
+          "id": 1763558971
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729357117,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777630,
     "wof:name": "Our graphic designers go through multiple design iterations of exhibition labels...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

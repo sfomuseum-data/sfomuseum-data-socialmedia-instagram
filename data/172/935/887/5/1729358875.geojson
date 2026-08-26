@@ -41,6 +41,50 @@
       "taken": 1511702160,
       "taken_at": "Nov 26, 2017 1:16 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2625387907028198,
+          "id": 1729358705
+        },
+        {
+          "distance": 0.27665257453918457,
+          "id": 1729358705
+        },
+        {
+          "distance": 0.2784750461578369,
+          "id": 1729359145
+        },
+        {
+          "distance": 0.28190165758132935,
+          "id": 1729362075
+        },
+        {
+          "distance": 0.2840048670768738,
+          "id": 1729361491
+        },
+        {
+          "distance": 0.29062098264694214,
+          "id": 1729357529
+        },
+        {
+          "distance": 0.2934143543243408,
+          "id": 1729357225
+        },
+        {
+          "distance": 0.29382210969924927,
+          "id": 1729355527
+        },
+        {
+          "distance": 0.29422640800476074,
+          "id": 1729358273
+        },
+        {
+          "distance": 0.29530996084213257,
+          "id": 1729357233
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -70,7 +114,7 @@
       }
     ],
     "wof:id": 1729358875,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "In his ongoing series, \"El Muqui\", Paccarik Orue draws focus on Cerro de Pasco, a historical mining city located fourteen thousand feet above sea level in the Peruvian Andes...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -87,5 +131,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

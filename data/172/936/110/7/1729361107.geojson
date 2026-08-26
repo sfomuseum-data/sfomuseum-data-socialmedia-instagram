@@ -25,6 +25,50 @@
       "taken": 1454091000,
       "taken_at": "Jan 29, 2016 6:10 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1461893916130066,
+          "id": 1763559527
+        },
+        {
+          "distance": 0.16625714302062988,
+          "id": 1729358009
+        },
+        {
+          "distance": 0.16752833127975464,
+          "id": 1729356979
+        },
+        {
+          "distance": 0.17657625675201416,
+          "id": 1729357267
+        },
+        {
+          "distance": 0.17811304330825806,
+          "id": 1729359361
+        },
+        {
+          "distance": 0.17824965715408325,
+          "id": 1729357841
+        },
+        {
+          "distance": 0.1805536150932312,
+          "id": 1729359251
+        },
+        {
+          "distance": 0.1825505495071411,
+          "id": 1880151589
+        },
+        {
+          "distance": 0.18682652711868286,
+          "id": 1763559505
+        },
+        {
+          "distance": 0.19089967012405396,
+          "id": 1729361213
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361107,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777644,
     "wof:name": "During the 1950s, flying on a commercial airliner was often a formal endeavor...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

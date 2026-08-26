@@ -31,6 +31,50 @@
       "taken": 1574862540,
       "taken_at": "Nov 27, 2019 1:49 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.032752156257629395,
+          "id": 1729360815
+        },
+        {
+          "distance": 0.11465996503829956,
+          "id": 1729360815
+        },
+        {
+          "distance": 0.12126129865646362,
+          "id": 1947425179
+        },
+        {
+          "distance": 0.141160786151886,
+          "id": 1947425179
+        },
+        {
+          "distance": 0.18548119068145752,
+          "id": 1729358365
+        },
+        {
+          "distance": 0.1877824068069458,
+          "id": 1763558657
+        },
+        {
+          "distance": 0.1877824068069458,
+          "id": 1729359895
+        },
+        {
+          "distance": 0.19359612464904785,
+          "id": 1880151413
+        },
+        {
+          "distance": 0.20350706577301025,
+          "id": 1763558997
+        },
+        {
+          "distance": 0.2064732313156128,
+          "id": 1763558979
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729355843,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777627,
     "wof:name": "#OnThisDay in 1962, the first #Boeing 727 rolled out of the factory...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

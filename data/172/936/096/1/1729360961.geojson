@@ -25,6 +25,50 @@
       "taken": 1457345400,
       "taken_at": "Mar 07, 2016 10:10 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1930023431777954,
+          "id": 1729358481
+        },
+        {
+          "distance": 0.21300524473190308,
+          "id": 1729358481
+        },
+        {
+          "distance": 0.29172974824905396,
+          "id": 1880151071
+        },
+        {
+          "distance": 0.2954576015472412,
+          "id": 1729358717
+        },
+        {
+          "distance": 0.31425023078918457,
+          "id": 1729360249
+        },
+        {
+          "distance": 0.31564170122146606,
+          "id": 1729356855
+        },
+        {
+          "distance": 0.31861501932144165,
+          "id": 1729360249
+        },
+        {
+          "distance": 0.3193166255950928,
+          "id": 1880151071
+        },
+        {
+          "distance": 0.3225841522216797,
+          "id": 1729357345
+        },
+        {
+          "distance": 0.3252902626991272,
+          "id": 1729356855
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360961,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "#Onthisday in 1963, New York City’s 59-story Pan Am building opened in Midtown Manhattan becoming the largest commercial office space in the world...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1473156900,
       "taken_at": "Sep 06, 2016 10:15 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2520558834075928,
+          "id": 1729359217
+        },
+        {
+          "distance": 0.25318580865859985,
+          "id": 1729356715
+        },
+        {
+          "distance": 0.2737438678741455,
+          "id": 1729359281
+        },
+        {
+          "distance": 0.2872241735458374,
+          "id": 1729361533
+        },
+        {
+          "distance": 0.2936817407608032,
+          "id": 1729359659
+        },
+        {
+          "distance": 0.2974196672439575,
+          "id": 1763558689
+        },
+        {
+          "distance": 0.2974196672439575,
+          "id": 1729359221
+        },
+        {
+          "distance": 0.2990097999572754,
+          "id": 1729361315
+        },
+        {
+          "distance": 0.30120599269866943,
+          "id": 1729359281
+        },
+        {
+          "distance": 0.30583322048187256,
+          "id": 1729360043
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360367,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "A United Air Lines brochure from circa 1936 asks passengers \"So you're going to travel by air?\"..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

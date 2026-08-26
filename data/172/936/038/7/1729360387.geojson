@@ -25,6 +25,50 @@
       "taken": 1472461620,
       "taken_at": "Aug 29, 2016 9:07 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2174031138420105,
+          "id": 1729356859
+        },
+        {
+          "distance": 0.234727680683136,
+          "id": 1880151063
+        },
+        {
+          "distance": 0.24033641815185547,
+          "id": 1880150909
+        },
+        {
+          "distance": 0.24139702320098877,
+          "id": 1729360531
+        },
+        {
+          "distance": 0.24178528785705566,
+          "id": 1729355647
+        },
+        {
+          "distance": 0.24938923120498657,
+          "id": 1729356859
+        },
+        {
+          "distance": 0.25535476207733154,
+          "id": 1729357547
+        },
+        {
+          "distance": 0.25856512784957886,
+          "id": 1729361325
+        },
+        {
+          "distance": 0.2602859139442444,
+          "id": 1729355653
+        },
+        {
+          "distance": 0.26073157787323,
+          "id": 1729357323
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360387,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "In 1929, on a return survey flight from the Panama Canal for Pan American Airways, Charles A. Lindbergh noticed large mounds of vegetation in the jungles of Central America and concluded that these were ancient Mayan sites...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

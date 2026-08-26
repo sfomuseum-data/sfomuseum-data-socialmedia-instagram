@@ -30,6 +30,50 @@
       "taken": 1669915380,
       "taken_at": "Dec 01, 2022 5:23 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.00404965877532959,
+          "id": 1729359929
+        },
+        {
+          "distance": 0.11503738164901733,
+          "id": 1729359929
+        },
+        {
+          "distance": 0.20677214860916138,
+          "id": 1729361167
+        },
+        {
+          "distance": 0.24468332529067993,
+          "id": 1729361167
+        },
+        {
+          "distance": 0.2915325164794922,
+          "id": 1729359455
+        },
+        {
+          "distance": 0.29401683807373047,
+          "id": 1947424967
+        },
+        {
+          "distance": 0.29623496532440186,
+          "id": 1947424967
+        },
+        {
+          "distance": 0.31333136558532715,
+          "id": 1729360475
+        },
+        {
+          "distance": 0.31583094596862793,
+          "id": 1729361455
+        },
+        {
+          "distance": 0.3203393220901489,
+          "id": 1729359455
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151289,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Transcontinental and Western Air Inc (TWA) was founded in July 1930 through a merger of several airlines and was one of the first airlines to offer transcontinental service...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

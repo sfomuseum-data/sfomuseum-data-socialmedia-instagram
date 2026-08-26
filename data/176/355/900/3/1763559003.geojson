@@ -31,6 +31,50 @@
       "taken": 1604423040,
       "taken_at": "Nov 03, 2020 5:04 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.058658480644226074,
+          "id": 1763559083
+        },
+        {
+          "distance": 0.10502761602401733,
+          "id": 1763559083
+        },
+        {
+          "distance": 0.29566043615341187,
+          "id": 1763559103
+        },
+        {
+          "distance": 0.30807822942733765,
+          "id": 1763559103
+        },
+        {
+          "distance": 0.30833256244659424,
+          "id": 1763559169
+        },
+        {
+          "distance": 0.3395932912826538,
+          "id": 1763559145
+        },
+        {
+          "distance": 0.3414692282676697,
+          "id": 1763559187
+        },
+        {
+          "distance": 0.34180748462677,
+          "id": 1763558949
+        },
+        {
+          "distance": 0.35467076301574707,
+          "id": 1763559111
+        },
+        {
+          "distance": 0.35554057359695435,
+          "id": 1763558859
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559003,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Our newest exhibition, “Surf’s Up!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

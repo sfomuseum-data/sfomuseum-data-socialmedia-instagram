@@ -39,6 +39,50 @@
       "taken": 1531494480,
       "taken_at": "Jul 13, 2018, 3:08 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17327767610549927,
+          "id": 1729357981
+        },
+        {
+          "distance": 0.17454004287719727,
+          "id": 1763558755
+        },
+        {
+          "distance": 0.18544310331344604,
+          "id": 1763558755
+        },
+        {
+          "distance": 0.2001436948776245,
+          "id": 1729357981
+        },
+        {
+          "distance": 0.3028072118759155,
+          "id": 1729358513
+        },
+        {
+          "distance": 0.3132133483886719,
+          "id": 1729359733
+        },
+        {
+          "distance": 0.32274335622787476,
+          "id": 1729358513
+        },
+        {
+          "distance": 0.32474440336227417,
+          "id": 1729359733
+        },
+        {
+          "distance": 0.33643215894699097,
+          "id": 1729356949
+        },
+        {
+          "distance": 0.34444451332092285,
+          "id": 1729360897
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729357963,
-    "wof:lastmodified": 1716929951,
+    "wof:lastmodified": 1787777632,
     "wof:name": "From the late 1920s to the 1940s, new airports were built and aviation records were broken on a regular basis...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

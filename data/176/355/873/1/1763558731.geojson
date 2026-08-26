@@ -38,6 +38,50 @@
       "taken": 1525688820,
       "taken_at": "May 07, 2018 10:27 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.001917719841003418,
+          "id": 1729358267
+        },
+        {
+          "distance": 0.029091298580169678,
+          "id": 1729355277
+        },
+        {
+          "distance": 0.08189535140991211,
+          "id": 1729360729
+        },
+        {
+          "distance": 0.09281563758850098,
+          "id": 1729358267
+        },
+        {
+          "distance": 0.09859693050384521,
+          "id": 1729355277
+        },
+        {
+          "distance": 0.1214706301689148,
+          "id": 1729360729
+        },
+        {
+          "distance": 0.14522123336791992,
+          "id": 1729356843
+        },
+        {
+          "distance": 0.153478741645813,
+          "id": 1729359529
+        },
+        {
+          "distance": 0.15939998626708984,
+          "id": 1729359529
+        },
+        {
+          "distance": 0.16423970460891724,
+          "id": 1729356843
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1763558731,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777659,
     "wof:name": "San Francisco had the barest necessities of an airport—an airstrip and an unfinished Administration Building—when it officially dedicated Mills Field #onthisday in 1927...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

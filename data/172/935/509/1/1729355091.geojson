@@ -29,6 +29,50 @@
       "taken": 1599465660,
       "taken_at": "Sep 07, 2020 8:01 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06800490617752075,
+          "id": 1729361615
+        },
+        {
+          "distance": 0.09776544570922852,
+          "id": 1729361615
+        },
+        {
+          "distance": 0.11926686763763428,
+          "id": 1729359159
+        },
+        {
+          "distance": 0.12500369548797607,
+          "id": 1729359719
+        },
+        {
+          "distance": 0.1259782910346985,
+          "id": 1729358405
+        },
+        {
+          "distance": 0.1301785111427307,
+          "id": 1729361593
+        },
+        {
+          "distance": 0.1620733141899109,
+          "id": 1763559131
+        },
+        {
+          "distance": 0.1757681965827942,
+          "id": 1729360279
+        },
+        {
+          "distance": 0.1804332733154297,
+          "id": 1729357969
+        },
+        {
+          "distance": 0.18099629878997803,
+          "id": 1729358405
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729355091,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777616,
     "wof:name": "Happy Labor Day!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

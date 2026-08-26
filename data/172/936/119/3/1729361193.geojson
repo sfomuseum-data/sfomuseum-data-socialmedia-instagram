@@ -25,6 +25,50 @@
       "taken": 1452196920,
       "taken_at": "Jan 07, 2016 8:02 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.22625678777694702,
+          "id": 1729356303
+        },
+        {
+          "distance": 0.2278118133544922,
+          "id": 1729361615
+        },
+        {
+          "distance": 0.23214590549468994,
+          "id": 1729360637
+        },
+        {
+          "distance": 0.23927253484725952,
+          "id": 1729359601
+        },
+        {
+          "distance": 0.24750661849975586,
+          "id": 1729357747
+        },
+        {
+          "distance": 0.25282102823257446,
+          "id": 1947425255
+        },
+        {
+          "distance": 0.253032386302948,
+          "id": 1729359759
+        },
+        {
+          "distance": 0.25377899408340454,
+          "id": 1729359479
+        },
+        {
+          "distance": 0.2544650435447693,
+          "id": 1729361037
+        },
+        {
+          "distance": 0.2631456255912781,
+          "id": 1729359719
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361193,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "United Air Lines signed a lease on October 1, 1940, to relocate their Western Division operation, maintenance, and overhaul base from Cheyenne, Wyo., to San Francisco Airport, which was a great boost to the local economy...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

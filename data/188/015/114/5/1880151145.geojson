@@ -28,6 +28,50 @@
       "taken": 1675702860,
       "taken_at": "Feb 06, 2023 5:01 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2579832673072815,
+          "id": 1880151505
+        },
+        {
+          "distance": 0.28640204668045044,
+          "id": 1729360155
+        },
+        {
+          "distance": 0.2937660813331604,
+          "id": 1729360475
+        },
+        {
+          "distance": 0.2975507974624634,
+          "id": 1729361975
+        },
+        {
+          "distance": 0.3134163022041321,
+          "id": 1729357345
+        },
+        {
+          "distance": 0.320625901222229,
+          "id": 1729361153
+        },
+        {
+          "distance": 0.3218532204627991,
+          "id": 1729361125
+        },
+        {
+          "distance": 0.32224029302597046,
+          "id": 1729359663
+        },
+        {
+          "distance": 0.32794374227523804,
+          "id": 1729361975
+        },
+        {
+          "distance": 0.3281228542327881,
+          "id": 1729360475
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1880151145,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Space travel was a huge topic in 1968...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1456337460,
       "taken_at": "Feb 24, 2016 6:11 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19264650344848633,
+          "id": 1729356845
+        },
+        {
+          "distance": 0.20106250047683716,
+          "id": 1729357679
+        },
+        {
+          "distance": 0.20512068271636963,
+          "id": 1729359565
+        },
+        {
+          "distance": 0.20739108324050903,
+          "id": 1729359161
+        },
+        {
+          "distance": 0.20764368772506714,
+          "id": 1729357541
+        },
+        {
+          "distance": 0.21027588844299316,
+          "id": 1729360723
+        },
+        {
+          "distance": 0.21115213632583618,
+          "id": 1947425065
+        },
+        {
+          "distance": 0.22094231843948364,
+          "id": 1729361695
+        },
+        {
+          "distance": 0.2239881157875061,
+          "id": 1729359509
+        },
+        {
+          "distance": 0.22498369216918945,
+          "id": 1729356845
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361015,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777641,
     "wof:name": "Flight attendant Ruby Reykalin is seen here conversing on the telephone at United Air Lines exhibit in Vacation Lands Building at Golden Gate International Exposition, Treasure Island, San Francisco...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -31,6 +31,50 @@
       "taken": 1632846960,
       "taken_at": "Sep 28, 2021 4:36 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20460915565490723,
+          "id": 1763559157
+        },
+        {
+          "distance": 0.24393659830093384,
+          "id": 1763559157
+        },
+        {
+          "distance": 0.25327640771865845,
+          "id": 1880151575
+        },
+        {
+          "distance": 0.25327640771865845,
+          "id": 1880151563
+        },
+        {
+          "distance": 0.2690744400024414,
+          "id": 1763559463
+        },
+        {
+          "distance": 0.27966082096099854,
+          "id": 1880151571
+        },
+        {
+          "distance": 0.28519994020462036,
+          "id": 1880151571
+        },
+        {
+          "distance": 0.28582483530044556,
+          "id": 1880151563
+        },
+        {
+          "distance": 0.28582483530044556,
+          "id": 1880151575
+        },
+        {
+          "distance": 0.28826749324798584,
+          "id": 1763559463
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559401,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "In the 1930s, Dorothy “Dot” Robinson (1912–1999) regularly challenged male competitors in endurance and sidecar races, and during the Second World War, rode as a military dispatch rider with a select group of women...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

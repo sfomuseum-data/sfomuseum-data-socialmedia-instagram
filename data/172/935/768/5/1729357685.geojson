@@ -41,6 +41,50 @@
       "taken": 1536569640,
       "taken_at": "Sep 10, 2018 8:54 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.28836601972579956,
+          "id": 1729357617
+        },
+        {
+          "distance": 0.308027446269989,
+          "id": 1729359353
+        },
+        {
+          "distance": 0.31792497634887695,
+          "id": 1729362697
+        },
+        {
+          "distance": 0.33278876543045044,
+          "id": 1729355745
+        },
+        {
+          "distance": 0.33396798372268677,
+          "id": 1729356961
+        },
+        {
+          "distance": 0.33780550956726074,
+          "id": 1729359353
+        },
+        {
+          "distance": 0.3395492434501648,
+          "id": 1729360127
+        },
+        {
+          "distance": 0.3422342538833618,
+          "id": 1729360383
+        },
+        {
+          "distance": 0.3481225371360779,
+          "id": 1763558749
+        },
+        {
+          "distance": 0.3481225371360779,
+          "id": 1729357833
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -70,7 +114,7 @@
       }
     ],
     "wof:id": 1729357685,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "As cats gained popularity as pets in Europe during the 1600s, they appeared more frequently in art and on decorative items...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -87,5 +131,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

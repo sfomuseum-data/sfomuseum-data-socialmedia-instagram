@@ -29,6 +29,50 @@
       "taken": 1652811420,
       "taken_at": "May 17, 2022 6:17 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24624228477478027,
+          "id": 1729360939
+        },
+        {
+          "distance": 0.24624228477478027,
+          "id": 1763558617
+        },
+        {
+          "distance": 0.2808469533920288,
+          "id": 1880151013
+        },
+        {
+          "distance": 0.2885017395019531,
+          "id": 1729361153
+        },
+        {
+          "distance": 0.29405033588409424,
+          "id": 1729355037
+        },
+        {
+          "distance": 0.29685860872268677,
+          "id": 1729357769
+        },
+        {
+          "distance": 0.2978948950767517,
+          "id": 1763558617
+        },
+        {
+          "distance": 0.2978948950767517,
+          "id": 1729360939
+        },
+        {
+          "distance": 0.3011022210121155,
+          "id": 1880151013
+        },
+        {
+          "distance": 0.30420541763305664,
+          "id": 1763558821
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880151715,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777663,
     "wof:name": "What should you do during an emergency landing?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -36,6 +36,50 @@
       "taken": 1479916920,
       "taken_at": "Nov 23, 2016 4:02 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1652398705482483,
+          "id": 1729358079
+        },
+        {
+          "distance": 0.17344439029693604,
+          "id": 1729359129
+        },
+        {
+          "distance": 0.1768707036972046,
+          "id": 1729356953
+        },
+        {
+          "distance": 0.17999804019927979,
+          "id": 1729359645
+        },
+        {
+          "distance": 0.18574386835098267,
+          "id": 1729359129
+        },
+        {
+          "distance": 0.2015141248703003,
+          "id": 1729358303
+        },
+        {
+          "distance": 0.20486664772033691,
+          "id": 1763559125
+        },
+        {
+          "distance": 0.20767605304718018,
+          "id": 1729356953
+        },
+        {
+          "distance": 0.20784902572631836,
+          "id": 1729359743
+        },
+        {
+          "distance": 0.20833390951156616,
+          "id": 1729359201
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729360093,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "Japanese designer Hanae Mori (b...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

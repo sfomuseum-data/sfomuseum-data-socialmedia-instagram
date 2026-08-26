@@ -31,6 +31,50 @@
       "taken": 1487013960,
       "taken_at": "Feb 13, 2017 7:26 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2800331115722656,
+          "id": 1729359373
+        },
+        {
+          "distance": 0.2987656593322754,
+          "id": 1729359705
+        },
+        {
+          "distance": 0.3124312162399292,
+          "id": 1729359259
+        },
+        {
+          "distance": 0.32242345809936523,
+          "id": 1729359383
+        },
+        {
+          "distance": 0.32389676570892334,
+          "id": 1729359373
+        },
+        {
+          "distance": 0.3475069999694824,
+          "id": 1729359383
+        },
+        {
+          "distance": 0.34975236654281616,
+          "id": 1729355765
+        },
+        {
+          "distance": 0.351162850856781,
+          "id": 1729359705
+        },
+        {
+          "distance": 0.35294824838638306,
+          "id": 1729355789
+        },
+        {
+          "distance": 0.36852574348449707,
+          "id": 1729359377
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729359813,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "The Arch of Constantine spans the route taken by triumphant emperors returning from battle to Rome...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

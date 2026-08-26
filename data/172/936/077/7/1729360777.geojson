@@ -25,6 +25,50 @@
       "taken": 1461601020,
       "taken_at": "Apr 25, 2016 4:17 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3177339434623718,
+          "id": 1729357705
+        },
+        {
+          "distance": 0.31818926334381104,
+          "id": 1729357843
+        },
+        {
+          "distance": 0.3498866558074951,
+          "id": 1729357705
+        },
+        {
+          "distance": 0.3631511330604553,
+          "id": 1880150915
+        },
+        {
+          "distance": 0.3747496008872986,
+          "id": 1729360403
+        },
+        {
+          "distance": 0.3762055039405823,
+          "id": 1729359673
+        },
+        {
+          "distance": 0.3837956190109253,
+          "id": 1729359673
+        },
+        {
+          "distance": 0.38425278663635254,
+          "id": 1729360403
+        },
+        {
+          "distance": 0.3887985944747925,
+          "id": 1880151169
+        },
+        {
+          "distance": 0.3982437252998352,
+          "id": 1880151169
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360777,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Happy World Penguin Day!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -34,6 +34,50 @@
       "taken": 1557505440,
       "taken_at": "May 10, 2019, 4:24 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15990597009658813,
+          "id": 1729356587
+        },
+        {
+          "distance": 0.17707371711730957,
+          "id": 1729356587
+        },
+        {
+          "distance": 0.26249146461486816,
+          "id": 1729356335
+        },
+        {
+          "distance": 0.26988673210144043,
+          "id": 1729356695
+        },
+        {
+          "distance": 0.2899130582809448,
+          "id": 1729359197
+        },
+        {
+          "distance": 0.2899130582809448,
+          "id": 1763558687
+        },
+        {
+          "distance": 0.2946784496307373,
+          "id": 1729359231
+        },
+        {
+          "distance": 0.29560673236846924,
+          "id": 1729356583
+        },
+        {
+          "distance": 0.2983333468437195,
+          "id": 1729358211
+        },
+        {
+          "distance": 0.301874041557312,
+          "id": 1729356331
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729356595,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "The Parker 51 fountain pen, designed by Marlin S. Baker (1906–1982) and Kenneth S. Parker (1895¬–1979) and introduced in 1941, was compared to the sleek, aerodynamic North American P-51 fighter...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

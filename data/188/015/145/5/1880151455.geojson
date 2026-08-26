@@ -30,6 +30,50 @@
       "taken": 1662120600,
       "taken_at": "Sep 02, 2022 12:10 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17391622066497803,
+          "id": 1729360261
+        },
+        {
+          "distance": 0.18062150478363037,
+          "id": 1729360261
+        },
+        {
+          "distance": 0.18360024690628052,
+          "id": 1729361017
+        },
+        {
+          "distance": 0.1959218978881836,
+          "id": 1729360551
+        },
+        {
+          "distance": 0.19852524995803833,
+          "id": 1729357873
+        },
+        {
+          "distance": 0.19965380430221558,
+          "id": 1729360365
+        },
+        {
+          "distance": 0.20103812217712402,
+          "id": 1729355335
+        },
+        {
+          "distance": 0.20216935873031616,
+          "id": 1729359985
+        },
+        {
+          "distance": 0.20408064126968384,
+          "id": 1763558845
+        },
+        {
+          "distance": 0.20764726400375366,
+          "id": 1729360981
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151455,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "We are saddened to hear about the recent passing of Hanae Mori, at the age of 96...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

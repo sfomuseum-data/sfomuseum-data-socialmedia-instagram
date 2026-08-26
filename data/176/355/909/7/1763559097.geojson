@@ -29,6 +29,50 @@
       "taken": 1624098900,
       "taken_at": "Jun 19, 2021 10:35 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.25897061824798584,
+          "id": 1880151467
+        },
+        {
+          "distance": 0.30651432275772095,
+          "id": 1947425047
+        },
+        {
+          "distance": 0.3082868456840515,
+          "id": 1947424839
+        },
+        {
+          "distance": 0.3087236285209656,
+          "id": 1947424867
+        },
+        {
+          "distance": 0.3161572813987732,
+          "id": 1880151407
+        },
+        {
+          "distance": 0.3176700472831726,
+          "id": 1880150873
+        },
+        {
+          "distance": 0.3218548893928528,
+          "id": 1763559669
+        },
+        {
+          "distance": 0.3270798921585083,
+          "id": 1947424951
+        },
+        {
+          "distance": 0.32745152711868286,
+          "id": 1729358933
+        },
+        {
+          "distance": 0.32750827074050903,
+          "id": 1880150875
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1763559097,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "In 1834, the South Carolina General Assembly passed a draconian law making it illegal to teach enslaved African Americans to read and write...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

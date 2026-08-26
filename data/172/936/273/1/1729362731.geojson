@@ -25,6 +25,50 @@
       "taken": 1366118340,
       "taken_at": "Apr 16, 2013 1:19 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.279815673828125,
+          "id": 1763558615
+        },
+        {
+          "distance": 0.279815673828125,
+          "id": 1729361237
+        },
+        {
+          "distance": 0.3036283254623413,
+          "id": 1763558615
+        },
+        {
+          "distance": 0.3036283254623413,
+          "id": 1729361237
+        },
+        {
+          "distance": 0.33145081996917725,
+          "id": 1729358735
+        },
+        {
+          "distance": 0.3381948471069336,
+          "id": 1729358725
+        },
+        {
+          "distance": 0.33877110481262207,
+          "id": 1729357723
+        },
+        {
+          "distance": 0.34530770778656006,
+          "id": 1729362823
+        },
+        {
+          "distance": 0.34574460983276367,
+          "id": 1729357723
+        },
+        {
+          "distance": 0.3462279438972473,
+          "id": 1729359473
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362731,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "It's quite the race in the Game of Matrimony or Old Maid, a popular board game in the 1880s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

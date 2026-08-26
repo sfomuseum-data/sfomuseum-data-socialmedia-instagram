@@ -41,6 +41,50 @@
       "taken": 1521649380,
       "taken_at": "Mar 21, 2018, 4:23 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24313998222351074,
+          "id": 1729357613
+        },
+        {
+          "distance": 0.284745454788208,
+          "id": 1729356429
+        },
+        {
+          "distance": 0.2849436402320862,
+          "id": 1729356429
+        },
+        {
+          "distance": 0.28738558292388916,
+          "id": 1729356425
+        },
+        {
+          "distance": 0.28908681869506836,
+          "id": 1763558743
+        },
+        {
+          "distance": 0.28908681869506836,
+          "id": 1729358453
+        },
+        {
+          "distance": 0.30051374435424805,
+          "id": 1729357613
+        },
+        {
+          "distance": 0.30376720428466797,
+          "id": 1729356305
+        },
+        {
+          "distance": 0.30544424057006836,
+          "id": 1729361847
+        },
+        {
+          "distance": 0.30648767948150635,
+          "id": 1729356443
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -70,7 +114,7 @@
       }
     ],
     "wof:id": 1729358435,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Crystal sets received radio signals during the earliest days of broadcasting...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -87,5 +131,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -38,6 +38,50 @@
       "taken": 1539249480,
       "taken_at": "Oct 11, 2018 9:18 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1776829957962036,
+          "id": 1729358345
+        },
+        {
+          "distance": 0.18927592039108276,
+          "id": 1729356513
+        },
+        {
+          "distance": 0.19191938638687134,
+          "id": 1729356511
+        },
+        {
+          "distance": 0.19824182987213135,
+          "id": 1729358345
+        },
+        {
+          "distance": 0.2189016342163086,
+          "id": 1729358269
+        },
+        {
+          "distance": 0.2259836196899414,
+          "id": 1729356513
+        },
+        {
+          "distance": 0.2353072166442871,
+          "id": 1729358223
+        },
+        {
+          "distance": 0.23679709434509277,
+          "id": 1729358295
+        },
+        {
+          "distance": 0.23749536275863647,
+          "id": 1729358245
+        },
+        {
+          "distance": 0.23875021934509277,
+          "id": 1729357987
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729357589,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Bakelite was the first molded plastic used to make radio housings, produced in unfinished brown Bakelite, or with painted coatings that were prone to scratches and paint loss...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

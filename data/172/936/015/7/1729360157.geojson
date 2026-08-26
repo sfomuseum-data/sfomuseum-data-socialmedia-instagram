@@ -32,6 +32,50 @@
       "taken": 1478550840,
       "taken_at": "Nov 07, 2016 8:34 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2321050763130188,
+          "id": 1729360661
+        },
+        {
+          "distance": 0.23337721824645996,
+          "id": 1763559119
+        },
+        {
+          "distance": 0.24022948741912842,
+          "id": 1880151305
+        },
+        {
+          "distance": 0.24206292629241943,
+          "id": 1729362029
+        },
+        {
+          "distance": 0.2509784698486328,
+          "id": 1729355059
+        },
+        {
+          "distance": 0.25715553760528564,
+          "id": 1880151621
+        },
+        {
+          "distance": 0.262026846408844,
+          "id": 1763559457
+        },
+        {
+          "distance": 0.26519089937210083,
+          "id": 1729362293
+        },
+        {
+          "distance": 0.26850974559783936,
+          "id": 1880151621
+        },
+        {
+          "distance": 0.26926231384277344,
+          "id": 1880151557
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729360157,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "Karen May’s work seeks to recapture an idyllic past...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

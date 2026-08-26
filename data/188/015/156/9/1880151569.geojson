@@ -30,6 +30,50 @@
       "taken": 1658154900,
       "taken_at": "Jul 18, 2022 2:35 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3474821448326111,
+          "id": 1729359241
+        },
+        {
+          "distance": 0.3593965768814087,
+          "id": 1880151113
+        },
+        {
+          "distance": 0.38047856092453003,
+          "id": 1729359995
+        },
+        {
+          "distance": 0.38191789388656616,
+          "id": 1729356151
+        },
+        {
+          "distance": 0.38205838203430176,
+          "id": 1729359241
+        },
+        {
+          "distance": 0.38248729705810547,
+          "id": 1729357383
+        },
+        {
+          "distance": 0.38944852352142334,
+          "id": 1880151463
+        },
+        {
+          "distance": 0.3925989866256714,
+          "id": 1880151113
+        },
+        {
+          "distance": 0.3940652012825012,
+          "id": 1880151711
+        },
+        {
+          "distance": 0.4002099633216858,
+          "id": 1729355957
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151569,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Smocks and aprons are a crucial yet often overlooked part of a flight attendant’s uniform and can vary wildly in design from one airline or era to another...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

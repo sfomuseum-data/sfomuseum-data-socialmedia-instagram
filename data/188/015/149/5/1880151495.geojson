@@ -31,6 +31,50 @@
       "taken": 1661254500,
       "taken_at": "Aug 23, 2022 11:35 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.22471725940704346,
+          "id": 1729355761
+        },
+        {
+          "distance": 0.2311420440673828,
+          "id": 1729355761
+        },
+        {
+          "distance": 0.2462441325187683,
+          "id": 1729355757
+        },
+        {
+          "distance": 0.27918630838394165,
+          "id": 1729355447
+        },
+        {
+          "distance": 0.2845733165740967,
+          "id": 1729355749
+        },
+        {
+          "distance": 0.2885623574256897,
+          "id": 1729356871
+        },
+        {
+          "distance": 0.29033100605010986,
+          "id": 1729355749
+        },
+        {
+          "distance": 0.29968172311782837,
+          "id": 1729355141
+        },
+        {
+          "distance": 0.30028778314590454,
+          "id": 1729360727
+        },
+        {
+          "distance": 0.3036062717437744,
+          "id": 1729360727
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151495,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "In his series, “Seeing in the Dark,” Tommy Keith explores the limits of human vision and underscores photography’s innate ability to reveal the unseen...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

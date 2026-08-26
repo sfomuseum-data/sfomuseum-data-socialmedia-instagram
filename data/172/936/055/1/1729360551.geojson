@@ -25,6 +25,50 @@
       "taken": 1467828960,
       "taken_at": "Jul 06, 2016 6:16 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11617189645767212,
+          "id": 1729359743
+        },
+        {
+          "distance": 0.12082386016845703,
+          "id": 1729359113
+        },
+        {
+          "distance": 0.12309563159942627,
+          "id": 1729355261
+        },
+        {
+          "distance": 0.1310969591140747,
+          "id": 1729359743
+        },
+        {
+          "distance": 0.13647180795669556,
+          "id": 1729360211
+        },
+        {
+          "distance": 0.14048826694488525,
+          "id": 1729359113
+        },
+        {
+          "distance": 0.14571374654769897,
+          "id": 1729360365
+        },
+        {
+          "distance": 0.1465412974357605,
+          "id": 1729355261
+        },
+        {
+          "distance": 0.14903467893600464,
+          "id": 1729360473
+        },
+        {
+          "distance": 0.15038323402404785,
+          "id": 1729360473
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360551,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Hollywood costumer Jean Louis came to United with a vision to clothe United’s 4,500 female cabin crewmembers in the latest fashions...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -30,6 +30,50 @@
       "taken": 1508084640,
       "taken_at": "Oct 15, 2017 4:24 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09185391664505005,
+          "id": 1729359769
+        },
+        {
+          "distance": 0.09905409812927246,
+          "id": 1880150957
+        },
+        {
+          "distance": 0.10021740198135376,
+          "id": 1729359579
+        },
+        {
+          "distance": 0.10170578956604004,
+          "id": 1729355303
+        },
+        {
+          "distance": 0.10345739126205444,
+          "id": 1729356383
+        },
+        {
+          "distance": 0.10405755043029785,
+          "id": 1729356565
+        },
+        {
+          "distance": 0.12658387422561646,
+          "id": 1729358315
+        },
+        {
+          "distance": 0.13010865449905396,
+          "id": 1729356565
+        },
+        {
+          "distance": 0.1374340057373047,
+          "id": 1729359579
+        },
+        {
+          "distance": 0.1400378942489624,
+          "id": 1880150957
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729358993,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777634,
     "wof:name": "#Onthisday in 2007 Airbus delivered their first A380 to Singapore Airlines...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -29,6 +29,50 @@
       "taken": 1721836080,
       "taken_at": "Jul 24, 2024 3:48 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06369471549987793,
+          "id": 1729358243
+        },
+        {
+          "distance": 0.10240215063095093,
+          "id": 1729358243
+        },
+        {
+          "distance": 0.1723726987838745,
+          "id": 1729358691
+        },
+        {
+          "distance": 0.18968725204467773,
+          "id": 1729358691
+        },
+        {
+          "distance": 0.19154924154281616,
+          "id": 1729355185
+        },
+        {
+          "distance": 0.19343024492263794,
+          "id": 1729360549
+        },
+        {
+          "distance": 0.20303690433502197,
+          "id": 1729358125
+        },
+        {
+          "distance": 0.2119537591934204,
+          "id": 1880151551
+        },
+        {
+          "distance": 0.21237939596176147,
+          "id": 1729358125
+        },
+        {
+          "distance": 0.22808921337127686,
+          "id": 1880151551
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1947424931,
-    "wof:lastmodified": 1733175320,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Not all posters produced by airlines advertised their service destinations...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -39,6 +39,50 @@
       "taken": 1530626820,
       "taken_at": "Jul 3, 2018, 2:07 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.22876101732254028,
+          "id": 1729358023
+        },
+        {
+          "distance": 0.26910722255706787,
+          "id": 1729358537
+        },
+        {
+          "distance": 0.2732939124107361,
+          "id": 1729359969
+        },
+        {
+          "distance": 0.27910828590393066,
+          "id": 1729357035
+        },
+        {
+          "distance": 0.2794022560119629,
+          "id": 1729355611
+        },
+        {
+          "distance": 0.28012239933013916,
+          "id": 1729358023
+        },
+        {
+          "distance": 0.280920147895813,
+          "id": 1729358403
+        },
+        {
+          "distance": 0.28191375732421875,
+          "id": 1729357035
+        },
+        {
+          "distance": 0.29136544466018677,
+          "id": 1729358537
+        },
+        {
+          "distance": 0.2936577796936035,
+          "id": 1729363027
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729358015,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Did you know Hawaiian Airlines used to offer ticket booklets for hopping between Hawaiian Islands?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

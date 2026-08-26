@@ -25,6 +25,50 @@
       "taken": 1341916920,
       "taken_at": "Jul 10, 2012 10:42 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2566502094268799,
+          "id": 1729362801
+        },
+        {
+          "distance": 0.2715049386024475,
+          "id": 1729362953
+        },
+        {
+          "distance": 0.28568750619888306,
+          "id": 1729362955
+        },
+        {
+          "distance": 0.29652076959609985,
+          "id": 1729362941
+        },
+        {
+          "distance": 0.29960817098617554,
+          "id": 1729362947
+        },
+        {
+          "distance": 0.3013468384742737,
+          "id": 1729362815
+        },
+        {
+          "distance": 0.3067008852958679,
+          "id": 1729362617
+        },
+        {
+          "distance": 0.3112967610359192,
+          "id": 1729363049
+        },
+        {
+          "distance": 0.3124390244483948,
+          "id": 1729362955
+        },
+        {
+          "distance": 0.3133293390274048,
+          "id": 1729363019
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729363011,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777657,
     "wof:name": "We're sad to see the motorcycles go, but here's a sneak peak for what comes next!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

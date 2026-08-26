@@ -29,6 +29,50 @@
       "taken": 1719305400,
       "taken_at": "Jun 25, 2024 8:50 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20971542596817017,
+          "id": 1729355235
+        },
+        {
+          "distance": 0.2626449465751648,
+          "id": 1729355235
+        },
+        {
+          "distance": 0.32106465101242065,
+          "id": 1763559325
+        },
+        {
+          "distance": 0.3221885561943054,
+          "id": 1763559325
+        },
+        {
+          "distance": 0.32940673828125,
+          "id": 1763559319
+        },
+        {
+          "distance": 0.33975327014923096,
+          "id": 1729355669
+        },
+        {
+          "distance": 0.3533661961555481,
+          "id": 1729357341
+        },
+        {
+          "distance": 0.36311888694763184,
+          "id": 1729361333
+        },
+        {
+          "distance": 0.36478036642074585,
+          "id": 1729355669
+        },
+        {
+          "distance": 0.3698943853378296,
+          "id": 1729355671
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1947424993,
-    "wof:lastmodified": 1733175322,
+    "wof:lastmodified": 1787777664,
     "wof:name": "San Francisco’s 54th annual Pride Parade is this Sunday, June 30th...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

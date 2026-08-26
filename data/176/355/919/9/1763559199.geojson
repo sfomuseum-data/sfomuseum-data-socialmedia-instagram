@@ -30,6 +30,50 @@
       "taken": 1617981360,
       "taken_at": "Apr 09, 2021 3:16 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3497374653816223,
+          "id": 1763559231
+        },
+        {
+          "distance": 0.36145955324172974,
+          "id": 1763558885
+        },
+        {
+          "distance": 0.3616828918457031,
+          "id": 1763558863
+        },
+        {
+          "distance": 0.36225444078445435,
+          "id": 1763559177
+        },
+        {
+          "distance": 0.3638126850128174,
+          "id": 1763559067
+        },
+        {
+          "distance": 0.36811310052871704,
+          "id": 1729362561
+        },
+        {
+          "distance": 0.3711661696434021,
+          "id": 1763559067
+        },
+        {
+          "distance": 0.3731960654258728,
+          "id": 1763559221
+        },
+        {
+          "distance": 0.37830936908721924,
+          "id": 1763559221
+        },
+        {
+          "distance": 0.37962526082992554,
+          "id": 1763558885
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559199,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "By the late 1960s, the afro hairstyle, famously worn by political activist Angela Davis and celebrities including Nina Simone and Diana Ross, became a symbol of Black pride, solidarity, and empowerment...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

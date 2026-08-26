@@ -25,6 +25,50 @@
       "taken": 1345822140,
       "taken_at": "Aug 24, 2012 3:29 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13212555646896362,
+          "id": 1729362993
+        },
+        {
+          "distance": 0.16753041744232178,
+          "id": 1729362993
+        },
+        {
+          "distance": 0.19078266620635986,
+          "id": 1729362793
+        },
+        {
+          "distance": 0.20829224586486816,
+          "id": 1729361585
+        },
+        {
+          "distance": 0.2168145775794983,
+          "id": 1729357063
+        },
+        {
+          "distance": 0.22610032558441162,
+          "id": 1729358911
+        },
+        {
+          "distance": 0.2286016345024109,
+          "id": 1729357073
+        },
+        {
+          "distance": 0.22902852296829224,
+          "id": 1729362997
+        },
+        {
+          "distance": 0.2391912341117859,
+          "id": 1729362201
+        },
+        {
+          "distance": 0.24624502658843994,
+          "id": 1729358911
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362917,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777656,
     "wof:name": "1938 Short-Mayo Composite: tiny 'Mercury' needed a lift from 'Maia' to take off, but then made the 1st East-\u003eWest transatlantic flight...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

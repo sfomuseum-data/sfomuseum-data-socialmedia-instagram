@@ -38,6 +38,50 @@
       "taken": 1522148760,
       "taken_at": "Mar 27, 2018 11:06 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20697450637817383,
+          "id": 1729359301
+        },
+        {
+          "distance": 0.2398790717124939,
+          "id": 1729359301
+        },
+        {
+          "distance": 0.2444668412208557,
+          "id": 1729360175
+        },
+        {
+          "distance": 0.25522249937057495,
+          "id": 1729356907
+        },
+        {
+          "distance": 0.2560539245605469,
+          "id": 1729360885
+        },
+        {
+          "distance": 0.2583308815956116,
+          "id": 1729360885
+        },
+        {
+          "distance": 0.2596035599708557,
+          "id": 1729356495
+        },
+        {
+          "distance": 0.26425701379776,
+          "id": 1729356053
+        },
+        {
+          "distance": 0.2713313698768616,
+          "id": 1729355167
+        },
+        {
+          "distance": 0.28099846839904785,
+          "id": 1763558723
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729358403,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "In the 1930s and 1940s, flights from San Francisco to Hong Kong required multiple stops along the way...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

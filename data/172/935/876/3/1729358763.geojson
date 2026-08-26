@@ -39,6 +39,50 @@
       "taken": 1514549340,
       "taken_at": "Dec 29, 2017 12:09 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15104645490646362,
+          "id": 1729358963
+        },
+        {
+          "distance": 0.15482312440872192,
+          "id": 1763559149
+        },
+        {
+          "distance": 0.16035711765289307,
+          "id": 1729361085
+        },
+        {
+          "distance": 0.16153836250305176,
+          "id": 1729356177
+        },
+        {
+          "distance": 0.17311865091323853,
+          "id": 1729357481
+        },
+        {
+          "distance": 0.17942088842391968,
+          "id": 1763559149
+        },
+        {
+          "distance": 0.18206900358200073,
+          "id": 1729356217
+        },
+        {
+          "distance": 0.18335020542144775,
+          "id": 1729361465
+        },
+        {
+          "distance": 0.18409109115600586,
+          "id": 1729359771
+        },
+        {
+          "distance": 0.18583369255065918,
+          "id": 1729356177
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729358763,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "For more than ninety years, United Airlines personnel have filled the dozens of positions needed to sustain the operations of a global organization...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

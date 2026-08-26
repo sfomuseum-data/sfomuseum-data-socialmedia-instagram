@@ -35,6 +35,50 @@
       "taken": 1542133440,
       "taken_at": "Nov 13, 2018 6:24 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2378748655319214,
+          "id": 1729357061
+        },
+        {
+          "distance": 0.24285197257995605,
+          "id": 1729359569
+        },
+        {
+          "distance": 0.24378836154937744,
+          "id": 1729356753
+        },
+        {
+          "distance": 0.2510068416595459,
+          "id": 1729355783
+        },
+        {
+          "distance": 0.2514193058013916,
+          "id": 1729358831
+        },
+        {
+          "distance": 0.25290167331695557,
+          "id": 1880151413
+        },
+        {
+          "distance": 0.2546330690383911,
+          "id": 1729358563
+        },
+        {
+          "distance": 0.2570997476577759,
+          "id": 1729356049
+        },
+        {
+          "distance": 0.26089006662368774,
+          "id": 1729355649
+        },
+        {
+          "distance": 0.261056125164032,
+          "id": 1729358319
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729357377,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777631,
     "wof:name": "Royal Air Maroc, the flag carrier of Morocco, commenced service in 1949 as Compagnie Chérifienne de Transports Aériens Air Maroc...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

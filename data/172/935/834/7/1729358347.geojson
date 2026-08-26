@@ -30,6 +30,50 @@
       "taken": 1523725200,
       "taken_at": "Apr 14, 2018 5:00 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15422683954238892,
+          "id": 1880151401
+        },
+        {
+          "distance": 0.18269509077072144,
+          "id": 1947425115
+        },
+        {
+          "distance": 0.19960761070251465,
+          "id": 1729355529
+        },
+        {
+          "distance": 0.202684223651886,
+          "id": 1763558925
+        },
+        {
+          "distance": 0.20420777797698975,
+          "id": 1729360245
+        },
+        {
+          "distance": 0.2141210436820984,
+          "id": 1947425019
+        },
+        {
+          "distance": 0.21449720859527588,
+          "id": 1729357693
+        },
+        {
+          "distance": 0.21715080738067627,
+          "id": 1729357325
+        },
+        {
+          "distance": 0.22133684158325195,
+          "id": 1729355785
+        },
+        {
+          "distance": 0.2242763638496399,
+          "id": 1729355059
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729358347,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "#OnThisDay in 2011, the new Terminal 2 opened at SFO...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

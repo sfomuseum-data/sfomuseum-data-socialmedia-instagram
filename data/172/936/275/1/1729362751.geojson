@@ -25,6 +25,50 @@
       "taken": 1365074640,
       "taken_at": "Apr 04, 2013 11:24 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1822441816329956,
+          "id": 1729362749
+        },
+        {
+          "distance": 0.19078272581100464,
+          "id": 1729362175
+        },
+        {
+          "distance": 0.21263134479522705,
+          "id": 1729362749
+        },
+        {
+          "distance": 0.21858972311019897,
+          "id": 1729362459
+        },
+        {
+          "distance": 0.22410035133361816,
+          "id": 1729362697
+        },
+        {
+          "distance": 0.2429795265197754,
+          "id": 1729362565
+        },
+        {
+          "distance": 0.24675750732421875,
+          "id": 1729362225
+        },
+        {
+          "distance": 0.24956589937210083,
+          "id": 1729362225
+        },
+        {
+          "distance": 0.252053439617157,
+          "id": 1729361283
+        },
+        {
+          "distance": 0.2590368390083313,
+          "id": 1729362733
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362751,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "Pan-Asian Ceramics from @AsianArtMuseum, on view pre-TSA in the Intl Term...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

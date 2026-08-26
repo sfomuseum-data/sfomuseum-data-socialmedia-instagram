@@ -31,6 +31,50 @@
       "taken": 1578925740,
       "taken_at": "Jan 13, 2020 2:29 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07901614904403687,
+          "id": 1729360209
+        },
+        {
+          "distance": 0.08365464210510254,
+          "id": 1763559419
+        },
+        {
+          "distance": 0.10589748620986938,
+          "id": 1729355495
+        },
+        {
+          "distance": 0.10705089569091797,
+          "id": 1729357503
+        },
+        {
+          "distance": 0.10746234655380249,
+          "id": 1729358971
+        },
+        {
+          "distance": 0.11200821399688721,
+          "id": 1729356065
+        },
+        {
+          "distance": 0.1257230043411255,
+          "id": 1763559419
+        },
+        {
+          "distance": 0.1317022442817688,
+          "id": 1729356529
+        },
+        {
+          "distance": 0.13859188556671143,
+          "id": 1729355495
+        },
+        {
+          "distance": 0.14011627435684204,
+          "id": 1729355945
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729355687,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777627,
     "wof:name": "The inaugural flight of the Concorde for the Braniff International Airways and British Airways joint SST service to London from Dallas-Fort Worth via Washington, D.C. was inaugurated #onthisday in 1979...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

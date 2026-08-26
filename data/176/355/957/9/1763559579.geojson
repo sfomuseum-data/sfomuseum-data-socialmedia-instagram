@@ -33,6 +33,50 @@
       "taken": 1646217360,
       "taken_at": "Mar 02, 2022 10:36 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11507654190063477,
+          "id": 1880151031
+        },
+        {
+          "distance": 0.13749712705612183,
+          "id": 1880151031
+        },
+        {
+          "distance": 0.1666354537010193,
+          "id": 1947425295
+        },
+        {
+          "distance": 0.1826798915863037,
+          "id": 1729355633
+        },
+        {
+          "distance": 0.20326822996139526,
+          "id": 1729355629
+        },
+        {
+          "distance": 0.20506000518798828,
+          "id": 1880150947
+        },
+        {
+          "distance": 0.21004104614257812,
+          "id": 1947425295
+        },
+        {
+          "distance": 0.2143893837928772,
+          "id": 1880150947
+        },
+        {
+          "distance": 0.22542047500610352,
+          "id": 1880150879
+        },
+        {
+          "distance": 0.22834151983261108,
+          "id": 1729355635
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1763559579,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "“The Color of Horizons” is a site-specific, suspended light sculpture by Dana Hemenway...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

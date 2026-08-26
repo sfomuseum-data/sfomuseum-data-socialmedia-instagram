@@ -46,6 +46,50 @@
       "taken": 1510862520,
       "taken_at": "Nov 16, 2017 8:02 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.010206520557403564,
+          "id": 1729355873
+        },
+        {
+          "distance": 0.08232980966567993,
+          "id": 1729355873
+        },
+        {
+          "distance": 0.10942274332046509,
+          "id": 1763558979
+        },
+        {
+          "distance": 0.12218058109283447,
+          "id": 1729358651
+        },
+        {
+          "distance": 0.13502484560012817,
+          "id": 1729357345
+        },
+        {
+          "distance": 0.13878530263900757,
+          "id": 1729356033
+        },
+        {
+          "distance": 0.14328533411026,
+          "id": 1729359691
+        },
+        {
+          "distance": 0.15357601642608643,
+          "id": 1763558979
+        },
+        {
+          "distance": 0.15611231327056885,
+          "id": 1729359691
+        },
+        {
+          "distance": 0.16221046447753906,
+          "id": 1729357489
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -75,7 +119,7 @@
       }
     ],
     "wof:id": 1729358895,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Advertised as the quietest widebody jet airliner in service, the Lockheed L-1011 TriStar took off on its maiden flight #onthisday in 1970...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -92,5 +136,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -31,6 +31,50 @@
       "taken": 1638980340,
       "taken_at": "Dec 08, 2021 4:19 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.026913106441497803,
+          "id": 1729356229
+        },
+        {
+          "distance": 0.0818139910697937,
+          "id": 1729356229
+        },
+        {
+          "distance": 0.1656111478805542,
+          "id": 1729359493
+        },
+        {
+          "distance": 0.16763627529144287,
+          "id": 1729360231
+        },
+        {
+          "distance": 0.1844349503517151,
+          "id": 1729360231
+        },
+        {
+          "distance": 0.232968270778656,
+          "id": 1729360081
+        },
+        {
+          "distance": 0.23309797048568726,
+          "id": 1947424791
+        },
+        {
+          "distance": 0.23691284656524658,
+          "id": 1729359493
+        },
+        {
+          "distance": 0.25036829710006714,
+          "id": 1729357217
+        },
+        {
+          "distance": 0.25163543224334717,
+          "id": 1729359253
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559273,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "The Zeppelin Company built and operated the Graf Zeppelin from Germany...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

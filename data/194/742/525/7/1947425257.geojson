@@ -27,6 +27,50 @@
       "taken": 1698249000,
       "taken_at": "Oct 25, 2023 3:50 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1434643268585205,
+          "id": 1947425291
+        },
+        {
+          "distance": 0.1787589192390442,
+          "id": 1729360823
+        },
+        {
+          "distance": 0.17904621362686157,
+          "id": 1947425203
+        },
+        {
+          "distance": 0.18341362476348877,
+          "id": 1729357135
+        },
+        {
+          "distance": 0.18341362476348877,
+          "id": 1763558801
+        },
+        {
+          "distance": 0.18789708614349365,
+          "id": 1947425087
+        },
+        {
+          "distance": 0.19231557846069336,
+          "id": 1729355059
+        },
+        {
+          "distance": 0.19660907983779907,
+          "id": 1947424919
+        },
+        {
+          "distance": 0.19664877653121948,
+          "id": 1947425291
+        },
+        {
+          "distance": 0.19712001085281372,
+          "id": 1880151305
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947425257,
-    "wof:lastmodified": 1733175330,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Personal photography provides snapshot glimpses of our daily lives...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

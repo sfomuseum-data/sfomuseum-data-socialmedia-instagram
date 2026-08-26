@@ -34,6 +34,50 @@
       "taken": 1565081760,
       "taken_at": "Aug 06, 2019 8:56 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1371370553970337,
+          "id": 1729356401
+        },
+        {
+          "distance": 0.14482927322387695,
+          "id": 1729356415
+        },
+        {
+          "distance": 0.1608872413635254,
+          "id": 1729355835
+        },
+        {
+          "distance": 0.16938233375549316,
+          "id": 1729356401
+        },
+        {
+          "distance": 0.17457520961761475,
+          "id": 1729355789
+        },
+        {
+          "distance": 0.17613869905471802,
+          "id": 1729356377
+        },
+        {
+          "distance": 0.1776723861694336,
+          "id": 1729356501
+        },
+        {
+          "distance": 0.18030643463134766,
+          "id": 1729356501
+        },
+        {
+          "distance": 0.1816500425338745,
+          "id": 1729356323
+        },
+        {
+          "distance": 0.18177145719528198,
+          "id": 1729356465
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729356251,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777629,
     "wof:name": "In the United States, Neo-Grec furniture coincided with Egyptian and Renaissance revival styles popular in the second half of the nineteenth century...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

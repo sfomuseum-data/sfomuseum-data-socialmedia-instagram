@@ -36,6 +36,50 @@
       "taken": 1553512320,
       "taken_at": "Mar 25, 2019, 11:12 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16302043199539185,
+          "id": 1729360973
+        },
+        {
+          "distance": 0.21132779121398926,
+          "id": 1729360973
+        },
+        {
+          "distance": 0.23844033479690552,
+          "id": 1729360851
+        },
+        {
+          "distance": 0.23940443992614746,
+          "id": 1729358903
+        },
+        {
+          "distance": 0.24138927459716797,
+          "id": 1729361697
+        },
+        {
+          "distance": 0.24274003505706787,
+          "id": 1729360111
+        },
+        {
+          "distance": 0.24754321575164795,
+          "id": 1729356895
+        },
+        {
+          "distance": 0.25335055589675903,
+          "id": 1729356781
+        },
+        {
+          "distance": 0.2539234161376953,
+          "id": 1729355393
+        },
+        {
+          "distance": 0.25594562292099,
+          "id": 1729360877
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729356783,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "The Pan American Airways Marine Air Terminal on Dinner Key in the Coconut Grove section of Miami, Florida, was considered a milestone of design in commercial aviation when it opened #onthisday in 1934...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

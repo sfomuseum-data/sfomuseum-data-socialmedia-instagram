@@ -43,6 +43,50 @@
       "taken": 1529571060,
       "taken_at": "Jun 21, 2018, 8:51 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.08109378814697266,
+          "id": 1729357563
+        },
+        {
+          "distance": 0.12225586175918579,
+          "id": 1729357563
+        },
+        {
+          "distance": 0.1982625126838684,
+          "id": 1763559389
+        },
+        {
+          "distance": 0.21529823541641235,
+          "id": 1729358087
+        },
+        {
+          "distance": 0.2168552279472351,
+          "id": 1729355875
+        },
+        {
+          "distance": 0.22288155555725098,
+          "id": 1729357301
+        },
+        {
+          "distance": 0.22300976514816284,
+          "id": 1729357123
+        },
+        {
+          "distance": 0.22393471002578735,
+          "id": 1763559389
+        },
+        {
+          "distance": 0.22738510370254517,
+          "id": 1729358687
+        },
+        {
+          "distance": 0.2323705554008484,
+          "id": 1729358465
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -72,7 +116,7 @@
       }
     ],
     "wof:id": 1729358099,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777632,
     "wof:name": "The DC-10 was McDonnell Douglas’ answer to Boeing’s wide-body 747 jumbo-jet...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -89,5 +133,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

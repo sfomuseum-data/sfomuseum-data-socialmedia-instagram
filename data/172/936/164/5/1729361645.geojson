@@ -25,6 +25,50 @@
       "taken": 1438860060,
       "taken_at": "Aug 06, 2015 11:21 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20928949117660522,
+          "id": 1729361705
+        },
+        {
+          "distance": 0.21405482292175293,
+          "id": 1729361771
+        },
+        {
+          "distance": 0.230133056640625,
+          "id": 1729361753
+        },
+        {
+          "distance": 0.24275600910186768,
+          "id": 1729361671
+        },
+        {
+          "distance": 0.2440149188041687,
+          "id": 1729361755
+        },
+        {
+          "distance": 0.2457587718963623,
+          "id": 1729361807
+        },
+        {
+          "distance": 0.2589907646179199,
+          "id": 1729361705
+        },
+        {
+          "distance": 0.26430654525756836,
+          "id": 1729361771
+        },
+        {
+          "distance": 0.26442039012908936,
+          "id": 1729361807
+        },
+        {
+          "distance": 0.2694135308265686,
+          "id": 1729361753
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361645,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777646,
     "wof:name": "Unlike some other models that depict pagodas in their pristine state, Tushanwan carvers depicted the Thunder Peak pagoda as it appeared at the time of the model’s creation...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

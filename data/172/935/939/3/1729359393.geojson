@@ -36,6 +36,50 @@
       "taken": 1497947820,
       "taken_at": "Jun 20, 2017, 8:37 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.00002378225326538086,
+          "id": 1763558675
+        },
+        {
+          "distance": 0.15670347213745117,
+          "id": 1947425255
+        },
+        {
+          "distance": 0.15721869468688965,
+          "id": 1729356281
+        },
+        {
+          "distance": 0.16239839792251587,
+          "id": 1729359933
+        },
+        {
+          "distance": 0.18294745683670044,
+          "id": 1729359805
+        },
+        {
+          "distance": 0.19037878513336182,
+          "id": 1763558675
+        },
+        {
+          "distance": 0.203544020652771,
+          "id": 1729360235
+        },
+        {
+          "distance": 0.20994818210601807,
+          "id": 1729359583
+        },
+        {
+          "distance": 0.21482998132705688,
+          "id": 1729357547
+        },
+        {
+          "distance": 0.21858614683151245,
+          "id": 1729359005
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729359393,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777635,
     "wof:name": "The Airport is hosting a ground-breaking ceremony today for a new hotel...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

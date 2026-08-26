@@ -31,6 +31,50 @@
       "taken": 1634556000,
       "taken_at": "Oct 18, 2021 11:20 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1939946413040161,
+          "id": 1880151533
+        },
+        {
+          "distance": 0.1985553503036499,
+          "id": 1880151533
+        },
+        {
+          "distance": 0.20271003246307373,
+          "id": 1880151575
+        },
+        {
+          "distance": 0.20271003246307373,
+          "id": 1880151563
+        },
+        {
+          "distance": 0.21609503030776978,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.23468565940856934,
+          "id": 1880151285
+        },
+        {
+          "distance": 0.24133241176605225,
+          "id": 1763559355
+        },
+        {
+          "distance": 0.2416083812713623,
+          "id": 1729355435
+        },
+        {
+          "distance": 0.2416396141052246,
+          "id": 1880151631
+        },
+        {
+          "distance": 0.24544912576675415,
+          "id": 1763559521
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559371,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Over SFO’s 94 years in operation, the airport has changed dramatically...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -44,6 +44,50 @@
       "taken": 1514394960,
       "taken_at": "Dec 27, 2017 5:16 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11598259210586548,
+          "id": 1729358769
+        },
+        {
+          "distance": 0.1558830738067627,
+          "id": 1729358769
+        },
+        {
+          "distance": 0.18372613191604614,
+          "id": 1729358787
+        },
+        {
+          "distance": 0.2758508324623108,
+          "id": 1880151707
+        },
+        {
+          "distance": 0.2758548855781555,
+          "id": 1729358787
+        },
+        {
+          "distance": 0.2781110405921936,
+          "id": 1729358277
+        },
+        {
+          "distance": 0.2816060185432434,
+          "id": 1729355075
+        },
+        {
+          "distance": 0.2963489890098572,
+          "id": 1729356205
+        },
+        {
+          "distance": 0.2974048852920532,
+          "id": 1729362741
+        },
+        {
+          "distance": 0.29843980073928833,
+          "id": 1729362975
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -73,7 +117,7 @@
       }
     ],
     "wof:id": 1729358777,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "European immigrants from Germanic-speaking parts of Europe began settling in southeastern Pennsylvania in the late seventeenth century...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -90,5 +134,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

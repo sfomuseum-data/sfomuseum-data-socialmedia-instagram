@@ -30,6 +30,50 @@
       "taken": 1626803100,
       "taken_at": "Jul 20, 2021 5:45 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.27636921405792236,
+          "id": 1880151335
+        },
+        {
+          "distance": 0.31484681367874146,
+          "id": 1763559065
+        },
+        {
+          "distance": 0.3285716772079468,
+          "id": 1729359211
+        },
+        {
+          "distance": 0.3289399743080139,
+          "id": 1729363037
+        },
+        {
+          "distance": 0.32965534925460815,
+          "id": 1763559311
+        },
+        {
+          "distance": 0.33026862144470215,
+          "id": 1763559137
+        },
+        {
+          "distance": 0.33791983127593994,
+          "id": 1729363037
+        },
+        {
+          "distance": 0.34641116857528687,
+          "id": 1729363031
+        },
+        {
+          "distance": 0.3466854691505432,
+          "id": 1729359379
+        },
+        {
+          "distance": 0.3468189239501953,
+          "id": 1729357315
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559051,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Our newest blog post is up!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

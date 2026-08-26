@@ -32,6 +32,50 @@
       "taken": 1642095660,
       "taken_at": "Jan 13, 2022 5:41 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.21196842193603516,
+          "id": 1729355937
+        },
+        {
+          "distance": 0.22068440914154053,
+          "id": 1763559269
+        },
+        {
+          "distance": 0.22136211395263672,
+          "id": 1763559269
+        },
+        {
+          "distance": 0.2266472578048706,
+          "id": 1729355937
+        },
+        {
+          "distance": 0.2555580139160156,
+          "id": 1729357111
+        },
+        {
+          "distance": 0.2626023292541504,
+          "id": 1763558799
+        },
+        {
+          "distance": 0.27710217237472534,
+          "id": 1729361967
+        },
+        {
+          "distance": 0.27851706743240356,
+          "id": 1763558799
+        },
+        {
+          "distance": 0.28446465730667114,
+          "id": 1729357111
+        },
+        {
+          "distance": 0.28470486402511597,
+          "id": 1880151621
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1763559659,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Marvin Lipofsky, one of the founding members of the American studio glass movement, was the first American artist to create glass sculpture in a Chinese factory...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

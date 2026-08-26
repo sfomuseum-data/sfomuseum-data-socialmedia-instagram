@@ -25,6 +25,50 @@
       "taken": 1379062740,
       "taken_at": "Sep 13, 2013 8:59 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.28044259548187256,
+          "id": 1729357309
+        },
+        {
+          "distance": 0.29929929971694946,
+          "id": 1763558761
+        },
+        {
+          "distance": 0.3019114136695862,
+          "id": 1729361847
+        },
+        {
+          "distance": 0.3038679361343384,
+          "id": 1729361847
+        },
+        {
+          "distance": 0.30423903465270996,
+          "id": 1729358007
+        },
+        {
+          "distance": 0.3076859712600708,
+          "id": 1763558761
+        },
+        {
+          "distance": 0.30819159746170044,
+          "id": 1729357309
+        },
+        {
+          "distance": 0.30872946977615356,
+          "id": 1729357951
+        },
+        {
+          "distance": 0.3095240592956543,
+          "id": 1729358943
+        },
+        {
+          "distance": 0.31391894817352295,
+          "id": 1729361899
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362549,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "Saddened by the loss of Ray Dolby, here with the pioneering Ampex VRX-1000, the world's first practical videotape system, which Mr. Dolby helped create in 1956...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

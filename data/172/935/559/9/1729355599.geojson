@@ -37,6 +37,50 @@
       "taken": 1580750220,
       "taken_at": "Feb 3, 2020, 5:17 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13111257553100586,
+          "id": 1729355603
+        },
+        {
+          "distance": 0.15154385566711426,
+          "id": 1763559625
+        },
+        {
+          "distance": 0.17140674591064453,
+          "id": 1729355597
+        },
+        {
+          "distance": 0.18712496757507324,
+          "id": 1729359889
+        },
+        {
+          "distance": 0.20063048601150513,
+          "id": 1729355597
+        },
+        {
+          "distance": 0.20695823431015015,
+          "id": 1763559625
+        },
+        {
+          "distance": 0.21577125787734985,
+          "id": 1880151137
+        },
+        {
+          "distance": 0.21817541122436523,
+          "id": 1729355603
+        },
+        {
+          "distance": 0.22071468830108643,
+          "id": 1729358483
+        },
+        {
+          "distance": 0.22951054573059082,
+          "id": 1729359889
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729355599,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777626,
     "wof:name": "For four generations, women who live in the isolated, African-American hamlet of Gee's Bend, have been creating bold dynamic quilts...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

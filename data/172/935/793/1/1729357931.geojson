@@ -37,6 +37,50 @@
       "taken": 1532020380,
       "taken_at": "Jul 19, 2018, 5:13 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.009756863117218018,
+          "id": 1729358791
+        },
+        {
+          "distance": 0.10963636636734009,
+          "id": 1729358791
+        },
+        {
+          "distance": 0.24537312984466553,
+          "id": 1729358699
+        },
+        {
+          "distance": 0.28220492601394653,
+          "id": 1729358711
+        },
+        {
+          "distance": 0.2909923791885376,
+          "id": 1729357793
+        },
+        {
+          "distance": 0.2982105612754822,
+          "id": 1729360031
+        },
+        {
+          "distance": 0.2999955415725708,
+          "id": 1729358725
+        },
+        {
+          "distance": 0.3007633686065674,
+          "id": 1729358735
+        },
+        {
+          "distance": 0.3016856908798218,
+          "id": 1729358699
+        },
+        {
+          "distance": 0.3093675971031189,
+          "id": 1729358147
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729357931,
-    "wof:lastmodified": 1716929951,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Introduced in the late 1800s, coin-operated electric shock machines operated alongside coin-controlled vending machines, scales, and strength testers...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

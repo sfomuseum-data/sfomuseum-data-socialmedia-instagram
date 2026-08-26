@@ -25,6 +25,50 @@
       "taken": 1455647820,
       "taken_at": "Feb 16, 2016 6:37 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.010388195514678955,
+          "id": 1729361039
+        },
+        {
+          "distance": 0.09102582931518555,
+          "id": 1729361039
+        },
+        {
+          "distance": 0.12471616268157959,
+          "id": 1729358231
+        },
+        {
+          "distance": 0.14953196048736572,
+          "id": 1729356567
+        },
+        {
+          "distance": 0.15372061729431152,
+          "id": 1729358231
+        },
+        {
+          "distance": 0.16663092374801636,
+          "id": 1729357215
+        },
+        {
+          "distance": 0.17100411653518677,
+          "id": 1729355109
+        },
+        {
+          "distance": 0.17652255296707153,
+          "id": 1729358437
+        },
+        {
+          "distance": 0.17689567804336548,
+          "id": 1729355417
+        },
+        {
+          "distance": 0.1835506558418274,
+          "id": 1729358651
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1763558623,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777659,
     "wof:name": "Lufthansa has been one of the longest continually serving airlines at SFO...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

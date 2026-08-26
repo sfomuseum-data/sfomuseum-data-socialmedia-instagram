@@ -25,6 +25,50 @@
       "taken": 1469782320,
       "taken_at": "Jul 29, 2016 8:52 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2900119423866272,
+          "id": 1729361559
+        },
+        {
+          "distance": 0.3112473487854004,
+          "id": 1729358921
+        },
+        {
+          "distance": 0.3151922821998596,
+          "id": 1729361603
+        },
+        {
+          "distance": 0.3234325647354126,
+          "id": 1729363027
+        },
+        {
+          "distance": 0.3267735242843628,
+          "id": 1729359465
+        },
+        {
+          "distance": 0.3269355297088623,
+          "id": 1729361577
+        },
+        {
+          "distance": 0.328785240650177,
+          "id": 1763559073
+        },
+        {
+          "distance": 0.32912737131118774,
+          "id": 1729356623
+        },
+        {
+          "distance": 0.3295106291770935,
+          "id": 1729361559
+        },
+        {
+          "distance": 0.3315696120262146,
+          "id": 1729358501
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360481,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "#OnThisDay in 1959, Qantas’ first jet service departed from Sydney Airport destined for San Francisco...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

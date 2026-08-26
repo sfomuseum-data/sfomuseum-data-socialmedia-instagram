@@ -33,6 +33,50 @@
       "taken": 1496393040,
       "taken_at": "Jun 02, 2017 8:44 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19135355949401855,
+          "id": 1729355327
+        },
+        {
+          "distance": 0.1978001594543457,
+          "id": 1729361085
+        },
+        {
+          "distance": 0.21338361501693726,
+          "id": 1729361127
+        },
+        {
+          "distance": 0.2213330864906311,
+          "id": 1729355327
+        },
+        {
+          "distance": 0.2231723666191101,
+          "id": 1729357293
+        },
+        {
+          "distance": 0.22779881954193115,
+          "id": 1729355417
+        },
+        {
+          "distance": 0.22781580686569214,
+          "id": 1729359051
+        },
+        {
+          "distance": 0.23225915431976318,
+          "id": 1729356791
+        },
+        {
+          "distance": 0.23344868421554565,
+          "id": 1729361127
+        },
+        {
+          "distance": 0.23413324356079102,
+          "id": 1763558623
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729359447,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Ever wonder how large/oversize cargo fits into a Boeing 747?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

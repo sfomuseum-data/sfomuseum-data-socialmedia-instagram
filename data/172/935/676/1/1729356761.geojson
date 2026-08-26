@@ -36,6 +36,50 @@
       "taken": 1553598300,
       "taken_at": "Mar 26, 2019 11:05 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1354181170463562,
+          "id": 1729356655
+        },
+        {
+          "distance": 0.15387368202209473,
+          "id": 1729356713
+        },
+        {
+          "distance": 0.17546284198760986,
+          "id": 1729357111
+        },
+        {
+          "distance": 0.1776813268661499,
+          "id": 1763558799
+        },
+        {
+          "distance": 0.1799696683883667,
+          "id": 1729356997
+        },
+        {
+          "distance": 0.1873377561569214,
+          "id": 1729357111
+        },
+        {
+          "distance": 0.18793946504592896,
+          "id": 1763558799
+        },
+        {
+          "distance": 0.19962221384048462,
+          "id": 1729357165
+        },
+        {
+          "distance": 0.19962221384048462,
+          "id": 1763558803
+        },
+        {
+          "distance": 0.2014087438583374,
+          "id": 1729357385
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729356761,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Ndidi Ekubia is a graduate of London’s Royal College of Art...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

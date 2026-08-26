@@ -34,6 +34,50 @@
       "taken": 1556701980,
       "taken_at": "May 01, 2019 9:13 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12231296300888062,
+          "id": 1763559167
+        },
+        {
+          "distance": 0.14826929569244385,
+          "id": 1763559167
+        },
+        {
+          "distance": 0.15118128061294556,
+          "id": 1729355245
+        },
+        {
+          "distance": 0.15698909759521484,
+          "id": 1729357179
+        },
+        {
+          "distance": 0.15698909759521484,
+          "id": 1763558807
+        },
+        {
+          "distance": 0.15736496448516846,
+          "id": 1729355429
+        },
+        {
+          "distance": 0.16071051359176636,
+          "id": 1729355833
+        },
+        {
+          "distance": 0.16913390159606934,
+          "id": 1729357489
+        },
+        {
+          "distance": 0.1705712080001831,
+          "id": 1729355245
+        },
+        {
+          "distance": 0.17246246337890625,
+          "id": 1729358537
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729356623,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "In April 1935, the Douglas DC-1 set a record for the fastest transcontinental flight at eleven hours and five minutes...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

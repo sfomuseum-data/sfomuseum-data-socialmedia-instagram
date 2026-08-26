@@ -50,6 +50,50 @@
       "taken": 1503332460,
       "taken_at": "Aug 21, 2017 4:21 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16209465265274048,
+          "id": 1729356729
+        },
+        {
+          "distance": 0.1737595796585083,
+          "id": 1729355033
+        },
+        {
+          "distance": 0.1776600480079651,
+          "id": 1763559547
+        },
+        {
+          "distance": 0.18361753225326538,
+          "id": 1763559203
+        },
+        {
+          "distance": 0.18811672925949097,
+          "id": 1729357215
+        },
+        {
+          "distance": 0.19460082054138184,
+          "id": 1729361603
+        },
+        {
+          "distance": 0.19534939527511597,
+          "id": 1729360263
+        },
+        {
+          "distance": 0.1975395679473877,
+          "id": 1729361603
+        },
+        {
+          "distance": 0.1980944275856018,
+          "id": 1729359533
+        },
+        {
+          "distance": 0.19998890161514282,
+          "id": 1729359771
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -79,7 +123,7 @@
       }
     ],
     "wof:id": 1729359173,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Jet streams are fast flowing westerly (moving west to east) air currents found around the world...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -96,5 +140,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1626706080,
       "taken_at": "Jul 19, 2021 2:48 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.058691203594207764,
+          "id": 1763559003
+        },
+        {
+          "distance": 0.12837475538253784,
+          "id": 1763559003
+        },
+        {
+          "distance": 0.3070712089538574,
+          "id": 1763559103
+        },
+        {
+          "distance": 0.3167814016342163,
+          "id": 1763559103
+        },
+        {
+          "distance": 0.3431674838066101,
+          "id": 1763559169
+        },
+        {
+          "distance": 0.35447120666503906,
+          "id": 1763559187
+        },
+        {
+          "distance": 0.363567590713501,
+          "id": 1763559145
+        },
+        {
+          "distance": 0.3651852011680603,
+          "id": 1763559251
+        },
+        {
+          "distance": 0.36902719736099243,
+          "id": 1763558859
+        },
+        {
+          "distance": 0.3698955178260803,
+          "id": 1763559111
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1763559083,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "This is your last week to catch \"Surf’s Up!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

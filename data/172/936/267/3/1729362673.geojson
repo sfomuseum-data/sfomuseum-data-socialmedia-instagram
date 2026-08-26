@@ -25,6 +25,50 @@
       "taken": 1369920480,
       "taken_at": "May 30, 2013 1:28 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2775254249572754,
+          "id": 1729362787
+        },
+        {
+          "distance": 0.2959277629852295,
+          "id": 1729362787
+        },
+        {
+          "distance": 0.2997167706489563,
+          "id": 1729362653
+        },
+        {
+          "distance": 0.3150550127029419,
+          "id": 1729362741
+        },
+        {
+          "distance": 0.3233655095100403,
+          "id": 1729362981
+        },
+        {
+          "distance": 0.3291945457458496,
+          "id": 1729362973
+        },
+        {
+          "distance": 0.33075058460235596,
+          "id": 1729362163
+        },
+        {
+          "distance": 0.33178502321243286,
+          "id": 1729362653
+        },
+        {
+          "distance": 0.3356446623802185,
+          "id": 1729362579
+        },
+        {
+          "distance": 0.33799052238464355,
+          "id": 1729359089
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362673,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "The Shakers pioneered the industry of selling seeds in packets, and even invented machinery to cut, fold, paste, and print seed bags...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

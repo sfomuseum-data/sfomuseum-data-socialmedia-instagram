@@ -48,6 +48,50 @@
       "taken": 1505502000,
       "taken_at": "Sep 15, 2017 7:00 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0733596682548523,
+          "id": 1729361129
+        },
+        {
+          "distance": 0.07798266410827637,
+          "id": 1729360337
+        },
+        {
+          "distance": 0.08764404058456421,
+          "id": 1729357057
+        },
+        {
+          "distance": 0.09518265724182129,
+          "id": 1729358985
+        },
+        {
+          "distance": 0.09786415100097656,
+          "id": 1729357667
+        },
+        {
+          "distance": 0.10418760776519775,
+          "id": 1729359005
+        },
+        {
+          "distance": 0.10770440101623535,
+          "id": 1729356131
+        },
+        {
+          "distance": 0.12354850769042969,
+          "id": 1763559413
+        },
+        {
+          "distance": 0.12665480375289917,
+          "id": 1729356281
+        },
+        {
+          "distance": 0.1289392113685608,
+          "id": 1729360259
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -77,7 +121,7 @@
       }
     ],
     "wof:id": 1729359077,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "#OnThisDay in 1963, the first major addition to the 1954 terminal at San Francisco International Airport was dedicated...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -94,5 +138,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

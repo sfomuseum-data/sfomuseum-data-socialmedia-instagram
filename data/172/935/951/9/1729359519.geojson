@@ -31,6 +31,50 @@
       "taken": 1494596340,
       "taken_at": "May 12, 2017 1:39 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18442964553833008,
+          "id": 1729355927
+        },
+        {
+          "distance": 0.20675885677337646,
+          "id": 1729355927
+        },
+        {
+          "distance": 0.2094467282295227,
+          "id": 1763559053
+        },
+        {
+          "distance": 0.21175700426101685,
+          "id": 1729357127
+        },
+        {
+          "distance": 0.2169620394706726,
+          "id": 1729358951
+        },
+        {
+          "distance": 0.2187265157699585,
+          "id": 1763559053
+        },
+        {
+          "distance": 0.22519439458847046,
+          "id": 1729357127
+        },
+        {
+          "distance": 0.23355358839035034,
+          "id": 1729358437
+        },
+        {
+          "distance": 0.2335544228553772,
+          "id": 1729358437
+        },
+        {
+          "distance": 0.2348615527153015,
+          "id": 1729355847
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729359519,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "#OnThisDay in 1982, Braniff International Airways ceased operations...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

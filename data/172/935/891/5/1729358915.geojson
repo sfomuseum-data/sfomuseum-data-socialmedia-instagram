@@ -52,6 +52,50 @@
       "taken": 1510161540,
       "taken_at": "Nov 8, 2017, 5:19 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06712675094604492,
+          "id": 1729358539
+        },
+        {
+          "distance": 0.08285224437713623,
+          "id": 1729358741
+        },
+        {
+          "distance": 0.08891230821609497,
+          "id": 1729358579
+        },
+        {
+          "distance": 0.09188318252563477,
+          "id": 1729358967
+        },
+        {
+          "distance": 0.10901713371276855,
+          "id": 1729358957
+        },
+        {
+          "distance": 0.12715113162994385,
+          "id": 1729358741
+        },
+        {
+          "distance": 0.1334417462348938,
+          "id": 1729358745
+        },
+        {
+          "distance": 0.13432639837265015,
+          "id": 1729358669
+        },
+        {
+          "distance": 0.141898512840271,
+          "id": 1729358539
+        },
+        {
+          "distance": 0.14636045694351196,
+          "id": 1729358967
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -81,7 +125,7 @@
       }
     ],
     "wof:id": 1729358915,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Ceremonial huipiles are among the most elaborate Mayan textiles...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -98,5 +142,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

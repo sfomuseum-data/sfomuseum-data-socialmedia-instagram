@@ -27,6 +27,50 @@
       "taken": 1716997620,
       "taken_at": "May 29, 2024 3:47 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3723716735839844,
+          "id": 1947425125
+        },
+        {
+          "distance": 0.38505834341049194,
+          "id": 1729356985
+        },
+        {
+          "distance": 0.38725244998931885,
+          "id": 1763559271
+        },
+        {
+          "distance": 0.3882110118865967,
+          "id": 1763559317
+        },
+        {
+          "distance": 0.39941853284835815,
+          "id": 1763559317
+        },
+        {
+          "distance": 0.4025738835334778,
+          "id": 1763559143
+        },
+        {
+          "distance": 0.40339356660842896,
+          "id": 1729358331
+        },
+        {
+          "distance": 0.4088045358657837,
+          "id": 1729356985
+        },
+        {
+          "distance": 0.40931516885757446,
+          "id": 1947425011
+        },
+        {
+          "distance": 0.413882315158844,
+          "id": 1729360055
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947425015,
-    "wof:lastmodified": 1733175323,
+    "wof:lastmodified": 1787777664,
     "wof:name": "In 2013, Virgin Produced, a Virgin Group production company, created a new type of musical airline safety video for Virgin America that amused and entertained its passengers in a uniquely Virgin way...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

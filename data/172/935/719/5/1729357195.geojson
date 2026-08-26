@@ -36,6 +36,50 @@
       "taken": 1545483420,
       "taken_at": "Dec 22, 2018 12:57 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.222947359085083,
+          "id": 1763558749
+        },
+        {
+          "distance": 0.222947359085083,
+          "id": 1729357833
+        },
+        {
+          "distance": 0.22703486680984497,
+          "id": 1729357847
+        },
+        {
+          "distance": 0.2566947340965271,
+          "id": 1729358591
+        },
+        {
+          "distance": 0.26352638006210327,
+          "id": 1729357719
+        },
+        {
+          "distance": 0.26639217138290405,
+          "id": 1729357067
+        },
+        {
+          "distance": 0.26983052492141724,
+          "id": 1729357787
+        },
+        {
+          "distance": 0.2835095524787903,
+          "id": 1729356887
+        },
+        {
+          "distance": 0.2839473485946655,
+          "id": 1729357719
+        },
+        {
+          "distance": 0.284709632396698,
+          "id": 1729357617
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729357195,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777630,
     "wof:name": "Throughout the 18th and 19th centuries, a household’s inventory of silver items indicated its wealth and status...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1346337960,
       "taken_at": "Aug 30, 2012 2:46 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3614919185638428,
+          "id": 1729362597
+        },
+        {
+          "distance": 0.36705589294433594,
+          "id": 1729361695
+        },
+        {
+          "distance": 0.37628448009490967,
+          "id": 1729362639
+        },
+        {
+          "distance": 0.37690573930740356,
+          "id": 1729362567
+        },
+        {
+          "distance": 0.3804628252983093,
+          "id": 1729362619
+        },
+        {
+          "distance": 0.3863592743873596,
+          "id": 1729360261
+        },
+        {
+          "distance": 0.38721251487731934,
+          "id": 1729359743
+        },
+        {
+          "distance": 0.3906920552253723,
+          "id": 1729360253
+        },
+        {
+          "distance": 0.39103221893310547,
+          "id": 1729360211
+        },
+        {
+          "distance": 0.3926578164100647,
+          "id": 1729360365
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362921,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777656,
     "wof:name": "One of our library's popular books!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

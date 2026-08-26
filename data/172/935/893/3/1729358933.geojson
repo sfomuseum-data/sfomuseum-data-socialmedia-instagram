@@ -35,6 +35,50 @@
       "taken": 1509967080,
       "taken_at": "Nov 06, 2017 11:18 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2318078875541687,
+          "id": 1947424951
+        },
+        {
+          "distance": 0.23758083581924438,
+          "id": 1947425047
+        },
+        {
+          "distance": 0.23939764499664307,
+          "id": 1880151785
+        },
+        {
+          "distance": 0.24552607536315918,
+          "id": 1729356499
+        },
+        {
+          "distance": 0.24592643976211548,
+          "id": 1947424897
+        },
+        {
+          "distance": 0.25319045782089233,
+          "id": 1880150873
+        },
+        {
+          "distance": 0.25693219900131226,
+          "id": 1947424867
+        },
+        {
+          "distance": 0.2634918689727783,
+          "id": 1880151317
+        },
+        {
+          "distance": 0.264947772026062,
+          "id": 1880151781
+        },
+        {
+          "distance": 0.2662557363510132,
+          "id": 1880151197
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729358933,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777634,
     "wof:name": "This is your last week to see \"Stepping Out: Shoes in World Culture\"...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

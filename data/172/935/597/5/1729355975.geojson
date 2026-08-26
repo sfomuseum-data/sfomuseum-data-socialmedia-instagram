@@ -36,6 +36,50 @@
       "taken": 1571418060,
       "taken_at": "Oct 18, 2019 5:01 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1267939805984497,
+          "id": 1729355973
+        },
+        {
+          "distance": 0.14587318897247314,
+          "id": 1729356125
+        },
+        {
+          "distance": 0.14595550298690796,
+          "id": 1729355831
+        },
+        {
+          "distance": 0.16570693254470825,
+          "id": 1729356175
+        },
+        {
+          "distance": 0.18340319395065308,
+          "id": 1729356397
+        },
+        {
+          "distance": 0.18821698427200317,
+          "id": 1729355991
+        },
+        {
+          "distance": 0.19665640592575073,
+          "id": 1729355835
+        },
+        {
+          "distance": 0.20442169904708862,
+          "id": 1729356419
+        },
+        {
+          "distance": 0.2063848376274109,
+          "id": 1729355775
+        },
+        {
+          "distance": 0.20670819282531738,
+          "id": 1729356125
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729355975,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777627,
     "wof:name": "Renaissance Revival, the most ubiquitous furniture style following the Civil War, drew inspiration from the Renaissance of the fifteenth and sixteenth centuries as well as from the classical world...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -32,6 +32,50 @@
       "taken": 1709741760,
       "taken_at": "Mar 06, 2024 4:16 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13589495420455933,
+          "id": 1729355723
+        },
+        {
+          "distance": 0.13617157936096191,
+          "id": 1729355707
+        },
+        {
+          "distance": 0.14735376834869385,
+          "id": 1729355703
+        },
+        {
+          "distance": 0.15052318572998047,
+          "id": 1729355701
+        },
+        {
+          "distance": 0.1534329056739807,
+          "id": 1729357871
+        },
+        {
+          "distance": 0.16228169202804565,
+          "id": 1880151069
+        },
+        {
+          "distance": 0.1781482696533203,
+          "id": 1729359429
+        },
+        {
+          "distance": 0.1788455843925476,
+          "id": 1729355705
+        },
+        {
+          "distance": 0.1804516315460205,
+          "id": 1880151053
+        },
+        {
+          "distance": 0.18333125114440918,
+          "id": 1947425185
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1947425089,
-    "wof:lastmodified": 1733175325,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Every March, SFO Museum highlights women artists for International Women’s History Month using the hashtag #5WomenArtists...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

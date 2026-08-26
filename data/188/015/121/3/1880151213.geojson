@@ -28,6 +28,50 @@
       "taken": 1672765260,
       "taken_at": "Jan 03, 2023 5:01 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.4647919535636902,
+          "id": 1729358947
+        },
+        {
+          "distance": 0.4647919535636902,
+          "id": 1763558709
+        },
+        {
+          "distance": 0.4764457941055298,
+          "id": 1729355737
+        },
+        {
+          "distance": 0.4821033477783203,
+          "id": 1729355737
+        },
+        {
+          "distance": 0.4876851439476013,
+          "id": 1729356799
+        },
+        {
+          "distance": 0.49272382259368896,
+          "id": 1729357901
+        },
+        {
+          "distance": 0.4941266179084778,
+          "id": 1729357095
+        },
+        {
+          "distance": 0.5099027156829834,
+          "id": 1763559535
+        },
+        {
+          "distance": 0.5102616548538208,
+          "id": 1763558755
+        },
+        {
+          "distance": 0.511623740196228,
+          "id": 1880150901
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1880151213,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "This year, we’re going to highlight #52objects from our collection that we find notable, unusual, interesting, or just plain fun!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

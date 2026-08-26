@@ -25,6 +25,50 @@
       "taken": 1470131280,
       "taken_at": "Aug 02, 2016 9:48 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.21827268600463867,
+          "id": 1729359381
+        },
+        {
+          "distance": 0.23134589195251465,
+          "id": 1729359255
+        },
+        {
+          "distance": 0.25117385387420654,
+          "id": 1729359381
+        },
+        {
+          "distance": 0.2704543471336365,
+          "id": 1729360775
+        },
+        {
+          "distance": 0.27625763416290283,
+          "id": 1729360139
+        },
+        {
+          "distance": 0.2804911136627197,
+          "id": 1729360725
+        },
+        {
+          "distance": 0.2933926582336426,
+          "id": 1729360717
+        },
+        {
+          "distance": 0.2969170808792114,
+          "id": 1729356333
+        },
+        {
+          "distance": 0.2984325885772705,
+          "id": 1729360997
+        },
+        {
+          "distance": 0.30489444732666016,
+          "id": 1729360725
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360471,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Thomas Edison revolutionized lighting with the introduction of the incandescent light bulb—a technological wonder—in 1879...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

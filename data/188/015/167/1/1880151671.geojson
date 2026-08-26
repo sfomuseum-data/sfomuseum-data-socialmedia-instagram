@@ -30,6 +30,50 @@
       "taken": 1654802460,
       "taken_at": "Jun 09, 2022 7:21 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19496166706085205,
+          "id": 1729356033
+        },
+        {
+          "distance": 0.20270806550979614,
+          "id": 1729359569
+        },
+        {
+          "distance": 0.20313602685928345,
+          "id": 1729356753
+        },
+        {
+          "distance": 0.20990312099456787,
+          "id": 1729360469
+        },
+        {
+          "distance": 0.21493995189666748,
+          "id": 1729356033
+        },
+        {
+          "distance": 0.216791033744812,
+          "id": 1729357345
+        },
+        {
+          "distance": 0.22009164094924927,
+          "id": 1729356753
+        },
+        {
+          "distance": 0.2223278284072876,
+          "id": 1729359569
+        },
+        {
+          "distance": 0.22480261325836182,
+          "id": 1729357061
+        },
+        {
+          "distance": 0.22725152969360352,
+          "id": 1763559059
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151671,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Founded by George T. Baker in 1934, National Airlines started as an air mail carrier, as did many airlines at that time...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

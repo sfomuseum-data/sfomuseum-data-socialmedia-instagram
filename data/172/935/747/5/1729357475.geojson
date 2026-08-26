@@ -35,6 +35,50 @@
       "taken": 1540902660,
       "taken_at": "Oct 30, 2018, 12:31 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.26536786556243896,
+          "id": 1729361255
+        },
+        {
+          "distance": 0.28344839811325073,
+          "id": 1763559445
+        },
+        {
+          "distance": 0.286590576171875,
+          "id": 1729357285
+        },
+        {
+          "distance": 0.2925892472267151,
+          "id": 1729357463
+        },
+        {
+          "distance": 0.299171507358551,
+          "id": 1729358851
+        },
+        {
+          "distance": 0.2995646595954895,
+          "id": 1729361255
+        },
+        {
+          "distance": 0.30362117290496826,
+          "id": 1729357055
+        },
+        {
+          "distance": 0.3084774613380432,
+          "id": 1729356029
+        },
+        {
+          "distance": 0.3085409998893738,
+          "id": 1763559527
+        },
+        {
+          "distance": 0.31137967109680176,
+          "id": 1729357687
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729357475,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777631,
     "wof:name": "TWA's last scheduled Boeing 707 flight took off on its final departure #onthisday in 1983, flying from MIA to JFK...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

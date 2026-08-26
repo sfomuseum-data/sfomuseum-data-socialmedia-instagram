@@ -25,6 +25,50 @@
       "taken": 1481018340,
       "taken_at": "Dec 06, 2016 9:59 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.25547051429748535,
+          "id": 1729355971
+        },
+        {
+          "distance": 0.2572587728500366,
+          "id": 1763559155
+        },
+        {
+          "distance": 0.25897425413131714,
+          "id": 1729359659
+        },
+        {
+          "distance": 0.2619485855102539,
+          "id": 1729355245
+        },
+        {
+          "distance": 0.263025164604187,
+          "id": 1729355971
+        },
+        {
+          "distance": 0.2675173282623291,
+          "id": 1729358537
+        },
+        {
+          "distance": 0.2733837366104126,
+          "id": 1729360007
+        },
+        {
+          "distance": 0.27587687969207764,
+          "id": 1729356685
+        },
+        {
+          "distance": 0.2771286964416504,
+          "id": 1729356623
+        },
+        {
+          "distance": 0.27846115827560425,
+          "id": 1729358339
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360043,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777639,
     "wof:name": "#Onthisday in 1957, the first prototype for the Lockheed L-188 Electra turboprop airliner took flight...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

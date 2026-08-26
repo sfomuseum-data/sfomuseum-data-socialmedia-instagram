@@ -30,6 +30,50 @@
       "taken": 1723563300,
       "taken_at": "Aug 13, 2024 3:35 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2972468137741089,
+          "id": 1729358479
+        },
+        {
+          "distance": 0.3144913911819458,
+          "id": 1729355281
+        },
+        {
+          "distance": 0.3153262138366699,
+          "id": 1729358479
+        },
+        {
+          "distance": 0.3177485466003418,
+          "id": 1947425137
+        },
+        {
+          "distance": 0.33351707458496094,
+          "id": 1947425137
+        },
+        {
+          "distance": 0.33407509326934814,
+          "id": 1729359199
+        },
+        {
+          "distance": 0.33533787727355957,
+          "id": 1947424997
+        },
+        {
+          "distance": 0.3380175232887268,
+          "id": 1729355197
+        },
+        {
+          "distance": 0.33937811851501465,
+          "id": 1729355611
+        },
+        {
+          "distance": 0.33976876735687256,
+          "id": 1729359319
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1947424909,
-    "wof:lastmodified": 1733175320,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Cheju or Jeju Island, located 50 miles off the southern peninsula of South Korea, is Korea's largest island...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

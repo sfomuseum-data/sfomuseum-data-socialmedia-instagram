@@ -38,6 +38,50 @@
       "taken": 1524392340,
       "taken_at": "Apr 22, 2018 10:19 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19019252061843872,
+          "id": 1729356611
+        },
+        {
+          "distance": 0.19138336181640625,
+          "id": 1729361307
+        },
+        {
+          "distance": 0.19377350807189941,
+          "id": 1729360721
+        },
+        {
+          "distance": 0.19538778066635132,
+          "id": 1729359571
+        },
+        {
+          "distance": 0.19540101289749146,
+          "id": 1763558641
+        },
+        {
+          "distance": 0.19791722297668457,
+          "id": 1729360379
+        },
+        {
+          "distance": 0.203149676322937,
+          "id": 1763558731
+        },
+        {
+          "distance": 0.2071285843849182,
+          "id": 1729358267
+        },
+        {
+          "distance": 0.21950936317443848,
+          "id": 1729360379
+        },
+        {
+          "distance": 0.22186720371246338,
+          "id": 1729360545
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729358327,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Construction of the North Terminal (now Terminal 3) began #onthisday in 1971 with a groundbreaking ceremony that included a water cannon salute performed by airport fire trucks...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -33,6 +33,50 @@
       "taken": 1678279560,
       "taken_at": "Mar 08, 2023 12:46 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.009163379669189453,
+          "id": 1880150935
+        },
+        {
+          "distance": 0.010613024234771729,
+          "id": 1947425023
+        },
+        {
+          "distance": 0.0107574462890625,
+          "id": 1947425299
+        },
+        {
+          "distance": 0.0107574462890625,
+          "id": 1880150893
+        },
+        {
+          "distance": 0.0107574462890625,
+          "id": 1947425279
+        },
+        {
+          "distance": 0.0107574462890625,
+          "id": 1880150987
+        },
+        {
+          "distance": 0.0107574462890625,
+          "id": 1880151181
+        },
+        {
+          "distance": 0.0107574462890625,
+          "id": 1880150889
+        },
+        {
+          "distance": 0.0107574462890625,
+          "id": 1947425311
+        },
+        {
+          "distance": 0.0107574462890625,
+          "id": 1947425239
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1880151087,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "So now I go out, bold...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

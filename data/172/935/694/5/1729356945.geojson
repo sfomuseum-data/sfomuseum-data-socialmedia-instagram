@@ -40,6 +40,50 @@
       "taken": 1550051880,
       "taken_at": "Feb 13, 2019, 9:58 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09875613451004028,
+          "id": 1729357021
+        },
+        {
+          "distance": 0.11415690183639526,
+          "id": 1729356901
+        },
+        {
+          "distance": 0.11823374032974243,
+          "id": 1729356943
+        },
+        {
+          "distance": 0.147216796875,
+          "id": 1729357019
+        },
+        {
+          "distance": 0.15546607971191406,
+          "id": 1729357021
+        },
+        {
+          "distance": 0.1732422113418579,
+          "id": 1729356901
+        },
+        {
+          "distance": 0.17500633001327515,
+          "id": 1729356943
+        },
+        {
+          "distance": 0.19070321321487427,
+          "id": 1729357019
+        },
+        {
+          "distance": 0.191247820854187,
+          "id": 1729356923
+        },
+        {
+          "distance": 0.20881569385528564,
+          "id": 1729356923
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729356945,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Tow surfers utilize specially designed boards and motorized equipment to ride some of the largest and most powerful waves on earth...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

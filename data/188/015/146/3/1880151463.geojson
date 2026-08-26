@@ -31,6 +31,50 @@
       "taken": 1662994500,
       "taken_at": "Sep 12, 2022 2:55 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3056650757789612,
+          "id": 1729361647
+        },
+        {
+          "distance": 0.32518941164016724,
+          "id": 1729361647
+        },
+        {
+          "distance": 0.38958072662353516,
+          "id": 1880151569
+        },
+        {
+          "distance": 0.41598212718963623,
+          "id": 1729356661
+        },
+        {
+          "distance": 0.41720718145370483,
+          "id": 1880151587
+        },
+        {
+          "distance": 0.41996729373931885,
+          "id": 1729361065
+        },
+        {
+          "distance": 0.42398083209991455,
+          "id": 1729357359
+        },
+        {
+          "distance": 0.4291941523551941,
+          "id": 1729358141
+        },
+        {
+          "distance": 0.4304582476615906,
+          "id": 1729357399
+        },
+        {
+          "distance": 0.4325181841850281,
+          "id": 1729357639
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151463,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "While California’s heat wave has subsided, we still hope you’re staying cool...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -27,6 +27,50 @@
       "taken": 1722873000,
       "taken_at": "Aug 05, 2024 3:50 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2495625615119934,
+          "id": 1763558801
+        },
+        {
+          "distance": 0.2495625615119934,
+          "id": 1729357135
+        },
+        {
+          "distance": 0.25460702180862427,
+          "id": 1763558801
+        },
+        {
+          "distance": 0.25460702180862427,
+          "id": 1729357135
+        },
+        {
+          "distance": 0.2553648352622986,
+          "id": 1729355059
+        },
+        {
+          "distance": 0.25791633129119873,
+          "id": 1880151439
+        },
+        {
+          "distance": 0.26335638761520386,
+          "id": 1729360245
+        },
+        {
+          "distance": 0.2695162296295166,
+          "id": 1880151187
+        },
+        {
+          "distance": 0.2705760598182678,
+          "id": 1729356433
+        },
+        {
+          "distance": 0.27176040410995483,
+          "id": 1763559667
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947424921,
-    "wof:lastmodified": 1733175320,
+    "wof:lastmodified": 1787777664,
     "wof:name": "\"The Art of the African Instrument\" features bells, rattles, harp lutes, drums, slit gongs, and lamellophones or “thumb pianos.” Though small in scale, the lamellophone produces enchanting sounds...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

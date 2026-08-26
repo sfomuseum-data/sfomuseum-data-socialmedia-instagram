@@ -33,6 +33,50 @@
       "taken": 1480966800,
       "taken_at": "Dec 05, 2016 7:40 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.005197703838348389,
+          "id": 1729355795
+        },
+        {
+          "distance": 0.0850786566734314,
+          "id": 1729355795
+        },
+        {
+          "distance": 0.16770297288894653,
+          "id": 1729359051
+        },
+        {
+          "distance": 0.1752801537513733,
+          "id": 1880151167
+        },
+        {
+          "distance": 0.17755645513534546,
+          "id": 1729358851
+        },
+        {
+          "distance": 0.1815488338470459,
+          "id": 1729357059
+        },
+        {
+          "distance": 0.18281936645507812,
+          "id": 1729355165
+        },
+        {
+          "distance": 0.1854320764541626,
+          "id": 1729358863
+        },
+        {
+          "distance": 0.18654322624206543,
+          "id": 1729358963
+        },
+        {
+          "distance": 0.19029533863067627,
+          "id": 1729358437
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729360047,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777639,
     "wof:name": "This circa 1960 photograph shows several Boeing 707 jetliners in their introduction liveries...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

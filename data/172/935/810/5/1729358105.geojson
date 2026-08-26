@@ -36,6 +36,50 @@
       "taken": 1529425560,
       "taken_at": "Jun 19, 2018 4:26 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1693401336669922,
+          "id": 1729359793
+        },
+        {
+          "distance": 0.19298243522644043,
+          "id": 1729359793
+        },
+        {
+          "distance": 0.19659972190856934,
+          "id": 1729355509
+        },
+        {
+          "distance": 0.2000691294670105,
+          "id": 1729355509
+        },
+        {
+          "distance": 0.2072685956954956,
+          "id": 1729359057
+        },
+        {
+          "distance": 0.20740872621536255,
+          "id": 1729360353
+        },
+        {
+          "distance": 0.2077288031578064,
+          "id": 1763558957
+        },
+        {
+          "distance": 0.209658682346344,
+          "id": 1729358563
+        },
+        {
+          "distance": 0.21259665489196777,
+          "id": 1729356121
+        },
+        {
+          "distance": 0.21311157941818237,
+          "id": 1729357689
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729358105,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Icelandair, the flag carrier of Iceland, was established in 1937 as Flugfélag Akureyrar and began operating as Icelandair in 1940...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

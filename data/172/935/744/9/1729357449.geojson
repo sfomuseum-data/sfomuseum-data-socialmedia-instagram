@@ -37,6 +37,50 @@
       "taken": 1541080260,
       "taken_at": "Nov 01, 2018 1:51 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12175953388214111,
+          "id": 1729359087
+        },
+        {
+          "distance": 0.12254464626312256,
+          "id": 1729359087
+        },
+        {
+          "distance": 0.23416537046432495,
+          "id": 1763559677
+        },
+        {
+          "distance": 0.2514802813529968,
+          "id": 1729355207
+        },
+        {
+          "distance": 0.2551266551017761,
+          "id": 1763559233
+        },
+        {
+          "distance": 0.25734996795654297,
+          "id": 1729359805
+        },
+        {
+          "distance": 0.2590339779853821,
+          "id": 1729355161
+        },
+        {
+          "distance": 0.26273787021636963,
+          "id": 1729357547
+        },
+        {
+          "distance": 0.26638680696487427,
+          "id": 1763559413
+        },
+        {
+          "distance": 0.2675824761390686,
+          "id": 1729356895
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729357449,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777631,
     "wof:name": "Do you recognize this sculpture?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

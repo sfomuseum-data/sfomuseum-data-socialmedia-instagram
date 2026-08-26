@@ -30,6 +30,50 @@
       "taken": 1722270600,
       "taken_at": "Jul 29, 2024 4:30 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.006163656711578369,
+          "id": 1947424985
+        },
+        {
+          "distance": 0.11795508861541748,
+          "id": 1947424985
+        },
+        {
+          "distance": 0.1622089147567749,
+          "id": 1729356755
+        },
+        {
+          "distance": 0.16979825496673584,
+          "id": 1763559281
+        },
+        {
+          "distance": 0.18271178007125854,
+          "id": 1880150991
+        },
+        {
+          "distance": 0.20312726497650146,
+          "id": 1763559569
+        },
+        {
+          "distance": 0.20814496278762817,
+          "id": 1763559281
+        },
+        {
+          "distance": 0.2134699821472168,
+          "id": 1763558895
+        },
+        {
+          "distance": 0.21565276384353638,
+          "id": 1729356755
+        },
+        {
+          "distance": 0.21567994356155396,
+          "id": 1880151789
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1947424929,
-    "wof:lastmodified": 1733175320,
+    "wof:lastmodified": 1787777664,
     "wof:name": "While Harold Bixby worked at the China National Aviation Corporation, the company placed a high priority on expanding the airline’s fleet to include larger, more modern aircraft...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

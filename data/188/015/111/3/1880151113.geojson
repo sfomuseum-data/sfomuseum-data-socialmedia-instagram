@@ -25,6 +25,50 @@
       "taken": 1676998800,
       "taken_at": "Feb 21, 2023 5:00 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3591097593307495,
+          "id": 1880151569
+        },
+        {
+          "distance": 0.36198890209198,
+          "id": 1729357809
+        },
+        {
+          "distance": 0.36398744583129883,
+          "id": 1729358669
+        },
+        {
+          "distance": 0.3694915175437927,
+          "id": 1880151569
+        },
+        {
+          "distance": 0.36966198682785034,
+          "id": 1729359401
+        },
+        {
+          "distance": 0.37051379680633545,
+          "id": 1729359401
+        },
+        {
+          "distance": 0.3749110698699951,
+          "id": 1729358669
+        },
+        {
+          "distance": 0.38113075494766235,
+          "id": 1763559655
+        },
+        {
+          "distance": 0.3832916021347046,
+          "id": 1729358915
+        },
+        {
+          "distance": 0.3838573694229126,
+          "id": 1729358539
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1880151113,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "In 1972, United Airlines celebrated twenty-five years of service to Hawai’i and rebranded its Hawaiian service as “Royal Hawaiian.” The service included premium drinks on floral-pattern napkins and gourmet meals...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

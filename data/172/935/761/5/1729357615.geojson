@@ -40,6 +40,50 @@
       "taken": 1538158380,
       "taken_at": "Sep 28, 2018 6:13 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.21330881118774414,
+          "id": 1880151455
+        },
+        {
+          "distance": 0.22484952211380005,
+          "id": 1729359511
+        },
+        {
+          "distance": 0.227483332157135,
+          "id": 1763559085
+        },
+        {
+          "distance": 0.22824662923812866,
+          "id": 1729359397
+        },
+        {
+          "distance": 0.22973936796188354,
+          "id": 1729358079
+        },
+        {
+          "distance": 0.2412739396095276,
+          "id": 1729359397
+        },
+        {
+          "distance": 0.24963796138763428,
+          "id": 1729355691
+        },
+        {
+          "distance": 0.2563737630844116,
+          "id": 1729358823
+        },
+        {
+          "distance": 0.2578977346420288,
+          "id": 1763559085
+        },
+        {
+          "distance": 0.26211535930633545,
+          "id": 1880150955
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729357615,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777632,
     "wof:name": "With the introduction of flight service to Japan and Asia during the postwar era, beverage service began to incorporate the traditional customs of the cultures from these lands...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -31,6 +31,50 @@
       "taken": 1558616280,
       "taken_at": "May 23, 2019 12:58 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2437400221824646,
+          "id": 1729359033
+        },
+        {
+          "distance": 0.2468772530555725,
+          "id": 1729361489
+        },
+        {
+          "distance": 0.2514490485191345,
+          "id": 1729362581
+        },
+        {
+          "distance": 0.25555747747421265,
+          "id": 1729355755
+        },
+        {
+          "distance": 0.2600187659263611,
+          "id": 1880151121
+        },
+        {
+          "distance": 0.2615950107574463,
+          "id": 1763558827
+        },
+        {
+          "distance": 0.2674477696418762,
+          "id": 1729356583
+        },
+        {
+          "distance": 0.269162654876709,
+          "id": 1880151231
+        },
+        {
+          "distance": 0.2693156599998474,
+          "id": 1729356335
+        },
+        {
+          "distance": 0.2719939351081848,
+          "id": 1729356695
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729356555,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "When jetliners were introduced in the 1950s, they brought air travel to a larger percentage of the public as their high speeds, extensive range, and large capacities enabled the airlines to substantially reduce their seat-mile costs...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

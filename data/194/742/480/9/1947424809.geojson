@@ -27,6 +27,50 @@
       "taken": 1732554720,
       "taken_at": "Nov 25, 2024 5:12 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.33133465051651,
+          "id": 1729361121
+        },
+        {
+          "distance": 0.3337143659591675,
+          "id": 1729359015
+        },
+        {
+          "distance": 0.3388521075248718,
+          "id": 1947424831
+        },
+        {
+          "distance": 0.34653419256210327,
+          "id": 1729360745
+        },
+        {
+          "distance": 0.3466074466705322,
+          "id": 1729360299
+        },
+        {
+          "distance": 0.34757447242736816,
+          "id": 1947424821
+        },
+        {
+          "distance": 0.35553014278411865,
+          "id": 1947424801
+        },
+        {
+          "distance": 0.3582932949066162,
+          "id": 1729360745
+        },
+        {
+          "distance": 0.36018162965774536,
+          "id": 1729360475
+        },
+        {
+          "distance": 0.36202073097229004,
+          "id": 1729359455
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947424809,
-    "wof:lastmodified": 1733175317,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Transportes Aéreos Portugueses (TAP), the flag carrier of Portugal, was founded on March 14, 1945...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -34,6 +34,50 @@
       "taken": 1561638660,
       "taken_at": "Jun 27, 2019 12:31 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.308269739151001,
+          "id": 1729358089
+        },
+        {
+          "distance": 0.3247784972190857,
+          "id": 1729355541
+        },
+        {
+          "distance": 0.32530444860458374,
+          "id": 1763559213
+        },
+        {
+          "distance": 0.33562082052230835,
+          "id": 1947425011
+        },
+        {
+          "distance": 0.3388046622276306,
+          "id": 1729358089
+        },
+        {
+          "distance": 0.34857863187789917,
+          "id": 1729355541
+        },
+        {
+          "distance": 0.3586650490760803,
+          "id": 1763559091
+        },
+        {
+          "distance": 0.3609328866004944,
+          "id": 1763559091
+        },
+        {
+          "distance": 0.3622778058052063,
+          "id": 1729358551
+        },
+        {
+          "distance": 0.364155650138855,
+          "id": 1729358551
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729356385,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Happy Pride to all those flying in for the weekend festivities...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

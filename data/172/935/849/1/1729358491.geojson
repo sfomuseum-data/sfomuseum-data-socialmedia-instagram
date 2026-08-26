@@ -42,6 +42,50 @@
       "taken": 1519925220,
       "taken_at": "Mar 01, 2018 5:27 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.31964111328125,
+          "id": 1729358759
+        },
+        {
+          "distance": 0.33503204584121704,
+          "id": 1729358723
+        },
+        {
+          "distance": 0.3416101336479187,
+          "id": 1729358207
+        },
+        {
+          "distance": 0.3416234254837036,
+          "id": 1729361369
+        },
+        {
+          "distance": 0.34475260972976685,
+          "id": 1729358645
+        },
+        {
+          "distance": 0.34536927938461304,
+          "id": 1729360643
+        },
+        {
+          "distance": 0.34719496965408325,
+          "id": 1729358335
+        },
+        {
+          "distance": 0.3472151756286621,
+          "id": 1729358953
+        },
+        {
+          "distance": 0.34743744134902954,
+          "id": 1729358475
+        },
+        {
+          "distance": 0.3476066589355469,
+          "id": 1729358769
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -71,7 +115,7 @@
       }
     ],
     "wof:id": 1729358491,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777633,
     "wof:name": "From coast to coast, regions of North America developed distinctive types of hand-carved duck decoys...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -88,5 +132,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

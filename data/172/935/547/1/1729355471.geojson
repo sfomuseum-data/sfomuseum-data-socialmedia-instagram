@@ -30,6 +30,50 @@
       "taken": 1583527140,
       "taken_at": "Mar 06, 2020 8:39 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.138117253780365,
+          "id": 1729357331
+        },
+        {
+          "distance": 0.1446790099143982,
+          "id": 1729357679
+        },
+        {
+          "distance": 0.14703750610351562,
+          "id": 1880151641
+        },
+        {
+          "distance": 0.1550719141960144,
+          "id": 1880151673
+        },
+        {
+          "distance": 0.1588495969772339,
+          "id": 1880151661
+        },
+        {
+          "distance": 0.16625916957855225,
+          "id": 1729357331
+        },
+        {
+          "distance": 0.16631048917770386,
+          "id": 1729361581
+        },
+        {
+          "distance": 0.1665772795677185,
+          "id": 1729359671
+        },
+        {
+          "distance": 0.17134034633636475,
+          "id": 1880151673
+        },
+        {
+          "distance": 0.17542427778244019,
+          "id": 1880151611
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729355471,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777625,
     "wof:name": "International Women’s Day is on Sunday!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

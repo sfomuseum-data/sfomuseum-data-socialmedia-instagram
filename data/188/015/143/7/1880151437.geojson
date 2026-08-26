@@ -30,6 +30,50 @@
       "taken": 1664184600,
       "taken_at": "Sep 26, 2022 9:30 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11974680423736572,
+          "id": 1763559343
+        },
+        {
+          "distance": 0.16697001457214355,
+          "id": 1763559343
+        },
+        {
+          "distance": 0.18583977222442627,
+          "id": 1763559403
+        },
+        {
+          "distance": 0.2069408893585205,
+          "id": 1763559403
+        },
+        {
+          "distance": 0.21239376068115234,
+          "id": 1729355709
+        },
+        {
+          "distance": 0.21267712116241455,
+          "id": 1763558963
+        },
+        {
+          "distance": 0.21416383981704712,
+          "id": 1729357301
+        },
+        {
+          "distance": 0.22967898845672607,
+          "id": 1763559389
+        },
+        {
+          "distance": 0.23027795553207397,
+          "id": 1763559313
+        },
+        {
+          "distance": 0.23639583587646484,
+          "id": 1763558963
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151437,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "#Onthisday in 1981, the Boeing 767 departed on its first flight...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -39,6 +39,50 @@
       "taken": 1519031400,
       "taken_at": "Feb 19, 2018 9:10 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14071136713027954,
+          "id": 1729357179
+        },
+        {
+          "distance": 0.14071136713027954,
+          "id": 1763558807
+        },
+        {
+          "distance": 0.14674055576324463,
+          "id": 1729355033
+        },
+        {
+          "distance": 0.16205435991287231,
+          "id": 1729355245
+        },
+        {
+          "distance": 0.16636890172958374,
+          "id": 1729360779
+        },
+        {
+          "distance": 0.17246252298355103,
+          "id": 1729356623
+        },
+        {
+          "distance": 0.1743767261505127,
+          "id": 1763558629
+        },
+        {
+          "distance": 0.17497414350509644,
+          "id": 1729355033
+        },
+        {
+          "distance": 0.1755518913269043,
+          "id": 1729355429
+        },
+        {
+          "distance": 0.1795927882194519,
+          "id": 1763558807
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729358537,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777633,
     "wof:name": "The Aviation Museum and Library is closed today to observe President's Day...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

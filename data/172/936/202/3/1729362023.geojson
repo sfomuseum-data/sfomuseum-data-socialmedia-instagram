@@ -29,6 +29,50 @@
       "taken": 1417610580,
       "taken_at": "Dec 03, 2014 12:43 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23297297954559326,
+          "id": 1729357369
+        },
+        {
+          "distance": 0.24471807479858398,
+          "id": 1729357369
+        },
+        {
+          "distance": 0.2552172541618347,
+          "id": 1729355533
+        },
+        {
+          "distance": 0.2676624655723572,
+          "id": 1729355533
+        },
+        {
+          "distance": 0.27096498012542725,
+          "id": 1729362067
+        },
+        {
+          "distance": 0.2744949460029602,
+          "id": 1729359655
+        },
+        {
+          "distance": 0.27952396869659424,
+          "id": 1729360871
+        },
+        {
+          "distance": 0.28062915802001953,
+          "id": 1729362239
+        },
+        {
+          "distance": 0.2828716039657593,
+          "id": 1729356239
+        },
+        {
+          "distance": 0.28346413373947144,
+          "id": 1729356647
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729362023,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777646,
     "wof:name": "Artist John Lewis describes the process he uses in creating..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

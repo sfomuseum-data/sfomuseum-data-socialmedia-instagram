@@ -36,6 +36,50 @@
       "taken": 1581066120,
       "taken_at": "Feb 7, 2020, 9:02 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.22122102975845337,
+          "id": 1729355577
+        },
+        {
+          "distance": 0.22442221641540527,
+          "id": 1729355577
+        },
+        {
+          "distance": 0.24337291717529297,
+          "id": 1729355413
+        },
+        {
+          "distance": 0.2460654377937317,
+          "id": 1729358273
+        },
+        {
+          "distance": 0.24886423349380493,
+          "id": 1729355585
+        },
+        {
+          "distance": 0.2524033784866333,
+          "id": 1729355299
+        },
+        {
+          "distance": 0.2564653158187866,
+          "id": 1729355411
+        },
+        {
+          "distance": 0.26025688648223877,
+          "id": 1729355405
+        },
+        {
+          "distance": 0.2646177411079407,
+          "id": 1729355579
+        },
+        {
+          "distance": 0.26610779762268066,
+          "id": 1729355585
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729355575,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777626,
     "wof:name": "“In the Inuit language, we use the word Sila for ice...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

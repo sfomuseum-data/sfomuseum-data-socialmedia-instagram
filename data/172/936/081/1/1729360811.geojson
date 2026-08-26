@@ -25,6 +25,50 @@
       "taken": 1461056520,
       "taken_at": "Apr 19, 2016 9:02 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15921199321746826,
+          "id": 1729362077
+        },
+        {
+          "distance": 0.16631978750228882,
+          "id": 1729360513
+        },
+        {
+          "distance": 0.16829562187194824,
+          "id": 1729360277
+        },
+        {
+          "distance": 0.17149507999420166,
+          "id": 1880151189
+        },
+        {
+          "distance": 0.17212003469467163,
+          "id": 1729357841
+        },
+        {
+          "distance": 0.17335909605026245,
+          "id": 1729359257
+        },
+        {
+          "distance": 0.17441976070404053,
+          "id": 1729358017
+        },
+        {
+          "distance": 0.1770612597465515,
+          "id": 1729361159
+        },
+        {
+          "distance": 0.17867636680603027,
+          "id": 1880151387
+        },
+        {
+          "distance": 0.17971110343933105,
+          "id": 1729361111
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360811,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Before the advent of the Douglas DC-3 in the late 1930s, airlines struggled to cover operating costs from passenger services alone, and relied heavily on airmail and freight to make up the difference...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -31,6 +31,50 @@
       "taken": 1679650800,
       "taken_at": "Mar 24, 2023 9:40 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.000022172927856445312,
+          "id": 1947425245
+        },
+        {
+          "distance": 0.005013704299926758,
+          "id": 1947425119
+        },
+        {
+          "distance": 0.12629926204681396,
+          "id": 1947425119
+        },
+        {
+          "distance": 0.1302158236503601,
+          "id": 1947425245
+        },
+        {
+          "distance": 0.18428689241409302,
+          "id": 1880150897
+        },
+        {
+          "distance": 0.2141951322555542,
+          "id": 1729360547
+        },
+        {
+          "distance": 0.21445375680923462,
+          "id": 1947425287
+        },
+        {
+          "distance": 0.21899598836898804,
+          "id": 1880150897
+        },
+        {
+          "distance": 0.21941077709197998,
+          "id": 1880151257
+        },
+        {
+          "distance": 0.22371280193328857,
+          "id": 1880150979
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151033,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777661,
     "wof:name": "While in a bookstore, choreographer Cathy Marston came across Charles Webb’s 1963 novel “The Graduate.” Glancing at the book jacket, she realized that the book was written in San Francisco...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

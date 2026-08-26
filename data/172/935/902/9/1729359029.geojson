@@ -47,6 +47,50 @@
       "taken": 1507024020,
       "taken_at": "Oct 03, 2017 9:47 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.47115427255630493,
+          "id": 1880151717
+        },
+        {
+          "distance": 0.48456841707229614,
+          "id": 1729355621
+        },
+        {
+          "distance": 0.4900391697883606,
+          "id": 1729356329
+        },
+        {
+          "distance": 0.49134939908981323,
+          "id": 1880151715
+        },
+        {
+          "distance": 0.496845006942749,
+          "id": 1880151577
+        },
+        {
+          "distance": 0.4980427026748657,
+          "id": 1729357061
+        },
+        {
+          "distance": 0.4981907606124878,
+          "id": 1880150921
+        },
+        {
+          "distance": 0.5074162483215332,
+          "id": 1880151353
+        },
+        {
+          "distance": 0.5130152702331543,
+          "id": 1729357061
+        },
+        {
+          "distance": 0.5163208842277527,
+          "id": 1729355621
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -76,7 +120,7 @@
       }
     ],
     "wof:id": 1729359029,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777634,
     "wof:name": "On October 1, 1988, the newly reformed and privatized airline Aeromexico commenced operations...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -93,5 +137,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

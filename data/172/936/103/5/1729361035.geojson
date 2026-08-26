@@ -25,6 +25,50 @@
       "taken": 1455970500,
       "taken_at": "Feb 20, 2016 12:15 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.22453033924102783,
+          "id": 1729356547
+        },
+        {
+          "distance": 0.22527891397476196,
+          "id": 1729357097
+        },
+        {
+          "distance": 0.23481965065002441,
+          "id": 1729356811
+        },
+        {
+          "distance": 0.23498797416687012,
+          "id": 1729361875
+        },
+        {
+          "distance": 0.24461203813552856,
+          "id": 1729360563
+        },
+        {
+          "distance": 0.24503743648529053,
+          "id": 1729356547
+        },
+        {
+          "distance": 0.24977350234985352,
+          "id": 1729356553
+        },
+        {
+          "distance": 0.25203537940979004,
+          "id": 1729357231
+        },
+        {
+          "distance": 0.25237077474594116,
+          "id": 1729356811
+        },
+        {
+          "distance": 0.2537693381309509,
+          "id": 1729356191
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361035,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777643,
     "wof:name": "The photographs in visual artist Vanessa Marsh’s series “Everywhere All At Once” are mysterious and dream-like, made through a personally developed process involving drawing, painting, and darkroom techniques...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -31,6 +31,50 @@
       "taken": 1584702000,
       "taken_at": "Mar 20, 2020 11:00 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13453447818756104,
+          "id": 1729360749
+        },
+        {
+          "distance": 0.1433008313179016,
+          "id": 1729360353
+        },
+        {
+          "distance": 0.16145247220993042,
+          "id": 1729357689
+        },
+        {
+          "distance": 0.16184598207473755,
+          "id": 1763559479
+        },
+        {
+          "distance": 0.16366088390350342,
+          "id": 1729360749
+        },
+        {
+          "distance": 0.16587191820144653,
+          "id": 1729356121
+        },
+        {
+          "distance": 0.17029649019241333,
+          "id": 1729355847
+        },
+        {
+          "distance": 0.17041105031967163,
+          "id": 1729359795
+        },
+        {
+          "distance": 0.1765870451927185,
+          "id": 1763558957
+        },
+        {
+          "distance": 0.17725741863250732,
+          "id": 1763559479
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729355417,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777624,
     "wof:name": "The first flight of the Boeing 747-8I occurred #onthisday in 2011...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

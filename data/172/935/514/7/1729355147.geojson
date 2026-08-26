@@ -31,6 +31,50 @@
       "taken": 1597152120,
       "taken_at": "Aug 11, 2020 1:22 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.08207809925079346,
+          "id": 1947425063
+        },
+        {
+          "distance": 0.11053705215454102,
+          "id": 1947425063
+        },
+        {
+          "distance": 0.1915663480758667,
+          "id": 1729355383
+        },
+        {
+          "distance": 0.1954631209373474,
+          "id": 1729355119
+        },
+        {
+          "distance": 0.19798815250396729,
+          "id": 1729355155
+        },
+        {
+          "distance": 0.2010362148284912,
+          "id": 1880150939
+        },
+        {
+          "distance": 0.21077454090118408,
+          "id": 1947425285
+        },
+        {
+          "distance": 0.21099144220352173,
+          "id": 1880151299
+        },
+        {
+          "distance": 0.21194761991500854,
+          "id": 1729355177
+        },
+        {
+          "distance": 0.2164331078529358,
+          "id": 1729355025
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729355147,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777618,
     "wof:name": "When Natalya Burd was in her last year in high school, she took a train ride with her father from their home in Bishkek, Kyrgyzstan, to Moscow, Russia...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

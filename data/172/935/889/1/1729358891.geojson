@@ -48,6 +48,50 @@
       "taken": 1510959720,
       "taken_at": "Nov 17, 2017 11:02 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09622383117675781,
+          "id": 1729357601
+        },
+        {
+          "distance": 0.1608787178993225,
+          "id": 1729357729
+        },
+        {
+          "distance": 0.168948233127594,
+          "id": 1729357601
+        },
+        {
+          "distance": 0.17730975151062012,
+          "id": 1947425155
+        },
+        {
+          "distance": 0.17857372760772705,
+          "id": 1729357729
+        },
+        {
+          "distance": 0.18574637174606323,
+          "id": 1729357273
+        },
+        {
+          "distance": 0.19003021717071533,
+          "id": 1947425155
+        },
+        {
+          "distance": 0.19109636545181274,
+          "id": 1763558881
+        },
+        {
+          "distance": 0.20002269744873047,
+          "id": 1729357291
+        },
+        {
+          "distance": 0.2007109522819519,
+          "id": 1729357039
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -77,7 +121,7 @@
       }
     ],
     "wof:id": 1729358891,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777634,
     "wof:name": "The Curtiss Condor T-32 was the first land-based, luxury-sleeper-berth-equipped airliner to go into service, beginning in 1933 with American Airways (later American Airlines) and Eastern Air Transport (later Eastern Air Lines)...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -94,5 +138,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

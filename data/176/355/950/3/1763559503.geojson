@@ -32,6 +32,50 @@
       "taken": 1649170560,
       "taken_at": "Apr 05, 2022 2:56 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.26696038246154785,
+          "id": 1729357809
+        },
+        {
+          "distance": 0.28514784574508667,
+          "id": 1729355731
+        },
+        {
+          "distance": 0.2947240471839905,
+          "id": 1729355737
+        },
+        {
+          "distance": 0.2989633083343506,
+          "id": 1729359415
+        },
+        {
+          "distance": 0.3008068799972534,
+          "id": 1729361059
+        },
+        {
+          "distance": 0.3047061562538147,
+          "id": 1729357809
+        },
+        {
+          "distance": 0.3059135675430298,
+          "id": 1729362319
+        },
+        {
+          "distance": 0.3129226565361023,
+          "id": 1729355731
+        },
+        {
+          "distance": 0.3174697756767273,
+          "id": 1729360759
+        },
+        {
+          "distance": 0.32143527269363403,
+          "id": 1729355737
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1763559503,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "In the mid-1950s, foreseeing a great potential market, luggage manufacturers secured rights to produce airline-branded bags in large numbers...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

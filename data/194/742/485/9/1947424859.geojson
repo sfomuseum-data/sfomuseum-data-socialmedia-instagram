@@ -25,6 +25,50 @@
       "taken": 1726673820,
       "taken_at": "Sep 18, 2024 3:37 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2947564125061035,
+          "id": 1763558989
+        },
+        {
+          "distance": 0.2989947199821472,
+          "id": 1729360099
+        },
+        {
+          "distance": 0.2994152307510376,
+          "id": 1729360475
+        },
+        {
+          "distance": 0.3043302893638611,
+          "id": 1729361989
+        },
+        {
+          "distance": 0.3179451823234558,
+          "id": 1729359015
+        },
+        {
+          "distance": 0.31971901655197144,
+          "id": 1763558989
+        },
+        {
+          "distance": 0.32211703062057495,
+          "id": 1729359767
+        },
+        {
+          "distance": 0.32259678840637207,
+          "id": 1729355197
+        },
+        {
+          "distance": 0.3235315680503845,
+          "id": 1729360867
+        },
+        {
+          "distance": 0.324871301651001,
+          "id": 1947424821
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -53,7 +97,7 @@
       }
     ],
     "wof:id": 1947424859,
-    "wof:lastmodified": 1733175319,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Harry Rogers, a poster artist and graphic designer for Qantas from the late 1950s through the ‘80s, created numerous travel posters for the airline from the 1950s to the ’70s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -67,5 +111,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

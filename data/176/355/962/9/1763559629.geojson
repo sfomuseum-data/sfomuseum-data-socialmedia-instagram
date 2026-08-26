@@ -32,6 +32,50 @@
       "taken": 1643650980,
       "taken_at": "Jan 31, 2022 5:43 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.187297523021698,
+          "id": 1729361165
+        },
+        {
+          "distance": 0.20450276136398315,
+          "id": 1729356083
+        },
+        {
+          "distance": 0.20564669370651245,
+          "id": 1729356685
+        },
+        {
+          "distance": 0.206556499004364,
+          "id": 1763558723
+        },
+        {
+          "distance": 0.206556499004364,
+          "id": 1729358627
+        },
+        {
+          "distance": 0.21044278144836426,
+          "id": 1729361165
+        },
+        {
+          "distance": 0.23592138290405273,
+          "id": 1729356083
+        },
+        {
+          "distance": 0.237129807472229,
+          "id": 1729358627
+        },
+        {
+          "distance": 0.237129807472229,
+          "id": 1763558723
+        },
+        {
+          "distance": 0.24205565452575684,
+          "id": 1729361045
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1763559629,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "#Onthisday in 1949, Pan American World Airways received their first delivery of a Boeing 377 Stratocruiser...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -54,6 +54,50 @@
       "taken": 1508342100,
       "taken_at": "Oct 18, 2017, 3:55 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.000023484230041503906,
+          "id": 1763558711
+        },
+        {
+          "distance": 0.08322066068649292,
+          "id": 1763558711
+        },
+        {
+          "distance": 0.09932875633239746,
+          "id": 1729357123
+        },
+        {
+          "distance": 0.14668291807174683,
+          "id": 1763559613
+        },
+        {
+          "distance": 0.14943420886993408,
+          "id": 1729357123
+        },
+        {
+          "distance": 0.16061663627624512,
+          "id": 1729357619
+        },
+        {
+          "distance": 0.1622624397277832,
+          "id": 1763559587
+        },
+        {
+          "distance": 0.17275577783584595,
+          "id": 1763559587
+        },
+        {
+          "distance": 0.17446738481521606,
+          "id": 1729357673
+        },
+        {
+          "distance": 0.17540514469146729,
+          "id": 1729358687
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -83,7 +127,7 @@
       }
     ],
     "wof:id": 1729359003,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777634,
     "wof:name": "In the early 1960s, United Air Lines brought new jet airliners into service providing unprecedented speed, comfort, and efficiency...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -100,5 +144,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

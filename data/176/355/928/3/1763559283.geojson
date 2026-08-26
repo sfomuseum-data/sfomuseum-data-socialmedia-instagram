@@ -30,6 +30,50 @@
       "taken": 1638526980,
       "taken_at": "Dec 03, 2021 10:23 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12032806873321533,
+          "id": 1880151323
+        },
+        {
+          "distance": 0.13920873403549194,
+          "id": 1763559523
+        },
+        {
+          "distance": 0.13990521430969238,
+          "id": 1763559321
+        },
+        {
+          "distance": 0.1416260004043579,
+          "id": 1880151323
+        },
+        {
+          "distance": 0.1592622995376587,
+          "id": 1880151385
+        },
+        {
+          "distance": 0.16454672813415527,
+          "id": 1763559321
+        },
+        {
+          "distance": 0.17357587814331055,
+          "id": 1763559523
+        },
+        {
+          "distance": 0.18164724111557007,
+          "id": 1880151385
+        },
+        {
+          "distance": 0.18258637189865112,
+          "id": 1763559649
+        },
+        {
+          "distance": 0.18796312808990479,
+          "id": 1880151707
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559283,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "In 2005 when Bradbury \u0026 Bradbury Art Wallpaper (@bradburywallpaper) founder Bruce Bradbury retired, Stephen Bauer and his wife Lisa took over the company...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -30,6 +30,50 @@
       "taken": 1610555280,
       "taken_at": "Jan 13, 2021 4:28 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15470492839813232,
+          "id": 1729361175
+        },
+        {
+          "distance": 0.2169867753982544,
+          "id": 1880151151
+        },
+        {
+          "distance": 0.2184441089630127,
+          "id": 1729361175
+        },
+        {
+          "distance": 0.23383742570877075,
+          "id": 1729356091
+        },
+        {
+          "distance": 0.23517614603042603,
+          "id": 1880151387
+        },
+        {
+          "distance": 0.24007344245910645,
+          "id": 1729360319
+        },
+        {
+          "distance": 0.24066674709320068,
+          "id": 1880151189
+        },
+        {
+          "distance": 0.24479198455810547,
+          "id": 1880151445
+        },
+        {
+          "distance": 0.24483191967010498,
+          "id": 1729361179
+        },
+        {
+          "distance": 0.24541699886322021,
+          "id": 1729355953
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763558905,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777659,
     "wof:name": "Introduced in 1925, and initially conceived by Fokker designer Walter Rethel as a single engine transport, the Fokker F.VII was later redesigned as a trimotor transport by Reinhold Platz for entry in the 1925 Ford Reliability Tour...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

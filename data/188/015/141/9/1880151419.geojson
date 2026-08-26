@@ -30,6 +30,50 @@
       "taken": 1664977440,
       "taken_at": "Oct 05, 2022 1:44 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.35309839248657227,
+          "id": 1763559385
+        },
+        {
+          "distance": 0.3751211166381836,
+          "id": 1763559385
+        },
+        {
+          "distance": 0.3980172276496887,
+          "id": 1763558727
+        },
+        {
+          "distance": 0.3980172276496887,
+          "id": 1729358761
+        },
+        {
+          "distance": 0.41801613569259644,
+          "id": 1729358761
+        },
+        {
+          "distance": 0.41801613569259644,
+          "id": 1763558727
+        },
+        {
+          "distance": 0.4282335638999939,
+          "id": 1763559321
+        },
+        {
+          "distance": 0.4295191168785095,
+          "id": 1729362335
+        },
+        {
+          "distance": 0.4363817572593689,
+          "id": 1729359179
+        },
+        {
+          "distance": 0.44666367769241333,
+          "id": 1729358859
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151419,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Bruce Bradbury arrived in San Francisco from Maine in the 1960s and discovered neighborhoods with seemingly endless rows of elaborately ornamented Victorian houses...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

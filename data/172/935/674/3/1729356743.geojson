@@ -33,6 +33,50 @@
       "taken": 1553982960,
       "taken_at": "Mar 30, 2019 9:56 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2575148940086365,
+          "id": 1729357457
+        },
+        {
+          "distance": 0.25854265689849854,
+          "id": 1729360775
+        },
+        {
+          "distance": 0.26135027408599854,
+          "id": 1729357451
+        },
+        {
+          "distance": 0.2668015956878662,
+          "id": 1729357005
+        },
+        {
+          "distance": 0.27307432889938354,
+          "id": 1729357453
+        },
+        {
+          "distance": 0.2741018533706665,
+          "id": 1729357451
+        },
+        {
+          "distance": 0.2803826928138733,
+          "id": 1729358301
+        },
+        {
+          "distance": 0.28443193435668945,
+          "id": 1729356889
+        },
+        {
+          "distance": 0.28535157442092896,
+          "id": 1729357583
+        },
+        {
+          "distance": 0.2873362898826599,
+          "id": 1729357457
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729356743,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Cats are the most independent domesticated animals...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

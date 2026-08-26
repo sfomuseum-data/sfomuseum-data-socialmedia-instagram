@@ -37,6 +37,50 @@
       "taken": 1500133260,
       "taken_at": "Jul 15, 2017, 3:41 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.00002491474151611328,
+          "id": 1763558665
+        },
+        {
+          "distance": 0.08678311109542847,
+          "id": 1763558665
+        },
+        {
+          "distance": 0.24020636081695557,
+          "id": 1729356207
+        },
+        {
+          "distance": 0.27089452743530273,
+          "id": 1729355685
+        },
+        {
+          "distance": 0.2784998416900635,
+          "id": 1729356207
+        },
+        {
+          "distance": 0.2920933961868286,
+          "id": 1729355685
+        },
+        {
+          "distance": 0.3531738519668579,
+          "id": 1729358873
+        },
+        {
+          "distance": 0.3615726828575134,
+          "id": 1880151499
+        },
+        {
+          "distance": 0.3657740354537964,
+          "id": 1729359615
+        },
+        {
+          "distance": 0.3681088089942932,
+          "id": 1729359983
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729359311,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Leading proponent of the Arts and Crafts movement in the United States, Gustav Stickley (1858–1942) batch-produced unadorned, carefully constructed, oak furniture in Syracuse, New York...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

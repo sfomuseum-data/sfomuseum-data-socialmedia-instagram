@@ -25,6 +25,50 @@
       "taken": 1369315020,
       "taken_at": "May 23, 2013 1:17 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23299360275268555,
+          "id": 1729362621
+        },
+        {
+          "distance": 0.2545744776725769,
+          "id": 1729362079
+        },
+        {
+          "distance": 0.25673866271972656,
+          "id": 1729362547
+        },
+        {
+          "distance": 0.26089543104171753,
+          "id": 1729362547
+        },
+        {
+          "distance": 0.27181100845336914,
+          "id": 1729362621
+        },
+        {
+          "distance": 0.2804746627807617,
+          "id": 1729362079
+        },
+        {
+          "distance": 0.2820892333984375,
+          "id": 1729358077
+        },
+        {
+          "distance": 0.28463417291641235,
+          "id": 1729362579
+        },
+        {
+          "distance": 0.2931722402572632,
+          "id": 1729362451
+        },
+        {
+          "distance": 0.30768829584121704,
+          "id": 1729362631
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362689,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "From Ship to Shore- Installation underway in Terminal 2!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

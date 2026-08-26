@@ -37,6 +37,50 @@
       "taken": 1524586440,
       "taken_at": "Apr 24, 2018 4:14 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3311748504638672,
+          "id": 1729357469
+        },
+        {
+          "distance": 0.3516375422477722,
+          "id": 1729355515
+        },
+        {
+          "distance": 0.3571573495864868,
+          "id": 1763559317
+        },
+        {
+          "distance": 0.3658427596092224,
+          "id": 1763559437
+        },
+        {
+          "distance": 0.3701227307319641,
+          "id": 1729357795
+        },
+        {
+          "distance": 0.3712960481643677,
+          "id": 1763559317
+        },
+        {
+          "distance": 0.37681305408477783,
+          "id": 1763558789
+        },
+        {
+          "distance": 0.37681305408477783,
+          "id": 1729357531
+        },
+        {
+          "distance": 0.3789561986923218,
+          "id": 1729356985
+        },
+        {
+          "distance": 0.38488513231277466,
+          "id": 1763559437
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729358341,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Filmmaker Yali Sharon documents professional motocross rider Brad O'Neal's quest to make a childhood dream become a reality, confirming that life is about taking risks, creating unique moments, and inspiring others to do the same...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

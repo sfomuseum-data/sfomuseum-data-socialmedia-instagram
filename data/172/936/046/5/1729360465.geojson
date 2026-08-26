@@ -25,6 +25,50 @@
       "taken": 1470338220,
       "taken_at": "Aug 04, 2016 7:17 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16574031114578247,
+          "id": 1729358405
+        },
+        {
+          "distance": 0.18821096420288086,
+          "id": 1729360607
+        },
+        {
+          "distance": 0.19958287477493286,
+          "id": 1763559131
+        },
+        {
+          "distance": 0.2037099003791809,
+          "id": 1729358405
+        },
+        {
+          "distance": 0.20680880546569824,
+          "id": 1729355091
+        },
+        {
+          "distance": 0.21411395072937012,
+          "id": 1729359159
+        },
+        {
+          "distance": 0.22760474681854248,
+          "id": 1729357969
+        },
+        {
+          "distance": 0.23061800003051758,
+          "id": 1763559131
+        },
+        {
+          "distance": 0.23966115713119507,
+          "id": 1729360279
+        },
+        {
+          "distance": 0.2413567304611206,
+          "id": 1729355419
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360465,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Western Airlines, Continental Airlines, TWA, Braniff, SFO Helicopter, and Golden West Airlines were all located in the old Pier F in San Francisco International Airport in 1974...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

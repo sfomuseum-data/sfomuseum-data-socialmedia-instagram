@@ -31,6 +31,50 @@
       "taken": 1572875160,
       "taken_at": "Nov 4, 2019, 1:46 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09035414457321167,
+          "id": 1729361635
+        },
+        {
+          "distance": 0.10911333560943604,
+          "id": 1729361635
+        },
+        {
+          "distance": 0.16944879293441772,
+          "id": 1729360063
+        },
+        {
+          "distance": 0.17588108777999878,
+          "id": 1729360589
+        },
+        {
+          "distance": 0.19089221954345703,
+          "id": 1729360063
+        },
+        {
+          "distance": 0.20179152488708496,
+          "id": 1729358891
+        },
+        {
+          "distance": 0.21302658319473267,
+          "id": 1729358891
+        },
+        {
+          "distance": 0.2212618589401245,
+          "id": 1729358155
+        },
+        {
+          "distance": 0.22254979610443115,
+          "id": 1729357601
+        },
+        {
+          "distance": 0.2315489649772644,
+          "id": 1729355627
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729355915,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777627,
     "wof:name": "#Onthisday in 1932, the Model 17 Beech Staggerwing took off on its maiden flight...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

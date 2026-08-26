@@ -41,6 +41,50 @@
       "taken": 1525564020,
       "taken_at": "May 05, 2018 11:47 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23915362358093262,
+          "id": 1729359455
+        },
+        {
+          "distance": 0.2402929663658142,
+          "id": 1729361531
+        },
+        {
+          "distance": 0.24599319696426392,
+          "id": 1763559327
+        },
+        {
+          "distance": 0.250027060508728,
+          "id": 1763559487
+        },
+        {
+          "distance": 0.2731904983520508,
+          "id": 1947425117
+        },
+        {
+          "distance": 0.27411848306655884,
+          "id": 1729355323
+        },
+        {
+          "distance": 0.2746460437774658,
+          "id": 1947424925
+        },
+        {
+          "distance": 0.27501124143600464,
+          "id": 1729360649
+        },
+        {
+          "distance": 0.2754172086715698,
+          "id": 1729360631
+        },
+        {
+          "distance": 0.2798476815223694,
+          "id": 1729360617
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -70,7 +114,7 @@
       }
     ],
     "wof:id": 1729358285,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "In 1973, China Airlines distributed this colorful map of San Francisco featuring an illustration of an iconic building in San Francisco's Chinatown on the corner of Grant and California...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -87,5 +131,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

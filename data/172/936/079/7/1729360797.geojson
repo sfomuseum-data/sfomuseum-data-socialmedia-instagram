@@ -25,6 +25,50 @@
       "taken": 1461142500,
       "taken_at": "Apr 20, 2016 8:55 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1740160584449768,
+          "id": 1729356623
+        },
+        {
+          "distance": 0.1775510311126709,
+          "id": 1729355245
+        },
+        {
+          "distance": 0.18589389324188232,
+          "id": 1729356043
+        },
+        {
+          "distance": 0.1976916790008545,
+          "id": 1763558807
+        },
+        {
+          "distance": 0.1976916790008545,
+          "id": 1729357179
+        },
+        {
+          "distance": 0.20203840732574463,
+          "id": 1729355245
+        },
+        {
+          "distance": 0.2084437608718872,
+          "id": 1763559293
+        },
+        {
+          "distance": 0.21219205856323242,
+          "id": 1729357367
+        },
+        {
+          "distance": 0.21268850564956665,
+          "id": 1763559547
+        },
+        {
+          "distance": 0.21391373872756958,
+          "id": 1763559167
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360797,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Douglas DC-3s are legendary in the aviation industry for their durability...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

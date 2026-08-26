@@ -28,6 +28,50 @@
       "taken": 1482590640,
       "taken_at": "Dec 24, 2016 2:44 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.30570703744888306,
+          "id": 1729360177
+        },
+        {
+          "distance": 0.33652448654174805,
+          "id": 1729361231
+        },
+        {
+          "distance": 0.3592609167098999,
+          "id": 1729356557
+        },
+        {
+          "distance": 0.36440449953079224,
+          "id": 1729359919
+        },
+        {
+          "distance": 0.3652804493904114,
+          "id": 1729356577
+        },
+        {
+          "distance": 0.37539857625961304,
+          "id": 1729356819
+        },
+        {
+          "distance": 0.3781527280807495,
+          "id": 1729356577
+        },
+        {
+          "distance": 0.3781862258911133,
+          "id": 1729361023
+        },
+        {
+          "distance": 0.3782896399497986,
+          "id": 1729356819
+        },
+        {
+          "distance": 0.38081806898117065,
+          "id": 1729356557
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1729359979,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777638,
     "wof:name": "Our exhibition featuring art from students from Jose Ortega Elementary School in San Francisco is closing soon...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

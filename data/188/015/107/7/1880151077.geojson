@@ -30,6 +30,50 @@
       "taken": 1678208640,
       "taken_at": "Mar 07, 2023 5:04 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24499130249023438,
+          "id": 1729358497
+        },
+        {
+          "distance": 0.2701501250267029,
+          "id": 1947425219
+        },
+        {
+          "distance": 0.2738603949546814,
+          "id": 1947425307
+        },
+        {
+          "distance": 0.2822003960609436,
+          "id": 1947425261
+        },
+        {
+          "distance": 0.2829540967941284,
+          "id": 1880150937
+        },
+        {
+          "distance": 0.2836160659790039,
+          "id": 1880151099
+        },
+        {
+          "distance": 0.2867162227630615,
+          "id": 1729358497
+        },
+        {
+          "distance": 0.2905145287513733,
+          "id": 1880150937
+        },
+        {
+          "distance": 0.2971411347389221,
+          "id": 1947425307
+        },
+        {
+          "distance": 0.2982327342033386,
+          "id": 1947425261
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151077,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Lambaréné in Gabon where German physician Albert Schweitzer (1875–1965) founded a hospital in 1913...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

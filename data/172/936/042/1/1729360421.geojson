@@ -25,6 +25,50 @@
       "taken": 1471278600,
       "taken_at": "Aug 15, 2016 4:30 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2703832983970642,
+          "id": 1729360331
+        },
+        {
+          "distance": 0.2936340570449829,
+          "id": 1729362259
+        },
+        {
+          "distance": 0.3059273362159729,
+          "id": 1729361665
+        },
+        {
+          "distance": 0.31017327308654785,
+          "id": 1729360397
+        },
+        {
+          "distance": 0.31253916025161743,
+          "id": 1729356937
+        },
+        {
+          "distance": 0.3150455355644226,
+          "id": 1880151505
+        },
+        {
+          "distance": 0.3174392580986023,
+          "id": 1729360331
+        },
+        {
+          "distance": 0.31954407691955566,
+          "id": 1729362581
+        },
+        {
+          "distance": 0.3246203660964966,
+          "id": 1729360029
+        },
+        {
+          "distance": 0.3285003900527954,
+          "id": 1729361533
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360421,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "On international flights, Pan American World Airways provided foreign language dictionaries to their passengers...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

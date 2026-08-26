@@ -28,6 +28,50 @@
       "taken": 1629732360,
       "taken_at": "Aug 23, 2021 3:26 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13768714666366577,
+          "id": 1763559119
+        },
+        {
+          "distance": 0.20559823513031006,
+          "id": 1763559119
+        },
+        {
+          "distance": 0.20749002695083618,
+          "id": 1729357077
+        },
+        {
+          "distance": 0.22080320119857788,
+          "id": 1947425087
+        },
+        {
+          "distance": 0.22805696725845337,
+          "id": 1729360547
+        },
+        {
+          "distance": 0.23844897747039795,
+          "id": 1947425087
+        },
+        {
+          "distance": 0.24271124601364136,
+          "id": 1763558907
+        },
+        {
+          "distance": 0.24510836601257324,
+          "id": 1763559049
+        },
+        {
+          "distance": 0.2497541904449463,
+          "id": 1729360667
+        },
+        {
+          "distance": 0.2504234313964844,
+          "id": 1729355059
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1763559457,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "This is your last week to see “Hair Style”...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

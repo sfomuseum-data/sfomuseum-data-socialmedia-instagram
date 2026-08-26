@@ -40,6 +40,50 @@
       "taken": 1521547860,
       "taken_at": "Mar 20, 2018 12:11 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11829882860183716,
+          "id": 1729358651
+        },
+        {
+          "distance": 0.1504194140434265,
+          "id": 1729358651
+        },
+        {
+          "distance": 0.15830904245376587,
+          "id": 1729357769
+        },
+        {
+          "distance": 0.16185921430587769,
+          "id": 1729356791
+        },
+        {
+          "distance": 0.1639276146888733,
+          "id": 1763558979
+        },
+        {
+          "distance": 0.16835033893585205,
+          "id": 1729359691
+        },
+        {
+          "distance": 0.16936534643173218,
+          "id": 1729359691
+        },
+        {
+          "distance": 0.16965633630752563,
+          "id": 1729357465
+        },
+        {
+          "distance": 0.17163825035095215,
+          "id": 1729357465
+        },
+        {
+          "distance": 0.1773950457572937,
+          "id": 1729355873
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729358437,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "#OnThisDay in 1959, the inaugural jetliner flight from SFO to New York departed...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

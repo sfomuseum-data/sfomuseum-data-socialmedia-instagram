@@ -35,6 +35,50 @@
       "taken": 1515163560,
       "taken_at": "Jan 05, 2018 2:46 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10653817653656006,
+          "id": 1729361251
+        },
+        {
+          "distance": 0.13401490449905396,
+          "id": 1729357489
+        },
+        {
+          "distance": 0.1350223422050476,
+          "id": 1729358317
+        },
+        {
+          "distance": 0.15689975023269653,
+          "id": 1729355245
+        },
+        {
+          "distance": 0.17808300256729126,
+          "id": 1763559203
+        },
+        {
+          "distance": 0.17817556858062744,
+          "id": 1729355245
+        },
+        {
+          "distance": 0.1807604432106018,
+          "id": 1729361603
+        },
+        {
+          "distance": 0.18175721168518066,
+          "id": 1729359257
+        },
+        {
+          "distance": 0.18795156478881836,
+          "id": 1729358317
+        },
+        {
+          "distance": 0.18960928916931152,
+          "id": 1729357489
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729358743,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "#OnThisDay in 1946, the first Lockheed 049 Constellation was delivered to Pan American World Airways...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

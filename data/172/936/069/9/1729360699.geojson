@@ -25,6 +25,50 @@
       "taken": 1463647800,
       "taken_at": "May 19, 2016 8:50 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1886851191520691,
+          "id": 1947424963
+        },
+        {
+          "distance": 0.19149023294448853,
+          "id": 1729361103
+        },
+        {
+          "distance": 0.1947460174560547,
+          "id": 1947424963
+        },
+        {
+          "distance": 0.2023531198501587,
+          "id": 1729356591
+        },
+        {
+          "distance": 0.24092894792556763,
+          "id": 1729356591
+        },
+        {
+          "distance": 0.24648529291152954,
+          "id": 1729361713
+        },
+        {
+          "distance": 0.24768054485321045,
+          "id": 1729361103
+        },
+        {
+          "distance": 0.26766204833984375,
+          "id": 1729361713
+        },
+        {
+          "distance": 0.2829347252845764,
+          "id": 1763558809
+        },
+        {
+          "distance": 0.28790342807769775,
+          "id": 1729361303
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360699,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "This is your last chance to catch \"Queen of the Skies: The Legacy of the Lockheed Constellation\"!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

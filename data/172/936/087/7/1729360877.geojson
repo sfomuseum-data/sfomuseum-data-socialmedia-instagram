@@ -25,6 +25,50 @@
       "taken": 1459457460,
       "taken_at": "Mar 31, 2016 8:51 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0956428050994873,
+          "id": 1729361697
+        },
+        {
+          "distance": 0.10797935724258423,
+          "id": 1729361227
+        },
+        {
+          "distance": 0.13080555200576782,
+          "id": 1763559449
+        },
+        {
+          "distance": 0.14083540439605713,
+          "id": 1947425255
+        },
+        {
+          "distance": 0.14513099193572998,
+          "id": 1763559233
+        },
+        {
+          "distance": 0.14610940217971802,
+          "id": 1729361143
+        },
+        {
+          "distance": 0.1510862112045288,
+          "id": 1729359523
+        },
+        {
+          "distance": 0.15511584281921387,
+          "id": 1729357513
+        },
+        {
+          "distance": 0.15619546175003052,
+          "id": 1763559233
+        },
+        {
+          "distance": 0.16457241773605347,
+          "id": 1729357513
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360877,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "This photograph shows San Francisco Airport’s second terminal building, which replaced the original 1927 Mills Field structure when it opened in 1937...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

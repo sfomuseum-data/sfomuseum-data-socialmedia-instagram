@@ -25,6 +25,50 @@
       "taken": 1462557240,
       "taken_at": "May 06, 2016 5:54 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.25805747509002686,
+          "id": 1947425117
+        },
+        {
+          "distance": 0.2857739329338074,
+          "id": 1763559327
+        },
+        {
+          "distance": 0.28949594497680664,
+          "id": 1763559487
+        },
+        {
+          "distance": 0.3004937171936035,
+          "id": 1729356067
+        },
+        {
+          "distance": 0.3109610676765442,
+          "id": 1947425117
+        },
+        {
+          "distance": 0.3138100504875183,
+          "id": 1763559327
+        },
+        {
+          "distance": 0.31642717123031616,
+          "id": 1729358625
+        },
+        {
+          "distance": 0.31649625301361084,
+          "id": 1729356319
+        },
+        {
+          "distance": 0.31777745485305786,
+          "id": 1729359609
+        },
+        {
+          "distance": 0.32202374935150146,
+          "id": 1763559487
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360745,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Northern California is known for the hundreds of excellent wineries located throughout the region...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

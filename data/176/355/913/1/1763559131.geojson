@@ -31,6 +31,50 @@
       "taken": 1621959960,
       "taken_at": "May 25, 2021 4:26 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1373969316482544,
+          "id": 1729360407
+        },
+        {
+          "distance": 0.15764254331588745,
+          "id": 1729360121
+        },
+        {
+          "distance": 0.16215425729751587,
+          "id": 1729355091
+        },
+        {
+          "distance": 0.16785287857055664,
+          "id": 1729360279
+        },
+        {
+          "distance": 0.17509561777114868,
+          "id": 1729360607
+        },
+        {
+          "distance": 0.177390456199646,
+          "id": 1729359159
+        },
+        {
+          "distance": 0.1852162480354309,
+          "id": 1729358405
+        },
+        {
+          "distance": 0.1869831085205078,
+          "id": 1729361593
+        },
+        {
+          "distance": 0.19915151596069336,
+          "id": 1729360465
+        },
+        {
+          "distance": 0.20431721210479736,
+          "id": 1729359719
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559131,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Are you as excited as we are that the Sky Terrace @flysfo is reopening?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

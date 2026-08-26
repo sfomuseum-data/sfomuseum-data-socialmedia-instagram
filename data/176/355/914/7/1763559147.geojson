@@ -32,6 +32,50 @@
       "taken": 1621354140,
       "taken_at": "May 18, 2021 4:09 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.04249697923660278,
+          "id": 1729359139
+        },
+        {
+          "distance": 0.15059548616409302,
+          "id": 1729359139
+        },
+        {
+          "distance": 0.15897411108016968,
+          "id": 1729357403
+        },
+        {
+          "distance": 0.16536539793014526,
+          "id": 1729361509
+        },
+        {
+          "distance": 0.17844629287719727,
+          "id": 1763559499
+        },
+        {
+          "distance": 0.1810591220855713,
+          "id": 1729360135
+        },
+        {
+          "distance": 0.1822882890701294,
+          "id": 1729360313
+        },
+        {
+          "distance": 0.18678605556488037,
+          "id": 1729361467
+        },
+        {
+          "distance": 0.18698501586914062,
+          "id": 1729361467
+        },
+        {
+          "distance": 0.18827521800994873,
+          "id": 1729360205
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1763559147,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Preeminent French couturier Pierre Balmain was born #OnThisDay in 1914...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

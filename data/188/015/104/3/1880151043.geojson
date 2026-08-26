@@ -30,6 +30,50 @@
       "taken": 1679069700,
       "taken_at": "Mar 17, 2023 4:15 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.026214301586151123,
+          "id": 1880151083
+        },
+        {
+          "distance": 0.026214301586151123,
+          "id": 1880151045
+        },
+        {
+          "distance": 0.18127447366714478,
+          "id": 1880151083
+        },
+        {
+          "distance": 0.18127447366714478,
+          "id": 1880151045
+        },
+        {
+          "distance": 0.19543159008026123,
+          "id": 1880151539
+        },
+        {
+          "distance": 0.19777429103851318,
+          "id": 1880150969
+        },
+        {
+          "distance": 0.20512843132019043,
+          "id": 1880151023
+        },
+        {
+          "distance": 0.2225601077079773,
+          "id": 1880151475
+        },
+        {
+          "distance": 0.23879802227020264,
+          "id": 1880150969
+        },
+        {
+          "distance": 0.2438700795173645,
+          "id": 1880151447
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151043,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777661,
     "wof:name": "Freda Koblick (1920–2011) was a native of San Francisco who pioneered cast-acrylic plastic sculpture...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

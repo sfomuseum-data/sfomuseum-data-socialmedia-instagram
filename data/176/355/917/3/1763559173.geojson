@@ -30,6 +30,50 @@
       "taken": 1619538000,
       "taken_at": "Apr 27, 2021 3:40 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07708948850631714,
+          "id": 1729360929
+        },
+        {
+          "distance": 0.09694284200668335,
+          "id": 1729360929
+        },
+        {
+          "distance": 0.11986398696899414,
+          "id": 1729355665
+        },
+        {
+          "distance": 0.1254713535308838,
+          "id": 1729355339
+        },
+        {
+          "distance": 0.12664830684661865,
+          "id": 1729355339
+        },
+        {
+          "distance": 0.13299697637557983,
+          "id": 1729359537
+        },
+        {
+          "distance": 0.14621740579605103,
+          "id": 1729355361
+        },
+        {
+          "distance": 0.15932339429855347,
+          "id": 1880151041
+        },
+        {
+          "distance": 0.16436713933944702,
+          "id": 1729361289
+        },
+        {
+          "distance": 0.1686408519744873,
+          "id": 1729355665
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559173,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "San Francisco and the Bay from a plane has always been a beautiful view...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

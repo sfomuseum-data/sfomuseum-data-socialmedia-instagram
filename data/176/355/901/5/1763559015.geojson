@@ -31,6 +31,50 @@
       "taken": 1603723260,
       "taken_at": "Oct 26, 2020 2:41 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.08111423254013062,
+          "id": 1729359043
+        },
+        {
+          "distance": 0.11103188991546631,
+          "id": 1729357627
+        },
+        {
+          "distance": 0.1243179440498352,
+          "id": 1729359601
+        },
+        {
+          "distance": 0.13933175802230835,
+          "id": 1729355347
+        },
+        {
+          "distance": 0.14432328939437866,
+          "id": 1729359043
+        },
+        {
+          "distance": 0.14744728803634644,
+          "id": 1763558659
+        },
+        {
+          "distance": 0.14744728803634644,
+          "id": 1729359591
+        },
+        {
+          "distance": 0.14835935831069946,
+          "id": 1729359955
+        },
+        {
+          "distance": 0.152457594871521,
+          "id": 1763559411
+        },
+        {
+          "distance": 0.15456253290176392,
+          "id": 1763559411
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559015,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "#Onthisday in 1958, the first scheduled Pan American World Airways jet service took off from Idlewild, New York...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

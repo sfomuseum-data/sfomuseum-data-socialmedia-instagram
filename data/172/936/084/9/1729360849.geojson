@@ -25,6 +25,50 @@
       "taken": 1459763580,
       "taken_at": "Apr 04, 2016 9:53 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3039194345474243,
+          "id": 1729359307
+        },
+        {
+          "distance": 0.3079832196235657,
+          "id": 1729355505
+        },
+        {
+          "distance": 0.3095763921737671,
+          "id": 1729359645
+        },
+        {
+          "distance": 0.31290411949157715,
+          "id": 1763559229
+        },
+        {
+          "distance": 0.315049946308136,
+          "id": 1729355505
+        },
+        {
+          "distance": 0.31756114959716797,
+          "id": 1729359307
+        },
+        {
+          "distance": 0.322049617767334,
+          "id": 1763559229
+        },
+        {
+          "distance": 0.3283155560493469,
+          "id": 1729356953
+        },
+        {
+          "distance": 0.3333514332771301,
+          "id": 1729359587
+        },
+        {
+          "distance": 0.3384550213813782,
+          "id": 1880151243
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360849,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Pancake Palace used to be a restaurant in the old International Terminal (now Terminal 2) at San Francisco International Airport...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

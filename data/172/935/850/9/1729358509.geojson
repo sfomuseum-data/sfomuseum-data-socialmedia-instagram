@@ -52,6 +52,50 @@
       "taken": 1519732500,
       "taken_at": "Feb 27, 2018, 11:55 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0036817193031311035,
+          "id": 1729358621
+        },
+        {
+          "distance": 0.06755220890045166,
+          "id": 1729358621
+        },
+        {
+          "distance": 0.16974711418151855,
+          "id": 1729358517
+        },
+        {
+          "distance": 0.18896400928497314,
+          "id": 1729358517
+        },
+        {
+          "distance": 0.20742201805114746,
+          "id": 1729359023
+        },
+        {
+          "distance": 0.21605312824249268,
+          "id": 1729358495
+        },
+        {
+          "distance": 0.21858656406402588,
+          "id": 1729359061
+        },
+        {
+          "distance": 0.22238266468048096,
+          "id": 1729359061
+        },
+        {
+          "distance": 0.22622859477996826,
+          "id": 1729358495
+        },
+        {
+          "distance": 0.24782037734985352,
+          "id": 1729359023
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -81,7 +125,7 @@
       }
     ],
     "wof:id": 1729358509,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777633,
     "wof:name": "On display in the International Terminal is \"Empowering Threads: Textiles of Jolom Mayaetik.\"..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -98,5 +142,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

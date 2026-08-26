@@ -38,6 +38,50 @@
       "taken": 1518547500,
       "taken_at": "Feb 13, 2018 6:45 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20025718212127686,
+          "id": 1729358711
+        },
+        {
+          "distance": 0.20212548971176147,
+          "id": 1729357793
+        },
+        {
+          "distance": 0.24055945873260498,
+          "id": 1729357723
+        },
+        {
+          "distance": 0.24902701377868652,
+          "id": 1729358735
+        },
+        {
+          "distance": 0.25069183111190796,
+          "id": 1729358711
+        },
+        {
+          "distance": 0.25436365604400635,
+          "id": 1729358611
+        },
+        {
+          "distance": 0.2545034885406494,
+          "id": 1729358147
+        },
+        {
+          "distance": 0.2559487819671631,
+          "id": 1729359887
+        },
+        {
+          "distance": 0.2566261291503906,
+          "id": 1729358611
+        },
+        {
+          "distance": 0.25684958696365356,
+          "id": 1729357723
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729358565,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Introduced in 1931, pinball was a pop-cultural phenomenon...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

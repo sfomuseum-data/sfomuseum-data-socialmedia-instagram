@@ -30,6 +30,50 @@
       "taken": 1684497540,
       "taken_at": "May 19, 2023 11:59 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3200126886367798,
+          "id": 1729356477
+        },
+        {
+          "distance": 0.33218449354171753,
+          "id": 1729356473
+        },
+        {
+          "distance": 0.33441829681396484,
+          "id": 1763559325
+        },
+        {
+          "distance": 0.3477919101715088,
+          "id": 1729358943
+        },
+        {
+          "distance": 0.35092341899871826,
+          "id": 1729355539
+        },
+        {
+          "distance": 0.3548205494880676,
+          "id": 1729359341
+        },
+        {
+          "distance": 0.35878443717956543,
+          "id": 1763559325
+        },
+        {
+          "distance": 0.3625403642654419,
+          "id": 1729357339
+        },
+        {
+          "distance": 0.3626909852027893,
+          "id": 1880151469
+        },
+        {
+          "distance": 0.36512237787246704,
+          "id": 1729358413
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880150899,
-    "wof:lastmodified": 1733175333,
+    "wof:lastmodified": 1787777661,
     "wof:name": "Our newest exhibition, “Recollections… from the Unknown Museum” is now on display in Terminal 2!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -27,6 +27,50 @@
       "taken": 1703491680,
       "taken_at": "Dec 25, 2023 8:08 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2213270664215088,
+          "id": 1880151169
+        },
+        {
+          "distance": 0.24823331832885742,
+          "id": 1729357437
+        },
+        {
+          "distance": 0.25082868337631226,
+          "id": 1763559247
+        },
+        {
+          "distance": 0.2609075903892517,
+          "id": 1729360779
+        },
+        {
+          "distance": 0.26174092292785645,
+          "id": 1880151229
+        },
+        {
+          "distance": 0.26330679655075073,
+          "id": 1729356623
+        },
+        {
+          "distance": 0.26363492012023926,
+          "id": 1729361049
+        },
+        {
+          "distance": 0.26402777433395386,
+          "id": 1763558629
+        },
+        {
+          "distance": 0.26428091526031494,
+          "id": 1763558939
+        },
+        {
+          "distance": 0.26579928398132324,
+          "id": 1880151169
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947425191,
-    "wof:lastmodified": 1733175328,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Merry Christmas!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

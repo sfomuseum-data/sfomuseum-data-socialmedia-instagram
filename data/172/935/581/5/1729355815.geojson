@@ -31,6 +31,50 @@
       "taken": 1575554340,
       "taken_at": "Dec 05, 2019 1:59 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14200323820114136,
+          "id": 1729355403
+        },
+        {
+          "distance": 0.15444928407669067,
+          "id": 1729355403
+        },
+        {
+          "distance": 0.19592440128326416,
+          "id": 1729355573
+        },
+        {
+          "distance": 0.20661544799804688,
+          "id": 1880151191
+        },
+        {
+          "distance": 0.2075842022895813,
+          "id": 1729355441
+        },
+        {
+          "distance": 0.21530747413635254,
+          "id": 1763559429
+        },
+        {
+          "distance": 0.21690714359283447,
+          "id": 1880151191
+        },
+        {
+          "distance": 0.22092783451080322,
+          "id": 1729355725
+        },
+        {
+          "distance": 0.22289526462554932,
+          "id": 1880151121
+        },
+        {
+          "distance": 0.2239614725112915,
+          "id": 1729355755
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729355815,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777627,
     "wof:name": "When McDonnell Douglas began to develop their widebody jetliner in the late 1960s, they endeavored to create an airliner that would operate in areas not served by the 747...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

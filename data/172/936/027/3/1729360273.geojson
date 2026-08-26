@@ -25,6 +25,50 @@
       "taken": 1475405640,
       "taken_at": "Oct 02, 2016 10:54 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.28930336236953735,
+          "id": 1729361553
+        },
+        {
+          "distance": 0.2912675142288208,
+          "id": 1729359685
+        },
+        {
+          "distance": 0.29400599002838135,
+          "id": 1947425101
+        },
+        {
+          "distance": 0.3044498562812805,
+          "id": 1947425293
+        },
+        {
+          "distance": 0.31168925762176514,
+          "id": 1880151065
+        },
+        {
+          "distance": 0.316430926322937,
+          "id": 1729361521
+        },
+        {
+          "distance": 0.3186185956001282,
+          "id": 1729359047
+        },
+        {
+          "distance": 0.32001614570617676,
+          "id": 1729359717
+        },
+        {
+          "distance": 0.32830893993377686,
+          "id": 1729357413
+        },
+        {
+          "distance": 0.3294553756713867,
+          "id": 1729359717
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360273,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "In 1943, renowned photographer Ansel Adams (1902–84), famous for his western landscapes, documented the daily life of Japanese Americans interned at the Manzanar War Relocation Center during World War II...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

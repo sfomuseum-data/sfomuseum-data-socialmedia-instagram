@@ -30,6 +30,50 @@
       "taken": 1533572100,
       "taken_at": "Aug 6, 2018, 4:15 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.00005441904067993164,
+          "id": 1763558747
+        },
+        {
+          "distance": 0.06936252117156982,
+          "id": 1763558747
+        },
+        {
+          "distance": 0.14584964513778687,
+          "id": 1729357313
+        },
+        {
+          "distance": 0.1598818302154541,
+          "id": 1729356249
+        },
+        {
+          "distance": 0.16693121194839478,
+          "id": 1729357313
+        },
+        {
+          "distance": 0.17107373476028442,
+          "id": 1729357819
+        },
+        {
+          "distance": 0.1844867467880249,
+          "id": 1729357829
+        },
+        {
+          "distance": 0.1919371485710144,
+          "id": 1729358093
+        },
+        {
+          "distance": 0.19196277856826782,
+          "id": 1729357819
+        },
+        {
+          "distance": 0.19358974695205688,
+          "id": 1729357829
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729357823,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Whoo HOO!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

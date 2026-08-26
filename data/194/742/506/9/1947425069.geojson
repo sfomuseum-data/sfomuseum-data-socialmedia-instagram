@@ -27,6 +27,50 @@
       "taken": 1711550100,
       "taken_at": "Mar 27, 2024 2:35 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13922494649887085,
+          "id": 1947424983
+        },
+        {
+          "distance": 0.20680302381515503,
+          "id": 1947425079
+        },
+        {
+          "distance": 0.2203078269958496,
+          "id": 1947424935
+        },
+        {
+          "distance": 0.2243707776069641,
+          "id": 1947424983
+        },
+        {
+          "distance": 0.23363393545150757,
+          "id": 1947425079
+        },
+        {
+          "distance": 0.23511040210723877,
+          "id": 1947424893
+        },
+        {
+          "distance": 0.24835145473480225,
+          "id": 1947425153
+        },
+        {
+          "distance": 0.2630192041397095,
+          "id": 1947425131
+        },
+        {
+          "distance": 0.26707959175109863,
+          "id": 1729355689
+        },
+        {
+          "distance": 0.27474021911621094,
+          "id": 1947424847
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947425069,
-    "wof:lastmodified": 1733175325,
+    "wof:lastmodified": 1787777664,
     "wof:name": "In 2018, after eleven years of service, the airline ceased operations following its acquisition by Alaska Airlines...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

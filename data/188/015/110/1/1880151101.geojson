@@ -25,6 +25,50 @@
       "taken": 1677517380,
       "taken_at": "Feb 27, 2023 5:03 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2826497554779053,
+          "id": 1729361449
+        },
+        {
+          "distance": 0.33605366945266724,
+          "id": 1729361449
+        },
+        {
+          "distance": 0.44399207830429077,
+          "id": 1880151427
+        },
+        {
+          "distance": 0.4536898732185364,
+          "id": 1729361299
+        },
+        {
+          "distance": 0.4585368037223816,
+          "id": 1729360141
+        },
+        {
+          "distance": 0.46219104528427124,
+          "id": 1763558889
+        },
+        {
+          "distance": 0.4623473286628723,
+          "id": 1763559277
+        },
+        {
+          "distance": 0.46620362997055054,
+          "id": 1763559277
+        },
+        {
+          "distance": 0.46987384557724,
+          "id": 1729361299
+        },
+        {
+          "distance": 0.47690194845199585,
+          "id": 1880151427
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1880151101,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "While researching options for an airport between 1925-26, the office of San Francisco Mayor James Rolfe, Jr. sent telegrams to cities around the country to inquire about their own air field operations or intentions...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

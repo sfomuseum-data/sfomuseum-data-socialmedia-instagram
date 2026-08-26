@@ -33,6 +33,50 @@
       "taken": 1559572500,
       "taken_at": "Jun 03, 2019 2:35 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18833303451538086,
+          "id": 1729356483
+        },
+        {
+          "distance": 0.21727490425109863,
+          "id": 1729356497
+        },
+        {
+          "distance": 0.24203115701675415,
+          "id": 1729356483
+        },
+        {
+          "distance": 0.250161349773407,
+          "id": 1729356497
+        },
+        {
+          "distance": 0.2623623013496399,
+          "id": 1729356479
+        },
+        {
+          "distance": 0.28194332122802734,
+          "id": 1729360771
+        },
+        {
+          "distance": 0.2896765470504761,
+          "id": 1729360771
+        },
+        {
+          "distance": 0.29970479011535645,
+          "id": 1880151139
+        },
+        {
+          "distance": 0.301508367061615,
+          "id": 1729359673
+        },
+        {
+          "distance": 0.3029121160507202,
+          "id": 1729359407
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729356481,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Houston-based artist Keliy Anderson-Staley’s collection of portraits is called “[hyphen] Americans”, which refers to the hyphenated character of her subjects’ identities (Irish-American, African-American, etc.), while emphasizing their shared identity as Americans...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

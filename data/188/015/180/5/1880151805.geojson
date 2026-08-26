@@ -31,6 +31,50 @@
       "taken": 1651073340,
       "taken_at": "Apr 27, 2022 3:29 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1640055775642395,
+          "id": 1880151779
+        },
+        {
+          "distance": 0.17893558740615845,
+          "id": 1729357849
+        },
+        {
+          "distance": 0.18318283557891846,
+          "id": 1880151799
+        },
+        {
+          "distance": 0.1888027787208557,
+          "id": 1763559575
+        },
+        {
+          "distance": 0.1890895962715149,
+          "id": 1763559615
+        },
+        {
+          "distance": 0.1905813217163086,
+          "id": 1729357661
+        },
+        {
+          "distance": 0.19287097454071045,
+          "id": 1729357115
+        },
+        {
+          "distance": 0.19471031427383423,
+          "id": 1729357123
+        },
+        {
+          "distance": 0.19490879774093628,
+          "id": 1880151251
+        },
+        {
+          "distance": 0.19539016485214233,
+          "id": 1880151779
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151805,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777663,
     "wof:name": "The Sud Aviation Caravelle was one of the first successful commercial jetliners produced in Europe...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

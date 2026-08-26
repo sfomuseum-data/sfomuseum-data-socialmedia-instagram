@@ -31,6 +31,50 @@
       "taken": 1650901200,
       "taken_at": "Apr 25, 2022 3:40 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24477821588516235,
+          "id": 1729355469
+        },
+        {
+          "distance": 0.25997596979141235,
+          "id": 1729360003
+        },
+        {
+          "distance": 0.2836800217628479,
+          "id": 1729355469
+        },
+        {
+          "distance": 0.4146263599395752,
+          "id": 1880151171
+        },
+        {
+          "distance": 0.41526418924331665,
+          "id": 1880151239
+        },
+        {
+          "distance": 0.4321054220199585,
+          "id": 1729360535
+        },
+        {
+          "distance": 0.432217538356781,
+          "id": 1880151479
+        },
+        {
+          "distance": 0.4346466064453125,
+          "id": 1729358765
+        },
+        {
+          "distance": 0.4360883831977844,
+          "id": 1880151171
+        },
+        {
+          "distance": 0.43690431118011475,
+          "id": 1880151239
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151787,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777663,
     "wof:name": "Our “you collect what?” list is lengthy...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

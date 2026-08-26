@@ -34,6 +34,50 @@
       "taken": 1499939160,
       "taken_at": "Jul 13, 2017 9:46 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.28290992975234985,
+          "id": 1729355519
+        },
+        {
+          "distance": 0.30262303352355957,
+          "id": 1729361013
+        },
+        {
+          "distance": 0.3065999746322632,
+          "id": 1729358115
+        },
+        {
+          "distance": 0.3184061050415039,
+          "id": 1729355519
+        },
+        {
+          "distance": 0.3219309449195862,
+          "id": 1729358989
+        },
+        {
+          "distance": 0.32741594314575195,
+          "id": 1729361965
+        },
+        {
+          "distance": 0.32746952772140503,
+          "id": 1729356403
+        },
+        {
+          "distance": 0.33462876081466675,
+          "id": 1763558875
+        },
+        {
+          "distance": 0.33515024185180664,
+          "id": 1729359439
+        },
+        {
+          "distance": 0.3359372019767761,
+          "id": 1729361111
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729359321,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "In the pioneering early days of aviation, mechanics often flew in the right seat of the cockpit and could perform co-pilot duties if needed...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

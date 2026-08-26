@@ -36,6 +36,50 @@
       "taken": 1547239920,
       "taken_at": "Jan 11, 2019 8:52 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.005389153957366943,
+          "id": 1729357111
+        },
+        {
+          "distance": 0.09247994422912598,
+          "id": 1729356655
+        },
+        {
+          "distance": 0.10520762205123901,
+          "id": 1729357111
+        },
+        {
+          "distance": 0.11282801628112793,
+          "id": 1729356713
+        },
+        {
+          "distance": 0.1321934461593628,
+          "id": 1729356655
+        },
+        {
+          "distance": 0.13884836435317993,
+          "id": 1729356713
+        },
+        {
+          "distance": 0.17786186933517456,
+          "id": 1729356761
+        },
+        {
+          "distance": 0.21260464191436768,
+          "id": 1729357385
+        },
+        {
+          "distance": 0.2194143533706665,
+          "id": 1729356761
+        },
+        {
+          "distance": 0.2206653356552124,
+          "id": 1729356869
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1763558799,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777659,
     "wof:name": "\"In recent months, I have been moving closer to traditional silversmithing, but I'm still keen to combine this with advanced technology…to bridge the gap between the two different approaches so that they become integrated, with the finished work having a natural feel without any hint of fabrication.\"..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

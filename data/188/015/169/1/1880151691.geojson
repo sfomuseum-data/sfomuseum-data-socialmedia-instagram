@@ -31,6 +31,50 @@
       "taken": 1653500760,
       "taken_at": "May 25, 2022 5:46 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10250020027160645,
+          "id": 1729357041
+        },
+        {
+          "distance": 0.11048853397369385,
+          "id": 1880151387
+        },
+        {
+          "distance": 0.12241244316101074,
+          "id": 1763559651
+        },
+        {
+          "distance": 0.12856972217559814,
+          "id": 1729357537
+        },
+        {
+          "distance": 0.12975245714187622,
+          "id": 1880151189
+        },
+        {
+          "distance": 0.13303005695343018,
+          "id": 1729355871
+        },
+        {
+          "distance": 0.13441330194473267,
+          "id": 1729358695
+        },
+        {
+          "distance": 0.13506460189819336,
+          "id": 1729357041
+        },
+        {
+          "distance": 0.13708257675170898,
+          "id": 1729359651
+        },
+        {
+          "distance": 0.14054155349731445,
+          "id": 1729357075
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151691,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777663,
     "wof:name": "#Onthisday in 1928, the Sikorsky S-38 took off on its first flight...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

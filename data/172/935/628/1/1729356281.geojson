@@ -32,6 +32,50 @@
       "taken": 1563887580,
       "taken_at": "Jul 23, 2019 1:13 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12658482789993286,
+          "id": 1729359077
+        },
+        {
+          "distance": 0.1344889998435974,
+          "id": 1729357057
+        },
+        {
+          "distance": 0.14005178213119507,
+          "id": 1729359005
+        },
+        {
+          "distance": 0.1404370665550232,
+          "id": 1947425255
+        },
+        {
+          "distance": 0.14455682039260864,
+          "id": 1729360235
+        },
+        {
+          "distance": 0.15413230657577515,
+          "id": 1729357667
+        },
+        {
+          "distance": 0.15721720457077026,
+          "id": 1729359393
+        },
+        {
+          "distance": 0.15721720457077026,
+          "id": 1763558675
+        },
+        {
+          "distance": 0.15835213661193848,
+          "id": 1729361129
+        },
+        {
+          "distance": 0.15936946868896484,
+          "id": 1729360337
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729356281,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777629,
     "wof:name": "San Francisco International Airport is celebrating the opening of the brand-new Harvey Milk Terminal 1 today!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

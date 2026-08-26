@@ -28,6 +28,50 @@
       "taken": 1479725760,
       "taken_at": "Nov 21, 2016 10:56 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.272860586643219,
+          "id": 1880151791
+        },
+        {
+          "distance": 0.2749447822570801,
+          "id": 1729361101
+        },
+        {
+          "distance": 0.3007276654243469,
+          "id": 1880151791
+        },
+        {
+          "distance": 0.3136618137359619,
+          "id": 1729359903
+        },
+        {
+          "distance": 0.31725186109542847,
+          "id": 1729361191
+        },
+        {
+          "distance": 0.3265058994293213,
+          "id": 1729360451
+        },
+        {
+          "distance": 0.33169853687286377,
+          "id": 1729361149
+        },
+        {
+          "distance": 0.33435946702957153,
+          "id": 1729360451
+        },
+        {
+          "distance": 0.33886289596557617,
+          "id": 1880151751
+        },
+        {
+          "distance": 0.3420696258544922,
+          "id": 1729358077
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1729360085,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "This Thanksgiving, will you be enjoying an after dinner coffee?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

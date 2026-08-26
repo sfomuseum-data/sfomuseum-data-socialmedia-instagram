@@ -30,6 +30,50 @@
       "taken": 1595406660,
       "taken_at": "Jul 22, 2020 8:31 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.005398690700531006,
+          "id": 1729360549
+        },
+        {
+          "distance": 0.07597023248672485,
+          "id": 1880151551
+        },
+        {
+          "distance": 0.09581983089447021,
+          "id": 1729360549
+        },
+        {
+          "distance": 0.11613655090332031,
+          "id": 1880151551
+        },
+        {
+          "distance": 0.12945032119750977,
+          "id": 1729357127
+        },
+        {
+          "distance": 0.1703619360923767,
+          "id": 1729358243
+        },
+        {
+          "distance": 0.1745051145553589,
+          "id": 1729357127
+        },
+        {
+          "distance": 0.18654966354370117,
+          "id": 1729358691
+        },
+        {
+          "distance": 0.1916758418083191,
+          "id": 1947424931
+        },
+        {
+          "distance": 0.20282351970672607,
+          "id": 1729358691
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729355185,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777619,
     "wof:name": "Artist Alexander Calder was born #onthisday in 1898...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

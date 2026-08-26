@@ -34,6 +34,50 @@
       "taken": 1584556380,
       "taken_at": "Mar 18, 2020 6:33 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.005999147891998291,
+          "id": 1729356085
+        },
+        {
+          "distance": 0.07154858112335205,
+          "id": 1729356087
+        },
+        {
+          "distance": 0.07653206586837769,
+          "id": 1729356085
+        },
+        {
+          "distance": 0.13654112815856934,
+          "id": 1729356087
+        },
+        {
+          "distance": 0.14023154973983765,
+          "id": 1729356079
+        },
+        {
+          "distance": 0.1458185315132141,
+          "id": 1729356005
+        },
+        {
+          "distance": 0.14760476350784302,
+          "id": 1729356279
+        },
+        {
+          "distance": 0.15607261657714844,
+          "id": 1729355479
+        },
+        {
+          "distance": 0.16318798065185547,
+          "id": 1729356101
+        },
+        {
+          "distance": 0.17019903659820557,
+          "id": 1729356095
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729355425,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777624,
     "wof:name": "Before the advent of photography, a number of superbly illustrated books made by Western travelers and artists in the early nineteenth century helped fuel the public’s fascination with foreign locales...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

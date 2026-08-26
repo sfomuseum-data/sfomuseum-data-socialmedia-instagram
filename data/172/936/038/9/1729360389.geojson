@@ -25,6 +25,50 @@
       "taken": 1472668200,
       "taken_at": "Aug 31, 2016 6:30 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2524387240409851,
+          "id": 1729360325
+        },
+        {
+          "distance": 0.26325124502182007,
+          "id": 1729360907
+        },
+        {
+          "distance": 0.2636851668357849,
+          "id": 1729360211
+        },
+        {
+          "distance": 0.2640829086303711,
+          "id": 1729360473
+        },
+        {
+          "distance": 0.2676583528518677,
+          "id": 1729360325
+        },
+        {
+          "distance": 0.26821213960647583,
+          "id": 1729355273
+        },
+        {
+          "distance": 0.2690625786781311,
+          "id": 1729360907
+        },
+        {
+          "distance": 0.2711157202720642,
+          "id": 1729359743
+        },
+        {
+          "distance": 0.2718506455421448,
+          "id": 1729360211
+        },
+        {
+          "distance": 0.27320343255996704,
+          "id": 1729360981
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360389,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "Airline fashion from the mid-1970s to the present has largely paralleled general trends and popular tastes in women’s daywear and workplace attire...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

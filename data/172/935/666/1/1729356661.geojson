@@ -32,6 +32,50 @@
       "taken": 1555415700,
       "taken_at": "Apr 16, 2019 11:55 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1295475959777832,
+          "id": 1880151529
+        },
+        {
+          "distance": 0.14282143115997314,
+          "id": 1880151529
+        },
+        {
+          "distance": 0.2440010905265808,
+          "id": 1729357519
+        },
+        {
+          "distance": 0.24911028146743774,
+          "id": 1729357485
+        },
+        {
+          "distance": 0.25274473428726196,
+          "id": 1729357359
+        },
+        {
+          "distance": 0.25833022594451904,
+          "id": 1729357467
+        },
+        {
+          "distance": 0.28255772590637207,
+          "id": 1729357467
+        },
+        {
+          "distance": 0.28256720304489136,
+          "id": 1729357499
+        },
+        {
+          "distance": 0.28265827894210815,
+          "id": 1729357519
+        },
+        {
+          "distance": 0.2885550260543823,
+          "id": 1729361647
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729356661,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "This is your last week to see \"Caticons: The Cat in Art.\"..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1472228520,
       "taken_at": "Aug 26, 2016 4:22 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15684974193572998,
+          "id": 1729360523
+        },
+        {
+          "distance": 0.1652190089225769,
+          "id": 1729360473
+        },
+        {
+          "distance": 0.17670726776123047,
+          "id": 1729360523
+        },
+        {
+          "distance": 0.19487780332565308,
+          "id": 1729358395
+        },
+        {
+          "distance": 0.19679033756256104,
+          "id": 1729360551
+        },
+        {
+          "distance": 0.20927703380584717,
+          "id": 1729360473
+        },
+        {
+          "distance": 0.2101374864578247,
+          "id": 1729360365
+        },
+        {
+          "distance": 0.21046340465545654,
+          "id": 1729360687
+        },
+        {
+          "distance": 0.21080076694488525,
+          "id": 1729359267
+        },
+        {
+          "distance": 0.2132461667060852,
+          "id": 1729357471
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360405,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "San Diego-based Pacific Southwest Airlines gained notoriety in the 1970s for form-fitting dresses with dramatically raised hemlines...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

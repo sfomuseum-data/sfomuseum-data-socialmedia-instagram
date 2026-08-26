@@ -46,6 +46,50 @@
       "taken": 1521734340,
       "taken_at": "Mar 22, 2018, 3:59 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.05202066898345947,
+          "id": 1729358443
+        },
+        {
+          "distance": 0.10415780544281006,
+          "id": 1729358527
+        },
+        {
+          "distance": 0.11577087640762329,
+          "id": 1729358521
+        },
+        {
+          "distance": 0.12074053287506104,
+          "id": 1729358515
+        },
+        {
+          "distance": 0.1248810887336731,
+          "id": 1729358581
+        },
+        {
+          "distance": 0.1332465410232544,
+          "id": 1729358619
+        },
+        {
+          "distance": 0.1350223422050476,
+          "id": 1729358443
+        },
+        {
+          "distance": 0.13586807250976562,
+          "id": 1729358545
+        },
+        {
+          "distance": 0.1363368034362793,
+          "id": 1729358427
+        },
+        {
+          "distance": 0.13702505826950073,
+          "id": 1729358917
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -75,7 +119,7 @@
       }
     ],
     "wof:id": 1729358423,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777633,
     "wof:name": "The toad, or \"sapo\", is an important and commonly interpreted symbol in Mayan weaving...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -92,5 +136,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

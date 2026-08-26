@@ -25,6 +25,50 @@
       "taken": 1453456320,
       "taken_at": "Jan 22, 2016 9:52 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14632165431976318,
+          "id": 1880151013
+        },
+        {
+          "distance": 0.16111356019973755,
+          "id": 1729355477
+        },
+        {
+          "distance": 0.1630287766456604,
+          "id": 1729355477
+        },
+        {
+          "distance": 0.17403477430343628,
+          "id": 1729360975
+        },
+        {
+          "distance": 0.17438268661499023,
+          "id": 1729357769
+        },
+        {
+          "distance": 0.17823439836502075,
+          "id": 1880151013
+        },
+        {
+          "distance": 0.178330659866333,
+          "id": 1729355649
+        },
+        {
+          "distance": 0.17879116535186768,
+          "id": 1729358663
+        },
+        {
+          "distance": 0.18226635456085205,
+          "id": 1729358929
+        },
+        {
+          "distance": 0.18373370170593262,
+          "id": 1947424953
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361153,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "#Onthisday in 1970, the first scheduled Pan American World Airways Boeing 747 wide-body jet took off from New York’s John F. Kennedy International Airport at 1:52AM...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

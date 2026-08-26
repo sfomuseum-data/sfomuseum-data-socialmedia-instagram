@@ -29,6 +29,50 @@
       "taken": 1438888500,
       "taken_at": "Aug 06, 2015 7:15 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06439352035522461,
+          "id": 1729355223
+        },
+        {
+          "distance": 0.13513249158859253,
+          "id": 1729355223
+        },
+        {
+          "distance": 0.2042069435119629,
+          "id": 1729360723
+        },
+        {
+          "distance": 0.21020644903182983,
+          "id": 1729356769
+        },
+        {
+          "distance": 0.22660046815872192,
+          "id": 1729356749
+        },
+        {
+          "distance": 0.23005300760269165,
+          "id": 1729356769
+        },
+        {
+          "distance": 0.23249459266662598,
+          "id": 1729361735
+        },
+        {
+          "distance": 0.24121308326721191,
+          "id": 1729360919
+        },
+        {
+          "distance": 0.2427278757095337,
+          "id": 1729355251
+        },
+        {
+          "distance": 0.24355679750442505,
+          "id": 1729360559
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729361633,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777646,
     "wof:name": "Did you know that SFO used to have a Helicopter Airlines from 1961-1986?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

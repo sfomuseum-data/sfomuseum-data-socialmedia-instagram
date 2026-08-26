@@ -25,6 +25,50 @@
       "taken": 1472384520,
       "taken_at": "Aug 28, 2016 11:42 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0060509443283081055,
+          "id": 1729355503
+        },
+        {
+          "distance": 0.06957226991653442,
+          "id": 1729361357
+        },
+        {
+          "distance": 0.09864842891693115,
+          "id": 1729355503
+        },
+        {
+          "distance": 0.14836305379867554,
+          "id": 1729361357
+        },
+        {
+          "distance": 0.18288105726242065,
+          "id": 1729361307
+        },
+        {
+          "distance": 0.19791436195373535,
+          "id": 1763558609
+        },
+        {
+          "distance": 0.19791436195373535,
+          "id": 1729361161
+        },
+        {
+          "distance": 0.20105069875717163,
+          "id": 1729361307
+        },
+        {
+          "distance": 0.20213258266448975,
+          "id": 1729357247
+        },
+        {
+          "distance": 0.205463707447052,
+          "id": 1763559527
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360381,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "Navigating the Pacific Ocean by air was a technological feat in the 1930s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

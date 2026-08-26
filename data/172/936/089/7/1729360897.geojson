@@ -25,6 +25,50 @@
       "taken": 1459080900,
       "taken_at": "Mar 27, 2016 12:15 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18664371967315674,
+          "id": 1729357791
+        },
+        {
+          "distance": 0.23254793882369995,
+          "id": 1729361253
+        },
+        {
+          "distance": 0.25848114490509033,
+          "id": 1729357771
+        },
+        {
+          "distance": 0.26888507604599,
+          "id": 1729357791
+        },
+        {
+          "distance": 0.29243093729019165,
+          "id": 1729361253
+        },
+        {
+          "distance": 0.29544150829315186,
+          "id": 1729361319
+        },
+        {
+          "distance": 0.30137914419174194,
+          "id": 1729362691
+        },
+        {
+          "distance": 0.3046671748161316,
+          "id": 1729361271
+        },
+        {
+          "distance": 0.3052546977996826,
+          "id": 1729362567
+        },
+        {
+          "distance": 0.3055182099342346,
+          "id": 1729361427
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360897,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "See gorgeously illustrated books in “Early Birds: Selections from the Tony Bill Aviation Library Collection, 1893–1914”, located pre-security, in the Aviation Museum and Library in the International Terminal...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

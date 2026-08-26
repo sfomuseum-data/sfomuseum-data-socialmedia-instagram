@@ -25,6 +25,50 @@
       "taken": 1482952080,
       "taken_at": "Dec 28, 2016 7:08 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1284160017967224,
+          "id": 1729359881
+        },
+        {
+          "distance": 0.14245855808258057,
+          "id": 1729355439
+        },
+        {
+          "distance": 0.16147065162658691,
+          "id": 1729359869
+        },
+        {
+          "distance": 0.1960882544517517,
+          "id": 1729355439
+        },
+        {
+          "distance": 0.22160279750823975,
+          "id": 1729359869
+        },
+        {
+          "distance": 0.2292577624320984,
+          "id": 1729359881
+        },
+        {
+          "distance": 0.23285704851150513,
+          "id": 1729360239
+        },
+        {
+          "distance": 0.24193060398101807,
+          "id": 1729359827
+        },
+        {
+          "distance": 0.24931246042251587,
+          "id": 1729360183
+        },
+        {
+          "distance": 0.2946590781211853,
+          "id": 1729359827
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359961,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "“Gate of a Mosque Built by Hafiz Ramut, Pillibeat” from the book \"Oriental Scenery\" appears on the aquatint displayed here...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

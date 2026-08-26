@@ -38,6 +38,50 @@
       "taken": 1530206820,
       "taken_at": "Jun 28, 2018 5:27 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3397209048271179,
+          "id": 1729358693
+        },
+        {
+          "distance": 0.3423987627029419,
+          "id": 1729358147
+        },
+        {
+          "distance": 0.34825414419174194,
+          "id": 1729358147
+        },
+        {
+          "distance": 0.3517090678215027,
+          "id": 1729357915
+        },
+        {
+          "distance": 0.3593299388885498,
+          "id": 1729358697
+        },
+        {
+          "distance": 0.36293506622314453,
+          "id": 1729357783
+        },
+        {
+          "distance": 0.36802226305007935,
+          "id": 1729358697
+        },
+        {
+          "distance": 0.37855660915374756,
+          "id": 1729358795
+        },
+        {
+          "distance": 0.37890660762786865,
+          "id": 1729358693
+        },
+        {
+          "distance": 0.38523924350738525,
+          "id": 1729358277
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729358057,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Countertop vending machines dispensed small products that were best suited to sales of a single item...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

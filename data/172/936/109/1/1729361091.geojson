@@ -25,6 +25,50 @@
       "taken": 1454493000,
       "taken_at": "Feb 03, 2016 9:50 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24583673477172852,
+          "id": 1729359115
+        },
+        {
+          "distance": 0.2651771903038025,
+          "id": 1729359085
+        },
+        {
+          "distance": 0.26991337537765503,
+          "id": 1729359091
+        },
+        {
+          "distance": 0.2849627137184143,
+          "id": 1729359115
+        },
+        {
+          "distance": 0.28907835483551025,
+          "id": 1729360635
+        },
+        {
+          "distance": 0.29939043521881104,
+          "id": 1729359085
+        },
+        {
+          "distance": 0.3113536834716797,
+          "id": 1729359091
+        },
+        {
+          "distance": 0.3240278959274292,
+          "id": 1729360947
+        },
+        {
+          "distance": 0.3276626467704773,
+          "id": 1729362413
+        },
+        {
+          "distance": 0.33234071731567383,
+          "id": 1729362413
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361091,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777643,
     "wof:name": "The earliest purses in our Essential Style exhibition date from the eighteenth century...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

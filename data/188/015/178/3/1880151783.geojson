@@ -30,6 +30,50 @@
       "taken": 1651230720,
       "taken_at": "Apr 29, 2022 11:12 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06484586000442505,
+          "id": 1880151007
+        },
+        {
+          "distance": 0.07468044757843018,
+          "id": 1880151007
+        },
+        {
+          "distance": 0.12729579210281372,
+          "id": 1880151677
+        },
+        {
+          "distance": 0.1504216194152832,
+          "id": 1880151737
+        },
+        {
+          "distance": 0.16298246383666992,
+          "id": 1880151621
+        },
+        {
+          "distance": 0.17657321691513062,
+          "id": 1880151621
+        },
+        {
+          "distance": 0.17921096086502075,
+          "id": 1880151677
+        },
+        {
+          "distance": 0.2043723464012146,
+          "id": 1880151557
+        },
+        {
+          "distance": 0.21942055225372314,
+          "id": 1880151737
+        },
+        {
+          "distance": 0.22414714097976685,
+          "id": 1880151369
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151783,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777663,
     "wof:name": "Pheoleen Gandari’s (b...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

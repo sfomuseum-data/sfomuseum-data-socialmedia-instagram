@@ -39,6 +39,50 @@
       "taken": 1529757600,
       "taken_at": "Jun 23, 2018 12:40 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3313637375831604,
+          "id": 1729359493
+        },
+        {
+          "distance": 0.3328927159309387,
+          "id": 1729357535
+        },
+        {
+          "distance": 0.3335733413696289,
+          "id": 1763559427
+        },
+        {
+          "distance": 0.3485446572303772,
+          "id": 1729358761
+        },
+        {
+          "distance": 0.3485446572303772,
+          "id": 1763558727
+        },
+        {
+          "distance": 0.3521403670310974,
+          "id": 1947424971
+        },
+        {
+          "distance": 0.3547402024269104,
+          "id": 1729357771
+        },
+        {
+          "distance": 0.3617022633552551,
+          "id": 1729360897
+        },
+        {
+          "distance": 0.3642581105232239,
+          "id": 1947425053
+        },
+        {
+          "distance": 0.3721175193786621,
+          "id": 1729359093
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729358083,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Our newest exhibition, \"Into the Ether: Published Works on Ballooning and Atmospheric Studies, 1783–1910,\" will be opening in the Aviation Museum and Library tomorrow...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

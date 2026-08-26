@@ -25,6 +25,50 @@
       "taken": 1349948700,
       "taken_at": "Oct 11, 2012 9:45 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23955827951431274,
+          "id": 1729362967
+        },
+        {
+          "distance": 0.24395573139190674,
+          "id": 1729362999
+        },
+        {
+          "distance": 0.2616533637046814,
+          "id": 1729362999
+        },
+        {
+          "distance": 0.27877873182296753,
+          "id": 1729362967
+        },
+        {
+          "distance": 0.2798178195953369,
+          "id": 1729362129
+        },
+        {
+          "distance": 0.28460997343063354,
+          "id": 1729362961
+        },
+        {
+          "distance": 0.2889459729194641,
+          "id": 1729362163
+        },
+        {
+          "distance": 0.29809004068374634,
+          "id": 1729362129
+        },
+        {
+          "distance": 0.30315935611724854,
+          "id": 1729362107
+        },
+        {
+          "distance": 0.3093612790107727,
+          "id": 1729363015
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362877,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777654,
     "wof:name": "Casket, c. 1903...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

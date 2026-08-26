@@ -34,6 +34,50 @@
       "taken": 1554912480,
       "taken_at": "Apr 10, 2019, 4:08 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2577860355377197,
+          "id": 1763558869
+        },
+        {
+          "distance": 0.29191267490386963,
+          "id": 1880151225
+        },
+        {
+          "distance": 0.300822913646698,
+          "id": 1763558869
+        },
+        {
+          "distance": 0.3119308352470398,
+          "id": 1880151203
+        },
+        {
+          "distance": 0.3200805187225342,
+          "id": 1880151225
+        },
+        {
+          "distance": 0.33202505111694336,
+          "id": 1729359229
+        },
+        {
+          "distance": 0.33931809663772583,
+          "id": 1729359805
+        },
+        {
+          "distance": 0.3450068235397339,
+          "id": 1729360147
+        },
+        {
+          "distance": 0.3495604991912842,
+          "id": 1880151203
+        },
+        {
+          "distance": 0.3567515015602112,
+          "id": 1729360923
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729356677,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Have you ever been to a drive-in movie theatre?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

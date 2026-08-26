@@ -25,6 +25,50 @@
       "taken": 1334234520,
       "taken_at": "Apr 12, 2012 12:42 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2174268364906311,
+          "id": 1729362831
+        },
+        {
+          "distance": 0.26021111011505127,
+          "id": 1729362831
+        },
+        {
+          "distance": 0.306369423866272,
+          "id": 1729362867
+        },
+        {
+          "distance": 0.3105962872505188,
+          "id": 1729362317
+        },
+        {
+          "distance": 0.3140576481819153,
+          "id": 1729362865
+        },
+        {
+          "distance": 0.32139599323272705,
+          "id": 1729362371
+        },
+        {
+          "distance": 0.3299837112426758,
+          "id": 1729356585
+        },
+        {
+          "distance": 0.3306562304496765,
+          "id": 1729362707
+        },
+        {
+          "distance": 0.3416925072669983,
+          "id": 1729362991
+        },
+        {
+          "distance": 0.3476666212081909,
+          "id": 1729362867
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729363033,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777657,
     "wof:name": "Just in: 450+ matchbooks from 1940-90...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

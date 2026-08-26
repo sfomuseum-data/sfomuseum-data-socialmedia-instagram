@@ -25,6 +25,50 @@
       "taken": 1457784840,
       "taken_at": "Mar 12, 2016 12:14 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.21029013395309448,
+          "id": 1763559191
+        },
+        {
+          "distance": 0.2429916262626648,
+          "id": 1763559191
+        },
+        {
+          "distance": 0.2801690697669983,
+          "id": 1763559557
+        },
+        {
+          "distance": 0.2947889566421509,
+          "id": 1763559557
+        },
+        {
+          "distance": 0.29584360122680664,
+          "id": 1729359433
+        },
+        {
+          "distance": 0.29602617025375366,
+          "id": 1763559133
+        },
+        {
+          "distance": 0.29706871509552,
+          "id": 1729356317
+        },
+        {
+          "distance": 0.29933375120162964,
+          "id": 1729361179
+        },
+        {
+          "distance": 0.3027162551879883,
+          "id": 1729356317
+        },
+        {
+          "distance": 0.30307185649871826,
+          "id": 1729359841
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360943,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "One of the earliest luggage labels we have in our collection is one that was issued by Boeing Air Transport featuring a Boeing 80 airliner from circa 1928...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

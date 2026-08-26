@@ -25,6 +25,50 @@
       "taken": 1597315500,
       "taken_at": "Aug 13, 2020 10:45 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09162145853042603,
+          "id": 1729355333
+        },
+        {
+          "distance": 0.137536883354187,
+          "id": 1729355333
+        },
+        {
+          "distance": 0.22911560535430908,
+          "id": 1729360981
+        },
+        {
+          "distance": 0.2603808641433716,
+          "id": 1729355763
+        },
+        {
+          "distance": 0.263171911239624,
+          "id": 1729359201
+        },
+        {
+          "distance": 0.2634420394897461,
+          "id": 1729361593
+        },
+        {
+          "distance": 0.26490795612335205,
+          "id": 1729355251
+        },
+        {
+          "distance": 0.2663923501968384,
+          "id": 1729358589
+        },
+        {
+          "distance": 0.26892155408859253,
+          "id": 1729355091
+        },
+        {
+          "distance": 0.27250123023986816,
+          "id": 1729359719
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729355143,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777618,
     "wof:name": "Thank you again and always to the Airport’s custodial staff, past and present!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

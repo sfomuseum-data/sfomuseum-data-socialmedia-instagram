@@ -34,6 +34,50 @@
       "taken": 1577355360,
       "taken_at": "Dec 26, 2019 10:16 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.21805864572525024,
+          "id": 1880151357
+        },
+        {
+          "distance": 0.22677934169769287,
+          "id": 1880151379
+        },
+        {
+          "distance": 0.22889822721481323,
+          "id": 1729360655
+        },
+        {
+          "distance": 0.23350822925567627,
+          "id": 1729361283
+        },
+        {
+          "distance": 0.2363642454147339,
+          "id": 1729362175
+        },
+        {
+          "distance": 0.24142664670944214,
+          "id": 1729362175
+        },
+        {
+          "distance": 0.2434656023979187,
+          "id": 1729362401
+        },
+        {
+          "distance": 0.24361073970794678,
+          "id": 1729355937
+        },
+        {
+          "distance": 0.2468065619468689,
+          "id": 1729355059
+        },
+        {
+          "distance": 0.24892479181289673,
+          "id": 1729362401
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729355739,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777627,
     "wof:name": "California craft makers were producing modern, regionally unique items by the 1930s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

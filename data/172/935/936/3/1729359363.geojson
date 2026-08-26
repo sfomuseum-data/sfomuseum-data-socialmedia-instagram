@@ -25,6 +25,50 @@
       "taken": 1499009100,
       "taken_at": "Jul 02, 2017 3:25 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11568015813827515,
+          "id": 1729356549
+        },
+        {
+          "distance": 0.12212425470352173,
+          "id": 1729356811
+        },
+        {
+          "distance": 0.12531089782714844,
+          "id": 1729356547
+        },
+        {
+          "distance": 0.16067880392074585,
+          "id": 1729356811
+        },
+        {
+          "distance": 0.1633966565132141,
+          "id": 1729356819
+        },
+        {
+          "distance": 0.17258387804031372,
+          "id": 1729356553
+        },
+        {
+          "distance": 0.17402172088623047,
+          "id": 1729355379
+        },
+        {
+          "distance": 0.17832952737808228,
+          "id": 1729356577
+        },
+        {
+          "distance": 0.18100506067276,
+          "id": 1729356805
+        },
+        {
+          "distance": 0.18245071172714233,
+          "id": 1729356557
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359363,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Crashing waves, snow-capped peaks, and other familiar nature-themed photographs overwhelm the frame in Anastasia Samoylova’s series, \"Landscape Sublime\"...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

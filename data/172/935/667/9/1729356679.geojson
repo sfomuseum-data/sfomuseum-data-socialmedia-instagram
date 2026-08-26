@@ -32,6 +32,50 @@
       "taken": 1554832020,
       "taken_at": "Apr 09, 2019 5:47 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16087192296981812,
+          "id": 1729356287
+        },
+        {
+          "distance": 0.16105300188064575,
+          "id": 1729356295
+        },
+        {
+          "distance": 0.1647436022758484,
+          "id": 1729356297
+        },
+        {
+          "distance": 0.171120285987854,
+          "id": 1729356295
+        },
+        {
+          "distance": 0.19097226858139038,
+          "id": 1729355865
+        },
+        {
+          "distance": 0.1923825740814209,
+          "id": 1729356261
+        },
+        {
+          "distance": 0.19409960508346558,
+          "id": 1729356297
+        },
+        {
+          "distance": 0.19939136505126953,
+          "id": 1729356287
+        },
+        {
+          "distance": 0.20146846771240234,
+          "id": 1729355917
+        },
+        {
+          "distance": 0.20903420448303223,
+          "id": 1729356197
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729356679,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "The only kind of bugs we want to see in a museum are those that are going on display!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

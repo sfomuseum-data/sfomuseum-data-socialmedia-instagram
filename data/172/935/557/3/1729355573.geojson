@@ -36,6 +36,50 @@
       "taken": 1581335400,
       "taken_at": "Feb 10, 2020 11:50 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.01550203561782837,
+          "id": 1729355441
+        },
+        {
+          "distance": 0.11350524425506592,
+          "id": 1729355441
+        },
+        {
+          "distance": 0.19579046964645386,
+          "id": 1729355815
+        },
+        {
+          "distance": 0.20698583126068115,
+          "id": 1947424837
+        },
+        {
+          "distance": 0.20698583126068115,
+          "id": 1947424845
+        },
+        {
+          "distance": 0.2136351466178894,
+          "id": 1729355755
+        },
+        {
+          "distance": 0.21478897333145142,
+          "id": 1880151191
+        },
+        {
+          "distance": 0.22163063287734985,
+          "id": 1763558827
+        },
+        {
+          "distance": 0.2247103452682495,
+          "id": 1729357069
+        },
+        {
+          "distance": 0.2269279956817627,
+          "id": 1947425009
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729355573,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777626,
     "wof:name": "While the world watched in amazement as Apollo astronauts took their first steps on the moon, the revolutionary Boeing 747 jumbojet was on the eve of its introduction...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -39,6 +39,50 @@
       "taken": 1513002720,
       "taken_at": "Dec 11, 2017 2:32 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07289636135101318,
+          "id": 1729356407
+        },
+        {
+          "distance": 0.13106060028076172,
+          "id": 1729356407
+        },
+        {
+          "distance": 0.1531745195388794,
+          "id": 1763558705
+        },
+        {
+          "distance": 0.16377991437911987,
+          "id": 1729358929
+        },
+        {
+          "distance": 0.17212826013565063,
+          "id": 1729357661
+        },
+        {
+          "distance": 0.17283904552459717,
+          "id": 1729357017
+        },
+        {
+          "distance": 0.1916654109954834,
+          "id": 1729358929
+        },
+        {
+          "distance": 0.19173628091812134,
+          "id": 1763558705
+        },
+        {
+          "distance": 0.2046247124671936,
+          "id": 1729359893
+        },
+        {
+          "distance": 0.208221435546875,
+          "id": 1729357017
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729358833,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "In the early 1970s, United Airlines commissioned aviation artist Nixon Galloway of Manhattan Beach, California, to create a series of watercolor paintings depicting each aircraft flown by the airline and its subsidiaries from the beginning of the company’s history...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

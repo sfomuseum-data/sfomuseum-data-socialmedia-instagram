@@ -25,6 +25,50 @@
       "taken": 1368521460,
       "taken_at": "May 14, 2013 8:51 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3550525903701782,
+          "id": 1729359425
+        },
+        {
+          "distance": 0.37175071239471436,
+          "id": 1880150891
+        },
+        {
+          "distance": 0.3748254179954529,
+          "id": 1880151091
+        },
+        {
+          "distance": 0.38348931074142456,
+          "id": 1729359363
+        },
+        {
+          "distance": 0.38415729999542236,
+          "id": 1729361401
+        },
+        {
+          "distance": 0.3878857493400574,
+          "id": 1729356549
+        },
+        {
+          "distance": 0.3895127773284912,
+          "id": 1729359363
+        },
+        {
+          "distance": 0.39021843671798706,
+          "id": 1729360715
+        },
+        {
+          "distance": 0.3911476731300354,
+          "id": 1729361401
+        },
+        {
+          "distance": 0.39266037940979004,
+          "id": 1729362959
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362687,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "Pick up a fresh copy of the Recology brochure if your flying through T3...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

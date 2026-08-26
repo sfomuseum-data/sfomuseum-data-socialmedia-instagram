@@ -30,6 +30,50 @@
       "taken": 1499683200,
       "taken_at": "Jul 10, 2017 10:40 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17968815565109253,
+          "id": 1729360671
+        },
+        {
+          "distance": 0.1832578182220459,
+          "id": 1729360671
+        },
+        {
+          "distance": 0.19769179821014404,
+          "id": 1729358293
+        },
+        {
+          "distance": 0.21793419122695923,
+          "id": 1763558845
+        },
+        {
+          "distance": 0.21831125020980835,
+          "id": 1880151013
+        },
+        {
+          "distance": 0.22230088710784912,
+          "id": 1729360397
+        },
+        {
+          "distance": 0.22465503215789795,
+          "id": 1729358293
+        },
+        {
+          "distance": 0.22647422552108765,
+          "id": 1729360365
+        },
+        {
+          "distance": 0.226629376411438,
+          "id": 1729357345
+        },
+        {
+          "distance": 0.2297593355178833,
+          "id": 1729359201
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729359339,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Would you have wanted to be a Pan American World Airways flight attendant in the 1970s?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1674473040,
       "taken_at": "Jan 23, 2023 11:24 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1375420093536377,
+          "id": 1729361387
+        },
+        {
+          "distance": 0.15106642246246338,
+          "id": 1729361337
+        },
+        {
+          "distance": 0.19383114576339722,
+          "id": 1880151721
+        },
+        {
+          "distance": 0.20245903730392456,
+          "id": 1880151721
+        },
+        {
+          "distance": 0.21363228559494019,
+          "id": 1729361869
+        },
+        {
+          "distance": 0.22202670574188232,
+          "id": 1729361337
+        },
+        {
+          "distance": 0.22353380918502808,
+          "id": 1880151611
+        },
+        {
+          "distance": 0.2344648241996765,
+          "id": 1729361387
+        },
+        {
+          "distance": 0.23476946353912354,
+          "id": 1729361271
+        },
+        {
+          "distance": 0.2363092303276062,
+          "id": 1729361271
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1880151223,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Designed by Louis Blériot and Raymond Saulnier, the Blériot XI monoplane took off on its maiden flight #onthisday in 1909...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

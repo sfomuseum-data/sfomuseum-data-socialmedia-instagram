@@ -29,6 +29,50 @@
       "taken": 1669632060,
       "taken_at": "Nov 28, 2022 10:41 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1255878210067749,
+          "id": 1947424879
+        },
+        {
+          "distance": 0.14115482568740845,
+          "id": 1729355059
+        },
+        {
+          "distance": 0.14413982629776,
+          "id": 1729360823
+        },
+        {
+          "distance": 0.15421730279922485,
+          "id": 1729362675
+        },
+        {
+          "distance": 0.1586148738861084,
+          "id": 1947425291
+        },
+        {
+          "distance": 0.16440677642822266,
+          "id": 1880151269
+        },
+        {
+          "distance": 0.16735607385635376,
+          "id": 1729360095
+        },
+        {
+          "distance": 0.17802435159683228,
+          "id": 1729359343
+        },
+        {
+          "distance": 0.17902398109436035,
+          "id": 1947424879
+        },
+        {
+          "distance": 0.1815204620361328,
+          "id": 1729355059
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880151305,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Following the peak of their popularity in the West during the 1880s, Japanese designs continued to provide inspiration to the Art Nouveau movement at the turn of the twentieth century in Europe and the United States...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

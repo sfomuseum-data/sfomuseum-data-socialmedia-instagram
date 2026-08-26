@@ -28,6 +28,50 @@
       "taken": 1728488760,
       "taken_at": "Oct 09, 2024 3:46 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.00002193450927734375,
+          "id": 1947424845
+        },
+        {
+          "distance": 0.09314286708831787,
+          "id": 1947424845
+        },
+        {
+          "distance": 0.1319332718849182,
+          "id": 1947425027
+        },
+        {
+          "distance": 0.1319332718849182,
+          "id": 1947425009
+        },
+        {
+          "distance": 0.16548192501068115,
+          "id": 1947425017
+        },
+        {
+          "distance": 0.1655285358428955,
+          "id": 1947424943
+        },
+        {
+          "distance": 0.1690616011619568,
+          "id": 1947424943
+        },
+        {
+          "distance": 0.1751108169555664,
+          "id": 1947425009
+        },
+        {
+          "distance": 0.1751108169555664,
+          "id": 1947425027
+        },
+        {
+          "distance": 0.18718993663787842,
+          "id": 1947425017
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1947424837,
-    "wof:lastmodified": 1733175318,
+    "wof:lastmodified": 1787777664,
     "wof:name": "After World War II, the domestic carrier Transcontinental \u0026 Western Air (TWA) added many new international routes to Europe and beyond and changed its name to Trans World Airlines...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -70,5 +114,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -29,6 +29,50 @@
       "taken": 1656505740,
       "taken_at": "Jun 29, 2022 12:29 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.004547297954559326,
+          "id": 1880151685
+        },
+        {
+          "distance": 0.03088366985321045,
+          "id": 1880151643
+        },
+        {
+          "distance": 0.08500581979751587,
+          "id": 1880151685
+        },
+        {
+          "distance": 0.0896834135055542,
+          "id": 1880151521
+        },
+        {
+          "distance": 0.08980804681777954,
+          "id": 1880151631
+        },
+        {
+          "distance": 0.09030741453170776,
+          "id": 1880151049
+        },
+        {
+          "distance": 0.10061544179916382,
+          "id": 1880151643
+        },
+        {
+          "distance": 0.10165905952453613,
+          "id": 1947425187
+        },
+        {
+          "distance": 0.12042337656021118,
+          "id": 1880151175
+        },
+        {
+          "distance": 0.12074333429336548,
+          "id": 1880151049
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880151613,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "In the wake of World War II, Australian airline companies embarked on the task establishing an air route across the Pacific Ocean to the United States...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

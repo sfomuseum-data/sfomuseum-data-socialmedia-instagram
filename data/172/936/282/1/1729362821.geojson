@@ -25,6 +25,50 @@
       "taken": 1357742100,
       "taken_at": "Jan 09, 2013 2:35 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3487480878829956,
+          "id": 1729362439
+        },
+        {
+          "distance": 0.3828052282333374,
+          "id": 1729362585
+        },
+        {
+          "distance": 0.3829094171524048,
+          "id": 1729362923
+        },
+        {
+          "distance": 0.39142340421676636,
+          "id": 1729362587
+        },
+        {
+          "distance": 0.41471362113952637,
+          "id": 1729362435
+        },
+        {
+          "distance": 0.41789186000823975,
+          "id": 1729362923
+        },
+        {
+          "distance": 0.420493483543396,
+          "id": 1729362777
+        },
+        {
+          "distance": 0.42346251010894775,
+          "id": 1729361861
+        },
+        {
+          "distance": 0.4269168972969055,
+          "id": 1729362331
+        },
+        {
+          "distance": 0.4291161894798279,
+          "id": 1729362469
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362821,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777648,
     "wof:name": "Farewell, Sleeping Beauties, and hello, Souvenirs!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

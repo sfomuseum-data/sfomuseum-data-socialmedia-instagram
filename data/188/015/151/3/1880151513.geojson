@@ -33,6 +33,50 @@
       "taken": 1660665840,
       "taken_at": "Aug 16, 2022 4:04 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06692647933959961,
+          "id": 1880151531
+        },
+        {
+          "distance": 0.12249863147735596,
+          "id": 1880151531
+        },
+        {
+          "distance": 0.15495330095291138,
+          "id": 1880151575
+        },
+        {
+          "distance": 0.15495330095291138,
+          "id": 1880151563
+        },
+        {
+          "distance": 0.18536192178726196,
+          "id": 1880151563
+        },
+        {
+          "distance": 0.18536192178726196,
+          "id": 1880151575
+        },
+        {
+          "distance": 0.191817045211792,
+          "id": 1880151519
+        },
+        {
+          "distance": 0.19658386707305908,
+          "id": 1880151519
+        },
+        {
+          "distance": 0.21757781505584717,
+          "id": 1729359547
+        },
+        {
+          "distance": 0.22519230842590332,
+          "id": 1763559641
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1880151513,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Massachusetts native Ruth Law (1887–1970) was inspired to fly by her brother Rodman Law (1885–1919), a parachutist and stuntman...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

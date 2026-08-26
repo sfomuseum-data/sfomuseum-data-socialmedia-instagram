@@ -25,6 +25,50 @@
       "taken": 1370953800,
       "taken_at": "Jun 11, 2013 12:30 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.211236834526062,
+          "id": 1729362459
+        },
+        {
+          "distance": 0.2152184247970581,
+          "id": 1729362459
+        },
+        {
+          "distance": 0.22580450773239136,
+          "id": 1729362565
+        },
+        {
+          "distance": 0.226340651512146,
+          "id": 1729362511
+        },
+        {
+          "distance": 0.24525946378707886,
+          "id": 1729362565
+        },
+        {
+          "distance": 0.2466300129890442,
+          "id": 1729362557
+        },
+        {
+          "distance": 0.249813973903656,
+          "id": 1729362557
+        },
+        {
+          "distance": 0.271884024143219,
+          "id": 1729362741
+        },
+        {
+          "distance": 0.2743244767189026,
+          "id": 1729362401
+        },
+        {
+          "distance": 0.28465360403060913,
+          "id": 1729362787
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362653,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "Oversize bowls, such as this one from the 1840s and made of a single piece of wood, were used by Shaker sisters in preparing meals for communal families of up to 100 members...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

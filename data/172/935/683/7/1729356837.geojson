@@ -36,6 +36,50 @@
       "taken": 1552323000,
       "taken_at": "Mar 11, 2019, 4:50 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.023369789123535156,
+          "id": 1729356839
+        },
+        {
+          "distance": 0.10312157869338989,
+          "id": 1729356839
+        },
+        {
+          "distance": 0.20899420976638794,
+          "id": 1729356833
+        },
+        {
+          "distance": 0.23723715543746948,
+          "id": 1729356833
+        },
+        {
+          "distance": 0.24621784687042236,
+          "id": 1729358345
+        },
+        {
+          "distance": 0.24813169240951538,
+          "id": 1729358223
+        },
+        {
+          "distance": 0.2523476481437683,
+          "id": 1729360355
+        },
+        {
+          "distance": 0.2598450183868408,
+          "id": 1729357985
+        },
+        {
+          "distance": 0.2598450183868408,
+          "id": 1729357987
+        },
+        {
+          "distance": 0.2738277316093445,
+          "id": 1729358269
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729356837,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Television quickly surpassed radio as the most popular media in the United States during the 1950s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

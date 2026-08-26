@@ -27,6 +27,50 @@
       "taken": 1463420040,
       "taken_at": "May 16, 2016 5:34 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1735469102859497,
+          "id": 1729360725
+        },
+        {
+          "distance": 0.19396501779556274,
+          "id": 1729360725
+        },
+        {
+          "distance": 0.21180033683776855,
+          "id": 1729360871
+        },
+        {
+          "distance": 0.22336429357528687,
+          "id": 1729360871
+        },
+        {
+          "distance": 0.2235361933708191,
+          "id": 1729359381
+        },
+        {
+          "distance": 0.22690117359161377,
+          "id": 1729362283
+        },
+        {
+          "distance": 0.23934626579284668,
+          "id": 1880151605
+        },
+        {
+          "distance": 0.2434353232383728,
+          "id": 1880151537
+        },
+        {
+          "distance": 0.245158851146698,
+          "id": 1729359037
+        },
+        {
+          "distance": 0.2464444637298584,
+          "id": 1729359381
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1729360717,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "In New York, the most prominent Art Nouveau artist was Louis Comfort Tiffany...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -73,5 +117,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

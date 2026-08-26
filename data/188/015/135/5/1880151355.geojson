@@ -32,6 +32,50 @@
       "taken": 1666865460,
       "taken_at": "Oct 27, 2022 10:11 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13088929653167725,
+          "id": 1947425061
+        },
+        {
+          "distance": 0.1678391695022583,
+          "id": 1729361031
+        },
+        {
+          "distance": 0.18822723627090454,
+          "id": 1947425061
+        },
+        {
+          "distance": 0.2104284167289734,
+          "id": 1729355195
+        },
+        {
+          "distance": 0.21766448020935059,
+          "id": 1763559105
+        },
+        {
+          "distance": 0.22017967700958252,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.24613308906555176,
+          "id": 1729357999
+        },
+        {
+          "distance": 0.24718862771987915,
+          "id": 1763559469
+        },
+        {
+          "distance": 0.24793189764022827,
+          "id": 1729361031
+        },
+        {
+          "distance": 0.2513400912284851,
+          "id": 1763559599
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1880151355,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Happy Birthday to Mark Adams, who was born #onthisday in 1925 in Fort Plain, New York...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

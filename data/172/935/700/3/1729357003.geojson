@@ -37,6 +37,50 @@
       "taken": 1549155060,
       "taken_at": "Feb 3, 2019, 12:51 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14812451601028442,
+          "id": 1729357005
+        },
+        {
+          "distance": 0.2267301082611084,
+          "id": 1729362179
+        },
+        {
+          "distance": 0.2344200611114502,
+          "id": 1729357005
+        },
+        {
+          "distance": 0.2603025436401367,
+          "id": 1729357027
+        },
+        {
+          "distance": 0.2804853916168213,
+          "id": 1880151305
+        },
+        {
+          "distance": 0.2809872627258301,
+          "id": 1729356889
+        },
+        {
+          "distance": 0.2822774052619934,
+          "id": 1729355421
+        },
+        {
+          "distance": 0.28627127408981323,
+          "id": 1729356535
+        },
+        {
+          "distance": 0.28888148069381714,
+          "id": 1729357559
+        },
+        {
+          "distance": 0.2895864248275757,
+          "id": 1729357559
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729357003,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Fighting like cats and dogs?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

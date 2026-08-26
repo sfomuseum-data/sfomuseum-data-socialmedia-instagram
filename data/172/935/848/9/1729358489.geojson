@@ -33,6 +33,50 @@
       "taken": 1520337060,
       "taken_at": "Mar 06, 2018 11:51 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09142374992370605,
+          "id": 1729361811
+        },
+        {
+          "distance": 0.15163463354110718,
+          "id": 1729361811
+        },
+        {
+          "distance": 0.19327455759048462,
+          "id": 1729360355
+        },
+        {
+          "distance": 0.20027703046798706,
+          "id": 1729357987
+        },
+        {
+          "distance": 0.20027703046798706,
+          "id": 1729357985
+        },
+        {
+          "distance": 0.21237915754318237,
+          "id": 1729357825
+        },
+        {
+          "distance": 0.21514636278152466,
+          "id": 1729358223
+        },
+        {
+          "distance": 0.22743380069732666,
+          "id": 1729357985
+        },
+        {
+          "distance": 0.22743380069732666,
+          "id": 1729357987
+        },
+        {
+          "distance": 0.23270148038864136,
+          "id": 1729360355
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729358489,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Under the guidance of designer Paul M. Fuller (1897-1951), Wurlitzer jukeboxes showcased light, color, and form in striking, Art Deco designs...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

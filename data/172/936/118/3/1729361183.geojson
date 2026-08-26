@@ -25,6 +25,50 @@
       "taken": 1452425940,
       "taken_at": "Jan 10, 2016 11:39 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2467901110649109,
+          "id": 1729357363
+        },
+        {
+          "distance": 0.2537515163421631,
+          "id": 1729357357
+        },
+        {
+          "distance": 0.2614856958389282,
+          "id": 1729357381
+        },
+        {
+          "distance": 0.2734503746032715,
+          "id": 1729358139
+        },
+        {
+          "distance": 0.27522188425064087,
+          "id": 1729358133
+        },
+        {
+          "distance": 0.2771362066268921,
+          "id": 1729359053
+        },
+        {
+          "distance": 0.28340721130371094,
+          "id": 1729361309
+        },
+        {
+          "distance": 0.28495532274246216,
+          "id": 1729358139
+        },
+        {
+          "distance": 0.28931206464767456,
+          "id": 1729359053
+        },
+        {
+          "distance": 0.30540478229522705,
+          "id": 1729360747
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361183,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "Our collection includes hundreds of airline insignias...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

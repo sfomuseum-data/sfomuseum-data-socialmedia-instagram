@@ -53,6 +53,50 @@
       "taken": 1507224180,
       "taken_at": "Oct 05, 2017 5:23 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.05479329824447632,
+          "id": 1729358517
+        },
+        {
+          "distance": 0.08640861511230469,
+          "id": 1729358517
+        },
+        {
+          "distance": 0.12407004833221436,
+          "id": 1729359061
+        },
+        {
+          "distance": 0.12459689378738403,
+          "id": 1729358495
+        },
+        {
+          "distance": 0.1457984447479248,
+          "id": 1729358495
+        },
+        {
+          "distance": 0.14712393283843994,
+          "id": 1729359061
+        },
+        {
+          "distance": 0.2076646089553833,
+          "id": 1729358509
+        },
+        {
+          "distance": 0.20838183164596558,
+          "id": 1729359203
+        },
+        {
+          "distance": 0.21241909265518188,
+          "id": 1729358621
+        },
+        {
+          "distance": 0.22071903944015503,
+          "id": 1729358429
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -82,7 +126,7 @@
       }
     ],
     "wof:id": 1729359023,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Located north of San Cristóbal de Las Casas in Los Altos de Chiapas, San Andrés Larráinzar is home to a vibrant community of weavers...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -99,5 +143,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

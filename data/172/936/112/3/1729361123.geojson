@@ -29,6 +29,50 @@
       "taken": 1453716720,
       "taken_at": "Jan 25, 2016 10:12 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1497144103050232,
+          "id": 1729361399
+        },
+        {
+          "distance": 0.15049844980239868,
+          "id": 1729361225
+        },
+        {
+          "distance": 0.1750251054763794,
+          "id": 1729361375
+        },
+        {
+          "distance": 0.19149523973464966,
+          "id": 1729361181
+        },
+        {
+          "distance": 0.19424158334732056,
+          "id": 1729361247
+        },
+        {
+          "distance": 0.20190966129302979,
+          "id": 1729361375
+        },
+        {
+          "distance": 0.21097254753112793,
+          "id": 1729361443
+        },
+        {
+          "distance": 0.21275842189788818,
+          "id": 1729361225
+        },
+        {
+          "distance": 0.2203250527381897,
+          "id": 1729361443
+        },
+        {
+          "distance": 0.2257867455482483,
+          "id": 1729361181
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729361123,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777644,
     "wof:name": "@49ers Coach Bill Walsh selected six defensive players in the first six rounds of the 1981 draft, including future Pro Bowl defensive backs Ronnie Lott, Carlton Williamson and Eric Wright...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

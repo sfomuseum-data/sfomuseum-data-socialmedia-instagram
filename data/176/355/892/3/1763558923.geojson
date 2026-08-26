@@ -25,6 +25,50 @@
       "taken": 1609932420,
       "taken_at": "Jan 06, 2021 11:27 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14195221662521362,
+          "id": 1729361319
+        },
+        {
+          "distance": 0.14916342496871948,
+          "id": 1729358401
+        },
+        {
+          "distance": 0.17331641912460327,
+          "id": 1729357217
+        },
+        {
+          "distance": 0.17597776651382446,
+          "id": 1729358401
+        },
+        {
+          "distance": 0.18262892961502075,
+          "id": 1729358813
+        },
+        {
+          "distance": 0.19178402423858643,
+          "id": 1763559683
+        },
+        {
+          "distance": 0.19581007957458496,
+          "id": 1729361319
+        },
+        {
+          "distance": 0.20521754026412964,
+          "id": 1880151107
+        },
+        {
+          "distance": 0.2152193784713745,
+          "id": 1729358813
+        },
+        {
+          "distance": 0.21629714965820312,
+          "id": 1729357217
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1763558923,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "In 2021, SFO Museum is starting a new social media segment highlighting a plane of the week...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

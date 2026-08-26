@@ -36,6 +36,50 @@
       "taken": 1500316560,
       "taken_at": "Jul 17, 2017 6:36 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.37002676725387573,
+          "id": 1729359381
+        },
+        {
+          "distance": 0.3773807883262634,
+          "id": 1729357577
+        },
+        {
+          "distance": 0.3803257942199707,
+          "id": 1729356333
+        },
+        {
+          "distance": 0.38414686918258667,
+          "id": 1729356251
+        },
+        {
+          "distance": 0.38987839221954346,
+          "id": 1729357639
+        },
+        {
+          "distance": 0.3935198187828064,
+          "id": 1729356333
+        },
+        {
+          "distance": 0.3965952396392822,
+          "id": 1729358159
+        },
+        {
+          "distance": 0.40031832456588745,
+          "id": 1729356377
+        },
+        {
+          "distance": 0.40180909633636475,
+          "id": 1729356167
+        },
+        {
+          "distance": 0.40649956464767456,
+          "id": 1729362347
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729359303,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Entrepreneur Elbert Green Hubbard (1856–1915), founded Roycroft in East Aurora near Buffalo, New York, in 1894...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

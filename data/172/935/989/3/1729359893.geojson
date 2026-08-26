@@ -29,6 +29,50 @@
       "taken": 1485082920,
       "taken_at": "Jan 22, 2017 11:02 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1517888307571411,
+          "id": 1729360949
+        },
+        {
+          "distance": 0.18146783113479614,
+          "id": 1763558705
+        },
+        {
+          "distance": 0.19756633043289185,
+          "id": 1729358929
+        },
+        {
+          "distance": 0.20266324281692505,
+          "id": 1729360949
+        },
+        {
+          "distance": 0.2043670415878296,
+          "id": 1729358833
+        },
+        {
+          "distance": 0.21513903141021729,
+          "id": 1729358929
+        },
+        {
+          "distance": 0.21631968021392822,
+          "id": 1763558705
+        },
+        {
+          "distance": 0.21846020221710205,
+          "id": 1729356875
+        },
+        {
+          "distance": 0.22202038764953613,
+          "id": 1729358851
+        },
+        {
+          "distance": 0.22851234674453735,
+          "id": 1729358663
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729359893,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "#Onthisday in 1970, the first Boeing 747 commercial service flew from New York to London...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

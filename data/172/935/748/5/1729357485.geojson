@@ -37,6 +37,50 @@
       "taken": 1540649940,
       "taken_at": "Oct 27, 2018, 2:19 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20053631067276,
+          "id": 1729357519
+        },
+        {
+          "distance": 0.22328674793243408,
+          "id": 1729357467
+        },
+        {
+          "distance": 0.224933922290802,
+          "id": 1729356889
+        },
+        {
+          "distance": 0.23029744625091553,
+          "id": 1729356889
+        },
+        {
+          "distance": 0.23072707653045654,
+          "id": 1729357467
+        },
+        {
+          "distance": 0.23725342750549316,
+          "id": 1729357583
+        },
+        {
+          "distance": 0.24619734287261963,
+          "id": 1729357583
+        },
+        {
+          "distance": 0.24733930826187134,
+          "id": 1729357499
+        },
+        {
+          "distance": 0.24900978803634644,
+          "id": 1729356661
+        },
+        {
+          "distance": 0.2550565004348755,
+          "id": 1763559355
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729357485,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777631,
     "wof:name": "\"25 Cats Name Sam and One Blue Pussy\" by Andy Warhol (1928–87) is an artistic departure from the pop-art style that made him famous...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

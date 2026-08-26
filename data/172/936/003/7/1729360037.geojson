@@ -25,6 +25,50 @@
       "taken": 1481105220,
       "taken_at": "Dec 07, 2016 10:07 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3488925099372864,
+          "id": 1729361675
+        },
+        {
+          "distance": 0.3515421152114868,
+          "id": 1729362021
+        },
+        {
+          "distance": 0.35621023178100586,
+          "id": 1729361407
+        },
+        {
+          "distance": 0.36005377769470215,
+          "id": 1729361415
+        },
+        {
+          "distance": 0.36175286769866943,
+          "id": 1729361463
+        },
+        {
+          "distance": 0.3618653416633606,
+          "id": 1729361483
+        },
+        {
+          "distance": 0.36559587717056274,
+          "id": 1729356835
+        },
+        {
+          "distance": 0.3726921081542969,
+          "id": 1729362019
+        },
+        {
+          "distance": 0.37862807512283325,
+          "id": 1880151361
+        },
+        {
+          "distance": 0.3788573741912842,
+          "id": 1729361885
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360037,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777639,
     "wof:name": "Would you consult the Finger of Fate to foretell your future?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

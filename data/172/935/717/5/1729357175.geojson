@@ -31,6 +31,50 @@
       "taken": 1545902100,
       "taken_at": "Dec 27, 2018 9:15 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.007106125354766846,
+          "id": 1729355169
+        },
+        {
+          "distance": 0.1059272289276123,
+          "id": 1729355169
+        },
+        {
+          "distance": 0.2134285569190979,
+          "id": 1763559327
+        },
+        {
+          "distance": 0.21614962816238403,
+          "id": 1763559487
+        },
+        {
+          "distance": 0.21716833114624023,
+          "id": 1729360631
+        },
+        {
+          "distance": 0.22797608375549316,
+          "id": 1947425117
+        },
+        {
+          "distance": 0.24851244688034058,
+          "id": 1729356319
+        },
+        {
+          "distance": 0.2497168779373169,
+          "id": 1729356319
+        },
+        {
+          "distance": 0.2532336711883545,
+          "id": 1947425117
+        },
+        {
+          "distance": 0.263297975063324,
+          "id": 1729359851
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729357175,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777630,
     "wof:name": "Cable cars are one of San Francisco's best known landmarks and have been featured on a wide variety of promotional items, especially those related to travel...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

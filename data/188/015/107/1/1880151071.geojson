@@ -29,6 +29,50 @@
       "taken": 1678185420,
       "taken_at": "Mar 07, 2023 10:37 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15921032428741455,
+          "id": 1729358717
+        },
+        {
+          "distance": 0.18415844440460205,
+          "id": 1729358717
+        },
+        {
+          "distance": 0.2213602066040039,
+          "id": 1729361153
+        },
+        {
+          "distance": 0.23067206144332886,
+          "id": 1729361413
+        },
+        {
+          "distance": 0.25443315505981445,
+          "id": 1729361171
+        },
+        {
+          "distance": 0.2626316547393799,
+          "id": 1729361067
+        },
+        {
+          "distance": 0.26527392864227295,
+          "id": 1729361577
+        },
+        {
+          "distance": 0.26566553115844727,
+          "id": 1729357345
+        },
+        {
+          "distance": 0.2657344937324524,
+          "id": 1729361347
+        },
+        {
+          "distance": 0.26840466260910034,
+          "id": 1729361153
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880151071,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "#Onthisday in 1963, Pan American World Airways opened their 59-story office building in New York City...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -48,6 +48,50 @@
       "taken": 1500577380,
       "taken_at": "Jul 20, 2017 7:03 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3847067356109619,
+          "id": 1729360239
+        },
+        {
+          "distance": 0.4005385637283325,
+          "id": 1729359491
+        },
+        {
+          "distance": 0.40115875005722046,
+          "id": 1729357327
+        },
+        {
+          "distance": 0.4041399359703064,
+          "id": 1729359491
+        },
+        {
+          "distance": 0.40486907958984375,
+          "id": 1729359347
+        },
+        {
+          "distance": 0.4086276888847351,
+          "id": 1729359347
+        },
+        {
+          "distance": 0.4097479581832886,
+          "id": 1729359541
+        },
+        {
+          "distance": 0.42674827575683594,
+          "id": 1729359915
+        },
+        {
+          "distance": 0.42836129665374756,
+          "id": 1729357327
+        },
+        {
+          "distance": 0.428547739982605,
+          "id": 1729355439
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -77,7 +121,7 @@
       }
     ],
     "wof:id": 1729359295,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "For centuries the public bath or hammam served an important role in Middle Eastern culture...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -94,5 +138,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

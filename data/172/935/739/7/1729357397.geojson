@@ -36,6 +36,50 @@
       "taken": 1541761500,
       "taken_at": "Nov 9, 2018, 11:05 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1277329921722412,
+          "id": 1763559491
+        },
+        {
+          "distance": 0.15015524625778198,
+          "id": 1763559491
+        },
+        {
+          "distance": 0.170629620552063,
+          "id": 1729360519
+        },
+        {
+          "distance": 0.17420774698257446,
+          "id": 1729357403
+        },
+        {
+          "distance": 0.18667393922805786,
+          "id": 1880151177
+        },
+        {
+          "distance": 0.18947196006774902,
+          "id": 1763559537
+        },
+        {
+          "distance": 0.19599610567092896,
+          "id": 1729361467
+        },
+        {
+          "distance": 0.19638997316360474,
+          "id": 1729360257
+        },
+        {
+          "distance": 0.19869470596313477,
+          "id": 1729360519
+        },
+        {
+          "distance": 0.2103811502456665,
+          "id": 1880151465
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729357397,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777631,
     "wof:name": "Hollywood fashion designer Howard Greer (1896–1974) created this fitted suit in light blue wool gabardine for TWA (Trans World Airlines) in 1944...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

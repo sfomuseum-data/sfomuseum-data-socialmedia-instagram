@@ -43,6 +43,50 @@
       "taken": 1525772520,
       "taken_at": "May 08, 2018 9:42 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.05037558078765869,
+          "id": 1880151397
+        },
+        {
+          "distance": 0.088478684425354,
+          "id": 1880151397
+        },
+        {
+          "distance": 0.33953529596328735,
+          "id": 1729357199
+        },
+        {
+          "distance": 0.36575835943222046,
+          "id": 1729358399
+        },
+        {
+          "distance": 0.3794499635696411,
+          "id": 1729358277
+        },
+        {
+          "distance": 0.3824997544288635,
+          "id": 1729358149
+        },
+        {
+          "distance": 0.38299816846847534,
+          "id": 1729358485
+        },
+        {
+          "distance": 0.3898894786834717,
+          "id": 1729361149
+        },
+        {
+          "distance": 0.3921321630477905,
+          "id": 1729358149
+        },
+        {
+          "distance": 0.39220333099365234,
+          "id": 1729358485
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -72,7 +116,7 @@
       }
     ],
     "wof:id": 1729358261,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Since the early 1950s, KLM has offered first- and business-class passengers promotional giveaway Delftware gin bottles in the shape of traditional Dutch houses...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -89,5 +133,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

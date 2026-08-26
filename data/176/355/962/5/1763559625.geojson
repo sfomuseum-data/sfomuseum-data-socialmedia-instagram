@@ -31,6 +31,50 @@
       "taken": 1643994660,
       "taken_at": "Feb 04, 2022 5:11 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0090101957321167,
+          "id": 1729355603
+        },
+        {
+          "distance": 0.10369467735290527,
+          "id": 1729355603
+        },
+        {
+          "distance": 0.15163511037826538,
+          "id": 1729359889
+        },
+        {
+          "distance": 0.15169841051101685,
+          "id": 1729355599
+        },
+        {
+          "distance": 0.1576526165008545,
+          "id": 1729355599
+        },
+        {
+          "distance": 0.1726110577583313,
+          "id": 1729359889
+        },
+        {
+          "distance": 0.21224117279052734,
+          "id": 1729357999
+        },
+        {
+          "distance": 0.2340525984764099,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.23473495244979858,
+          "id": 1763559685
+        },
+        {
+          "distance": 0.23899179697036743,
+          "id": 1763558931
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559625,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Happy Black History Month!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

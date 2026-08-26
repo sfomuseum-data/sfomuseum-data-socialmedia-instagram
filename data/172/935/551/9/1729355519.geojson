@@ -30,6 +30,50 @@
       "taken": 1582908900,
       "taken_at": "Feb 28, 2020, 4:55 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.27795761823654175,
+          "id": 1729356675
+        },
+        {
+          "distance": 0.2789103388786316,
+          "id": 1729361847
+        },
+        {
+          "distance": 0.28060001134872437,
+          "id": 1729358115
+        },
+        {
+          "distance": 0.2831047773361206,
+          "id": 1729359321
+        },
+        {
+          "distance": 0.2860318422317505,
+          "id": 1729358249
+        },
+        {
+          "distance": 0.2967182397842407,
+          "id": 1729357951
+        },
+        {
+          "distance": 0.2970135807991028,
+          "id": 1763559535
+        },
+        {
+          "distance": 0.2977818250656128,
+          "id": 1729358989
+        },
+        {
+          "distance": 0.2979760766029358,
+          "id": 1729361965
+        },
+        {
+          "distance": 0.2993430495262146,
+          "id": 1729361847
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729355519,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777626,
     "wof:name": "What was it like navigating open waters in an aircraft during the 1930s?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1442230680,
       "taken_at": "Sep 14, 2015 11:38 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2892994284629822,
+          "id": 1729361905
+        },
+        {
+          "distance": 0.29620516300201416,
+          "id": 1729361579
+        },
+        {
+          "distance": 0.31047874689102173,
+          "id": 1729361483
+        },
+        {
+          "distance": 0.3177756667137146,
+          "id": 1729361407
+        },
+        {
+          "distance": 0.3204258680343628,
+          "id": 1729361515
+        },
+        {
+          "distance": 0.32807445526123047,
+          "id": 1729361579
+        },
+        {
+          "distance": 0.3359972834587097,
+          "id": 1729361757
+        },
+        {
+          "distance": 0.33669036626815796,
+          "id": 1729361483
+        },
+        {
+          "distance": 0.3516315221786499,
+          "id": 1729361737
+        },
+        {
+          "distance": 0.35295552015304565,
+          "id": 1729361725
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361537,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "Universal released the Creature from the Black Lagoon in 1954, and quickly followed it up with two sequels...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

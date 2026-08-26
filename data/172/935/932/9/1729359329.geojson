@@ -35,6 +35,50 @@
       "taken": 1499882820,
       "taken_at": "Jul 12, 2017 6:07 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1938556432723999,
+          "id": 1729359879
+        },
+        {
+          "distance": 0.20535850524902344,
+          "id": 1729355351
+        },
+        {
+          "distance": 0.209669291973114,
+          "id": 1729359645
+        },
+        {
+          "distance": 0.21468275785446167,
+          "id": 1763559085
+        },
+        {
+          "distance": 0.21610772609710693,
+          "id": 1763559211
+        },
+        {
+          "distance": 0.2182108759880066,
+          "id": 1763559211
+        },
+        {
+          "distance": 0.22360187768936157,
+          "id": 1729355351
+        },
+        {
+          "distance": 0.2304983139038086,
+          "id": 1763559125
+        },
+        {
+          "distance": 0.23355895280838013,
+          "id": 1763558867
+        },
+        {
+          "distance": 0.23648715019226074,
+          "id": 1729356015
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729359329,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "“The interesting way to travel - Eastern Air Lines”...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

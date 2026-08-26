@@ -35,6 +35,50 @@
       "taken": 1532949600,
       "taken_at": "Jul 30, 2018 11:20 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0824088454246521,
+          "id": 1729361087
+        },
+        {
+          "distance": 0.13915783166885376,
+          "id": 1729355907
+        },
+        {
+          "distance": 0.14009851217269897,
+          "id": 1729361087
+        },
+        {
+          "distance": 0.16513365507125854,
+          "id": 1729355907
+        },
+        {
+          "distance": 0.28585487604141235,
+          "id": 1729355393
+        },
+        {
+          "distance": 0.2863929867744446,
+          "id": 1729361171
+        },
+        {
+          "distance": 0.2911437153816223,
+          "id": 1729355393
+        },
+        {
+          "distance": 0.300442099571228,
+          "id": 1729360851
+        },
+        {
+          "distance": 0.30054420232772827,
+          "id": 1729359805
+        },
+        {
+          "distance": 0.3093484044075012,
+          "id": 1729359805
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729357863,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Midway Atoll, also called Midway Island, now part of the territory called the United States Minor Outlying Islands, was utilized by Pan American Airways as an island stop on their transpacific route to Asia from the 1930s to the 1950s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

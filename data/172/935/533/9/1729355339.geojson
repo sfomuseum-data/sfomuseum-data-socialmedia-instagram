@@ -29,6 +29,50 @@
       "taken": 1586871300,
       "taken_at": "Apr 14, 2020 1:35 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.026121795177459717,
+          "id": 1729355665
+        },
+        {
+          "distance": 0.06827807426452637,
+          "id": 1729355665
+        },
+        {
+          "distance": 0.1263943314552307,
+          "id": 1763559173
+        },
+        {
+          "distance": 0.13989657163619995,
+          "id": 1763559173
+        },
+        {
+          "distance": 0.1425076723098755,
+          "id": 1729360929
+        },
+        {
+          "distance": 0.14624673128128052,
+          "id": 1729360929
+        },
+        {
+          "distance": 0.14825451374053955,
+          "id": 1729361289
+        },
+        {
+          "distance": 0.16692322492599487,
+          "id": 1729359877
+        },
+        {
+          "distance": 0.18103927373886108,
+          "id": 1729359537
+        },
+        {
+          "distance": 0.1829121708869934,
+          "id": 1729361289
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729355339,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777624,
     "wof:name": "Do you recognize the long diagonal street cutting across this photo?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

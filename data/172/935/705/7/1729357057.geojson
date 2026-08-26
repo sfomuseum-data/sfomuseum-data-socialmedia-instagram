@@ -30,6 +30,50 @@
       "taken": 1547998080,
       "taken_at": "Jan 20, 2019 3:28 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07355254888534546,
+          "id": 1729358985
+        },
+        {
+          "distance": 0.0876849889755249,
+          "id": 1729359077
+        },
+        {
+          "distance": 0.0965423583984375,
+          "id": 1729360337
+        },
+        {
+          "distance": 0.09716898202896118,
+          "id": 1729357667
+        },
+        {
+          "distance": 0.11472970247268677,
+          "id": 1729356131
+        },
+        {
+          "distance": 0.11906886100769043,
+          "id": 1880151167
+        },
+        {
+          "distance": 0.1342812180519104,
+          "id": 1729356281
+        },
+        {
+          "distance": 0.1349698305130005,
+          "id": 1729359005
+        },
+        {
+          "distance": 0.13568228483200073,
+          "id": 1729360259
+        },
+        {
+          "distance": 0.1361590027809143,
+          "id": 1729359051
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729357057,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777630,
     "wof:name": "Feeling nostalgic about SFO?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -35,6 +35,50 @@
       "taken": 1571850240,
       "taken_at": "Oct 23, 2019 5:04 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1891917586326599,
+          "id": 1763558925
+        },
+        {
+          "distance": 0.19068557024002075,
+          "id": 1729356193
+        },
+        {
+          "distance": 0.1985684633255005,
+          "id": 1880151745
+        },
+        {
+          "distance": 0.19904500246047974,
+          "id": 1729356005
+        },
+        {
+          "distance": 0.20431458950042725,
+          "id": 1729356101
+        },
+        {
+          "distance": 0.20443665981292725,
+          "id": 1763558907
+        },
+        {
+          "distance": 0.2066800594329834,
+          "id": 1763559321
+        },
+        {
+          "distance": 0.209539532661438,
+          "id": 1947425087
+        },
+        {
+          "distance": 0.21846401691436768,
+          "id": 1947425291
+        },
+        {
+          "distance": 0.21878373622894287,
+          "id": 1880151541
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729355951,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777627,
     "wof:name": "Zuber et Cie currently produces fourteen scenic wallpaper sets using original antique printing blocks...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

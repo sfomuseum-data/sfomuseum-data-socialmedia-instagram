@@ -31,6 +31,50 @@
       "taken": 1594755120,
       "taken_at": "Jul 14, 2020 7:32 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.006155610084533691,
+          "id": 1729359319
+        },
+        {
+          "distance": 0.007821619510650635,
+          "id": 1729357961
+        },
+        {
+          "distance": 0.009015917778015137,
+          "id": 1729360867
+        },
+        {
+          "distance": 0.10700869560241699,
+          "id": 1729360867
+        },
+        {
+          "distance": 0.11329764127731323,
+          "id": 1729357961
+        },
+        {
+          "distance": 0.11339515447616577,
+          "id": 1729359319
+        },
+        {
+          "distance": 0.14307963848114014,
+          "id": 1729359015
+        },
+        {
+          "distance": 0.18020617961883545,
+          "id": 1729359015
+        },
+        {
+          "distance": 0.1923666000366211,
+          "id": 1947425097
+        },
+        {
+          "distance": 0.2112957239151001,
+          "id": 1729359715
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729355197,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777619,
     "wof:name": "Happy Bastille Day!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

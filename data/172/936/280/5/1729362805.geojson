@@ -25,6 +25,50 @@
       "taken": 1360931460,
       "taken_at": "Feb 15, 2013 12:31 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.42728710174560547,
+          "id": 1729362673
+        },
+        {
+          "distance": 0.4434968829154968,
+          "id": 1729362587
+        },
+        {
+          "distance": 0.44563722610473633,
+          "id": 1729362741
+        },
+        {
+          "distance": 0.44769859313964844,
+          "id": 1729362821
+        },
+        {
+          "distance": 0.4524049758911133,
+          "id": 1729362673
+        },
+        {
+          "distance": 0.4551376700401306,
+          "id": 1729363043
+        },
+        {
+          "distance": 0.45781898498535156,
+          "id": 1729358933
+        },
+        {
+          "distance": 0.4598260521888733,
+          "id": 1729362923
+        },
+        {
+          "distance": 0.46056467294692993,
+          "id": 1729362821
+        },
+        {
+          "distance": 0.46183836460113525,
+          "id": 1729362585
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362805,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777648,
     "wof:name": "New in the Intl Terminal!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

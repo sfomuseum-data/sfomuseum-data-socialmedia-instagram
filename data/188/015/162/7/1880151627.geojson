@@ -31,6 +31,50 @@
       "taken": 1656343140,
       "taken_at": "Jun 27, 2022 3:19 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17753899097442627,
+          "id": 1763558765
+        },
+        {
+          "distance": 0.17753899097442627,
+          "id": 1729357579
+        },
+        {
+          "distance": 0.1940230131149292,
+          "id": 1880151729
+        },
+        {
+          "distance": 0.19760769605636597,
+          "id": 1880151729
+        },
+        {
+          "distance": 0.2007734179496765,
+          "id": 1729359417
+        },
+        {
+          "distance": 0.211056649684906,
+          "id": 1729357705
+        },
+        {
+          "distance": 0.21176409721374512,
+          "id": 1947425289
+        },
+        {
+          "distance": 0.21206849813461304,
+          "id": 1763559519
+        },
+        {
+          "distance": 0.21268552541732788,
+          "id": 1763558765
+        },
+        {
+          "distance": 0.21268552541732788,
+          "id": 1729357579
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151627,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "#HappyBirthday to Juan Trippe, the first President of Pan American World Airways, who was born #onthisday in 1899 in New Jersey...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

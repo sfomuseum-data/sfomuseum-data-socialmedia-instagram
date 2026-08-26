@@ -30,6 +30,50 @@
       "taken": 1564138980,
       "taken_at": "Jul 26, 2019 11:03 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.02115035057067871,
+          "id": 1729360285
+        },
+        {
+          "distance": 0.023233473300933838,
+          "id": 1729359679
+        },
+        {
+          "distance": 0.11161261796951294,
+          "id": 1729359679
+        },
+        {
+          "distance": 0.12215036153793335,
+          "id": 1729360285
+        },
+        {
+          "distance": 0.2361547350883484,
+          "id": 1729362253
+        },
+        {
+          "distance": 0.2491377592086792,
+          "id": 1729357099
+        },
+        {
+          "distance": 0.25351494550704956,
+          "id": 1729362423
+        },
+        {
+          "distance": 0.25505727529525757,
+          "id": 1729357099
+        },
+        {
+          "distance": 0.2562165856361389,
+          "id": 1729357093
+        },
+        {
+          "distance": 0.2654099464416504,
+          "id": 1729355817
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729356283,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Ruth Asawa (1926–2013) was a revered Bay Area artist who worked in sculpture and created a handful of functional objects...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

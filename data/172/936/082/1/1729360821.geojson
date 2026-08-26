@@ -25,6 +25,50 @@
       "taken": 1460710020,
       "taken_at": "Apr 15, 2016 8:47 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.026431381702423096,
+          "id": 1729355243
+        },
+        {
+          "distance": 0.09604555368423462,
+          "id": 1729360753
+        },
+        {
+          "distance": 0.0961759090423584,
+          "id": 1729360033
+        },
+        {
+          "distance": 0.10961329936981201,
+          "id": 1947425189
+        },
+        {
+          "distance": 0.12129229307174683,
+          "id": 1729355243
+        },
+        {
+          "distance": 0.12371999025344849,
+          "id": 1729360753
+        },
+        {
+          "distance": 0.14681988954544067,
+          "id": 1729360033
+        },
+        {
+          "distance": 0.15425264835357666,
+          "id": 1947425189
+        },
+        {
+          "distance": 0.16532844305038452,
+          "id": 1729360787
+        },
+        {
+          "distance": 0.1721893548965454,
+          "id": 1763558771
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360821,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "We are very pleased to announce that the Aviation Museum and Library will be open daily starting tomorrow as we are adding Saturday hours...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

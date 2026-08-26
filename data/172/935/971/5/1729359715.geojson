@@ -25,6 +25,50 @@
       "taken": 1489520520,
       "taken_at": "Mar 14, 2017 7:42 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.21123093366622925,
+          "id": 1729355197
+        },
+        {
+          "distance": 0.21291136741638184,
+          "id": 1729357961
+        },
+        {
+          "distance": 0.21355634927749634,
+          "id": 1729359319
+        },
+        {
+          "distance": 0.21376729011535645,
+          "id": 1729360867
+        },
+        {
+          "distance": 0.22905731201171875,
+          "id": 1729359015
+        },
+        {
+          "distance": 0.26615941524505615,
+          "id": 1729359015
+        },
+        {
+          "distance": 0.27164793014526367,
+          "id": 1729360867
+        },
+        {
+          "distance": 0.2791537046432495,
+          "id": 1729359319
+        },
+        {
+          "distance": 0.2801039218902588,
+          "id": 1729357961
+        },
+        {
+          "distance": 0.28609055280685425,
+          "id": 1729355197
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359715,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "In 1948, Air France was flying to every continent except for Australia and Antarctica...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -31,6 +31,50 @@
       "taken": 1701709320,
       "taken_at": "Dec 04, 2023 5:02 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18985676765441895,
+          "id": 1880151063
+        },
+        {
+          "distance": 0.19536834955215454,
+          "id": 1729359695
+        },
+        {
+          "distance": 0.21045267581939697,
+          "id": 1880151063
+        },
+        {
+          "distance": 0.2110450267791748,
+          "id": 1763559529
+        },
+        {
+          "distance": 0.2127387523651123,
+          "id": 1729359695
+        },
+        {
+          "distance": 0.21310651302337646,
+          "id": 1729358153
+        },
+        {
+          "distance": 0.2143273949623108,
+          "id": 1947425231
+        },
+        {
+          "distance": 0.2149532437324524,
+          "id": 1729361171
+        },
+        {
+          "distance": 0.2156735062599182,
+          "id": 1729358153
+        },
+        {
+          "distance": 0.2185671329498291,
+          "id": 1763558921
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1947425205,
-    "wof:lastmodified": 1733175329,
+    "wof:lastmodified": 1787777664,
     "wof:name": "The last Pan American World Airways flight took off from Barbados to Miami, Florida, #onthisday in 1991...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -73,5 +117,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

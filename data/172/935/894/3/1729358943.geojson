@@ -53,6 +53,50 @@
       "taken": 1509361500,
       "taken_at": "Oct 30, 2017, 11:05 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1773703694343567,
+          "id": 1947425065
+        },
+        {
+          "distance": 0.195159912109375,
+          "id": 1729356845
+        },
+        {
+          "distance": 0.22090977430343628,
+          "id": 1729356845
+        },
+        {
+          "distance": 0.2301633358001709,
+          "id": 1729359417
+        },
+        {
+          "distance": 0.23504477739334106,
+          "id": 1729357339
+        },
+        {
+          "distance": 0.23779606819152832,
+          "id": 1729359789
+        },
+        {
+          "distance": 0.24143701791763306,
+          "id": 1729359789
+        },
+        {
+          "distance": 0.24165993928909302,
+          "id": 1947425065
+        },
+        {
+          "distance": 0.24922823905944824,
+          "id": 1729357683
+        },
+        {
+          "distance": 0.2570209503173828,
+          "id": 1729360019
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -82,7 +126,7 @@
       }
     ],
     "wof:id": 1729358943,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777634,
     "wof:name": "#Onthisday in 1938, radio listeners across America were driven into a state of panic...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -99,5 +143,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

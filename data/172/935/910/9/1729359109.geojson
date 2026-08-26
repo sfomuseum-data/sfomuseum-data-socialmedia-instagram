@@ -44,6 +44,50 @@
       "taken": 1504806300,
       "taken_at": "Sep 07, 2017 5:45 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.26679909229278564,
+          "id": 1729356557
+        },
+        {
+          "distance": 0.270862340927124,
+          "id": 1729356577
+        },
+        {
+          "distance": 0.2721702456474304,
+          "id": 1729356811
+        },
+        {
+          "distance": 0.2793806791305542,
+          "id": 1729356819
+        },
+        {
+          "distance": 0.28896868228912354,
+          "id": 1729356811
+        },
+        {
+          "distance": 0.2901943325996399,
+          "id": 1729356805
+        },
+        {
+          "distance": 0.2955246567726135,
+          "id": 1729356151
+        },
+        {
+          "distance": 0.302365243434906,
+          "id": 1729356819
+        },
+        {
+          "distance": 0.30466926097869873,
+          "id": 1729356577
+        },
+        {
+          "distance": 0.3057151436805725,
+          "id": 1729359363
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -73,7 +117,7 @@
       }
     ],
     "wof:id": 1729359109,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "In her project, \"Soup\", Mandy Barker draws attention to the increasing concern over oceanic plastics...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -90,5 +134,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

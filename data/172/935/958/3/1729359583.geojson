@@ -31,6 +31,50 @@
       "taken": 1492677840,
       "taken_at": "Apr 20, 2017 8:44 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15249431133270264,
+          "id": 1880151675
+        },
+        {
+          "distance": 0.20176810026168823,
+          "id": 1729361697
+        },
+        {
+          "distance": 0.20978868007659912,
+          "id": 1729359393
+        },
+        {
+          "distance": 0.20978868007659912,
+          "id": 1763558675
+        },
+        {
+          "distance": 0.21501141786575317,
+          "id": 1729356281
+        },
+        {
+          "distance": 0.221136212348938,
+          "id": 1880151675
+        },
+        {
+          "distance": 0.2268267273902893,
+          "id": 1729356895
+        },
+        {
+          "distance": 0.22764360904693604,
+          "id": 1729360541
+        },
+        {
+          "distance": 0.23080068826675415,
+          "id": 1729360877
+        },
+        {
+          "distance": 0.235548734664917,
+          "id": 1729360429
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729359583,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "The Central Terminal (now Terminal 2) has changed a lot since its construction in 1954...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

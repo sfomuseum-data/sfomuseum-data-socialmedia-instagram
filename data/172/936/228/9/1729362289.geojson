@@ -28,6 +28,50 @@
       "taken": 1399894320,
       "taken_at": "May 12, 2014 11:32 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.21782797574996948,
+          "id": 1729362403
+        },
+        {
+          "distance": 0.24326330423355103,
+          "id": 1729362325
+        },
+        {
+          "distance": 0.2620832920074463,
+          "id": 1729362233
+        },
+        {
+          "distance": 0.2860679030418396,
+          "id": 1729362263
+        },
+        {
+          "distance": 0.2964261770248413,
+          "id": 1729362233
+        },
+        {
+          "distance": 0.3006550669670105,
+          "id": 1729362335
+        },
+        {
+          "distance": 0.301655650138855,
+          "id": 1729362263
+        },
+        {
+          "distance": 0.30469417572021484,
+          "id": 1729362335
+        },
+        {
+          "distance": 0.30728697776794434,
+          "id": 1729362325
+        },
+        {
+          "distance": 0.30739641189575195,
+          "id": 1729362221
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1729362289,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777646,
     "wof:name": "..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

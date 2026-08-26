@@ -31,6 +31,50 @@
       "taken": 1661950080,
       "taken_at": "Aug 31, 2022 12:48 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14830321073532104,
+          "id": 1880151287
+        },
+        {
+          "distance": 0.15363162755966187,
+          "id": 1880151287
+        },
+        {
+          "distance": 0.16053974628448486,
+          "id": 1880151191
+        },
+        {
+          "distance": 0.16574108600616455,
+          "id": 1729355725
+        },
+        {
+          "distance": 0.16638976335525513,
+          "id": 1880151061
+        },
+        {
+          "distance": 0.16975319385528564,
+          "id": 1947425237
+        },
+        {
+          "distance": 0.16976457834243774,
+          "id": 1947425209
+        },
+        {
+          "distance": 0.1731724739074707,
+          "id": 1880151367
+        },
+        {
+          "distance": 0.17467695474624634,
+          "id": 1763559429
+        },
+        {
+          "distance": 0.17585986852645874,
+          "id": 1947425141
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151473,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "For the past twenty years, Qantas has upgraded and expanded the range of services offered on transpacific flights between Australia and North America, in addition to updating their look...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

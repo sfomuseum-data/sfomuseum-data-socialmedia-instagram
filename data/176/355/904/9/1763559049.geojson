@@ -29,6 +29,50 @@
       "taken": 1626450780,
       "taken_at": "Jul 16, 2021 3:53 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12873399257659912,
+          "id": 1763559391
+        },
+        {
+          "distance": 0.132685124874115,
+          "id": 1729360547
+        },
+        {
+          "distance": 0.13858801126480103,
+          "id": 1763559113
+        },
+        {
+          "distance": 0.1461603045463562,
+          "id": 1763559391
+        },
+        {
+          "distance": 0.1485065221786499,
+          "id": 1763559287
+        },
+        {
+          "distance": 0.15998071432113647,
+          "id": 1763559287
+        },
+        {
+          "distance": 0.16220426559448242,
+          "id": 1763559079
+        },
+        {
+          "distance": 0.17352980375289917,
+          "id": 1763558977
+        },
+        {
+          "distance": 0.17576360702514648,
+          "id": 1763559627
+        },
+        {
+          "distance": 0.1806126832962036,
+          "id": 1729360547
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1763559049,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "In 1968, United Air Lines introduced their first uniform designed by Oscar-winning Hollywood costumer Jean Louis (1907–97), who had worked with such stars as Rita Hayworth (1918–87), Lana Turner (1921–95), and Marilyn Monroe (1926–62)...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

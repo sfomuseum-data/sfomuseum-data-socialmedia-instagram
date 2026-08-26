@@ -39,6 +39,50 @@
       "taken": 1544298960,
       "taken_at": "Dec 08, 2018 7:56 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2949768304824829,
+          "id": 1729355185
+        },
+        {
+          "distance": 0.296913743019104,
+          "id": 1880151551
+        },
+        {
+          "distance": 0.2972366213798523,
+          "id": 1729360549
+        },
+        {
+          "distance": 0.30005407333374023,
+          "id": 1880151551
+        },
+        {
+          "distance": 0.30925673246383667,
+          "id": 1729355185
+        },
+        {
+          "distance": 0.3139426112174988,
+          "id": 1729360549
+        },
+        {
+          "distance": 0.3468209505081177,
+          "id": 1729358243
+        },
+        {
+          "distance": 0.3516532778739929,
+          "id": 1947424931
+        },
+        {
+          "distance": 0.36557918787002563,
+          "id": 1729355821
+        },
+        {
+          "distance": 0.3709551692008972,
+          "id": 1729360499
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729357265,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777630,
     "wof:name": "#Onthisday in 1965, the Douglas DC-9 was introduced into service by Delta Air Lines...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

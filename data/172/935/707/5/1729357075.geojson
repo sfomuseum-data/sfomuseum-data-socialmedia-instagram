@@ -37,6 +37,50 @@
       "taken": 1547668500,
       "taken_at": "Jan 16, 2019 7:55 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.012935400009155273,
+          "id": 1729358701
+        },
+        {
+          "distance": 0.01818084716796875,
+          "id": 1729355657
+        },
+        {
+          "distance": 0.020961642265319824,
+          "id": 1763558607
+        },
+        {
+          "distance": 0.026871442794799805,
+          "id": 1729361159
+        },
+        {
+          "distance": 0.034612834453582764,
+          "id": 1880151189
+        },
+        {
+          "distance": 0.07622271776199341,
+          "id": 1729358701
+        },
+        {
+          "distance": 0.0767441987991333,
+          "id": 1880151387
+        },
+        {
+          "distance": 0.07765388488769531,
+          "id": 1729355657
+        },
+        {
+          "distance": 0.08343017101287842,
+          "id": 1880151189
+        },
+        {
+          "distance": 0.08519697189331055,
+          "id": 1729361159
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729357075,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777630,
     "wof:name": "The eight-passenger Fokker F-VIIa/3m inaugurated Pan American Airways’ first scheduled passenger flight on January 16, 1928...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

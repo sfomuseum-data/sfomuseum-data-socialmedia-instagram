@@ -25,6 +25,50 @@
       "taken": 1543830960,
       "taken_at": "Dec 03, 2018 9:56 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.015976548194885254,
+          "id": 1729357287
+        },
+        {
+          "distance": 0.09611129760742188,
+          "id": 1729357287
+        },
+        {
+          "distance": 0.33102816343307495,
+          "id": 1763559685
+        },
+        {
+          "distance": 0.34265202283859253,
+          "id": 1947425167
+        },
+        {
+          "distance": 0.3468273878097534,
+          "id": 1729355705
+        },
+        {
+          "distance": 0.3529127240180969,
+          "id": 1947424987
+        },
+        {
+          "distance": 0.3546689748764038,
+          "id": 1729357715
+        },
+        {
+          "distance": 0.3580675721168518,
+          "id": 1729355785
+        },
+        {
+          "distance": 0.35980015993118286,
+          "id": 1729357715
+        },
+        {
+          "distance": 0.3644404411315918,
+          "id": 1763559685
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1763558783,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777659,
     "wof:name": "NEW BLOG POST: Dear Eric, Mr. Staller, Your Emperor of Creative Genius...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

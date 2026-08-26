@@ -33,6 +33,50 @@
       "taken": 1542733620,
       "taken_at": "Nov 20, 2018 5:07 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2626659870147705,
+          "id": 1729358503
+        },
+        {
+          "distance": 0.277527391910553,
+          "id": 1729358503
+        },
+        {
+          "distance": 0.30578070878982544,
+          "id": 1729360697
+        },
+        {
+          "distance": 0.3093298673629761,
+          "id": 1729359617
+        },
+        {
+          "distance": 0.3121814727783203,
+          "id": 1729357621
+        },
+        {
+          "distance": 0.31399911642074585,
+          "id": 1763559041
+        },
+        {
+          "distance": 0.31577831506729126,
+          "id": 1729360697
+        },
+        {
+          "distance": 0.3202190399169922,
+          "id": 1729359617
+        },
+        {
+          "distance": 0.33403050899505615,
+          "id": 1729357621
+        },
+        {
+          "distance": 0.3480837941169739,
+          "id": 1763558979
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729357361,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777631,
     "wof:name": "This amusing turn-of-the-century style advertisement produced by Hughes Airwest was featured in an authentic 1879 cable car during the San Francisco Cable Car Centennial...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

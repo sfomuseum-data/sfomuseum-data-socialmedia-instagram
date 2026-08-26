@@ -36,6 +36,50 @@
       "taken": 1512212880,
       "taken_at": "Dec 02, 2017 11:08 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18084943294525146,
+          "id": 1729355305
+        },
+        {
+          "distance": 0.20188283920288086,
+          "id": 1729359359
+        },
+        {
+          "distance": 0.20293182134628296,
+          "id": 1729355305
+        },
+        {
+          "distance": 0.22015804052352905,
+          "id": 1880151773
+        },
+        {
+          "distance": 0.2242673635482788,
+          "id": 1763559403
+        },
+        {
+          "distance": 0.22532761096954346,
+          "id": 1729357131
+        },
+        {
+          "distance": 0.229753315448761,
+          "id": 1729356383
+        },
+        {
+          "distance": 0.23389780521392822,
+          "id": 1763558963
+        },
+        {
+          "distance": 0.23823636770248413,
+          "id": 1763559359
+        },
+        {
+          "distance": 0.23910987377166748,
+          "id": 1729358643
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729358853,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "In the early 1970s, Braniff International CEO Harding Lawrence was determined to build on the success and high-visibility that the earlier ad campaigns had afforded the airline...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

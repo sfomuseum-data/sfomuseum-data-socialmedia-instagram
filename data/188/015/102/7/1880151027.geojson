@@ -31,6 +31,50 @@
       "taken": 1679934420,
       "taken_at": "Mar 27, 2023 4:27 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.130598783493042,
+          "id": 1729360859
+        },
+        {
+          "distance": 0.13759475946426392,
+          "id": 1729358387
+        },
+        {
+          "distance": 0.21567672491073608,
+          "id": 1729358387
+        },
+        {
+          "distance": 0.22011405229568481,
+          "id": 1729360859
+        },
+        {
+          "distance": 0.26406651735305786,
+          "id": 1729356791
+        },
+        {
+          "distance": 0.2762780785560608,
+          "id": 1729359947
+        },
+        {
+          "distance": 0.2800900340080261,
+          "id": 1729361255
+        },
+        {
+          "distance": 0.2899673581123352,
+          "id": 1729355251
+        },
+        {
+          "distance": 0.29228150844573975,
+          "id": 1729358963
+        },
+        {
+          "distance": 0.2926746606826782,
+          "id": 1729360537
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151027,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777661,
     "wof:name": "Christening ceremonies for airplanes arose from the tradition of christening ships, where a fluid was broken or poured on a ship’s hull and the ship was blessed with a name and good luck...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

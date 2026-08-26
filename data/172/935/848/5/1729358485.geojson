@@ -38,6 +38,50 @@
       "taken": 1520596200,
       "taken_at": "Mar 09, 2018 11:50 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.005806446075439453,
+          "id": 1729358149
+        },
+        {
+          "distance": 0.055699706077575684,
+          "id": 1729358149
+        },
+        {
+          "distance": 0.10351240634918213,
+          "id": 1729358399
+        },
+        {
+          "distance": 0.11398500204086304,
+          "id": 1729358173
+        },
+        {
+          "distance": 0.12769639492034912,
+          "id": 1729358399
+        },
+        {
+          "distance": 0.15205860137939453,
+          "id": 1729358173
+        },
+        {
+          "distance": 0.1534850001335144,
+          "id": 1729358591
+        },
+        {
+          "distance": 0.15988218784332275,
+          "id": 1729358445
+        },
+        {
+          "distance": 0.16053813695907593,
+          "id": 1729357507
+        },
+        {
+          "distance": 0.1637236475944519,
+          "id": 1729356935
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729358485,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Porcelain was not only admired for its beauty, but also for its durability and pure-white color...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

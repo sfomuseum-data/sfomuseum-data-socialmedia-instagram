@@ -25,6 +25,50 @@
       "taken": 1452765660,
       "taken_at": "Jan 14, 2016 10:01 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09266281127929688,
+          "id": 1729359597
+        },
+        {
+          "distance": 0.09365743398666382,
+          "id": 1729355993
+        },
+        {
+          "distance": 0.09776502847671509,
+          "id": 1729356989
+        },
+        {
+          "distance": 0.10146057605743408,
+          "id": 1947425309
+        },
+        {
+          "distance": 0.10239028930664062,
+          "id": 1763558797
+        },
+        {
+          "distance": 0.10659617185592651,
+          "id": 1729356173
+        },
+        {
+          "distance": 0.11785393953323364,
+          "id": 1729361109
+        },
+        {
+          "distance": 0.12330490350723267,
+          "id": 1729360207
+        },
+        {
+          "distance": 0.12399369478225708,
+          "id": 1763559247
+        },
+        {
+          "distance": 0.13058096170425415,
+          "id": 1729361177
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361163,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "In 1938, Pan American Airways’ Pacific base was established in Treasure Island...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

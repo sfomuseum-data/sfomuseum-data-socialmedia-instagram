@@ -38,6 +38,50 @@
       "taken": 1540401120,
       "taken_at": "Oct 24, 2018 5:12 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13346755504608154,
+          "id": 1763558761
+        },
+        {
+          "distance": 0.1455276608467102,
+          "id": 1729357975
+        },
+        {
+          "distance": 0.1455276608467102,
+          "id": 1729357979
+        },
+        {
+          "distance": 0.1555957794189453,
+          "id": 1729358039
+        },
+        {
+          "distance": 0.1582685112953186,
+          "id": 1729357951
+        },
+        {
+          "distance": 0.16118383407592773,
+          "id": 1729358237
+        },
+        {
+          "distance": 0.1759028434753418,
+          "id": 1729358309
+        },
+        {
+          "distance": 0.17759490013122559,
+          "id": 1763558761
+        },
+        {
+          "distance": 0.18155676126480103,
+          "id": 1729358039
+        },
+        {
+          "distance": 0.186057448387146,
+          "id": 1729357951
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729357495,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777631,
     "wof:name": "Coin-operated radios provided an hour of entertainment at the drop of a quarter or dime...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

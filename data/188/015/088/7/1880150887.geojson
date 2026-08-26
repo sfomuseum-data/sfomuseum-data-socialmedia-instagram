@@ -29,6 +29,50 @@
       "taken": 1687256820,
       "taken_at": "Jun 20, 2023 10:27 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24976849555969238,
+          "id": 1729359879
+        },
+        {
+          "distance": 0.25331151485443115,
+          "id": 1729359879
+        },
+        {
+          "distance": 0.25845539569854736,
+          "id": 1729359397
+        },
+        {
+          "distance": 0.2716902494430542,
+          "id": 1763559085
+        },
+        {
+          "distance": 0.27621370553970337,
+          "id": 1729356015
+        },
+        {
+          "distance": 0.2771691679954529,
+          "id": 1729356015
+        },
+        {
+          "distance": 0.281724214553833,
+          "id": 1763559155
+        },
+        {
+          "distance": 0.29115211963653564,
+          "id": 1729358209
+        },
+        {
+          "distance": 0.2912294864654541,
+          "id": 1729355605
+        },
+        {
+          "distance": 0.292716920375824,
+          "id": 1763559211
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880150887,
-    "wof:lastmodified": 1733175333,
+    "wof:lastmodified": 1787777661,
     "wof:name": "Did you know that in Skylounge configuration, United Air Lines’ Douglas DC-3 Mailiners had seats that were able to rotate?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

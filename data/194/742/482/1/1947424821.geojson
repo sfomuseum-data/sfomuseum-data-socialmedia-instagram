@@ -27,6 +27,50 @@
       "taken": 1731082800,
       "taken_at": "Nov 08, 2024 4:20 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2518470287322998,
+          "id": 1729360475
+        },
+        {
+          "distance": 0.28417307138442993,
+          "id": 1729360397
+        },
+        {
+          "distance": 0.28753888607025146,
+          "id": 1729360475
+        },
+        {
+          "distance": 0.29006534814834595,
+          "id": 1729361121
+        },
+        {
+          "distance": 0.29615771770477295,
+          "id": 1729360299
+        },
+        {
+          "distance": 0.2976260185241699,
+          "id": 1880150923
+        },
+        {
+          "distance": 0.30577272176742554,
+          "id": 1947424967
+        },
+        {
+          "distance": 0.306999146938324,
+          "id": 1729359213
+        },
+        {
+          "distance": 0.31173449754714966,
+          "id": 1729361153
+        },
+        {
+          "distance": 0.312172532081604,
+          "id": 1729360099
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947424821,
-    "wof:lastmodified": 1733175318,
+    "wof:lastmodified": 1787777664,
     "wof:name": "This Pan American poster from the late 1950s advertising service to London was created by Aaron Fine...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

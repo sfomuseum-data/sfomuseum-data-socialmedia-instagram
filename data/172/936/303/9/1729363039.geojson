@@ -25,6 +25,50 @@
       "taken": 1336478160,
       "taken_at": "May 08, 2012 11:56 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.22812741994857788,
+          "id": 1729362991
+        },
+        {
+          "distance": 0.24901986122131348,
+          "id": 1729362725
+        },
+        {
+          "distance": 0.2520032525062561,
+          "id": 1729362283
+        },
+        {
+          "distance": 0.2606890797615051,
+          "id": 1729362725
+        },
+        {
+          "distance": 0.2646375894546509,
+          "id": 1729362991
+        },
+        {
+          "distance": 0.27411890029907227,
+          "id": 1729362175
+        },
+        {
+          "distance": 0.2751542329788208,
+          "id": 1729361983
+        },
+        {
+          "distance": 0.2799034118652344,
+          "id": 1729361983
+        },
+        {
+          "distance": 0.28388726711273193,
+          "id": 1729362283
+        },
+        {
+          "distance": 0.28527599573135376,
+          "id": 1729362139
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729363039,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777658,
     "wof:name": "Coffee, tea or...?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -30,6 +30,50 @@
       "taken": 1583660040,
       "taken_at": "Mar 08, 2020 9:34 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18890893459320068,
+          "id": 1763559213
+        },
+        {
+          "distance": 0.19171446561813354,
+          "id": 1729355541
+        },
+        {
+          "distance": 0.20259231328964233,
+          "id": 1763559193
+        },
+        {
+          "distance": 0.23503845930099487,
+          "id": 1947425011
+        },
+        {
+          "distance": 0.24948203563690186,
+          "id": 1729358551
+        },
+        {
+          "distance": 0.2568356394767761,
+          "id": 1729356941
+        },
+        {
+          "distance": 0.25985199213027954,
+          "id": 1729361401
+        },
+        {
+          "distance": 0.26421916484832764,
+          "id": 1947425011
+        },
+        {
+          "distance": 0.2642514705657959,
+          "id": 1729359425
+        },
+        {
+          "distance": 0.27373504638671875,
+          "id": 1729361401
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729355483,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777625,
     "wof:name": "To celebrate International Women’s Day, our Video Arts program is presenting four shorts by women filmmakers from four parts of the world, including Chicago-based Naghmeh Farzaneh...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -37,6 +37,50 @@
       "taken": 1524057540,
       "taken_at": "Apr 18, 2018 1:19 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3398229479789734,
+          "id": 1729358925
+        },
+        {
+          "distance": 0.3551979660987854,
+          "id": 1729358711
+        },
+        {
+          "distance": 0.36066991090774536,
+          "id": 1729357793
+        },
+        {
+          "distance": 0.36307746171951294,
+          "id": 1729358925
+        },
+        {
+          "distance": 0.3633328676223755,
+          "id": 1729357723
+        },
+        {
+          "distance": 0.36766892671585083,
+          "id": 1729356041
+        },
+        {
+          "distance": 0.36957675218582153,
+          "id": 1729362387
+        },
+        {
+          "distance": 0.37076616287231445,
+          "id": 1729362347
+        },
+        {
+          "distance": 0.37468135356903076,
+          "id": 1880151091
+        },
+        {
+          "distance": 0.37694960832595825,
+          "id": 1729359075
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729358337,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Patriotic folk artists have long depicted the American flag on a variety of objects...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

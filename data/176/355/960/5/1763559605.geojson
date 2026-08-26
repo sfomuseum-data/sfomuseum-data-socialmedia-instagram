@@ -31,6 +31,50 @@
       "taken": 1645032840,
       "taken_at": "Feb 16, 2022 5:34 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17117029428482056,
+          "id": 1763559535
+        },
+        {
+          "distance": 0.18927544355392456,
+          "id": 1763559535
+        },
+        {
+          "distance": 0.1945456862449646,
+          "id": 1729359121
+        },
+        {
+          "distance": 0.2082604169845581,
+          "id": 1729359197
+        },
+        {
+          "distance": 0.2082604169845581,
+          "id": 1763558687
+        },
+        {
+          "distance": 0.21257507801055908,
+          "id": 1729359121
+        },
+        {
+          "distance": 0.21858054399490356,
+          "id": 1729358989
+        },
+        {
+          "distance": 0.22062498331069946,
+          "id": 1729359231
+        },
+        {
+          "distance": 0.23507267236709595,
+          "id": 1729358147
+        },
+        {
+          "distance": 0.23639839887619019,
+          "id": 1729359317
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559605,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "During the 1930s, the smallest calculator weighed several pounds...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

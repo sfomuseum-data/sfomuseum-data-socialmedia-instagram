@@ -30,6 +30,50 @@
       "taken": 1665125640,
       "taken_at": "Oct 07, 2022 6:54 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13760733604431152,
+          "id": 1763558979
+        },
+        {
+          "distance": 0.13977938890457153,
+          "id": 1763558997
+        },
+        {
+          "distance": 0.15187621116638184,
+          "id": 1763558997
+        },
+        {
+          "distance": 0.15209507942199707,
+          "id": 1729358365
+        },
+        {
+          "distance": 0.1581975817680359,
+          "id": 1729358365
+        },
+        {
+          "distance": 0.17222613096237183,
+          "id": 1729357345
+        },
+        {
+          "distance": 0.17823028564453125,
+          "id": 1729357977
+        },
+        {
+          "distance": 0.18466246128082275,
+          "id": 1763558979
+        },
+        {
+          "distance": 0.18631446361541748,
+          "id": 1729360815
+        },
+        {
+          "distance": 0.188984215259552,
+          "id": 1729355843
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151413,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "In 1949, Kenny Friedkin, a flight trainer and test pilot, formed Pacific Southwest Airlines or PSA, a commuter airline operating in California...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -26,6 +26,50 @@
       "taken": 1501518720,
       "taken_at": "Jul 31, 2017, 4:32 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.28564453125,
+          "id": 1729355957
+        },
+        {
+          "distance": 0.2969176173210144,
+          "id": 1729356151
+        },
+        {
+          "distance": 0.307553231716156,
+          "id": 1729356253
+        },
+        {
+          "distance": 0.3103572130203247,
+          "id": 1729356167
+        },
+        {
+          "distance": 0.3142945170402527,
+          "id": 1729358873
+        },
+        {
+          "distance": 0.3238036036491394,
+          "id": 1729356773
+        },
+        {
+          "distance": 0.33725690841674805,
+          "id": 1729355145
+        },
+        {
+          "distance": 0.3393869996070862,
+          "id": 1729356151
+        },
+        {
+          "distance": 0.3400278687477112,
+          "id": 1729356139
+        },
+        {
+          "distance": 0.35446590185165405,
+          "id": 1729355493
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1729359241,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Have you seen the beautiful wallpaper featured on the back panels in our \"At Home with Arts and Crafts\" exhibition?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

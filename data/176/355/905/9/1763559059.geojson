@@ -30,6 +30,50 @@
       "taken": 1626277680,
       "taken_at": "Jul 14, 2021 3:48 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1566184163093567,
+          "id": 1880151779
+        },
+        {
+          "distance": 0.16565799713134766,
+          "id": 1763558957
+        },
+        {
+          "distance": 0.19241315126419067,
+          "id": 1880151799
+        },
+        {
+          "distance": 0.1943231225013733,
+          "id": 1729357769
+        },
+        {
+          "distance": 0.1968325972557068,
+          "id": 1880151805
+        },
+        {
+          "distance": 0.19717824459075928,
+          "id": 1763558957
+        },
+        {
+          "distance": 0.19745999574661255,
+          "id": 1880151251
+        },
+        {
+          "distance": 0.197689950466156,
+          "id": 1729356023
+        },
+        {
+          "distance": 0.19778650999069214,
+          "id": 1729358231
+        },
+        {
+          "distance": 0.19969314336776733,
+          "id": 1729357575
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559059,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "In 1960, Delta Airlines proudly introduced the 615 miles-per-hour Convair 880, produced by the Convair Division of General Dynamics, of San Diego, California...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

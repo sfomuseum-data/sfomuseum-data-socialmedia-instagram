@@ -31,6 +31,50 @@
       "taken": 1730303880,
       "taken_at": "Oct 30, 2024 3:58 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12725383043289185,
+          "id": 1947424793
+        },
+        {
+          "distance": 0.1402357816696167,
+          "id": 1947424793
+        },
+        {
+          "distance": 0.24813830852508545,
+          "id": 1880151059
+        },
+        {
+          "distance": 0.25572383403778076,
+          "id": 1947425263
+        },
+        {
+          "distance": 0.28965818881988525,
+          "id": 1729361321
+        },
+        {
+          "distance": 0.2921728491783142,
+          "id": 1880151059
+        },
+        {
+          "distance": 0.29358750581741333,
+          "id": 1763559103
+        },
+        {
+          "distance": 0.29398614168167114,
+          "id": 1947424885
+        },
+        {
+          "distance": 0.30744749307632446,
+          "id": 1729361321
+        },
+        {
+          "distance": 0.30911022424697876,
+          "id": 1947424799
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1947424803,
-    "wof:lastmodified": 1733175316,
+    "wof:lastmodified": 1787777664,
     "wof:name": "During the Second World War, millions of women were introduced to working two shifts—one on the job, and the other at home...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -73,5 +117,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

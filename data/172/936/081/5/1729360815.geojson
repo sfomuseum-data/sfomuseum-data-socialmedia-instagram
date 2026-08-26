@@ -25,6 +25,50 @@
       "taken": 1460743800,
       "taken_at": "Apr 15, 2016 6:10 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.03275030851364136,
+          "id": 1729355843
+        },
+        {
+          "distance": 0.09673017263412476,
+          "id": 1729355843
+        },
+        {
+          "distance": 0.12307631969451904,
+          "id": 1947425179
+        },
+        {
+          "distance": 0.1431032419204712,
+          "id": 1947425179
+        },
+        {
+          "distance": 0.19202208518981934,
+          "id": 1880151413
+        },
+        {
+          "distance": 0.19851821660995483,
+          "id": 1729358365
+        },
+        {
+          "distance": 0.2046608328819275,
+          "id": 1763558657
+        },
+        {
+          "distance": 0.2046608328819275,
+          "id": 1729359895
+        },
+        {
+          "distance": 0.20636892318725586,
+          "id": 1763558979
+        },
+        {
+          "distance": 0.21341639757156372,
+          "id": 1763558997
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360815,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Pacific Southwest Airlines (PSA) featured San Francisco in this circa 1968 postcard, the back of which reads, “Flying with PSA – The Nation’s Leading Intra-State Airline – Over the Golden Gate Bridge”...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

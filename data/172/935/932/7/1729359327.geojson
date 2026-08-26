@@ -36,6 +36,50 @@
       "taken": 1499789700,
       "taken_at": "Jul 11, 2017 4:15 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.268149733543396,
+          "id": 1729356735
+        },
+        {
+          "distance": 0.30892932415008545,
+          "id": 1729356735
+        },
+        {
+          "distance": 0.31528401374816895,
+          "id": 1729360367
+        },
+        {
+          "distance": 0.3195873498916626,
+          "id": 1729355197
+        },
+        {
+          "distance": 0.326510488986969,
+          "id": 1729360099
+        },
+        {
+          "distance": 0.32692456245422363,
+          "id": 1729360867
+        },
+        {
+          "distance": 0.3284474015235901,
+          "id": 1729357961
+        },
+        {
+          "distance": 0.3284589648246765,
+          "id": 1729359319
+        },
+        {
+          "distance": 0.33029085397720337,
+          "id": 1729360475
+        },
+        {
+          "distance": 0.33092522621154785,
+          "id": 1729361989
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729359327,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Would you like to have tea in the air over London?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

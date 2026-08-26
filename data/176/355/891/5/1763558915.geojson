@@ -25,6 +25,50 @@
       "taken": 1610126340,
       "taken_at": "Jan 08, 2021 5:19 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16031426191329956,
+          "id": 1729356547
+        },
+        {
+          "distance": 0.17762213945388794,
+          "id": 1729356549
+        },
+        {
+          "distance": 0.192463219165802,
+          "id": 1729356811
+        },
+        {
+          "distance": 0.1927202343940735,
+          "id": 1729356811
+        },
+        {
+          "distance": 0.19532418251037598,
+          "id": 1729356557
+        },
+        {
+          "distance": 0.19732123613357544,
+          "id": 1729359363
+        },
+        {
+          "distance": 0.19888347387313843,
+          "id": 1729359363
+        },
+        {
+          "distance": 0.20476096868515015,
+          "id": 1729356549
+        },
+        {
+          "distance": 0.20501834154129028,
+          "id": 1729356819
+        },
+        {
+          "distance": 0.20590263605117798,
+          "id": 1729356547
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1763558915,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "In her ongoing series “Auras”, Oakland-based artist Amelia Konow (b.1986) uses photography to explore the borders between science and mysticism...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

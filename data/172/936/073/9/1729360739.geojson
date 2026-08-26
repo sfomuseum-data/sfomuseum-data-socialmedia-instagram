@@ -25,6 +25,50 @@
       "taken": 1462703400,
       "taken_at": "May 08, 2016 10:30 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23504245281219482,
+          "id": 1947425101
+        },
+        {
+          "distance": 0.26482290029525757,
+          "id": 1947425101
+        },
+        {
+          "distance": 0.26622796058654785,
+          "id": 1729361553
+        },
+        {
+          "distance": 0.2711693048477173,
+          "id": 1729360483
+        },
+        {
+          "distance": 0.2722933292388916,
+          "id": 1729358107
+        },
+        {
+          "distance": 0.2724812626838684,
+          "id": 1729357413
+        },
+        {
+          "distance": 0.27293431758880615,
+          "id": 1729361459
+        },
+        {
+          "distance": 0.2742154598236084,
+          "id": 1947425065
+        },
+        {
+          "distance": 0.27804887294769287,
+          "id": 1729361471
+        },
+        {
+          "distance": 0.2786930799484253,
+          "id": 1729359685
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360739,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Happy Mother's Day!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

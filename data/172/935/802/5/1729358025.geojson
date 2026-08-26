@@ -38,6 +38,50 @@
       "taken": 1530520860,
       "taken_at": "Jul 02, 2018 8:41 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09109240770339966,
+          "id": 1729358173
+        },
+        {
+          "distance": 0.13629412651062012,
+          "id": 1729358301
+        },
+        {
+          "distance": 0.13905030488967896,
+          "id": 1729361627
+        },
+        {
+          "distance": 0.1435680389404297,
+          "id": 1729358173
+        },
+        {
+          "distance": 0.1475469470024109,
+          "id": 1729358399
+        },
+        {
+          "distance": 0.14852070808410645,
+          "id": 1729357807
+        },
+        {
+          "distance": 0.17019307613372803,
+          "id": 1729358653
+        },
+        {
+          "distance": 0.17505156993865967,
+          "id": 1729358653
+        },
+        {
+          "distance": 0.18015652894973755,
+          "id": 1729358485
+        },
+        {
+          "distance": 0.18699979782104492,
+          "id": 1729358149
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729358025,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Cats, cats, cats!!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

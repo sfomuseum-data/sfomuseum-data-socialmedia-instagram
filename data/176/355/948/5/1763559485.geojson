@@ -30,6 +30,50 @@
       "taken": 1627658040,
       "taken_at": "Jul 30, 2021 3:14 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.29295384883880615,
+          "id": 1880151803
+        },
+        {
+          "distance": 0.332298219203949,
+          "id": 1880151803
+        },
+        {
+          "distance": 0.35093241930007935,
+          "id": 1763559497
+        },
+        {
+          "distance": 0.35318976640701294,
+          "id": 1729358159
+        },
+        {
+          "distance": 0.35761797428131104,
+          "id": 1763559497
+        },
+        {
+          "distance": 0.38259583711624146,
+          "id": 1729357271
+        },
+        {
+          "distance": 0.3937652111053467,
+          "id": 1947425133
+        },
+        {
+          "distance": 0.3962956666946411,
+          "id": 1729361339
+        },
+        {
+          "distance": 0.39827901124954224,
+          "id": 1880151621
+        },
+        {
+          "distance": 0.39881330728530884,
+          "id": 1729355047
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559485,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Our newest exhibition, “Mathematics: Vintage and Modern” is now on display post-security in Terminal 2!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

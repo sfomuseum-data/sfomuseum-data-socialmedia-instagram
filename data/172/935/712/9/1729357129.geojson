@@ -39,6 +39,50 @@
       "taken": 1546854300,
       "taken_at": "Jan 07, 2019 9:45 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.30922895669937134,
+          "id": 1729357027
+        },
+        {
+          "distance": 0.3363978862762451,
+          "id": 1729357327
+        },
+        {
+          "distance": 0.3412487506866455,
+          "id": 1729357359
+        },
+        {
+          "distance": 0.3515528440475464,
+          "id": 1729357451
+        },
+        {
+          "distance": 0.36985892057418823,
+          "id": 1729357451
+        },
+        {
+          "distance": 0.37761300802230835,
+          "id": 1729357027
+        },
+        {
+          "distance": 0.3840563893318176,
+          "id": 1729357327
+        },
+        {
+          "distance": 0.39498257637023926,
+          "id": 1729357003
+        },
+        {
+          "distance": 0.39674627780914307,
+          "id": 1729357003
+        },
+        {
+          "distance": 0.4033988118171692,
+          "id": 1729359449
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729357129,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777630,
     "wof:name": "By the 17th century, cats appeared in European artwork that depicted daily life, including street scenes, interior settings, and views of the kitchen...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -32,6 +32,50 @@
       "taken": 1600092720,
       "taken_at": "Sep 14, 2020, 2:12 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.08667498826980591,
+          "id": 1729355077
+        },
+        {
+          "distance": 0.14865732192993164,
+          "id": 1729355069
+        },
+        {
+          "distance": 0.15377622842788696,
+          "id": 1729355069
+        },
+        {
+          "distance": 0.16548073291778564,
+          "id": 1729355077
+        },
+        {
+          "distance": 0.2100149393081665,
+          "id": 1729357567
+        },
+        {
+          "distance": 0.2142496109008789,
+          "id": 1729355051
+        },
+        {
+          "distance": 0.22559219598770142,
+          "id": 1729355039
+        },
+        {
+          "distance": 0.22768819332122803,
+          "id": 1729355021
+        },
+        {
+          "distance": 0.23523050546646118,
+          "id": 1729355021
+        },
+        {
+          "distance": 0.2407320737838745,
+          "id": 1729357567
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729355081,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777616,
     "wof:name": "Victorian silver plate designers often combined elements of Gothic, Rococo, and Italian Renaissance styles with Greek and Egyptian Revival influences to create contemporary interpretations of historical styles...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

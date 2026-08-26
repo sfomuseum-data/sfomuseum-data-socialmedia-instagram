@@ -33,6 +33,50 @@
       "taken": 1667925000,
       "taken_at": "Nov 08, 2022 4:30 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.003087460994720459,
+          "id": 1763559341
+        },
+        {
+          "distance": 0.12659072875976562,
+          "id": 1763559341
+        },
+        {
+          "distance": 0.15311795473098755,
+          "id": 1729355617
+        },
+        {
+          "distance": 0.17870885133743286,
+          "id": 1880151081
+        },
+        {
+          "distance": 0.2035512924194336,
+          "id": 1880151081
+        },
+        {
+          "distance": 0.22816234827041626,
+          "id": 1729355617
+        },
+        {
+          "distance": 0.23270857334136963,
+          "id": 1763559355
+        },
+        {
+          "distance": 0.2367187738418579,
+          "id": 1947425105
+        },
+        {
+          "distance": 0.2367759346961975,
+          "id": 1880151657
+        },
+        {
+          "distance": 0.24387085437774658,
+          "id": 1729357891
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1880151351,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "For this suite of prints, Shaun O’Dell uses simplified icons of American history—liberty bells and silhouettes of the founding fathers—to depict the complexity of the past...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

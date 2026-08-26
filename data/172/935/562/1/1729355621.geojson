@@ -31,6 +31,50 @@
       "taken": 1580146980,
       "taken_at": "Jan 27, 2020 5:43 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.25610268115997314,
+          "id": 1729359411
+        },
+        {
+          "distance": 0.26640039682388306,
+          "id": 1763559059
+        },
+        {
+          "distance": 0.275112509727478,
+          "id": 1729356495
+        },
+        {
+          "distance": 0.29255980253219604,
+          "id": 1729356495
+        },
+        {
+          "distance": 0.2928054928779602,
+          "id": 1729358727
+        },
+        {
+          "distance": 0.29647713899612427,
+          "id": 1763558957
+        },
+        {
+          "distance": 0.29855412244796753,
+          "id": 1729359411
+        },
+        {
+          "distance": 0.3019484877586365,
+          "id": 1880151303
+        },
+        {
+          "distance": 0.3038390278816223,
+          "id": 1763558957
+        },
+        {
+          "distance": 0.30548447370529175,
+          "id": 1729356023
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729355621,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777627,
     "wof:name": "#OnThisDay in 1959, the Convair 880 took off on its maiden flight...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

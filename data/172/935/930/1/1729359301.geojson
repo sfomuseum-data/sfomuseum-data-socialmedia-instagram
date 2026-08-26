@@ -32,6 +32,50 @@
       "taken": 1500368760,
       "taken_at": "Jul 18, 2017 9:06 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2070336937904358,
+          "id": 1729358403
+        },
+        {
+          "distance": 0.21965521574020386,
+          "id": 1729360175
+        },
+        {
+          "distance": 0.2238956093788147,
+          "id": 1763559501
+        },
+        {
+          "distance": 0.23750662803649902,
+          "id": 1729358403
+        },
+        {
+          "distance": 0.2460259199142456,
+          "id": 1763559501
+        },
+        {
+          "distance": 0.2463470697402954,
+          "id": 1729356907
+        },
+        {
+          "distance": 0.257338285446167,
+          "id": 1729355167
+        },
+        {
+          "distance": 0.26049190759658813,
+          "id": 1729359007
+        },
+        {
+          "distance": 0.2625579237937927,
+          "id": 1729356053
+        },
+        {
+          "distance": 0.273368239402771,
+          "id": 1729359247
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729359301,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Where would you have wanted to go on Pan American Airways in 1937?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

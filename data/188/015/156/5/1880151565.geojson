@@ -32,6 +32,50 @@
       "taken": 1658245620,
       "taken_at": "Jul 19, 2022 3:47 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2235814332962036,
+          "id": 1729359467
+        },
+        {
+          "distance": 0.23213618993759155,
+          "id": 1763559499
+        },
+        {
+          "distance": 0.24347597360610962,
+          "id": 1729360101
+        },
+        {
+          "distance": 0.25285351276397705,
+          "id": 1729360135
+        },
+        {
+          "distance": 0.2534205913543701,
+          "id": 1729355507
+        },
+        {
+          "distance": 0.25644636154174805,
+          "id": 1729359971
+        },
+        {
+          "distance": 0.2569553852081299,
+          "id": 1729355507
+        },
+        {
+          "distance": 0.25949180126190186,
+          "id": 1729359625
+        },
+        {
+          "distance": 0.2657153010368347,
+          "id": 1729359325
+        },
+        {
+          "distance": 0.26828694343566895,
+          "id": 1729359467
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1880151565,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "In 1974, Qantas hired the celebrated fashion designer Emilio Pucci (1914–92) to create new, high-fashion uniforms for flight crews and ground staff...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -33,6 +33,50 @@
       "taken": 1677835740,
       "taken_at": "Mar 03, 2023 9:29 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1775294542312622,
+          "id": 1729355617
+        },
+        {
+          "distance": 0.17891067266464233,
+          "id": 1880151351
+        },
+        {
+          "distance": 0.18220925331115723,
+          "id": 1763559341
+        },
+        {
+          "distance": 0.18421250581741333,
+          "id": 1880151657
+        },
+        {
+          "distance": 0.1972726583480835,
+          "id": 1880151657
+        },
+        {
+          "distance": 0.2246953845024109,
+          "id": 1763559355
+        },
+        {
+          "distance": 0.22581100463867188,
+          "id": 1729355617
+        },
+        {
+          "distance": 0.23142093420028687,
+          "id": 1947425105
+        },
+        {
+          "distance": 0.23632949590682983,
+          "id": 1729357891
+        },
+        {
+          "distance": 0.23770272731781006,
+          "id": 1880151351
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1880151081,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Susan O’Malley (1976-2015) asked everyday people, ranging in ages from seven to eighty-eight, “What advice would your 80-year-old self give you?” She began this project at a period in her life when she was considering leaving her “grown-up job” to focus on her artistic endeavors and while her mother was suffering from a rapidly degenerative disease...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

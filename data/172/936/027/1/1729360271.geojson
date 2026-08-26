@@ -25,6 +25,50 @@
       "taken": 1475521020,
       "taken_at": "Oct 03, 2016 6:57 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2867414951324463,
+          "id": 1729360763
+        },
+        {
+          "distance": 0.292022705078125,
+          "id": 1729360581
+        },
+        {
+          "distance": 0.2985387444496155,
+          "id": 1729360295
+        },
+        {
+          "distance": 0.3027282953262329,
+          "id": 1729355123
+        },
+        {
+          "distance": 0.307902991771698,
+          "id": 1729355129
+        },
+        {
+          "distance": 0.31386661529541016,
+          "id": 1729360295
+        },
+        {
+          "distance": 0.3174515962600708,
+          "id": 1729360763
+        },
+        {
+          "distance": 0.3186284899711609,
+          "id": 1729360087
+        },
+        {
+          "distance": 0.3234211802482605,
+          "id": 1729360833
+        },
+        {
+          "distance": 0.3252508044242859,
+          "id": 1729360581
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360271,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "William Scott is a self-taught artist capable of rendering his imagined public and private worlds with remarkable accuracy and meticulous detail...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

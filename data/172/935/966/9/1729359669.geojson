@@ -34,6 +34,50 @@
       "taken": 1490690820,
       "taken_at": "Mar 28, 2017 8:47 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2577674984931946,
+          "id": 1729359923
+        },
+        {
+          "distance": 0.25895702838897705,
+          "id": 1729359741
+        },
+        {
+          "distance": 0.28471606969833374,
+          "id": 1729359741
+        },
+        {
+          "distance": 0.2926114797592163,
+          "id": 1729359779
+        },
+        {
+          "distance": 0.29528528451919556,
+          "id": 1763558647
+        },
+        {
+          "distance": 0.29972702264785767,
+          "id": 1729359923
+        },
+        {
+          "distance": 0.30070990324020386,
+          "id": 1729359779
+        },
+        {
+          "distance": 0.3036707043647766,
+          "id": 1763558647
+        },
+        {
+          "distance": 0.30647802352905273,
+          "id": 1729360031
+        },
+        {
+          "distance": 0.3124110698699951,
+          "id": 1729361811
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729359669,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "Although single-lever slot machines were referred to as “one-armed bandits” as early as the 1930s, the term became more literal in the late 1940s when saloons and casinos featured the gambling devices in the bodies of elaborately carved characters to attract the attention of patrons...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

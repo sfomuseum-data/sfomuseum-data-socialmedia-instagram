@@ -29,6 +29,50 @@
       "taken": 1710952440,
       "taken_at": "Mar 20, 2024 4:34 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.03874993324279785,
+          "id": 1729356563
+        },
+        {
+          "distance": 0.07252484560012817,
+          "id": 1729356563
+        },
+        {
+          "distance": 0.09237241744995117,
+          "id": 1729357953
+        },
+        {
+          "distance": 0.12188065052032471,
+          "id": 1729357953
+        },
+        {
+          "distance": 0.12537556886672974,
+          "id": 1729359251
+        },
+        {
+          "distance": 0.14724260568618774,
+          "id": 1729355587
+        },
+        {
+          "distance": 0.14840203523635864,
+          "id": 1729355113
+        },
+        {
+          "distance": 0.1498943567276001,
+          "id": 1729355587
+        },
+        {
+          "distance": 0.15053153038024902,
+          "id": 1729355113
+        },
+        {
+          "distance": 0.15113389492034912,
+          "id": 1729359251
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1947425081,
-    "wof:lastmodified": 1733175325,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Ellen Church, remembered as the world’s first airline stewardess, was hired by Boeing Air Transport’s district manager, Steve Stimpson, in their San Francisco office in 1930...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

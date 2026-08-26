@@ -43,6 +43,50 @@
       "taken": 1527842940,
       "taken_at": "Jun 1, 2018, 8:49 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16842055320739746,
+          "id": 1729358171
+        },
+        {
+          "distance": 0.19266259670257568,
+          "id": 1729358171
+        },
+        {
+          "distance": 0.21118611097335815,
+          "id": 1729358869
+        },
+        {
+          "distance": 0.21277540922164917,
+          "id": 1729357673
+        },
+        {
+          "distance": 0.21606284379959106,
+          "id": 1729357183
+        },
+        {
+          "distance": 0.2282353639602661,
+          "id": 1729358011
+        },
+        {
+          "distance": 0.23661792278289795,
+          "id": 1729356973
+        },
+        {
+          "distance": 0.23711800575256348,
+          "id": 1729357945
+        },
+        {
+          "distance": 0.23843443393707275,
+          "id": 1729358979
+        },
+        {
+          "distance": 0.2435702085494995,
+          "id": 1729358005
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -72,7 +116,7 @@
       }
     ],
     "wof:id": 1729358157,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777633,
     "wof:name": "The Curtiss Commando was initially designed by Curtiss-Wright’s chief designer George A...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -89,5 +133,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

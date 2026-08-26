@@ -28,6 +28,50 @@
       "taken": 1723477800,
       "taken_at": "Aug 12, 2024 3:50 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.03110682964324951,
+          "id": 1947424927
+        },
+        {
+          "distance": 0.13099241256713867,
+          "id": 1947424927
+        },
+        {
+          "distance": 0.16662365198135376,
+          "id": 1947424799
+        },
+        {
+          "distance": 0.17628824710845947,
+          "id": 1947425039
+        },
+        {
+          "distance": 0.18036103248596191,
+          "id": 1880150991
+        },
+        {
+          "distance": 0.20011401176452637,
+          "id": 1947424799
+        },
+        {
+          "distance": 0.2086048722267151,
+          "id": 1763559379
+        },
+        {
+          "distance": 0.21418553590774536,
+          "id": 1880150991
+        },
+        {
+          "distance": 0.21489983797073364,
+          "id": 1763559281
+        },
+        {
+          "distance": 0.215950608253479,
+          "id": 1880150939
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1947424917,
-    "wof:lastmodified": 1733175320,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Marshall Moxom (1916–2007) was a San Francisco-based photographer active between the late 1930s and mid-1970s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -70,5 +114,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

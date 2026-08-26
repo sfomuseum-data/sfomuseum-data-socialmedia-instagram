@@ -30,6 +30,50 @@
       "taken": 1512580980,
       "taken_at": "Dec 06, 2017 5:23 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.28374284505844116,
+          "id": 1729359185
+        },
+        {
+          "distance": 0.28757596015930176,
+          "id": 1729357333
+        },
+        {
+          "distance": 0.29309940338134766,
+          "id": 1729363037
+        },
+        {
+          "distance": 0.29321712255477905,
+          "id": 1729363037
+        },
+        {
+          "distance": 0.3115770220756531,
+          "id": 1729359185
+        },
+        {
+          "distance": 0.31445878744125366,
+          "id": 1729360393
+        },
+        {
+          "distance": 0.3157639503479004,
+          "id": 1729363053
+        },
+        {
+          "distance": 0.3186483383178711,
+          "id": 1729360393
+        },
+        {
+          "distance": 0.31964045763015747,
+          "id": 1729363053
+        },
+        {
+          "distance": 0.3248910903930664,
+          "id": 1729362327
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729358845,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Of the many, many steps involved in producing exhibitions, one is making sure that the objects are in stable and clean conditions...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

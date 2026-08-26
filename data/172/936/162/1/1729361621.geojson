@@ -32,6 +32,50 @@
       "taken": 1439372040,
       "taken_at": "Aug 12, 2015 9:34 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2605416178703308,
+          "id": 1729359453
+        },
+        {
+          "distance": 0.29110485315322876,
+          "id": 1729359453
+        },
+        {
+          "distance": 0.35226738452911377,
+          "id": 1729356491
+        },
+        {
+          "distance": 0.3600232005119324,
+          "id": 1729361631
+        },
+        {
+          "distance": 0.3664998412132263,
+          "id": 1729356493
+        },
+        {
+          "distance": 0.3792499303817749,
+          "id": 1729357869
+        },
+        {
+          "distance": 0.3942938446998596,
+          "id": 1880151091
+        },
+        {
+          "distance": 0.4012405276298523,
+          "id": 1729362647
+        },
+        {
+          "distance": 0.4050266742706299,
+          "id": 1729361661
+        },
+        {
+          "distance": 0.4062708020210266,
+          "id": 1729357895
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729361621,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777646,
     "wof:name": "Joyce Hsu's Namoo House is located in the International Terminal and combines science, nature, and imagination to create a stunning piece of art...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

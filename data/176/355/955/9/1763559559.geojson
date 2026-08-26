@@ -30,6 +30,50 @@
       "taken": 1647018420,
       "taken_at": "Mar 11, 2022 5:07 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1095578670501709,
+          "id": 1880151467
+        },
+        {
+          "distance": 0.11363160610198975,
+          "id": 1880151467
+        },
+        {
+          "distance": 0.2132117748260498,
+          "id": 1880151407
+        },
+        {
+          "distance": 0.24106448888778687,
+          "id": 1763559597
+        },
+        {
+          "distance": 0.2638983726501465,
+          "id": 1763559407
+        },
+        {
+          "distance": 0.2641823887825012,
+          "id": 1947424811
+        },
+        {
+          "distance": 0.26883506774902344,
+          "id": 1763559597
+        },
+        {
+          "distance": 0.27023404836654663,
+          "id": 1763558931
+        },
+        {
+          "distance": 0.2740374803543091,
+          "id": 1947424957
+        },
+        {
+          "distance": 0.27446699142456055,
+          "id": 1947424829
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559559,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "The Shona comprise the largest Indigenous group in Zimbabwe...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

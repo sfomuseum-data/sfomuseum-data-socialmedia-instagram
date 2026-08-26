@@ -28,6 +28,50 @@
       "taken": 1676368140,
       "taken_at": "Feb 14, 2023 9:49 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3294529914855957,
+          "id": 1763559609
+        },
+        {
+          "distance": 0.3412548303604126,
+          "id": 1729360249
+        },
+        {
+          "distance": 0.36388033628463745,
+          "id": 1729360249
+        },
+        {
+          "distance": 0.3790540099143982,
+          "id": 1729355263
+        },
+        {
+          "distance": 0.3806491494178772,
+          "id": 1729355263
+        },
+        {
+          "distance": 0.39826709032058716,
+          "id": 1729361049
+        },
+        {
+          "distance": 0.4031555652618408,
+          "id": 1880150887
+        },
+        {
+          "distance": 0.405210018157959,
+          "id": 1729361477
+        },
+        {
+          "distance": 0.41118931770324707,
+          "id": 1729359167
+        },
+        {
+          "distance": 0.4167898893356323,
+          "id": 1729357349
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1880151125,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Cheers to a happy Valentine’s Day!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

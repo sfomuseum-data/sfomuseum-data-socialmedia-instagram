@@ -33,6 +33,50 @@
       "taken": 1494498960,
       "taken_at": "May 11, 2017 10:36 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.03024601936340332,
+          "id": 1763559233
+        },
+        {
+          "distance": 0.04888266324996948,
+          "id": 1729361143
+        },
+        {
+          "distance": 0.07175815105438232,
+          "id": 1729361143
+        },
+        {
+          "distance": 0.07556736469268799,
+          "id": 1763559233
+        },
+        {
+          "distance": 0.1394662857055664,
+          "id": 1729357547
+        },
+        {
+          "distance": 0.14037150144577026,
+          "id": 1729357513
+        },
+        {
+          "distance": 0.14251965284347534,
+          "id": 1729357513
+        },
+        {
+          "distance": 0.15513843297958374,
+          "id": 1763559413
+        },
+        {
+          "distance": 0.15582674741744995,
+          "id": 1729358457
+        },
+        {
+          "distance": 0.1571672558784485,
+          "id": 1729356859
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729359515,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "A seldom-seen photo of SFO’s first two administration buildings, which briefly coexisted side-by-side...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -36,6 +36,50 @@
       "taken": 1582555440,
       "taken_at": "Feb 24, 2020, 2:44 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2997099757194519,
+          "id": 1729357469
+        },
+        {
+          "distance": 0.2998538613319397,
+          "id": 1729356159
+        },
+        {
+          "distance": 0.30372804403305054,
+          "id": 1729355483
+        },
+        {
+          "distance": 0.3223581314086914,
+          "id": 1729356159
+        },
+        {
+          "distance": 0.3228040337562561,
+          "id": 1763559193
+        },
+        {
+          "distance": 0.3269032835960388,
+          "id": 1763559091
+        },
+        {
+          "distance": 0.3516347408294678,
+          "id": 1729358341
+        },
+        {
+          "distance": 0.35233980417251587,
+          "id": 1763559091
+        },
+        {
+          "distance": 0.3536580204963684,
+          "id": 1763559271
+        },
+        {
+          "distance": 0.3598214387893677,
+          "id": 1729356985
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729355515,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777626,
     "wof:name": "A deafblind Danish woman travels to Nepal to meet a woman with the same condition in Isabel Morales Bondy’s documentary short that demonstrates the capacity for human communication in the absence of visual and spoken language...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

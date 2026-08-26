@@ -30,6 +30,50 @@
       "taken": 1637338680,
       "taken_at": "Nov 19, 2021 4:18 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14681029319763184,
+          "id": 1763559361
+        },
+        {
+          "distance": 0.15583330392837524,
+          "id": 1763559361
+        },
+        {
+          "distance": 0.16477519273757935,
+          "id": 1763559669
+        },
+        {
+          "distance": 0.16823554039001465,
+          "id": 1729358639
+        },
+        {
+          "distance": 0.1989881992340088,
+          "id": 1729358639
+        },
+        {
+          "distance": 0.21575087308883667,
+          "id": 1729358645
+        },
+        {
+          "distance": 0.2446621060371399,
+          "id": 1763559669
+        },
+        {
+          "distance": 0.2580776810646057,
+          "id": 1729358645
+        },
+        {
+          "distance": 0.2845214605331421,
+          "id": 1729360245
+        },
+        {
+          "distance": 0.2908814549446106,
+          "id": 1763559421
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559309,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Thomas Chandler and other potters of Edgefield, South Carolina, often mixed different clays together to achieve the proper balance and ground their clays in a pug mill to obtain the right consistency for turning...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

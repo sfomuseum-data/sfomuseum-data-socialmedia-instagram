@@ -29,6 +29,50 @@
       "taken": 1671641580,
       "taken_at": "Dec 21, 2022 4:53 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.004173099994659424,
+          "id": 1729357103
+        },
+        {
+          "distance": 0.1104658842086792,
+          "id": 1729357103
+        },
+        {
+          "distance": 0.13916343450546265,
+          "id": 1729359159
+        },
+        {
+          "distance": 0.15735292434692383,
+          "id": 1729355207
+        },
+        {
+          "distance": 0.17453724145889282,
+          "id": 1729360279
+        },
+        {
+          "distance": 0.18724852800369263,
+          "id": 1729355207
+        },
+        {
+          "distance": 0.19186025857925415,
+          "id": 1729360121
+        },
+        {
+          "distance": 0.2035607099533081,
+          "id": 1729355091
+        },
+        {
+          "distance": 0.20371639728546143,
+          "id": 1880151095
+        },
+        {
+          "distance": 0.21452277898788452,
+          "id": 1729361593
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880151243,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Take a walk through the past!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

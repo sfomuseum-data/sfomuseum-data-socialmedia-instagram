@@ -32,6 +32,50 @@
       "taken": 1631126700,
       "taken_at": "Sep 08, 2021 6:45 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13561761379241943,
+          "id": 1763559575
+        },
+        {
+          "distance": 0.17176532745361328,
+          "id": 1880151261
+        },
+        {
+          "distance": 0.18318969011306763,
+          "id": 1763559575
+        },
+        {
+          "distance": 0.18657588958740234,
+          "id": 1729361435
+        },
+        {
+          "distance": 0.18974846601486206,
+          "id": 1729356065
+        },
+        {
+          "distance": 0.19168907403945923,
+          "id": 1763559419
+        },
+        {
+          "distance": 0.19768548011779785,
+          "id": 1729355495
+        },
+        {
+          "distance": 0.19824910163879395,
+          "id": 1880151247
+        },
+        {
+          "distance": 0.19893115758895874,
+          "id": 1729356529
+        },
+        {
+          "distance": 0.19926053285598755,
+          "id": 1729355687
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1763559435,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Amid the height of the Cold War, the U.S.S.R. was committed to producing a supersonic transport (SST) before the Western world...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

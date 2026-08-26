@@ -27,6 +27,50 @@
       "taken": 1585856400,
       "taken_at": "Apr 02, 2020 7:40 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23093289136886597,
+          "id": 1729355129
+        },
+        {
+          "distance": 0.26424503326416016,
+          "id": 1729355129
+        },
+        {
+          "distance": 0.2822231650352478,
+          "id": 1729362577
+        },
+        {
+          "distance": 0.2931743860244751,
+          "id": 1729362577
+        },
+        {
+          "distance": 0.3052237033843994,
+          "id": 1729355123
+        },
+        {
+          "distance": 0.3055790662765503,
+          "id": 1729355123
+        },
+        {
+          "distance": 0.3435937762260437,
+          "id": 1729355359
+        },
+        {
+          "distance": 0.3582819700241089,
+          "id": 1763559471
+        },
+        {
+          "distance": 0.3674317002296448,
+          "id": 1729355135
+        },
+        {
+          "distance": 0.3710758686065674,
+          "id": 1729355359
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1729355375,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777624,
     "wof:name": "African barbershop and hairdressing signs often detail the latest hairstyles...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -73,5 +117,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

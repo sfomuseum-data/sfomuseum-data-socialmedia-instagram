@@ -25,6 +25,50 @@
       "taken": 1444903080,
       "taken_at": "Oct 15, 2015 9:58 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3130192756652832,
+          "id": 1729359741
+        },
+        {
+          "distance": 0.33352553844451904,
+          "id": 1729355063
+        },
+        {
+          "distance": 0.34109920263290405,
+          "id": 1729359741
+        },
+        {
+          "distance": 0.3646911382675171,
+          "id": 1729355317
+        },
+        {
+          "distance": 0.3682120442390442,
+          "id": 1729361995
+        },
+        {
+          "distance": 0.37976759672164917,
+          "id": 1729362959
+        },
+        {
+          "distance": 0.37977176904678345,
+          "id": 1947424943
+        },
+        {
+          "distance": 0.3818542957305908,
+          "id": 1729360673
+        },
+        {
+          "distance": 0.3838258981704712,
+          "id": 1729361401
+        },
+        {
+          "distance": 0.385361909866333,
+          "id": 1729359723
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361469,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "By 1939, with the introduction of service to Europe via Portugal, Pan American Airways had become a truly global airline...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

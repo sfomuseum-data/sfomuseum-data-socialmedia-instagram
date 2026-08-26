@@ -25,6 +25,50 @@
       "taken": 1349875920,
       "taken_at": "Oct 10, 2012 1:32 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2940332293510437,
+          "id": 1729362853
+        },
+        {
+          "distance": 0.30770671367645264,
+          "id": 1729362925
+        },
+        {
+          "distance": 0.31222766637802124,
+          "id": 1729363019
+        },
+        {
+          "distance": 0.3125242590904236,
+          "id": 1729362853
+        },
+        {
+          "distance": 0.32945406436920166,
+          "id": 1729363019
+        },
+        {
+          "distance": 0.33144068717956543,
+          "id": 1729362801
+        },
+        {
+          "distance": 0.3315669894218445,
+          "id": 1729362925
+        },
+        {
+          "distance": 0.33374160528182983,
+          "id": 1729363011
+        },
+        {
+          "distance": 0.342961847782135,
+          "id": 1729362815
+        },
+        {
+          "distance": 0.3527863621711731,
+          "id": 1729363011
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362869,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777654,
     "wof:name": "Wild paint samples (c...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

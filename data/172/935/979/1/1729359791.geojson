@@ -25,6 +25,50 @@
       "taken": 1487845320,
       "taken_at": "Feb 23, 2017 10:22 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.28769350051879883,
+          "id": 1729361179
+        },
+        {
+          "distance": 0.2923296093940735,
+          "id": 1763559017
+        },
+        {
+          "distance": 0.29609745740890503,
+          "id": 1729361213
+        },
+        {
+          "distance": 0.3003842830657959,
+          "id": 1729358701
+        },
+        {
+          "distance": 0.3012675642967224,
+          "id": 1763559249
+        },
+        {
+          "distance": 0.30224496126174927,
+          "id": 1729357075
+        },
+        {
+          "distance": 0.30331671237945557,
+          "id": 1729361159
+        },
+        {
+          "distance": 0.30392444133758545,
+          "id": 1880151189
+        },
+        {
+          "distance": 0.30706536769866943,
+          "id": 1729355569
+        },
+        {
+          "distance": 0.30903929471969604,
+          "id": 1763558607
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359791,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "The Lockheed Electra 10, built and designed to compete with the Boeing 247 and the Douglas DC-2, made its first flight #onthisday in 1934...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

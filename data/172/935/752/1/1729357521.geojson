@@ -39,6 +39,50 @@
       "taken": 1539940920,
       "taken_at": "Oct 19, 2018, 9:22 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16364187002182007,
+          "id": 1729357527
+        },
+        {
+          "distance": 0.1648198962211609,
+          "id": 1729357987
+        },
+        {
+          "distance": 0.1648198962211609,
+          "id": 1729357985
+        },
+        {
+          "distance": 0.17697995901107788,
+          "id": 1729358373
+        },
+        {
+          "distance": 0.1885741949081421,
+          "id": 1729357985
+        },
+        {
+          "distance": 0.1885741949081421,
+          "id": 1729357987
+        },
+        {
+          "distance": 0.19698703289031982,
+          "id": 1729358237
+        },
+        {
+          "distance": 0.2005397081375122,
+          "id": 1729358223
+        },
+        {
+          "distance": 0.20137250423431396,
+          "id": 1729358373
+        },
+        {
+          "distance": 0.20751065015792847,
+          "id": 1729357975
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729357521,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777632,
     "wof:name": "From the 1920s to the 1940s, radio programs that featured live musical performances were far more numerous than broadcasts of recorded music...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

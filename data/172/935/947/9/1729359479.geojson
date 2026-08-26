@@ -33,6 +33,50 @@
       "taken": 1495477560,
       "taken_at": "May 22, 2017 6:26 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.25393927097320557,
+          "id": 1729361193
+        },
+        {
+          "distance": 0.30895060300827026,
+          "id": 1729356303
+        },
+        {
+          "distance": 0.3093909025192261,
+          "id": 1729361193
+        },
+        {
+          "distance": 0.3108818531036377,
+          "id": 1729359601
+        },
+        {
+          "distance": 0.31740516424179077,
+          "id": 1763558911
+        },
+        {
+          "distance": 0.31994616985321045,
+          "id": 1729360637
+        },
+        {
+          "distance": 0.32052624225616455,
+          "id": 1729359719
+        },
+        {
+          "distance": 0.32315176725387573,
+          "id": 1729357805
+        },
+        {
+          "distance": 0.3255247473716736,
+          "id": 1729356113
+        },
+        {
+          "distance": 0.3257867693901062,
+          "id": 1729358661
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729359479,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "What did flight kitchens look like in the 1970s?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

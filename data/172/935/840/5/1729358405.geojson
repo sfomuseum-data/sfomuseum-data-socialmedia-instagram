@@ -38,6 +38,50 @@
       "taken": 1522398180,
       "taken_at": "Mar 30, 2018 8:23 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12609070539474487,
+          "id": 1729355091
+        },
+        {
+          "distance": 0.1465279459953308,
+          "id": 1729359159
+        },
+        {
+          "distance": 0.15560615062713623,
+          "id": 1729357969
+        },
+        {
+          "distance": 0.1656876802444458,
+          "id": 1729360465
+        },
+        {
+          "distance": 0.1697508692741394,
+          "id": 1729361615
+        },
+        {
+          "distance": 0.17250877618789673,
+          "id": 1729360607
+        },
+        {
+          "distance": 0.1851729154586792,
+          "id": 1763559131
+        },
+        {
+          "distance": 0.1862141489982605,
+          "id": 1729361593
+        },
+        {
+          "distance": 0.18824642896652222,
+          "id": 1729361615
+        },
+        {
+          "distance": 0.18902063369750977,
+          "id": 1729357969
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729358405,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Terminal 1 is currently being renovated, but we can look back in time at it using our collection...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

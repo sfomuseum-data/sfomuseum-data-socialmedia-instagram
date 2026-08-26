@@ -31,6 +31,50 @@
       "taken": 1673628360,
       "taken_at": "Jan 13, 2023 4:46 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16362464427947998,
+          "id": 1947425291
+        },
+        {
+          "distance": 0.17126953601837158,
+          "id": 1729355059
+        },
+        {
+          "distance": 0.17719179391860962,
+          "id": 1880151439
+        },
+        {
+          "distance": 0.17910003662109375,
+          "id": 1947425167
+        },
+        {
+          "distance": 0.18030554056167603,
+          "id": 1763558835
+        },
+        {
+          "distance": 0.18084120750427246,
+          "id": 1880151305
+        },
+        {
+          "distance": 0.1838303804397583,
+          "id": 1729355249
+        },
+        {
+          "distance": 0.19221055507659912,
+          "id": 1947425087
+        },
+        {
+          "distance": 0.19730770587921143,
+          "id": 1763558835
+        },
+        {
+          "distance": 0.19868546724319458,
+          "id": 1947425291
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151187,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Eileen Reynolds Curtis (1915–77) was a San Francisco Bay Area studio potter who was known for hand-thrown ceramics with unique and distinctive glazes...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

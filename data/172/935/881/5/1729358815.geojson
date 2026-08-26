@@ -35,6 +35,50 @@
       "taken": 1513371840,
       "taken_at": "Dec 15, 2017, 9:04 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.00006890296936035156,
+          "id": 1763558693
+        },
+        {
+          "distance": 0.11623376607894897,
+          "id": 1763558693
+        },
+        {
+          "distance": 0.3152095675468445,
+          "id": 1729358737
+        },
+        {
+          "distance": 0.3397252559661865,
+          "id": 1729357723
+        },
+        {
+          "distance": 0.3433426022529602,
+          "id": 1729357723
+        },
+        {
+          "distance": 0.34335416555404663,
+          "id": 1729358735
+        },
+        {
+          "distance": 0.3451124429702759,
+          "id": 1729360031
+        },
+        {
+          "distance": 0.3569400906562805,
+          "id": 1729358725
+        },
+        {
+          "distance": 0.3644079566001892,
+          "id": 1729358737
+        },
+        {
+          "distance": 0.364448606967926,
+          "id": 1729358693
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729358815,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Coin-operated machines combined mechanical novelty and automated convenience...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

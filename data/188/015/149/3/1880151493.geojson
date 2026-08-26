@@ -30,6 +30,50 @@
       "taken": 1661357520,
       "taken_at": "Aug 24, 2022 4:12 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06134593486785889,
+          "id": 1880151245
+        },
+        {
+          "distance": 0.14497852325439453,
+          "id": 1880151707
+        },
+        {
+          "distance": 0.14891743659973145,
+          "id": 1880151515
+        },
+        {
+          "distance": 0.15717726945877075,
+          "id": 1763559649
+        },
+        {
+          "distance": 0.16201478242874146,
+          "id": 1763559321
+        },
+        {
+          "distance": 0.16419661045074463,
+          "id": 1880151217
+        },
+        {
+          "distance": 0.16592037677764893,
+          "id": 1880151245
+        },
+        {
+          "distance": 0.17605650424957275,
+          "id": 1763559523
+        },
+        {
+          "distance": 0.18672209978103638,
+          "id": 1880151745
+        },
+        {
+          "distance": 0.18813830614089966,
+          "id": 1729356101
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151493,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "The individual patterns of this Persian ceiling paper set were drawn and adapted from examples of the Persian and Indo-Persian patterns depicted in Albert Racinet’s compendium L’Ornement Polychrome, published in installments between 1869 and 1873...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

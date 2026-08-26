@@ -33,6 +33,50 @@
       "taken": 1492428540,
       "taken_at": "Apr 17, 2017 11:29 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16469305753707886,
+          "id": 1729356329
+        },
+        {
+          "distance": 0.19510740041732788,
+          "id": 1729356329
+        },
+        {
+          "distance": 0.2511003017425537,
+          "id": 1729361273
+        },
+        {
+          "distance": 0.302401602268219,
+          "id": 1729361273
+        },
+        {
+          "distance": 0.30370354652404785,
+          "id": 1729360029
+        },
+        {
+          "distance": 0.30592095851898193,
+          "id": 1729360029
+        },
+        {
+          "distance": 0.32355213165283203,
+          "id": 1729360367
+        },
+        {
+          "distance": 0.332857608795166,
+          "id": 1729358871
+        },
+        {
+          "distance": 0.332857608795166,
+          "id": 1763558701
+        },
+        {
+          "distance": 0.336525022983551,
+          "id": 1729359851
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729359605,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "The first Western Air Express flight departed #onthisday in 1926 with an airmail flight from LA to Salt Lake City in a Douglas M-2 mailplane...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

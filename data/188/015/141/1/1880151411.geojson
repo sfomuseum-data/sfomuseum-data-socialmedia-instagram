@@ -31,6 +31,50 @@
       "taken": 1664900640,
       "taken_at": "Oct 04, 2022 4:24 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0036130547523498535,
+          "id": 1880151501
+        },
+        {
+          "distance": 0.09508740901947021,
+          "id": 1763559589
+        },
+        {
+          "distance": 0.11410331726074219,
+          "id": 1880151501
+        },
+        {
+          "distance": 0.17567402124404907,
+          "id": 1763559589
+        },
+        {
+          "distance": 0.2612624168395996,
+          "id": 1880151555
+        },
+        {
+          "distance": 0.2627045512199402,
+          "id": 1763559323
+        },
+        {
+          "distance": 0.2664514183998108,
+          "id": 1947424799
+        },
+        {
+          "distance": 0.27224189043045044,
+          "id": 1880151781
+        },
+        {
+          "distance": 0.28738391399383545,
+          "id": 1880151325
+        },
+        {
+          "distance": 0.28903788328170776,
+          "id": 1729359719
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151411,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Designed in the International Style, SFO’s 1954 Terminal was a seven-story building and employed an innovative, dual-level layout that separated departures from arrivals...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

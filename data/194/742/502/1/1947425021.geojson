@@ -27,6 +27,50 @@
       "taken": 1714745700,
       "taken_at": "May 03, 2024 2:15 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06808465719223022,
+          "id": 1947424969
+        },
+        {
+          "distance": 0.07967299222946167,
+          "id": 1947424849
+        },
+        {
+          "distance": 0.0981452465057373,
+          "id": 1947424895
+        },
+        {
+          "distance": 0.10092735290527344,
+          "id": 1947424969
+        },
+        {
+          "distance": 0.11668598651885986,
+          "id": 1729357069
+        },
+        {
+          "distance": 0.11980503797531128,
+          "id": 1729358531
+        },
+        {
+          "distance": 0.1214187741279602,
+          "id": 1729358211
+        },
+        {
+          "distance": 0.12421160936355591,
+          "id": 1729357493
+        },
+        {
+          "distance": 0.12741535902023315,
+          "id": 1947425297
+        },
+        {
+          "distance": 0.1303672194480896,
+          "id": 1947424849
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947425021,
-    "wof:lastmodified": 1733175324,
+    "wof:lastmodified": 1787777664,
     "wof:name": "The DC-7 was Douglas Aircraft’s final design evolution of the piston-powered, four-engine, low-wing airliner concept that began with the DC-4 in the 1940s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

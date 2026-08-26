@@ -31,6 +31,50 @@
       "taken": 1576059420,
       "taken_at": "Dec 11, 2019 10:17 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2816077470779419,
+          "id": 1729357473
+        },
+        {
+          "distance": 0.2944409251213074,
+          "id": 1729361485
+        },
+        {
+          "distance": 0.29865342378616333,
+          "id": 1729360475
+        },
+        {
+          "distance": 0.3169156312942505,
+          "id": 1729361545
+        },
+        {
+          "distance": 0.3210896849632263,
+          "id": 1729361485
+        },
+        {
+          "distance": 0.32244402170181274,
+          "id": 1729357473
+        },
+        {
+          "distance": 0.3285565972328186,
+          "id": 1729355325
+        },
+        {
+          "distance": 0.3311363458633423,
+          "id": 1880151013
+        },
+        {
+          "distance": 0.3316967487335205,
+          "id": 1729360641
+        },
+        {
+          "distance": 0.33245140314102173,
+          "id": 1880151013
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729355801,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777627,
     "wof:name": "As the December chill has descended on the Bay Area, SFO Museum staff would love to visit a beach like this one featured on a Pan American World Airways poster advertising the tropical island of Bermuda...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

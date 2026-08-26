@@ -29,6 +29,50 @@
       "taken": 1634150700,
       "taken_at": "Oct 13, 2021 6:45 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24734246730804443,
+          "id": 1763559183
+        },
+        {
+          "distance": 0.2535587549209595,
+          "id": 1729359403
+        },
+        {
+          "distance": 0.27086931467056274,
+          "id": 1880151617
+        },
+        {
+          "distance": 0.2720068693161011,
+          "id": 1729359761
+        },
+        {
+          "distance": 0.27264952659606934,
+          "id": 1729362889
+        },
+        {
+          "distance": 0.2777671217918396,
+          "id": 1729361577
+        },
+        {
+          "distance": 0.2809547185897827,
+          "id": 1763559183
+        },
+        {
+          "distance": 0.2843508720397949,
+          "id": 1729356131
+        },
+        {
+          "distance": 0.2907997965812683,
+          "id": 1763559299
+        },
+        {
+          "distance": 0.2963978052139282,
+          "id": 1729359761
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1763559381,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "The Airbus A320 family includes the Airbus A318, A319, A320, and A321...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

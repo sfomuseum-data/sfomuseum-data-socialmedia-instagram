@@ -29,6 +29,50 @@
       "taken": 1671216420,
       "taken_at": "Dec 16, 2022 6:47 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1307697296142578,
+          "id": 1729358971
+        },
+        {
+          "distance": 0.1407831907272339,
+          "id": 1763559575
+        },
+        {
+          "distance": 0.15388333797454834,
+          "id": 1729355349
+        },
+        {
+          "distance": 0.15594875812530518,
+          "id": 1729358971
+        },
+        {
+          "distance": 0.15615040063858032,
+          "id": 1729361435
+        },
+        {
+          "distance": 0.15922260284423828,
+          "id": 1729355349
+        },
+        {
+          "distance": 0.16663718223571777,
+          "id": 1763559419
+        },
+        {
+          "distance": 0.17062121629714966,
+          "id": 1729356065
+        },
+        {
+          "distance": 0.17193835973739624,
+          "id": 1763559435
+        },
+        {
+          "distance": 0.17340624332427979,
+          "id": 1763559419
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880151261,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Our newest exhibition, “Supersonic Transport: The First Generation” is now on display in the Aviation Museum and Library...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

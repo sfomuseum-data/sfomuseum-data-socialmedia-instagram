@@ -25,6 +25,50 @@
       "taken": 1470216480,
       "taken_at": "Aug 03, 2016 9:28 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24410885572433472,
+          "id": 1729359527
+        },
+        {
+          "distance": 0.24928796291351318,
+          "id": 1729359833
+        },
+        {
+          "distance": 0.2547312378883362,
+          "id": 1729357279
+        },
+        {
+          "distance": 0.25978368520736694,
+          "id": 1729357105
+        },
+        {
+          "distance": 0.2599964737892151,
+          "id": 1729359527
+        },
+        {
+          "distance": 0.26130199432373047,
+          "id": 1880150923
+        },
+        {
+          "distance": 0.2615981101989746,
+          "id": 1880150923
+        },
+        {
+          "distance": 0.2647693157196045,
+          "id": 1729356289
+        },
+        {
+          "distance": 0.27071303129196167,
+          "id": 1729358783
+        },
+        {
+          "distance": 0.27266037464141846,
+          "id": 1729360515
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360479,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "#OnThisDay in 1960, a Pan American World Airways Boeing 707 departed from New York for the first jet service to Rio de Janeiro, Brazil...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -31,6 +31,50 @@
       "taken": 1686650100,
       "taken_at": "Jun 13, 2023 9:55 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10702186822891235,
+          "id": 1947425261
+        },
+        {
+          "distance": 0.10920894145965576,
+          "id": 1880150937
+        },
+        {
+          "distance": 0.11615580320358276,
+          "id": 1880150997
+        },
+        {
+          "distance": 0.13610363006591797,
+          "id": 1947425261
+        },
+        {
+          "distance": 0.14368879795074463,
+          "id": 1880150937
+        },
+        {
+          "distance": 0.16046059131622314,
+          "id": 1880150997
+        },
+        {
+          "distance": 0.16778796911239624,
+          "id": 1947425303
+        },
+        {
+          "distance": 0.17783355712890625,
+          "id": 1880150883
+        },
+        {
+          "distance": 0.17852509021759033,
+          "id": 1880150911
+        },
+        {
+          "distance": 0.1790771484375,
+          "id": 1947425307
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880150907,
-    "wof:lastmodified": 1733175333,
+    "wof:lastmodified": 1787777661,
     "wof:name": "𝘚𝘺𝘮𝘱𝘩𝘰𝘯𝘪𝘤 𝘋𝘢𝘯𝘤𝘦𝘴, which premiered in 2012, was Edwaard Liang’s first major work for San Francisco Ballet...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

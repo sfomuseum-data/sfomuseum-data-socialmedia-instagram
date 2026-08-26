@@ -27,6 +27,50 @@
       "taken": 1722008700,
       "taken_at": "Jul 26, 2024 3:45 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16404366493225098,
+          "id": 1947424879
+        },
+        {
+          "distance": 0.19596773386001587,
+          "id": 1729362675
+        },
+        {
+          "distance": 0.20495957136154175,
+          "id": 1947424823
+        },
+        {
+          "distance": 0.22412723302841187,
+          "id": 1947424823
+        },
+        {
+          "distance": 0.23204344511032104,
+          "id": 1880151305
+        },
+        {
+          "distance": 0.24181967973709106,
+          "id": 1947424879
+        },
+        {
+          "distance": 0.24411994218826294,
+          "id": 1729362675
+        },
+        {
+          "distance": 0.2554172873497009,
+          "id": 1880151619
+        },
+        {
+          "distance": 0.2683503031730652,
+          "id": 1880151305
+        },
+        {
+          "distance": 0.269247829914093,
+          "id": 1880151605
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947424945,
-    "wof:lastmodified": 1733175321,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Zheng He (1371–1433), a Muslim court eunuch during the Ming dynasty (1368–1644), was sponsored by the Yongle emperor to lead a fleet of ships on multiple expeditions to distant lands, including Southeast Asia...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

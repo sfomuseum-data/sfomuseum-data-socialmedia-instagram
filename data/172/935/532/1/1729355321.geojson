@@ -28,6 +28,50 @@
       "taken": 1587734100,
       "taken_at": "Apr 24, 2020 1:15 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.21200549602508545,
+          "id": 1729359509
+        },
+        {
+          "distance": 0.23082059621810913,
+          "id": 1729359509
+        },
+        {
+          "distance": 0.23173528909683228,
+          "id": 1729361659
+        },
+        {
+          "distance": 0.25828027725219727,
+          "id": 1729359839
+        },
+        {
+          "distance": 0.2650607228279114,
+          "id": 1763559085
+        },
+        {
+          "distance": 0.2686334252357483,
+          "id": 1729359397
+        },
+        {
+          "distance": 0.26881933212280273,
+          "id": 1729359839
+        },
+        {
+          "distance": 0.27852243185043335,
+          "id": 1729355605
+        },
+        {
+          "distance": 0.28081798553466797,
+          "id": 1729359921
+        },
+        {
+          "distance": 0.28400611877441406,
+          "id": 1729359717
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1729355321,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777623,
     "wof:name": "Two things we love: commercial aviation and hearing from YOU!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

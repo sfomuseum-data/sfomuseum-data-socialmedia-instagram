@@ -31,6 +31,50 @@
       "taken": 1617204960,
       "taken_at": "Mar 31, 2021 3:36 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17468011379241943,
+          "id": 1729359879
+        },
+        {
+          "distance": 0.21520835161209106,
+          "id": 1729359879
+        },
+        {
+          "distance": 0.21525967121124268,
+          "id": 1729357707
+        },
+        {
+          "distance": 0.21582269668579102,
+          "id": 1729359329
+        },
+        {
+          "distance": 0.22019517421722412,
+          "id": 1729359645
+        },
+        {
+          "distance": 0.22735291719436646,
+          "id": 1763559125
+        },
+        {
+          "distance": 0.22851693630218506,
+          "id": 1729355351
+        },
+        {
+          "distance": 0.22852271795272827,
+          "id": 1729359307
+        },
+        {
+          "distance": 0.22861552238464355,
+          "id": 1729359511
+        },
+        {
+          "distance": 0.22884881496429443,
+          "id": 1763559085
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559211,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "It's Wing Wednesday, and today's plane is the Boeing 307 Stratoliner!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

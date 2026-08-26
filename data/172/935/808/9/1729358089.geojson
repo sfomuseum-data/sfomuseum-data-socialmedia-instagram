@@ -37,6 +37,50 @@
       "taken": 1529581200,
       "taken_at": "Jun 21, 2018 11:40 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24211418628692627,
+          "id": 1763559193
+        },
+        {
+          "distance": 0.266237735748291,
+          "id": 1763559213
+        },
+        {
+          "distance": 0.2696502208709717,
+          "id": 1729361401
+        },
+        {
+          "distance": 0.27638280391693115,
+          "id": 1763559193
+        },
+        {
+          "distance": 0.27847176790237427,
+          "id": 1729355483
+        },
+        {
+          "distance": 0.28043460845947266,
+          "id": 1729355541
+        },
+        {
+          "distance": 0.2884204387664795,
+          "id": 1729361401
+        },
+        {
+          "distance": 0.2910507321357727,
+          "id": 1729356385
+        },
+        {
+          "distance": 0.29565614461898804,
+          "id": 1729358551
+        },
+        {
+          "distance": 0.307245135307312,
+          "id": 1729355541
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729358089,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Are you ready for this weekend’s Pride festivities?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -30,6 +30,50 @@
       "taken": 1606131000,
       "taken_at": "Nov 23, 2020 11:30 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10024207830429077,
+          "id": 1729359611
+        },
+        {
+          "distance": 0.11034536361694336,
+          "id": 1729355377
+        },
+        {
+          "distance": 0.11675834655761719,
+          "id": 1729361605
+        },
+        {
+          "distance": 0.13595867156982422,
+          "id": 1729359611
+        },
+        {
+          "distance": 0.14824342727661133,
+          "id": 1729355377
+        },
+        {
+          "distance": 0.17997044324874878,
+          "id": 1729361605
+        },
+        {
+          "distance": 0.18541425466537476,
+          "id": 1880151263
+        },
+        {
+          "distance": 0.22657638788223267,
+          "id": 1880151431
+        },
+        {
+          "distance": 0.22779697179794312,
+          "id": 1729361109
+        },
+        {
+          "distance": 0.23046308755874634,
+          "id": 1880151313
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763558983,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "On November 22, 1935, the inaugural Pan American Airways Clipper transpacific airmail service departed from California to Manila, the Philippines, carrying 110,865 letters...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

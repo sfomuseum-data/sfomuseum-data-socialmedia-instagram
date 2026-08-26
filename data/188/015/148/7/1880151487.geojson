@@ -30,6 +30,50 @@
       "taken": 1661443680,
       "taken_at": "Aug 25, 2022 4:08 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.28350281715393066,
+          "id": 1729361975
+        },
+        {
+          "distance": 0.30360883474349976,
+          "id": 1729359663
+        },
+        {
+          "distance": 0.32111114263534546,
+          "id": 1729360475
+        },
+        {
+          "distance": 0.32726436853408813,
+          "id": 1729361975
+        },
+        {
+          "distance": 0.336830198764801,
+          "id": 1880151505
+        },
+        {
+          "distance": 0.35142654180526733,
+          "id": 1729359663
+        },
+        {
+          "distance": 0.35437536239624023,
+          "id": 1880151013
+        },
+        {
+          "distance": 0.3556528091430664,
+          "id": 1729360475
+        },
+        {
+          "distance": 0.35971421003341675,
+          "id": 1729361309
+        },
+        {
+          "distance": 0.36057692766189575,
+          "id": 1729361153
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151487,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Although Pan American World Airways experienced unprecedented success in the 1960s and 70s, by the end of the 1980s the company was struggling...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

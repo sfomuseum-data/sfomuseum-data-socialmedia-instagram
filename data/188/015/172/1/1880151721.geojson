@@ -29,6 +29,50 @@
       "taken": 1653325200,
       "taken_at": "May 23, 2022 5:00 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14604365825653076,
+          "id": 1880151445
+        },
+        {
+          "distance": 0.1482483148574829,
+          "id": 1880151611
+        },
+        {
+          "distance": 0.15446114540100098,
+          "id": 1729356091
+        },
+        {
+          "distance": 0.15486842393875122,
+          "id": 1729360319
+        },
+        {
+          "distance": 0.16100889444351196,
+          "id": 1880151611
+        },
+        {
+          "distance": 0.18025875091552734,
+          "id": 1729358049
+        },
+        {
+          "distance": 0.18345952033996582,
+          "id": 1880151595
+        },
+        {
+          "distance": 0.18433642387390137,
+          "id": 1880151595
+        },
+        {
+          "distance": 0.19096004962921143,
+          "id": 1729357217
+        },
+        {
+          "distance": 0.19300240278244019,
+          "id": 1729358203
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880151721,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777663,
     "wof:name": "During the first years of powered flight, a number of courageous women took to the skies at a time when popular opinion held that flying was both socially inappropriate and physically impossible for women...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

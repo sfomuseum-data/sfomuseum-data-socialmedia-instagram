@@ -30,6 +30,50 @@
       "taken": 1636039500,
       "taken_at": "Nov 04, 2021 3:25 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18532806634902954,
+          "id": 1729361227
+        },
+        {
+          "distance": 0.1944282054901123,
+          "id": 1729359523
+        },
+        {
+          "distance": 0.21661680936813354,
+          "id": 1729360877
+        },
+        {
+          "distance": 0.22734153270721436,
+          "id": 1729359987
+        },
+        {
+          "distance": 0.23257172107696533,
+          "id": 1729361697
+        },
+        {
+          "distance": 0.24218374490737915,
+          "id": 1729361113
+        },
+        {
+          "distance": 0.24481290578842163,
+          "id": 1729360199
+        },
+        {
+          "distance": 0.26013660430908203,
+          "id": 1763559449
+        },
+        {
+          "distance": 0.260351300239563,
+          "id": 1729359805
+        },
+        {
+          "distance": 0.2605462074279785,
+          "id": 1880151449
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559345,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Why, yes...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

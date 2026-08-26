@@ -29,6 +29,50 @@
       "taken": 1710344760,
       "taken_at": "Mar 13, 2024 3:46 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1887725591659546,
+          "id": 1729358887
+        },
+        {
+          "distance": 0.20735734701156616,
+          "id": 1729359199
+        },
+        {
+          "distance": 0.2559126615524292,
+          "id": 1729359199
+        },
+        {
+          "distance": 0.2574135661125183,
+          "id": 1729358887
+        },
+        {
+          "distance": 0.2642623782157898,
+          "id": 1729360641
+        },
+        {
+          "distance": 0.3147430419921875,
+          "id": 1880151161
+        },
+        {
+          "distance": 0.3257015347480774,
+          "id": 1729360641
+        },
+        {
+          "distance": 0.32712888717651367,
+          "id": 1729359969
+        },
+        {
+          "distance": 0.3332664370536804,
+          "id": 1729357349
+        },
+        {
+          "distance": 0.33517134189605713,
+          "id": 1880151161
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1947425093,
-    "wof:lastmodified": 1733175325,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Some airline destination posters highlighted celebrities from the advertised destination...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

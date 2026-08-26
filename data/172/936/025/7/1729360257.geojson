@@ -25,6 +25,50 @@
       "taken": 1475833080,
       "taken_at": "Oct 07, 2016 9:38 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14385658502578735,
+          "id": 1763559643
+        },
+        {
+          "distance": 0.14968454837799072,
+          "id": 1729361467
+        },
+        {
+          "distance": 0.15139895677566528,
+          "id": 1729361467
+        },
+        {
+          "distance": 0.16296225786209106,
+          "id": 1729357403
+        },
+        {
+          "distance": 0.16626322269439697,
+          "id": 1729360519
+        },
+        {
+          "distance": 0.16758567094802856,
+          "id": 1763559643
+        },
+        {
+          "distance": 0.17337173223495483,
+          "id": 1729360135
+        },
+        {
+          "distance": 0.17709118127822876,
+          "id": 1729360519
+        },
+        {
+          "distance": 0.19185394048690796,
+          "id": 1763559147
+        },
+        {
+          "distance": 0.19189101457595825,
+          "id": 1729360205
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360257,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "Air France engaged the House of Dior to launch its new collection in 1962 as the jet age transformed world travel...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

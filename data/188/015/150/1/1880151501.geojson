@@ -30,6 +30,50 @@
       "taken": 1661269560,
       "taken_at": "Aug 23, 2022 3:46 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.003605067729949951,
+          "id": 1880151411
+        },
+        {
+          "distance": 0.09371155500411987,
+          "id": 1763559589
+        },
+        {
+          "distance": 0.11487853527069092,
+          "id": 1880151411
+        },
+        {
+          "distance": 0.17090559005737305,
+          "id": 1763559589
+        },
+        {
+          "distance": 0.2594097852706909,
+          "id": 1763559323
+        },
+        {
+          "distance": 0.2601360082626343,
+          "id": 1880151555
+        },
+        {
+          "distance": 0.26630550622940063,
+          "id": 1947424799
+        },
+        {
+          "distance": 0.27238398790359497,
+          "id": 1880151781
+        },
+        {
+          "distance": 0.28854942321777344,
+          "id": 1729359719
+        },
+        {
+          "distance": 0.28897005319595337,
+          "id": 1947424843
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151501,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "To keep pace with the rapid expansion of commercial aviation in the 1940s and 50s, major airports around the world updated their facilities with longer runways, expansive taxiways, and modern passenger terminals including at San Francisco Airport, where construction of a new terminal began in 1951...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

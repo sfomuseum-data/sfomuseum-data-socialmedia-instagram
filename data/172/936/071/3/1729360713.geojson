@@ -25,6 +25,50 @@
       "taken": 1463507460,
       "taken_at": "May 17, 2016 5:51 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.26160532236099243,
+          "id": 1729360749
+        },
+        {
+          "distance": 0.26623260974884033,
+          "id": 1729360469
+        },
+        {
+          "distance": 0.2670503854751587,
+          "id": 1763559479
+        },
+        {
+          "distance": 0.2696459889411926,
+          "id": 1763559479
+        },
+        {
+          "distance": 0.2696491479873657,
+          "id": 1729360469
+        },
+        {
+          "distance": 0.2818565368652344,
+          "id": 1729356049
+        },
+        {
+          "distance": 0.28473371267318726,
+          "id": 1729360749
+        },
+        {
+          "distance": 0.29172277450561523,
+          "id": 1729358105
+        },
+        {
+          "distance": 0.29341787099838257,
+          "id": 1729355417
+        },
+        {
+          "distance": 0.2957398295402527,
+          "id": 1729355417
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360713,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "airberlin returned to SFO for seasonal service last week...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

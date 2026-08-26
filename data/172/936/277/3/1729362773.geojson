@@ -25,6 +25,50 @@
       "taken": 1363344420,
       "taken_at": "Mar 15, 2013 10:47 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1897243857383728,
+          "id": 1729356163
+        },
+        {
+          "distance": 0.2002272605895996,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.20393633842468262,
+          "id": 1729360291
+        },
+        {
+          "distance": 0.21328061819076538,
+          "id": 1729361797
+        },
+        {
+          "distance": 0.21379858255386353,
+          "id": 1729355777
+        },
+        {
+          "distance": 0.2209150791168213,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.22415369749069214,
+          "id": 1729362367
+        },
+        {
+          "distance": 0.2355363368988037,
+          "id": 1729355777
+        },
+        {
+          "distance": 0.23615598678588867,
+          "id": 1729362959
+        },
+        {
+          "distance": 0.2362554669380188,
+          "id": 1729362487
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362773,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "Artwork by Erik Otto part of the SF Recology exhibition...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -29,6 +29,50 @@
       "taken": 1603294860,
       "taken_at": "Oct 21, 2020 3:41 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14568382501602173,
+          "id": 1729355349
+        },
+        {
+          "distance": 0.1487773060798645,
+          "id": 1947424997
+        },
+        {
+          "distance": 0.16486024856567383,
+          "id": 1729355349
+        },
+        {
+          "distance": 0.18440765142440796,
+          "id": 1947424997
+        },
+        {
+          "distance": 0.21910899877548218,
+          "id": 1763559575
+        },
+        {
+          "distance": 0.2292112112045288,
+          "id": 1763559575
+        },
+        {
+          "distance": 0.24831855297088623,
+          "id": 1880151261
+        },
+        {
+          "distance": 0.2565036416053772,
+          "id": 1729355495
+        },
+        {
+          "distance": 0.2573751211166382,
+          "id": 1729360209
+        },
+        {
+          "distance": 0.2582213878631592,
+          "id": 1763558655
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1763559029,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "#OnThisDay in 1974, the Concorde landed at SFO...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -33,6 +33,50 @@
       "taken": 1535548080,
       "taken_at": "Aug 29, 2018, 1:08 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.22746270895004272,
+          "id": 1729357757
+        },
+        {
+          "distance": 0.28403472900390625,
+          "id": 1729357757
+        },
+        {
+          "distance": 0.32289940118789673,
+          "id": 1729361895
+        },
+        {
+          "distance": 0.33587968349456787,
+          "id": 1729359919
+        },
+        {
+          "distance": 0.3511326313018799,
+          "id": 1729357741
+        },
+        {
+          "distance": 0.3565900921821594,
+          "id": 1729358819
+        },
+        {
+          "distance": 0.3565934896469116,
+          "id": 1729361483
+        },
+        {
+          "distance": 0.36014747619628906,
+          "id": 1729362061
+        },
+        {
+          "distance": 0.36728382110595703,
+          "id": 1729361761
+        },
+        {
+          "distance": 0.37372201681137085,
+          "id": 1729359919
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729357745,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777632,
     "wof:name": "The Prison Arts Project started in 1977 as the original model for Arts in Corrections, a statewide California prison arts program which helped lower recidivism (return-to-prison rates) and improve the quality of life for tens of thousands of incarcerated people, their families, and the larger community...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1378903080,
       "taken_at": "Sep 11, 2013 12:38 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24256879091262817,
+          "id": 1763559349
+        },
+        {
+          "distance": 0.25070255994796753,
+          "id": 1729362977
+        },
+        {
+          "distance": 0.26004558801651,
+          "id": 1729362989
+        },
+        {
+          "distance": 0.26210910081863403,
+          "id": 1729363021
+        },
+        {
+          "distance": 0.270596981048584,
+          "id": 1729362503
+        },
+        {
+          "distance": 0.2713703513145447,
+          "id": 1729362977
+        },
+        {
+          "distance": 0.2715042233467102,
+          "id": 1729363007
+        },
+        {
+          "distance": 0.2722024917602539,
+          "id": 1729362983
+        },
+        {
+          "distance": 0.27388250827789307,
+          "id": 1729363007
+        },
+        {
+          "distance": 0.2815622091293335,
+          "id": 1729363015
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362551,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "It's hard to imagine heavy instruments of oak and brass on today's #AmericasCup yachts, but this 1930s binnacle was used aboard three defenders: Enterprise, Rainbow, and Ranger...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

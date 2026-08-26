@@ -29,6 +29,50 @@
       "taken": 1685852100,
       "taken_at": "Jun 04, 2023 4:15 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17637181282043457,
+          "id": 1880151033
+        },
+        {
+          "distance": 0.17637181282043457,
+          "id": 1947425245
+        },
+        {
+          "distance": 0.17843997478485107,
+          "id": 1947425119
+        },
+        {
+          "distance": 0.17888402938842773,
+          "id": 1947425119
+        },
+        {
+          "distance": 0.184145987033844,
+          "id": 1947425245
+        },
+        {
+          "distance": 0.184145987033844,
+          "id": 1880151033
+        },
+        {
+          "distance": 0.2328333854675293,
+          "id": 1880151059
+        },
+        {
+          "distance": 0.23549151420593262,
+          "id": 1947425263
+        },
+        {
+          "distance": 0.2451050877571106,
+          "id": 1880151099
+        },
+        {
+          "distance": 0.2608591318130493,
+          "id": 1947425287
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880150897,
-    "wof:lastmodified": 1733175333,
+    "wof:lastmodified": 1787777661,
     "wof:name": "South-African-born Portuguese choreographer Arthur Pita (b...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

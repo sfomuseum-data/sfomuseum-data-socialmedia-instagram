@@ -40,6 +40,50 @@
       "taken": 1527247500,
       "taken_at": "May 25, 2018 11:25 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.28900229930877686,
+          "id": 1729358187
+        },
+        {
+          "distance": 0.3011959195137024,
+          "id": 1729358187
+        },
+        {
+          "distance": 0.32083988189697266,
+          "id": 1729358875
+        },
+        {
+          "distance": 0.32821667194366455,
+          "id": 1729358875
+        },
+        {
+          "distance": 0.33682453632354736,
+          "id": 1729355141
+        },
+        {
+          "distance": 0.3396434187889099,
+          "id": 1729358185
+        },
+        {
+          "distance": 0.3410959243774414,
+          "id": 1729355141
+        },
+        {
+          "distance": 0.3433871269226074,
+          "id": 1729356225
+        },
+        {
+          "distance": 0.3452416658401489,
+          "id": 1729360993
+        },
+        {
+          "distance": 0.3457328677177429,
+          "id": 1729360993
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729358201,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Do you wonder where your fish and shellfish may come from?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1454614260,
       "taken_at": "Feb 04, 2016 7:31 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1127961277961731,
+          "id": 1729357711
+        },
+        {
+          "distance": 0.12148028612136841,
+          "id": 1729356177
+        },
+        {
+          "distance": 0.15667933225631714,
+          "id": 1729357711
+        },
+        {
+          "distance": 0.15881657600402832,
+          "id": 1729360263
+        },
+        {
+          "distance": 0.16018855571746826,
+          "id": 1729358763
+        },
+        {
+          "distance": 0.16243243217468262,
+          "id": 1729355165
+        },
+        {
+          "distance": 0.16391116380691528,
+          "id": 1729356177
+        },
+        {
+          "distance": 0.1709335446357727,
+          "id": 1763559547
+        },
+        {
+          "distance": 0.17111951112747192,
+          "id": 1729361255
+        },
+        {
+          "distance": 0.17365407943725586,
+          "id": 1729360541
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361085,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777643,
     "wof:name": "In the competition with Boeing to create the first American-produced turbojet airliner, Douglas developed the DC-8 in the late 1950s and introduced it in 1959, nearly a year after Boeing introduced their 707 jetliner...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

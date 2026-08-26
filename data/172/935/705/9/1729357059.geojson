@@ -32,6 +32,50 @@
       "taken": 1547808900,
       "taken_at": "Jan 18, 2019 10:55 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.08951514959335327,
+          "id": 1763559411
+        },
+        {
+          "distance": 0.13408809900283813,
+          "id": 1729357627
+        },
+        {
+          "distance": 0.13683968782424927,
+          "id": 1729359593
+        },
+        {
+          "distance": 0.13911062479019165,
+          "id": 1763559411
+        },
+        {
+          "distance": 0.1402340531349182,
+          "id": 1729359043
+        },
+        {
+          "distance": 0.14413756132125854,
+          "id": 1729359593
+        },
+        {
+          "distance": 0.1495388150215149,
+          "id": 1729359043
+        },
+        {
+          "distance": 0.15153563022613525,
+          "id": 1729359601
+        },
+        {
+          "distance": 0.16041141748428345,
+          "id": 1763559015
+        },
+        {
+          "distance": 0.16171181201934814,
+          "id": 1729359591
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729357059,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777630,
     "wof:name": "When Boeing decided to build the 747, they realized that the giant plane would require a new assembly building...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

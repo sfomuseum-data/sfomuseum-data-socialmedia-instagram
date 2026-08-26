@@ -31,6 +31,50 @@
       "taken": 1560362760,
       "taken_at": "Jun 12, 2019 6:06 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3044877052307129,
+          "id": 1729359701
+        },
+        {
+          "distance": 0.3051885962486267,
+          "id": 1729361559
+        },
+        {
+          "distance": 0.3234882354736328,
+          "id": 1729359733
+        },
+        {
+          "distance": 0.32609790563583374,
+          "id": 1763559155
+        },
+        {
+          "distance": 0.32666856050491333,
+          "id": 1729358501
+        },
+        {
+          "distance": 0.33121782541275024,
+          "id": 1729359969
+        },
+        {
+          "distance": 0.332616925239563,
+          "id": 1763559093
+        },
+        {
+          "distance": 0.33484166860580444,
+          "id": 1729359701
+        },
+        {
+          "distance": 0.3385464549064636,
+          "id": 1763559093
+        },
+        {
+          "distance": 0.339793860912323,
+          "id": 1729359097
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729356437,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "“Two miles a minute” is how Pan American advertised their services in 1931...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

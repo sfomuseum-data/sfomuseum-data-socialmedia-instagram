@@ -34,6 +34,50 @@
       "taken": 1584113820,
       "taken_at": "Mar 13, 2020, 3:37 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.27884817123413086,
+          "id": 1880151495
+        },
+        {
+          "distance": 0.27907001972198486,
+          "id": 1729355141
+        },
+        {
+          "distance": 0.2801278233528137,
+          "id": 1729361035
+        },
+        {
+          "distance": 0.2823260426521301,
+          "id": 1729355443
+        },
+        {
+          "distance": 0.2847810983657837,
+          "id": 1729356787
+        },
+        {
+          "distance": 0.29382240772247314,
+          "id": 1729361035
+        },
+        {
+          "distance": 0.2964257001876831,
+          "id": 1880151495
+        },
+        {
+          "distance": 0.29890191555023193,
+          "id": 1729355443
+        },
+        {
+          "distance": 0.30217188596725464,
+          "id": 1729355761
+        },
+        {
+          "distance": 0.30231958627700806,
+          "id": 1729355749
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729355447,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777625,
     "wof:name": "Italian artist Luca Tombolini travels the globe in search of isolated locations and obscure landscapes...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

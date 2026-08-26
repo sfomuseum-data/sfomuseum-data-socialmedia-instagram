@@ -27,6 +27,50 @@
       "taken": 1719222300,
       "taken_at": "Jun 24, 2024 9:45 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06840723752975464,
+          "id": 1947425021
+        },
+        {
+          "distance": 0.10753989219665527,
+          "id": 1947425051
+        },
+        {
+          "distance": 0.10869163274765015,
+          "id": 1729357493
+        },
+        {
+          "distance": 0.11097520589828491,
+          "id": 1947424849
+        },
+        {
+          "distance": 0.1155240535736084,
+          "id": 1729356977
+        },
+        {
+          "distance": 0.12304109334945679,
+          "id": 1947424895
+        },
+        {
+          "distance": 0.12333619594573975,
+          "id": 1947425021
+        },
+        {
+          "distance": 0.12407529354095459,
+          "id": 1729358657
+        },
+        {
+          "distance": 0.13427948951721191,
+          "id": 1729357387
+        },
+        {
+          "distance": 0.1394219994544983,
+          "id": 1729357275
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947424969,
-    "wof:lastmodified": 1733175322,
+    "wof:lastmodified": 1787777664,
     "wof:name": "This model of the Continental Air Lines Douglas DC-7B City of Los Angeles was crafted by Gary Field (b...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

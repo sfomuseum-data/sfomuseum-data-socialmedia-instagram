@@ -36,6 +36,50 @@
       "taken": 1569682980,
       "taken_at": "Sep 28, 2019 3:03 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2233790159225464,
+          "id": 1729357663
+        },
+        {
+          "distance": 0.2350185513496399,
+          "id": 1729357663
+        },
+        {
+          "distance": 0.24411189556121826,
+          "id": 1763558769
+        },
+        {
+          "distance": 0.24411189556121826,
+          "id": 1729357665
+        },
+        {
+          "distance": 0.2486523985862732,
+          "id": 1729357665
+        },
+        {
+          "distance": 0.2486523985862732,
+          "id": 1763558769
+        },
+        {
+          "distance": 0.2676351070404053,
+          "id": 1729358949
+        },
+        {
+          "distance": 0.26986032724380493,
+          "id": 1729358949
+        },
+        {
+          "distance": 0.2717052698135376,
+          "id": 1729357657
+        },
+        {
+          "distance": 0.28436893224716187,
+          "id": 1729357657
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729356055,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777628,
     "wof:name": "Celebrate National Public Lands Day with a short film at SFO...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

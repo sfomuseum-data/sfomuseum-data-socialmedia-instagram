@@ -33,6 +33,50 @@
       "taken": 1555523100,
       "taken_at": "Apr 17, 2019 5:45 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24397295713424683,
+          "id": 1729357149
+        },
+        {
+          "distance": 0.2659415006637573,
+          "id": 1729356829
+        },
+        {
+          "distance": 0.2697792649269104,
+          "id": 1729357009
+        },
+        {
+          "distance": 0.27363133430480957,
+          "id": 1729356627
+        },
+        {
+          "distance": 0.2843775153160095,
+          "id": 1729356627
+        },
+        {
+          "distance": 0.28447049856185913,
+          "id": 1729357143
+        },
+        {
+          "distance": 0.2951381206512451,
+          "id": 1729357571
+        },
+        {
+          "distance": 0.31529808044433594,
+          "id": 1729357097
+        },
+        {
+          "distance": 0.3160638213157654,
+          "id": 1729359521
+        },
+        {
+          "distance": 0.31910204887390137,
+          "id": 1729357339
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729356653,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "One of the most individualistic, great Texas barrelhouse pianists, Alex Moore (1899–1989) made his first recordings with Columbia Records in the late 1920s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

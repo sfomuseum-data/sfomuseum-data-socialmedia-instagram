@@ -31,6 +31,50 @@
       "taken": 1671192840,
       "taken_at": "Dec 16, 2022 12:14 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.21966493129730225,
+          "id": 1880151517
+        },
+        {
+          "distance": 0.22560805082321167,
+          "id": 1880151807
+        },
+        {
+          "distance": 0.22965770959854126,
+          "id": 1880150979
+        },
+        {
+          "distance": 0.2335030436515808,
+          "id": 1947425167
+        },
+        {
+          "distance": 0.2340235710144043,
+          "id": 1880151807
+        },
+        {
+          "distance": 0.24399292469024658,
+          "id": 1880151157
+        },
+        {
+          "distance": 0.24653947353363037,
+          "id": 1947425243
+        },
+        {
+          "distance": 0.25096970796585083,
+          "id": 1947425291
+        },
+        {
+          "distance": 0.25101912021636963,
+          "id": 1947425119
+        },
+        {
+          "distance": 0.25284916162490845,
+          "id": 1947424873
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151257,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "San Francisco Opera christened a new home at the War Memorial Opera House on October 15, 1932...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

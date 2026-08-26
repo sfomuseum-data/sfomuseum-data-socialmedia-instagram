@@ -32,6 +32,50 @@
       "taken": 1649084040,
       "taken_at": "Apr 04, 2022 2:54 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.25282400846481323,
+          "id": 1880151513
+        },
+        {
+          "distance": 0.25897008180618286,
+          "id": 1880151531
+        },
+        {
+          "distance": 0.2621743083000183,
+          "id": 1880151513
+        },
+        {
+          "distance": 0.26511359214782715,
+          "id": 1880151531
+        },
+        {
+          "distance": 0.2887311577796936,
+          "id": 1880151631
+        },
+        {
+          "distance": 0.2910654544830322,
+          "id": 1880151533
+        },
+        {
+          "distance": 0.2912968397140503,
+          "id": 1880151533
+        },
+        {
+          "distance": 0.2958284020423889,
+          "id": 1729355529
+        },
+        {
+          "distance": 0.3016899824142456,
+          "id": 1880151575
+        },
+        {
+          "distance": 0.3016899824142456,
+          "id": 1880151563
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1763559511,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "This is your last week to see “Flight Patterns.” During the 1960s, conservative-yet-elegant flight attendant suits evolved into ensembles that mirrored the fun-loving, free-spirit of the time...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

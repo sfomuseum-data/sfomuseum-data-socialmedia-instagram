@@ -39,6 +39,50 @@
       "taken": 1542320280,
       "taken_at": "Nov 15, 2018, 10:18 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16436046361923218,
+          "id": 1729357347
+        },
+        {
+          "distance": 0.2661079168319702,
+          "id": 1763559087
+        },
+        {
+          "distance": 0.29156798124313354,
+          "id": 1729359425
+        },
+        {
+          "distance": 0.31948965787887573,
+          "id": 1729355903
+        },
+        {
+          "distance": 0.32141053676605225,
+          "id": 1729355677
+        },
+        {
+          "distance": 0.32754677534103394,
+          "id": 1880151205
+        },
+        {
+          "distance": 0.32817167043685913,
+          "id": 1729356819
+        },
+        {
+          "distance": 0.3286309242248535,
+          "id": 1763559087
+        },
+        {
+          "distance": 0.33170467615127563,
+          "id": 1729355883
+        },
+        {
+          "distance": 0.33185648918151855,
+          "id": 1729355667
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729357351,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777631,
     "wof:name": "Los Angeles-based artist Robert Ramirez depicts these classical greek urns in an expressive style that gives them a heroic presence...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

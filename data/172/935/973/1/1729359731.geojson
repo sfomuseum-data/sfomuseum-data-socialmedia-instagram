@@ -30,6 +30,50 @@
       "taken": 1489432500,
       "taken_at": "Mar 13, 2017 7:15 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.003762185573577881,
+          "id": 1729360309
+        },
+        {
+          "distance": 0.1100621223449707,
+          "id": 1729360309
+        },
+        {
+          "distance": 0.22808516025543213,
+          "id": 1729360173
+        },
+        {
+          "distance": 0.24321722984313965,
+          "id": 1729360183
+        },
+        {
+          "distance": 0.25483882427215576,
+          "id": 1729360173
+        },
+        {
+          "distance": 0.2866792678833008,
+          "id": 1729359735
+        },
+        {
+          "distance": 0.2905008792877197,
+          "id": 1729360023
+        },
+        {
+          "distance": 0.301871120929718,
+          "id": 1729360327
+        },
+        {
+          "distance": 0.30957216024398804,
+          "id": 1729359881
+        },
+        {
+          "distance": 0.31346243619918823,
+          "id": 1729355421
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729359731,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "These are your last few weeks to see \"From #PrintToPlate: Views of the East on Transferware\" featuring features blue-and-white wares made by Spode and a number of other British potters and prints of scenes of famous architectural views from the East...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -47,6 +47,50 @@
       "taken": 1530474120,
       "taken_at": "Jul 1, 2018, 7:42 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.003664672374725342,
+          "id": 1729358391
+        },
+        {
+          "distance": 0.014667212963104248,
+          "id": 1729358377
+        },
+        {
+          "distance": 0.03617978096008301,
+          "id": 1763559047
+        },
+        {
+          "distance": 0.06067216396331787,
+          "id": 1729358381
+        },
+        {
+          "distance": 0.07522857189178467,
+          "id": 1729358041
+        },
+        {
+          "distance": 0.0910298228263855,
+          "id": 1729358391
+        },
+        {
+          "distance": 0.09382182359695435,
+          "id": 1729358377
+        },
+        {
+          "distance": 0.09576261043548584,
+          "id": 1763559047
+        },
+        {
+          "distance": 0.10133206844329834,
+          "id": 1729358381
+        },
+        {
+          "distance": 0.1420447826385498,
+          "id": 1729358041
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -76,7 +120,7 @@
       }
     ],
     "wof:id": 1729358035,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Happy Birthday to aviatrix Amy Johnson!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -93,5 +137,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

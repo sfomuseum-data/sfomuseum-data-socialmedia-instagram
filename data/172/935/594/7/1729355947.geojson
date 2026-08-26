@@ -36,6 +36,50 @@
       "taken": 1572511380,
       "taken_at": "Oct 31, 2019 8:43 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1308801770210266,
+          "id": 1729360009
+        },
+        {
+          "distance": 0.13537704944610596,
+          "id": 1729358729
+        },
+        {
+          "distance": 0.15651839971542358,
+          "id": 1729358729
+        },
+        {
+          "distance": 0.15656781196594238,
+          "id": 1729360009
+        },
+        {
+          "distance": 0.19026392698287964,
+          "id": 1880151063
+        },
+        {
+          "distance": 0.1959325075149536,
+          "id": 1729355647
+        },
+        {
+          "distance": 0.1960483193397522,
+          "id": 1763559173
+        },
+        {
+          "distance": 0.20846432447433472,
+          "id": 1729355647
+        },
+        {
+          "distance": 0.20933735370635986,
+          "id": 1729355339
+        },
+        {
+          "distance": 0.21340864896774292,
+          "id": 1880150909
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729355947,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777627,
     "wof:name": "In the 1920s, San Francisco Bay Area engineer Stanley Henry Page merged his love of flying with glass plate photography...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

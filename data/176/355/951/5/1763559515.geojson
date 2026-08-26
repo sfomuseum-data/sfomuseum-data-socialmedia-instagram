@@ -31,6 +31,50 @@
       "taken": 1648739160,
       "taken_at": "Mar 31, 2022 3:06 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.25086092948913574,
+          "id": 1763559501
+        },
+        {
+          "distance": 0.2872561812400818,
+          "id": 1763559501
+        },
+        {
+          "distance": 0.3129429221153259,
+          "id": 1729360115
+        },
+        {
+          "distance": 0.31560832262039185,
+          "id": 1729361993
+        },
+        {
+          "distance": 0.3210645318031311,
+          "id": 1729359301
+        },
+        {
+          "distance": 0.3244306445121765,
+          "id": 1729359301
+        },
+        {
+          "distance": 0.3285024166107178,
+          "id": 1729362089
+        },
+        {
+          "distance": 0.3335394263267517,
+          "id": 1729361993
+        },
+        {
+          "distance": 0.3385542631149292,
+          "id": 1729359007
+        },
+        {
+          "distance": 0.3419470191001892,
+          "id": 1729360115
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559515,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "This week's installment of Defunct Thursday is a two-parter:  China National Aviation Corporation (CNAC) was Asia’s first sustained commercial airline...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

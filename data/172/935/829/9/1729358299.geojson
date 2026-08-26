@@ -40,6 +40,50 @@
       "taken": 1525195500,
       "taken_at": "May 1, 2018, 5:25 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18516749143600464,
+          "id": 1729358311
+        },
+        {
+          "distance": 0.23935246467590332,
+          "id": 1729358295
+        },
+        {
+          "distance": 0.25764697790145874,
+          "id": 1729358311
+        },
+        {
+          "distance": 0.26096904277801514,
+          "id": 1729358309
+        },
+        {
+          "distance": 0.2844352126121521,
+          "id": 1729356331
+        },
+        {
+          "distance": 0.29522013664245605,
+          "id": 1729358295
+        },
+        {
+          "distance": 0.29827362298965454,
+          "id": 1729358237
+        },
+        {
+          "distance": 0.30076926946640015,
+          "id": 1729358245
+        },
+        {
+          "distance": 0.310433030128479,
+          "id": 1729358269
+        },
+        {
+          "distance": 0.31145423650741577,
+          "id": 1729358115
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729358299,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777633,
     "wof:name": "The Remler Company manufactured radio receivers in downtown San Francisco for more than three decades...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

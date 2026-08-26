@@ -29,6 +29,50 @@
       "taken": 1665142860,
       "taken_at": "Oct 07, 2022 11:41 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.050340473651885986,
+          "id": 1729358261
+        },
+        {
+          "distance": 0.09027612209320068,
+          "id": 1729358261
+        },
+        {
+          "distance": 0.3749518394470215,
+          "id": 1729358399
+        },
+        {
+          "distance": 0.38195645809173584,
+          "id": 1729357199
+        },
+        {
+          "distance": 0.38421130180358887,
+          "id": 1729358485
+        },
+        {
+          "distance": 0.3890455365180969,
+          "id": 1729361149
+        },
+        {
+          "distance": 0.3895920515060425,
+          "id": 1729358149
+        },
+        {
+          "distance": 0.3910733461380005,
+          "id": 1729357719
+        },
+        {
+          "distance": 0.3968743681907654,
+          "id": 1729358277
+        },
+        {
+          "distance": 0.3974141478538513,
+          "id": 1729360383
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880151397,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Happy Birthday, KLM!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

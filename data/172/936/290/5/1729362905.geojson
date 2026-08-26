@@ -25,6 +25,50 @@
       "taken": 1347530940,
       "taken_at": "Sep 13, 2012 10:09 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1357749104499817,
+          "id": 1729363009
+        },
+        {
+          "distance": 0.1487826704978943,
+          "id": 1729363009
+        },
+        {
+          "distance": 0.1851181983947754,
+          "id": 1729362201
+        },
+        {
+          "distance": 0.18887192010879517,
+          "id": 1729362041
+        },
+        {
+          "distance": 0.21015262603759766,
+          "id": 1729362201
+        },
+        {
+          "distance": 0.21114760637283325,
+          "id": 1729360497
+        },
+        {
+          "distance": 0.2126833200454712,
+          "id": 1729362041
+        },
+        {
+          "distance": 0.21342778205871582,
+          "id": 1729360497
+        },
+        {
+          "distance": 0.21548211574554443,
+          "id": 1729356411
+        },
+        {
+          "distance": 0.21917450428009033,
+          "id": 1729362997
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362905,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777656,
     "wof:name": "Even rivets are included in this model of a 1932 Curtiss Condor AT-32-A!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1640957520,
       "taken_at": "Dec 31, 2021 1:32 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.4007744789123535,
+          "id": 1880151413
+        },
+        {
+          "distance": 0.41832953691482544,
+          "id": 1729360343
+        },
+        {
+          "distance": 0.4331427216529846,
+          "id": 1729360535
+        },
+        {
+          "distance": 0.43425995111465454,
+          "id": 1729356623
+        },
+        {
+          "distance": 0.43533360958099365,
+          "id": 1729358365
+        },
+        {
+          "distance": 0.43781548738479614,
+          "id": 1729357769
+        },
+        {
+          "distance": 0.4420894980430603,
+          "id": 1763558997
+        },
+        {
+          "distance": 0.44250553846359253,
+          "id": 1729360781
+        },
+        {
+          "distance": 0.44310784339904785,
+          "id": 1729357475
+        },
+        {
+          "distance": 0.44376033544540405,
+          "id": 1729360815
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1763559673,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Wishing everyone the happiest, healthiest, and most joyful of New Years!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -30,6 +30,50 @@
       "taken": 1676308860,
       "taken_at": "Feb 13, 2023 5:21 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.30185502767562866,
+          "id": 1729360155
+        },
+        {
+          "distance": 0.3246731758117676,
+          "id": 1729359217
+        },
+        {
+          "distance": 0.34042418003082275,
+          "id": 1729361167
+        },
+        {
+          "distance": 0.34517723321914673,
+          "id": 1763558689
+        },
+        {
+          "distance": 0.34517723321914673,
+          "id": 1729359221
+        },
+        {
+          "distance": 0.3482184410095215,
+          "id": 1729356715
+        },
+        {
+          "distance": 0.3495519161224365,
+          "id": 1729357363
+        },
+        {
+          "distance": 0.35544848442077637,
+          "id": 1729359455
+        },
+        {
+          "distance": 0.3558068871498108,
+          "id": 1763558689
+        },
+        {
+          "distance": 0.3558068871498108,
+          "id": 1729359221
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151127,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Before people carried around cell phones in their pockets that automatically updated to the current time zone, airlines gave out convenient time converters to passengers on international flights...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

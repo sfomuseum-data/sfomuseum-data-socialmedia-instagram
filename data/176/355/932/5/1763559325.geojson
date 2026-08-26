@@ -30,6 +30,50 @@
       "taken": 1636996620,
       "taken_at": "Nov 15, 2021 5:17 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2529783248901367,
+          "id": 1880151469
+        },
+        {
+          "distance": 0.26789528131484985,
+          "id": 1729357341
+        },
+        {
+          "distance": 0.2727351784706116,
+          "id": 1880151469
+        },
+        {
+          "distance": 0.2755517363548279,
+          "id": 1763558765
+        },
+        {
+          "distance": 0.2755517363548279,
+          "id": 1729357579
+        },
+        {
+          "distance": 0.2883875370025635,
+          "id": 1729358045
+        },
+        {
+          "distance": 0.2884993553161621,
+          "id": 1763558765
+        },
+        {
+          "distance": 0.2884993553161621,
+          "id": 1729357579
+        },
+        {
+          "distance": 0.2899186611175537,
+          "id": 1729355781
+        },
+        {
+          "distance": 0.29010915756225586,
+          "id": 1729355539
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559325,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Go 49ers!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -36,6 +36,50 @@
       "taken": 1534521240,
       "taken_at": "Aug 17, 2018 3:54 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.26783502101898193,
+          "id": 1729355779
+        },
+        {
+          "distance": 0.2820403575897217,
+          "id": 1763558965
+        },
+        {
+          "distance": 0.29596608877182007,
+          "id": 1729359363
+        },
+        {
+          "distance": 0.2970976233482361,
+          "id": 1763558975
+        },
+        {
+          "distance": 0.29868364334106445,
+          "id": 1729355779
+        },
+        {
+          "distance": 0.2991343140602112,
+          "id": 1880151091
+        },
+        {
+          "distance": 0.30260735750198364,
+          "id": 1729360803
+        },
+        {
+          "distance": 0.3048330545425415,
+          "id": 1947425317
+        },
+        {
+          "distance": 0.3090019226074219,
+          "id": 1763558965
+        },
+        {
+          "distance": 0.31046783924102783,
+          "id": 1880151137
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729357777,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "What does home mean to you?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -32,6 +32,50 @@
       "taken": 1727279580,
       "taken_at": "Sep 25, 2024 3:53 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23492354154586792,
+          "id": 1729359065
+        },
+        {
+          "distance": 0.2611740827560425,
+          "id": 1729359609
+        },
+        {
+          "distance": 0.2832028865814209,
+          "id": 1729360029
+        },
+        {
+          "distance": 0.2832169532775879,
+          "id": 1729360475
+        },
+        {
+          "distance": 0.2920505404472351,
+          "id": 1729359609
+        },
+        {
+          "distance": 0.3029288053512573,
+          "id": 1763558725
+        },
+        {
+          "distance": 0.3029288053512573,
+          "id": 1729358623
+        },
+        {
+          "distance": 0.3034438490867615,
+          "id": 1729359015
+        },
+        {
+          "distance": 0.3127707839012146,
+          "id": 1729361121
+        },
+        {
+          "distance": 0.3156336545944214,
+          "id": 1729360469
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1947424855,
-    "wof:lastmodified": 1733175319,
+    "wof:lastmodified": 1787777664,
     "wof:name": "This is one of the first posters acquired for the museum's permanent collection...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

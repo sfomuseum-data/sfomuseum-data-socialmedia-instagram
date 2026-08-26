@@ -25,6 +25,50 @@
       "taken": 1456912020,
       "taken_at": "Mar 02, 2016 9:47 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.050562143325805664,
+          "id": 1947424907
+        },
+        {
+          "distance": 0.07581353187561035,
+          "id": 1947424907
+        },
+        {
+          "distance": 0.2113977074623108,
+          "id": 1880150939
+        },
+        {
+          "distance": 0.23139482736587524,
+          "id": 1729355777
+        },
+        {
+          "distance": 0.23297882080078125,
+          "id": 1763559595
+        },
+        {
+          "distance": 0.23409366607666016,
+          "id": 1729359753
+        },
+        {
+          "distance": 0.237984299659729,
+          "id": 1729361339
+        },
+        {
+          "distance": 0.23920100927352905,
+          "id": 1729355475
+        },
+        {
+          "distance": 0.24963176250457764,
+          "id": 1763559281
+        },
+        {
+          "distance": 0.25010621547698975,
+          "id": 1729357139
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360985,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Born in Nagoya, Japan, internationally renowned artist, Seiji Kunishima, creates sculptures characterized by a serene balance between the traditional and the modern...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -34,6 +34,50 @@
       "taken": 1542493320,
       "taken_at": "Nov 17, 2018 10:22 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15289407968521118,
+          "id": 1729358351
+        },
+        {
+          "distance": 0.19430124759674072,
+          "id": 1729358351
+        },
+        {
+          "distance": 0.25775766372680664,
+          "id": 1729358279
+        },
+        {
+          "distance": 0.26818764209747314,
+          "id": 1729355909
+        },
+        {
+          "distance": 0.27859699726104736,
+          "id": 1729358279
+        },
+        {
+          "distance": 0.29140180349349976,
+          "id": 1729357579
+        },
+        {
+          "distance": 0.29140180349349976,
+          "id": 1763558765
+        },
+        {
+          "distance": 0.2988290786743164,
+          "id": 1729357579
+        },
+        {
+          "distance": 0.29921847581863403,
+          "id": 1729356667
+        },
+        {
+          "distance": 0.2998942732810974,
+          "id": 1729360905
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729357355,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777631,
     "wof:name": "#HappyBirthday to Isamu Noguchi...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

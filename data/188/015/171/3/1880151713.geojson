@@ -29,6 +29,50 @@
       "taken": 1653382920,
       "taken_at": "May 24, 2022 9:02 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20190584659576416,
+          "id": 1729359429
+        },
+        {
+          "distance": 0.20331871509552002,
+          "id": 1729357871
+        },
+        {
+          "distance": 0.2095692753791809,
+          "id": 1729357999
+        },
+        {
+          "distance": 0.21059656143188477,
+          "id": 1729357701
+        },
+        {
+          "distance": 0.21175217628479004,
+          "id": 1729362205
+        },
+        {
+          "distance": 0.21685665845870972,
+          "id": 1729355289
+        },
+        {
+          "distance": 0.21790534257888794,
+          "id": 1880150947
+        },
+        {
+          "distance": 0.2241092324256897,
+          "id": 1880150939
+        },
+        {
+          "distance": 0.2244502305984497,
+          "id": 1880151137
+        },
+        {
+          "distance": 0.22606712579727173,
+          "id": 1729357759
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880151713,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777663,
     "wof:name": "Happy birthday to Squeak Carnwath, who was born on this day in 1947!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

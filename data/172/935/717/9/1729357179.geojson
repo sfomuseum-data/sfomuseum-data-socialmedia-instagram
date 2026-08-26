@@ -34,6 +34,50 @@
       "taken": 1545815400,
       "taken_at": "Dec 26, 2018, 9:10 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.000023424625396728516,
+          "id": 1763558807
+        },
+        {
+          "distance": 0.08678406476974487,
+          "id": 1763558807
+        },
+        {
+          "distance": 0.12007933855056763,
+          "id": 1729355429
+        },
+        {
+          "distance": 0.12069851160049438,
+          "id": 1729355245
+        },
+        {
+          "distance": 0.1405295729637146,
+          "id": 1729358537
+        },
+        {
+          "distance": 0.14164698123931885,
+          "id": 1729355245
+        },
+        {
+          "distance": 0.14632171392440796,
+          "id": 1729361603
+        },
+        {
+          "distance": 0.1477789282798767,
+          "id": 1729361603
+        },
+        {
+          "distance": 0.1504877209663391,
+          "id": 1763559203
+        },
+        {
+          "distance": 0.1510298252105713,
+          "id": 1763559293
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729357179,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777630,
     "wof:name": "During the late 1930s, following a request from United Air Lines, Douglas Aircraft of Santa Monica, California, developed a large-capacity, long-range, pressurized, four-engine airliner...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

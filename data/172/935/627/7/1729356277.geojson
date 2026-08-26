@@ -29,6 +29,50 @@
       "taken": 1564323240,
       "taken_at": "Jul 28, 2019 2:14 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14734214544296265,
+          "id": 1729359645
+        },
+        {
+          "distance": 0.15288269519805908,
+          "id": 1763559085
+        },
+        {
+          "distance": 0.19721311330795288,
+          "id": 1729359397
+        },
+        {
+          "distance": 0.20378869771957397,
+          "id": 1729359645
+        },
+        {
+          "distance": 0.20796334743499756,
+          "id": 1763559125
+        },
+        {
+          "distance": 0.2084798812866211,
+          "id": 1729358209
+        },
+        {
+          "distance": 0.20926541090011597,
+          "id": 1729359511
+        },
+        {
+          "distance": 0.21070009469985962,
+          "id": 1729358079
+        },
+        {
+          "distance": 0.21656882762908936,
+          "id": 1763559229
+        },
+        {
+          "distance": 0.22063392400741577,
+          "id": 1729355605
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729356277,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777629,
     "wof:name": "How would you caption this 1960s publicity photo from United Airlines?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -35,6 +35,50 @@
       "taken": 1560965280,
       "taken_at": "Jun 19, 2019, 5:28 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15322768688201904,
+          "id": 1729356415
+        },
+        {
+          "distance": 0.19141042232513428,
+          "id": 1729356401
+        },
+        {
+          "distance": 0.20014876127243042,
+          "id": 1729356415
+        },
+        {
+          "distance": 0.20810139179229736,
+          "id": 1729355839
+        },
+        {
+          "distance": 0.21204668283462524,
+          "id": 1729356401
+        },
+        {
+          "distance": 0.24719589948654175,
+          "id": 1729356323
+        },
+        {
+          "distance": 0.2588242292404175,
+          "id": 1729356251
+        },
+        {
+          "distance": 0.2632303833961487,
+          "id": 1729356321
+        },
+        {
+          "distance": 0.2663310766220093,
+          "id": 1729355835
+        },
+        {
+          "distance": 0.27004408836364746,
+          "id": 1729356323
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729356413,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "The 1876 Centennial International Exhibition in Philadelphia provided many Americans with their first direct exposure to Asian art through an array of objects showcased in the Japanese Bazaar...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

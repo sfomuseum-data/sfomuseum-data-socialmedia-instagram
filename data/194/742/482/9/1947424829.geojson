@@ -27,6 +27,50 @@
       "taken": 1729094160,
       "taken_at": "Oct 16, 2024 3:56 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.000038743019104003906,
+          "id": 1947424853
+        },
+        {
+          "distance": 0.005587100982666016,
+          "id": 1947424957
+        },
+        {
+          "distance": 0.03421908617019653,
+          "id": 1947425269
+        },
+        {
+          "distance": 0.03656160831451416,
+          "id": 1947425235
+        },
+        {
+          "distance": 0.05366247892379761,
+          "id": 1947425273
+        },
+        {
+          "distance": 0.09485000371932983,
+          "id": 1947424853
+        },
+        {
+          "distance": 0.09588158130645752,
+          "id": 1947425235
+        },
+        {
+          "distance": 0.09777969121932983,
+          "id": 1947425269
+        },
+        {
+          "distance": 0.10045826435089111,
+          "id": 1947424957
+        },
+        {
+          "distance": 0.10221362113952637,
+          "id": 1947425273
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947424829,
-    "wof:lastmodified": 1733175318,
+    "wof:lastmodified": 1787777664,
     "wof:name": "This is your last week to see “The Enduring Spirit of Haitian Metal Sculpture” on display!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

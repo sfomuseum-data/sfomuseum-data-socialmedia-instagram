@@ -58,6 +58,50 @@
       "taken": 1501778040,
       "taken_at": "Aug 3, 2017, 4:34 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.252094030380249,
+          "id": 1729358859
+        },
+        {
+          "distance": 0.2542370557785034,
+          "id": 1729359131
+        },
+        {
+          "distance": 0.2622918486595154,
+          "id": 1729358939
+        },
+        {
+          "distance": 0.265069842338562,
+          "id": 1729359435
+        },
+        {
+          "distance": 0.2698056697845459,
+          "id": 1729359485
+        },
+        {
+          "distance": 0.27282363176345825,
+          "id": 1729359001
+        },
+        {
+          "distance": 0.2730647325515747,
+          "id": 1729359025
+        },
+        {
+          "distance": 0.2762218713760376,
+          "id": 1729359231
+        },
+        {
+          "distance": 0.28069818019866943,
+          "id": 1729358989
+        },
+        {
+          "distance": 0.2838621139526367,
+          "id": 1729359125
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -87,7 +131,7 @@
       }
     ],
     "wof:id": 1729359245,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777635,
     "wof:name": "In the mid-1930s, L.C. Smith \u0026 Corona offered an “Animal Keyboard” option on their popular Silent, Sterling, and Standard portable typewriters...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -104,5 +148,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1476780060,
       "taken_at": "Oct 18, 2016 8:41 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.26760268211364746,
+          "id": 1729360369
+        },
+        {
+          "distance": 0.282146155834198,
+          "id": 1729360369
+        },
+        {
+          "distance": 0.3408887982368469,
+          "id": 1729357013
+        },
+        {
+          "distance": 0.34310436248779297,
+          "id": 1729358295
+        },
+        {
+          "distance": 0.3503569960594177,
+          "id": 1729358245
+        },
+        {
+          "distance": 0.35362493991851807,
+          "id": 1729358269
+        },
+        {
+          "distance": 0.3552725315093994,
+          "id": 1729358245
+        },
+        {
+          "distance": 0.35584884881973267,
+          "id": 1729356511
+        },
+        {
+          "distance": 0.35939186811447144,
+          "id": 1729358223
+        },
+        {
+          "distance": 0.3617556691169739,
+          "id": 1729357825
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360225,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "Trained in architecture at Yale University and in Rome, George Nelson (1908–86) melded European modernism with American industrial design in furniture, household items, and modular office components...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

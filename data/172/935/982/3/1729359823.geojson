@@ -25,6 +25,50 @@
       "taken": 1487183760,
       "taken_at": "Feb 15, 2017 6:36 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1576516032218933,
+          "id": 1729356563
+        },
+        {
+          "distance": 0.16749483346939087,
+          "id": 1729357953
+        },
+        {
+          "distance": 0.17602312564849854,
+          "id": 1947425081
+        },
+        {
+          "distance": 0.17640185356140137,
+          "id": 1729357953
+        },
+        {
+          "distance": 0.17701750993728638,
+          "id": 1729359503
+        },
+        {
+          "distance": 0.1788061261177063,
+          "id": 1880151765
+        },
+        {
+          "distance": 0.17915868759155273,
+          "id": 1729360981
+        },
+        {
+          "distance": 0.18568044900894165,
+          "id": 1947425081
+        },
+        {
+          "distance": 0.18904602527618408,
+          "id": 1729359251
+        },
+        {
+          "distance": 0.18946707248687744,
+          "id": 1729357679
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359823,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "Boeing’s district manager Steve Stimpson conceived of this all-season uniform for the world’s first airline stewardess, registered nurse Ellen Church, who was hired in San Francisco...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

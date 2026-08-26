@@ -32,6 +32,50 @@
       "taken": 1660753200,
       "taken_at": "Aug 17, 2022 4:20 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10169124603271484,
+          "id": 1880151245
+        },
+        {
+          "distance": 0.14894092082977295,
+          "id": 1880151493
+        },
+        {
+          "distance": 0.17937302589416504,
+          "id": 1880151245
+        },
+        {
+          "distance": 0.1859264373779297,
+          "id": 1880151745
+        },
+        {
+          "distance": 0.1893380880355835,
+          "id": 1763559523
+        },
+        {
+          "distance": 0.1896105408668518,
+          "id": 1763559649
+        },
+        {
+          "distance": 0.19154298305511475,
+          "id": 1880151707
+        },
+        {
+          "distance": 0.20010662078857422,
+          "id": 1880151217
+        },
+        {
+          "distance": 0.20222234725952148,
+          "id": 1880151541
+        },
+        {
+          "distance": 0.20894122123718262,
+          "id": 1763559523
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1880151515,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Napoleon’s Egyptian campaign (1798–1801) ignited a fascination with ancient Egypt that continued into the Victorian era, when the Egyptian Revival design style permeated decorative arts...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

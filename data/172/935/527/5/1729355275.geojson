@@ -32,6 +32,50 @@
       "taken": 1589194800,
       "taken_at": "May 11, 2020, 11:00 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.004479110240936279,
+          "id": 1763558841
+        },
+        {
+          "distance": 0.018159806728363037,
+          "id": 1729358251
+        },
+        {
+          "distance": 0.0405811071395874,
+          "id": 1763558791
+        },
+        {
+          "distance": 0.0405811071395874,
+          "id": 1729356863
+        },
+        {
+          "distance": 0.08726048469543457,
+          "id": 1763558841
+        },
+        {
+          "distance": 0.09927636384963989,
+          "id": 1729358251
+        },
+        {
+          "distance": 0.0998346209526062,
+          "id": 1763558791
+        },
+        {
+          "distance": 0.0998346209526062,
+          "id": 1729356863
+        },
+        {
+          "distance": 0.38726937770843506,
+          "id": 1729357331
+        },
+        {
+          "distance": 0.396007776260376,
+          "id": 1763559539
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729355275,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777622,
     "wof:name": "Happy Birthday to Jackie Cochran, born #onthisday in 1906 in Muscogee, Florida...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

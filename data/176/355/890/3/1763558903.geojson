@@ -30,6 +30,50 @@
       "taken": 1610538300,
       "taken_at": "Jan 13, 2021 11:45 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.04979020357131958,
+          "id": 1729361471
+        },
+        {
+          "distance": 0.05903065204620361,
+          "id": 1729358945
+        },
+        {
+          "distance": 0.10553973913192749,
+          "id": 1729358945
+        },
+        {
+          "distance": 0.11323654651641846,
+          "id": 1729355385
+        },
+        {
+          "distance": 0.1196545958518982,
+          "id": 1729357391
+        },
+        {
+          "distance": 0.1282137632369995,
+          "id": 1729361471
+        },
+        {
+          "distance": 0.14261871576309204,
+          "id": 1729355385
+        },
+        {
+          "distance": 0.17331886291503906,
+          "id": 1729357391
+        },
+        {
+          "distance": 0.20426499843597412,
+          "id": 1729360363
+        },
+        {
+          "distance": 0.21947115659713745,
+          "id": 1729359671
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763558903,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777659,
     "wof:name": "In 1945, Ada Brown became the founder and first President of the earliest recognized flight attendant union, the Air Line Stewardess Association (ALSA)...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

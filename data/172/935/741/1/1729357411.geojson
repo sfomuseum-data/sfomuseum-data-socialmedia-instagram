@@ -29,6 +29,50 @@
       "taken": 1541606640,
       "taken_at": "Nov 07, 2018 4:04 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18414312601089478,
+          "id": 1729358929
+        },
+        {
+          "distance": 0.18756943941116333,
+          "id": 1729355417
+        },
+        {
+          "distance": 0.1935846209526062,
+          "id": 1729355417
+        },
+        {
+          "distance": 0.19515550136566162,
+          "id": 1763558705
+        },
+        {
+          "distance": 0.20211631059646606,
+          "id": 1763558705
+        },
+        {
+          "distance": 0.20671194791793823,
+          "id": 1729358929
+        },
+        {
+          "distance": 0.207250714302063,
+          "id": 1729360353
+        },
+        {
+          "distance": 0.2074596881866455,
+          "id": 1729359895
+        },
+        {
+          "distance": 0.2074596881866455,
+          "id": 1763558657
+        },
+        {
+          "distance": 0.2114018201828003,
+          "id": 1880151005
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729357411,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777631,
     "wof:name": "The last scheduled United Boeing 747 flight took off from SFO to Honolulu #onthisday in 2017...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1466247360,
       "taken_at": "Jun 18, 2016 10:56 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07484161853790283,
+          "id": 1729358097
+        },
+        {
+          "distance": 0.12182891368865967,
+          "id": 1729358097
+        },
+        {
+          "distance": 0.21107077598571777,
+          "id": 1763559313
+        },
+        {
+          "distance": 0.21956193447113037,
+          "id": 1763558963
+        },
+        {
+          "distance": 0.23293501138687134,
+          "id": 1729356341
+        },
+        {
+          "distance": 0.2339850664138794,
+          "id": 1729355557
+        },
+        {
+          "distance": 0.23981237411499023,
+          "id": 1729359359
+        },
+        {
+          "distance": 0.24708569049835205,
+          "id": 1763559313
+        },
+        {
+          "distance": 0.2517472505569458,
+          "id": 1729356341
+        },
+        {
+          "distance": 0.26115304231643677,
+          "id": 1763558963
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360605,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Our collection of model aircraft ranges from large twelve-foot long models to tiny Matchbox-sized models...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -45,6 +45,50 @@
       "taken": 1506765780,
       "taken_at": "Sep 30, 2017 10:03 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.054111361503601074,
+          "id": 1729357627
+        },
+        {
+          "distance": 0.08118879795074463,
+          "id": 1763559015
+        },
+        {
+          "distance": 0.11220139265060425,
+          "id": 1729357627
+        },
+        {
+          "distance": 0.11452621221542358,
+          "id": 1729359601
+        },
+        {
+          "distance": 0.1336759328842163,
+          "id": 1763558659
+        },
+        {
+          "distance": 0.1336759328842163,
+          "id": 1729359591
+        },
+        {
+          "distance": 0.14025193452835083,
+          "id": 1729357059
+        },
+        {
+          "distance": 0.14296948909759521,
+          "id": 1729359593
+        },
+        {
+          "distance": 0.14643561840057373,
+          "id": 1729357059
+        },
+        {
+          "distance": 0.15225988626480103,
+          "id": 1729359601
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -74,7 +118,7 @@
       }
     ],
     "wof:id": 1729359043,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "#OnThisDay in 1968, the first 747 rolled out of Boeing's Everett plant...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -91,5 +135,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

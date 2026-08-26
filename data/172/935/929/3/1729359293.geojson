@@ -39,6 +39,50 @@
       "taken": 1500459360,
       "taken_at": "Jul 19, 2017 10:16 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18668639659881592,
+          "id": 1729359995
+        },
+        {
+          "distance": 0.20552533864974976,
+          "id": 1729359995
+        },
+        {
+          "distance": 0.21401619911193848,
+          "id": 1729360439
+        },
+        {
+          "distance": 0.2144055962562561,
+          "id": 1729359957
+        },
+        {
+          "distance": 0.21636956930160522,
+          "id": 1729360101
+        },
+        {
+          "distance": 0.22348248958587646,
+          "id": 1729359957
+        },
+        {
+          "distance": 0.2318083643913269,
+          "id": 1729359325
+        },
+        {
+          "distance": 0.23494482040405273,
+          "id": 1763559499
+        },
+        {
+          "distance": 0.23847073316574097,
+          "id": 1729359467
+        },
+        {
+          "distance": 0.24073266983032227,
+          "id": 1729359535
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729359293,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Mexican fashion designer Macario Jiménez studied at Milan’s Marangoni Institute and created his own clothing brand in 1994 specializing in women’s ready-to-wear...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

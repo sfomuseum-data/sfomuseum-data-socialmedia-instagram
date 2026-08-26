@@ -25,6 +25,50 @@
       "taken": 1487701980,
       "taken_at": "Feb 21, 2017 6:33 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24197649955749512,
+          "id": 1729355197
+        },
+        {
+          "distance": 0.24446934461593628,
+          "id": 1729357961
+        },
+        {
+          "distance": 0.24471086263656616,
+          "id": 1729359319
+        },
+        {
+          "distance": 0.24720442295074463,
+          "id": 1729360867
+        },
+        {
+          "distance": 0.25673145055770874,
+          "id": 1947424967
+        },
+        {
+          "distance": 0.27679699659347534,
+          "id": 1729360987
+        },
+        {
+          "distance": 0.3297514319419861,
+          "id": 1947425097
+        },
+        {
+          "distance": 0.3309256434440613,
+          "id": 1947424967
+        },
+        {
+          "distance": 0.33472180366516113,
+          "id": 1729359015
+        },
+        {
+          "distance": 0.33529651165008545,
+          "id": 1729360867
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359803,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "This 1950s Pan American World Airways poster advertising Paris, France, features the Arc de Triomphe at the end of the Champs-Élysées with a Boeing 377 Stratocruiser...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

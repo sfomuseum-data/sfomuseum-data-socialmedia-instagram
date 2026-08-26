@@ -25,6 +25,50 @@
       "taken": 1451389200,
       "taken_at": "Dec 29, 2015 11:40 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.28893834352493286,
+          "id": 1763559247
+        },
+        {
+          "distance": 0.29182904958724976,
+          "id": 1880151229
+        },
+        {
+          "distance": 0.2938523292541504,
+          "id": 1880151169
+        },
+        {
+          "distance": 0.2951090931892395,
+          "id": 1729360243
+        },
+        {
+          "distance": 0.29679667949676514,
+          "id": 1729356541
+        },
+        {
+          "distance": 0.29911482334136963,
+          "id": 1763558939
+        },
+        {
+          "distance": 0.3010106086730957,
+          "id": 1763558873
+        },
+        {
+          "distance": 0.30164557695388794,
+          "id": 1729357581
+        },
+        {
+          "distance": 0.30435067415237427,
+          "id": 1880151431
+        },
+        {
+          "distance": 0.3046507239341736,
+          "id": 1729358627
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361243,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "An old maritime shipboard tradition was to celebrate the crewmember and passenger’s first passing over the equator and the international dateline...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

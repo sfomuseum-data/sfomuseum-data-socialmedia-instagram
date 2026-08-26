@@ -37,6 +37,50 @@
       "taken": 1527714480,
       "taken_at": "May 30, 2018 9:08 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24062663316726685,
+          "id": 1729361549
+        },
+        {
+          "distance": 0.2473546266555786,
+          "id": 1763559487
+        },
+        {
+          "distance": 0.2509303689002991,
+          "id": 1763559327
+        },
+        {
+          "distance": 0.2517740726470947,
+          "id": 1729359455
+        },
+        {
+          "distance": 0.2574613690376282,
+          "id": 1947425117
+        },
+        {
+          "distance": 0.2651304006576538,
+          "id": 1729359455
+        },
+        {
+          "distance": 0.2658082842826843,
+          "id": 1729361549
+        },
+        {
+          "distance": 0.26714378595352173,
+          "id": 1947425117
+        },
+        {
+          "distance": 0.2722088098526001,
+          "id": 1763559327
+        },
+        {
+          "distance": 0.2736947536468506,
+          "id": 1729359611
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729358183,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "#OnThisDay in 1924, the Huff Daland Dusters, based in Macon, Georgia, began one of the earliest known commercial aerial crop-dusting operations in America...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

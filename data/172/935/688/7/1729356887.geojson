@@ -33,6 +33,50 @@
       "taken": 1551441300,
       "taken_at": "Mar 1, 2019, 11:55 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13667839765548706,
+          "id": 1729357457
+        },
+        {
+          "distance": 0.14625191688537598,
+          "id": 1729357453
+        },
+        {
+          "distance": 0.18423908948898315,
+          "id": 1729357457
+        },
+        {
+          "distance": 0.21190518140792847,
+          "id": 1729357453
+        },
+        {
+          "distance": 0.2121521234512329,
+          "id": 1729358445
+        },
+        {
+          "distance": 0.21798479557037354,
+          "id": 1729357451
+        },
+        {
+          "distance": 0.22102242708206177,
+          "id": 1729358591
+        },
+        {
+          "distance": 0.23266738653182983,
+          "id": 1729357067
+        },
+        {
+          "distance": 0.2403208613395691,
+          "id": 1729357719
+        },
+        {
+          "distance": 0.24508821964263916,
+          "id": 1729357505
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729356887,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "“A cat has absolute emotional honesty; human beings, for one reason or another, may hide their feelings, but a cat does not...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

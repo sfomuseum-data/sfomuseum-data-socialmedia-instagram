@@ -32,6 +32,50 @@
       "taken": 1493936640,
       "taken_at": "May 04, 2017 10:24 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18367207050323486,
+          "id": 1729359231
+        },
+        {
+          "distance": 0.1952909231185913,
+          "id": 1763558687
+        },
+        {
+          "distance": 0.1952909231185913,
+          "id": 1729359197
+        },
+        {
+          "distance": 0.21805912256240845,
+          "id": 1729359121
+        },
+        {
+          "distance": 0.22547698020935059,
+          "id": 1729358913
+        },
+        {
+          "distance": 0.22985893487930298,
+          "id": 1729359197
+        },
+        {
+          "distance": 0.22985893487930298,
+          "id": 1763558687
+        },
+        {
+          "distance": 0.2347429394721985,
+          "id": 1729359231
+        },
+        {
+          "distance": 0.24310219287872314,
+          "id": 1729359121
+        },
+        {
+          "distance": 0.24471157789230347,
+          "id": 1729358989
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729359539,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "We're laying out objects for our upcoming exhibition, \"The Typewriter!\"..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -31,6 +31,50 @@
       "taken": 1695226800,
       "taken_at": "Sep 20, 2023 4:20 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.03343135118484497,
+          "id": 1947425243
+        },
+        {
+          "distance": 0.03405272960662842,
+          "id": 1880151157
+        },
+        {
+          "distance": 0.04448014497756958,
+          "id": 1880150883
+        },
+        {
+          "distance": 0.06395882368087769,
+          "id": 1880151155
+        },
+        {
+          "distance": 0.07865160703659058,
+          "id": 1947425243
+        },
+        {
+          "distance": 0.08137327432632446,
+          "id": 1880151157
+        },
+        {
+          "distance": 0.0855938196182251,
+          "id": 1880150883
+        },
+        {
+          "distance": 0.09142547845840454,
+          "id": 1880150979
+        },
+        {
+          "distance": 0.10366392135620117,
+          "id": 1880151155
+        },
+        {
+          "distance": 0.13054722547531128,
+          "id": 1880151207
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1947425303,
-    "wof:lastmodified": 1733175331,
+    "wof:lastmodified": 1787777664,
     "wof:name": "𝘛𝘢𝘯𝘯𝘩ä𝘶𝘴𝘦𝘳 is the fifth opera by German composer Wilhelm Richard Wagner (1813–83) and was completed between 1843–45...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -73,5 +117,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

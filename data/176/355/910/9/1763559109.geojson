@@ -34,6 +34,50 @@
       "taken": 1623252000,
       "taken_at": "Jun 09, 2021 3:20 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.21168416738510132,
+          "id": 1729359455
+        },
+        {
+          "distance": 0.2125357985496521,
+          "id": 1729356319
+        },
+        {
+          "distance": 0.2161620855331421,
+          "id": 1729359455
+        },
+        {
+          "distance": 0.2185375690460205,
+          "id": 1947425097
+        },
+        {
+          "distance": 0.23383790254592896,
+          "id": 1729359227
+        },
+        {
+          "distance": 0.24217385053634644,
+          "id": 1947425117
+        },
+        {
+          "distance": 0.2470424771308899,
+          "id": 1729357307
+        },
+        {
+          "distance": 0.248773992061615,
+          "id": 1729359227
+        },
+        {
+          "distance": 0.24960261583328247,
+          "id": 1947425097
+        },
+        {
+          "distance": 0.256145179271698,
+          "id": 1729361167
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1763559109,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "The L-1649 Starliner, the final variant in Lockheed’s Constellation-based design series, embodied the zenith in large-capacity, piston-engine airliner development, rivaled only by the Douglas DC-7C, with which it was designed to compete...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

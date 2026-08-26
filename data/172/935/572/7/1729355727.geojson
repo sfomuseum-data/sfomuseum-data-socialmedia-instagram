@@ -35,6 +35,50 @@
       "taken": 1577443440,
       "taken_at": "Dec 27, 2019, 10:44 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12310546636581421,
+          "id": 1729355741
+        },
+        {
+          "distance": 0.12987542152404785,
+          "id": 1729355721
+        },
+        {
+          "distance": 0.15068650245666504,
+          "id": 1729355719
+        },
+        {
+          "distance": 0.1882825493812561,
+          "id": 1729355713
+        },
+        {
+          "distance": 0.18985259532928467,
+          "id": 1729355721
+        },
+        {
+          "distance": 0.19939106702804565,
+          "id": 1729355741
+        },
+        {
+          "distance": 0.20329856872558594,
+          "id": 1729355713
+        },
+        {
+          "distance": 0.22239673137664795,
+          "id": 1729355981
+        },
+        {
+          "distance": 0.22664159536361694,
+          "id": 1729355719
+        },
+        {
+          "distance": 0.253587543964386,
+          "id": 1763558877
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729355727,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777627,
     "wof:name": "Designed by Jean-Julien Deltil (1791–1863), Zuber introduced “Les Vues d’Amérique du Nord (Views of North America),” in 1834...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

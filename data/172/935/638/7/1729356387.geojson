@@ -25,6 +25,50 @@
       "taken": 1561543800,
       "taken_at": "Jun 26, 2019 10:10 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2929688096046448,
+          "id": 1880150927
+        },
+        {
+          "distance": 0.30549484491348267,
+          "id": 1947425109
+        },
+        {
+          "distance": 0.30660539865493774,
+          "id": 1729356449
+        },
+        {
+          "distance": 0.3131226897239685,
+          "id": 1880151297
+        },
+        {
+          "distance": 0.31668615341186523,
+          "id": 1947425109
+        },
+        {
+          "distance": 0.31807637214660645,
+          "id": 1729356441
+        },
+        {
+          "distance": 0.31959742307662964,
+          "id": 1729356449
+        },
+        {
+          "distance": 0.32232940196990967,
+          "id": 1729356025
+        },
+        {
+          "distance": 0.322674036026001,
+          "id": 1880151483
+        },
+        {
+          "distance": 0.32332688570022583,
+          "id": 1729356025
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729356387,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "This week we bid farewell to our Assistant Director and Curator in Charge of Aviation, John Hill...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -28,6 +28,50 @@
       "taken": 1717603020,
       "taken_at": "Jun 05, 2024 3:57 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1247064471244812,
+          "id": 1729358303
+        },
+        {
+          "distance": 0.1325157880783081,
+          "id": 1729358303
+        },
+        {
+          "distance": 0.1574123501777649,
+          "id": 1729358079
+        },
+        {
+          "distance": 0.17640995979309082,
+          "id": 1729359129
+        },
+        {
+          "distance": 0.19716507196426392,
+          "id": 1729355691
+        },
+        {
+          "distance": 0.20046627521514893,
+          "id": 1729360551
+        },
+        {
+          "distance": 0.20701229572296143,
+          "id": 1729361795
+        },
+        {
+          "distance": 0.2095680832862854,
+          "id": 1729359129
+        },
+        {
+          "distance": 0.21058183908462524,
+          "id": 1729360171
+        },
+        {
+          "distance": 0.21187645196914673,
+          "id": 1729361017
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1947424989,
-    "wof:lastmodified": 1733175322,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Introduced in 1964, the Boeing 727 was a medium-range jetliner with intermediate capacity designed to serve regional airports with shorter runways...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -70,5 +114,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

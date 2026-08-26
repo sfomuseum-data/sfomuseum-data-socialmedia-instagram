@@ -38,6 +38,50 @@
       "taken": 1516897020,
       "taken_at": "Jan 25, 2018 4:17 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14408504962921143,
+          "id": 1729358173
+        },
+        {
+          "distance": 0.15779155492782593,
+          "id": 1729358025
+        },
+        {
+          "distance": 0.1662294864654541,
+          "id": 1729358399
+        },
+        {
+          "distance": 0.16981065273284912,
+          "id": 1729358025
+        },
+        {
+          "distance": 0.18537074327468872,
+          "id": 1729358173
+        },
+        {
+          "distance": 0.18696635961532593,
+          "id": 1729361627
+        },
+        {
+          "distance": 0.19853425025939941,
+          "id": 1729358399
+        },
+        {
+          "distance": 0.2023937702178955,
+          "id": 1729358301
+        },
+        {
+          "distance": 0.20335066318511963,
+          "id": 1729358485
+        },
+        {
+          "distance": 0.2168053388595581,
+          "id": 1729358591
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729358653,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Cats on cats on cats...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

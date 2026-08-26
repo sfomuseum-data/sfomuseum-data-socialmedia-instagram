@@ -32,6 +32,50 @@
       "taken": 1622216160,
       "taken_at": "May 28, 2021 3:36 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1716099977493286,
+          "id": 1880151407
+        },
+        {
+          "distance": 0.17202609777450562,
+          "id": 1763559407
+        },
+        {
+          "distance": 0.18011683225631714,
+          "id": 1947424999
+        },
+        {
+          "distance": 0.18451374769210815,
+          "id": 1763559591
+        },
+        {
+          "distance": 0.1884697675704956,
+          "id": 1947425199
+        },
+        {
+          "distance": 0.19154727458953857,
+          "id": 1880151407
+        },
+        {
+          "distance": 0.2009793519973755,
+          "id": 1729355059
+        },
+        {
+          "distance": 0.20219844579696655,
+          "id": 1947425199
+        },
+        {
+          "distance": 0.20502370595932007,
+          "id": 1763558925
+        },
+        {
+          "distance": 0.20590847730636597,
+          "id": 1729360245
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1763559129,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Not one, but TWO exhibitions and galleries opened this week!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

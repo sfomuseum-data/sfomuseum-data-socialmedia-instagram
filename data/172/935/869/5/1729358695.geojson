@@ -39,6 +39,50 @@
       "taken": 1516203420,
       "taken_at": "Jan 17, 2018 3:37 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.08589529991149902,
+          "id": 1729355861
+        },
+        {
+          "distance": 0.08794456720352173,
+          "id": 1729356541
+        },
+        {
+          "distance": 0.09932202100753784,
+          "id": 1763558939
+        },
+        {
+          "distance": 0.10008031129837036,
+          "id": 1729355861
+        },
+        {
+          "distance": 0.10652798414230347,
+          "id": 1729355871
+        },
+        {
+          "distance": 0.10872757434844971,
+          "id": 1880151229
+        },
+        {
+          "distance": 0.10904651880264282,
+          "id": 1880151169
+        },
+        {
+          "distance": 0.12072765827178955,
+          "id": 1729357041
+        },
+        {
+          "distance": 0.12814784049987793,
+          "id": 1763559247
+        },
+        {
+          "distance": 0.12945914268493652,
+          "id": 1729355659
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729358695,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Glenn L. Martin was born on #onthisday in 1886 in Macksburg, Iowa...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

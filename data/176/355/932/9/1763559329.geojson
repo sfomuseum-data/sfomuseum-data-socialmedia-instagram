@@ -31,6 +31,50 @@
       "taken": 1636566000,
       "taken_at": "Nov 10, 2021 5:40 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07587796449661255,
+          "id": 1729358315
+        },
+        {
+          "distance": 0.0808371901512146,
+          "id": 1729359579
+        },
+        {
+          "distance": 0.08140397071838379,
+          "id": 1729356565
+        },
+        {
+          "distance": 0.11907267570495605,
+          "id": 1729359579
+        },
+        {
+          "distance": 0.12115585803985596,
+          "id": 1729358315
+        },
+        {
+          "distance": 0.1241115927696228,
+          "id": 1729356565
+        },
+        {
+          "distance": 0.1668139100074768,
+          "id": 1729359769
+        },
+        {
+          "distance": 0.17008715867996216,
+          "id": 1729355303
+        },
+        {
+          "distance": 0.17166274785995483,
+          "id": 1880150957
+        },
+        {
+          "distance": 0.17858368158340454,
+          "id": 1763559389
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559329,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "The Airbus A380 is the world's only full-length double-decker commercial airliner...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

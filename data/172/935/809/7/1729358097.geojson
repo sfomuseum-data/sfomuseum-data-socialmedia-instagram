@@ -39,6 +39,50 @@
       "taken": 1529338860,
       "taken_at": "Jun 18, 2018 4:21 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07484865188598633,
+          "id": 1729360605
+        },
+        {
+          "distance": 0.08627700805664062,
+          "id": 1729360605
+        },
+        {
+          "distance": 0.23588496446609497,
+          "id": 1763559313
+        },
+        {
+          "distance": 0.23841166496276855,
+          "id": 1763558963
+        },
+        {
+          "distance": 0.24020737409591675,
+          "id": 1729355557
+        },
+        {
+          "distance": 0.24092787504196167,
+          "id": 1729356341
+        },
+        {
+          "distance": 0.2489740252494812,
+          "id": 1729356341
+        },
+        {
+          "distance": 0.2504305839538574,
+          "id": 1763558963
+        },
+        {
+          "distance": 0.2523641586303711,
+          "id": 1729355709
+        },
+        {
+          "distance": 0.2610679268836975,
+          "id": 1763559313
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729358097,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777632,
     "wof:name": "#Onthisday in 1971, Southwest Airlines began operation in Texas...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

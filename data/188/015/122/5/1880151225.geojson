@@ -25,6 +25,50 @@
       "taken": 1672741380,
       "taken_at": "Jan 03, 2023 10:23 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1985568404197693,
+          "id": 1763558869
+        },
+        {
+          "distance": 0.22339850664138794,
+          "id": 1729357513
+        },
+        {
+          "distance": 0.23117953538894653,
+          "id": 1729357513
+        },
+        {
+          "distance": 0.25203216075897217,
+          "id": 1729359805
+        },
+        {
+          "distance": 0.2525597810745239,
+          "id": 1763558869
+        },
+        {
+          "distance": 0.2577599287033081,
+          "id": 1729359805
+        },
+        {
+          "distance": 0.2629314661026001,
+          "id": 1729360199
+        },
+        {
+          "distance": 0.2678760290145874,
+          "id": 1729360199
+        },
+        {
+          "distance": 0.29100269079208374,
+          "id": 1729356677
+        },
+        {
+          "distance": 0.2912031412124634,
+          "id": 1880151203
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1880151225,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "New Year, new content!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

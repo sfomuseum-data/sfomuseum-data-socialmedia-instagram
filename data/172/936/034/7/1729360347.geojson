@@ -25,6 +25,50 @@
       "taken": 1473379200,
       "taken_at": "Sep 09, 2016 12:00 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24849742650985718,
+          "id": 1729359523
+        },
+        {
+          "distance": 0.26792049407958984,
+          "id": 1729358519
+        },
+        {
+          "distance": 0.2695186138153076,
+          "id": 1729357593
+        },
+        {
+          "distance": 0.2741857171058655,
+          "id": 1729361227
+        },
+        {
+          "distance": 0.2772001028060913,
+          "id": 1729359683
+        },
+        {
+          "distance": 0.2778138518333435,
+          "id": 1763559449
+        },
+        {
+          "distance": 0.27813082933425903,
+          "id": 1729355115
+        },
+        {
+          "distance": 0.2834707498550415,
+          "id": 1729361577
+        },
+        {
+          "distance": 0.28352826833724976,
+          "id": 1729355419
+        },
+        {
+          "distance": 0.2849050760269165,
+          "id": 1729359987
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360347,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "Two years after Mills Field Municipal Airport of San Francisco commenced operations, the airport employed just 16 people...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

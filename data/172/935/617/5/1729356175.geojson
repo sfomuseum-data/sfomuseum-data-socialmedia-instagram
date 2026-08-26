@@ -35,6 +35,50 @@
       "taken": 1566482400,
       "taken_at": "Aug 22, 2019 2:00 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09155678749084473,
+          "id": 1729355831
+        },
+        {
+          "distance": 0.14513534307479858,
+          "id": 1729355831
+        },
+        {
+          "distance": 0.16438603401184082,
+          "id": 1729355835
+        },
+        {
+          "distance": 0.16582363843917847,
+          "id": 1729355975
+        },
+        {
+          "distance": 0.1965131163597107,
+          "id": 1729356125
+        },
+        {
+          "distance": 0.20209646224975586,
+          "id": 1729356419
+        },
+        {
+          "distance": 0.22640115022659302,
+          "id": 1729356487
+        },
+        {
+          "distance": 0.23289024829864502,
+          "id": 1729356487
+        },
+        {
+          "distance": 0.2336878776550293,
+          "id": 1729356161
+        },
+        {
+          "distance": 0.2374231219291687,
+          "id": 1729355775
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729356175,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777628,
     "wof:name": "During the 1800s, many designers were drawn to Classical, Gothic, Egyptian, and Renaissance art and architecture...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

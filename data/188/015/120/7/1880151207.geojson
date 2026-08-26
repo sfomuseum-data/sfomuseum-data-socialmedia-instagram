@@ -32,6 +32,50 @@
       "taken": 1673030520,
       "taken_at": "Jan 06, 2023 6:42 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13059735298156738,
+          "id": 1947425303
+        },
+        {
+          "distance": 0.1354096531867981,
+          "id": 1947425243
+        },
+        {
+          "distance": 0.14230328798294067,
+          "id": 1880150979
+        },
+        {
+          "distance": 0.1460232138633728,
+          "id": 1880151157
+        },
+        {
+          "distance": 0.16379761695861816,
+          "id": 1880150883
+        },
+        {
+          "distance": 0.1645263433456421,
+          "id": 1880151155
+        },
+        {
+          "distance": 0.171431303024292,
+          "id": 1947425303
+        },
+        {
+          "distance": 0.1714915633201599,
+          "id": 1880151011
+        },
+        {
+          "distance": 0.1751030683517456,
+          "id": 1947425243
+        },
+        {
+          "distance": 0.17686676979064941,
+          "id": 1880151157
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1880151207,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "A sold-out performance of Italian composer Giacomo Puccini’s (1858–1924) Tosca was staged on opening night of the War Memorial Opera House...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

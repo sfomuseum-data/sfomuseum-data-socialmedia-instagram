@@ -34,6 +34,50 @@
       "taken": 1550999040,
       "taken_at": "Feb 24, 2019 9:04 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.21836978197097778,
+          "id": 1729357583
+        },
+        {
+          "distance": 0.2208728790283203,
+          "id": 1729358301
+        },
+        {
+          "distance": 0.22089195251464844,
+          "id": 1729361627
+        },
+        {
+          "distance": 0.23662996292114258,
+          "id": 1729358025
+        },
+        {
+          "distance": 0.24047696590423584,
+          "id": 1729358173
+        },
+        {
+          "distance": 0.2417595386505127,
+          "id": 1729358025
+        },
+        {
+          "distance": 0.26375943422317505,
+          "id": 1729357807
+        },
+        {
+          "distance": 0.27113354206085205,
+          "id": 1729357583
+        },
+        {
+          "distance": 0.27844852209091187,
+          "id": 1729356889
+        },
+        {
+          "distance": 0.27901691198349,
+          "id": 1729361627
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729356911,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Cats were an integral part of ancient Egyptian society...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -32,6 +32,50 @@
       "taken": 1568911680,
       "taken_at": "Sep 19, 2019 4:48 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09884428977966309,
+          "id": 1729356307
+        },
+        {
+          "distance": 0.11351066827774048,
+          "id": 1729355929
+        },
+        {
+          "distance": 0.1298656463623047,
+          "id": 1729356211
+        },
+        {
+          "distance": 0.13728880882263184,
+          "id": 1729356241
+        },
+        {
+          "distance": 0.14135903120040894,
+          "id": 1729356433
+        },
+        {
+          "distance": 0.15475434064865112,
+          "id": 1729356181
+        },
+        {
+          "distance": 0.16679084300994873,
+          "id": 1729356433
+        },
+        {
+          "distance": 0.1688435673713684,
+          "id": 1729356211
+        },
+        {
+          "distance": 0.1785210371017456,
+          "id": 1729356181
+        },
+        {
+          "distance": 0.17894607782363892,
+          "id": 1729356045
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729356063,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777628,
     "wof:name": "Insects have exoskeletons—which, along with jointed legs, are the defining characteristics of insects and other arthropods...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -31,6 +31,50 @@
       "taken": 1616598000,
       "taken_at": "Mar 24, 2021 3:00 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2735302448272705,
+          "id": 1729360923
+        },
+        {
+          "distance": 0.27880704402923584,
+          "id": 1729359355
+        },
+        {
+          "distance": 0.279049813747406,
+          "id": 1729358209
+        },
+        {
+          "distance": 0.28202033042907715,
+          "id": 1729360959
+        },
+        {
+          "distance": 0.28737175464630127,
+          "id": 1763558867
+        },
+        {
+          "distance": 0.2986932396888733,
+          "id": 1729356009
+        },
+        {
+          "distance": 0.29917532205581665,
+          "id": 1729360781
+        },
+        {
+          "distance": 0.3078065514564514,
+          "id": 1763559015
+        },
+        {
+          "distance": 0.30904585123062134,
+          "id": 1729356953
+        },
+        {
+          "distance": 0.30942201614379883,
+          "id": 1729357475
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559217,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Although Lockheed's Model 14 Super Electra performed admirably, its larger competitor, the Douglas DC-3, was less expensive to operate...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

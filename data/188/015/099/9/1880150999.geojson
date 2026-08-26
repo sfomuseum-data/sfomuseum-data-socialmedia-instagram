@@ -28,6 +28,50 @@
       "taken": 1680602760,
       "taken_at": "Apr 04, 2023 10:06 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1806918978691101,
+          "id": 1729357689
+        },
+        {
+          "distance": 0.18101346492767334,
+          "id": 1729356121
+        },
+        {
+          "distance": 0.18818485736846924,
+          "id": 1729360353
+        },
+        {
+          "distance": 0.2066570520401001,
+          "id": 1729356753
+        },
+        {
+          "distance": 0.2100256085395813,
+          "id": 1729355509
+        },
+        {
+          "distance": 0.21135812997817993,
+          "id": 1729358319
+        },
+        {
+          "distance": 0.2122594118118286,
+          "id": 1729358563
+        },
+        {
+          "distance": 0.21783047914505005,
+          "id": 1729358105
+        },
+        {
+          "distance": 0.21879976987838745,
+          "id": 1729360353
+        },
+        {
+          "distance": 0.21888256072998047,
+          "id": 1729356121
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1880150999,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777661,
     "wof:name": "The inaugural Singapore Airlines flight to the United States arrived at San Francisco on #onthisday in 1979...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

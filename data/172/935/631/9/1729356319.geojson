@@ -30,6 +30,50 @@
       "taken": 1563028140,
       "taken_at": "Jul 13, 2019 2:29 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17522156238555908,
+          "id": 1729359455
+        },
+        {
+          "distance": 0.17744725942611694,
+          "id": 1947425117
+        },
+        {
+          "distance": 0.1911664605140686,
+          "id": 1729359455
+        },
+        {
+          "distance": 0.20373332500457764,
+          "id": 1763559327
+        },
+        {
+          "distance": 0.21207594871520996,
+          "id": 1763559487
+        },
+        {
+          "distance": 0.21251249313354492,
+          "id": 1763559109
+        },
+        {
+          "distance": 0.2213403582572937,
+          "id": 1729355323
+        },
+        {
+          "distance": 0.22633576393127441,
+          "id": 1729361569
+        },
+        {
+          "distance": 0.22731941938400269,
+          "id": 1763559327
+        },
+        {
+          "distance": 0.23111319541931152,
+          "id": 1729360631
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729356319,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Airlines have customarily used landmarks to advertise their destinations...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

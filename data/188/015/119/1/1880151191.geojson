@@ -30,6 +30,50 @@
       "taken": 1673541960,
       "taken_at": "Jan 12, 2023 4:46 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10324901342391968,
+          "id": 1729361929
+        },
+        {
+          "distance": 0.14982295036315918,
+          "id": 1729358085
+        },
+        {
+          "distance": 0.1559961438179016,
+          "id": 1729357069
+        },
+        {
+          "distance": 0.1604151725769043,
+          "id": 1880151473
+        },
+        {
+          "distance": 0.166944682598114,
+          "id": 1729358531
+        },
+        {
+          "distance": 0.168942391872406,
+          "id": 1880151121
+        },
+        {
+          "distance": 0.1728549599647522,
+          "id": 1729361929
+        },
+        {
+          "distance": 0.17474877834320068,
+          "id": 1880151287
+        },
+        {
+          "distance": 0.1754782795906067,
+          "id": 1880151473
+        },
+        {
+          "distance": 0.17667675018310547,
+          "id": 1729361489
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151191,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Qantas (Queensland and Northern Territory Aerial Services) is one of the oldest continually operating airlines in the world; it celebrated its centennial in 2020...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

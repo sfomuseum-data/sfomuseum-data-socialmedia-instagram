@@ -40,6 +40,50 @@
       "taken": 1548927900,
       "taken_at": "Jan 31, 2019, 9:45 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.05721759796142578,
+          "id": 1729356901
+        },
+        {
+          "distance": 0.089444100856781,
+          "id": 1729356923
+        },
+        {
+          "distance": 0.0931810736656189,
+          "id": 1729356901
+        },
+        {
+          "distance": 0.0971176028251648,
+          "id": 1729356943
+        },
+        {
+          "distance": 0.11468315124511719,
+          "id": 1729357021
+        },
+        {
+          "distance": 0.11535865068435669,
+          "id": 1729356943
+        },
+        {
+          "distance": 0.13160669803619385,
+          "id": 1729356923
+        },
+        {
+          "distance": 0.14742767810821533,
+          "id": 1729356945
+        },
+        {
+          "distance": 0.15824556350708008,
+          "id": 1729356945
+        },
+        {
+          "distance": 0.18108206987380981,
+          "id": 1729357021
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729357019,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Located on the North Shore of O‘ahu, Pipeline produces some of the world’s most powerful hollow waves...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

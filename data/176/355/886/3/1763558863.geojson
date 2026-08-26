@@ -31,6 +31,50 @@
       "taken": 1613060940,
       "taken_at": "Feb 11, 2021 4:29 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10039812326431274,
+          "id": 1763559177
+        },
+        {
+          "distance": 0.11202681064605713,
+          "id": 1763559221
+        },
+        {
+          "distance": 0.14050722122192383,
+          "id": 1763559177
+        },
+        {
+          "distance": 0.15107262134552002,
+          "id": 1763559221
+        },
+        {
+          "distance": 0.1900385022163391,
+          "id": 1763559231
+        },
+        {
+          "distance": 0.19414091110229492,
+          "id": 1763559067
+        },
+        {
+          "distance": 0.2052099108695984,
+          "id": 1763558885
+        },
+        {
+          "distance": 0.2119300365447998,
+          "id": 1763558885
+        },
+        {
+          "distance": 0.21949315071105957,
+          "id": 1763559067
+        },
+        {
+          "distance": 0.22856515645980835,
+          "id": 1763559231
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763558863,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777659,
     "wof:name": "“No longer a fad or high fashion fantasy for the privileged few, the wig and the hairpiece are here to stay,” wrote Dorothea Zack Hanle in the 1964 publication Hairdo Handbook...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

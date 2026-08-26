@@ -32,6 +32,50 @@
       "taken": 1536856140,
       "taken_at": "Sep 13, 2018, 4:29 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.08957993984222412,
+          "id": 1729357183
+        },
+        {
+          "distance": 0.0928754210472107,
+          "id": 1729357945
+        },
+        {
+          "distance": 0.10175371170043945,
+          "id": 1763559613
+        },
+        {
+          "distance": 0.11690658330917358,
+          "id": 1729357973
+        },
+        {
+          "distance": 0.11696910858154297,
+          "id": 1729357395
+        },
+        {
+          "distance": 0.1245725154876709,
+          "id": 1729358869
+        },
+        {
+          "distance": 0.13018208742141724,
+          "id": 1729357763
+        },
+        {
+          "distance": 0.13184815645217896,
+          "id": 1729357207
+        },
+        {
+          "distance": 0.1322154998779297,
+          "id": 1729358011
+        },
+        {
+          "distance": 0.1330527663230896,
+          "id": 1729358171
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729357673,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777632,
     "wof:name": "In an effort to compete with TWA (Trans World Airlines) on transatlantic routes to Europe, Pan American World Airways ordered the extended-range DC-7C (dubbed the “Seven Seas”) from Douglas Aircraft...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

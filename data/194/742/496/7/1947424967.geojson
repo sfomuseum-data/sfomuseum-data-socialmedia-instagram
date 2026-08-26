@@ -27,6 +27,50 @@
       "taken": 1719561660,
       "taken_at": "Jun 28, 2024 8:01 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2369368076324463,
+          "id": 1729360987
+        },
+        {
+          "distance": 0.2509656548500061,
+          "id": 1729360475
+        },
+        {
+          "distance": 0.2518378496170044,
+          "id": 1729359803
+        },
+        {
+          "distance": 0.2566925883293152,
+          "id": 1729360987
+        },
+        {
+          "distance": 0.2569398880004883,
+          "id": 1729359803
+        },
+        {
+          "distance": 0.26955294609069824,
+          "id": 1729355197
+        },
+        {
+          "distance": 0.27341628074645996,
+          "id": 1880150923
+        },
+        {
+          "distance": 0.2741357684135437,
+          "id": 1729360155
+        },
+        {
+          "distance": 0.27434587478637695,
+          "id": 1729359319
+        },
+        {
+          "distance": 0.2752513289451599,
+          "id": 1729357961
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947424967,
-    "wof:lastmodified": 1733175321,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Manhattan has been featured in many travel posters throughout the history of commercial aviation as a popular tourist destination...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

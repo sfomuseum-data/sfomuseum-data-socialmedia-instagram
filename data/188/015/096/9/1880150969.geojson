@@ -31,6 +31,50 @@
       "taken": 1682064000,
       "taken_at": "Apr 21, 2023 8:00 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.011661112308502197,
+          "id": 1880151023
+        },
+        {
+          "distance": 0.09547138214111328,
+          "id": 1880151539
+        },
+        {
+          "distance": 0.10029423236846924,
+          "id": 1880151227
+        },
+        {
+          "distance": 0.10029423236846924,
+          "id": 1880151117
+        },
+        {
+          "distance": 0.1034669280052185,
+          "id": 1880151475
+        },
+        {
+          "distance": 0.10370635986328125,
+          "id": 1880151023
+        },
+        {
+          "distance": 0.11080664396286011,
+          "id": 1880151475
+        },
+        {
+          "distance": 0.12209993600845337,
+          "id": 1880151227
+        },
+        {
+          "distance": 0.12209993600845337,
+          "id": 1880151117
+        },
+        {
+          "distance": 0.1473844051361084,
+          "id": 1880151539
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880150969,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777661,
     "wof:name": "Margaret De Patta (1903–64) was one of the first modernist American jewelers...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

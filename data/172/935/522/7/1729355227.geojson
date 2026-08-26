@@ -29,6 +29,50 @@
       "taken": 1590584700,
       "taken_at": "May 27, 2020 1:05 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.018723666667938232,
+          "id": 1763558929
+        },
+        {
+          "distance": 0.037979066371917725,
+          "id": 1729357125
+        },
+        {
+          "distance": 0.04792487621307373,
+          "id": 1880151215
+        },
+        {
+          "distance": 0.05872666835784912,
+          "id": 1729358177
+        },
+        {
+          "distance": 0.10301125049591064,
+          "id": 1763558929
+        },
+        {
+          "distance": 0.12529093027114868,
+          "id": 1729358177
+        },
+        {
+          "distance": 0.128059983253479,
+          "id": 1729357125
+        },
+        {
+          "distance": 0.1378147006034851,
+          "id": 1729359877
+        },
+        {
+          "distance": 0.13994252681732178,
+          "id": 1729361381
+        },
+        {
+          "distance": 0.15234941244125366,
+          "id": 1729355899
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729355227,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777619,
     "wof:name": "Happy Birthday to the Golden Gate Bridge!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

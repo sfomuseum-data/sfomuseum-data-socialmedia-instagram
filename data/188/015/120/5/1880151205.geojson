@@ -30,6 +30,50 @@
       "taken": 1673007600,
       "taken_at": "Jan 06, 2023 12:20 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20060479640960693,
+          "id": 1729359425
+        },
+        {
+          "distance": 0.21073198318481445,
+          "id": 1729356811
+        },
+        {
+          "distance": 0.2206619381904602,
+          "id": 1763559087
+        },
+        {
+          "distance": 0.22147172689437866,
+          "id": 1729357895
+        },
+        {
+          "distance": 0.22409135103225708,
+          "id": 1729356547
+        },
+        {
+          "distance": 0.23169547319412231,
+          "id": 1729356549
+        },
+        {
+          "distance": 0.23876279592514038,
+          "id": 1729359363
+        },
+        {
+          "distance": 0.23927092552185059,
+          "id": 1880151131
+        },
+        {
+          "distance": 0.24026858806610107,
+          "id": 1729356819
+        },
+        {
+          "distance": 0.24055403470993042,
+          "id": 1729356553
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151205,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Robert Hudson (b...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

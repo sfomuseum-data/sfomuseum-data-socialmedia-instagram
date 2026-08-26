@@ -25,6 +25,50 @@
       "taken": 1458897420,
       "taken_at": "Mar 25, 2016 9:17 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.26363760232925415,
+          "id": 1729360219
+        },
+        {
+          "distance": 0.27574068307876587,
+          "id": 1729360219
+        },
+        {
+          "distance": 0.3133379817008972,
+          "id": 1729360565
+        },
+        {
+          "distance": 0.3183329701423645,
+          "id": 1729360763
+        },
+        {
+          "distance": 0.32117122411727905,
+          "id": 1729360401
+        },
+        {
+          "distance": 0.3244073987007141,
+          "id": 1729360661
+        },
+        {
+          "distance": 0.3300405740737915,
+          "id": 1729360931
+        },
+        {
+          "distance": 0.33050113916397095,
+          "id": 1729360735
+        },
+        {
+          "distance": 0.33860158920288086,
+          "id": 1729360103
+        },
+        {
+          "distance": 0.34625571966171265,
+          "id": 1729360659
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360889,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Last week our newest exhibition, “Celebrating a Vision: #ArtAndDisability\" opened, post-security, in Terminal 3...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

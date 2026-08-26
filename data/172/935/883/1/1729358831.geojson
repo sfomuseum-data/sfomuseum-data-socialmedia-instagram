@@ -38,6 +38,50 @@
       "taken": 1513446600,
       "taken_at": "Dec 16, 2017 5:50 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.011289715766906738,
+          "id": 1729355783
+        },
+        {
+          "distance": 0.14549678564071655,
+          "id": 1729355783
+        },
+        {
+          "distance": 0.1563778519630432,
+          "id": 1729356313
+        },
+        {
+          "distance": 0.17666345834732056,
+          "id": 1729357575
+        },
+        {
+          "distance": 0.18697237968444824,
+          "id": 1729355593
+        },
+        {
+          "distance": 0.19206875562667847,
+          "id": 1729356913
+        },
+        {
+          "distance": 0.19739949703216553,
+          "id": 1729356913
+        },
+        {
+          "distance": 0.20674359798431396,
+          "id": 1729359691
+        },
+        {
+          "distance": 0.20732468366622925,
+          "id": 1729357575
+        },
+        {
+          "distance": 0.20897221565246582,
+          "id": 1729357849
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729358831,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "China Airlines, the flag carrier of Taiwan, was founded #onthisday in 1959 by retired Chinese Air Force officers...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

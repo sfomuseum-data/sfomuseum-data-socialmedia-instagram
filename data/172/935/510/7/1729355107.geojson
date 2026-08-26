@@ -31,6 +31,50 @@
       "taken": 1598364300,
       "taken_at": "Aug 25, 2020 2:05 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.29121387004852295,
+          "id": 1729362197
+        },
+        {
+          "distance": 0.3046392798423767,
+          "id": 1729362197
+        },
+        {
+          "distance": 0.31480491161346436,
+          "id": 1729362323
+        },
+        {
+          "distance": 0.3242000937461853,
+          "id": 1729362975
+        },
+        {
+          "distance": 0.3266574740409851,
+          "id": 1729362323
+        },
+        {
+          "distance": 0.3341723680496216,
+          "id": 1729358723
+        },
+        {
+          "distance": 0.3447267413139343,
+          "id": 1880151783
+        },
+        {
+          "distance": 0.34507572650909424,
+          "id": 1947425145
+        },
+        {
+          "distance": 0.3514203429222107,
+          "id": 1880151677
+        },
+        {
+          "distance": 0.3524991273880005,
+          "id": 1947425273
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729355107,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777617,
     "wof:name": "Thank you so much to the Phoebe A. Hearst Museum of Anthropology at UC Berkeley for lending us objects to support our exhibition “Extra ‘O’”...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

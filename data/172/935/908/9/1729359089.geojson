@@ -42,6 +42,50 @@
       "taken": 1505247360,
       "taken_at": "Sep 12, 2017 8:16 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19359314441680908,
+          "id": 1729359115
+        },
+        {
+          "distance": 0.20777982473373413,
+          "id": 1729361821
+        },
+        {
+          "distance": 0.23763829469680786,
+          "id": 1729359115
+        },
+        {
+          "distance": 0.23954927921295166,
+          "id": 1729359085
+        },
+        {
+          "distance": 0.23978567123413086,
+          "id": 1729359085
+        },
+        {
+          "distance": 0.24650204181671143,
+          "id": 1729361821
+        },
+        {
+          "distance": 0.25214093923568726,
+          "id": 1729360635
+        },
+        {
+          "distance": 0.26507657766342163,
+          "id": 1880151441
+        },
+        {
+          "distance": 0.26782381534576416,
+          "id": 1880151625
+        },
+        {
+          "distance": 0.26839935779571533,
+          "id": 1729362281
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -71,7 +115,7 @@
       }
     ],
     "wof:id": 1729359089,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Most women at the height of the Arts and Crafts movement had some knowledge of how to embroider...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -88,5 +132,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

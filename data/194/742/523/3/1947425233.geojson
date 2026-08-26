@@ -28,6 +28,50 @@
       "taken": 1699894980,
       "taken_at": "Nov 13, 2023 5:03 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2131308913230896,
+          "id": 1763558803
+        },
+        {
+          "distance": 0.2131308913230896,
+          "id": 1729357165
+        },
+        {
+          "distance": 0.223768413066864,
+          "id": 1729357071
+        },
+        {
+          "distance": 0.23550331592559814,
+          "id": 1880151405
+        },
+        {
+          "distance": 0.24877822399139404,
+          "id": 1880151383
+        },
+        {
+          "distance": 0.25167006254196167,
+          "id": 1729356997
+        },
+        {
+          "distance": 0.2624015212059021,
+          "id": 1729356763
+        },
+        {
+          "distance": 0.26684504747390747,
+          "id": 1729357229
+        },
+        {
+          "distance": 0.27250635623931885,
+          "id": 1729357321
+        },
+        {
+          "distance": 0.27487534284591675,
+          "id": 1729355053
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1947425233,
-    "wof:lastmodified": 1733175330,
+    "wof:lastmodified": 1787777664,
     "wof:name": "From its founding, the Kalo Shop in Chicago proved to be an innovator in Arts and Crafts design, known for consistent quality and originality...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -70,5 +114,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

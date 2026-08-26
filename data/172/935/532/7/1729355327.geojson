@@ -29,6 +29,50 @@
       "taken": 1587396000,
       "taken_at": "Apr 20, 2020 3:20 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.050026893615722656,
+          "id": 1729361127
+        },
+        {
+          "distance": 0.11026895046234131,
+          "id": 1729361127
+        },
+        {
+          "distance": 0.1583307981491089,
+          "id": 1947424953
+        },
+        {
+          "distance": 0.16984903812408447,
+          "id": 1729358851
+        },
+        {
+          "distance": 0.17323905229568481,
+          "id": 1729357293
+        },
+        {
+          "distance": 0.1749165654182434,
+          "id": 1729357627
+        },
+        {
+          "distance": 0.1760067343711853,
+          "id": 1729359043
+        },
+        {
+          "distance": 0.18216180801391602,
+          "id": 1729359591
+        },
+        {
+          "distance": 0.18216180801391602,
+          "id": 1763558659
+        },
+        {
+          "distance": 0.18227380514144897,
+          "id": 1729361085
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729355327,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777623,
     "wof:name": "Freighter versions of the Boeing 747 were built differently from most other cargo planes...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

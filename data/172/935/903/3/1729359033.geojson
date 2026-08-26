@@ -44,6 +44,50 @@
       "taken": 1506960240,
       "taken_at": "Oct 02, 2017 4:04 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2087516188621521,
+          "id": 1729355755
+        },
+        {
+          "distance": 0.21271556615829468,
+          "id": 1729357609
+        },
+        {
+          "distance": 0.21329283714294434,
+          "id": 1763558827
+        },
+        {
+          "distance": 0.2161698341369629,
+          "id": 1729357069
+        },
+        {
+          "distance": 0.22151696681976318,
+          "id": 1947424845
+        },
+        {
+          "distance": 0.22151696681976318,
+          "id": 1947424837
+        },
+        {
+          "distance": 0.2227831482887268,
+          "id": 1880151191
+        },
+        {
+          "distance": 0.22317957878112793,
+          "id": 1729358085
+        },
+        {
+          "distance": 0.22418683767318726,
+          "id": 1947425009
+        },
+        {
+          "distance": 0.22418683767318726,
+          "id": 1947425027
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -73,7 +117,7 @@
       }
     ],
     "wof:id": 1729359033,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777634,
     "wof:name": "This is your last week to see \"The Years Fly By: Airline Calendars from the Collection!\"..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -90,5 +134,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

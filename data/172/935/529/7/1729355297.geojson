@@ -33,6 +33,50 @@
       "taken": 1588686600,
       "taken_at": "May 05, 2020 1:50 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.013682961463928223,
+          "id": 1763559025
+        },
+        {
+          "distance": 0.13013482093811035,
+          "id": 1763559025
+        },
+        {
+          "distance": 0.15287518501281738,
+          "id": 1729355363
+        },
+        {
+          "distance": 0.1964762806892395,
+          "id": 1729355363
+        },
+        {
+          "distance": 0.21144628524780273,
+          "id": 1763559569
+        },
+        {
+          "distance": 0.23189449310302734,
+          "id": 1729355785
+        },
+        {
+          "distance": 0.2365938425064087,
+          "id": 1729357431
+        },
+        {
+          "distance": 0.24135470390319824,
+          "id": 1729355059
+        },
+        {
+          "distance": 0.24167513847351074,
+          "id": 1763559569
+        },
+        {
+          "distance": 0.24200814962387085,
+          "id": 1729357693
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729355297,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777622,
     "wof:name": "Do you miss your barber?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -31,6 +31,50 @@
       "taken": 1562577540,
       "taken_at": "Jul 08, 2019 9:19 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10728609561920166,
+          "id": 1880151585
+        },
+        {
+          "distance": 0.17465656995773315,
+          "id": 1729359177
+        },
+        {
+          "distance": 0.1750360131263733,
+          "id": 1729359177
+        },
+        {
+          "distance": 0.18857353925704956,
+          "id": 1880151585
+        },
+        {
+          "distance": 0.24277758598327637,
+          "id": 1729357999
+        },
+        {
+          "distance": 0.26388019323349,
+          "id": 1763559469
+        },
+        {
+          "distance": 0.26444655656814575,
+          "id": 1763559555
+        },
+        {
+          "distance": 0.2667344808578491,
+          "id": 1729359429
+        },
+        {
+          "distance": 0.26752108335494995,
+          "id": 1763558931
+        },
+        {
+          "distance": 0.2690209746360779,
+          "id": 1763559679
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729356351,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777629,
     "wof:name": "“Waiting” is a large-scale photographic close-up of four central figures involved in the familiar yet deeply symbolic drama of waiting in an airport for the return of loved ones...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

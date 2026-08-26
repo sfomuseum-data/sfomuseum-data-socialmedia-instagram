@@ -30,6 +30,50 @@
       "taken": 1696953000,
       "taken_at": "Oct 10, 2023 3:50 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17704075574874878,
+          "id": 1880151547
+        },
+        {
+          "distance": 0.2076038122177124,
+          "id": 1763559305
+        },
+        {
+          "distance": 0.2627398371696472,
+          "id": 1947425087
+        },
+        {
+          "distance": 0.26419323682785034,
+          "id": 1763559305
+        },
+        {
+          "distance": 0.2710287570953369,
+          "id": 1880151337
+        },
+        {
+          "distance": 0.27281326055526733,
+          "id": 1947425297
+        },
+        {
+          "distance": 0.27402251958847046,
+          "id": 1947425135
+        },
+        {
+          "distance": 0.27534282207489014,
+          "id": 1880151547
+        },
+        {
+          "distance": 0.2914637327194214,
+          "id": 1729360667
+        },
+        {
+          "distance": 0.29151451587677,
+          "id": 1880151407
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1947425275,
-    "wof:lastmodified": 1733175331,
+    "wof:lastmodified": 1787777664,
     "wof:name": "By October 1928, all four hangars located at Mills Field were finished...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

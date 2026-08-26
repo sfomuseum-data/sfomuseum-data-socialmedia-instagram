@@ -25,6 +25,50 @@
       "taken": 1460055900,
       "taken_at": "Apr 07, 2016 7:05 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14973682165145874,
+          "id": 1729358903
+        },
+        {
+          "distance": 0.15958738327026367,
+          "id": 1729360111
+        },
+        {
+          "distance": 0.1635074019432068,
+          "id": 1729357513
+        },
+        {
+          "distance": 0.17627942562103271,
+          "id": 1729355393
+        },
+        {
+          "distance": 0.18114686012268066,
+          "id": 1729357513
+        },
+        {
+          "distance": 0.1825011968612671,
+          "id": 1763559233
+        },
+        {
+          "distance": 0.184159517288208,
+          "id": 1729361143
+        },
+        {
+          "distance": 0.18942373991012573,
+          "id": 1729361261
+        },
+        {
+          "distance": 0.19566506147384644,
+          "id": 1729361143
+        },
+        {
+          "distance": 0.19608980417251587,
+          "id": 1729360877
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360851,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "During the 1940s, United Air Lines constructed a large West Coast Maintenance Base at San Francisco Airport, along with this beautiful office building...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

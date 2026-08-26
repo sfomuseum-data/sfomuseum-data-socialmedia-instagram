@@ -31,6 +31,50 @@
       "taken": 1498839780,
       "taken_at": "Jun 30, 2017 4:23 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18584907054901123,
+          "id": 1729358507
+        },
+        {
+          "distance": 0.19618582725524902,
+          "id": 1729358507
+        },
+        {
+          "distance": 0.23844343423843384,
+          "id": 1729358727
+        },
+        {
+          "distance": 0.24254196882247925,
+          "id": 1729360551
+        },
+        {
+          "distance": 0.2601621150970459,
+          "id": 1763559155
+        },
+        {
+          "distance": 0.27262020111083984,
+          "id": 1729355261
+        },
+        {
+          "distance": 0.27897244691848755,
+          "id": 1729356927
+        },
+        {
+          "distance": 0.2853555679321289,
+          "id": 1729358727
+        },
+        {
+          "distance": 0.2861086130142212,
+          "id": 1729359167
+        },
+        {
+          "distance": 0.2861441373825073,
+          "id": 1729358763
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729359367,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Over ninety years ago, at the dawn of commercial aviation, four companies merged into a single airline that became a preeminent U.S. carrier...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

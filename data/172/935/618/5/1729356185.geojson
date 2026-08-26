@@ -32,6 +32,50 @@
       "taken": 1566124020,
       "taken_at": "Aug 18, 2019, 10:27 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3084483742713928,
+          "id": 1729356483
+        },
+        {
+          "distance": 0.3102276921272278,
+          "id": 1729356497
+        },
+        {
+          "distance": 0.3230047821998596,
+          "id": 1729356497
+        },
+        {
+          "distance": 0.3440864682197571,
+          "id": 1729356483
+        },
+        {
+          "distance": 0.35450315475463867,
+          "id": 1880151139
+        },
+        {
+          "distance": 0.3608222007751465,
+          "id": 1880151139
+        },
+        {
+          "distance": 0.3653450608253479,
+          "id": 1729358233
+        },
+        {
+          "distance": 0.3653450608253479,
+          "id": 1763558729
+        },
+        {
+          "distance": 0.3709784746170044,
+          "id": 1729359681
+        },
+        {
+          "distance": 0.3712949752807617,
+          "id": 1763559317
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729356185,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777628,
     "wof:name": "The Urban School is an independent high school in San Francisco whose mission is to ignite a passion for learning and to inspire students to become self-motivated, enthusiastic participants in their education, both in high school and beyond...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

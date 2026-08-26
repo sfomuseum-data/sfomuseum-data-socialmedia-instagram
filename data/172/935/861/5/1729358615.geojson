@@ -35,6 +35,50 @@
       "taken": 1517401800,
       "taken_at": "Jan 31, 2018 12:30 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19531726837158203,
+          "id": 1729361179
+        },
+        {
+          "distance": 0.21159058809280396,
+          "id": 1729359251
+        },
+        {
+          "distance": 0.2148827314376831,
+          "id": 1729360277
+        },
+        {
+          "distance": 0.23296016454696655,
+          "id": 1763559617
+        },
+        {
+          "distance": 0.23354589939117432,
+          "id": 1729357687
+        },
+        {
+          "distance": 0.23414677381515503,
+          "id": 1729355587
+        },
+        {
+          "distance": 0.23506391048431396,
+          "id": 1729357841
+        },
+        {
+          "distance": 0.2374666929244995,
+          "id": 1729361179
+        },
+        {
+          "distance": 0.2417008876800537,
+          "id": 1729359361
+        },
+        {
+          "distance": 0.24497830867767334,
+          "id": 1729359771
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729358615,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "This United Air Lines Douglas DC-3 flight crew was surely riding to work in style in this 1941 Buick...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

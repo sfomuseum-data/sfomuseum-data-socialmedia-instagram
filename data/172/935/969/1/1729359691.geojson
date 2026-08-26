@@ -37,6 +37,50 @@
       "taken": 1490031360,
       "taken_at": "Mar 20, 2017 5:36 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06966590881347656,
+          "id": 1729358651
+        },
+        {
+          "distance": 0.09568750858306885,
+          "id": 1763559637
+        },
+        {
+          "distance": 0.10802114009857178,
+          "id": 1729358651
+        },
+        {
+          "distance": 0.13108426332473755,
+          "id": 1729357465
+        },
+        {
+          "distance": 0.13979840278625488,
+          "id": 1729357465
+        },
+        {
+          "distance": 0.1431928277015686,
+          "id": 1729358895
+        },
+        {
+          "distance": 0.1493213176727295,
+          "id": 1729357769
+        },
+        {
+          "distance": 0.1494045853614807,
+          "id": 1729358231
+        },
+        {
+          "distance": 0.15846461057662964,
+          "id": 1763559637
+        },
+        {
+          "distance": 0.1603609323501587,
+          "id": 1729355873
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729359691,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "#OnThisDay in 1959, TWA (Trans World Airlines) inaugurated transcontinental Boeing 707 jet service from San Francisco International Airport to New York...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

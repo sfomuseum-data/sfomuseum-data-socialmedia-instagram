@@ -33,6 +33,50 @@
       "taken": 1574169420,
       "taken_at": "Nov 19, 2019 1:17 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10667073726654053,
+          "id": 1729358695
+        },
+        {
+          "distance": 0.12352108955383301,
+          "id": 1880151189
+        },
+        {
+          "distance": 0.12623625993728638,
+          "id": 1729357041
+        },
+        {
+          "distance": 0.1293795108795166,
+          "id": 1729357075
+        },
+        {
+          "distance": 0.1309170126914978,
+          "id": 1729355657
+        },
+        {
+          "distance": 0.1329106092453003,
+          "id": 1880151691
+        },
+        {
+          "distance": 0.13534009456634521,
+          "id": 1729358701
+        },
+        {
+          "distance": 0.1367540955543518,
+          "id": 1880151387
+        },
+        {
+          "distance": 0.1368212103843689,
+          "id": 1729357537
+        },
+        {
+          "distance": 0.13963717222213745,
+          "id": 1729361159
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729355871,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777627,
     "wof:name": "Taxiing out from Pan American seaplane base at Dinner Key, Miami, Florida, the airline's new Sikorsky S-40 prepared for take off on its inaugural passenger flight #onthisday in 1931...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

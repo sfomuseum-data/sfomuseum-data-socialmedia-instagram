@@ -33,6 +33,50 @@
       "taken": 1657917720,
       "taken_at": "Jul 15, 2022 8:42 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1358150839805603,
+          "id": 1880151575
+        },
+        {
+          "distance": 0.1358150839805603,
+          "id": 1880151563
+        },
+        {
+          "distance": 0.1631087064743042,
+          "id": 1880151575
+        },
+        {
+          "distance": 0.1631087064743042,
+          "id": 1880151563
+        },
+        {
+          "distance": 0.22102922201156616,
+          "id": 1880151531
+        },
+        {
+          "distance": 0.23201054334640503,
+          "id": 1880151513
+        },
+        {
+          "distance": 0.24117714166641235,
+          "id": 1880151531
+        },
+        {
+          "distance": 0.24786770343780518,
+          "id": 1880151513
+        },
+        {
+          "distance": 0.2647497057914734,
+          "id": 1880151533
+        },
+        {
+          "distance": 0.27463382482528687,
+          "id": 1880151631
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1880151571,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "In 1912, Ohio-born Bernetta Adams Miller (1884–1972) became the fifth woman in the United States to earn a pilot’s license...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

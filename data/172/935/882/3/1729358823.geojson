@@ -40,6 +40,50 @@
       "taken": 1513167300,
       "taken_at": "Dec 13, 2017 12:15 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20536082983016968,
+          "id": 1729355241
+        },
+        {
+          "distance": 0.2201794981956482,
+          "id": 1729361311
+        },
+        {
+          "distance": 0.2299094796180725,
+          "id": 1729362133
+        },
+        {
+          "distance": 0.25078701972961426,
+          "id": 1729359591
+        },
+        {
+          "distance": 0.25078701972961426,
+          "id": 1763558659
+        },
+        {
+          "distance": 0.2566276788711548,
+          "id": 1729359489
+        },
+        {
+          "distance": 0.26086658239364624,
+          "id": 1729361037
+        },
+        {
+          "distance": 0.26476454734802246,
+          "id": 1729362133
+        },
+        {
+          "distance": 0.273065984249115,
+          "id": 1729361735
+        },
+        {
+          "distance": 0.27597296237945557,
+          "id": 1729361573
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729358823,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "A popular style of aviation photography, that became symbolic of the jet age, was a flight attendant poised in the cowling of a jet engine...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

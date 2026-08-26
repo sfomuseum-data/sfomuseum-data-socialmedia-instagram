@@ -31,6 +31,50 @@
       "taken": 1648462260,
       "taken_at": "Mar 28, 2022 10:11 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1656275987625122,
+          "id": 1763559605
+        },
+        {
+          "distance": 0.17100131511688232,
+          "id": 1763559605
+        },
+        {
+          "distance": 0.1798415184020996,
+          "id": 1763558761
+        },
+        {
+          "distance": 0.20837461948394775,
+          "id": 1763559497
+        },
+        {
+          "distance": 0.20863401889801025,
+          "id": 1763558761
+        },
+        {
+          "distance": 0.21217578649520874,
+          "id": 1729358039
+        },
+        {
+          "distance": 0.21744227409362793,
+          "id": 1763558687
+        },
+        {
+          "distance": 0.21744227409362793,
+          "id": 1729359197
+        },
+        {
+          "distance": 0.22045493125915527,
+          "id": 1729358039
+        },
+        {
+          "distance": 0.22289520502090454,
+          "id": 1763559497
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559535,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Modern cryptosystems rely on huge prime numbers for secure cyphers...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

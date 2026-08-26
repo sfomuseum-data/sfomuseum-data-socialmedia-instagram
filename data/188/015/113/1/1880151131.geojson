@@ -29,6 +29,50 @@
       "taken": 1676643240,
       "taken_at": "Feb 17, 2023 2:14 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13784700632095337,
+          "id": 1880151137
+        },
+        {
+          "distance": 0.17054325342178345,
+          "id": 1729357895
+        },
+        {
+          "distance": 0.2026389241218567,
+          "id": 1880151091
+        },
+        {
+          "distance": 0.20442456007003784,
+          "id": 1729359425
+        },
+        {
+          "distance": 0.2052343487739563,
+          "id": 1729356549
+        },
+        {
+          "distance": 0.2068963646888733,
+          "id": 1729357871
+        },
+        {
+          "distance": 0.20784956216812134,
+          "id": 1729359363
+        },
+        {
+          "distance": 0.21914488077163696,
+          "id": 1763559087
+        },
+        {
+          "distance": 0.21980607509613037,
+          "id": 1729356263
+        },
+        {
+          "distance": 0.2255328893661499,
+          "id": 1880150891
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880151131,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "David Huffman (b...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

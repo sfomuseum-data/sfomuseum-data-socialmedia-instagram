@@ -32,6 +32,50 @@
       "taken": 1655128440,
       "taken_at": "Jun 13, 2022 1:54 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.08576905727386475,
+          "id": 1880151641
+        },
+        {
+          "distance": 0.08632498979568481,
+          "id": 1880151595
+        },
+        {
+          "distance": 0.09621012210845947,
+          "id": 1880151673
+        },
+        {
+          "distance": 0.1087159514427185,
+          "id": 1880151673
+        },
+        {
+          "distance": 0.12241590023040771,
+          "id": 1880151595
+        },
+        {
+          "distance": 0.12526333332061768,
+          "id": 1880151641
+        },
+        {
+          "distance": 0.13716012239456177,
+          "id": 1880151611
+        },
+        {
+          "distance": 0.15854161977767944,
+          "id": 1729355471
+        },
+        {
+          "distance": 0.15920251607894897,
+          "id": 1880151611
+        },
+        {
+          "distance": 0.16712892055511475,
+          "id": 1729360513
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1880151661,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "In 1910, Blanche Scott (1884–1970) proved her automotive and mechanical skills by becoming the first woman to drive west across the continent from New York to San Francisco...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

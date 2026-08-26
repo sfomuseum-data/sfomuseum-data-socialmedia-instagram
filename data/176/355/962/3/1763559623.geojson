@@ -29,6 +29,50 @@
       "taken": 1644240480,
       "taken_at": "Feb 07, 2022 1:28 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.31251633167266846,
+          "id": 1729359509
+        },
+        {
+          "distance": 0.32931625843048096,
+          "id": 1729357761
+        },
+        {
+          "distance": 0.33110499382019043,
+          "id": 1729355113
+        },
+        {
+          "distance": 0.3319739103317261,
+          "id": 1729359047
+        },
+        {
+          "distance": 0.33268624544143677,
+          "id": 1729360273
+        },
+        {
+          "distance": 0.3346213102340698,
+          "id": 1729355113
+        },
+        {
+          "distance": 0.3378274440765381,
+          "id": 1947425101
+        },
+        {
+          "distance": 0.3388686776161194,
+          "id": 1880150885
+        },
+        {
+          "distance": 0.3435312509536743,
+          "id": 1729357413
+        },
+        {
+          "distance": 0.34384870529174805,
+          "id": 1729361553
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1763559623,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Our newest exhibition  is now on display in Terminal 3...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

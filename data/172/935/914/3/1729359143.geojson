@@ -50,6 +50,50 @@
       "taken": 1504022580,
       "taken_at": "Aug 29, 2017 4:03 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3605111837387085,
+          "id": 1729360875
+        },
+        {
+          "distance": 0.3612024188041687,
+          "id": 1729359715
+        },
+        {
+          "distance": 0.36427849531173706,
+          "id": 1763559353
+        },
+        {
+          "distance": 0.3707663416862488,
+          "id": 1729356735
+        },
+        {
+          "distance": 0.3709193468093872,
+          "id": 1729355197
+        },
+        {
+          "distance": 0.3752511143684387,
+          "id": 1729359715
+        },
+        {
+          "distance": 0.37591296434402466,
+          "id": 1729359319
+        },
+        {
+          "distance": 0.37696439027786255,
+          "id": 1729357961
+        },
+        {
+          "distance": 0.37869513034820557,
+          "id": 1729360867
+        },
+        {
+          "distance": 0.3855358362197876,
+          "id": 1947424967
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -79,7 +123,7 @@
       }
     ],
     "wof:id": 1729359143,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "#SAIDE (Services Aériens Internationaux d'Egypte) was an airline founded in 1947 by Egyptian and Italian businessmen to link Cairo to #Alexandria, #Athens, and #Rome...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -96,5 +140,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

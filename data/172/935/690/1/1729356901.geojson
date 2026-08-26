@@ -35,6 +35,50 @@
       "taken": 1551271020,
       "taken_at": "Feb 27, 2019 12:37 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.05113285779953003,
+          "id": 1729356943
+        },
+        {
+          "distance": 0.057262957096099854,
+          "id": 1729357019
+        },
+        {
+          "distance": 0.10119056701660156,
+          "id": 1729356943
+        },
+        {
+          "distance": 0.1056782603263855,
+          "id": 1729356923
+        },
+        {
+          "distance": 0.11444538831710815,
+          "id": 1729357019
+        },
+        {
+          "distance": 0.11478155851364136,
+          "id": 1729356945
+        },
+        {
+          "distance": 0.11634135246276855,
+          "id": 1729357021
+        },
+        {
+          "distance": 0.14550268650054932,
+          "id": 1729356923
+        },
+        {
+          "distance": 0.14831149578094482,
+          "id": 1729356945
+        },
+        {
+          "distance": 0.18431484699249268,
+          "id": 1729357021
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729356901,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777629,
     "wof:name": "During the 1950s, surfers explored the north and west shores of O‘ahu in search of bigger waves...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

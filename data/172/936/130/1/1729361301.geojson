@@ -25,6 +25,50 @@
       "taken": 1449489420,
       "taken_at": "Dec 07, 2015 11:57 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.31323593854904175,
+          "id": 1729357143
+        },
+        {
+          "distance": 0.32062429189682007,
+          "id": 1729361357
+        },
+        {
+          "distance": 0.328002393245697,
+          "id": 1729357413
+        },
+        {
+          "distance": 0.3295835256576538,
+          "id": 1729358267
+        },
+        {
+          "distance": 0.33065474033355713,
+          "id": 1763558731
+        },
+        {
+          "distance": 0.33168137073516846,
+          "id": 1763559159
+        },
+        {
+          "distance": 0.33391159772872925,
+          "id": 1729356475
+        },
+        {
+          "distance": 0.33568596839904785,
+          "id": 1729360381
+        },
+        {
+          "distance": 0.3391117453575134,
+          "id": 1729355277
+        },
+        {
+          "distance": 0.33926254510879517,
+          "id": 1729361459
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361301,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "For the next month, passengers can enjoy live music playing in SFO's terminals as part of the Sounds of the Season program...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

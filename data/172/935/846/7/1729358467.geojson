@@ -37,6 +37,50 @@
       "taken": 1521031320,
       "taken_at": "Mar 14, 2018 12:42 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2462979555130005,
+          "id": 1729359463
+        },
+        {
+          "distance": 0.24687933921813965,
+          "id": 1763558679
+        },
+        {
+          "distance": 0.26108646392822266,
+          "id": 1763559581
+        },
+        {
+          "distance": 0.2753683924674988,
+          "id": 1763558653
+        },
+        {
+          "distance": 0.2753683924674988,
+          "id": 1729359849
+        },
+        {
+          "distance": 0.2760840058326721,
+          "id": 1763558679
+        },
+        {
+          "distance": 0.2913856506347656,
+          "id": 1729359463
+        },
+        {
+          "distance": 0.3042774200439453,
+          "id": 1763558653
+        },
+        {
+          "distance": 0.3042774200439453,
+          "id": 1729359849
+        },
+        {
+          "distance": 0.3106721043586731,
+          "id": 1763559581
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729358467,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Happy Pi Day!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

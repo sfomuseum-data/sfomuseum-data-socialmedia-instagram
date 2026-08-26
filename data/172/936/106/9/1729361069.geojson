@@ -25,6 +25,50 @@
       "taken": 1455013920,
       "taken_at": "Feb 09, 2016 10:32 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24630099534988403,
+          "id": 1729356203
+        },
+        {
+          "distance": 0.2647402286529541,
+          "id": 1729356203
+        },
+        {
+          "distance": 0.2754933834075928,
+          "id": 1729356495
+        },
+        {
+          "distance": 0.2830923795700073,
+          "id": 1729356495
+        },
+        {
+          "distance": 0.290638267993927,
+          "id": 1729358727
+        },
+        {
+          "distance": 0.29342567920684814,
+          "id": 1729359217
+        },
+        {
+          "distance": 0.2977742552757263,
+          "id": 1729356715
+        },
+        {
+          "distance": 0.3109816908836365,
+          "id": 1729361095
+        },
+        {
+          "distance": 0.31275349855422974,
+          "id": 1729358625
+        },
+        {
+          "distance": 0.3152419328689575,
+          "id": 1729358625
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361069,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777643,
     "wof:name": "Following the development of commercial airline passenger service in the 1920s, luggage-label art became an important tool for advertising...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

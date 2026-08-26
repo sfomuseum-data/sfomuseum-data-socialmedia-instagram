@@ -25,6 +25,50 @@
       "taken": 1452679080,
       "taken_at": "Jan 13, 2016 9:58 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09119051694869995,
+          "id": 1729358627
+        },
+        {
+          "distance": 0.09119051694869995,
+          "id": 1763558723
+        },
+        {
+          "distance": 0.12734323740005493,
+          "id": 1763558723
+        },
+        {
+          "distance": 0.12734323740005493,
+          "id": 1729358627
+        },
+        {
+          "distance": 0.18611788749694824,
+          "id": 1763559247
+        },
+        {
+          "distance": 0.18730080127716064,
+          "id": 1763559629
+        },
+        {
+          "distance": 0.19364535808563232,
+          "id": 1763559257
+        },
+        {
+          "distance": 0.20206230878829956,
+          "id": 1880151169
+        },
+        {
+          "distance": 0.20212644338607788,
+          "id": 1729357041
+        },
+        {
+          "distance": 0.20697224140167236,
+          "id": 1729357581
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361165,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "This 1937 advertisement’s caption reads: “THIS IS THE CLIPPER SHIP THAT WILL FLY THE ATLANTIC...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

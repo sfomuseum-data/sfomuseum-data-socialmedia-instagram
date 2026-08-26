@@ -31,6 +31,50 @@
       "taken": 1645722420,
       "taken_at": "Feb 24, 2022 5:07 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.04681116342544556,
+          "id": 1729357619
+        },
+        {
+          "distance": 0.06648975610733032,
+          "id": 1763559101
+        },
+        {
+          "distance": 0.11377894878387451,
+          "id": 1763559101
+        },
+        {
+          "distance": 0.12349826097488403,
+          "id": 1729357619
+        },
+        {
+          "distance": 0.15510129928588867,
+          "id": 1729357837
+        },
+        {
+          "distance": 0.16228270530700684,
+          "id": 1763558711
+        },
+        {
+          "distance": 0.16228270530700684,
+          "id": 1729359003
+        },
+        {
+          "distance": 0.1662631630897522,
+          "id": 1729357123
+        },
+        {
+          "distance": 0.17882627248764038,
+          "id": 1729356909
+        },
+        {
+          "distance": 0.18520218133926392,
+          "id": 1729358643
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559587,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "BEA (British European Airways), was formed by the Civil Aviation Act of 1946 in Great Britain...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1478167440,
       "taken_at": "Nov 03, 2016 10:04 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.21973639726638794,
+          "id": 1729360475
+        },
+        {
+          "distance": 0.22312217950820923,
+          "id": 1880151505
+        },
+        {
+          "distance": 0.24108487367630005,
+          "id": 1729356023
+        },
+        {
+          "distance": 0.24816620349884033,
+          "id": 1729359755
+        },
+        {
+          "distance": 0.24973958730697632,
+          "id": 1947424967
+        },
+        {
+          "distance": 0.2513112425804138,
+          "id": 1763558821
+        },
+        {
+          "distance": 0.2534215450286865,
+          "id": 1729359663
+        },
+        {
+          "distance": 0.25575321912765503,
+          "id": 1880150923
+        },
+        {
+          "distance": 0.2567146420478821,
+          "id": 1729357179
+        },
+        {
+          "distance": 0.2567146420478821,
+          "id": 1763558807
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360155,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "Pan American World Airways pocket calendars such as this one doubled as advertisements for the airline and its latest aircraft...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -34,6 +34,50 @@
       "taken": 1533803040,
       "taken_at": "Aug 09, 2018 8:24 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.042431533336639404,
+          "id": 1729358349
+        },
+        {
+          "distance": 0.10327988862991333,
+          "id": 1729358349
+        },
+        {
+          "distance": 0.17963248491287231,
+          "id": 1729358075
+        },
+        {
+          "distance": 0.1964079737663269,
+          "id": 1729358075
+        },
+        {
+          "distance": 0.2784731388092041,
+          "id": 1729357185
+        },
+        {
+          "distance": 0.2994135618209839,
+          "id": 1729357185
+        },
+        {
+          "distance": 0.3219822645187378,
+          "id": 1729361743
+        },
+        {
+          "distance": 0.32825231552124023,
+          "id": 1729355199
+        },
+        {
+          "distance": 0.33869218826293945,
+          "id": 1729358321
+        },
+        {
+          "distance": 0.3408210277557373,
+          "id": 1729360651
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729357801,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "When it went up and the wind finally took it out of my hands, it blew my mind…I saw immediately how everyone around me owned the flag...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

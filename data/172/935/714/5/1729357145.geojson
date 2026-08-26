@@ -32,6 +32,50 @@
       "taken": 1546509000,
       "taken_at": "Jan 03, 2019 9:50 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07305741310119629,
+          "id": 1763559505
+        },
+        {
+          "distance": 0.10455381870269775,
+          "id": 1763559505
+        },
+        {
+          "distance": 0.13831877708435059,
+          "id": 1729356979
+        },
+        {
+          "distance": 0.14120203256607056,
+          "id": 1880151589
+        },
+        {
+          "distance": 0.14688169956207275,
+          "id": 1729359361
+        },
+        {
+          "distance": 0.14859890937805176,
+          "id": 1729358009
+        },
+        {
+          "distance": 0.16438531875610352,
+          "id": 1729355569
+        },
+        {
+          "distance": 0.16861248016357422,
+          "id": 1729358161
+        },
+        {
+          "distance": 0.1693142056465149,
+          "id": 1729356979
+        },
+        {
+          "distance": 0.1717994213104248,
+          "id": 1763559547
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729357145,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777630,
     "wof:name": "On January 1, 1937, United Air Lines started the first Douglas DC-3 service to San Francisco Airport...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

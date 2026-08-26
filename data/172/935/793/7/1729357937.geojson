@@ -38,6 +38,50 @@
       "taken": 1532363400,
       "taken_at": "Jul 23, 2018, 4:30 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1909419298171997,
+          "id": 1729357909
+        },
+        {
+          "distance": 0.20360398292541504,
+          "id": 1880150941
+        },
+        {
+          "distance": 0.2593667507171631,
+          "id": 1729357909
+        },
+        {
+          "distance": 0.26987922191619873,
+          "id": 1880150941
+        },
+        {
+          "distance": 0.3148545026779175,
+          "id": 1729355731
+        },
+        {
+          "distance": 0.31930315494537354,
+          "id": 1729358965
+        },
+        {
+          "distance": 0.32284295558929443,
+          "id": 1729358965
+        },
+        {
+          "distance": 0.32629889249801636,
+          "id": 1729357901
+        },
+        {
+          "distance": 0.335000216960907,
+          "id": 1729355737
+        },
+        {
+          "distance": 0.33590948581695557,
+          "id": 1729355737
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729357937,
-    "wof:lastmodified": 1716929951,
+    "wof:lastmodified": 1787777632,
     "wof:name": "From the 1950s to the 1970s, the Airline Textile Company of Des Moines, Iowa, dominated the production of U.S. based airline kits, including R.O.N. (Remain Over Night) kits...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

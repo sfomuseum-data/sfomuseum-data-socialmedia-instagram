@@ -25,6 +25,50 @@
       "taken": 1448012640,
       "taken_at": "Nov 20, 2015 9:44 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07564598321914673,
+          "id": 1729360081
+        },
+        {
+          "distance": 0.07678240537643433,
+          "id": 1947424791
+        },
+        {
+          "distance": 0.13633596897125244,
+          "id": 1947424791
+        },
+        {
+          "distance": 0.13653481006622314,
+          "id": 1729361359
+        },
+        {
+          "distance": 0.13917070627212524,
+          "id": 1729360081
+        },
+        {
+          "distance": 0.14783304929733276,
+          "id": 1729360207
+        },
+        {
+          "distance": 0.14797937870025635,
+          "id": 1729361373
+        },
+        {
+          "distance": 0.15787076950073242,
+          "id": 1729361297
+        },
+        {
+          "distance": 0.16109895706176758,
+          "id": 1729356541
+        },
+        {
+          "distance": 0.16944390535354614,
+          "id": 1729355861
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361351,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "Sunday marks the 80th anniversary of the China Clipper’s adventurous transpacific endeavor...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

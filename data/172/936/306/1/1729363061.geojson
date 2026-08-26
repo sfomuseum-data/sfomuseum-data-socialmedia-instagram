@@ -25,6 +25,50 @@
       "taken": 1332513300,
       "taken_at": "Mar 23, 2012 2:35 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17864322662353516,
+          "id": 1729362461
+        },
+        {
+          "distance": 0.19725650548934937,
+          "id": 1729362655
+        },
+        {
+          "distance": 0.20267772674560547,
+          "id": 1729362655
+        },
+        {
+          "distance": 0.21083158254623413,
+          "id": 1729361433
+        },
+        {
+          "distance": 0.2115456461906433,
+          "id": 1729362997
+        },
+        {
+          "distance": 0.21438372135162354,
+          "id": 1729362041
+        },
+        {
+          "distance": 0.21600383520126343,
+          "id": 1729359253
+        },
+        {
+          "distance": 0.22163784503936768,
+          "id": 1729362229
+        },
+        {
+          "distance": 0.22185814380645752,
+          "id": 1729362817
+        },
+        {
+          "distance": 0.2220238447189331,
+          "id": 1729362461
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729363061,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777658,
     "wof:name": "Models from The Nut Tree Restaurant \u0026 Airfield Model Aircraft Collection, on view in T3..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -37,6 +37,50 @@
       "taken": 1526657580,
       "taken_at": "May 18, 2018 3:33 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12032872438430786,
+          "id": 1763559547
+        },
+        {
+          "distance": 0.131075918674469,
+          "id": 1729358009
+        },
+        {
+          "distance": 0.1316261887550354,
+          "id": 1729360263
+        },
+        {
+          "distance": 0.13353252410888672,
+          "id": 1763559203
+        },
+        {
+          "distance": 0.13414502143859863,
+          "id": 1729359361
+        },
+        {
+          "distance": 0.13940870761871338,
+          "id": 1880151589
+        },
+        {
+          "distance": 0.14770609140396118,
+          "id": 1880151067
+        },
+        {
+          "distance": 0.15875810384750366,
+          "id": 1729356979
+        },
+        {
+          "distance": 0.1640012264251709,
+          "id": 1763559149
+        },
+        {
+          "distance": 0.16417694091796875,
+          "id": 1729356177
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729358213,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "#OnThisDay in 1953, the Douglas DC-7 took its maiden flight...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

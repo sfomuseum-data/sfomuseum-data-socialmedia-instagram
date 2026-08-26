@@ -25,6 +25,50 @@
       "taken": 1373622900,
       "taken_at": "Jul 12, 2013 9:55 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23126351833343506,
+          "id": 1729359425
+        },
+        {
+          "distance": 0.24439489841461182,
+          "id": 1729357097
+        },
+        {
+          "distance": 0.25798338651657104,
+          "id": 1729359681
+        },
+        {
+          "distance": 0.26820147037506104,
+          "id": 1729355997
+        },
+        {
+          "distance": 0.2700713276863098,
+          "id": 1729359635
+        },
+        {
+          "distance": 0.2747742533683777,
+          "id": 1729359223
+        },
+        {
+          "distance": 0.27648764848709106,
+          "id": 1729362885
+        },
+        {
+          "distance": 0.2775537967681885,
+          "id": 1729356955
+        },
+        {
+          "distance": 0.27847427129745483,
+          "id": 1729362929
+        },
+        {
+          "distance": 0.2833595275878906,
+          "id": 1729361305
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362613,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "A peek inside the Great Exhibition #souvenir reveals a bustling scene!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -29,6 +29,50 @@
       "taken": 1668003300,
       "taken_at": "Nov 09, 2022 2:15 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10777628421783447,
+          "id": 1880151403
+        },
+        {
+          "distance": 0.13510334491729736,
+          "id": 1880151481
+        },
+        {
+          "distance": 0.15100610256195068,
+          "id": 1880151481
+        },
+        {
+          "distance": 0.20104867219924927,
+          "id": 1880151403
+        },
+        {
+          "distance": 0.20266205072402954,
+          "id": 1729357069
+        },
+        {
+          "distance": 0.21741515398025513,
+          "id": 1729358085
+        },
+        {
+          "distance": 0.22479933500289917,
+          "id": 1729358531
+        },
+        {
+          "distance": 0.22516781091690063,
+          "id": 1729355755
+        },
+        {
+          "distance": 0.22665363550186157,
+          "id": 1729357609
+        },
+        {
+          "distance": 0.23256057500839233,
+          "id": 1880151191
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880151347,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "In the late 1950s, jet airliners began to enter service for airlines around the world...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

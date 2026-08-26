@@ -36,6 +36,50 @@
       "taken": 1492784700,
       "taken_at": "Apr 21, 2017 2:25 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.28879696130752563,
+          "id": 1729359615
+        },
+        {
+          "distance": 0.29867303371429443,
+          "id": 1729357025
+        },
+        {
+          "distance": 0.30425459146499634,
+          "id": 1729359421
+        },
+        {
+          "distance": 0.3077440857887268,
+          "id": 1729359845
+        },
+        {
+          "distance": 0.3090035319328308,
+          "id": 1729360963
+        },
+        {
+          "distance": 0.313529372215271,
+          "id": 1729359615
+        },
+        {
+          "distance": 0.31627708673477173,
+          "id": 1729359587
+        },
+        {
+          "distance": 0.32636457681655884,
+          "id": 1729359983
+        },
+        {
+          "distance": 0.3265874981880188,
+          "id": 1729359845
+        },
+        {
+          "distance": 0.3305422067642212,
+          "id": 1729355539
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729359573,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "Clogs, carved wooden shoes, are made from a single piece of wood...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

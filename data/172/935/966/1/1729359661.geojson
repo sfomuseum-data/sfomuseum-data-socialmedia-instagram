@@ -31,6 +31,50 @@
       "taken": 1490899440,
       "taken_at": "Mar 30, 2017 6:44 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3329721689224243,
+          "id": 1729357579
+        },
+        {
+          "distance": 0.3407508134841919,
+          "id": 1729358859
+        },
+        {
+          "distance": 0.3476102352142334,
+          "id": 1729358939
+        },
+        {
+          "distance": 0.354165256023407,
+          "id": 1729359331
+        },
+        {
+          "distance": 0.3597835898399353,
+          "id": 1729358693
+        },
+        {
+          "distance": 0.3618347644805908,
+          "id": 1763558727
+        },
+        {
+          "distance": 0.3618347644805908,
+          "id": 1729358761
+        },
+        {
+          "distance": 0.36189377307891846,
+          "id": 1729359231
+        },
+        {
+          "distance": 0.36195337772369385,
+          "id": 1763558687
+        },
+        {
+          "distance": 0.36195337772369385,
+          "id": 1729359197
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729359661,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "Famed industrial designer Raymond Loewy (1893–1986) designed and styled everything from Studebaker cars to refrigerators, corporate logos, and the NASA Skylab...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

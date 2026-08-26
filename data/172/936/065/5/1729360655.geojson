@@ -25,6 +25,50 @@
       "taken": 1464770520,
       "taken_at": "Jun 01, 2016 8:42 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2419077754020691,
+          "id": 1729360807
+        },
+        {
+          "distance": 0.24696409702301025,
+          "id": 1880151499
+        },
+        {
+          "distance": 0.248193621635437,
+          "id": 1729361495
+        },
+        {
+          "distance": 0.24896985292434692,
+          "id": 1729360807
+        },
+        {
+          "distance": 0.2504170536994934,
+          "id": 1729361489
+        },
+        {
+          "distance": 0.2583414316177368,
+          "id": 1947425291
+        },
+        {
+          "distance": 0.2598949074745178,
+          "id": 1729361283
+        },
+        {
+          "distance": 0.2626206874847412,
+          "id": 1729360245
+        },
+        {
+          "distance": 0.2657334804534912,
+          "id": 1947425087
+        },
+        {
+          "distance": 0.27226465940475464,
+          "id": 1880151305
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360655,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "For thirty years, Marguerite Wildenhain taught more than twenty students each summer to master the art of wheel-thrown pottery, influencing several generations of studio potters...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

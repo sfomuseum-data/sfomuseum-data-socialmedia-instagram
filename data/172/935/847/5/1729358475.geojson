@@ -32,6 +32,50 @@
       "taken": 1520628480,
       "taken_at": "Mar 09, 2018 8:48 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.29856550693511963,
+          "id": 1729362621
+        },
+        {
+          "distance": 0.32123976945877075,
+          "id": 1729358759
+        },
+        {
+          "distance": 0.33480942249298096,
+          "id": 1729362621
+        },
+        {
+          "distance": 0.3475283980369568,
+          "id": 1729358491
+        },
+        {
+          "distance": 0.3545032739639282,
+          "id": 1729355957
+        },
+        {
+          "distance": 0.3588685393333435,
+          "id": 1729362677
+        },
+        {
+          "distance": 0.359049916267395,
+          "id": 1880150945
+        },
+        {
+          "distance": 0.3644871115684509,
+          "id": 1729358491
+        },
+        {
+          "distance": 0.3657836318016052,
+          "id": 1729355151
+        },
+        {
+          "distance": 0.36665409803390503,
+          "id": 1947424861
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729358475,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777633,
     "wof:name": "For centuries, people have traveled the seas exploring new territories, engaging in trade, fishing, and whaling...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

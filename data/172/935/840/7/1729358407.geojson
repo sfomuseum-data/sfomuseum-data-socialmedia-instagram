@@ -30,6 +30,50 @@
       "taken": 1521906960,
       "taken_at": "Mar 24, 2018 3:56 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.34276247024536133,
+          "id": 1729355677
+        },
+        {
+          "distance": 0.3428612947463989,
+          "id": 1729355903
+        },
+        {
+          "distance": 0.352250874042511,
+          "id": 1729356877
+        },
+        {
+          "distance": 0.36529797315597534,
+          "id": 1729360993
+        },
+        {
+          "distance": 0.371746301651001,
+          "id": 1729355903
+        },
+        {
+          "distance": 0.3731952905654907,
+          "id": 1729355677
+        },
+        {
+          "distance": 0.37459027767181396,
+          "id": 1880151693
+        },
+        {
+          "distance": 0.37553393840789795,
+          "id": 1729355663
+        },
+        {
+          "distance": 0.38075852394104004,
+          "id": 1729360993
+        },
+        {
+          "distance": 0.3825591802597046,
+          "id": 1729356871
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729358407,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "In his ongoing series, \"Emergent Behavior\", artist Thomas Jackson creates suspended installations inspired by self-organizing, \"emergent\" systems found in nature such as schooling fish, swarming locusts, or flocking birds...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

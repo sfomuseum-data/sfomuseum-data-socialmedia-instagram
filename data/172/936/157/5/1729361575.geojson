@@ -25,6 +25,50 @@
       "taken": 1440528720,
       "taken_at": "Aug 25, 2015 6:52 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1976262331008911,
+          "id": 1763559353
+        },
+        {
+          "distance": 0.21412187814712524,
+          "id": 1729356257
+        },
+        {
+          "distance": 0.24486321210861206,
+          "id": 1763559353
+        },
+        {
+          "distance": 0.2540926933288574,
+          "id": 1729356257
+        },
+        {
+          "distance": 0.27984434366226196,
+          "id": 1729355943
+        },
+        {
+          "distance": 0.2831878662109375,
+          "id": 1763558821
+        },
+        {
+          "distance": 0.2866669297218323,
+          "id": 1729359217
+        },
+        {
+          "distance": 0.28702789545059204,
+          "id": 1729356023
+        },
+        {
+          "distance": 0.2875298261642456,
+          "id": 1729356715
+        },
+        {
+          "distance": 0.29301655292510986,
+          "id": 1763559443
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361575,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777646,
     "wof:name": "For this week's #TravelTuesday, our Curator of Aviation, Dennis, would love to go to Copenhagen, via SAS (Scandinavian Airlines System), for his dream vacation...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

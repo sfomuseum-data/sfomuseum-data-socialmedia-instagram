@@ -35,6 +35,50 @@
       "taken": 1574696160,
       "taken_at": "Nov 25, 2019, 3:36 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0057013630867004395,
+          "id": 1729356261
+        },
+        {
+          "distance": 0.07589149475097656,
+          "id": 1729356261
+        },
+        {
+          "distance": 0.1359158754348755,
+          "id": 1729356461
+        },
+        {
+          "distance": 0.13937199115753174,
+          "id": 1729355917
+        },
+        {
+          "distance": 0.148085355758667,
+          "id": 1729355917
+        },
+        {
+          "distance": 0.16988354921340942,
+          "id": 1729356461
+        },
+        {
+          "distance": 0.18621081113815308,
+          "id": 1729356357
+        },
+        {
+          "distance": 0.19140201807022095,
+          "id": 1729356679
+        },
+        {
+          "distance": 0.19176191091537476,
+          "id": 1729356209
+        },
+        {
+          "distance": 0.1957392692565918,
+          "id": 1729356297
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729355865,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777627,
     "wof:name": "Dragonflies, and their more slender cousins, the damselflies, were among the first insects to evolve wings around 325 million years ago—long before dinosaurs roamed the earth...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

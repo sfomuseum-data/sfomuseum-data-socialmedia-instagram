@@ -34,6 +34,50 @@
       "taken": 1560942960,
       "taken_at": "Jun 19, 2019 11:16 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.04274684190750122,
+          "id": 1729359989
+        },
+        {
+          "distance": 0.12195467948913574,
+          "id": 1729359989
+        },
+        {
+          "distance": 0.12378835678100586,
+          "id": 1880151123
+        },
+        {
+          "distance": 0.1964626908302307,
+          "id": 1729359685
+        },
+        {
+          "distance": 0.20785897970199585,
+          "id": 1729360171
+        },
+        {
+          "distance": 0.21126258373260498,
+          "id": 1880151123
+        },
+        {
+          "distance": 0.2167832851409912,
+          "id": 1729359901
+        },
+        {
+          "distance": 0.23148268461227417,
+          "id": 1729359139
+        },
+        {
+          "distance": 0.23531389236450195,
+          "id": 1763559113
+        },
+        {
+          "distance": 0.23839741945266724,
+          "id": 1729361467
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729356405,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Cuban-born designer Adolfo Sardiña (b...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

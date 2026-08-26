@@ -33,6 +33,50 @@
       "taken": 1648138200,
       "taken_at": "Mar 24, 2022 4:10 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19894129037857056,
+          "id": 1880151601
+        },
+        {
+          "distance": 0.2169259786605835,
+          "id": 1729361501
+        },
+        {
+          "distance": 0.2248668670654297,
+          "id": 1729357255
+        },
+        {
+          "distance": 0.22652792930603027,
+          "id": 1729361451
+        },
+        {
+          "distance": 0.23265254497528076,
+          "id": 1880151779
+        },
+        {
+          "distance": 0.23566550016403198,
+          "id": 1763559553
+        },
+        {
+          "distance": 0.23628807067871094,
+          "id": 1880151639
+        },
+        {
+          "distance": 0.2393437623977661,
+          "id": 1729358503
+        },
+        {
+          "distance": 0.24688297510147095,
+          "id": 1880151805
+        },
+        {
+          "distance": 0.24708443880081177,
+          "id": 1729358137
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1763559533,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Air West was branded with an ultramodern service mark in bright interchangeable color combinations of lime green, royal blue, orange, pink, and bronze...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

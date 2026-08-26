@@ -32,6 +32,50 @@
       "taken": 1574426640,
       "taken_at": "Nov 22, 2019 12:44 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.08557379245758057,
+          "id": 1729358695
+        },
+        {
+          "distance": 0.11013126373291016,
+          "id": 1729356541
+        },
+        {
+          "distance": 0.11555761098861694,
+          "id": 1880151169
+        },
+        {
+          "distance": 0.11828327178955078,
+          "id": 1763558939
+        },
+        {
+          "distance": 0.12096887826919556,
+          "id": 1729358695
+        },
+        {
+          "distance": 0.12107694149017334,
+          "id": 1880151229
+        },
+        {
+          "distance": 0.12641972303390503,
+          "id": 1763559247
+        },
+        {
+          "distance": 0.12715721130371094,
+          "id": 1763559285
+        },
+        {
+          "distance": 0.13892251253128052,
+          "id": 1729360207
+        },
+        {
+          "distance": 0.14468765258789062,
+          "id": 1880151169
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729355861,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777627,
     "wof:name": "Today marks the eighty-fourth anniversary of Pan American Airways’ daring transpacific endeavor...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

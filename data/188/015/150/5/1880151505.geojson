@@ -31,6 +31,50 @@
       "taken": 1660836300,
       "taken_at": "Aug 18, 2022 3:25 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.212932288646698,
+          "id": 1729361309
+        },
+        {
+          "distance": 0.2231239676475525,
+          "id": 1729360155
+        },
+        {
+          "distance": 0.2326933741569519,
+          "id": 1729360819
+        },
+        {
+          "distance": 0.2428169846534729,
+          "id": 1729361153
+        },
+        {
+          "distance": 0.2436518669128418,
+          "id": 1763558633
+        },
+        {
+          "distance": 0.2524545192718506,
+          "id": 1763558633
+        },
+        {
+          "distance": 0.2531017065048218,
+          "id": 1729360819
+        },
+        {
+          "distance": 0.2542632818222046,
+          "id": 1729357769
+        },
+        {
+          "distance": 0.2581102252006531,
+          "id": 1880151145
+        },
+        {
+          "distance": 0.2600470781326294,
+          "id": 1729360397
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151505,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "In 1958, Pan American World Airways introduced the first successful commercial jet service...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

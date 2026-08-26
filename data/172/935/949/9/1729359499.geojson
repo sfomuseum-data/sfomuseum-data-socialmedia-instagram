@@ -37,6 +37,50 @@
       "taken": 1495009740,
       "taken_at": "May 17, 2017 8:29 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15340542793273926,
+          "id": 1729359037
+        },
+        {
+          "distance": 0.1605015993118286,
+          "id": 1729359525
+        },
+        {
+          "distance": 0.18383663892745972,
+          "id": 1729359525
+        },
+        {
+          "distance": 0.18607622385025024,
+          "id": 1729359037
+        },
+        {
+          "distance": 0.2128239870071411,
+          "id": 1729360871
+        },
+        {
+          "distance": 0.23463749885559082,
+          "id": 1729360453
+        },
+        {
+          "distance": 0.24363631010055542,
+          "id": 1729360871
+        },
+        {
+          "distance": 0.2468576431274414,
+          "id": 1729360725
+        },
+        {
+          "distance": 0.25284481048583984,
+          "id": 1729360615
+        },
+        {
+          "distance": 0.2600412368774414,
+          "id": 1729361149
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729359499,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "Artus Van Briggle (1869–1904) joined Rookwood Pottery in 1887...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

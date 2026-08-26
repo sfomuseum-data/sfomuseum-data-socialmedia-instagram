@@ -29,6 +29,50 @@
       "taken": 1706115240,
       "taken_at": "Jan 24, 2024 4:54 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.05270397663116455,
+          "id": 1947424935
+        },
+        {
+          "distance": 0.07982838153839111,
+          "id": 1947424857
+        },
+        {
+          "distance": 0.09558027982711792,
+          "id": 1947425131
+        },
+        {
+          "distance": 0.19286686182022095,
+          "id": 1947425079
+        },
+        {
+          "distance": 0.1946725845336914,
+          "id": 1947424935
+        },
+        {
+          "distance": 0.2224143147468567,
+          "id": 1947424857
+        },
+        {
+          "distance": 0.22661995887756348,
+          "id": 1947425131
+        },
+        {
+          "distance": 0.23718494176864624,
+          "id": 1947424893
+        },
+        {
+          "distance": 0.2493789792060852,
+          "id": 1947425201
+        },
+        {
+          "distance": 0.2552817463874817,
+          "id": 1947424983
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1947425153,
-    "wof:lastmodified": 1733175327,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Virgin America was founded in 2004 by the Virgin Group to offer a more pleasurable domestic airline flying experience to the traveling public...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

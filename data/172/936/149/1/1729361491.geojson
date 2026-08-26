@@ -25,6 +25,50 @@
       "taken": 1444381500,
       "taken_at": "Oct 09, 2015 9:05 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.28383946418762207,
+          "id": 1729358875
+        },
+        {
+          "distance": 0.2899478077888489,
+          "id": 1729358875
+        },
+        {
+          "distance": 0.3137497901916504,
+          "id": 1729356593
+        },
+        {
+          "distance": 0.3154861330986023,
+          "id": 1729361515
+        },
+        {
+          "distance": 0.31706738471984863,
+          "id": 1729362423
+        },
+        {
+          "distance": 0.3179662823677063,
+          "id": 1729356775
+        },
+        {
+          "distance": 0.32226067781448364,
+          "id": 1729355309
+        },
+        {
+          "distance": 0.32733267545700073,
+          "id": 1729359363
+        },
+        {
+          "distance": 0.33247607946395874,
+          "id": 1729356141
+        },
+        {
+          "distance": 0.3338938355445862,
+          "id": 1729356247
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361491,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "California’s streets paved of gold?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

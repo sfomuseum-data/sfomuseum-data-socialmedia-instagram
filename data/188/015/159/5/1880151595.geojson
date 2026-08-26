@@ -33,6 +33,50 @@
       "taken": 1657120200,
       "taken_at": "Jul 06, 2022 3:10 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06619918346405029,
+          "id": 1880151673
+        },
+        {
+          "distance": 0.08625215291976929,
+          "id": 1880151661
+        },
+        {
+          "distance": 0.09740716218948364,
+          "id": 1880151611
+        },
+        {
+          "distance": 0.10653913021087646,
+          "id": 1880151641
+        },
+        {
+          "distance": 0.10735565423965454,
+          "id": 1880151673
+        },
+        {
+          "distance": 0.12097156047821045,
+          "id": 1880151661
+        },
+        {
+          "distance": 0.12693506479263306,
+          "id": 1729360513
+        },
+        {
+          "distance": 0.12983644008636475,
+          "id": 1729356029
+        },
+        {
+          "distance": 0.1343650221824646,
+          "id": 1729355651
+        },
+        {
+          "distance": 0.140943706035614,
+          "id": 1880151611
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1880151595,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "In 1911, Harriet Quimby became the first woman in the United States to earn a pilot’s license...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

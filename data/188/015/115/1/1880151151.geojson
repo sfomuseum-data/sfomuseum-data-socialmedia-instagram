@@ -25,6 +25,50 @@
       "taken": 1675184640,
       "taken_at": "Jan 31, 2023 5:04 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16297203302383423,
+          "id": 1880151387
+        },
+        {
+          "distance": 0.16441231966018677,
+          "id": 1729355953
+        },
+        {
+          "distance": 0.170759379863739,
+          "id": 1729356091
+        },
+        {
+          "distance": 0.1743059754371643,
+          "id": 1763559017
+        },
+        {
+          "distance": 0.17500048875808716,
+          "id": 1729355953
+        },
+        {
+          "distance": 0.17728447914123535,
+          "id": 1729358961
+        },
+        {
+          "distance": 0.17926782369613647,
+          "id": 1729358961
+        },
+        {
+          "distance": 0.1821405291557312,
+          "id": 1729360319
+        },
+        {
+          "distance": 0.18230366706848145,
+          "id": 1763559017
+        },
+        {
+          "distance": 0.1837823987007141,
+          "id": 1880151445
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1880151151,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "#Onthisday in 1929, the first Fairchild 71 was delivered to Pan American Airways...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

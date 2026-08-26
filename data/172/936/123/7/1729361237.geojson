@@ -26,6 +26,50 @@
       "taken": 1450988040,
       "taken_at": "Dec 24, 2015, 8:14 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.00002384185791015625,
+          "id": 1763558615
+        },
+        {
+          "distance": 0.1404794454574585,
+          "id": 1763558615
+        },
+        {
+          "distance": 0.2798692584037781,
+          "id": 1729362731
+        },
+        {
+          "distance": 0.30061036348342896,
+          "id": 1729362731
+        },
+        {
+          "distance": 0.36491745710372925,
+          "id": 1729358735
+        },
+        {
+          "distance": 0.36899328231811523,
+          "id": 1729358725
+        },
+        {
+          "distance": 0.37527787685394287,
+          "id": 1729357723
+        },
+        {
+          "distance": 0.3789958357810974,
+          "id": 1729362827
+        },
+        {
+          "distance": 0.3793494701385498,
+          "id": 1729362827
+        },
+        {
+          "distance": 0.3860880732536316,
+          "id": 1729358725
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1729361237,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777645,
     "wof:name": "With the holiday season upon us, many holiday plans include breaking out board games to bring people together for some friendly competition...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

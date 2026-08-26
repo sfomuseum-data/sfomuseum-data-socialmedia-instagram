@@ -25,6 +25,50 @@
       "taken": 1460018280,
       "taken_at": "Apr 07, 2016 8:38 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1381092071533203,
+          "id": 1729357709
+        },
+        {
+          "distance": 0.16700702905654907,
+          "id": 1729357717
+        },
+        {
+          "distance": 0.18105626106262207,
+          "id": 1729357709
+        },
+        {
+          "distance": 0.20422351360321045,
+          "id": 1729357717
+        },
+        {
+          "distance": 0.23168247938156128,
+          "id": 1729356953
+        },
+        {
+          "distance": 0.23636507987976074,
+          "id": 1729357711
+        },
+        {
+          "distance": 0.24351102113723755,
+          "id": 1729361085
+        },
+        {
+          "distance": 0.24954569339752197,
+          "id": 1729358079
+        },
+        {
+          "distance": 0.2547643780708313,
+          "id": 1729356953
+        },
+        {
+          "distance": 0.25635236501693726,
+          "id": 1729360537
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360853,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Have you ever wondered how they installed seating in an aircraft?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

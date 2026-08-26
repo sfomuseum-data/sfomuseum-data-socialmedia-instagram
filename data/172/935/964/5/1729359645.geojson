@@ -33,6 +33,50 @@
       "taken": 1491332100,
       "taken_at": "Apr 04, 2017 6:55 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10945498943328857,
+          "id": 1729358209
+        },
+        {
+          "distance": 0.11684262752532959,
+          "id": 1763559085
+        },
+        {
+          "distance": 0.11934399604797363,
+          "id": 1729356953
+        },
+        {
+          "distance": 0.12092268466949463,
+          "id": 1763559125
+        },
+        {
+          "distance": 0.1386227011680603,
+          "id": 1729358079
+        },
+        {
+          "distance": 0.14627313613891602,
+          "id": 1763559229
+        },
+        {
+          "distance": 0.14743655920028687,
+          "id": 1729356277
+        },
+        {
+          "distance": 0.1476212739944458,
+          "id": 1729359307
+        },
+        {
+          "distance": 0.15339618921279907,
+          "id": 1729356277
+        },
+        {
+          "distance": 0.15363532304763794,
+          "id": 1729355605
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729359645,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "In the 1970s, Pan American World Airways offered meal service to passengers in upper deck first class cabin of Boeing 747...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

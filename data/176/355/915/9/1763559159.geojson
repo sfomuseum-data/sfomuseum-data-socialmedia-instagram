@@ -31,6 +31,50 @@
       "taken": 1620314280,
       "taken_at": "May 06, 2021 3:18 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2305203676223755,
+          "id": 1729361805
+        },
+        {
+          "distance": 0.24917739629745483,
+          "id": 1729360199
+        },
+        {
+          "distance": 0.27608412504196167,
+          "id": 1880151097
+        },
+        {
+          "distance": 0.2771443724632263,
+          "id": 1729355277
+        },
+        {
+          "distance": 0.2796056270599365,
+          "id": 1729356843
+        },
+        {
+          "distance": 0.27974367141723633,
+          "id": 1947425253
+        },
+        {
+          "distance": 0.2816275954246521,
+          "id": 1729355093
+        },
+        {
+          "distance": 0.28535544872283936,
+          "id": 1729361161
+        },
+        {
+          "distance": 0.28535544872283936,
+          "id": 1763558609
+        },
+        {
+          "distance": 0.28538060188293457,
+          "id": 1729360729
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559159,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "As one of the wealthiest African Americans of her time, Madam C. J. Walker commissioned Villa Lewaro, an Italianate-style, thirty-room mansion to be built in Irvington, New York - an area home to some of the wealthiest white Americans in the country, including John D. Rockefeller...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -27,6 +27,50 @@
       "taken": 1707238140,
       "taken_at": "Feb 06, 2024 4:49 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24106371402740479,
+          "id": 1729355537
+        },
+        {
+          "distance": 0.29294657707214355,
+          "id": 1729362253
+        },
+        {
+          "distance": 0.30663639307022095,
+          "id": 1729356283
+        },
+        {
+          "distance": 0.3279724717140198,
+          "id": 1729360931
+        },
+        {
+          "distance": 0.33591437339782715,
+          "id": 1729355537
+        },
+        {
+          "distance": 0.34140926599502563,
+          "id": 1729359679
+        },
+        {
+          "distance": 0.34661662578582764,
+          "id": 1729360285
+        },
+        {
+          "distance": 0.3500756025314331,
+          "id": 1729362253
+        },
+        {
+          "distance": 0.35246741771698,
+          "id": 1729357253
+        },
+        {
+          "distance": 0.35309600830078125,
+          "id": 1729360931
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947425143,
-    "wof:lastmodified": 1733175327,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Fiber artist Kay Sekimachi (b...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

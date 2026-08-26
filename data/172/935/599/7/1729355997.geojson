@@ -32,6 +32,50 @@
       "taken": 1571139600,
       "taken_at": "Oct 15, 2019, 11:40 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.213370680809021,
+          "id": 1729355999
+        },
+        {
+          "distance": 0.249703049659729,
+          "id": 1729355999
+        },
+        {
+          "distance": 0.29538601636886597,
+          "id": 1729357415
+        },
+        {
+          "distance": 0.30272984504699707,
+          "id": 1729356811
+        },
+        {
+          "distance": 0.3044856786727905,
+          "id": 1729359425
+        },
+        {
+          "distance": 0.30771404504776,
+          "id": 1729356263
+        },
+        {
+          "distance": 0.3082929253578186,
+          "id": 1729359363
+        },
+        {
+          "distance": 0.3087153434753418,
+          "id": 1729357097
+        },
+        {
+          "distance": 0.30957120656967163,
+          "id": 1729360803
+        },
+        {
+          "distance": 0.3144448399543762,
+          "id": 1729358497
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729355997,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777627,
     "wof:name": "In her series “Surface Tension”, Tabitha Soren (b.1967) examines our complex relationship with technology and draws focus on our increasingly tactile connection to visual information...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -30,6 +30,50 @@
       "taken": 1567692720,
       "taken_at": "Sep 05, 2019 2:12 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10781490802764893,
+          "id": 1729359077
+        },
+        {
+          "distance": 0.11501157283782959,
+          "id": 1729357057
+        },
+        {
+          "distance": 0.12574142217636108,
+          "id": 1729360235
+        },
+        {
+          "distance": 0.12597018480300903,
+          "id": 1729359537
+        },
+        {
+          "distance": 0.14045721292495728,
+          "id": 1729358985
+        },
+        {
+          "distance": 0.15075552463531494,
+          "id": 1880150909
+        },
+        {
+          "distance": 0.1521269679069519,
+          "id": 1729357323
+        },
+        {
+          "distance": 0.15674030780792236,
+          "id": 1729357667
+        },
+        {
+          "distance": 0.15715885162353516,
+          "id": 1880151063
+        },
+        {
+          "distance": 0.1591370701789856,
+          "id": 1880151727
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729356131,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777628,
     "wof:name": "What did SFO look like #onthisday in 1961?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

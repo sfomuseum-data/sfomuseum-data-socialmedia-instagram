@@ -27,6 +27,50 @@
       "taken": 1730826840,
       "taken_at": "Nov 05, 2024 5:14 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19256532192230225,
+          "id": 1729361541
+        },
+        {
+          "distance": 0.2122669816017151,
+          "id": 1729361541
+        },
+        {
+          "distance": 0.2521405816078186,
+          "id": 1729358693
+        },
+        {
+          "distance": 0.27089446783065796,
+          "id": 1729355061
+        },
+        {
+          "distance": 0.27544254064559937,
+          "id": 1947425203
+        },
+        {
+          "distance": 0.28266239166259766,
+          "id": 1729356637
+        },
+        {
+          "distance": 0.289864182472229,
+          "id": 1729362387
+        },
+        {
+          "distance": 0.29025155305862427,
+          "id": 1947425257
+        },
+        {
+          "distance": 0.2950764298439026,
+          "id": 1729362379
+        },
+        {
+          "distance": 0.2965382933616638,
+          "id": 1729356101
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947424805,
-    "wof:lastmodified": 1733175316,
+    "wof:lastmodified": 1787777664,
     "wof:name": "In 1869, Andrew Hallidie (1836–1900) observed passenger-carrying horses struggling on wet cobblestones as they made the trek up San Francisco’s Jackson Street...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

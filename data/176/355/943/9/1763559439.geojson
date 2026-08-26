@@ -36,6 +36,50 @@
       "taken": 1631028000,
       "taken_at": "Sep 07, 2021 3:20 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.22262436151504517,
+          "id": 1729360707
+        },
+        {
+          "distance": 0.2261219620704651,
+          "id": 1729355147
+        },
+        {
+          "distance": 0.23224937915802002,
+          "id": 1880150939
+        },
+        {
+          "distance": 0.2411177158355713,
+          "id": 1729355119
+        },
+        {
+          "distance": 0.24466359615325928,
+          "id": 1947425285
+        },
+        {
+          "distance": 0.24767202138900757,
+          "id": 1880151789
+        },
+        {
+          "distance": 0.25578898191452026,
+          "id": 1880151789
+        },
+        {
+          "distance": 0.2563629746437073,
+          "id": 1880151299
+        },
+        {
+          "distance": 0.256611704826355,
+          "id": 1729356865
+        },
+        {
+          "distance": 0.2607526183128357,
+          "id": 1729355437
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1763559439,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "In Crystal Liu’s universe, elements of the natural world serve as actors in a grand narrative of emotional and personal origins...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

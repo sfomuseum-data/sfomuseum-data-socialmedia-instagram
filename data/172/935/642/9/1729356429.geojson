@@ -37,6 +37,50 @@
       "taken": 1560446940,
       "taken_at": "Jun 13, 2019, 5:29 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.05782121419906616,
+          "id": 1729356443
+        },
+        {
+          "distance": 0.11948102712631226,
+          "id": 1729356443
+        },
+        {
+          "distance": 0.1343759298324585,
+          "id": 1729356433
+        },
+        {
+          "distance": 0.14545851945877075,
+          "id": 1729356425
+        },
+        {
+          "distance": 0.16334164142608643,
+          "id": 1729356425
+        },
+        {
+          "distance": 0.16636359691619873,
+          "id": 1729356433
+        },
+        {
+          "distance": 0.18376153707504272,
+          "id": 1729356305
+        },
+        {
+          "distance": 0.21507424116134644,
+          "id": 1729356197
+        },
+        {
+          "distance": 0.22290867567062378,
+          "id": 1729356197
+        },
+        {
+          "distance": 0.22416603565216064,
+          "id": 1729356295
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729356429,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "The cockchafer beetle (Melolontha melolontha Linnaeus, 1758) is a well-known plant pest in Europe, and one of the first beetle species named by Carl von Linné (a.k.a. Linnaeus), the Swedish biologist who created the binomial system for naming species...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

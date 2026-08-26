@@ -25,6 +25,50 @@
       "taken": 1441012680,
       "taken_at": "Aug 31, 2015 9:18 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1374925971031189,
+          "id": 1729361393
+        },
+        {
+          "distance": 0.1637798547744751,
+          "id": 1729361393
+        },
+        {
+          "distance": 0.2986726760864258,
+          "id": 1729362075
+        },
+        {
+          "distance": 0.3186172842979431,
+          "id": 1729357603
+        },
+        {
+          "distance": 0.3287357687950134,
+          "id": 1729358265
+        },
+        {
+          "distance": 0.3295630216598511,
+          "id": 1729359363
+        },
+        {
+          "distance": 0.3296496868133545,
+          "id": 1729355379
+        },
+        {
+          "distance": 0.3325187563896179,
+          "id": 1729355383
+        },
+        {
+          "distance": 0.3330073356628418,
+          "id": 1729357603
+        },
+        {
+          "distance": 0.3346169590950012,
+          "id": 1729357415
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361571,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777646,
     "wof:name": "The new pre-security connector between Terminal 2 \u0026 Terminal 3 at SFO opens tomorrow to the public featuring our new photography exhibit, On Approach by Cris Benton...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

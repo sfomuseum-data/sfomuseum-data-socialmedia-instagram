@@ -25,6 +25,50 @@
       "taken": 1489654320,
       "taken_at": "Mar 16, 2017 8:52 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10639011859893799,
+          "id": 1729361593
+        },
+        {
+          "distance": 0.12087476253509521,
+          "id": 1729361615
+        },
+        {
+          "distance": 0.12536919116973877,
+          "id": 1729355091
+        },
+        {
+          "distance": 0.1441846489906311,
+          "id": 1729360637
+        },
+        {
+          "distance": 0.1682370901107788,
+          "id": 1729359159
+        },
+        {
+          "distance": 0.17958027124404907,
+          "id": 1729360619
+        },
+        {
+          "distance": 0.18617862462997437,
+          "id": 1729360279
+        },
+        {
+          "distance": 0.18739855289459229,
+          "id": 1729360407
+        },
+        {
+          "distance": 0.19275766611099243,
+          "id": 1947425253
+        },
+        {
+          "distance": 0.1939840316772461,
+          "id": 1729355091
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359719,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "A snapshot of SFO in 1970: telephone banks (remember those?)..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

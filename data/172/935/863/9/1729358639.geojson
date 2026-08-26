@@ -42,6 +42,50 @@
       "taken": 1516972200,
       "taken_at": "Jan 26, 2018 1:10 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1337459683418274,
+          "id": 1763559361
+        },
+        {
+          "distance": 0.15416067838668823,
+          "id": 1729358645
+        },
+        {
+          "distance": 0.15797293186187744,
+          "id": 1763559361
+        },
+        {
+          "distance": 0.1683921217918396,
+          "id": 1763559309
+        },
+        {
+          "distance": 0.20166659355163574,
+          "id": 1763559309
+        },
+        {
+          "distance": 0.20407581329345703,
+          "id": 1729358645
+        },
+        {
+          "distance": 0.22022032737731934,
+          "id": 1763559669
+        },
+        {
+          "distance": 0.2306017279624939,
+          "id": 1729361149
+        },
+        {
+          "distance": 0.24284231662750244,
+          "id": 1729360615
+        },
+        {
+          "distance": 0.25140953063964844,
+          "id": 1729355739
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -71,7 +115,7 @@
       }
     ],
     "wof:id": 1729358639,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Folk pottery is still made today in North Carolina and Georgia...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -88,5 +132,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1698076680,
       "taken_at": "Oct 23, 2023 3:58 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.025354743003845215,
+          "id": 1880151059
+        },
+        {
+          "distance": 0.11916625499725342,
+          "id": 1880151059
+        },
+        {
+          "distance": 0.2347935438156128,
+          "id": 1880150897
+        },
+        {
+          "distance": 0.24704527854919434,
+          "id": 1880151257
+        },
+        {
+          "distance": 0.25569790601730347,
+          "id": 1947424803
+        },
+        {
+          "distance": 0.2594812512397766,
+          "id": 1947425119
+        },
+        {
+          "distance": 0.2687145471572876,
+          "id": 1947425245
+        },
+        {
+          "distance": 0.2687145471572876,
+          "id": 1880151033
+        },
+        {
+          "distance": 0.2718890309333801,
+          "id": 1947424793
+        },
+        {
+          "distance": 0.27565062046051025,
+          "id": 1880150897
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -53,7 +97,7 @@
       }
     ],
     "wof:id": 1947425263,
-    "wof:lastmodified": 1733175331,
+    "wof:lastmodified": 1787777664,
     "wof:name": "This is your last week to see “San Francisco Opera: A Centennial Celebration” on display, post-security, in Harvey Milk Terminal 1, but don’t fret!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -67,5 +111,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

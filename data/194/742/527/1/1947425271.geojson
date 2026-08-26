@@ -27,6 +27,50 @@
       "taken": 1697466780,
       "taken_at": "Oct 16, 2023 2:33 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13890212774276733,
+          "id": 1729357593
+        },
+        {
+          "distance": 0.17130202054977417,
+          "id": 1729359523
+        },
+        {
+          "distance": 0.18830406665802002,
+          "id": 1729356131
+        },
+        {
+          "distance": 0.19453155994415283,
+          "id": 1729357855
+        },
+        {
+          "distance": 0.19551342725753784,
+          "id": 1880151727
+        },
+        {
+          "distance": 0.19686686992645264,
+          "id": 1729359987
+        },
+        {
+          "distance": 0.19699078798294067,
+          "id": 1729361227
+        },
+        {
+          "distance": 0.2012888789176941,
+          "id": 1880151675
+        },
+        {
+          "distance": 0.20274031162261963,
+          "id": 1729361143
+        },
+        {
+          "distance": 0.2028525471687317,
+          "id": 1729357593
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947425271,
-    "wof:lastmodified": 1733175331,
+    "wof:lastmodified": 1787777664,
     "wof:name": "In October 1951, the airport held a groundbreaking ceremony for the new Central Terminal (now Terminal 2)...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1442305800,
       "taken_at": "Sep 15, 2015 8:30 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17047685384750366,
+          "id": 1729359687
+        },
+        {
+          "distance": 0.21613025665283203,
+          "id": 1763559543
+        },
+        {
+          "distance": 0.23064672946929932,
+          "id": 1763559543
+        },
+        {
+          "distance": 0.23844951391220093,
+          "id": 1729359687
+        },
+        {
+          "distance": 0.34652048349380493,
+          "id": 1729362293
+        },
+        {
+          "distance": 0.3519550561904907,
+          "id": 1729362493
+        },
+        {
+          "distance": 0.3522934913635254,
+          "id": 1729362359
+        },
+        {
+          "distance": 0.3639495372772217,
+          "id": 1729362293
+        },
+        {
+          "distance": 0.3676314353942871,
+          "id": 1729362773
+        },
+        {
+          "distance": 0.3740267753601074,
+          "id": 1880151103
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361539,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "Yayoi Kusama is considered one of the most important Japanese artists of her generation...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

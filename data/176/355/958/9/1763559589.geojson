@@ -30,6 +30,50 @@
       "taken": 1645636260,
       "taken_at": "Feb 23, 2022 5:11 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09369403123855591,
+          "id": 1880151501
+        },
+        {
+          "distance": 0.09510540962219238,
+          "id": 1880151411
+        },
+        {
+          "distance": 0.1199076771736145,
+          "id": 1880151501
+        },
+        {
+          "distance": 0.12140071392059326,
+          "id": 1880151411
+        },
+        {
+          "distance": 0.2260117530822754,
+          "id": 1729355549
+        },
+        {
+          "distance": 0.24867212772369385,
+          "id": 1947424843
+        },
+        {
+          "distance": 0.2501686215400696,
+          "id": 1729355549
+        },
+        {
+          "distance": 0.25993311405181885,
+          "id": 1880151047
+        },
+        {
+          "distance": 0.26381248235702515,
+          "id": 1880151555
+        },
+        {
+          "distance": 0.2685700058937073,
+          "id": 1729359719
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559589,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "The airline industry soared to new heights in the 1950s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

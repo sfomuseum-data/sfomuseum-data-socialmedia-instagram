@@ -30,6 +30,50 @@
       "taken": 1611578760,
       "taken_at": "Jan 25, 2021 12:46 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11715042591094971,
+          "id": 1729355719
+        },
+        {
+          "distance": 0.14666235446929932,
+          "id": 1729355719
+        },
+        {
+          "distance": 0.21863269805908203,
+          "id": 1729355713
+        },
+        {
+          "distance": 0.22615694999694824,
+          "id": 1729355721
+        },
+        {
+          "distance": 0.2536025047302246,
+          "id": 1729355727
+        },
+        {
+          "distance": 0.26182568073272705,
+          "id": 1729355981
+        },
+        {
+          "distance": 0.2749441862106323,
+          "id": 1729355741
+        },
+        {
+          "distance": 0.2863355875015259,
+          "id": 1729356117
+        },
+        {
+          "distance": 0.3028092384338379,
+          "id": 1729355995
+        },
+        {
+          "distance": 0.3047921657562256,
+          "id": 1729356117
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763558877,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777659,
     "wof:name": "This is the final week of “Zuber: The Art of French Scenic Wallpaper”...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

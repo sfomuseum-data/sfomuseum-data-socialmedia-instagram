@@ -29,6 +29,50 @@
       "taken": 1670252100,
       "taken_at": "Dec 05, 2022 2:55 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11662214994430542,
+          "id": 1880151301
+        },
+        {
+          "distance": 0.16605782508850098,
+          "id": 1880151079
+        },
+        {
+          "distance": 0.17774826288223267,
+          "id": 1880150975
+        },
+        {
+          "distance": 0.22907882928848267,
+          "id": 1729361489
+        },
+        {
+          "distance": 0.22921538352966309,
+          "id": 1880150975
+        },
+        {
+          "distance": 0.23256510496139526,
+          "id": 1880151305
+        },
+        {
+          "distance": 0.24107122421264648,
+          "id": 1880151337
+        },
+        {
+          "distance": 0.2415427565574646,
+          "id": 1880151367
+        },
+        {
+          "distance": 0.2416819930076599,
+          "id": 1947425237
+        },
+        {
+          "distance": 0.24182230234146118,
+          "id": 1947425209
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880151293,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Formed in 1931 from the merger and acquisition of several airlines, United Air Lines grew and prospered as one of the leading U.S. coast-to-coast carriers during the ensuing decades...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

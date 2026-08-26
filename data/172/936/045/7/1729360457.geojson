@@ -25,6 +25,50 @@
       "taken": 1470990060,
       "taken_at": "Aug 12, 2016 8:21 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.22710448503494263,
+          "id": 1729358501
+        },
+        {
+          "distance": 0.2538740038871765,
+          "id": 1729356907
+        },
+        {
+          "distance": 0.2582709789276123,
+          "id": 1729360147
+        },
+        {
+          "distance": 0.25911253690719604,
+          "id": 1729358501
+        },
+        {
+          "distance": 0.26114851236343384,
+          "id": 1729362185
+        },
+        {
+          "distance": 0.2617379426956177,
+          "id": 1947425117
+        },
+        {
+          "distance": 0.2624751925468445,
+          "id": 1729355167
+        },
+        {
+          "distance": 0.2713025212287903,
+          "id": 1763559327
+        },
+        {
+          "distance": 0.2734943628311157,
+          "id": 1729359247
+        },
+        {
+          "distance": 0.2772115468978882,
+          "id": 1729361603
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360457,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "This 1950 welcome map distributed by Philippine Air Lines (PAL) to their passengers describes many of San Francisco’s and the Bay Area’s attractions...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

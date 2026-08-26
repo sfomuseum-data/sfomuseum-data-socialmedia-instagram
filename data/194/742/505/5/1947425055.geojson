@@ -28,6 +28,50 @@
       "taken": 1714146360,
       "taken_at": "Apr 26, 2024 3:46 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20850080251693726,
+          "id": 1729358807
+        },
+        {
+          "distance": 0.256198525428772,
+          "id": 1729358807
+        },
+        {
+          "distance": 0.3245227336883545,
+          "id": 1763559443
+        },
+        {
+          "distance": 0.3407856822013855,
+          "id": 1729361693
+        },
+        {
+          "distance": 0.3463440537452698,
+          "id": 1729359643
+        },
+        {
+          "distance": 0.34685057401657104,
+          "id": 1729360331
+        },
+        {
+          "distance": 0.3487001061439514,
+          "id": 1729356023
+        },
+        {
+          "distance": 0.349139928817749,
+          "id": 1729359643
+        },
+        {
+          "distance": 0.3498663306236267,
+          "id": 1947424845
+        },
+        {
+          "distance": 0.3498663306236267,
+          "id": 1947424837
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1947425055,
-    "wof:lastmodified": 1733175324,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Neuschwanstein Castle or Schloss Neuschwanstein, is one of the most popular tourist attractions in Germany and frequently photographed and featured in airline destination posters for the country...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -70,5 +114,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

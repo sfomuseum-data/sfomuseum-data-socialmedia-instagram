@@ -30,6 +30,50 @@
       "taken": 1601049600,
       "taken_at": "Sep 25, 2020 4:00 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09362125396728516,
+          "id": 1729355245
+        },
+        {
+          "distance": 0.12656843662261963,
+          "id": 1729355245
+        },
+        {
+          "distance": 0.1323574185371399,
+          "id": 1763559293
+        },
+        {
+          "distance": 0.14432650804519653,
+          "id": 1729355429
+        },
+        {
+          "distance": 0.144481360912323,
+          "id": 1763559637
+        },
+        {
+          "distance": 0.1468038558959961,
+          "id": 1729358537
+        },
+        {
+          "distance": 0.15611529350280762,
+          "id": 1763559293
+        },
+        {
+          "distance": 0.15859365463256836,
+          "id": 1729357179
+        },
+        {
+          "distance": 0.15859365463256836,
+          "id": 1763558807
+        },
+        {
+          "distance": 0.1623486876487732,
+          "id": 1729358651
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729355033,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777614,
     "wof:name": "#OnThisDay in 1950, Pan American World Airways acquired American Overseas Airlines (A.O.A.)..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -36,6 +36,50 @@
       "taken": 1571396100,
       "taken_at": "Oct 18, 2019, 10:55 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.017746269702911377,
+          "id": 1729355273
+        },
+        {
+          "distance": 0.07009619474411011,
+          "id": 1729355273
+        },
+        {
+          "distance": 0.1998313069343567,
+          "id": 1729360523
+        },
+        {
+          "distance": 0.2172507643699646,
+          "id": 1729360473
+        },
+        {
+          "distance": 0.2203892469406128,
+          "id": 1729355505
+        },
+        {
+          "distance": 0.22138917446136475,
+          "id": 1729360211
+        },
+        {
+          "distance": 0.23153454065322876,
+          "id": 1729360171
+        },
+        {
+          "distance": 0.2352927327156067,
+          "id": 1729360399
+        },
+        {
+          "distance": 0.23730581998825073,
+          "id": 1729355691
+        },
+        {
+          "distance": 0.23799508810043335,
+          "id": 1729357151
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729355977,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777627,
     "wof:name": "Continental was one of numerous U.S. airlines to launch Boeing 747 jumbojet service in 1970...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

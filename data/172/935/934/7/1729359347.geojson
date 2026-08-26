@@ -39,6 +39,50 @@
       "taken": 1499281500,
       "taken_at": "Jul 05, 2017 7:05 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1446591019630432,
+          "id": 1729359449
+        },
+        {
+          "distance": 0.16410773992538452,
+          "id": 1729359449
+        },
+        {
+          "distance": 0.23018550872802734,
+          "id": 1729359785
+        },
+        {
+          "distance": 0.24249327182769775,
+          "id": 1729359785
+        },
+        {
+          "distance": 0.2703074812889099,
+          "id": 1729355439
+        },
+        {
+          "distance": 0.2825390696525574,
+          "id": 1729359871
+        },
+        {
+          "distance": 0.29344189167022705,
+          "id": 1729355439
+        },
+        {
+          "distance": 0.3009979724884033,
+          "id": 1729359469
+        },
+        {
+          "distance": 0.3027317523956299,
+          "id": 1729355423
+        },
+        {
+          "distance": 0.32374006509780884,
+          "id": 1729357327
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729359347,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "With some painters, their influence on later artists may be just as important as their own work...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

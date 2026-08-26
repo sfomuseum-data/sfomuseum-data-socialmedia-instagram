@@ -30,6 +30,50 @@
       "taken": 1703608380,
       "taken_at": "Dec 26, 2023 4:33 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07022362947463989,
+          "id": 1729360787
+        },
+        {
+          "distance": 0.08455860614776611,
+          "id": 1729360787
+        },
+        {
+          "distance": 0.10993301868438721,
+          "id": 1729360821
+        },
+        {
+          "distance": 0.11477941274642944,
+          "id": 1729355243
+        },
+        {
+          "distance": 0.12205672264099121,
+          "id": 1729360033
+        },
+        {
+          "distance": 0.1254655122756958,
+          "id": 1763558771
+        },
+        {
+          "distance": 0.12873870134353638,
+          "id": 1729357691
+        },
+        {
+          "distance": 0.13443338871002197,
+          "id": 1729360753
+        },
+        {
+          "distance": 0.13748282194137573,
+          "id": 1763558771
+        },
+        {
+          "distance": 0.1445009708404541,
+          "id": 1729357691
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1947425189,
-    "wof:lastmodified": 1733175328,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Inspired by San Francisco Airport’s 1937 terminal building, the San Francisco Airport Commission Aviation Library and Louis A. Turpen Aviation Museum is an architectural adaptation of the 1937 terminal’s interior and incorporates many similar architectural features...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -31,6 +31,50 @@
       "taken": 1597075740,
       "taken_at": "Aug 10, 2020 4:09 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.25590187311172485,
+          "id": 1880151689
+        },
+        {
+          "distance": 0.282876193523407,
+          "id": 1763559569
+        },
+        {
+          "distance": 0.2942100167274475,
+          "id": 1729359185
+        },
+        {
+          "distance": 0.2948269844055176,
+          "id": 1729359965
+        },
+        {
+          "distance": 0.29682332277297974,
+          "id": 1763559569
+        },
+        {
+          "distance": 0.3001605272293091,
+          "id": 1729358913
+        },
+        {
+          "distance": 0.301791250705719,
+          "id": 1880151689
+        },
+        {
+          "distance": 0.30288970470428467,
+          "id": 1729358913
+        },
+        {
+          "distance": 0.30485039949417114,
+          "id": 1729359897
+        },
+        {
+          "distance": 0.3065792918205261,
+          "id": 1729358733
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729355153,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777618,
     "wof:name": "Among the recent changes at the Airport, one of our student art galleries now features photographic details of model aircraft from our collection...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

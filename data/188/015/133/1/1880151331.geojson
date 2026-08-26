@@ -28,6 +28,50 @@
       "taken": 1668683460,
       "taken_at": "Nov 17, 2022 11:11 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.051784634590148926,
+          "id": 1729357139
+        },
+        {
+          "distance": 0.08741956949234009,
+          "id": 1729357139
+        },
+        {
+          "distance": 0.15684020519256592,
+          "id": 1729357261
+        },
+        {
+          "distance": 0.18021106719970703,
+          "id": 1729357653
+        },
+        {
+          "distance": 0.18764275312423706,
+          "id": 1729357417
+        },
+        {
+          "distance": 0.1917051076889038,
+          "id": 1729357261
+        },
+        {
+          "distance": 0.2106781005859375,
+          "id": 1729357417
+        },
+        {
+          "distance": 0.21273314952850342,
+          "id": 1729357835
+        },
+        {
+          "distance": 0.21796876192092896,
+          "id": 1729357835
+        },
+        {
+          "distance": 0.2301289439201355,
+          "id": 1729357421
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1880151331,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Happy Birthday to the late Isamu Noguchi, who was born on this day in 1904 in Los Angeles, California...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

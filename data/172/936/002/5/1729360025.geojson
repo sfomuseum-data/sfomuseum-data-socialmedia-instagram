@@ -25,6 +25,50 @@
       "taken": 1481472060,
       "taken_at": "Dec 11, 2016 4:01 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0856853723526001,
+          "id": 1729360491
+        },
+        {
+          "distance": 0.10204535722732544,
+          "id": 1729360491
+        },
+        {
+          "distance": 0.26937127113342285,
+          "id": 1729355527
+        },
+        {
+          "distance": 0.2712576985359192,
+          "id": 1729355527
+        },
+        {
+          "distance": 0.28411543369293213,
+          "id": 1729355511
+        },
+        {
+          "distance": 0.29777926206588745,
+          "id": 1729355511
+        },
+        {
+          "distance": 0.30835026502609253,
+          "id": 1729361419
+        },
+        {
+          "distance": 0.30857032537460327,
+          "id": 1729360387
+        },
+        {
+          "distance": 0.3098902106285095,
+          "id": 1729355339
+        },
+        {
+          "distance": 0.31768685579299927,
+          "id": 1729355339
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360025,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777638,
     "wof:name": "In 1931, an aerial survey expedition of Peru was conducted by geologist Robert Shippee and U.S. Navy Lt. George R. Johnson...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

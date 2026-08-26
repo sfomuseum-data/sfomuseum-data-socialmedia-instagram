@@ -27,6 +27,50 @@
       "taken": 1702659780,
       "taken_at": "Dec 15, 2023 5:03 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.000023365020751953125,
+          "id": 1947425237
+        },
+        {
+          "distance": 0.05779731273651123,
+          "id": 1947425141
+        },
+        {
+          "distance": 0.08331811428070068,
+          "id": 1947425237
+        },
+        {
+          "distance": 0.12011748552322388,
+          "id": 1947425141
+        },
+        {
+          "distance": 0.1686376929283142,
+          "id": 1880150965
+        },
+        {
+          "distance": 0.16971570253372192,
+          "id": 1880151473
+        },
+        {
+          "distance": 0.16996264457702637,
+          "id": 1729360135
+        },
+        {
+          "distance": 0.17092394828796387,
+          "id": 1729361489
+        },
+        {
+          "distance": 0.1737256646156311,
+          "id": 1880151121
+        },
+        {
+          "distance": 0.17564457654953003,
+          "id": 1880151287
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947425209,
-    "wof:lastmodified": 1733175329,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Introduced in 1936, the same year as the Douglas DC-3, this United Air Lines sage green wool stewardess uniform was worn with a yellow linen blouse and included a pillbox hat complemented with a green and yellow flat bow...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

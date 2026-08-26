@@ -35,6 +35,50 @@
       "taken": 1501157400,
       "taken_at": "Jul 27, 2017 12:10 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23489779233932495,
+          "id": 1729356457
+        },
+        {
+          "distance": 0.23984140157699585,
+          "id": 1729355771
+        },
+        {
+          "distance": 0.24152493476867676,
+          "id": 1729356361
+        },
+        {
+          "distance": 0.2440987229347229,
+          "id": 1729355853
+        },
+        {
+          "distance": 0.2565203309059143,
+          "id": 1729356469
+        },
+        {
+          "distance": 0.257770836353302,
+          "id": 1729355825
+        },
+        {
+          "distance": 0.2665320038795471,
+          "id": 1729359377
+        },
+        {
+          "distance": 0.26873159408569336,
+          "id": 1729355765
+        },
+        {
+          "distance": 0.27281779050827026,
+          "id": 1729355973
+        },
+        {
+          "distance": 0.27706533670425415,
+          "id": 1729355835
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729359259,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Originally erected by Ramses II, this obelisk was brought by Emperor Augustus to Rome in 10 BCE...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

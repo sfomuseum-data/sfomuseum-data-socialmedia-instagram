@@ -32,6 +32,50 @@
       "taken": 1651576260,
       "taken_at": "May 03, 2022 11:11 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15168339014053345,
+          "id": 1880151781
+        },
+        {
+          "distance": 0.16569256782531738,
+          "id": 1729356499
+        },
+        {
+          "distance": 0.19238746166229248,
+          "id": 1880150873
+        },
+        {
+          "distance": 0.1972513198852539,
+          "id": 1880151781
+        },
+        {
+          "distance": 0.1977442502975464,
+          "id": 1947424867
+        },
+        {
+          "distance": 0.20423883199691772,
+          "id": 1947425181
+        },
+        {
+          "distance": 0.20989829301834106,
+          "id": 1880151317
+        },
+        {
+          "distance": 0.21615314483642578,
+          "id": 1947424951
+        },
+        {
+          "distance": 0.21780496835708618,
+          "id": 1880151197
+        },
+        {
+          "distance": 0.2219846248626709,
+          "id": 1729359429
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1880151785,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777663,
     "wof:name": "During the 1970s, pioneering American studio glass artist Marvin Lipofsky refined his formula for creating collaborative glass sculpture...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

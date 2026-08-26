@@ -32,6 +32,50 @@
       "taken": 1679307660,
       "taken_at": "Mar 20, 2023 10:21 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.000023365020751953125,
+          "id": 1880151083
+        },
+        {
+          "distance": 0.02620720863342285,
+          "id": 1880151043
+        },
+        {
+          "distance": 0.1724456548690796,
+          "id": 1880151043
+        },
+        {
+          "distance": 0.17250263690948486,
+          "id": 1880151083
+        },
+        {
+          "distance": 0.19796645641326904,
+          "id": 1880150969
+        },
+        {
+          "distance": 0.19931578636169434,
+          "id": 1880151539
+        },
+        {
+          "distance": 0.2023221254348755,
+          "id": 1880151023
+        },
+        {
+          "distance": 0.2290332317352295,
+          "id": 1880151475
+        },
+        {
+          "distance": 0.23741751909255981,
+          "id": 1880150969
+        },
+        {
+          "distance": 0.2430274486541748,
+          "id": 1880151023
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1880151045,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777661,
     "wof:name": "The Bruton sisters — Margaret (1894–1983), Esther (1896–1992), and Helen Bruton (1898–1985) — were multidisciplinary artists who worked in painting, printmaking, mosaic, terrazzo, and bas-relief...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

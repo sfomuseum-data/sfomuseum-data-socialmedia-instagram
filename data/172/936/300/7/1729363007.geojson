@@ -25,6 +25,50 @@
       "taken": 1338556380,
       "taken_at": "Jun 01, 2012 1:13 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15451693534851074,
+          "id": 1729362989
+        },
+        {
+          "distance": 0.16462522745132446,
+          "id": 1729362983
+        },
+        {
+          "distance": 0.190199077129364,
+          "id": 1729362989
+        },
+        {
+          "distance": 0.1960839033126831,
+          "id": 1729362983
+        },
+        {
+          "distance": 0.20124953985214233,
+          "id": 1729363015
+        },
+        {
+          "distance": 0.20567727088928223,
+          "id": 1729363021
+        },
+        {
+          "distance": 0.20947855710983276,
+          "id": 1763559349
+        },
+        {
+          "distance": 0.21159809827804565,
+          "id": 1729363021
+        },
+        {
+          "distance": 0.21262258291244507,
+          "id": 1880151751
+        },
+        {
+          "distance": 0.21819549798965454,
+          "id": 1729362977
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729363007,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777657,
     "wof:name": "A sampling of early (1720s-40s) screw-barrel microscopes \u0026 components..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

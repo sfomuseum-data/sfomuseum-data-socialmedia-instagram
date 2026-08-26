@@ -48,6 +48,50 @@
       "taken": 1522417740,
       "taken_at": "Mar 30, 2018 1:49 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0704641342163086,
+          "id": 1729361319
+        },
+        {
+          "distance": 0.12823498249053955,
+          "id": 1729361319
+        },
+        {
+          "distance": 0.14923208951950073,
+          "id": 1763558923
+        },
+        {
+          "distance": 0.16151607036590576,
+          "id": 1947425155
+        },
+        {
+          "distance": 0.1723828911781311,
+          "id": 1729357729
+        },
+        {
+          "distance": 0.18223440647125244,
+          "id": 1763558923
+        },
+        {
+          "distance": 0.19321417808532715,
+          "id": 1729357039
+        },
+        {
+          "distance": 0.19707036018371582,
+          "id": 1729355627
+        },
+        {
+          "distance": 0.20374417304992676,
+          "id": 1763558881
+        },
+        {
+          "distance": 0.20803070068359375,
+          "id": 1947425155
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -77,7 +121,7 @@
       }
     ],
     "wof:id": 1729358401,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Designed by Louis Blériot and Raymond Saulnier, the Blériot XI monoplane was developed from the earlier Blériot VIII monoplane design...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -94,5 +138,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

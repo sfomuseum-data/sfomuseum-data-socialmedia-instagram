@@ -34,6 +34,50 @@
       "taken": 1567614540,
       "taken_at": "Sep 4, 2019, 4:29 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.008711040019989014,
+          "id": 1729355639
+        },
+        {
+          "distance": 0.08399909734725952,
+          "id": 1729355639
+        },
+        {
+          "distance": 0.2965518832206726,
+          "id": 1729356133
+        },
+        {
+          "distance": 0.3113037943840027,
+          "id": 1729356097
+        },
+        {
+          "distance": 0.3165489435195923,
+          "id": 1729356005
+        },
+        {
+          "distance": 0.32397401332855225,
+          "id": 1729355641
+        },
+        {
+          "distance": 0.3257097005844116,
+          "id": 1729355981
+        },
+        {
+          "distance": 0.3295454978942871,
+          "id": 1729356207
+        },
+        {
+          "distance": 0.33700114488601685,
+          "id": 1729356085
+        },
+        {
+          "distance": 0.3375846743583679,
+          "id": 1729355685
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729356135,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777628,
     "wof:name": "In 1961, about an hour north of Washington, D.C., a construction crew prepared to demolish a historic home in Thurmont, Maryland...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

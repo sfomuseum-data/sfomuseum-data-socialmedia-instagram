@@ -35,6 +35,50 @@
       "taken": 1565856300,
       "taken_at": "Aug 15, 2019, 8:05 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.05213773250579834,
+          "id": 1729356209
+        },
+        {
+          "distance": 0.05914336442947388,
+          "id": 1729356213
+        },
+        {
+          "distance": 0.11175167560577393,
+          "id": 1729356209
+        },
+        {
+          "distance": 0.11417961120605469,
+          "id": 1729356213
+        },
+        {
+          "distance": 0.12711745500564575,
+          "id": 1729356371
+        },
+        {
+          "distance": 0.13864731788635254,
+          "id": 1729356287
+        },
+        {
+          "distance": 0.14983606338500977,
+          "id": 1729356211
+        },
+        {
+          "distance": 0.15238302946090698,
+          "id": 1729356365
+        },
+        {
+          "distance": 0.1598225235939026,
+          "id": 1729356297
+        },
+        {
+          "distance": 0.159956693649292,
+          "id": 1729356357
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729356197,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777628,
     "wof:name": "Dung beetles, June bugs, chafers, and scarabs all belong to the beetle family Scarabaeidae...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

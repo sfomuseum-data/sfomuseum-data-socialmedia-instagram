@@ -38,6 +38,50 @@
       "taken": 1532619420,
       "taken_at": "Jul 26, 2018, 3:37 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.22096282243728638,
+          "id": 1729361031
+        },
+        {
+          "distance": 0.22501230239868164,
+          "id": 1763559323
+        },
+        {
+          "distance": 0.22697079181671143,
+          "id": 1729361031
+        },
+        {
+          "distance": 0.23343229293823242,
+          "id": 1947425061
+        },
+        {
+          "distance": 0.23524260520935059,
+          "id": 1729360625
+        },
+        {
+          "distance": 0.23588579893112183,
+          "id": 1880151081
+        },
+        {
+          "distance": 0.23609060049057007,
+          "id": 1729355777
+        },
+        {
+          "distance": 0.23902708292007446,
+          "id": 1729355617
+        },
+        {
+          "distance": 0.243766188621521,
+          "id": 1880151351
+        },
+        {
+          "distance": 0.24377840757369995,
+          "id": 1729355435
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729357891,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777632,
     "wof:name": "In September 2017, San Francisco and the city of Kiel, located in Northern Germany, became official sister cities...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

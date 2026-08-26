@@ -31,6 +31,50 @@
       "taken": 1491052320,
       "taken_at": "Apr 01, 2017 1:12 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20136630535125732,
+          "id": 1729360723
+        },
+        {
+          "distance": 0.22311490774154663,
+          "id": 1729359217
+        },
+        {
+          "distance": 0.22572439908981323,
+          "id": 1729358339
+        },
+        {
+          "distance": 0.2351137399673462,
+          "id": 1729361045
+        },
+        {
+          "distance": 0.23923277854919434,
+          "id": 1729356715
+        },
+        {
+          "distance": 0.24744784832000732,
+          "id": 1763559125
+        },
+        {
+          "distance": 0.2480003833770752,
+          "id": 1729358339
+        },
+        {
+          "distance": 0.24801594018936157,
+          "id": 1729359833
+        },
+        {
+          "distance": 0.24846768379211426,
+          "id": 1880150923
+        },
+        {
+          "distance": 0.24906235933303833,
+          "id": 1729361165
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729359659,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "First delivered on January 31, 1949, the first flight of Pan American Airway's Boeing 377 was from SFO to Honolulu #onthisday in 1949...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

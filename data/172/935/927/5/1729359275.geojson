@@ -47,6 +47,50 @@
       "taken": 1500917520,
       "taken_at": "Jul 24, 2017 5:32 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.34796851873397827,
+          "id": 1729359435
+        },
+        {
+          "distance": 0.35663658380508423,
+          "id": 1729358859
+        },
+        {
+          "distance": 0.3634679913520813,
+          "id": 1729356339
+        },
+        {
+          "distance": 0.3660351037979126,
+          "id": 1763558727
+        },
+        {
+          "distance": 0.3660351037979126,
+          "id": 1729358761
+        },
+        {
+          "distance": 0.3672550916671753,
+          "id": 1729358939
+        },
+        {
+          "distance": 0.3676387071609497,
+          "id": 1729356347
+        },
+        {
+          "distance": 0.3681420087814331,
+          "id": 1729359233
+        },
+        {
+          "distance": 0.3753582835197449,
+          "id": 1729358989
+        },
+        {
+          "distance": 0.3789926767349243,
+          "id": 1729359001
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -76,7 +120,7 @@
       }
     ],
     "wof:id": 1729359275,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Founded in 1908 by Camillo #Olivetti (1868–1943), Ing...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -93,5 +137,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

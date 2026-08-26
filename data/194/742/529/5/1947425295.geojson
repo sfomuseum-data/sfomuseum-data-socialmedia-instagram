@@ -30,6 +30,50 @@
       "taken": 1694793600,
       "taken_at": "Sep 15, 2023 4:00 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1545112133026123,
+          "id": 1729355633
+        },
+        {
+          "distance": 0.16141140460968018,
+          "id": 1729355629
+        },
+        {
+          "distance": 0.16659760475158691,
+          "id": 1763559579
+        },
+        {
+          "distance": 0.17322242259979248,
+          "id": 1880150947
+        },
+        {
+          "distance": 0.19477921724319458,
+          "id": 1763559641
+        },
+        {
+          "distance": 0.19736546277999878,
+          "id": 1729358533
+        },
+        {
+          "distance": 0.19838547706604004,
+          "id": 1729355629
+        },
+        {
+          "distance": 0.20307886600494385,
+          "id": 1763559579
+        },
+        {
+          "distance": 0.208631694316864,
+          "id": 1729355633
+        },
+        {
+          "distance": 0.21241366863250732,
+          "id": 1880150947
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1947425295,
-    "wof:lastmodified": 1733175331,
+    "wof:lastmodified": 1787777664,
     "wof:name": "“Topograph I \u0026 II” by Kendall Buster consists of two conversant forms suspended on either side of the mezzanine above the departure lobby of Terminal 2...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

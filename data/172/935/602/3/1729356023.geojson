@@ -32,6 +32,50 @@
       "taken": 1570447680,
       "taken_at": "Oct 7, 2019, 11:28 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.011335790157318115,
+          "id": 1763558821
+        },
+        {
+          "distance": 0.07095223665237427,
+          "id": 1763558821
+        },
+        {
+          "distance": 0.19767600297927856,
+          "id": 1763559059
+        },
+        {
+          "distance": 0.20250743627548218,
+          "id": 1729361153
+        },
+        {
+          "distance": 0.20927244424819946,
+          "id": 1880151779
+        },
+        {
+          "distance": 0.211043119430542,
+          "id": 1729359663
+        },
+        {
+          "distance": 0.21252459287643433,
+          "id": 1729359007
+        },
+        {
+          "distance": 0.22137457132339478,
+          "id": 1729358231
+        },
+        {
+          "distance": 0.22187352180480957,
+          "id": 1880151805
+        },
+        {
+          "distance": 0.22706842422485352,
+          "id": 1880151799
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729356023,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777627,
     "wof:name": "Happy 100th Birthday KLM!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

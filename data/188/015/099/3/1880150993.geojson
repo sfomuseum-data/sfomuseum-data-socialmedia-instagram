@@ -31,6 +31,50 @@
       "taken": 1680856560,
       "taken_at": "Apr 07, 2023 8:36 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0352596640586853,
+          "id": 1947425151
+        },
+        {
+          "distance": 0.055133700370788574,
+          "id": 1880150869
+        },
+        {
+          "distance": 0.06436598300933838,
+          "id": 1729355237
+        },
+        {
+          "distance": 0.09513348340988159,
+          "id": 1880151649
+        },
+        {
+          "distance": 0.10554111003875732,
+          "id": 1880151235
+        },
+        {
+          "distance": 0.1153181791305542,
+          "id": 1947425151
+        },
+        {
+          "distance": 0.11878073215484619,
+          "id": 1763559417
+        },
+        {
+          "distance": 0.12156814336776733,
+          "id": 1880150869
+        },
+        {
+          "distance": 0.14484119415283203,
+          "id": 1763558935
+        },
+        {
+          "distance": 0.14642614126205444,
+          "id": 1729355237
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880150993,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777661,
     "wof:name": "Harvey Milk (1930–78) made history in 1977 when he became the first openly gay individual elected to public office in the state of California...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

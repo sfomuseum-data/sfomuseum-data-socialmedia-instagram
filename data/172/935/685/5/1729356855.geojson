@@ -35,6 +35,50 @@
       "taken": 1551981420,
       "taken_at": "Mar 07, 2019 5:57 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.29464954137802124,
+          "id": 1729358481
+        },
+        {
+          "distance": 0.29498291015625,
+          "id": 1729358481
+        },
+        {
+          "distance": 0.3048105239868164,
+          "id": 1729360961
+        },
+        {
+          "distance": 0.3111165165901184,
+          "id": 1729361949
+        },
+        {
+          "distance": 0.3153863549232483,
+          "id": 1729357197
+        },
+        {
+          "distance": 0.3213236331939697,
+          "id": 1729362149
+        },
+        {
+          "distance": 0.32356494665145874,
+          "id": 1729360901
+        },
+        {
+          "distance": 0.3254193663597107,
+          "id": 1729359877
+        },
+        {
+          "distance": 0.33487188816070557,
+          "id": 1729357651
+        },
+        {
+          "distance": 0.3359357714653015,
+          "id": 1729362149
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729356855,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777629,
     "wof:name": "#Onthisday in 1963, the Pan Am Building opened at 200 Park Avenue in Midtown Manhattan...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

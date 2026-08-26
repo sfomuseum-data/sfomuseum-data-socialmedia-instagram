@@ -25,6 +25,50 @@
       "taken": 1449654960,
       "taken_at": "Dec 09, 2015 9:56 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16885769367218018,
+          "id": 1729355309
+        },
+        {
+          "distance": 0.25935572385787964,
+          "id": 1729355309
+        },
+        {
+          "distance": 0.2594018578529358,
+          "id": 1729359425
+        },
+        {
+          "distance": 0.27732419967651367,
+          "id": 1729357529
+        },
+        {
+          "distance": 0.2776758074760437,
+          "id": 1729357529
+        },
+        {
+          "distance": 0.2785487174987793,
+          "id": 1729356819
+        },
+        {
+          "distance": 0.28084665536880493,
+          "id": 1729356811
+        },
+        {
+          "distance": 0.28257232904434204,
+          "id": 1729357895
+        },
+        {
+          "distance": 0.28516048192977905,
+          "id": 1729356547
+        },
+        {
+          "distance": 0.2855423092842102,
+          "id": 1729356577
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361291,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "One of our current photo exhibitions features stunning shots of satellite images composed by artist Benjamin Grant (@DailyOverview)...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

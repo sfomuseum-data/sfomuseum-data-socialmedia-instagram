@@ -38,6 +38,50 @@
       "taken": 1562325000,
       "taken_at": "Jul 05, 2019 11:10 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3085017204284668,
+          "id": 1763559301
+        },
+        {
+          "distance": 0.3085017204284668,
+          "id": 1763559541
+        },
+        {
+          "distance": 0.3323706388473511,
+          "id": 1729358175
+        },
+        {
+          "distance": 0.3356538414955139,
+          "id": 1763559541
+        },
+        {
+          "distance": 0.3356538414955139,
+          "id": 1763559301
+        },
+        {
+          "distance": 0.3421364426612854,
+          "id": 1729358175
+        },
+        {
+          "distance": 0.3450952172279358,
+          "id": 1729359951
+        },
+        {
+          "distance": 0.34705936908721924,
+          "id": 1763558943
+        },
+        {
+          "distance": 0.354824960231781,
+          "id": 1729356773
+        },
+        {
+          "distance": 0.3580858111381531,
+          "id": 1729357237
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729356349,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777629,
     "wof:name": "NOW PLAYING: A streetlamp, traffic signal, and stoplight perform a choreography at a lonely intersection of rural byways in San Pasqual High School student Howard Kung’s award-winning film for Walt Disney Family Museum’s 2019 Teen Animation International Festival...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

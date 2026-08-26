@@ -32,6 +32,50 @@
       "taken": 1686061440,
       "taken_at": "Jun 06, 2023 2:24 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.013843297958374023,
+          "id": 1880151017
+        },
+        {
+          "distance": 0.013843297958374023,
+          "id": 1880151119
+        },
+        {
+          "distance": 0.0157623291015625,
+          "id": 1947425041
+        },
+        {
+          "distance": 0.017634689807891846,
+          "id": 1947425005
+        },
+        {
+          "distance": 0.01978510618209839,
+          "id": 1947425213
+        },
+        {
+          "distance": 0.01985788345336914,
+          "id": 1947424827
+        },
+        {
+          "distance": 0.019898295402526855,
+          "id": 1947425299
+        },
+        {
+          "distance": 0.019898295402526855,
+          "id": 1947425279
+        },
+        {
+          "distance": 0.019898295402526855,
+          "id": 1880150889
+        },
+        {
+          "distance": 0.019898295402526855,
+          "id": 1880151181
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1880150925,
-    "wof:lastmodified": 1733175333,
+    "wof:lastmodified": 1787777661,
     "wof:name": "“I knew that I might lose family, that people might reject me...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

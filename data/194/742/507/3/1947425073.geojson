@@ -28,6 +28,50 @@
       "taken": 1712160600,
       "taken_at": "Apr 03, 2024 4:10 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3238446116447449,
+          "id": 1729356257
+        },
+        {
+          "distance": 0.3272261619567871,
+          "id": 1763559353
+        },
+        {
+          "distance": 0.3381078243255615,
+          "id": 1729360867
+        },
+        {
+          "distance": 0.3397873640060425,
+          "id": 1729355197
+        },
+        {
+          "distance": 0.34319937229156494,
+          "id": 1729357961
+        },
+        {
+          "distance": 0.34485578536987305,
+          "id": 1729359319
+        },
+        {
+          "distance": 0.37711310386657715,
+          "id": 1729359015
+        },
+        {
+          "distance": 0.3781461715698242,
+          "id": 1729361167
+        },
+        {
+          "distance": 0.3783145546913147,
+          "id": 1729356257
+        },
+        {
+          "distance": 0.37837445735931396,
+          "id": 1763559353
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1947425073,
-    "wof:lastmodified": 1733175325,
+    "wof:lastmodified": 1787777664,
     "wof:name": "SAS (Scandinavian Airlines System), the flag carrier for Norway, Denmark, and Sweden, was founded in 1951 after a merger of airlines from each country, Det Danske Luftfartselskab A/S (DDL), Det Norske Luftfartselskap A/S (DNL), and Svensk Interkontinetal Lufttrafik AB (SILA)...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -70,5 +114,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

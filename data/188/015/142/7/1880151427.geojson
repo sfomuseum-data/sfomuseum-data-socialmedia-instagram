@@ -29,6 +29,50 @@
       "taken": 1664435340,
       "taken_at": "Sep 29, 2022 7:09 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3149622678756714,
+          "id": 1729360801
+        },
+        {
+          "distance": 0.3441591262817383,
+          "id": 1729361299
+        },
+        {
+          "distance": 0.352323055267334,
+          "id": 1729361449
+        },
+        {
+          "distance": 0.35421693325042725,
+          "id": 1729360801
+        },
+        {
+          "distance": 0.35492128133773804,
+          "id": 1729357877
+        },
+        {
+          "distance": 0.35553741455078125,
+          "id": 1880151001
+        },
+        {
+          "distance": 0.36284971237182617,
+          "id": 1729357877
+        },
+        {
+          "distance": 0.36913955211639404,
+          "id": 1729361051
+        },
+        {
+          "distance": 0.3703388571739197,
+          "id": 1729357881
+        },
+        {
+          "distance": 0.37774181365966797,
+          "id": 1729361397
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880151427,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Want to nerd out about airport history?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -30,6 +30,50 @@
       "taken": 1576519080,
       "taken_at": "Dec 16, 2019 5:58 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12642937898635864,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.1723666787147522,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.18895220756530762,
+          "id": 1880150939
+        },
+        {
+          "distance": 0.18975549936294556,
+          "id": 1947424907
+        },
+        {
+          "distance": 0.19854247570037842,
+          "id": 1763559105
+        },
+        {
+          "distance": 0.19972282648086548,
+          "id": 1763559281
+        },
+        {
+          "distance": 0.20166796445846558,
+          "id": 1763559323
+        },
+        {
+          "distance": 0.20442211627960205,
+          "id": 1729361797
+        },
+        {
+          "distance": 0.20893287658691406,
+          "id": 1947425061
+        },
+        {
+          "distance": 0.20991843938827515,
+          "id": 1763559595
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729355777,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777627,
     "wof:name": "Barry McGee earned a Bachelor of Fine Arts from the San Francisco Art Institute in 1991...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

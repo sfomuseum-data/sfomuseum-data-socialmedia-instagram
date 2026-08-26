@@ -38,6 +38,50 @@
       "taken": 1525428780,
       "taken_at": "May 04, 2018 10:13 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09311211109161377,
+          "id": 1729358287
+        },
+        {
+          "distance": 0.15331542491912842,
+          "id": 1729358287
+        },
+        {
+          "distance": 0.17578399181365967,
+          "id": 1729358291
+        },
+        {
+          "distance": 0.22414559125900269,
+          "id": 1729358281
+        },
+        {
+          "distance": 0.2598675489425659,
+          "id": 1729358281
+        },
+        {
+          "distance": 0.2606600522994995,
+          "id": 1729358291
+        },
+        {
+          "distance": 0.2655891180038452,
+          "id": 1729358711
+        },
+        {
+          "distance": 0.26884037256240845,
+          "id": 1729357793
+        },
+        {
+          "distance": 0.27810895442962646,
+          "id": 1729358777
+        },
+        {
+          "distance": 0.28124839067459106,
+          "id": 1729358693
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729358277,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Many amateur craftsmen created unique folk houses and other architectural buildings from the mid-1800s to the early-1900s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -44,6 +44,50 @@
       "taken": 1537212900,
       "taken_at": "Sep 17, 2018 7:35 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.00002205371856689453,
+          "id": 1729357665
+        },
+        {
+          "distance": 0.10765308141708374,
+          "id": 1729357657
+        },
+        {
+          "distance": 0.11825037002563477,
+          "id": 1729357663
+        },
+        {
+          "distance": 0.17892765998840332,
+          "id": 1729357665
+        },
+        {
+          "distance": 0.21362733840942383,
+          "id": 1729357663
+        },
+        {
+          "distance": 0.24404066801071167,
+          "id": 1729356055
+        },
+        {
+          "distance": 0.24771511554718018,
+          "id": 1729357657
+        },
+        {
+          "distance": 0.2742255926132202,
+          "id": 1729356055
+        },
+        {
+          "distance": 0.3176979422569275,
+          "id": 1729355023
+        },
+        {
+          "distance": 0.3296944499015808,
+          "id": 1729358949
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -73,7 +117,7 @@
       }
     ],
     "wof:id": 1763558769,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777659,
     "wof:name": "California’s redwood trees are a national treasure and a living witness to our past...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -90,5 +134,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

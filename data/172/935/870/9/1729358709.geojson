@@ -38,6 +38,50 @@
       "taken": 1515776340,
       "taken_at": "Jan 12, 2018 4:59 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.27101123332977295,
+          "id": 1729361347
+        },
+        {
+          "distance": 0.2765790820121765,
+          "id": 1763558807
+        },
+        {
+          "distance": 0.2765790820121765,
+          "id": 1729357179
+        },
+        {
+          "distance": 0.2802795171737671,
+          "id": 1729360567
+        },
+        {
+          "distance": 0.28995805978775024,
+          "id": 1729361603
+        },
+        {
+          "distance": 0.2985900044441223,
+          "id": 1729359049
+        },
+        {
+          "distance": 0.29902464151382446,
+          "id": 1729359609
+        },
+        {
+          "distance": 0.30432409048080444,
+          "id": 1729358317
+        },
+        {
+          "distance": 0.3048241138458252,
+          "id": 1729357179
+        },
+        {
+          "distance": 0.3048241138458252,
+          "id": 1763558807
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729358709,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Did you know there was a Bank of America branch at SFO in the 1950s?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

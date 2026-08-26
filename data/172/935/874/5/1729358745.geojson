@@ -51,6 +51,50 @@
       "taken": 1514999880,
       "taken_at": "Jan 03, 2018 5:18 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10117405652999878,
+          "id": 1729358741
+        },
+        {
+          "distance": 0.10367119312286377,
+          "id": 1729358539
+        },
+        {
+          "distance": 0.10817152261734009,
+          "id": 1729358741
+        },
+        {
+          "distance": 0.11201232671737671,
+          "id": 1729358669
+        },
+        {
+          "distance": 0.13335400819778442,
+          "id": 1729358915
+        },
+        {
+          "distance": 0.14787054061889648,
+          "id": 1729358669
+        },
+        {
+          "distance": 0.1558588743209839,
+          "id": 1729358539
+        },
+        {
+          "distance": 0.15612369775772095,
+          "id": 1729358579
+        },
+        {
+          "distance": 0.15812593698501587,
+          "id": 1729358967
+        },
+        {
+          "distance": 0.16406899690628052,
+          "id": 1729358915
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -80,7 +124,7 @@
       }
     ],
     "wof:id": 1729358745,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "“To be an artisan, to be a weaver signifies tradition, the culture...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -97,5 +141,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

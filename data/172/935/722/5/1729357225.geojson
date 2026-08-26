@@ -38,6 +38,50 @@
       "taken": 1545040620,
       "taken_at": "Dec 17, 2018 9:57 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06321430206298828,
+          "id": 1729357231
+        },
+        {
+          "distance": 0.08442676067352295,
+          "id": 1729357237
+        },
+        {
+          "distance": 0.16670238971710205,
+          "id": 1729357231
+        },
+        {
+          "distance": 0.1813042163848877,
+          "id": 1729357237
+        },
+        {
+          "distance": 0.18642443418502808,
+          "id": 1729357233
+        },
+        {
+          "distance": 0.22836542129516602,
+          "id": 1729361289
+        },
+        {
+          "distance": 0.2372831106185913,
+          "id": 1729360259
+        },
+        {
+          "distance": 0.24049335718154907,
+          "id": 1729357667
+        },
+        {
+          "distance": 0.24259060621261597,
+          "id": 1880151041
+        },
+        {
+          "distance": 0.24538415670394897,
+          "id": 1729359537
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729357225,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777630,
     "wof:name": "In his project, \"Sidereal Rift\", artist Michael Light draws focus on the seemingly endless grid of Los Angeles at night...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

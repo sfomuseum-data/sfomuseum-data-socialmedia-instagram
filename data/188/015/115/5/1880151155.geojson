@@ -30,6 +30,50 @@
       "taken": 1675256220,
       "taken_at": "Feb 01, 2023 12:57 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.04251796007156372,
+          "id": 1880150883
+        },
+        {
+          "distance": 0.04935795068740845,
+          "id": 1947425243
+        },
+        {
+          "distance": 0.05356377363204956,
+          "id": 1880151157
+        },
+        {
+          "distance": 0.0640406608581543,
+          "id": 1947425303
+        },
+        {
+          "distance": 0.10484302043914795,
+          "id": 1880150979
+        },
+        {
+          "distance": 0.12247514724731445,
+          "id": 1880150883
+        },
+        {
+          "distance": 0.12579894065856934,
+          "id": 1947425243
+        },
+        {
+          "distance": 0.13090091943740845,
+          "id": 1947425303
+        },
+        {
+          "distance": 0.13098323345184326,
+          "id": 1880151157
+        },
+        {
+          "distance": 0.16183996200561523,
+          "id": 1880151011
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151155,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "American soprano Leontyne Price (b...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

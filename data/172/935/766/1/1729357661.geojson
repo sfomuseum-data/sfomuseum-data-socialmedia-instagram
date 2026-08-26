@@ -36,6 +36,50 @@
       "taken": 1537278360,
       "taken_at": "Sep 18, 2018 1:46 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14503204822540283,
+          "id": 1729357115
+        },
+        {
+          "distance": 0.16047388315200806,
+          "id": 1729356395
+        },
+        {
+          "distance": 0.16156750917434692,
+          "id": 1729356407
+        },
+        {
+          "distance": 0.16715991497039795,
+          "id": 1729356395
+        },
+        {
+          "distance": 0.16847795248031616,
+          "id": 1729357115
+        },
+        {
+          "distance": 0.17215275764465332,
+          "id": 1729358833
+        },
+        {
+          "distance": 0.17802166938781738,
+          "id": 1763559637
+        },
+        {
+          "distance": 0.17936909198760986,
+          "id": 1763558705
+        },
+        {
+          "distance": 0.1797052025794983,
+          "id": 1763559073
+        },
+        {
+          "distance": 0.18059802055358887,
+          "id": 1729357123
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729357661,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "#OnThisday in 1959, United Air Lines and Delta Airlines introduced the Douglas DC-8...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

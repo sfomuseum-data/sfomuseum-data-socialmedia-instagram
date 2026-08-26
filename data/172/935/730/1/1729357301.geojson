@@ -39,6 +39,50 @@
       "taken": 1543585560,
       "taken_at": "Nov 30, 2018, 1:46 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14399594068527222,
+          "id": 1729357289
+        },
+        {
+          "distance": 0.17647415399551392,
+          "id": 1729357289
+        },
+        {
+          "distance": 0.18907785415649414,
+          "id": 1880151773
+        },
+        {
+          "distance": 0.1974029541015625,
+          "id": 1763559389
+        },
+        {
+          "distance": 0.20392560958862305,
+          "id": 1729355709
+        },
+        {
+          "distance": 0.2089807391166687,
+          "id": 1729357251
+        },
+        {
+          "distance": 0.213728129863739,
+          "id": 1729357563
+        },
+        {
+          "distance": 0.21437400579452515,
+          "id": 1880151437
+        },
+        {
+          "distance": 0.2146032452583313,
+          "id": 1763559403
+        },
+        {
+          "distance": 0.21761268377304077,
+          "id": 1729357251
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729357301,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777631,
     "wof:name": "The 767 was the first two-engine widebody airliner to be produced by Boeing...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

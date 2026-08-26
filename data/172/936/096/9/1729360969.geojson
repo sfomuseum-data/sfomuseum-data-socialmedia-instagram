@@ -25,6 +25,50 @@
       "taken": 1457116020,
       "taken_at": "Mar 04, 2016 6:27 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23640406131744385,
+          "id": 1729362039
+        },
+        {
+          "distance": 0.23862946033477783,
+          "id": 1729361387
+        },
+        {
+          "distance": 0.24819129705429077,
+          "id": 1763558987
+        },
+        {
+          "distance": 0.249586820602417,
+          "id": 1729360617
+        },
+        {
+          "distance": 0.260572612285614,
+          "id": 1729359577
+        },
+        {
+          "distance": 0.2649019956588745,
+          "id": 1729362311
+        },
+        {
+          "distance": 0.267575204372406,
+          "id": 1729359577
+        },
+        {
+          "distance": 0.27342796325683594,
+          "id": 1729361387
+        },
+        {
+          "distance": 0.28011757135391235,
+          "id": 1729360379
+        },
+        {
+          "distance": 0.2810044288635254,
+          "id": 1729360721
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360969,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "In January of 1911, an Aviation Meet was held at Tanforan Aviation Park, also called Selfridge Field...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -29,6 +29,50 @@
       "taken": 1667896680,
       "taken_at": "Nov 08, 2022 8:38 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0030733346939086914,
+          "id": 1763559011
+        },
+        {
+          "distance": 0.14607512950897217,
+          "id": 1763559011
+        },
+        {
+          "distance": 0.26195913553237915,
+          "id": 1729359131
+        },
+        {
+          "distance": 0.2718874216079712,
+          "id": 1729359025
+        },
+        {
+          "distance": 0.273665189743042,
+          "id": 1729359719
+        },
+        {
+          "distance": 0.2782084345817566,
+          "id": 1729358675
+        },
+        {
+          "distance": 0.2860158085823059,
+          "id": 1729359941
+        },
+        {
+          "distance": 0.28814125061035156,
+          "id": 1729361263
+        },
+        {
+          "distance": 0.2972548007965088,
+          "id": 1729361093
+        },
+        {
+          "distance": 0.29882103204727173,
+          "id": 1729359131
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880151349,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "We haven’t seen a voting machine like this in a long time; if you look closely, you’ll find an interesting assortment of state and city propositions on the 1962 ballot...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

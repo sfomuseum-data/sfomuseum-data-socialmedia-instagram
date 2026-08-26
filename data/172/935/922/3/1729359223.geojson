@@ -25,6 +25,50 @@
       "taken": 1502112180,
       "taken_at": "Aug 07, 2017 1:23 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.08238929510116577,
+          "id": 1729359871
+        },
+        {
+          "distance": 0.11595761775970459,
+          "id": 1729359871
+        },
+        {
+          "distance": 0.15292507410049438,
+          "id": 1729359331
+        },
+        {
+          "distance": 0.22771769762039185,
+          "id": 1729359331
+        },
+        {
+          "distance": 0.23793673515319824,
+          "id": 1729357097
+        },
+        {
+          "distance": 0.26872575283050537,
+          "id": 1729359425
+        },
+        {
+          "distance": 0.27270448207855225,
+          "id": 1729359469
+        },
+        {
+          "distance": 0.27456367015838623,
+          "id": 1729361305
+        },
+        {
+          "distance": 0.2746541500091553,
+          "id": 1729362613
+        },
+        {
+          "distance": 0.27505236864089966,
+          "id": 1729357161
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359223,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "This is your last week to catch \"All Roads Lead to Rome: 17th–19th Century Architectural Souvenirs from the Collection of #Piraneseum!\"..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

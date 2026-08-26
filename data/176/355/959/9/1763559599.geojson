@@ -32,6 +32,50 @@
       "taken": 1645100760,
       "taken_at": "Feb 17, 2022 12:26 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06537872552871704,
+          "id": 1763559469
+        },
+        {
+          "distance": 0.07736682891845703,
+          "id": 1763559469
+        },
+        {
+          "distance": 0.10292106866836548,
+          "id": 1729355291
+        },
+        {
+          "distance": 0.11076086759567261,
+          "id": 1947425003
+        },
+        {
+          "distance": 0.1130976676940918,
+          "id": 1729355291
+        },
+        {
+          "distance": 0.13401055335998535,
+          "id": 1947425003
+        },
+        {
+          "distance": 0.19711583852767944,
+          "id": 1880150947
+        },
+        {
+          "distance": 0.2129020094871521,
+          "id": 1763559595
+        },
+        {
+          "distance": 0.2133074402809143,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.21994072198867798,
+          "id": 1763559105
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1763559599,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "#Onthisday in 1948, artist Hung Liu was born in Changchun, China...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

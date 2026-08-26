@@ -33,6 +33,50 @@
       "taken": 1522686360,
       "taken_at": "Apr 02, 2018 4:26 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.261482298374176,
+          "id": 1880151689
+        },
+        {
+          "distance": 0.2661753296852112,
+          "id": 1880151275
+        },
+        {
+          "distance": 0.26698338985443115,
+          "id": 1880151689
+        },
+        {
+          "distance": 0.28278112411499023,
+          "id": 1763558931
+        },
+        {
+          "distance": 0.2843533158302307,
+          "id": 1763559555
+        },
+        {
+          "distance": 0.28790026903152466,
+          "id": 1880151275
+        },
+        {
+          "distance": 0.3045743703842163,
+          "id": 1729355101
+        },
+        {
+          "distance": 0.30475741624832153,
+          "id": 1729355629
+        },
+        {
+          "distance": 0.3061447739601135,
+          "id": 1729357611
+        },
+        {
+          "distance": 0.31199783086776733,
+          "id": 1729357999
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729358393,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "A challenge when working with art in public spaces is how to clean objects on long-term display...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

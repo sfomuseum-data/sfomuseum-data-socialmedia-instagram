@@ -34,6 +34,50 @@
       "taken": 1558100700,
       "taken_at": "May 17, 2019 1:45 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0376242995262146,
+          "id": 1729355851
+        },
+        {
+          "distance": 0.11417227983474731,
+          "id": 1729355851
+        },
+        {
+          "distance": 0.12829625606536865,
+          "id": 1729356343
+        },
+        {
+          "distance": 0.17454153299331665,
+          "id": 1729356343
+        },
+        {
+          "distance": 0.17786335945129395,
+          "id": 1729356353
+        },
+        {
+          "distance": 0.21113580465316772,
+          "id": 1729355855
+        },
+        {
+          "distance": 0.219068706035614,
+          "id": 1729356375
+        },
+        {
+          "distance": 0.22878998517990112,
+          "id": 1729356361
+        },
+        {
+          "distance": 0.23599863052368164,
+          "id": 1729355853
+        },
+        {
+          "distance": 0.24607962369918823,
+          "id": 1729356469
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729356559,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Victorian pedestals, meant to showcase sculpture, are fascinating decorative art objects to behold...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

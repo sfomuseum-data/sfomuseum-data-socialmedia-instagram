@@ -51,6 +51,50 @@
       "taken": 1522101540,
       "taken_at": "Mar 26, 2018 9:59 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20367777347564697,
+          "id": 1729359061
+        },
+        {
+          "distance": 0.20572364330291748,
+          "id": 1729358495
+        },
+        {
+          "distance": 0.21920186281204224,
+          "id": 1729358517
+        },
+        {
+          "distance": 0.22054070234298706,
+          "id": 1729359023
+        },
+        {
+          "distance": 0.22890561819076538,
+          "id": 1729359061
+        },
+        {
+          "distance": 0.23132270574569702,
+          "id": 1729358495
+        },
+        {
+          "distance": 0.24722307920455933,
+          "id": 1729358517
+        },
+        {
+          "distance": 0.2534443140029907,
+          "id": 1729358421
+        },
+        {
+          "distance": 0.26147061586380005,
+          "id": 1729358621
+        },
+        {
+          "distance": 0.26812583208084106,
+          "id": 1729358509
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -80,7 +124,7 @@
       }
     ],
     "wof:id": 1729358429,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "This is the last week to see \"Empowering Threads: Textiles of Jolom Mayaetik,\" featuring traditional Mayan weaving from Los Altos de Chiapas, located in the central highlands of southern Mexico...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -97,5 +141,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

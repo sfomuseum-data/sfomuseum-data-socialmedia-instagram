@@ -25,6 +25,50 @@
       "taken": 1380634800,
       "taken_at": "Oct 01, 2013 1:40 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.29124563932418823,
+          "id": 1729362477
+        },
+        {
+          "distance": 0.3101171851158142,
+          "id": 1729362477
+        },
+        {
+          "distance": 0.3122962713241577,
+          "id": 1729362327
+        },
+        {
+          "distance": 0.3225311040878296,
+          "id": 1729362327
+        },
+        {
+          "distance": 0.330377459526062,
+          "id": 1729362417
+        },
+        {
+          "distance": 0.33842384815216064,
+          "id": 1729362417
+        },
+        {
+          "distance": 0.3404110074043274,
+          "id": 1729362643
+        },
+        {
+          "distance": 0.34160399436950684,
+          "id": 1729362469
+        },
+        {
+          "distance": 0.3424198627471924,
+          "id": 1729362397
+        },
+        {
+          "distance": 0.34463953971862793,
+          "id": 1729362685
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362531,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "Walking into our design lab can yield some unexpected sights sometimes.....",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

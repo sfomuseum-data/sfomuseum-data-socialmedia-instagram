@@ -36,6 +36,50 @@
       "taken": 1554480300,
       "taken_at": "Apr 05, 2019 4:05 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.00002288818359375,
+          "id": 1729356671
+        },
+        {
+          "distance": 0.1359119415283203,
+          "id": 1729356671
+        },
+        {
+          "distance": 0.24374765157699585,
+          "id": 1729357073
+        },
+        {
+          "distance": 0.2447531819343567,
+          "id": 1880151121
+        },
+        {
+          "distance": 0.2594628930091858,
+          "id": 1729358211
+        },
+        {
+          "distance": 0.2629697322845459,
+          "id": 1729356527
+        },
+        {
+          "distance": 0.2659063935279846,
+          "id": 1729361489
+        },
+        {
+          "distance": 0.26863545179367065,
+          "id": 1729357493
+        },
+        {
+          "distance": 0.2705724835395813,
+          "id": 1729358869
+        },
+        {
+          "distance": 0.2708696126937866,
+          "id": 1729357069
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729356699,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "With the introduction of the airplane in the early twentieth century, pilots and mechanics needed written instructions on how to properly fly these complicated machines and keep them in safe operating condition...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

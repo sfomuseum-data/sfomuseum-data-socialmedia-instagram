@@ -27,6 +27,50 @@
       "taken": 1732290480,
       "taken_at": "Nov 22, 2024 3:48 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.015638768672943115,
+          "id": 1729360081
+        },
+        {
+          "distance": 0.07674252986907959,
+          "id": 1729361351
+        },
+        {
+          "distance": 0.12157022953033447,
+          "id": 1729361351
+        },
+        {
+          "distance": 0.12732046842575073,
+          "id": 1729360081
+        },
+        {
+          "distance": 0.13388407230377197,
+          "id": 1729356541
+        },
+        {
+          "distance": 0.140625,
+          "id": 1729355659
+        },
+        {
+          "distance": 0.14540189504623413,
+          "id": 1729355861
+        },
+        {
+          "distance": 0.15049105882644653,
+          "id": 1729355861
+        },
+        {
+          "distance": 0.15150082111358643,
+          "id": 1729360591
+        },
+        {
+          "distance": 0.15186655521392822,
+          "id": 1729358071
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947424791,
-    "wof:lastmodified": 1733175316,
+    "wof:lastmodified": 1787777663,
     "wof:name": "Today marks the 89th anniversary of the ground-breaking, inaugural, transpacific airmail flight of the Pan American Airways’ Martin M-130 flying boat, the “China Clipper.” A crowd of 125,000 people watched from around the Bay Area as the “China Clipper” lifted off from the waters of San Francisco Bay and strained into the sky threading its way under and over two partially built bridges...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

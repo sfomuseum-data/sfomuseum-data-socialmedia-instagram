@@ -33,6 +33,50 @@
       "taken": 1491655380,
       "taken_at": "Apr 08, 2017 12:43 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11769962310791016,
+          "id": 1729361501
+        },
+        {
+          "distance": 0.18014371395111084,
+          "id": 1729361501
+        },
+        {
+          "distance": 0.19789773225784302,
+          "id": 1880151527
+        },
+        {
+          "distance": 0.19845420122146606,
+          "id": 1729355133
+        },
+        {
+          "distance": 0.21180814504623413,
+          "id": 1729358851
+        },
+        {
+          "distance": 0.21712535619735718,
+          "id": 1729356693
+        },
+        {
+          "distance": 0.21925222873687744,
+          "id": 1729358365
+        },
+        {
+          "distance": 0.2201492190361023,
+          "id": 1763558959
+        },
+        {
+          "distance": 0.2219666838645935,
+          "id": 1729355989
+        },
+        {
+          "distance": 0.22231173515319824,
+          "id": 1763559547
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729359637,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "#Onthisday in 1988, the last branded PSA (Pacific Southwest Airlines) flight, #1486, departed San Diego at 10:35 PM and landed in Las Vegas as a USAir flight...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

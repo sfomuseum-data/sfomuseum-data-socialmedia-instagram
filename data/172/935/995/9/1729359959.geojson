@@ -25,6 +25,50 @@
       "taken": 1483380660,
       "taken_at": "Jan 02, 2017 6:11 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2153112292289734,
+          "id": 1763559287
+        },
+        {
+          "distance": 0.2237997055053711,
+          "id": 1729360547
+        },
+        {
+          "distance": 0.22790509462356567,
+          "id": 1763559391
+        },
+        {
+          "distance": 0.24055558443069458,
+          "id": 1729360547
+        },
+        {
+          "distance": 0.24289220571517944,
+          "id": 1763559049
+        },
+        {
+          "distance": 0.255027174949646,
+          "id": 1763559391
+        },
+        {
+          "distance": 0.2554584741592407,
+          "id": 1729357325
+        },
+        {
+          "distance": 0.25785136222839355,
+          "id": 1763559627
+        },
+        {
+          "distance": 0.2581291198730469,
+          "id": 1763559049
+        },
+        {
+          "distance": 0.2592430114746094,
+          "id": 1729357693
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359959,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "\"Fashion In Flight: A History of Airline Uniform Design\" will be closing later this month...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -29,6 +29,50 @@
       "taken": 1612284600,
       "taken_at": "Feb 02, 2021 4:50 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.057061076164245605,
+          "id": 1729359695
+        },
+        {
+          "distance": 0.10990798473358154,
+          "id": 1729359695
+        },
+        {
+          "distance": 0.13083112239837646,
+          "id": 1947425231
+        },
+        {
+          "distance": 0.13988637924194336,
+          "id": 1880151169
+        },
+        {
+          "distance": 0.1596771478652954,
+          "id": 1729355861
+        },
+        {
+          "distance": 0.16030240058898926,
+          "id": 1947425231
+        },
+        {
+          "distance": 0.162297785282135,
+          "id": 1880151169
+        },
+        {
+          "distance": 0.163702130317688,
+          "id": 1729358695
+        },
+        {
+          "distance": 0.16547119617462158,
+          "id": 1729358153
+        },
+        {
+          "distance": 0.16562598943710327,
+          "id": 1729355861
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1763558873,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777659,
     "wof:name": "\"I know a man who lives in the Bay Area...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

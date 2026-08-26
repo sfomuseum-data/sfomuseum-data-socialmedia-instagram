@@ -27,6 +27,50 @@
       "taken": 1470734400,
       "taken_at": "Aug 09, 2016 9:20 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2296353578567505,
+          "id": 1729360533
+        },
+        {
+          "distance": 0.23173630237579346,
+          "id": 1729362067
+        },
+        {
+          "distance": 0.2325577735900879,
+          "id": 1729360533
+        },
+        {
+          "distance": 0.23450368642807007,
+          "id": 1729359499
+        },
+        {
+          "distance": 0.2353677749633789,
+          "id": 1729360871
+        },
+        {
+          "distance": 0.24628591537475586,
+          "id": 1729359499
+        },
+        {
+          "distance": 0.25073397159576416,
+          "id": 1729360997
+        },
+        {
+          "distance": 0.2508758306503296,
+          "id": 1729360725
+        },
+        {
+          "distance": 0.254558801651001,
+          "id": 1729359037
+        },
+        {
+          "distance": 0.25855016708374023,
+          "id": 1729360717
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1729360453,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Ceramic artist Delphine Massier was known for his large jardinières and stands modeled in relief with Art Nouveau maidens, flowers, and scrolling foliage in shades of bold pink or blue...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -73,5 +117,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -30,6 +30,50 @@
       "taken": 1651488660,
       "taken_at": "May 02, 2022 10:51 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.25933754444122314,
+          "id": 1729357447
+        },
+        {
+          "distance": 0.2633465528488159,
+          "id": 1729361149
+        },
+        {
+          "distance": 0.28289973735809326,
+          "id": 1763559489
+        },
+        {
+          "distance": 0.2856963872909546,
+          "id": 1729362733
+        },
+        {
+          "distance": 0.30053287744522095,
+          "id": 1729357447
+        },
+        {
+          "distance": 0.3027368187904358,
+          "id": 1729360871
+        },
+        {
+          "distance": 0.3059009909629822,
+          "id": 1729360725
+        },
+        {
+          "distance": 0.3144773840904236,
+          "id": 1729357549
+        },
+        {
+          "distance": 0.31734681129455566,
+          "id": 1729359499
+        },
+        {
+          "distance": 0.31747788190841675,
+          "id": 1729359903
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151771,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777663,
     "wof:name": "After Japan opened to international trade, following a prolonged period of isolation from the West, French author Philippe Burty coined the term Japonisme in 1872 to describe the new fervor for all things Japanese...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

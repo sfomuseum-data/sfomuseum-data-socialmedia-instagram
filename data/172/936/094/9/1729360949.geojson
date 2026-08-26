@@ -25,6 +25,50 @@
       "taken": 1457721420,
       "taken_at": "Mar 11, 2016 6:37 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15177512168884277,
+          "id": 1729359893
+        },
+        {
+          "distance": 0.16278910636901855,
+          "id": 1729359893
+        },
+        {
+          "distance": 0.2061808705329895,
+          "id": 1729355109
+        },
+        {
+          "distance": 0.2272471785545349,
+          "id": 1729357575
+        },
+        {
+          "distance": 0.2295832633972168,
+          "id": 1729357661
+        },
+        {
+          "distance": 0.23504716157913208,
+          "id": 1729358833
+        },
+        {
+          "distance": 0.23654764890670776,
+          "id": 1729357215
+        },
+        {
+          "distance": 0.24287915229797363,
+          "id": 1729357215
+        },
+        {
+          "distance": 0.24943971633911133,
+          "id": 1729360005
+        },
+        {
+          "distance": 0.2498287558555603,
+          "id": 1729355109
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360949,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "The Boeing 707, introduced by Pan American World Airways in 1958, was the largest passenger airplane in operation...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

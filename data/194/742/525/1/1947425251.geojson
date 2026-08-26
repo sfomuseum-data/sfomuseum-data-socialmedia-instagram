@@ -27,6 +27,50 @@
       "taken": 1699600380,
       "taken_at": "Nov 10, 2023 7:13 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13249820470809937,
+          "id": 1763559417
+        },
+        {
+          "distance": 0.13625037670135498,
+          "id": 1763559417
+        },
+        {
+          "distance": 0.15253663063049316,
+          "id": 1729355237
+        },
+        {
+          "distance": 0.15588104724884033,
+          "id": 1880151649
+        },
+        {
+          "distance": 0.15839844942092896,
+          "id": 1880150869
+        },
+        {
+          "distance": 0.15914100408554077,
+          "id": 1763558935
+        },
+        {
+          "distance": 0.16551625728607178,
+          "id": 1880151235
+        },
+        {
+          "distance": 0.17201769351959229,
+          "id": 1729355237
+        },
+        {
+          "distance": 0.1746683120727539,
+          "id": 1763558935
+        },
+        {
+          "distance": 0.1792038083076477,
+          "id": 1880150993
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947425251,
-    "wof:lastmodified": 1733175330,
+    "wof:lastmodified": 1787777664,
     "wof:name": "The Aviation Museum and Library will be closed today to observe Veteran’s Day and will reopen tomorrow, Saturday, November 11 at 10am...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

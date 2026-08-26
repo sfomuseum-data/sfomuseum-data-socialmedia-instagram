@@ -28,6 +28,50 @@
       "taken": 1724252640,
       "taken_at": "Aug 21, 2024 3:04 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.08017969131469727,
+          "id": 1947424915
+        },
+        {
+          "distance": 0.08982080221176147,
+          "id": 1947424973
+        },
+        {
+          "distance": 0.1263751983642578,
+          "id": 1947424973
+        },
+        {
+          "distance": 0.13429230451583862,
+          "id": 1947424915
+        },
+        {
+          "distance": 0.24060463905334473,
+          "id": 1729356071
+        },
+        {
+          "distance": 0.24820512533187866,
+          "id": 1729355951
+        },
+        {
+          "distance": 0.2491968274116516,
+          "id": 1763559569
+        },
+        {
+          "distance": 0.25400829315185547,
+          "id": 1729355479
+        },
+        {
+          "distance": 0.25585848093032837,
+          "id": 1729356071
+        },
+        {
+          "distance": 0.2582847476005554,
+          "id": 1763559129
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1947424899,
-    "wof:lastmodified": 1733175320,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Charles Baskerville’s painting style was described as that of an “old school portrait painter.” During the 1940s, he created this Siam (Thailand) poster with Buddhist monks looking at a statue of a guardian (yaksha) in front of one of the country’s most famous landmarks, the Temple of the Emerald Buddha (Wat Phra Kaew), located within the grounds of the Grand Palace in Bangkok...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -70,5 +114,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -31,6 +31,50 @@
       "taken": 1612973640,
       "taken_at": "Feb 10, 2021 4:14 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16785073280334473,
+          "id": 1729358283
+        },
+        {
+          "distance": 0.1911170482635498,
+          "id": 1729358283
+        },
+        {
+          "distance": 0.22403132915496826,
+          "id": 1729360743
+        },
+        {
+          "distance": 0.23308950662612915,
+          "id": 1729360743
+        },
+        {
+          "distance": 0.2666720747947693,
+          "id": 1729359361
+        },
+        {
+          "distance": 0.2676997780799866,
+          "id": 1763559617
+        },
+        {
+          "distance": 0.269012451171875,
+          "id": 1880151443
+        },
+        {
+          "distance": 0.26939892768859863,
+          "id": 1880151589
+        },
+        {
+          "distance": 0.27515870332717896,
+          "id": 1729358905
+        },
+        {
+          "distance": 0.2789595127105713,
+          "id": 1729358575
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763558849,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777659,
     "wof:name": "As rival United Air Lines had exclusive rights to the Boeing 247, TWA (Transcontinental \u0026 Western Air) turned to Douglas Aircraft to develop an improved competitor...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

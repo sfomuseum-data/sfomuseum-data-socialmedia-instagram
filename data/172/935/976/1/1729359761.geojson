@@ -25,6 +25,50 @@
       "taken": 1488480960,
       "taken_at": "Mar 02, 2017 6:56 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12103217840194702,
+          "id": 1729355559
+        },
+        {
+          "distance": 0.15910643339157104,
+          "id": 1729355559
+        },
+        {
+          "distance": 0.1892593502998352,
+          "id": 1729360921
+        },
+        {
+          "distance": 0.1894228458404541,
+          "id": 1880151167
+        },
+        {
+          "distance": 0.194438636302948,
+          "id": 1763559183
+        },
+        {
+          "distance": 0.19603657722473145,
+          "id": 1880151167
+        },
+        {
+          "distance": 0.19780921936035156,
+          "id": 1729357629
+        },
+        {
+          "distance": 0.19821816682815552,
+          "id": 1729359403
+        },
+        {
+          "distance": 0.1998470425605774,
+          "id": 1763558657
+        },
+        {
+          "distance": 0.1998470425605774,
+          "id": 1729359895
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359761,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "The last Continental flight departed #onthisday in 2012...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

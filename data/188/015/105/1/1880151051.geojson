@@ -25,6 +25,50 @@
       "taken": 1679047020,
       "taken_at": "Mar 17, 2023 9:57 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.21785587072372437,
+          "id": 1729358283
+        },
+        {
+          "distance": 0.22842508554458618,
+          "id": 1729360277
+        },
+        {
+          "distance": 0.23701143264770508,
+          "id": 1763559141
+        },
+        {
+          "distance": 0.2383725643157959,
+          "id": 1729355833
+        },
+        {
+          "distance": 0.24355846643447876,
+          "id": 1763559617
+        },
+        {
+          "distance": 0.24397563934326172,
+          "id": 1729355115
+        },
+        {
+          "distance": 0.2447492480278015,
+          "id": 1729356979
+        },
+        {
+          "distance": 0.24654024839401245,
+          "id": 1880151589
+        },
+        {
+          "distance": 0.24810129404067993,
+          "id": 1729359361
+        },
+        {
+          "distance": 0.24954169988632202,
+          "id": 1763559505
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1880151051,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777661,
     "wof:name": "Happy St. Patrick’s Day!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

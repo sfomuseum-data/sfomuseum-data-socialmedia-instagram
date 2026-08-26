@@ -25,6 +25,50 @@
       "taken": 1459503780,
       "taken_at": "Apr 01, 2016 9:43 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3273389935493469,
+          "id": 1729358403
+        },
+        {
+          "distance": 0.3499186635017395,
+          "id": 1729361315
+        },
+        {
+          "distance": 0.36366868019104004,
+          "id": 1729358501
+        },
+        {
+          "distance": 0.37054717540740967,
+          "id": 1729361563
+        },
+        {
+          "distance": 0.3753550052642822,
+          "id": 1763559501
+        },
+        {
+          "distance": 0.37670713663101196,
+          "id": 1729356053
+        },
+        {
+          "distance": 0.37735819816589355,
+          "id": 1729360155
+        },
+        {
+          "distance": 0.3779917359352112,
+          "id": 1729356495
+        },
+        {
+          "distance": 0.3839213252067566,
+          "id": 1729359007
+        },
+        {
+          "distance": 0.3841545581817627,
+          "id": 1729362259
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360869,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Before we could just pull out our handy smart phones to tell us the time in another part of the world, international airlines often gave out manual paper and plastic time converters...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

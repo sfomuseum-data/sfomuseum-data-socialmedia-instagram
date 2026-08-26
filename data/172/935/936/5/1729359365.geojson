@@ -31,6 +31,50 @@
       "taken": 1498810380,
       "taken_at": "Jun 30, 2017 8:13 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15855199098587036,
+          "id": 1729359119
+        },
+        {
+          "distance": 0.20640325546264648,
+          "id": 1729358907
+        },
+        {
+          "distance": 0.2182210087776184,
+          "id": 1729359417
+        },
+        {
+          "distance": 0.21945077180862427,
+          "id": 1763559241
+        },
+        {
+          "distance": 0.22660380601882935,
+          "id": 1729359119
+        },
+        {
+          "distance": 0.22666162252426147,
+          "id": 1729358661
+        },
+        {
+          "distance": 0.2276342511177063,
+          "id": 1729357905
+        },
+        {
+          "distance": 0.2284606695175171,
+          "id": 1729360019
+        },
+        {
+          "distance": 0.23159140348434448,
+          "id": 1729356207
+        },
+        {
+          "distance": 0.24690115451812744,
+          "id": 1729357761
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729359365,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "In 1873, the Sholes \u0026 Glidden Type Writer introduced “QWERTY,” a keyboard layout named for the first six letters at the top-left row of letter keys...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

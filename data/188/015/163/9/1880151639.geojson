@@ -30,6 +30,50 @@
       "taken": 1656001380,
       "taken_at": "Jun 23, 2022 4:23 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.060729801654815674,
+          "id": 1729356265
+        },
+        {
+          "distance": 0.1259077787399292,
+          "id": 1729356265
+        },
+        {
+          "distance": 0.18766802549362183,
+          "id": 1729356049
+        },
+        {
+          "distance": 0.1892135739326477,
+          "id": 1729358503
+        },
+        {
+          "distance": 0.18932020664215088,
+          "id": 1729358503
+        },
+        {
+          "distance": 0.19772708415985107,
+          "id": 1729357255
+        },
+        {
+          "distance": 0.1989421844482422,
+          "id": 1880151413
+        },
+        {
+          "distance": 0.20134955644607544,
+          "id": 1763558979
+        },
+        {
+          "distance": 0.20584166049957275,
+          "id": 1729355509
+        },
+        {
+          "distance": 0.2076699137687683,
+          "id": 1729357255
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151639,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Northeast Airlines was based in Boston, Massachusetts...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

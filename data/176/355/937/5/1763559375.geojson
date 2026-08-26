@@ -33,6 +33,50 @@
       "taken": 1634316000,
       "taken_at": "Oct 15, 2021 4:40 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11688482761383057,
+          "id": 1763559447
+        },
+        {
+          "distance": 0.14440196752548218,
+          "id": 1763559447
+        },
+        {
+          "distance": 0.17524057626724243,
+          "id": 1763559465
+        },
+        {
+          "distance": 0.21158367395401,
+          "id": 1763559465
+        },
+        {
+          "distance": 0.3277896046638489,
+          "id": 1729355939
+        },
+        {
+          "distance": 0.32919150590896606,
+          "id": 1763559573
+        },
+        {
+          "distance": 0.3330894112586975,
+          "id": 1729355933
+        },
+        {
+          "distance": 0.3345049023628235,
+          "id": 1729355939
+        },
+        {
+          "distance": 0.3370934724807739,
+          "id": 1729362091
+        },
+        {
+          "distance": 0.33876103162765503,
+          "id": 1729355933
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1763559375,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "\"On the streets during the fall [in L’viv], they would rake up, sweep up all the leaves...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

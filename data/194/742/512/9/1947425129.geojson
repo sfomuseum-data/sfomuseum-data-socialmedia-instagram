@@ -30,6 +30,50 @@
       "taken": 1706634720,
       "taken_at": "Jan 30, 2024 5:12 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09590470790863037,
+          "id": 1729355083
+        },
+        {
+          "distance": 0.10220158100128174,
+          "id": 1729360409
+        },
+        {
+          "distance": 0.11138945817947388,
+          "id": 1729355083
+        },
+        {
+          "distance": 0.11516940593719482,
+          "id": 1729360409
+        },
+        {
+          "distance": 0.32766997814178467,
+          "id": 1947425117
+        },
+        {
+          "distance": 0.33558565378189087,
+          "id": 1729360933
+        },
+        {
+          "distance": 0.33805185556411743,
+          "id": 1729360933
+        },
+        {
+          "distance": 0.34976130723953247,
+          "id": 1763559327
+        },
+        {
+          "distance": 0.35168594121932983,
+          "id": 1729356319
+        },
+        {
+          "distance": 0.3517577052116394,
+          "id": 1729358571
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1947425129,
-    "wof:lastmodified": 1733175326,
+    "wof:lastmodified": 1787777664,
     "wof:name": "The recent cold snap has us shivering, even in California...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

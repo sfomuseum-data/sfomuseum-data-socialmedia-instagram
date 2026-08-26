@@ -25,6 +25,50 @@
       "taken": 1443809580,
       "taken_at": "Oct 02, 2015 6:13 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.22013187408447266,
+          "id": 1763559487
+        },
+        {
+          "distance": 0.22230082750320435,
+          "id": 1763559327
+        },
+        {
+          "distance": 0.2390325665473938,
+          "id": 1729361531
+        },
+        {
+          "distance": 0.2502029538154602,
+          "id": 1947425117
+        },
+        {
+          "distance": 0.2625150680541992,
+          "id": 1729357473
+        },
+        {
+          "distance": 0.26273268461227417,
+          "id": 1947424925
+        },
+        {
+          "distance": 0.2700387239456177,
+          "id": 1763559487
+        },
+        {
+          "distance": 0.2711639404296875,
+          "id": 1729359455
+        },
+        {
+          "distance": 0.2724608778953552,
+          "id": 1763559327
+        },
+        {
+          "distance": 0.2801792025566101,
+          "id": 1729355323
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361485,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "Travel posters endeavor to showcase a destination’s most interesting attractions...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

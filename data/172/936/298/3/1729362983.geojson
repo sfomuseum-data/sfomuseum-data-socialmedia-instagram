@@ -25,6 +25,50 @@
       "taken": 1339765500,
       "taken_at": "Jun 15, 2012 1:05 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1411890983581543,
+          "id": 1729362989
+        },
+        {
+          "distance": 0.1643940806388855,
+          "id": 1729363007
+        },
+        {
+          "distance": 0.18493670225143433,
+          "id": 1729362977
+        },
+        {
+          "distance": 0.18701350688934326,
+          "id": 1729362989
+        },
+        {
+          "distance": 0.20551294088363647,
+          "id": 1729362977
+        },
+        {
+          "distance": 0.20919477939605713,
+          "id": 1729363015
+        },
+        {
+          "distance": 0.22241079807281494,
+          "id": 1729363007
+        },
+        {
+          "distance": 0.2230479121208191,
+          "id": 1880151751
+        },
+        {
+          "distance": 0.23502236604690552,
+          "id": 1729363021
+        },
+        {
+          "distance": 0.23794031143188477,
+          "id": 1729363015
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362983,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777657,
     "wof:name": "This 1750s microscope is one of only nine known to be by Alexis Magny..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -41,6 +41,50 @@
       "taken": 1546444800,
       "taken_at": "Jan 02, 2019 4:00 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0031409263610839844,
+          "id": 1729358731
+        },
+        {
+          "distance": 0.09681206941604614,
+          "id": 1729358731
+        },
+        {
+          "distance": 0.22507470846176147,
+          "id": 1729355273
+        },
+        {
+          "distance": 0.226823627948761,
+          "id": 1729359107
+        },
+        {
+          "distance": 0.2288590669631958,
+          "id": 1729360981
+        },
+        {
+          "distance": 0.22918593883514404,
+          "id": 1729359107
+        },
+        {
+          "distance": 0.23787879943847656,
+          "id": 1729355977
+        },
+        {
+          "distance": 0.24106186628341675,
+          "id": 1729355273
+        },
+        {
+          "distance": 0.2434462308883667,
+          "id": 1729357463
+        },
+        {
+          "distance": 0.24545186758041382,
+          "id": 1729360109
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -70,7 +114,7 @@
       }
     ],
     "wof:id": 1729357151,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777630,
     "wof:name": "During the mid-1980s, Qantas introduced the widebody Boeing 767 and the upgraded Boeing 747-300...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -87,5 +131,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

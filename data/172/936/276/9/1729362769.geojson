@@ -25,6 +25,50 @@
       "taken": 1365167220,
       "taken_at": "Apr 05, 2013 1:07 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2977144122123718,
+          "id": 1729362701
+        },
+        {
+          "distance": 0.315939724445343,
+          "id": 1729362541
+        },
+        {
+          "distance": 0.3387759327888489,
+          "id": 1729362827
+        },
+        {
+          "distance": 0.3466752767562866,
+          "id": 1729362701
+        },
+        {
+          "distance": 0.36271393299102783,
+          "id": 1729362685
+        },
+        {
+          "distance": 0.3659972548484802,
+          "id": 1729362787
+        },
+        {
+          "distance": 0.3676456809043884,
+          "id": 1729362845
+        },
+        {
+          "distance": 0.36936575174331665,
+          "id": 1729362797
+        },
+        {
+          "distance": 0.37004441022872925,
+          "id": 1729362575
+        },
+        {
+          "distance": 0.37201887369155884,
+          "id": 1729362685
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362769,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "The goal of Wash Out, a 1955 kids' game, was to find \u0026 match clothing cards..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

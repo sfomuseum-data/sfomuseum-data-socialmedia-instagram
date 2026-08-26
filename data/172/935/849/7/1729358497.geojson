@@ -29,6 +29,50 @@
       "taken": 1519488840,
       "taken_at": "Feb 24, 2018 4:14 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.244595468044281,
+          "id": 1880151077
+        },
+        {
+          "distance": 0.26310181617736816,
+          "id": 1947425307
+        },
+        {
+          "distance": 0.26403939723968506,
+          "id": 1880151077
+        },
+        {
+          "distance": 0.27121615409851074,
+          "id": 1729355999
+        },
+        {
+          "distance": 0.30396080017089844,
+          "id": 1729355999
+        },
+        {
+          "distance": 0.30592477321624756,
+          "id": 1729357415
+        },
+        {
+          "distance": 0.30999553203582764,
+          "id": 1880150937
+        },
+        {
+          "distance": 0.3142552971839905,
+          "id": 1729355997
+        },
+        {
+          "distance": 0.3262364864349365,
+          "id": 1729360993
+        },
+        {
+          "distance": 0.33003199100494385,
+          "id": 1729360993
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729358497,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777633,
     "wof:name": "2018 marks the thirty-fifth anniversary of Alonzo King LINES Ballet, a celebrated contemporary ballet company that has been guided by the unique artistic approach of Alonzo King since the early 1980s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

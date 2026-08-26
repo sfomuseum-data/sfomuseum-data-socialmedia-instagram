@@ -31,6 +31,50 @@
       "taken": 1652262900,
       "taken_at": "May 11, 2022 9:55 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.40067368745803833,
+          "id": 1729355407
+        },
+        {
+          "distance": 0.4271247386932373,
+          "id": 1729355407
+        },
+        {
+          "distance": 0.4276196360588074,
+          "id": 1763559337
+        },
+        {
+          "distance": 0.4294319152832031,
+          "id": 1729359325
+        },
+        {
+          "distance": 0.43469685316085815,
+          "id": 1729360013
+        },
+        {
+          "distance": 0.43552321195602417,
+          "id": 1880151569
+        },
+        {
+          "distance": 0.43762844800949097,
+          "id": 1729359957
+        },
+        {
+          "distance": 0.4430014491081238,
+          "id": 1763559337
+        },
+        {
+          "distance": 0.4447920322418213,
+          "id": 1729360013
+        },
+        {
+          "distance": 0.45017027854919434,
+          "id": 1729355695
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151733,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777663,
     "wof:name": "Happy 90th birthday to Valentino Garavani, who was born #onthisday in 1932 in Italy!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

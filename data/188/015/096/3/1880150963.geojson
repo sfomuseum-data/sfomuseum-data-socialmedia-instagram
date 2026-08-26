@@ -29,6 +29,50 @@
       "taken": 1682091300,
       "taken_at": "Apr 21, 2023 3:35 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.03020477294921875,
+          "id": 1947425195
+        },
+        {
+          "distance": 0.0820920467376709,
+          "id": 1880151049
+        },
+        {
+          "distance": 0.08266621828079224,
+          "id": 1947425187
+        },
+        {
+          "distance": 0.09798866510391235,
+          "id": 1947425195
+        },
+        {
+          "distance": 0.11371707916259766,
+          "id": 1880151175
+        },
+        {
+          "distance": 0.12204182147979736,
+          "id": 1880151685
+        },
+        {
+          "distance": 0.12249976396560669,
+          "id": 1880151643
+        },
+        {
+          "distance": 0.12553930282592773,
+          "id": 1880151521
+        },
+        {
+          "distance": 0.1255859136581421,
+          "id": 1880151613
+        },
+        {
+          "distance": 0.1359502673149109,
+          "id": 1880151685
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880150963,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777661,
     "wof:name": "Glenn H. Curtiss (1878–1930) started the Curtiss Company in 1902 to manufacture engines and motorcycles...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

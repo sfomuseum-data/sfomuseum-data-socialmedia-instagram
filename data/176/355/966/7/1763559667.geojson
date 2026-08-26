@@ -30,6 +30,50 @@
       "taken": 1641228600,
       "taken_at": "Jan 03, 2022 4:50 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.21772897243499756,
+          "id": 1729355059
+        },
+        {
+          "distance": 0.24207717180252075,
+          "id": 1880151643
+        },
+        {
+          "distance": 0.2440243363380432,
+          "id": 1880151187
+        },
+        {
+          "distance": 0.2468245029449463,
+          "id": 1729357325
+        },
+        {
+          "distance": 0.2481401562690735,
+          "id": 1729357693
+        },
+        {
+          "distance": 0.2497883439064026,
+          "id": 1729357309
+        },
+        {
+          "distance": 0.2510526776313782,
+          "id": 1947425291
+        },
+        {
+          "distance": 0.25226789712905884,
+          "id": 1729357715
+        },
+        {
+          "distance": 0.2530823349952698,
+          "id": 1729360095
+        },
+        {
+          "distance": 0.2550337314605713,
+          "id": 1947425291
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559667,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "German physician and physicist Hermann von Helmholtz (1821–94) made important contributions to a variety of scientific fields...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

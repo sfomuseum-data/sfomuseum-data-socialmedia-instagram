@@ -27,6 +27,50 @@
       "taken": 1703256720,
       "taken_at": "Dec 22, 2023 2:52 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3407133221626282,
+          "id": 1763559197
+        },
+        {
+          "distance": 0.3561103343963623,
+          "id": 1729360993
+        },
+        {
+          "distance": 0.3580634593963623,
+          "id": 1729361073
+        },
+        {
+          "distance": 0.3627001643180847,
+          "id": 1729355779
+        },
+        {
+          "distance": 0.3714328408241272,
+          "id": 1729361285
+        },
+        {
+          "distance": 0.37149327993392944,
+          "id": 1947425317
+        },
+        {
+          "distance": 0.37360644340515137,
+          "id": 1729355129
+        },
+        {
+          "distance": 0.3767184019088745,
+          "id": 1763559197
+        },
+        {
+          "distance": 0.38073885440826416,
+          "id": 1729356461
+        },
+        {
+          "distance": 0.38106822967529297,
+          "id": 1729355917
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947425183,
-    "wof:lastmodified": 1733175328,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Bay Area artist and educator Libby Black invited a group of undergraduate and graduate students from San Francisco State University’s School of Art to articulate their unique perspectives on home...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -39,6 +39,50 @@
       "taken": 1540888920,
       "taken_at": "Oct 30, 2018 8:42 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.29417484998703003,
+          "id": 1763559091
+        },
+        {
+          "distance": 0.3002443313598633,
+          "id": 1729355515
+        },
+        {
+          "distance": 0.32860058546066284,
+          "id": 1763559091
+        },
+        {
+          "distance": 0.3310951590538025,
+          "id": 1729358341
+        },
+        {
+          "distance": 0.3343316316604614,
+          "id": 1729356481
+        },
+        {
+          "distance": 0.33490991592407227,
+          "id": 1729355541
+        },
+        {
+          "distance": 0.34459638595581055,
+          "id": 1763559317
+        },
+        {
+          "distance": 0.34461671113967896,
+          "id": 1947425011
+        },
+        {
+          "distance": 0.34530341625213623,
+          "id": 1763559271
+        },
+        {
+          "distance": 0.3497166633605957,
+          "id": 1729359681
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729357469,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777631,
     "wof:name": "The streets of San Francisco’s Mission District come alive in Ramin Talaie’s documentation of the city’s annual celebration of Día de Muertos (Day of the Dead), a public holiday observed throughout Mexico and by people of Mexican ancestry everywhere...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

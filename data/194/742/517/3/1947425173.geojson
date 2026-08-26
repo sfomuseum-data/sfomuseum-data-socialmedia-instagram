@@ -34,6 +34,50 @@
       "taken": 1703697540,
       "taken_at": "Dec 27, 2023 5:19 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.27044612169265747,
+          "id": 1729356955
+        },
+        {
+          "distance": 0.27058547735214233,
+          "id": 1947424825
+        },
+        {
+          "distance": 0.2838834524154663,
+          "id": 1729356391
+        },
+        {
+          "distance": 0.2859289050102234,
+          "id": 1729356391
+        },
+        {
+          "distance": 0.29042357206344604,
+          "id": 1729356955
+        },
+        {
+          "distance": 0.29569554328918457,
+          "id": 1729356933
+        },
+        {
+          "distance": 0.306810200214386,
+          "id": 1763559193
+        },
+        {
+          "distance": 0.30929744243621826,
+          "id": 1729356409
+        },
+        {
+          "distance": 0.31002622842788696,
+          "id": 1729356933
+        },
+        {
+          "distance": 0.3140745759010315,
+          "id": 1729356931
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1947425173,
-    "wof:lastmodified": 1733175328,
+    "wof:lastmodified": 1787777664,
     "wof:name": "In the bustling streets of La Paz and the sprawling suburbs of El Alto, Bolivia, nearly three thousand shoe shiners emerge each day in search of clients...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

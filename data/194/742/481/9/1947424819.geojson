@@ -29,6 +29,50 @@
       "taken": 1731429660,
       "taken_at": "Nov 12, 2024 4:41 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2374076247215271,
+          "id": 1729359877
+        },
+        {
+          "distance": 0.2564085125923157,
+          "id": 1729360673
+        },
+        {
+          "distance": 0.25828319787979126,
+          "id": 1729359877
+        },
+        {
+          "distance": 0.27485495805740356,
+          "id": 1729355227
+        },
+        {
+          "distance": 0.2757493853569031,
+          "id": 1729360113
+        },
+        {
+          "distance": 0.2821110486984253,
+          "id": 1947424835
+        },
+        {
+          "distance": 0.28231745958328247,
+          "id": 1729357989
+        },
+        {
+          "distance": 0.2866971492767334,
+          "id": 1763558929
+        },
+        {
+          "distance": 0.2898055911064148,
+          "id": 1729355227
+        },
+        {
+          "distance": 0.2901323437690735,
+          "id": 1763558929
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1947424819,
-    "wof:lastmodified": 1733175318,
+    "wof:lastmodified": 1787777664,
     "wof:name": "The Bay Bridge opened #onthisday in 1936...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

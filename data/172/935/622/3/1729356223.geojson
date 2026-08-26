@@ -34,6 +34,50 @@
       "taken": 1565606460,
       "taken_at": "Aug 12, 2019, 10:41 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23564445972442627,
+          "id": 1880151731
+        },
+        {
+          "distance": 0.2589449882507324,
+          "id": 1880151731
+        },
+        {
+          "distance": 0.28832465410232544,
+          "id": 1947425209
+        },
+        {
+          "distance": 0.2884312868118286,
+          "id": 1947425237
+        },
+        {
+          "distance": 0.29343265295028687,
+          "id": 1947425141
+        },
+        {
+          "distance": 0.3043791651725769,
+          "id": 1729356215
+        },
+        {
+          "distance": 0.31296300888061523,
+          "id": 1947425141
+        },
+        {
+          "distance": 0.3139345645904541,
+          "id": 1729360723
+        },
+        {
+          "distance": 0.3178200125694275,
+          "id": 1729357615
+        },
+        {
+          "distance": 0.3199847936630249,
+          "id": 1947425237
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729356223,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777628,
     "wof:name": "Our conservators are working on a months-long project to restore this United Air Lines DC-8 cutaway model...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

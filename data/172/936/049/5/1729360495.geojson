@@ -28,6 +28,50 @@
       "taken": 1469487300,
       "taken_at": "Jul 25, 2016 10:55 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3421633839607239,
+          "id": 1729361047
+        },
+        {
+          "distance": 0.36643141508102417,
+          "id": 1729360771
+        },
+        {
+          "distance": 0.36974167823791504,
+          "id": 1729361793
+        },
+        {
+          "distance": 0.37352508306503296,
+          "id": 1729361047
+        },
+        {
+          "distance": 0.3735879063606262,
+          "id": 1729356535
+        },
+        {
+          "distance": 0.3826979994773865,
+          "id": 1729359561
+        },
+        {
+          "distance": 0.3828716278076172,
+          "id": 1729359491
+        },
+        {
+          "distance": 0.38697749376296997,
+          "id": 1729360771
+        },
+        {
+          "distance": 0.3870958685874939,
+          "id": 1729359331
+        },
+        {
+          "distance": 0.3946266174316406,
+          "id": 1729359223
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1729360495,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Happy birthday to Alphonse Mucha, who was born yesterday in 1860...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

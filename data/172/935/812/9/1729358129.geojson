@@ -37,6 +37,50 @@
       "taken": 1528889400,
       "taken_at": "Jun 13, 2018 11:30 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11525887250900269,
+          "id": 1880151037
+        },
+        {
+          "distance": 0.11907649040222168,
+          "id": 1729361215
+        },
+        {
+          "distance": 0.142966628074646,
+          "id": 1729356427
+        },
+        {
+          "distance": 0.20529383420944214,
+          "id": 1729361215
+        },
+        {
+          "distance": 0.20871984958648682,
+          "id": 1729356427
+        },
+        {
+          "distance": 0.21583449840545654,
+          "id": 1880151037
+        },
+        {
+          "distance": 0.2603124976158142,
+          "id": 1763559107
+        },
+        {
+          "distance": 0.29492372274398804,
+          "id": 1729358609
+        },
+        {
+          "distance": 0.29517126083374023,
+          "id": 1729358463
+        },
+        {
+          "distance": 0.3237723112106323,
+          "id": 1729358225
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729358129,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Happy 103rd Birthday to Zoe Dell Lantis Nutter!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

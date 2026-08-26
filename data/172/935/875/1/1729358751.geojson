@@ -40,6 +40,50 @@
       "taken": 1514639580,
       "taken_at": "Dec 30, 2017 1:13 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.02044677734375,
+          "id": 1729355813
+        },
+        {
+          "distance": 0.07163947820663452,
+          "id": 1729355813
+        },
+        {
+          "distance": 0.08418065309524536,
+          "id": 1729355659
+        },
+        {
+          "distance": 0.10336154699325562,
+          "id": 1729355659
+        },
+        {
+          "distance": 0.11806130409240723,
+          "id": 1729361109
+        },
+        {
+          "distance": 0.13136476278305054,
+          "id": 1729359597
+        },
+        {
+          "distance": 0.132409930229187,
+          "id": 1729355993
+        },
+        {
+          "distance": 0.14076000452041626,
+          "id": 1947425309
+        },
+        {
+          "distance": 0.14094191789627075,
+          "id": 1729361163
+        },
+        {
+          "distance": 0.14114058017730713,
+          "id": 1729356541
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729358751,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "#OnThisDay in 1934, the first Martin M-130 took off on its first test flight...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

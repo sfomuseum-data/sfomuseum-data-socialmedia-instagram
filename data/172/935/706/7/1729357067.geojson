@@ -35,6 +35,50 @@
       "taken": 1547896260,
       "taken_at": "Jan 19, 2019 11:11 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0031850337982177734,
+          "id": 1729357719
+        },
+        {
+          "distance": 0.06895381212234497,
+          "id": 1729357719
+        },
+        {
+          "distance": 0.19635307788848877,
+          "id": 1729357847
+        },
+        {
+          "distance": 0.19743984937667847,
+          "id": 1729358399
+        },
+        {
+          "distance": 0.2006123661994934,
+          "id": 1729357507
+        },
+        {
+          "distance": 0.20702022314071655,
+          "id": 1729358445
+        },
+        {
+          "distance": 0.20808714628219604,
+          "id": 1729358485
+        },
+        {
+          "distance": 0.2129530906677246,
+          "id": 1729358591
+        },
+        {
+          "distance": 0.21716994047164917,
+          "id": 1729358149
+        },
+        {
+          "distance": 0.21826279163360596,
+          "id": 1729358399
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729357067,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777630,
     "wof:name": "Can cats see into your soul?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

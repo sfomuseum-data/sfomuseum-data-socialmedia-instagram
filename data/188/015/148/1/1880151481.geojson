@@ -30,6 +30,50 @@
       "taken": 1661869980,
       "taken_at": "Aug 30, 2022 2:33 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1347375512123108,
+          "id": 1880151347
+        },
+        {
+          "distance": 0.13839107751846313,
+          "id": 1880151347
+        },
+        {
+          "distance": 0.16096502542495728,
+          "id": 1880151403
+        },
+        {
+          "distance": 0.18821656703948975,
+          "id": 1729357493
+        },
+        {
+          "distance": 0.18831926584243774,
+          "id": 1880151403
+        },
+        {
+          "distance": 0.19168132543563843,
+          "id": 1729355755
+        },
+        {
+          "distance": 0.19964754581451416,
+          "id": 1880151121
+        },
+        {
+          "distance": 0.203666090965271,
+          "id": 1763558827
+        },
+        {
+          "distance": 0.20808452367782593,
+          "id": 1729357033
+        },
+        {
+          "distance": 0.2082449197769165,
+          "id": 1729357733
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151481,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "In the early 1940s, Pan American Airways established regular service to Auckland, New Zealand, with their Boeing 314 Clipper flying boats...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

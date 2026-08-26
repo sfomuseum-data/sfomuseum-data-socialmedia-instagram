@@ -33,6 +33,50 @@
       "taken": 1708532940,
       "taken_at": "Feb 21, 2024 4:29 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2737439274787903,
+          "id": 1880150927
+        },
+        {
+          "distance": 0.2747287154197693,
+          "id": 1729361459
+        },
+        {
+          "distance": 0.2766264081001282,
+          "id": 1763559519
+        },
+        {
+          "distance": 0.2835502028465271,
+          "id": 1947425289
+        },
+        {
+          "distance": 0.2873992323875427,
+          "id": 1729360483
+        },
+        {
+          "distance": 0.2903585433959961,
+          "id": 1729358111
+        },
+        {
+          "distance": 0.29758936166763306,
+          "id": 1880151139
+        },
+        {
+          "distance": 0.2987290620803833,
+          "id": 1947425147
+        },
+        {
+          "distance": 0.30024057626724243,
+          "id": 1729358111
+        },
+        {
+          "distance": 0.30558109283447266,
+          "id": 1729356387
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1947425109,
-    "wof:lastmodified": 1733175326,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Last week, on Valentine’s Day, Mayor London Breed and the City of San Francisco invited same-sex couples to celebrate a historic milestone...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

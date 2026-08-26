@@ -30,6 +30,50 @@
       "taken": 1644857640,
       "taken_at": "Feb 14, 2022 4:54 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3572009801864624,
+          "id": 1880151001
+        },
+        {
+          "distance": 0.3641495704650879,
+          "id": 1763558653
+        },
+        {
+          "distance": 0.3641495704650879,
+          "id": 1729359849
+        },
+        {
+          "distance": 0.3654319643974304,
+          "id": 1729361049
+        },
+        {
+          "distance": 0.3667070269584656,
+          "id": 1763558679
+        },
+        {
+          "distance": 0.36789315938949585,
+          "id": 1880151125
+        },
+        {
+          "distance": 0.3693234324455261,
+          "id": 1729359463
+        },
+        {
+          "distance": 0.3747594356536865,
+          "id": 1729360249
+        },
+        {
+          "distance": 0.3769382834434509,
+          "id": 1763558679
+        },
+        {
+          "distance": 0.37880510091781616,
+          "id": 1729357475
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559609,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Happy Valentine’s Day!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

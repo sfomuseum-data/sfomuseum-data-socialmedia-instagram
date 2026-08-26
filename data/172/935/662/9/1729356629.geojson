@@ -37,6 +37,50 @@
       "taken": 1556190720,
       "taken_at": "Apr 25, 2019, 11:12 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.140863299369812,
+          "id": 1729357369
+        },
+        {
+          "distance": 0.15485233068466187,
+          "id": 1729357369
+        },
+        {
+          "distance": 0.19977790117263794,
+          "id": 1729356621
+        },
+        {
+          "distance": 0.2130211591720581,
+          "id": 1729357375
+        },
+        {
+          "distance": 0.2318413257598877,
+          "id": 1729357375
+        },
+        {
+          "distance": 0.2906448245048523,
+          "id": 1729356621
+        },
+        {
+          "distance": 0.29997754096984863,
+          "id": 1729356665
+        },
+        {
+          "distance": 0.3053068518638611,
+          "id": 1729357253
+        },
+        {
+          "distance": 0.3099777102470398,
+          "id": 1729359937
+        },
+        {
+          "distance": 0.3147115111351013,
+          "id": 1729356981
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729356629,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Jane Short studied jewelry at London’s Central School of Art and Design and was introduced to enameling by her instructor Patrick Furse (1918–2005) during her second year of coursework...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1373617260,
       "taken_at": "Jul 12, 2013 8:21 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.27539771795272827,
+          "id": 1729362613
+        },
+        {
+          "distance": 0.3101670742034912,
+          "id": 1729362637
+        },
+        {
+          "distance": 0.31630611419677734,
+          "id": 1729362823
+        },
+        {
+          "distance": 0.33128857612609863,
+          "id": 1729362659
+        },
+        {
+          "distance": 0.3401740789413452,
+          "id": 1729362397
+        },
+        {
+          "distance": 0.34068208932876587,
+          "id": 1729361787
+        },
+        {
+          "distance": 0.3587985038757324,
+          "id": 1729356205
+        },
+        {
+          "distance": 0.3592166304588318,
+          "id": 1729362677
+        },
+        {
+          "distance": 0.3606245517730713,
+          "id": 1729362363
+        },
+        {
+          "distance": 0.3635362386703491,
+          "id": 1729362647
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362623,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "A telescopic #souvenir from The Great Exhibition of the Works of Industry of All Nations held in London in 1851...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

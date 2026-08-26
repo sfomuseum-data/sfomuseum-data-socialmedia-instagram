@@ -37,6 +37,50 @@
       "taken": 1548789300,
       "taken_at": "Jan 29, 2019 7:15 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.167128324508667,
+          "id": 1729357031
+        },
+        {
+          "distance": 0.19688725471496582,
+          "id": 1729357071
+        },
+        {
+          "distance": 0.2071855068206787,
+          "id": 1763558803
+        },
+        {
+          "distance": 0.2071855068206787,
+          "id": 1729357165
+        },
+        {
+          "distance": 0.2109532356262207,
+          "id": 1729357385
+        },
+        {
+          "distance": 0.21484369039535522,
+          "id": 1729357385
+        },
+        {
+          "distance": 0.21893399953842163,
+          "id": 1729356997
+        },
+        {
+          "distance": 0.21896296739578247,
+          "id": 1729357031
+        },
+        {
+          "distance": 0.22071582078933716,
+          "id": 1880151383
+        },
+        {
+          "distance": 0.22560352087020874,
+          "id": 1729356869
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729357049,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777629,
     "wof:name": "In designing his soup tureen and ladle, Chris Knight stated his intention to “take a breath and move away from [his] confrontational work to make a simple, functional piece of silverware” and “a small comment on the cross-cultural nature of modern society in the millennium…all nationalities have their soup.” Knight’s silverwork is held in private collections as well as public institutions, including the Victoria and Albert Museum, the Goldsmiths’ Company, and the Musée des Arts Décoratifs in Paris...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

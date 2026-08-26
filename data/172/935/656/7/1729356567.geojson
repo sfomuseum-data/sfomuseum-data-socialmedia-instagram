@@ -31,6 +31,50 @@
       "taken": 1557850800,
       "taken_at": "May 14, 2019 4:20 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1494629979133606,
+          "id": 1763558623
+        },
+        {
+          "distance": 0.16344034671783447,
+          "id": 1729361039
+        },
+        {
+          "distance": 0.1731606125831604,
+          "id": 1763558623
+        },
+        {
+          "distance": 0.1735934019088745,
+          "id": 1729361039
+        },
+        {
+          "distance": 0.18025290966033936,
+          "id": 1729358231
+        },
+        {
+          "distance": 0.19611555337905884,
+          "id": 1729358231
+        },
+        {
+          "distance": 0.23619580268859863,
+          "id": 1729360005
+        },
+        {
+          "distance": 0.24445748329162598,
+          "id": 1729360005
+        },
+        {
+          "distance": 0.24652880430221558,
+          "id": 1729355109
+        },
+        {
+          "distance": 0.24716037511825562,
+          "id": 1729358799
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729356567,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Did you know Lufthansa has been one of the longest continually serving international airlines at SFO?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

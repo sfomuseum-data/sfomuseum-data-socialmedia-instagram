@@ -47,6 +47,50 @@
       "taken": 1538851020,
       "taken_at": "Oct 6, 2018, 6:37 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12515681982040405,
+          "id": 1729357585
+        },
+        {
+          "distance": 0.2063124179840088,
+          "id": 1729357585
+        },
+        {
+          "distance": 0.2882544994354248,
+          "id": 1729359037
+        },
+        {
+          "distance": 0.3016652464866638,
+          "id": 1729359525
+        },
+        {
+          "distance": 0.31438493728637695,
+          "id": 1729360615
+        },
+        {
+          "distance": 0.3195353150367737,
+          "id": 1729359409
+        },
+        {
+          "distance": 0.3195353150367737,
+          "id": 1729359069
+        },
+        {
+          "distance": 0.3290681838989258,
+          "id": 1729360871
+        },
+        {
+          "distance": 0.33062803745269775,
+          "id": 1729358445
+        },
+        {
+          "distance": 0.3334066867828369,
+          "id": 1729359525
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -76,7 +120,7 @@
       }
     ],
     "wof:id": 1729357595,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Defined by its reverence for nature and emphasis on organic design, Art Nouveau influenced graphic arts, architecture, interior design, and decorative arts...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -93,5 +137,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1469178300,
       "taken_at": "Jul 22, 2016 9:05 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.02928394079208374,
+          "id": 1729355651
+        },
+        {
+          "distance": 0.053764522075653076,
+          "id": 1729356029
+        },
+        {
+          "distance": 0.08866578340530396,
+          "id": 1729356029
+        },
+        {
+          "distance": 0.09248363971710205,
+          "id": 1729355651
+        },
+        {
+          "distance": 0.12683075666427612,
+          "id": 1880151595
+        },
+        {
+          "distance": 0.13125145435333252,
+          "id": 1880151673
+        },
+        {
+          "distance": 0.15960657596588135,
+          "id": 1729356037
+        },
+        {
+          "distance": 0.16223692893981934,
+          "id": 1729356037
+        },
+        {
+          "distance": 0.16645687818527222,
+          "id": 1729360811
+        },
+        {
+          "distance": 0.16721338033676147,
+          "id": 1880151661
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360513,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "In the 1920s, aerial photography was typically conducted from an open cockpit airplane with a large camera mounted or hand-held at the side of the plane...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

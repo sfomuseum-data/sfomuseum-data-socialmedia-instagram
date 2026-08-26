@@ -32,6 +32,50 @@
       "taken": 1491294780,
       "taken_at": "Apr 04, 2017 8:33 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2635498642921448,
+          "id": 1763559353
+        },
+        {
+          "distance": 0.26492416858673096,
+          "id": 1763559615
+        },
+        {
+          "distance": 0.2668096423149109,
+          "id": 1763558725
+        },
+        {
+          "distance": 0.26789242029190063,
+          "id": 1729360867
+        },
+        {
+          "distance": 0.2686285972595215,
+          "id": 1729356257
+        },
+        {
+          "distance": 0.27048665285110474,
+          "id": 1729356049
+        },
+        {
+          "distance": 0.27218520641326904,
+          "id": 1729359319
+        },
+        {
+          "distance": 0.272358775138855,
+          "id": 1763559353
+        },
+        {
+          "distance": 0.2731141448020935,
+          "id": 1729357961
+        },
+        {
+          "distance": 0.2734779119491577,
+          "id": 1763559109
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729359643,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "This year Austrian Airlines turns 60...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

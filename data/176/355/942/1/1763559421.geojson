@@ -29,6 +29,50 @@
       "taken": 1631810820,
       "taken_at": "Sep 16, 2021 4:47 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.264712929725647,
+          "id": 1729358645
+        },
+        {
+          "distance": 0.27491962909698486,
+          "id": 1729358645
+        },
+        {
+          "distance": 0.29045569896698,
+          "id": 1763559309
+        },
+        {
+          "distance": 0.2904755473136902,
+          "id": 1729358639
+        },
+        {
+          "distance": 0.29936689138412476,
+          "id": 1729358639
+        },
+        {
+          "distance": 0.2996973991394043,
+          "id": 1763559361
+        },
+        {
+          "distance": 0.30192720890045166,
+          "id": 1763559361
+        },
+        {
+          "distance": 0.30358970165252686,
+          "id": 1729361441
+        },
+        {
+          "distance": 0.3151811361312866,
+          "id": 1880151305
+        },
+        {
+          "distance": 0.3180532455444336,
+          "id": 1729358637
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1763559421,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Despite owning at least three potteries in South Carolina, Collin Rhodes likely never worked as a potter himself...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

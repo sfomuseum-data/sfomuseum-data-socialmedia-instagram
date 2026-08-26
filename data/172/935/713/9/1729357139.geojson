@@ -34,6 +34,50 @@
       "taken": 1547024040,
       "taken_at": "Jan 09, 2019 8:54 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.05172133445739746,
+          "id": 1880151331
+        },
+        {
+          "distance": 0.11843711137771606,
+          "id": 1880151331
+        },
+        {
+          "distance": 0.14886587858200073,
+          "id": 1729357261
+        },
+        {
+          "distance": 0.15765219926834106,
+          "id": 1729357261
+        },
+        {
+          "distance": 0.16513937711715698,
+          "id": 1729357653
+        },
+        {
+          "distance": 0.20424598455429077,
+          "id": 1729357417
+        },
+        {
+          "distance": 0.20901894569396973,
+          "id": 1763558925
+        },
+        {
+          "distance": 0.22554248571395874,
+          "id": 1763559129
+        },
+        {
+          "distance": 0.22609025239944458,
+          "id": 1947424841
+        },
+        {
+          "distance": 0.2271708846092224,
+          "id": 1880151745
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729357139,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777630,
     "wof:name": "This is your last week to see \"Isamu Noguchi: Inside and Out.\"..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

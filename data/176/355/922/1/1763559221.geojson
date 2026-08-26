@@ -32,6 +32,50 @@
       "taken": 1616431020,
       "taken_at": "Mar 22, 2021 4:37 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09927761554718018,
+          "id": 1763559177
+        },
+        {
+          "distance": 0.11215871572494507,
+          "id": 1763558863
+        },
+        {
+          "distance": 0.1310216784477234,
+          "id": 1763559177
+        },
+        {
+          "distance": 0.14858084917068481,
+          "id": 1763558863
+        },
+        {
+          "distance": 0.16584688425064087,
+          "id": 1763559067
+        },
+        {
+          "distance": 0.18077045679092407,
+          "id": 1763559231
+        },
+        {
+          "distance": 0.1848652958869934,
+          "id": 1763559067
+        },
+        {
+          "distance": 0.19738703966140747,
+          "id": 1763558885
+        },
+        {
+          "distance": 0.20010513067245483,
+          "id": 1763558885
+        },
+        {
+          "distance": 0.2027009129524231,
+          "id": 1763559231
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1763559221,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "While sitting in the salon (perhaps for the first time in over a year) have you ever wondered how blowout styling started?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

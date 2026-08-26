@@ -25,6 +25,50 @@
       "taken": 1485962700,
       "taken_at": "Feb 01, 2017 3:25 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09324932098388672,
+          "id": 1763559631
+        },
+        {
+          "distance": 0.14741110801696777,
+          "id": 1763559631
+        },
+        {
+          "distance": 0.17622488737106323,
+          "id": 1729359569
+        },
+        {
+          "distance": 0.18291181325912476,
+          "id": 1729356033
+        },
+        {
+          "distance": 0.18447303771972656,
+          "id": 1729357345
+        },
+        {
+          "distance": 0.18825006484985352,
+          "id": 1729359569
+        },
+        {
+          "distance": 0.18827128410339355,
+          "id": 1763559357
+        },
+        {
+          "distance": 0.1887749433517456,
+          "id": 1729357255
+        },
+        {
+          "distance": 0.193667471408844,
+          "id": 1729358929
+        },
+        {
+          "distance": 0.19701075553894043,
+          "id": 1729357017
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359867,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "#OnThisDay in 1964, the #Boeing 727 was introduced by Eastern Air Lines...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

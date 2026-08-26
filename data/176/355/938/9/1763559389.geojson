@@ -31,6 +31,50 @@
       "taken": 1633546020,
       "taken_at": "Oct 06, 2021 6:47 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17841732501983643,
+          "id": 1763559329
+        },
+        {
+          "distance": 0.19815152883529663,
+          "id": 1729358099
+        },
+        {
+          "distance": 0.22170281410217285,
+          "id": 1729357301
+        },
+        {
+          "distance": 0.22280925512313843,
+          "id": 1729357301
+        },
+        {
+          "distance": 0.224187970161438,
+          "id": 1763559359
+        },
+        {
+          "distance": 0.2255825400352478,
+          "id": 1763559359
+        },
+        {
+          "distance": 0.22710704803466797,
+          "id": 1880151437
+        },
+        {
+          "distance": 0.24310797452926636,
+          "id": 1729358431
+        },
+        {
+          "distance": 0.2436225414276123,
+          "id": 1880151437
+        },
+        {
+          "distance": 0.2442556619644165,
+          "id": 1729358315
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559389,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "The design of the A310 was based on the A300, the first widebody airliner produced by Airbus Industrie...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -39,6 +39,50 @@
       "taken": 1526326440,
       "taken_at": "May 14, 2018 7:34 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.08401638269424438,
+          "id": 1729357825
+        },
+        {
+          "distance": 0.10206913948059082,
+          "id": 1729358359
+        },
+        {
+          "distance": 0.10639780759811401,
+          "id": 1729357825
+        },
+        {
+          "distance": 0.124927818775177,
+          "id": 1729358375
+        },
+        {
+          "distance": 0.12914490699768066,
+          "id": 1729358359
+        },
+        {
+          "distance": 0.13740932941436768,
+          "id": 1729357985
+        },
+        {
+          "distance": 0.13740932941436768,
+          "id": 1729357987
+        },
+        {
+          "distance": 0.14767295122146606,
+          "id": 1729357987
+        },
+        {
+          "distance": 0.14767295122146606,
+          "id": 1729357985
+        },
+        {
+          "distance": 0.14774149656295776,
+          "id": 1729358021
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729358223,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Think back to a time when families would gather around the radio to hear the news, weather, and their favorite radio programs...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1462179360,
       "taken_at": "May 02, 2016 8:56 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1148635745048523,
+          "id": 1729360795
+        },
+        {
+          "distance": 0.13949251174926758,
+          "id": 1729360795
+        },
+        {
+          "distance": 0.24053889513015747,
+          "id": 1729362911
+        },
+        {
+          "distance": 0.24455970525741577,
+          "id": 1729358389
+        },
+        {
+          "distance": 0.2554246187210083,
+          "id": 1729358389
+        },
+        {
+          "distance": 0.26174312829971313,
+          "id": 1729362911
+        },
+        {
+          "distance": 0.27047550678253174,
+          "id": 1729357325
+        },
+        {
+          "distance": 0.2706539034843445,
+          "id": 1729356449
+        },
+        {
+          "distance": 0.27429211139678955,
+          "id": 1729356025
+        },
+        {
+          "distance": 0.27834928035736084,
+          "id": 1729357693
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360765,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Last week, artists from Oakland’s Creative Growth Art Center Creative Growth Art Center came to visit the Airport to get a tour of \"Celebrating a Vision: #ArtAndDisability\"...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

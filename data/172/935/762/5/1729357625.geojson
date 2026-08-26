@@ -30,6 +30,50 @@
       "taken": 1538398440,
       "taken_at": "Oct 01, 2018 12:54 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2441403865814209,
+          "id": 1729360795
+        },
+        {
+          "distance": 0.25070518255233765,
+          "id": 1729360795
+        },
+        {
+          "distance": 0.26403969526290894,
+          "id": 1729358389
+        },
+        {
+          "distance": 0.2845318913459778,
+          "id": 1729356025
+        },
+        {
+          "distance": 0.30166590213775635,
+          "id": 1729360765
+        },
+        {
+          "distance": 0.32142502069473267,
+          "id": 1729360765
+        },
+        {
+          "distance": 0.32548975944519043,
+          "id": 1729360455
+        },
+        {
+          "distance": 0.3272944688796997,
+          "id": 1729359185
+        },
+        {
+          "distance": 0.3339243531227112,
+          "id": 1729362911
+        },
+        {
+          "distance": 0.33395177125930786,
+          "id": 1729360455
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729357625,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Earlier last month, our collections team completed the move of over 28,000 collections objects into our new storage facility...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

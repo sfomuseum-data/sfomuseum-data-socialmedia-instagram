@@ -30,6 +30,50 @@
       "taken": 1640712780,
       "taken_at": "Dec 28, 2021 5:33 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09738105535507202,
+          "id": 1729355161
+        },
+        {
+          "distance": 0.16591143608093262,
+          "id": 1729355161
+        },
+        {
+          "distance": 0.17387902736663818,
+          "id": 1763559413
+        },
+        {
+          "distance": 0.17480874061584473,
+          "id": 1763559233
+        },
+        {
+          "distance": 0.17966049909591675,
+          "id": 1729361143
+        },
+        {
+          "distance": 0.17989712953567505,
+          "id": 1729357547
+        },
+        {
+          "distance": 0.18748021125793457,
+          "id": 1729358457
+        },
+        {
+          "distance": 0.18843984603881836,
+          "id": 1729359515
+        },
+        {
+          "distance": 0.1896529197692871,
+          "id": 1729361143
+        },
+        {
+          "distance": 0.1924738883972168,
+          "id": 1763559233
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559677,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Ever wonder what it was like to drive into @flysfo in 1962?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

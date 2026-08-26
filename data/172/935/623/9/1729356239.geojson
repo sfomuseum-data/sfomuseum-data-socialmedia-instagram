@@ -34,6 +34,50 @@
       "taken": 1565683680,
       "taken_at": "Aug 13, 2019 8:08 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1020614504814148,
+          "id": 1729355533
+        },
+        {
+          "distance": 0.10773110389709473,
+          "id": 1729355533
+        },
+        {
+          "distance": 0.1793283224105835,
+          "id": 1729362261
+        },
+        {
+          "distance": 0.19970333576202393,
+          "id": 1729362261
+        },
+        {
+          "distance": 0.24597012996673584,
+          "id": 1729357399
+        },
+        {
+          "distance": 0.2830055356025696,
+          "id": 1729362023
+        },
+        {
+          "distance": 0.2933070659637451,
+          "id": 1729356647
+        },
+        {
+          "distance": 0.29954737424850464,
+          "id": 1729357399
+        },
+        {
+          "distance": 0.3033677935600281,
+          "id": 1729362343
+        },
+        {
+          "distance": 0.303413987159729,
+          "id": 1729362253
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729356239,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777628,
     "wof:name": "Bob Stocksdale (1913–2003) had a masterful talent for revealing dramatic patterns hidden below the surface of rare wood...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

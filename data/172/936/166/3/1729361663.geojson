@@ -33,6 +33,50 @@
       "taken": 1438097340,
       "taken_at": "Jul 28, 2015 3:29 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.25371772050857544,
+          "id": 1729361933
+        },
+        {
+          "distance": 0.2624853849411011,
+          "id": 1729361823
+        },
+        {
+          "distance": 0.275426983833313,
+          "id": 1729361893
+        },
+        {
+          "distance": 0.29130953550338745,
+          "id": 1729361823
+        },
+        {
+          "distance": 0.29850083589553833,
+          "id": 1729361933
+        },
+        {
+          "distance": 0.299219012260437,
+          "id": 1729361893
+        },
+        {
+          "distance": 0.29949086904525757,
+          "id": 1729361839
+        },
+        {
+          "distance": 0.3040120601654053,
+          "id": 1729361815
+        },
+        {
+          "distance": 0.3045176863670349,
+          "id": 1729361839
+        },
+        {
+          "distance": 0.31297850608825684,
+          "id": 1729361723
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729361663,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777646,
     "wof:name": "It's the last week that the @joseffofhollywood exhibition is on display in the International Terminal at SFO...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

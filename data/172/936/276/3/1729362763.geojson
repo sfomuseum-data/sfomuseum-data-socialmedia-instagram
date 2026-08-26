@@ -25,6 +25,50 @@
       "taken": 1363785600,
       "taken_at": "Mar 20, 2013 1:20 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15335285663604736,
+          "id": 1729355285
+        },
+        {
+          "distance": 0.20948868989944458,
+          "id": 1763559493
+        },
+        {
+          "distance": 0.21828436851501465,
+          "id": 1729362059
+        },
+        {
+          "distance": 0.22367602586746216,
+          "id": 1729359429
+        },
+        {
+          "distance": 0.22518789768218994,
+          "id": 1729355285
+        },
+        {
+          "distance": 0.24648594856262207,
+          "id": 1729357871
+        },
+        {
+          "distance": 0.2508094906806946,
+          "id": 1947425089
+        },
+        {
+          "distance": 0.25491243600845337,
+          "id": 1729362059
+        },
+        {
+          "distance": 0.259254515171051,
+          "id": 1729355707
+        },
+        {
+          "distance": 0.260562539100647,
+          "id": 1729355703
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362763,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "Bob Zoell's BFILRYD ('bird' and 'fly') greets passengers between T3 \u0026 the Intl Term..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

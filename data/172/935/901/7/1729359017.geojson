@@ -54,6 +54,50 @@
       "taken": 1507830660,
       "taken_at": "Oct 12, 2017 5:51 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15930604934692383,
+          "id": 1729359055
+        },
+        {
+          "distance": 0.20491212606430054,
+          "id": 1729359055
+        },
+        {
+          "distance": 0.21084541082382202,
+          "id": 1729359101
+        },
+        {
+          "distance": 0.23115438222885132,
+          "id": 1729358939
+        },
+        {
+          "distance": 0.23708152770996094,
+          "id": 1729358989
+        },
+        {
+          "distance": 0.2380189299583435,
+          "id": 1729356347
+        },
+        {
+          "distance": 0.24721640348434448,
+          "id": 1729359233
+        },
+        {
+          "distance": 0.24915385246276855,
+          "id": 1729356347
+        },
+        {
+          "distance": 0.25659990310668945,
+          "id": 1729359435
+        },
+        {
+          "distance": 0.26025527715682983,
+          "id": 1729359439
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -83,7 +127,7 @@
       }
     ],
     "wof:id": 1729359017,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777634,
     "wof:name": "In 1961, the IBM Selectric revolutionized the office world with its speed and efficiency...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -100,5 +144,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -51,6 +51,50 @@
       "taken": 1510674660,
       "taken_at": "Nov 14, 2017 3:51 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1209479570388794,
+          "id": 1763558957
+        },
+        {
+          "distance": 0.13962781429290771,
+          "id": 1729358563
+        },
+        {
+          "distance": 0.1399645209312439,
+          "id": 1763559461
+        },
+        {
+          "distance": 0.14580762386322021,
+          "id": 1729357769
+        },
+        {
+          "distance": 0.1504894495010376,
+          "id": 1729357689
+        },
+        {
+          "distance": 0.15222853422164917,
+          "id": 1729355649
+        },
+        {
+          "distance": 0.15391778945922852,
+          "id": 1729355477
+        },
+        {
+          "distance": 0.15440577268600464,
+          "id": 1729357289
+        },
+        {
+          "distance": 0.1546112298965454,
+          "id": 1729358663
+        },
+        {
+          "distance": 0.1561884880065918,
+          "id": 1763558957
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -80,7 +124,7 @@
       }
     ],
     "wof:id": 1729358921,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Qantas, an acronym for \"Queensland and Northern Territory Aerial Services\", was founded on November 16, 1920...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -97,5 +141,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

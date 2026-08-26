@@ -34,6 +34,50 @@
       "taken": 1580302320,
       "taken_at": "Jan 29, 2020 12:52 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1812129020690918,
+          "id": 1729355953
+        },
+        {
+          "distance": 0.18274623155593872,
+          "id": 1729357729
+        },
+        {
+          "distance": 0.1904679536819458,
+          "id": 1947425155
+        },
+        {
+          "distance": 0.19201767444610596,
+          "id": 1880151387
+        },
+        {
+          "distance": 0.19675785303115845,
+          "id": 1729355953
+        },
+        {
+          "distance": 0.197160005569458,
+          "id": 1729358401
+        },
+        {
+          "distance": 0.20411646366119385,
+          "id": 1947425155
+        },
+        {
+          "distance": 0.20532459020614624,
+          "id": 1763559017
+        },
+        {
+          "distance": 0.2061694860458374,
+          "id": 1729361319
+        },
+        {
+          "distance": 0.20853173732757568,
+          "id": 1880151189
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729355627,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777627,
     "wof:name": "In 1961, the Nut Tree Restaurant commissioned its first model by Edward Chavez after Edwin Power, a pilot and one of the restaurant's owners, had seen Chavez's work in the collection of the National Air and Space Museum...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

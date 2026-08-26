@@ -30,6 +30,50 @@
       "taken": 1635350700,
       "taken_at": "Oct 27, 2021 4:05 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12985366582870483,
+          "id": 1729356383
+        },
+        {
+          "distance": 0.14066606760025024,
+          "id": 1729359579
+        },
+        {
+          "distance": 0.14098727703094482,
+          "id": 1729356565
+        },
+        {
+          "distance": 0.15632033348083496,
+          "id": 1729358315
+        },
+        {
+          "distance": 0.16344314813613892,
+          "id": 1729356383
+        },
+        {
+          "distance": 0.17152303457260132,
+          "id": 1729359769
+        },
+        {
+          "distance": 0.17816686630249023,
+          "id": 1729355303
+        },
+        {
+          "distance": 0.18135392665863037,
+          "id": 1729358315
+        },
+        {
+          "distance": 0.18424290418624878,
+          "id": 1729358993
+        },
+        {
+          "distance": 0.1848304271697998,
+          "id": 1880150957
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559359,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Introduced by Lufthansa and Air France on March 15, 1993, the Airbus A340 is a four engine wide-body jet aircraft built for long-range and ultra-long-range flights...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

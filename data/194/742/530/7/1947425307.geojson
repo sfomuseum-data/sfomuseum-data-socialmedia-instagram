@@ -30,6 +30,50 @@
       "taken": 1692973320,
       "taken_at": "Aug 25, 2023 2:22 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15455657243728638,
+          "id": 1947425219
+        },
+        {
+          "distance": 0.1568930745124817,
+          "id": 1880150937
+        },
+        {
+          "distance": 0.1686435341835022,
+          "id": 1880150971
+        },
+        {
+          "distance": 0.17399495840072632,
+          "id": 1880150937
+        },
+        {
+          "distance": 0.17943084239959717,
+          "id": 1880150907
+        },
+        {
+          "distance": 0.18431788682937622,
+          "id": 1880150997
+        },
+        {
+          "distance": 0.20214420557022095,
+          "id": 1947425219
+        },
+        {
+          "distance": 0.20761781930923462,
+          "id": 1947425261
+        },
+        {
+          "distance": 0.2118396759033203,
+          "id": 1880150971
+        },
+        {
+          "distance": 0.2215428352355957,
+          "id": 1947425261
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1947425307,
-    "wof:lastmodified": 1733175332,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Choreographer Dwight Rhoden’s third work for San Francisco Ballet, \"The Promised Land,\" premiered as part of the 2022 Celebration, the Company’s first in-person season since the COVID-19 pandemic...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

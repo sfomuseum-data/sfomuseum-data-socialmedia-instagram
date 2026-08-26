@@ -56,6 +56,50 @@
       "taken": 1506617400,
       "taken_at": "Sep 28, 2017 4:50 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15936988592147827,
+          "id": 1729359017
+        },
+        {
+          "distance": 0.20514023303985596,
+          "id": 1729359017
+        },
+        {
+          "distance": 0.22327697277069092,
+          "id": 1729356347
+        },
+        {
+          "distance": 0.22760462760925293,
+          "id": 1729358939
+        },
+        {
+          "distance": 0.2315678596496582,
+          "id": 1729359101
+        },
+        {
+          "distance": 0.24027621746063232,
+          "id": 1729358859
+        },
+        {
+          "distance": 0.24976205825805664,
+          "id": 1729359233
+        },
+        {
+          "distance": 0.25089722871780396,
+          "id": 1729359001
+        },
+        {
+          "distance": 0.25682806968688965,
+          "id": 1729356339
+        },
+        {
+          "distance": 0.2579491138458252,
+          "id": 1729358989
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -85,7 +129,7 @@
       }
     ],
     "wof:id": 1729359055,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "European typewriter companies ramped up production in the late 1940s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -102,5 +146,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

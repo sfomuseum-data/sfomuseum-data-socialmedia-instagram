@@ -30,6 +30,50 @@
       "taken": 1632937500,
       "taken_at": "Sep 29, 2021 5:45 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13311409950256348,
+          "id": 1763558963
+        },
+        {
+          "distance": 0.14939755201339722,
+          "id": 1763559343
+        },
+        {
+          "distance": 0.1530313491821289,
+          "id": 1729355709
+        },
+        {
+          "distance": 0.16031306982040405,
+          "id": 1763559313
+        },
+        {
+          "distance": 0.176876962184906,
+          "id": 1729359579
+        },
+        {
+          "distance": 0.179030179977417,
+          "id": 1763559343
+        },
+        {
+          "distance": 0.1792258620262146,
+          "id": 1729356565
+        },
+        {
+          "distance": 0.1814541220664978,
+          "id": 1729356383
+        },
+        {
+          "distance": 0.18597948551177979,
+          "id": 1880151437
+        },
+        {
+          "distance": 0.18608242273330688,
+          "id": 1763559313
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559403,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Following the success of its best-selling, narrow-body 727 trijet, Boeing began developing a twin engine aircraft as its successor, the 757...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

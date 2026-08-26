@@ -30,6 +30,50 @@
       "taken": 1613740260,
       "taken_at": "Feb 19, 2021 1:11 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23331034183502197,
+          "id": 1729357925
+        },
+        {
+          "distance": 0.2497568130493164,
+          "id": 1729359501
+        },
+        {
+          "distance": 0.26963794231414795,
+          "id": 1729360911
+        },
+        {
+          "distance": 0.29809731245040894,
+          "id": 1729356143
+        },
+        {
+          "distance": 0.29812371730804443,
+          "id": 1729359501
+        },
+        {
+          "distance": 0.3010430932044983,
+          "id": 1729360911
+        },
+        {
+          "distance": 0.30514341592788696,
+          "id": 1729358921
+        },
+        {
+          "distance": 0.30657172203063965,
+          "id": 1729357243
+        },
+        {
+          "distance": 0.3132038116455078,
+          "id": 1729360975
+        },
+        {
+          "distance": 0.31455373764038086,
+          "id": 1729361573
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559259,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "#OTD in 1982, the Boeing 757 took its first flight...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1465731480,
       "taken_at": "Jun 12, 2016 11:38 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16014385223388672,
+          "id": 1729361593
+        },
+        {
+          "distance": 0.16137558221817017,
+          "id": 1729360637
+        },
+        {
+          "distance": 0.17994272708892822,
+          "id": 1729359719
+        },
+        {
+          "distance": 0.18467682600021362,
+          "id": 1729359497
+        },
+        {
+          "distance": 0.18558067083358765,
+          "id": 1880151449
+        },
+        {
+          "distance": 0.19830352067947388,
+          "id": 1947425253
+        },
+        {
+          "distance": 0.2021309733390808,
+          "id": 1729361525
+        },
+        {
+          "distance": 0.20689016580581665,
+          "id": 1729360121
+        },
+        {
+          "distance": 0.21188771724700928,
+          "id": 1729361615
+        },
+        {
+          "distance": 0.22412574291229248,
+          "id": 1763559425
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360619,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "In June of 1948, San Francisco International Airport exceeded one million annual passengers...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -39,6 +39,50 @@
       "taken": 1536131580,
       "taken_at": "Sep 5, 2018, 7:13 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13065165281295776,
+          "id": 1729357711
+        },
+        {
+          "distance": 0.167280375957489,
+          "id": 1729360853
+        },
+        {
+          "distance": 0.17002367973327637,
+          "id": 1729357709
+        },
+        {
+          "distance": 0.17417562007904053,
+          "id": 1729361085
+        },
+        {
+          "distance": 0.18603777885437012,
+          "id": 1729360853
+        },
+        {
+          "distance": 0.21262508630752563,
+          "id": 1729357711
+        },
+        {
+          "distance": 0.2131279706954956,
+          "id": 1729360537
+        },
+        {
+          "distance": 0.22508984804153442,
+          "id": 1729361085
+        },
+        {
+          "distance": 0.23298728466033936,
+          "id": 1729357709
+        },
+        {
+          "distance": 0.24295496940612793,
+          "id": 1729355327
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729357717,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Check out these photos from the 1960s as United Air Lines employees fit a Boeing 727 Combi-Freighter with seats...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

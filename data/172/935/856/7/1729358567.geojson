@@ -25,6 +25,50 @@
       "taken": 1518354480,
       "taken_at": "Feb 11, 2018 1:08 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3519176244735718,
+          "id": 1729362061
+        },
+        {
+          "distance": 0.353718101978302,
+          "id": 1729360803
+        },
+        {
+          "distance": 0.35956811904907227,
+          "id": 1729356483
+        },
+        {
+          "distance": 0.3630527853965759,
+          "id": 1763559289
+        },
+        {
+          "distance": 0.3642789125442505,
+          "id": 1729355129
+        },
+        {
+          "distance": 0.36581915616989136,
+          "id": 1729355367
+        },
+        {
+          "distance": 0.36582690477371216,
+          "id": 1880151205
+        },
+        {
+          "distance": 0.3668455481529236,
+          "id": 1729355555
+        },
+        {
+          "distance": 0.36943328380584717,
+          "id": 1729359425
+        },
+        {
+          "distance": 0.3719184398651123,
+          "id": 1729360993
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729358567,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Oakland School for the Arts (OSA) is a nonprofit public school founded by the city's former Mayor, California Governor Jerry Brown...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

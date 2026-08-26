@@ -25,6 +25,50 @@
       "taken": 1487932560,
       "taken_at": "Feb 24, 2017 10:36 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.005738317966461182,
+          "id": 1729359779
+        },
+        {
+          "distance": 0.08453083038330078,
+          "id": 1729359779
+        },
+        {
+          "distance": 0.24708610773086548,
+          "id": 1729360031
+        },
+        {
+          "distance": 0.26337188482284546,
+          "id": 1729357723
+        },
+        {
+          "distance": 0.26864802837371826,
+          "id": 1729359923
+        },
+        {
+          "distance": 0.28593355417251587,
+          "id": 1729359741
+        },
+        {
+          "distance": 0.2917724847793579,
+          "id": 1729358737
+        },
+        {
+          "distance": 0.29491543769836426,
+          "id": 1729359669
+        },
+        {
+          "distance": 0.2980037331581116,
+          "id": 1729359887
+        },
+        {
+          "distance": 0.298909068107605,
+          "id": 1729358735
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1763558647,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777659,
     "wof:name": "A mechanical device patented by Harry Hoke, Jr., required the player to flip a steel ball into a snake’s mouth before the machine would pay out—a feature billed as “Compulsory Skill Control” on the body of the machine...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

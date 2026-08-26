@@ -33,6 +33,50 @@
       "taken": 1648554720,
       "taken_at": "Mar 29, 2022 11:52 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14624875783920288,
+          "id": 1729361107
+        },
+        {
+          "distance": 0.16009390354156494,
+          "id": 1729357841
+        },
+        {
+          "distance": 0.16786712408065796,
+          "id": 1729360561
+        },
+        {
+          "distance": 0.1681799292564392,
+          "id": 1729361029
+        },
+        {
+          "distance": 0.1759917140007019,
+          "id": 1729358071
+        },
+        {
+          "distance": 0.17637264728546143,
+          "id": 1729356707
+        },
+        {
+          "distance": 0.1776944398880005,
+          "id": 1729361255
+        },
+        {
+          "distance": 0.17967158555984497,
+          "id": 1729360591
+        },
+        {
+          "distance": 0.1815546751022339,
+          "id": 1729358009
+        },
+        {
+          "distance": 0.18324464559555054,
+          "id": 1729357841
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1763559527,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Our newest blog post is up and it showcases the intersection of Bay Area sports teams and aviation!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

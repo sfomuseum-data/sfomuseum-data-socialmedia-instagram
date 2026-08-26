@@ -27,6 +27,50 @@
       "taken": 1717170600,
       "taken_at": "May 31, 2024 3:50 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11792880296707153,
+          "id": 1947425145
+        },
+        {
+          "distance": 0.14365214109420776,
+          "id": 1947424939
+        },
+        {
+          "distance": 0.14822977781295776,
+          "id": 1947424975
+        },
+        {
+          "distance": 0.16928160190582275,
+          "id": 1947425145
+        },
+        {
+          "distance": 0.18595999479293823,
+          "id": 1947424975
+        },
+        {
+          "distance": 0.20371294021606445,
+          "id": 1947424939
+        },
+        {
+          "distance": 0.2523919343948364,
+          "id": 1880151621
+        },
+        {
+          "distance": 0.25315433740615845,
+          "id": 1947425273
+        },
+        {
+          "distance": 0.2562655806541443,
+          "id": 1880151557
+        },
+        {
+          "distance": 0.2595376968383789,
+          "id": 1880151677
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947425007,
-    "wof:lastmodified": 1733175323,
+    "wof:lastmodified": 1787777664,
     "wof:name": "The Louisjuste brothers—Sérésier, Janvier, and Joseph (1940–89) were born in Croix-des-Bouquets, Haiti...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

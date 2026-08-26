@@ -33,6 +33,50 @@
       "taken": 1653298380,
       "taken_at": "May 23, 2022 9:33 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.00002193450927734375,
+          "id": 1880151683
+        },
+        {
+          "distance": 0.00002193450927734375,
+          "id": 1880151755
+        },
+        {
+          "distance": 0.08597683906555176,
+          "id": 1880151625
+        },
+        {
+          "distance": 0.09070336818695068,
+          "id": 1880151755
+        },
+        {
+          "distance": 0.09070336818695068,
+          "id": 1880151683
+        },
+        {
+          "distance": 0.12764179706573486,
+          "id": 1880151391
+        },
+        {
+          "distance": 0.13530761003494263,
+          "id": 1880151391
+        },
+        {
+          "distance": 0.14175379276275635,
+          "id": 1880151625
+        },
+        {
+          "distance": 0.1600894331932068,
+          "id": 1729362281
+        },
+        {
+          "distance": 0.16102290153503418,
+          "id": 1729362281
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1880151703,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777663,
     "wof:name": "Light and airy, the María Clara served as the formal female ensemble of the Philippines in the late nineteenth century and was perfectly suited to the humid climate...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

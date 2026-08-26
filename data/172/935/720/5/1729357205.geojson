@@ -36,6 +36,50 @@
       "taken": 1545330000,
       "taken_at": "Dec 20, 2018, 6:20 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1471906304359436,
+          "id": 1729357305
+        },
+        {
+          "distance": 0.18933004140853882,
+          "id": 1729356621
+        },
+        {
+          "distance": 0.21476268768310547,
+          "id": 1729357375
+        },
+        {
+          "distance": 0.22634363174438477,
+          "id": 1729356647
+        },
+        {
+          "distance": 0.2279168963432312,
+          "id": 1729357241
+        },
+        {
+          "distance": 0.22819215059280396,
+          "id": 1729357375
+        },
+        {
+          "distance": 0.23473310470581055,
+          "id": 1729357399
+        },
+        {
+          "distance": 0.25205814838409424,
+          "id": 1729357305
+        },
+        {
+          "distance": 0.2664487957954407,
+          "id": 1729357549
+        },
+        {
+          "distance": 0.27038317918777466,
+          "id": 1729357399
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729357205,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777630,
     "wof:name": "After submitting drawings, plans, and digital renderings, Rowan Berry (b...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

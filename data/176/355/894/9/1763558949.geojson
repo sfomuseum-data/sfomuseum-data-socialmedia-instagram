@@ -25,6 +25,50 @@
       "taken": 1608578400,
       "taken_at": "Dec 21, 2020 7:20 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09871768951416016,
+          "id": 1763559145
+        },
+        {
+          "distance": 0.14332324266433716,
+          "id": 1763559145
+        },
+        {
+          "distance": 0.18915897607803345,
+          "id": 1763559169
+        },
+        {
+          "distance": 0.1912563443183899,
+          "id": 1763559169
+        },
+        {
+          "distance": 0.20546013116836548,
+          "id": 1763559111
+        },
+        {
+          "distance": 0.2178162932395935,
+          "id": 1763559187
+        },
+        {
+          "distance": 0.23194152116775513,
+          "id": 1763558891
+        },
+        {
+          "distance": 0.24995630979537964,
+          "id": 1763558859
+        },
+        {
+          "distance": 0.2544613480567932,
+          "id": 1763559187
+        },
+        {
+          "distance": 0.25929927825927734,
+          "id": 1763558859
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1763558949,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Ever wonder what goes into creating an exhibition at SFO Museum?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

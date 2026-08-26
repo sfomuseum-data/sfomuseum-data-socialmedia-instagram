@@ -25,6 +25,50 @@
       "taken": 1348650840,
       "taken_at": "Sep 26, 2012 9:14 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19320666790008545,
+          "id": 1729362799
+        },
+        {
+          "distance": 0.2143532633781433,
+          "id": 1729361991
+        },
+        {
+          "distance": 0.233406662940979,
+          "id": 1729362799
+        },
+        {
+          "distance": 0.23812878131866455,
+          "id": 1729362371
+        },
+        {
+          "distance": 0.24018824100494385,
+          "id": 1729361991
+        },
+        {
+          "distance": 0.30281901359558105,
+          "id": 1729362371
+        },
+        {
+          "distance": 0.33417201042175293,
+          "id": 1729362761
+        },
+        {
+          "distance": 0.3550798296928406,
+          "id": 1729362903
+        },
+        {
+          "distance": 0.3621721863746643,
+          "id": 1729362761
+        },
+        {
+          "distance": 0.3634865880012512,
+          "id": 1729362903
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362895,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777656,
     "wof:name": "Long layover?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

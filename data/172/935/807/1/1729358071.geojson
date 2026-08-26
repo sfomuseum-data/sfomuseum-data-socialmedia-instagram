@@ -38,6 +38,50 @@
       "taken": 1530193620,
       "taken_at": "Jun 28, 2018 1:47 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.004276633262634277,
+          "id": 1729360591
+        },
+        {
+          "distance": 0.08678704500198364,
+          "id": 1729356541
+        },
+        {
+          "distance": 0.11454004049301147,
+          "id": 1729360591
+        },
+        {
+          "distance": 0.11818104982376099,
+          "id": 1729355659
+        },
+        {
+          "distance": 0.13581818342208862,
+          "id": 1729356541
+        },
+        {
+          "distance": 0.1427059769630432,
+          "id": 1729357041
+        },
+        {
+          "distance": 0.1509554386138916,
+          "id": 1729360081
+        },
+        {
+          "distance": 0.151658833026886,
+          "id": 1947424791
+        },
+        {
+          "distance": 0.15288710594177246,
+          "id": 1729358695
+        },
+        {
+          "distance": 0.15477877855300903,
+          "id": 1880151169
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729358071,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777632,
     "wof:name": "The first regularly scheduled North Atlantic southern route passenger service from the U.S. to Europe started #onthisday in 1939...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

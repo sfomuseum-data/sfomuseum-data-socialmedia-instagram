@@ -34,6 +34,50 @@
       "taken": 1643044860,
       "taken_at": "Jan 24, 2022 5:21 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13174808025360107,
+          "id": 1729359547
+        },
+        {
+          "distance": 0.16115480661392212,
+          "id": 1729359547
+        },
+        {
+          "distance": 0.18206721544265747,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.1950487494468689,
+          "id": 1947425295
+        },
+        {
+          "distance": 0.21413129568099976,
+          "id": 1729355435
+        },
+        {
+          "distance": 0.21915411949157715,
+          "id": 1880151519
+        },
+        {
+          "distance": 0.22124576568603516,
+          "id": 1880151519
+        },
+        {
+          "distance": 0.22527867555618286,
+          "id": 1880151513
+        },
+        {
+          "distance": 0.22982317209243774,
+          "id": 1763559129
+        },
+        {
+          "distance": 0.2317400574684143,
+          "id": 1763559521
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1763559641,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "#Onthisday in 1940, Vito Acconci was born in New York City’s Bronx borough...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

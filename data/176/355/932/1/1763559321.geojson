@@ -31,6 +31,50 @@
       "taken": 1637149560,
       "taken_at": "Nov 17, 2021 11:46 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10857933759689331,
+          "id": 1880151323
+        },
+        {
+          "distance": 0.12021970748901367,
+          "id": 1880151323
+        },
+        {
+          "distance": 0.12158709764480591,
+          "id": 1880151385
+        },
+        {
+          "distance": 0.12171852588653564,
+          "id": 1763559283
+        },
+        {
+          "distance": 0.1276196837425232,
+          "id": 1880151385
+        },
+        {
+          "distance": 0.14009332656860352,
+          "id": 1763559283
+        },
+        {
+          "distance": 0.16180789470672607,
+          "id": 1880151493
+        },
+        {
+          "distance": 0.17170870304107666,
+          "id": 1880151745
+        },
+        {
+          "distance": 0.17706191539764404,
+          "id": 1880151745
+        },
+        {
+          "distance": 0.17970144748687744,
+          "id": 1880151707
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559321,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Bruce Bradbury established Bradbury \u0026 Bradbury Art Wallpapers in 1979...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

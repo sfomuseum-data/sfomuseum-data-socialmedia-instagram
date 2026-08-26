@@ -39,6 +39,50 @@
       "taken": 1525517880,
       "taken_at": "May 05, 2018 10:58 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16447150707244873,
+          "id": 1729358591
+        },
+        {
+          "distance": 0.18991941213607788,
+          "id": 1729358301
+        },
+        {
+          "distance": 0.19493937492370605,
+          "id": 1729358399
+        },
+        {
+          "distance": 0.19776248931884766,
+          "id": 1729358173
+        },
+        {
+          "distance": 0.20138126611709595,
+          "id": 1729358301
+        },
+        {
+          "distance": 0.20456945896148682,
+          "id": 1729358025
+        },
+        {
+          "distance": 0.2077927589416504,
+          "id": 1729358101
+        },
+        {
+          "distance": 0.21032637357711792,
+          "id": 1729358025
+        },
+        {
+          "distance": 0.21852988004684448,
+          "id": 1729358653
+        },
+        {
+          "distance": 0.22201204299926758,
+          "id": 1729358399
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729358275,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Blep!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

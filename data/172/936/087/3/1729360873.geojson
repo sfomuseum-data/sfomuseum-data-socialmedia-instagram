@@ -25,6 +25,50 @@
       "taken": 1459592160,
       "taken_at": "Apr 02, 2016 10:16 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1900784969329834,
+          "id": 1729357231
+        },
+        {
+          "distance": 0.19140923023223877,
+          "id": 1729361289
+        },
+        {
+          "distance": 0.19486284255981445,
+          "id": 1729357989
+        },
+        {
+          "distance": 0.22895759344100952,
+          "id": 1729357237
+        },
+        {
+          "distance": 0.23493999242782593,
+          "id": 1729357237
+        },
+        {
+          "distance": 0.24180495738983154,
+          "id": 1729359953
+        },
+        {
+          "distance": 0.2518567442893982,
+          "id": 1729357225
+        },
+        {
+          "distance": 0.252142071723938,
+          "id": 1729357231
+        },
+        {
+          "distance": 0.2541775107383728,
+          "id": 1729360057
+        },
+        {
+          "distance": 0.2559886574745178,
+          "id": 1729356955
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360873,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Photographer Leo vanMunching has been creating a photographic history of the people, places, and architecture of San Francisco since the 1990s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

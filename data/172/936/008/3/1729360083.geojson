@@ -25,6 +25,50 @@
       "taken": 1479929940,
       "taken_at": "Nov 23, 2016 7:39 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2830326557159424,
+          "id": 1729361863
+        },
+        {
+          "distance": 0.3149638772010803,
+          "id": 1729362359
+        },
+        {
+          "distance": 0.3176437020301819,
+          "id": 1729357135
+        },
+        {
+          "distance": 0.3176437020301819,
+          "id": 1763558801
+        },
+        {
+          "distance": 0.3227275013923645,
+          "id": 1729357693
+        },
+        {
+          "distance": 0.3249075412750244,
+          "id": 1763558801
+        },
+        {
+          "distance": 0.3249075412750244,
+          "id": 1729357135
+        },
+        {
+          "distance": 0.32497626543045044,
+          "id": 1729361669
+        },
+        {
+          "distance": 0.32563430070877075,
+          "id": 1729357325
+        },
+        {
+          "distance": 0.3302203416824341,
+          "id": 1729361797
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360083,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "As SFO Museum's galleries are in unconventional, always-open spaces in the Airport's terminal, we always stage our objects and test our mounts before officially installing objects...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

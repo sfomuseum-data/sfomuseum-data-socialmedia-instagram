@@ -33,6 +33,50 @@
       "taken": 1478688420,
       "taken_at": "Nov 09, 2016 10:47 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12495148181915283,
+          "id": 1729357633
+        },
+        {
+          "distance": 0.16238367557525635,
+          "id": 1729357633
+        },
+        {
+          "distance": 0.24883389472961426,
+          "id": 1729357849
+        },
+        {
+          "distance": 0.252316951751709,
+          "id": 1729357575
+        },
+        {
+          "distance": 0.25683557987213135,
+          "id": 1729356913
+        },
+        {
+          "distance": 0.2573707103729248,
+          "id": 1729355509
+        },
+        {
+          "distance": 0.26314616203308105,
+          "id": 1729357575
+        },
+        {
+          "distance": 0.2713146209716797,
+          "id": 1729356913
+        },
+        {
+          "distance": 0.2763137221336365,
+          "id": 1729355687
+        },
+        {
+          "distance": 0.27685582637786865,
+          "id": 1729357849
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729360145,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "#OnThisDay in 1980, the last commercial flight of the de Havilland DH-106 Comet 4C departed London operated by the British airline, Dan Air...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

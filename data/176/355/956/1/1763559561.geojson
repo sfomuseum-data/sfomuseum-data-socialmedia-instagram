@@ -32,6 +32,50 @@
       "taken": 1646846400,
       "taken_at": "Mar 09, 2022 5:20 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3201941251754761,
+          "id": 1880151711
+        },
+        {
+          "distance": 0.34041088819503784,
+          "id": 1880151775
+        },
+        {
+          "distance": 0.34567582607269287,
+          "id": 1880151775
+        },
+        {
+          "distance": 0.3569332957267761,
+          "id": 1729360329
+        },
+        {
+          "distance": 0.3620714545249939,
+          "id": 1729360165
+        },
+        {
+          "distance": 0.36400145292282104,
+          "id": 1763559655
+        },
+        {
+          "distance": 0.3651503324508667,
+          "id": 1729360313
+        },
+        {
+          "distance": 0.3680739402770996,
+          "id": 1729360027
+        },
+        {
+          "distance": 0.3681489825248718,
+          "id": 1729361731
+        },
+        {
+          "distance": 0.3732220530509949,
+          "id": 1729360329
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1763559561,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "#OnThisDay in 1923, fashion designer André Courrèges (1923–2016) was born in Pau, France...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

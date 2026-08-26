@@ -31,6 +31,50 @@
       "taken": 1654019700,
       "taken_at": "May 31, 2022 5:55 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23413878679275513,
+          "id": 1880151641
+        },
+        {
+          "distance": 0.2400110960006714,
+          "id": 1880151661
+        },
+        {
+          "distance": 0.24983417987823486,
+          "id": 1880151595
+        },
+        {
+          "distance": 0.2529922127723694,
+          "id": 1729355471
+        },
+        {
+          "distance": 0.25331389904022217,
+          "id": 1880151673
+        },
+        {
+          "distance": 0.2606244683265686,
+          "id": 1729357679
+        },
+        {
+          "distance": 0.2636258006095886,
+          "id": 1880151595
+        },
+        {
+          "distance": 0.26758503913879395,
+          "id": 1880151673
+        },
+        {
+          "distance": 0.26855379343032837,
+          "id": 1880151611
+        },
+        {
+          "distance": 0.2703555226325989,
+          "id": 1880151661
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151697,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777663,
     "wof:name": "NEW BLOG ALERT: “Katherine Stinson in San Francisco 1917” by our Curator of Aviation Dennis Sharp is up on our blog...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

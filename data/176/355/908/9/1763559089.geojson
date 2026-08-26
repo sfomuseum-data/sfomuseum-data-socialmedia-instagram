@@ -30,6 +30,50 @@
       "taken": 1624551360,
       "taken_at": "Jun 24, 2021 4:16 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13641750812530518,
+          "id": 1763558855
+        },
+        {
+          "distance": 0.16022908687591553,
+          "id": 1763559175
+        },
+        {
+          "distance": 0.16336101293563843,
+          "id": 1763559175
+        },
+        {
+          "distance": 0.17567211389541626,
+          "id": 1763558855
+        },
+        {
+          "distance": 0.18632715940475464,
+          "id": 1763559205
+        },
+        {
+          "distance": 0.20781487226486206,
+          "id": 1763559245
+        },
+        {
+          "distance": 0.20912319421768188,
+          "id": 1763559227
+        },
+        {
+          "distance": 0.21134191751480103,
+          "id": 1763559463
+        },
+        {
+          "distance": 0.22365784645080566,
+          "id": 1763559433
+        },
+        {
+          "distance": 0.230394184589386,
+          "id": 1763559227
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559089,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Motorcycle clubs have offered camaraderie and support for motorcyclists since the earliest days of riding...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

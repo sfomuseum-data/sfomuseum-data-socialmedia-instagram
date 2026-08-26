@@ -25,6 +25,50 @@
       "taken": 1458757260,
       "taken_at": "Mar 23, 2016 6:21 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06151413917541504,
+          "id": 1763559475
+        },
+        {
+          "distance": 0.06763052940368652,
+          "id": 1729360149
+        },
+        {
+          "distance": 0.10741573572158813,
+          "id": 1729360657
+        },
+        {
+          "distance": 0.11114901304244995,
+          "id": 1729360149
+        },
+        {
+          "distance": 0.12545883655548096,
+          "id": 1763559475
+        },
+        {
+          "distance": 0.17332637310028076,
+          "id": 1729360657
+        },
+        {
+          "distance": 0.18674695491790771,
+          "id": 1729356563
+        },
+        {
+          "distance": 0.19683021306991577,
+          "id": 1729360473
+        },
+        {
+          "distance": 0.1969701051712036,
+          "id": 1729359775
+        },
+        {
+          "distance": 0.1998903751373291,
+          "id": 1729359775
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360907,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "These TWA (Trans World Airlines) air hostesses were the graduating class of the summer of 1960...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

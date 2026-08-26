@@ -35,6 +35,50 @@
       "taken": 1678097700,
       "taken_at": "Mar 06, 2023 10:15 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3786545395851135,
+          "id": 1947425011
+        },
+        {
+          "distance": 0.3924139142036438,
+          "id": 1729356941
+        },
+        {
+          "distance": 0.3940684199333191,
+          "id": 1947425011
+        },
+        {
+          "distance": 0.4042958617210388,
+          "id": 1729355999
+        },
+        {
+          "distance": 0.4102979898452759,
+          "id": 1729355555
+        },
+        {
+          "distance": 0.41079550981521606,
+          "id": 1729360803
+        },
+        {
+          "distance": 0.41620057821273804,
+          "id": 1729355999
+        },
+        {
+          "distance": 0.41678619384765625,
+          "id": 1763559193
+        },
+        {
+          "distance": 0.4173520803451538,
+          "id": 1729355997
+        },
+        {
+          "distance": 0.41776835918426514,
+          "id": 1729360803
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1880151073,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "California College of the Arts’ (CCA) design program includes a course called Machinic Modernity...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

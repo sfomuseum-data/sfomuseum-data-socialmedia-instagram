@@ -35,6 +35,50 @@
       "taken": 1627575180,
       "taken_at": "Jul 29, 2021 4:13 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.22383975982666016,
+          "id": 1729357871
+        },
+        {
+          "distance": 0.22855204343795776,
+          "id": 1947425089
+        },
+        {
+          "distance": 0.23473501205444336,
+          "id": 1729355701
+        },
+        {
+          "distance": 0.23544234037399292,
+          "id": 1729355707
+        },
+        {
+          "distance": 0.23650681972503662,
+          "id": 1880151621
+        },
+        {
+          "distance": 0.24070823192596436,
+          "id": 1880151337
+        },
+        {
+          "distance": 0.24255406856536865,
+          "id": 1729361339
+        },
+        {
+          "distance": 0.24308139085769653,
+          "id": 1947425087
+        },
+        {
+          "distance": 0.24619364738464355,
+          "id": 1729355331
+        },
+        {
+          "distance": 0.24963122606277466,
+          "id": 1729361865
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1763559039,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "The sculptures in “Bird Plane House, Shell, Intersection” by Gay Outlaw are based on simple geometric forms, however, the surface treatments of each work render them engaging and approachable...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

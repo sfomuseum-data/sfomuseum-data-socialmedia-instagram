@@ -40,6 +40,50 @@
       "taken": 1538498100,
       "taken_at": "Oct 02, 2018 4:35 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23335200548171997,
+          "id": 1729357951
+        },
+        {
+          "distance": 0.24303537607192993,
+          "id": 1729358435
+        },
+        {
+          "distance": 0.2597784996032715,
+          "id": 1729356307
+        },
+        {
+          "distance": 0.26075851917266846,
+          "id": 1729358039
+        },
+        {
+          "distance": 0.26348602771759033,
+          "id": 1729358369
+        },
+        {
+          "distance": 0.26743119955062866,
+          "id": 1729356719
+        },
+        {
+          "distance": 0.26957929134368896,
+          "id": 1729357979
+        },
+        {
+          "distance": 0.26957929134368896,
+          "id": 1729357975
+        },
+        {
+          "distance": 0.2713940739631653,
+          "id": 1729358039
+        },
+        {
+          "distance": 0.2715456485748291,
+          "id": 1729358309
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729357613,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Did you know our exhibition, \"On The Radio\" is full of local Bay Area history?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -37,6 +37,50 @@
       "taken": 1531057440,
       "taken_at": "Jul 08, 2018 1:44 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14492839574813843,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.16399019956588745,
+          "id": 1729359429
+        },
+        {
+          "distance": 0.17316150665283203,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.17352354526519775,
+          "id": 1729355707
+        },
+        {
+          "distance": 0.19030463695526123,
+          "id": 1729356389
+        },
+        {
+          "distance": 0.19286811351776123,
+          "id": 1763558931
+        },
+        {
+          "distance": 0.19515961408615112,
+          "id": 1729359429
+        },
+        {
+          "distance": 0.19635248184204102,
+          "id": 1729355723
+        },
+        {
+          "distance": 0.19940155744552612,
+          "id": 1763559555
+        },
+        {
+          "distance": 0.20005840063095093,
+          "id": 1729355723
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729357999,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777632,
     "wof:name": "From the Golden Gate Bridge’s iconic International Orange color, to the Painted Ladies in the Western Edition, \"Everywhere a Color\" pays homage to San Francisco...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -34,6 +34,50 @@
       "taken": 1440495060,
       "taken_at": "Aug 25, 2015 9:31 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.27692925930023193,
+          "id": 1729362763
+        },
+        {
+          "distance": 0.2881760597229004,
+          "id": 1729355285
+        },
+        {
+          "distance": 0.30876094102859497,
+          "id": 1763559493
+        },
+        {
+          "distance": 0.31545019149780273,
+          "id": 1729355285
+        },
+        {
+          "distance": 0.322093665599823,
+          "id": 1729362763
+        },
+        {
+          "distance": 0.33769136667251587,
+          "id": 1763559493
+        },
+        {
+          "distance": 0.39858871698379517,
+          "id": 1729361631
+        },
+        {
+          "distance": 0.40450310707092285,
+          "id": 1729361679
+        },
+        {
+          "distance": 0.4062268137931824,
+          "id": 1729362059
+        },
+        {
+          "distance": 0.42488646507263184,
+          "id": 1729361567
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729361587,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777646,
     "wof:name": "BFILRYD by Bob Zoell combines his two lifelong passions for language and birds to create a playful world of singing birds sitting on branches composed of letters and punctuation marks...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

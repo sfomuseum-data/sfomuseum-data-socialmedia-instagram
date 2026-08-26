@@ -29,6 +29,50 @@
       "taken": 1655483400,
       "taken_at": "Jun 17, 2022 4:30 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20817524194717407,
+          "id": 1880151765
+        },
+        {
+          "distance": 0.2102205753326416,
+          "id": 1729359503
+        },
+        {
+          "distance": 0.21720904111862183,
+          "id": 1729355385
+        },
+        {
+          "distance": 0.22243714332580566,
+          "id": 1763558903
+        },
+        {
+          "distance": 0.22328519821166992,
+          "id": 1729357679
+        },
+        {
+          "distance": 0.22335129976272583,
+          "id": 1729355385
+        },
+        {
+          "distance": 0.22388362884521484,
+          "id": 1729357679
+        },
+        {
+          "distance": 0.2251400351524353,
+          "id": 1729361355
+        },
+        {
+          "distance": 0.23003333806991577,
+          "id": 1729361695
+        },
+        {
+          "distance": 0.2329634428024292,
+          "id": 1729357953
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880151645,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "From a crop-dusting operation to a global airline, Delta was founded in 1925 as Huff Daland Dusters, one of the first aerial crop-dusting companies, and incorporated as Delta Air Service in 1928, the company’s first passenger flight occurred #onthisday in 1929...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

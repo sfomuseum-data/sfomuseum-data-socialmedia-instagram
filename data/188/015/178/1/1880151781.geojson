@@ -30,6 +30,50 @@
       "taken": 1651056300,
       "taken_at": "Apr 27, 2022 10:45 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1519426703453064,
+          "id": 1880151785
+        },
+        {
+          "distance": 0.20476192235946655,
+          "id": 1729359429
+        },
+        {
+          "distance": 0.20485031604766846,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.21695327758789062,
+          "id": 1763559685
+        },
+        {
+          "distance": 0.22010916471481323,
+          "id": 1880151785
+        },
+        {
+          "distance": 0.22018349170684814,
+          "id": 1729356499
+        },
+        {
+          "distance": 0.22239601612091064,
+          "id": 1947425135
+        },
+        {
+          "distance": 0.22334438562393188,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.2245681881904602,
+          "id": 1880151541
+        },
+        {
+          "distance": 0.2248518466949463,
+          "id": 1729356893
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151781,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777663,
     "wof:name": "Interior design advice from the 19th century that holds up today: influential architect and furniture designer Charles Locke Eastlake encouraged a threefold division of walls in 1867, explaining to his readers that: “Paperhangings should in no case be allowed to cover the whole space of a wall from skirting to ceiling….The most dreary method of decorating the wall of a sitting-room is to cover it all over with an unrelieved pattern of monotonous design.”   Fashionable Aesthetic Movement interiors displayed a dado, which covered the lower part of the wall and provided an alternative to wood paneling...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

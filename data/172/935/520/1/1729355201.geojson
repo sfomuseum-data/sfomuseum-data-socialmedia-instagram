@@ -29,6 +29,50 @@
       "taken": 1594646580,
       "taken_at": "Jul 13, 2020 1:23 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20907700061798096,
+          "id": 1880151689
+        },
+        {
+          "distance": 0.21428751945495605,
+          "id": 1880151689
+        },
+        {
+          "distance": 0.27199095487594604,
+          "id": 1763559311
+        },
+        {
+          "distance": 0.27586621046066284,
+          "id": 1880151275
+        },
+        {
+          "distance": 0.2890503406524658,
+          "id": 1729356841
+        },
+        {
+          "distance": 0.2952623963356018,
+          "id": 1880151275
+        },
+        {
+          "distance": 0.303905725479126,
+          "id": 1729358393
+        },
+        {
+          "distance": 0.30885690450668335,
+          "id": 1763559311
+        },
+        {
+          "distance": 0.3138996362686157,
+          "id": 1763559095
+        },
+        {
+          "distance": 0.3147392272949219,
+          "id": 1729362949
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729355201,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777619,
     "wof:name": "While many of us at SFO Museum continue to work from home, we have started a gradual return to onsite exhibition production and collections work...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

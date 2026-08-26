@@ -45,6 +45,50 @@
       "taken": 1511893440,
       "taken_at": "Nov 28, 2017, 6:24 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0002478957176208496,
+          "id": 1763558701
+        },
+        {
+          "distance": 0.11227405071258545,
+          "id": 1763558701
+        },
+        {
+          "distance": 0.2840443253517151,
+          "id": 1729360367
+        },
+        {
+          "distance": 0.30433887243270874,
+          "id": 1729356317
+        },
+        {
+          "distance": 0.30713242292404175,
+          "id": 1729360367
+        },
+        {
+          "distance": 0.307184636592865,
+          "id": 1729359329
+        },
+        {
+          "distance": 0.30742448568344116,
+          "id": 1729359329
+        },
+        {
+          "distance": 0.3106120228767395,
+          "id": 1729356329
+        },
+        {
+          "distance": 0.31505733728408813,
+          "id": 1729359605
+        },
+        {
+          "distance": 0.3227084279060364,
+          "id": 1729356317
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -74,7 +118,7 @@
       }
     ],
     "wof:id": 1729358871,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777634,
     "wof:name": "The Universal Airlines Corporation was founded in July 1928...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -91,5 +135,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

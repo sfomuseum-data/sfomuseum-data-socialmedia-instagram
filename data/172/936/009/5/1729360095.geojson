@@ -25,6 +25,50 @@
       "taken": 1480070820,
       "taken_at": "Nov 25, 2016 10:47 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12986397743225098,
+          "id": 1947424999
+        },
+        {
+          "distance": 0.16711550951004028,
+          "id": 1880151305
+        },
+        {
+          "distance": 0.17302316427230835,
+          "id": 1729360667
+        },
+        {
+          "distance": 0.1786419153213501,
+          "id": 1947425291
+        },
+        {
+          "distance": 0.18540984392166138,
+          "id": 1729361145
+        },
+        {
+          "distance": 0.1884041428565979,
+          "id": 1729355249
+        },
+        {
+          "distance": 0.19028204679489136,
+          "id": 1729360823
+        },
+        {
+          "distance": 0.19061541557312012,
+          "id": 1763558835
+        },
+        {
+          "distance": 0.1958962082862854,
+          "id": 1729355059
+        },
+        {
+          "distance": 0.201604425907135,
+          "id": 1880151187
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360095,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "The Aviation Museum and Library is closed today...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

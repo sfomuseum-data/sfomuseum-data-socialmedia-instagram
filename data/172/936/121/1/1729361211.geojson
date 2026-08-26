@@ -25,6 +25,50 @@
       "taken": 1451734680,
       "taken_at": "Jan 02, 2016 11:38 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.28224295377731323,
+          "id": 1729357097
+        },
+        {
+          "distance": 0.29900693893432617,
+          "id": 1729355023
+        },
+        {
+          "distance": 0.3005586862564087,
+          "id": 1729359427
+        },
+        {
+          "distance": 0.3130369186401367,
+          "id": 1729361875
+        },
+        {
+          "distance": 0.32308441400527954,
+          "id": 1729357429
+        },
+        {
+          "distance": 0.33133572340011597,
+          "id": 1729359681
+        },
+        {
+          "distance": 0.3370269536972046,
+          "id": 1729357545
+        },
+        {
+          "distance": 0.35114556550979614,
+          "id": 1729356549
+        },
+        {
+          "distance": 0.3527500629425049,
+          "id": 1729356001
+        },
+        {
+          "distance": 0.353238582611084,
+          "id": 1729358233
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361211,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "Stuart Rome has worked as a photographer since the 1970s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

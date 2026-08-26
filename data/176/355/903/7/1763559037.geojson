@@ -31,6 +31,50 @@
       "taken": 1602240900,
       "taken_at": "Oct 09, 2020 10:55 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14806264638900757,
+          "id": 1880151573
+        },
+        {
+          "distance": 0.18754488229751587,
+          "id": 1880151573
+        },
+        {
+          "distance": 0.20125126838684082,
+          "id": 1729359011
+        },
+        {
+          "distance": 0.20742124319076538,
+          "id": 1763559183
+        },
+        {
+          "distance": 0.20771080255508423,
+          "id": 1729360983
+        },
+        {
+          "distance": 0.21414148807525635,
+          "id": 1729359011
+        },
+        {
+          "distance": 0.22934108972549438,
+          "id": 1729360677
+        },
+        {
+          "distance": 0.23901152610778809,
+          "id": 1763559183
+        },
+        {
+          "distance": 0.24169456958770752,
+          "id": 1763559057
+        },
+        {
+          "distance": 0.24727505445480347,
+          "id": 1729360259
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559037,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "On October 11, 2016, @flySFO’s new air traffic control tower was officially put into operation...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

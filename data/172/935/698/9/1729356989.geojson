@@ -37,6 +37,50 @@
       "taken": 1549388400,
       "taken_at": "Feb 5, 2019, 5:40 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0041561126708984375,
+          "id": 1763558797
+        },
+        {
+          "distance": 0.07592284679412842,
+          "id": 1947425309
+        },
+        {
+          "distance": 0.07767283916473389,
+          "id": 1729356173
+        },
+        {
+          "distance": 0.083476722240448,
+          "id": 1763558797
+        },
+        {
+          "distance": 0.08559095859527588,
+          "id": 1729361177
+        },
+        {
+          "distance": 0.09800893068313599,
+          "id": 1729361163
+        },
+        {
+          "distance": 0.12127971649169922,
+          "id": 1729355993
+        },
+        {
+          "distance": 0.12370526790618896,
+          "id": 1729359597
+        },
+        {
+          "distance": 0.13329952955245972,
+          "id": 1729361109
+        },
+        {
+          "distance": 0.14849090576171875,
+          "id": 1729355659
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729356989,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "#OnThisDay in 1939, Pan American Airways’ first scheduled Clipper flight from Treasure Island departed for Asia...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

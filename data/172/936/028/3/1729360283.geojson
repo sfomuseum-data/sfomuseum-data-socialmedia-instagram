@@ -25,6 +25,50 @@
       "taken": 1475056680,
       "taken_at": "Sep 28, 2016 9:58 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.175195574760437,
+          "id": 1729362867
+        },
+        {
+          "distance": 0.18682265281677246,
+          "id": 1880150905
+        },
+        {
+          "distance": 0.20136022567749023,
+          "id": 1729362867
+        },
+        {
+          "distance": 0.20714890956878662,
+          "id": 1880150905
+        },
+        {
+          "distance": 0.24432367086410522,
+          "id": 1880151713
+        },
+        {
+          "distance": 0.2564534544944763,
+          "id": 1729358879
+        },
+        {
+          "distance": 0.2569795250892639,
+          "id": 1729355363
+        },
+        {
+          "distance": 0.2602764964103699,
+          "id": 1729356225
+        },
+        {
+          "distance": 0.2634243369102478,
+          "id": 1729358879
+        },
+        {
+          "distance": 0.2648612856864929,
+          "id": 1729359429
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360283,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "\"Gateway\" by Ik-Joong Kang contains 5,400 unique 3 in...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

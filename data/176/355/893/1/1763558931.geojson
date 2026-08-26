@@ -25,6 +25,50 @@
       "taken": 1609847280,
       "taken_at": "Jan 05, 2021 11:48 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.003928661346435547,
+          "id": 1763559555
+        },
+        {
+          "distance": 0.09721028804779053,
+          "id": 1763559555
+        },
+        {
+          "distance": 0.16874158382415771,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.18741488456726074,
+          "id": 1763559469
+        },
+        {
+          "distance": 0.19299650192260742,
+          "id": 1729357999
+        },
+        {
+          "distance": 0.19533401727676392,
+          "id": 1763559105
+        },
+        {
+          "distance": 0.20443201065063477,
+          "id": 1880151585
+        },
+        {
+          "distance": 0.20892268419265747,
+          "id": 1763559685
+        },
+        {
+          "distance": 0.21074903011322021,
+          "id": 1729357999
+        },
+        {
+          "distance": 0.21470290422439575,
+          "id": 1880151285
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1763558931,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "“Sanctuary/Sanctuario” by Juana Alicia and Emmanuel C. Montoya is a family portrait of the Bay Area, a place rich with many different cultures...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

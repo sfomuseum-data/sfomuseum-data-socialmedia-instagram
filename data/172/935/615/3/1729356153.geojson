@@ -34,6 +34,50 @@
       "taken": 1566576600,
       "taken_at": "Aug 23, 2019, 4:10 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0679503083229065,
+          "id": 1729355965
+        },
+        {
+          "distance": 0.11861801147460938,
+          "id": 1729355965
+        },
+        {
+          "distance": 0.30508244037628174,
+          "id": 1729355955
+        },
+        {
+          "distance": 0.3324882388114929,
+          "id": 1729355955
+        },
+        {
+          "distance": 0.33551138639450073,
+          "id": 1729356635
+        },
+        {
+          "distance": 0.3423968553543091,
+          "id": 1729355137
+        },
+        {
+          "distance": 0.34353500604629517,
+          "id": 1729356155
+        },
+        {
+          "distance": 0.3483884930610657,
+          "id": 1729358675
+        },
+        {
+          "distance": 0.34875965118408203,
+          "id": 1729362739
+        },
+        {
+          "distance": 0.35005509853363037,
+          "id": 1729355957
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729356153,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777628,
     "wof:name": "Zuber et Cie began producing panoramic papers in the 1800s and continues to produce wallpaper to this day...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

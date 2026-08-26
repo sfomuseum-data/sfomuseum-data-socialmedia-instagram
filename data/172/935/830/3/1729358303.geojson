@@ -32,6 +32,50 @@
       "taken": 1524856920,
       "taken_at": "Apr 27, 2018 7:22 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.124930739402771,
+          "id": 1947424989
+        },
+        {
+          "distance": 0.16916394233703613,
+          "id": 1947424989
+        },
+        {
+          "distance": 0.18604272603988647,
+          "id": 1729356953
+        },
+        {
+          "distance": 0.19025272130966187,
+          "id": 1729360781
+        },
+        {
+          "distance": 0.2016093134880066,
+          "id": 1729360093
+        },
+        {
+          "distance": 0.20701080560684204,
+          "id": 1729359645
+        },
+        {
+          "distance": 0.2247145175933838,
+          "id": 1729359307
+        },
+        {
+          "distance": 0.22500914335250854,
+          "id": 1729358395
+        },
+        {
+          "distance": 0.22526514530181885,
+          "id": 1729355415
+        },
+        {
+          "distance": 0.2263561487197876,
+          "id": 1729356953
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729358303,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "The Boeing 727 is a medium range, intermediate-capacity jetliner that features a clean swept wing, a high horizontal stabilizer, and a unique tri-jet configuration...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

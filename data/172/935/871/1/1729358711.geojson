@@ -38,6 +38,50 @@
       "taken": 1516104360,
       "taken_at": "Jan 16, 2018 12:06 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0055765509605407715,
+          "id": 1729357793
+        },
+        {
+          "distance": 0.0993306040763855,
+          "id": 1729357793
+        },
+        {
+          "distance": 0.1698938012123108,
+          "id": 1729358147
+        },
+        {
+          "distance": 0.17876672744750977,
+          "id": 1729358735
+        },
+        {
+          "distance": 0.1991385817527771,
+          "id": 1729358699
+        },
+        {
+          "distance": 0.2002333402633667,
+          "id": 1729358565
+        },
+        {
+          "distance": 0.20481234788894653,
+          "id": 1729357723
+        },
+        {
+          "distance": 0.20687514543533325,
+          "id": 1729358737
+        },
+        {
+          "distance": 0.21409714221954346,
+          "id": 1729359887
+        },
+        {
+          "distance": 0.2144310474395752,
+          "id": 1729359075
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729358711,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Pinball games trace their origins to bagatelle, a fashionable eighteenth-century French table game...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

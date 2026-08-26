@@ -34,6 +34,50 @@
       "taken": 1575540900,
       "taken_at": "Dec 05, 2019 10:15 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20263397693634033,
+          "id": 1729355223
+        },
+        {
+          "distance": 0.20816677808761597,
+          "id": 1729357215
+        },
+        {
+          "distance": 0.2086734175682068,
+          "id": 1763559547
+        },
+        {
+          "distance": 0.20957261323928833,
+          "id": 1729358213
+        },
+        {
+          "distance": 0.21116632223129272,
+          "id": 1729359173
+        },
+        {
+          "distance": 0.21527284383773804,
+          "id": 1729358009
+        },
+        {
+          "distance": 0.21607226133346558,
+          "id": 1729356729
+        },
+        {
+          "distance": 0.21703702211380005,
+          "id": 1880151589
+        },
+        {
+          "distance": 0.22035342454910278,
+          "id": 1729359361
+        },
+        {
+          "distance": 0.22304821014404297,
+          "id": 1729356217
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729355819,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777627,
     "wof:name": "Operating a Boeing 727, the last Pan American World Airways flight took off from Barbados to Miami, Florida, on December 4, 1991...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

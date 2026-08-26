@@ -37,6 +37,50 @@
       "taken": 1578492600,
       "taken_at": "Jan 8, 2020, 2:10 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10919755697250366,
+          "id": 1729355415
+        },
+        {
+          "distance": 0.1262810230255127,
+          "id": 1729355415
+        },
+        {
+          "distance": 0.16956979036331177,
+          "id": 1729355867
+        },
+        {
+          "distance": 0.20008808374404907,
+          "id": 1729358079
+        },
+        {
+          "distance": 0.20857495069503784,
+          "id": 1729355867
+        },
+        {
+          "distance": 0.22206461429595947,
+          "id": 1729356953
+        },
+        {
+          "distance": 0.2316712737083435,
+          "id": 1729356953
+        },
+        {
+          "distance": 0.23320424556732178,
+          "id": 1729358079
+        },
+        {
+          "distance": 0.24017274379730225,
+          "id": 1729359645
+        },
+        {
+          "distance": 0.24337881803512573,
+          "id": 1729360781
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729355693,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777627,
     "wof:name": "In 1971, TWA (Trans World Airlines) introduced a new group of flight attendant uniforms conceived by Rome-based fashion designer Valentino Garavani...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -35,6 +35,50 @@
       "taken": 1649426460,
       "taken_at": "Apr 08, 2022 2:01 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10245978832244873,
+          "id": 1729359625
+        },
+        {
+          "distance": 0.11359667778015137,
+          "id": 1729359467
+        },
+        {
+          "distance": 0.13859206438064575,
+          "id": 1729359467
+        },
+        {
+          "distance": 0.140236496925354,
+          "id": 1729360135
+        },
+        {
+          "distance": 0.1480468511581421,
+          "id": 1729359971
+        },
+        {
+          "distance": 0.1515468955039978,
+          "id": 1763559147
+        },
+        {
+          "distance": 0.15533596277236938,
+          "id": 1729359625
+        },
+        {
+          "distance": 0.16418766975402832,
+          "id": 1729361467
+        },
+        {
+          "distance": 0.16957306861877441,
+          "id": 1729359139
+        },
+        {
+          "distance": 0.17756426334381104,
+          "id": 1729359971
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1763559499,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Happy birthday, Dame Vivienne Westwood!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

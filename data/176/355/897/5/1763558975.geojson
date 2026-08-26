@@ -29,6 +29,50 @@
       "taken": 1606936740,
       "taken_at": "Dec 02, 2020 7:19 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23783916234970093,
+          "id": 1729356263
+        },
+        {
+          "distance": 0.2410992980003357,
+          "id": 1729357603
+        },
+        {
+          "distance": 0.2590475082397461,
+          "id": 1729356263
+        },
+        {
+          "distance": 0.26247870922088623,
+          "id": 1729355779
+        },
+        {
+          "distance": 0.26379770040512085,
+          "id": 1729355597
+        },
+        {
+          "distance": 0.2658350467681885,
+          "id": 1763558965
+        },
+        {
+          "distance": 0.2714582085609436,
+          "id": 1729357603
+        },
+        {
+          "distance": 0.2750755548477173,
+          "id": 1729359461
+        },
+        {
+          "distance": 0.27792882919311523,
+          "id": 1729359425
+        },
+        {
+          "distance": 0.27850979566574097,
+          "id": 1729360993
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1763558975,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "In her series, “Blue is Not the Sky”, Paula Riff explores the elements of color, form, and design through the use of cameraless and experimental photography techniques...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

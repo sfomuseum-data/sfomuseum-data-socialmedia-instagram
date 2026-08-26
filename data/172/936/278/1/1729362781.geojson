@@ -25,6 +25,50 @@
       "taken": 1363250520,
       "taken_at": "Mar 14, 2013 8:42 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3034209609031677,
+          "id": 1729362857
+        },
+        {
+          "distance": 0.30980074405670166,
+          "id": 1729362109
+        },
+        {
+          "distance": 0.3129882216453552,
+          "id": 1729363051
+        },
+        {
+          "distance": 0.31335288286209106,
+          "id": 1729362109
+        },
+        {
+          "distance": 0.329620361328125,
+          "id": 1729362053
+        },
+        {
+          "distance": 0.33117300271987915,
+          "id": 1729362801
+        },
+        {
+          "distance": 0.3377511501312256,
+          "id": 1729362857
+        },
+        {
+          "distance": 0.3398342728614807,
+          "id": 1729362963
+        },
+        {
+          "distance": 0.34098029136657715,
+          "id": 1729356285
+        },
+        {
+          "distance": 0.3442944288253784,
+          "id": 1729363051
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362781,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "A good day at the office...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

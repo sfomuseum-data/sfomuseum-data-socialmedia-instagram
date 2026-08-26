@@ -29,6 +29,50 @@
       "taken": 1682518860,
       "taken_at": "Apr 26, 2023 2:21 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19710832834243774,
+          "id": 1729360723
+        },
+        {
+          "distance": 0.20589107275009155,
+          "id": 1763558867
+        },
+        {
+          "distance": 0.2157301902770996,
+          "id": 1729355797
+        },
+        {
+          "distance": 0.2200411558151245,
+          "id": 1729361263
+        },
+        {
+          "distance": 0.23155879974365234,
+          "id": 1729360919
+        },
+        {
+          "distance": 0.23324865102767944,
+          "id": 1729356769
+        },
+        {
+          "distance": 0.2365550994873047,
+          "id": 1729361117
+        },
+        {
+          "distance": 0.2369975447654724,
+          "id": 1729358079
+        },
+        {
+          "distance": 0.23776477575302124,
+          "id": 1729361055
+        },
+        {
+          "distance": 0.238822340965271,
+          "id": 1729356581
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880150955,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777661,
     "wof:name": "Pan American Airways was a pioneering U.S. international carrier founded by Juan T. Trippe (1899–1981) in 1927...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

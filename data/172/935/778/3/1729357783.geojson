@@ -35,6 +35,50 @@
       "taken": 1534262700,
       "taken_at": "Aug 14, 2018 4:05 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.05925750732421875,
+          "id": 1729358697
+        },
+        {
+          "distance": 0.1546010971069336,
+          "id": 1729358697
+        },
+        {
+          "distance": 0.2002301812171936,
+          "id": 1729358411
+        },
+        {
+          "distance": 0.21087604761123657,
+          "id": 1729359887
+        },
+        {
+          "distance": 0.2216208577156067,
+          "id": 1729358693
+        },
+        {
+          "distance": 0.2378489375114441,
+          "id": 1729359887
+        },
+        {
+          "distance": 0.2432047724723816,
+          "id": 1729359861
+        },
+        {
+          "distance": 0.24519693851470947,
+          "id": 1729358735
+        },
+        {
+          "distance": 0.24972397089004517,
+          "id": 1729358711
+        },
+        {
+          "distance": 0.2504732012748718,
+          "id": 1729358587
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729357783,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "During the early twentieth century, these compact and simple, coin-operated vendors were placed atop the counters of stores, restaurants, and bars across the United States...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

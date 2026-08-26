@@ -28,6 +28,50 @@
       "taken": 1599583620,
       "taken_at": "Sep 08, 2020 4:47 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20530325174331665,
+          "id": 1729358727
+        },
+        {
+          "distance": 0.22273921966552734,
+          "id": 1729358727
+        },
+        {
+          "distance": 0.25228095054626465,
+          "id": 1880151013
+        },
+        {
+          "distance": 0.26038944721221924,
+          "id": 1947424997
+        },
+        {
+          "distance": 0.2657037377357483,
+          "id": 1880151005
+        },
+        {
+          "distance": 0.26876962184906006,
+          "id": 1880151013
+        },
+        {
+          "distance": 0.27105724811553955,
+          "id": 1729356407
+        },
+        {
+          "distance": 0.27380573749542236,
+          "id": 1947424997
+        },
+        {
+          "distance": 0.27986979484558105,
+          "id": 1729358929
+        },
+        {
+          "distance": 0.28254592418670654,
+          "id": 1763558705
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1729355095,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777617,
     "wof:name": "#Onthisday in 1982, the Boeing 767 was introduced into service by United Airlines on their Chicago-to-Denver route...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

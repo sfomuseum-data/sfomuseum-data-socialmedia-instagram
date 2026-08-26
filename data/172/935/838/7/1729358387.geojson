@@ -43,6 +43,50 @@
       "taken": 1522930200,
       "taken_at": "Apr 05, 2018 12:10 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.033131957054138184,
+          "id": 1729360859
+        },
+        {
+          "distance": 0.13744664192199707,
+          "id": 1880151027
+        },
+        {
+          "distance": 0.19353735446929932,
+          "id": 1729360859
+        },
+        {
+          "distance": 0.2006012201309204,
+          "id": 1729359947
+        },
+        {
+          "distance": 0.22221755981445312,
+          "id": 1729361255
+        },
+        {
+          "distance": 0.22642534971237183,
+          "id": 1729361577
+        },
+        {
+          "distance": 0.2274433970451355,
+          "id": 1729360429
+        },
+        {
+          "distance": 0.2277313470840454,
+          "id": 1729355251
+        },
+        {
+          "distance": 0.23045730590820312,
+          "id": 1729359591
+        },
+        {
+          "distance": 0.23045730590820312,
+          "id": 1763558659
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -72,7 +116,7 @@
       }
     ],
     "wof:id": 1729358387,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "#OnThisDay in 1970, the first Boeing 747 widebody jumbojet operated by TWA (Trans World Airlines) departed from San Francisco International Airport for New York City...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -89,5 +133,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

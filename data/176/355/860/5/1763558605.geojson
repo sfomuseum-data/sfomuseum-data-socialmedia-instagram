@@ -25,6 +25,50 @@
       "taken": 1443441720,
       "taken_at": "Sep 28, 2015 12:02 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.00002193450927734375,
+          "id": 1729361507
+        },
+        {
+          "distance": 0.14752423763275146,
+          "id": 1729361507
+        },
+        {
+          "distance": 0.26613473892211914,
+          "id": 1729361137
+        },
+        {
+          "distance": 0.3008403778076172,
+          "id": 1729355253
+        },
+        {
+          "distance": 0.31052714586257935,
+          "id": 1729361443
+        },
+        {
+          "distance": 0.3294520974159241,
+          "id": 1729361297
+        },
+        {
+          "distance": 0.33330535888671875,
+          "id": 1729361805
+        },
+        {
+          "distance": 0.33864498138427734,
+          "id": 1729361399
+        },
+        {
+          "distance": 0.34283339977264404,
+          "id": 1729362077
+        },
+        {
+          "distance": 0.34817153215408325,
+          "id": 1729355613
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1763558605,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777658,
     "wof:name": "The San Francisco 49ers first mascot was a mule named Clementine...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

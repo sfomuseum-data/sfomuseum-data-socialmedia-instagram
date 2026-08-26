@@ -31,6 +31,50 @@
       "taken": 1672163880,
       "taken_at": "Dec 27, 2022 5:58 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.28285646438598633,
+          "id": 1729355709
+        },
+        {
+          "distance": 0.2960518002510071,
+          "id": 1729355709
+        },
+        {
+          "distance": 0.29714393615722656,
+          "id": 1880151005
+        },
+        {
+          "distance": 0.3048326373100281,
+          "id": 1729355469
+        },
+        {
+          "distance": 0.3150891661643982,
+          "id": 1729360003
+        },
+        {
+          "distance": 0.33285629749298096,
+          "id": 1880151005
+        },
+        {
+          "distance": 0.34162354469299316,
+          "id": 1729360469
+        },
+        {
+          "distance": 0.34218698740005493,
+          "id": 1729360469
+        },
+        {
+          "distance": 0.35071051120758057,
+          "id": 1763559313
+        },
+        {
+          "distance": 0.35195332765579224,
+          "id": 1763558963
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151239,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "This year marks the 70th anniversary of All Nippon Airways (ANA), which began as Japan Helicopter \u0026 Aeroplane Transports Company #onthisday in 1952...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

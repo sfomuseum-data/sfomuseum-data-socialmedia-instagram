@@ -39,6 +39,50 @@
       "taken": 1526471280,
       "taken_at": "May 16, 2018 11:48 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12175929546356201,
+          "id": 1729359743
+        },
+        {
+          "distance": 0.13005077838897705,
+          "id": 1729359113
+        },
+        {
+          "distance": 0.1540319323539734,
+          "id": 1729359743
+        },
+        {
+          "distance": 0.15637242794036865,
+          "id": 1729360365
+        },
+        {
+          "distance": 0.15870559215545654,
+          "id": 1729359113
+        },
+        {
+          "distance": 0.17536914348602295,
+          "id": 1729355261
+        },
+        {
+          "distance": 0.17821365594863892,
+          "id": 1729359201
+        },
+        {
+          "distance": 0.19416147470474243,
+          "id": 1729360253
+        },
+        {
+          "distance": 0.1946117877960205,
+          "id": 1729357873
+        },
+        {
+          "distance": 0.19493341445922852,
+          "id": 1729355261
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729358221,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Airlines such as Pan American World Airways offered small bags for carry-on items emblazoned with their logos and services...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

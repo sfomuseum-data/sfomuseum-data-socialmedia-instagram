@@ -46,6 +46,50 @@
       "taken": 1503919860,
       "taken_at": "Aug 28, 2017, 11:31 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14276576042175293,
+          "id": 1729358633
+        },
+        {
+          "distance": 0.1927945613861084,
+          "id": 1729358633
+        },
+        {
+          "distance": 0.25312918424606323,
+          "id": 1729355399
+        },
+        {
+          "distance": 0.25499099493026733,
+          "id": 1729357897
+        },
+        {
+          "distance": 0.2642042636871338,
+          "id": 1729355399
+        },
+        {
+          "distance": 0.26464927196502686,
+          "id": 1729357897
+        },
+        {
+          "distance": 0.26551371812820435,
+          "id": 1729359147
+        },
+        {
+          "distance": 0.34116291999816895,
+          "id": 1880151079
+        },
+        {
+          "distance": 0.34882909059524536,
+          "id": 1880151301
+        },
+        {
+          "distance": 0.37347984313964844,
+          "id": 1729360511
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -75,7 +119,7 @@
       }
     ],
     "wof:id": 1729359141,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777635,
     "wof:name": "United Air Lines introduced hot meal service on Douglas DST (Douglas Sleeper Transport) and DC-3 flights in the late 1930s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -92,5 +136,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

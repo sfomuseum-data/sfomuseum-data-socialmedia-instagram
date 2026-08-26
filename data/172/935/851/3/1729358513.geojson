@@ -38,6 +38,50 @@
       "taken": 1520108700,
       "taken_at": "Mar 03, 2018 8:25 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.302449107170105,
+          "id": 1729357963
+        },
+        {
+          "distance": 0.30721575021743774,
+          "id": 1729357963
+        },
+        {
+          "distance": 0.3140221834182739,
+          "id": 1729360897
+        },
+        {
+          "distance": 0.3216649889945984,
+          "id": 1763558755
+        },
+        {
+          "distance": 0.3273603916168213,
+          "id": 1729357981
+        },
+        {
+          "distance": 0.32798337936401367,
+          "id": 1763558755
+        },
+        {
+          "distance": 0.3469739556312561,
+          "id": 1729360897
+        },
+        {
+          "distance": 0.3482310175895691,
+          "id": 1729357981
+        },
+        {
+          "distance": 0.3548107147216797,
+          "id": 1763559093
+        },
+        {
+          "distance": 0.3559301495552063,
+          "id": 1729357771
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729358513,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777633,
     "wof:name": "To commemorate Charles Lindbergh's famous 1927 solo flight across the Atlantic, Parker Brothers produced this card game to recreate the exciting journey...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

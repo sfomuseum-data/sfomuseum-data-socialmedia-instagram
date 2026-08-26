@@ -33,6 +33,50 @@
       "taken": 1640623380,
       "taken_at": "Dec 27, 2021 4:43 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15789932012557983,
+          "id": 1880151575
+        },
+        {
+          "distance": 0.15789932012557983,
+          "id": 1880151563
+        },
+        {
+          "distance": 0.16715019941329956,
+          "id": 1880151519
+        },
+        {
+          "distance": 0.19766736030578613,
+          "id": 1729355785
+        },
+        {
+          "distance": 0.2006874680519104,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.2128031849861145,
+          "id": 1880151585
+        },
+        {
+          "distance": 0.21652954816818237,
+          "id": 1763559281
+        },
+        {
+          "distance": 0.21857935190200806,
+          "id": 1880151519
+        },
+        {
+          "distance": 0.21971982717514038,
+          "id": 1729355777
+        },
+        {
+          "distance": 0.22512036561965942,
+          "id": 1763559355
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1763559679,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "With an unerring instinct for where to place and reposition himself around the field throughout the game, San Francisco native Frank Rippon captured unforgettable moments from the first four decades of the 49er’s history...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

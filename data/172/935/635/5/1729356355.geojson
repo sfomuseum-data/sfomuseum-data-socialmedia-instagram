@@ -36,6 +36,50 @@
       "taken": 1562086140,
       "taken_at": "Jul 2, 2019, 4:49 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14583301544189453,
+          "id": 1729356365
+        },
+        {
+          "distance": 0.15681535005569458,
+          "id": 1729356371
+        },
+        {
+          "distance": 0.16348743438720703,
+          "id": 1729356213
+        },
+        {
+          "distance": 0.16614806652069092,
+          "id": 1729356367
+        },
+        {
+          "distance": 0.18572360277175903,
+          "id": 1729356209
+        },
+        {
+          "distance": 0.1923263669013977,
+          "id": 1729356197
+        },
+        {
+          "distance": 0.1996646523475647,
+          "id": 1729356287
+        },
+        {
+          "distance": 0.2034117579460144,
+          "id": 1729356371
+        },
+        {
+          "distance": 0.20759081840515137,
+          "id": 1729356365
+        },
+        {
+          "distance": 0.20973163843154907,
+          "id": 1729356357
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729356355,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Longhorn beetles belong to the family Cerambycidae and derive their name from their long antennae...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

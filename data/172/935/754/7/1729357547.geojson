@@ -33,6 +33,50 @@
       "taken": 1539511380,
       "taken_at": "Oct 14, 2018 10:03 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.05804413557052612,
+          "id": 1763559413
+        },
+        {
+          "distance": 0.05897998809814453,
+          "id": 1729359805
+        },
+        {
+          "distance": 0.12228208780288696,
+          "id": 1763559233
+        },
+        {
+          "distance": 0.12539821863174438,
+          "id": 1729358457
+        },
+        {
+          "distance": 0.12726008892059326,
+          "id": 1729356859
+        },
+        {
+          "distance": 0.12801200151443481,
+          "id": 1880151063
+        },
+        {
+          "distance": 0.1285267472267151,
+          "id": 1880150909
+        },
+        {
+          "distance": 0.13055872917175293,
+          "id": 1729357323
+        },
+        {
+          "distance": 0.13537615537643433,
+          "id": 1729361261
+        },
+        {
+          "distance": 0.13964617252349854,
+          "id": 1729359515
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729357547,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777632,
     "wof:name": "This photo from 1938 shows the second passenger terminal at SFO which was constructed the year before, in 1937, and four hangars...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

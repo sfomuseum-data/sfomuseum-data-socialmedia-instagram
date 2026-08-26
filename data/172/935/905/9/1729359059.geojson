@@ -42,6 +42,50 @@
       "taken": 1506281580,
       "taken_at": "Sep 24, 2017 7:33 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18181568384170532,
+          "id": 1947425077
+        },
+        {
+          "distance": 0.1885945200920105,
+          "id": 1729355487
+        },
+        {
+          "distance": 0.20281749963760376,
+          "id": 1947425077
+        },
+        {
+          "distance": 0.21244269609451294,
+          "id": 1729355493
+        },
+        {
+          "distance": 0.22530072927474976,
+          "id": 1729355487
+        },
+        {
+          "distance": 0.24146109819412231,
+          "id": 1880151253
+        },
+        {
+          "distance": 0.24707716703414917,
+          "id": 1729357611
+        },
+        {
+          "distance": 0.24913471937179565,
+          "id": 1947425063
+        },
+        {
+          "distance": 0.25312983989715576,
+          "id": 1880150939
+        },
+        {
+          "distance": 0.25382065773010254,
+          "id": 1880150939
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -71,7 +115,7 @@
       }
     ],
     "wof:id": 1729359059,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Our newest San Francisco Arts Commission piece is \"No Other Lands Their Glory Know\" by Alice Shaw...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -88,5 +132,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

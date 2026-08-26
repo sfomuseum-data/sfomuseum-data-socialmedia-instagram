@@ -32,6 +32,50 @@
       "taken": 1586977200,
       "taken_at": "Apr 15, 2020, 7:00 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0020375847816467285,
+          "id": 1763558845
+        },
+        {
+          "distance": 0.049542248249053955,
+          "id": 1729359201
+        },
+        {
+          "distance": 0.06689739227294922,
+          "id": 1763558845
+        },
+        {
+          "distance": 0.0735863447189331,
+          "id": 1729359201
+        },
+        {
+          "distance": 0.10498213768005371,
+          "id": 1729360365
+        },
+        {
+          "distance": 0.12093865871429443,
+          "id": 1729355261
+        },
+        {
+          "distance": 0.12166357040405273,
+          "id": 1729355261
+        },
+        {
+          "distance": 0.14370471239089966,
+          "id": 1729359489
+        },
+        {
+          "distance": 0.15466004610061646,
+          "id": 1729360365
+        },
+        {
+          "distance": 0.15576696395874023,
+          "id": 1729360551
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729355335,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777623,
     "wof:name": "Dubbed “The Uniform for the Superjet Era,” and created for the new wide-body jet service, this 1971 Pan American uniform marked a new direction in Pan Am’s approach to fashion...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

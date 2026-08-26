@@ -34,6 +34,50 @@
       "taken": 1499252400,
       "taken_at": "Jul 5, 2017, 11:00 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.013419747352600098,
+          "id": 1763558677
+        },
+        {
+          "distance": 0.08991384506225586,
+          "id": 1763558677
+        },
+        {
+          "distance": 0.21556627750396729,
+          "id": 1729358137
+        },
+        {
+          "distance": 0.21721488237380981,
+          "id": 1729358779
+        },
+        {
+          "distance": 0.21871858835220337,
+          "id": 1763558697
+        },
+        {
+          "distance": 0.21974027156829834,
+          "id": 1763558697
+        },
+        {
+          "distance": 0.22724205255508423,
+          "id": 1729358779
+        },
+        {
+          "distance": 0.237837016582489,
+          "id": 1729358137
+        },
+        {
+          "distance": 0.24465054273605347,
+          "id": 1729357629
+        },
+        {
+          "distance": 0.255631685256958,
+          "id": 1729355477
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729359349,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777635,
     "wof:name": "#Onthisday in 1994, the \"rebooted\" Frontier Airlines commenced operations...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

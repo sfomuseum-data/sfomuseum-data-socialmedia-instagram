@@ -31,6 +31,50 @@
       "taken": 1703861160,
       "taken_at": "Dec 29, 2023 2:46 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.019848406314849854,
+          "id": 1880151049
+        },
+        {
+          "distance": 0.06726491451263428,
+          "id": 1880151175
+        },
+        {
+          "distance": 0.08269017934799194,
+          "id": 1880150963
+        },
+        {
+          "distance": 0.09070074558258057,
+          "id": 1880151643
+        },
+        {
+          "distance": 0.09471690654754639,
+          "id": 1947425195
+        },
+        {
+          "distance": 0.09846758842468262,
+          "id": 1880151049
+        },
+        {
+          "distance": 0.09871703386306763,
+          "id": 1880151521
+        },
+        {
+          "distance": 0.10183727741241455,
+          "id": 1880151613
+        },
+        {
+          "distance": 0.10344952344894409,
+          "id": 1880151685
+        },
+        {
+          "distance": 0.11414891481399536,
+          "id": 1880151175
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1947425187,
-    "wof:lastmodified": 1733175328,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Harold McMillan Bixby, a midwestern businessman with a strong interest in the emerging technology of aviation, worked for Pan American Airways in the 1930s to the 1950s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -73,5 +117,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

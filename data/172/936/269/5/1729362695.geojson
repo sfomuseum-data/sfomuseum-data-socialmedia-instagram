@@ -25,6 +25,50 @@
       "taken": 1368022320,
       "taken_at": "May 08, 2013 2:12 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3786936402320862,
+          "id": 1729362351
+        },
+        {
+          "distance": 0.3896082639694214,
+          "id": 1729362259
+        },
+        {
+          "distance": 0.4081527590751648,
+          "id": 1729362597
+        },
+        {
+          "distance": 0.4169219732284546,
+          "id": 1729362351
+        },
+        {
+          "distance": 0.4189557433128357,
+          "id": 1729362259
+        },
+        {
+          "distance": 0.41958582401275635,
+          "id": 1729362219
+        },
+        {
+          "distance": 0.42687737941741943,
+          "id": 1729362541
+        },
+        {
+          "distance": 0.42883944511413574,
+          "id": 1729362495
+        },
+        {
+          "distance": 0.43092936277389526,
+          "id": 1729362957
+        },
+        {
+          "distance": 0.4365244507789612,
+          "id": 1729362219
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362695,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "Thoughtful accompaniment for air travel on American Airlines' DC-3 in the late 1930s-40s..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

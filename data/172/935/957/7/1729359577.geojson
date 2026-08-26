@@ -33,6 +33,50 @@
       "taken": 1493310000,
       "taken_at": "Apr 27, 2017 4:20 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17901545763015747,
+          "id": 1729361387
+        },
+        {
+          "distance": 0.1886172890663147,
+          "id": 1763558839
+        },
+        {
+          "distance": 0.18924063444137573,
+          "id": 1729361271
+        },
+        {
+          "distance": 0.19111400842666626,
+          "id": 1763558839
+        },
+        {
+          "distance": 0.1927545666694641,
+          "id": 1729360721
+        },
+        {
+          "distance": 0.1933003067970276,
+          "id": 1729355287
+        },
+        {
+          "distance": 0.1954718828201294,
+          "id": 1729356611
+        },
+        {
+          "distance": 0.19606435298919678,
+          "id": 1729355287
+        },
+        {
+          "distance": 0.19985824823379517,
+          "id": 1763559161
+        },
+        {
+          "distance": 0.20139002799987793,
+          "id": 1729362311
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729359577,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "This year San Francisco International Airport is turning 90!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

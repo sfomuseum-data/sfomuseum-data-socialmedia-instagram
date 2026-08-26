@@ -30,6 +30,50 @@
       "taken": 1631202660,
       "taken_at": "Sep 09, 2021 3:51 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1454121470451355,
+          "id": 1763558977
+        },
+        {
+          "distance": 0.17312884330749512,
+          "id": 1763558977
+        },
+        {
+          "distance": 0.17457282543182373,
+          "id": 1880151473
+        },
+        {
+          "distance": 0.19423967599868774,
+          "id": 1880151473
+        },
+        {
+          "distance": 0.20231735706329346,
+          "id": 1763559049
+        },
+        {
+          "distance": 0.20565122365951538,
+          "id": 1947425209
+        },
+        {
+          "distance": 0.20565950870513916,
+          "id": 1947425237
+        },
+        {
+          "distance": 0.20617890357971191,
+          "id": 1880151191
+        },
+        {
+          "distance": 0.20727193355560303,
+          "id": 1763559049
+        },
+        {
+          "distance": 0.20900434255599976,
+          "id": 1880151061
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559429,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Happy Birthday, California!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

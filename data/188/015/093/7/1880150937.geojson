@@ -31,6 +31,50 @@
       "taken": 1682956620,
       "taken_at": "May 01, 2023 3:57 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07192385196685791,
+          "id": 1880150971
+        },
+        {
+          "distance": 0.1091681718826294,
+          "id": 1880150907
+        },
+        {
+          "distance": 0.12893974781036377,
+          "id": 1880150971
+        },
+        {
+          "distance": 0.1456546187400818,
+          "id": 1947425261
+        },
+        {
+          "distance": 0.15447109937667847,
+          "id": 1880150907
+        },
+        {
+          "distance": 0.15493261814117432,
+          "id": 1947425219
+        },
+        {
+          "distance": 0.1567506194114685,
+          "id": 1947425307
+        },
+        {
+          "distance": 0.15896570682525635,
+          "id": 1880150997
+        },
+        {
+          "distance": 0.16811609268188477,
+          "id": 1947425261
+        },
+        {
+          "distance": 0.17725515365600586,
+          "id": 1947425219
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880150937,
-    "wof:lastmodified": 1733175333,
+    "wof:lastmodified": 1787777661,
     "wof:name": "Colombian-Belgian Annabelle Lopez Ochoa (b...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

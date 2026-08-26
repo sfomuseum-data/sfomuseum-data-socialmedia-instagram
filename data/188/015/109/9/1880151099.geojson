@@ -28,6 +28,50 @@
       "taken": 1677493320,
       "taken_at": "Feb 27, 2023 10:22 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24474698305130005,
+          "id": 1880150897
+        },
+        {
+          "distance": 0.2781166434288025,
+          "id": 1880150897
+        },
+        {
+          "distance": 0.27983683347702026,
+          "id": 1947425119
+        },
+        {
+          "distance": 0.28336745500564575,
+          "id": 1880151077
+        },
+        {
+          "distance": 0.2895262837409973,
+          "id": 1880151033
+        },
+        {
+          "distance": 0.2895262837409973,
+          "id": 1947425245
+        },
+        {
+          "distance": 0.29066556692123413,
+          "id": 1947425119
+        },
+        {
+          "distance": 0.29177695512771606,
+          "id": 1880151033
+        },
+        {
+          "distance": 0.29177695512771606,
+          "id": 1947425245
+        },
+        {
+          "distance": 0.31152820587158203,
+          "id": 1880151077
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1880151099,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Celebrating its ninetieth season in 2023, San Francisco Ballet is one of the most influential ballet companies in the world...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

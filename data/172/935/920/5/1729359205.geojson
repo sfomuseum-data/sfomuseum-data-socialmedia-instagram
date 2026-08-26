@@ -54,6 +54,50 @@
       "taken": 1502791680,
       "taken_at": "Aug 15, 2017 10:08 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07760900259017944,
+          "id": 1729356217
+        },
+        {
+          "distance": 0.11872488260269165,
+          "id": 1729356217
+        },
+        {
+          "distance": 0.1479831337928772,
+          "id": 1729355743
+        },
+        {
+          "distance": 0.16411715745925903,
+          "id": 1729358963
+        },
+        {
+          "distance": 0.17820852994918823,
+          "id": 1729361701
+        },
+        {
+          "distance": 0.18579763174057007,
+          "id": 1729361465
+        },
+        {
+          "distance": 0.19333195686340332,
+          "id": 1729357481
+        },
+        {
+          "distance": 0.20130681991577148,
+          "id": 1729360541
+        },
+        {
+          "distance": 0.20177555084228516,
+          "id": 1729361701
+        },
+        {
+          "distance": 0.2025713324546814,
+          "id": 1729358763
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -83,7 +127,7 @@
       }
     ],
     "wof:id": 1729359205,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "#Onthisday in 1958, Pan American World Airlines received the first of eight Boeing 707-120s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -100,5 +144,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

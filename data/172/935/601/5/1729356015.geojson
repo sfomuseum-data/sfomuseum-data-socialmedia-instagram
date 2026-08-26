@@ -30,6 +30,50 @@
       "taken": 1570818660,
       "taken_at": "Oct 11, 2019 6:31 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1793597936630249,
+          "id": 1729358209
+        },
+        {
+          "distance": 0.17978262901306152,
+          "id": 1729355351
+        },
+        {
+          "distance": 0.19024550914764404,
+          "id": 1763559125
+        },
+        {
+          "distance": 0.20258814096450806,
+          "id": 1729361117
+        },
+        {
+          "distance": 0.20453786849975586,
+          "id": 1729360723
+        },
+        {
+          "distance": 0.21033334732055664,
+          "id": 1763558867
+        },
+        {
+          "distance": 0.21705710887908936,
+          "id": 1763559125
+        },
+        {
+          "distance": 0.21718603372573853,
+          "id": 1729355351
+        },
+        {
+          "distance": 0.23091834783554077,
+          "id": 1729355605
+        },
+        {
+          "distance": 0.23126769065856934,
+          "id": 1763558867
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729356015,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777627,
     "wof:name": "In addition to showing the interior of a Douglas DC-3, this United Air Lines promotional print from the 1940s states: “This picture shows the inside of the cabin of a Mainliner...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

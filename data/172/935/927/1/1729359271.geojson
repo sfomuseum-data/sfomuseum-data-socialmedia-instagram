@@ -46,6 +46,50 @@
       "taken": 1501004160,
       "taken_at": "Jul 25, 2017 5:36 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.33981674909591675,
+          "id": 1729359485
+        },
+        {
+          "distance": 0.3489602208137512,
+          "id": 1729356641
+        },
+        {
+          "distance": 0.3529718518257141,
+          "id": 1729355387
+        },
+        {
+          "distance": 0.3558332324028015,
+          "id": 1729355387
+        },
+        {
+          "distance": 0.35839587450027466,
+          "id": 1729356645
+        },
+        {
+          "distance": 0.36104142665863037,
+          "id": 1729358989
+        },
+        {
+          "distance": 0.365042507648468,
+          "id": 1729359357
+        },
+        {
+          "distance": 0.36729854345321655,
+          "id": 1729355897
+        },
+        {
+          "distance": 0.3679594397544861,
+          "id": 1729355897
+        },
+        {
+          "distance": 0.3680039644241333,
+          "id": 1729359299
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -75,7 +119,7 @@
       }
     ],
     "wof:id": 1729359271,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Motivated by the lack of color, whimsy, and alternatives to leather in footwear, artist Mickey McGowan taught himself to make shoes...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -92,5 +136,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

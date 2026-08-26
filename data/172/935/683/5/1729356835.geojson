@@ -37,6 +37,50 @@
       "taken": 1552409340,
       "taken_at": "Mar 12, 2019 4:49 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.125316321849823,
+          "id": 1729355221
+        },
+        {
+          "distance": 0.12738966941833496,
+          "id": 1729357337
+        },
+        {
+          "distance": 0.1319066286087036,
+          "id": 1880150917
+        },
+        {
+          "distance": 0.13337397575378418,
+          "id": 1729357405
+        },
+        {
+          "distance": 0.1693347692489624,
+          "id": 1763559237
+        },
+        {
+          "distance": 0.17017143964767456,
+          "id": 1729362019
+        },
+        {
+          "distance": 0.17820370197296143,
+          "id": 1729357431
+        },
+        {
+          "distance": 0.17842590808868408,
+          "id": 1729355221
+        },
+        {
+          "distance": 0.19085681438446045,
+          "id": 1729357431
+        },
+        {
+          "distance": 0.19325536489486694,
+          "id": 1729362115
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729356835,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Arhoolie Records’ subsidiary label Blues Classics was the first to reintroduce the work of Memphis Minnie (1897–1973) to a new (and largely white) audience...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

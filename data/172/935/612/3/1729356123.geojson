@@ -32,6 +32,50 @@
       "taken": 1568105460,
       "taken_at": "Sep 10, 2019 8:51 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07482337951660156,
+          "id": 1729356801
+        },
+        {
+          "distance": 0.10295510292053223,
+          "id": 1729356801
+        },
+        {
+          "distance": 0.2826783061027527,
+          "id": 1729356403
+        },
+        {
+          "distance": 0.2908473610877991,
+          "id": 1729356411
+        },
+        {
+          "distance": 0.29113930463790894,
+          "id": 1880151175
+        },
+        {
+          "distance": 0.2998453974723816,
+          "id": 1729363009
+        },
+        {
+          "distance": 0.3027198910713196,
+          "id": 1729356411
+        },
+        {
+          "distance": 0.30454176664352417,
+          "id": 1729356403
+        },
+        {
+          "distance": 0.3150421977043152,
+          "id": 1880151175
+        },
+        {
+          "distance": 0.31576889753341675,
+          "id": 1880151049
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729356123,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777628,
     "wof:name": "This is the last week to see “Aluminum: The Miracle Metal of Aviation”, currently on view in the Aviation Museum and Library...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

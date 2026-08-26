@@ -31,6 +31,50 @@
       "taken": 1596815700,
       "taken_at": "Aug 07, 2020 3:55 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09719902276992798,
+          "id": 1763559677
+        },
+        {
+          "distance": 0.15510845184326172,
+          "id": 1763559677
+        },
+        {
+          "distance": 0.15776783227920532,
+          "id": 1729360607
+        },
+        {
+          "distance": 0.18413949012756348,
+          "id": 1729360689
+        },
+        {
+          "distance": 0.18702244758605957,
+          "id": 1729355207
+        },
+        {
+          "distance": 0.19324755668640137,
+          "id": 1729356281
+        },
+        {
+          "distance": 0.1934186816215515,
+          "id": 1729356113
+        },
+        {
+          "distance": 0.19645380973815918,
+          "id": 1729355207
+        },
+        {
+          "distance": 0.19882416725158691,
+          "id": 1947425255
+        },
+        {
+          "distance": 0.2029532790184021,
+          "id": 1763559413
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729355161,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777618,
     "wof:name": "What was happening #onthisday in 1970 at the airport?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

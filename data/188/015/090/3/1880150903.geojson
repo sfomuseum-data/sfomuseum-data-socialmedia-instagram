@@ -25,6 +25,50 @@
       "taken": 1686581760,
       "taken_at": "Jun 12, 2023 2:56 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11314564943313599,
+          "id": 1729362189
+        },
+        {
+          "distance": 0.12486594915390015,
+          "id": 1729362189
+        },
+        {
+          "distance": 0.16106277704238892,
+          "id": 1880151595
+        },
+        {
+          "distance": 0.17356127500534058,
+          "id": 1880151673
+        },
+        {
+          "distance": 0.18269187211990356,
+          "id": 1729355471
+        },
+        {
+          "distance": 0.1870741844177246,
+          "id": 1880151673
+        },
+        {
+          "distance": 0.187713623046875,
+          "id": 1763559319
+        },
+        {
+          "distance": 0.18893718719482422,
+          "id": 1880151661
+        },
+        {
+          "distance": 0.1891651749610901,
+          "id": 1729356091
+        },
+        {
+          "distance": 0.18925511837005615,
+          "id": 1729360513
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1880150903,
-    "wof:lastmodified": 1733175333,
+    "wof:lastmodified": 1787777661,
     "wof:name": "Did you know Bernard M. “Mike” Doolin, the fourth director of the airport was also an accomplished aviator?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -52,6 +52,50 @@
       "taken": 1524735840,
       "taken_at": "Apr 26, 2018, 9:44 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13951176404953003,
+          "id": 1729357601
+        },
+        {
+          "distance": 0.15180689096450806,
+          "id": 1729357273
+        },
+        {
+          "distance": 0.17168587446212769,
+          "id": 1729357291
+        },
+        {
+          "distance": 0.17355316877365112,
+          "id": 1947425155
+        },
+        {
+          "distance": 0.17543798685073853,
+          "id": 1729357601
+        },
+        {
+          "distance": 0.1835058331489563,
+          "id": 1729357273
+        },
+        {
+          "distance": 0.18377524614334106,
+          "id": 1729358155
+        },
+        {
+          "distance": 0.19208282232284546,
+          "id": 1729358869
+        },
+        {
+          "distance": 0.19928747415542603,
+          "id": 1947425155
+        },
+        {
+          "distance": 0.2001413106918335,
+          "id": 1729357729
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -81,7 +125,7 @@
       }
     ],
     "wof:id": 1729358323,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777633,
     "wof:name": "The Lockheed Model 12 Electra was similar to the Model 10 Electra in design, but smaller and faster...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -98,5 +142,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

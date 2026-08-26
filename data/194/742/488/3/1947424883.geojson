@@ -27,6 +27,50 @@
       "taken": 1725463140,
       "taken_at": "Sep 04, 2024 3:19 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3693963289260864,
+          "id": 1729361973
+        },
+        {
+          "distance": 0.3761987090110779,
+          "id": 1729361851
+        },
+        {
+          "distance": 0.3850647807121277,
+          "id": 1729360029
+        },
+        {
+          "distance": 0.38543176651000977,
+          "id": 1729357357
+        },
+        {
+          "distance": 0.3895869851112366,
+          "id": 1729356949
+        },
+        {
+          "distance": 0.3900681734085083,
+          "id": 1729357363
+        },
+        {
+          "distance": 0.3922874927520752,
+          "id": 1729357609
+        },
+        {
+          "distance": 0.3925238847732544,
+          "id": 1947425021
+        },
+        {
+          "distance": 0.3930896520614624,
+          "id": 1729361973
+        },
+        {
+          "distance": 0.393680214881897,
+          "id": 1729357069
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947424883,
-    "wof:lastmodified": 1733175319,
+    "wof:lastmodified": 1787777664,
     "wof:name": "This cutaway model of the Western Airlines Lockheed L-188A Electra turboprop was created by Gary Field (b...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

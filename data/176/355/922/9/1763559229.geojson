@@ -30,6 +30,50 @@
       "taken": 1615997880,
       "taken_at": "Mar 17, 2021 4:18 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14616328477859497,
+          "id": 1729359645
+        },
+        {
+          "distance": 0.16370034217834473,
+          "id": 1729359645
+        },
+        {
+          "distance": 0.18788045644760132,
+          "id": 1729358209
+        },
+        {
+          "distance": 0.19899141788482666,
+          "id": 1729358635
+        },
+        {
+          "distance": 0.210943341255188,
+          "id": 1729355605
+        },
+        {
+          "distance": 0.21280723810195923,
+          "id": 1763559085
+        },
+        {
+          "distance": 0.21638458967208862,
+          "id": 1729356277
+        },
+        {
+          "distance": 0.21658331155776978,
+          "id": 1729359879
+        },
+        {
+          "distance": 0.21818047761917114,
+          "id": 1729359307
+        },
+        {
+          "distance": 0.21825754642486572,
+          "id": 1729359397
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559229,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "The largest and most luxurious of all of the flying boats, the Boeing 314 was called a flying hotel by journalists of the day...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

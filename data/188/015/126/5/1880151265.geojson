@@ -30,6 +30,50 @@
       "taken": 1671122220,
       "taken_at": "Dec 15, 2022 4:37 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.36927568912506104,
+          "id": 1729359411
+        },
+        {
+          "distance": 0.3699531555175781,
+          "id": 1729360155
+        },
+        {
+          "distance": 0.3849736452102661,
+          "id": 1729360469
+        },
+        {
+          "distance": 0.3936977982521057,
+          "id": 1880151505
+        },
+        {
+          "distance": 0.40173470973968506,
+          "id": 1880151303
+        },
+        {
+          "distance": 0.40306514501571655,
+          "id": 1729361455
+        },
+        {
+          "distance": 0.4068010449409485,
+          "id": 1729355621
+        },
+        {
+          "distance": 0.4080761671066284,
+          "id": 1880151127
+        },
+        {
+          "distance": 0.40814483165740967,
+          "id": 1729360855
+        },
+        {
+          "distance": 0.4086628556251526,
+          "id": 1729357349
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151265,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "In the early 1960s, TWA (Trans World Airlines) was operating the 707-320 on the transpolar, route from Los Angeles to Paris...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

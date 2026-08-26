@@ -25,6 +25,50 @@
       "taken": 1341835320,
       "taken_at": "Jul 09, 2012 12:02 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1344197392463684,
+          "id": 1729356755
+        },
+        {
+          "distance": 0.1764744520187378,
+          "id": 1763559379
+        },
+        {
+          "distance": 0.18459463119506836,
+          "id": 1880150991
+        },
+        {
+          "distance": 0.18726593255996704,
+          "id": 1763559569
+        },
+        {
+          "distance": 0.1930670142173767,
+          "id": 1763559281
+        },
+        {
+          "distance": 0.19408220052719116,
+          "id": 1880150939
+        },
+        {
+          "distance": 0.20563507080078125,
+          "id": 1947425039
+        },
+        {
+          "distance": 0.2074611783027649,
+          "id": 1729361797
+        },
+        {
+          "distance": 0.20749253034591675,
+          "id": 1880151259
+        },
+        {
+          "distance": 0.20994681119918823,
+          "id": 1947424799
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362959,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777657,
     "wof:name": "Be sure to see @jhenryfair's photo exhibit, \"Abstractions of Destruction,\" pre-TSA, between T2 \u0026 T3!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

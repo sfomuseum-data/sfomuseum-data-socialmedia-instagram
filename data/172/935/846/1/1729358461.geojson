@@ -46,6 +46,50 @@
       "taken": 1521393840,
       "taken_at": "Mar 18, 2018 5:24 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3062237501144409,
+          "id": 1729360473
+        },
+        {
+          "distance": 0.3062489628791809,
+          "id": 1729360473
+        },
+        {
+          "distance": 0.3121880888938904,
+          "id": 1729355273
+        },
+        {
+          "distance": 0.3125397562980652,
+          "id": 1729360523
+        },
+        {
+          "distance": 0.32312923669815063,
+          "id": 1729358951
+        },
+        {
+          "distance": 0.32775235176086426,
+          "id": 1729355273
+        },
+        {
+          "distance": 0.32792139053344727,
+          "id": 1729355977
+        },
+        {
+          "distance": 0.32862019538879395,
+          "id": 1729361795
+        },
+        {
+          "distance": 0.33063262701034546,
+          "id": 1729360523
+        },
+        {
+          "distance": 0.331714391708374,
+          "id": 1729360733
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -75,7 +119,7 @@
       }
     ],
     "wof:id": 1729358461,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "\"Theatricalizing life with dreams\" was how Mary Wells, a pioneering advertising executive for Jack Tinker Associates, recalled her greatest strength...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -92,5 +136,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

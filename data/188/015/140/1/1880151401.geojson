@@ -27,6 +27,50 @@
       "taken": 1665391920,
       "taken_at": "Oct 10, 2022 8:52 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15436887741088867,
+          "id": 1729358347
+        },
+        {
+          "distance": 0.16176247596740723,
+          "id": 1947425115
+        },
+        {
+          "distance": 0.17961150407791138,
+          "id": 1729355529
+        },
+        {
+          "distance": 0.18238985538482666,
+          "id": 1729358347
+        },
+        {
+          "distance": 0.19777047634124756,
+          "id": 1763558925
+        },
+        {
+          "distance": 0.20034760236740112,
+          "id": 1729360245
+        },
+        {
+          "distance": 0.2049567699432373,
+          "id": 1947425019
+        },
+        {
+          "distance": 0.21027731895446777,
+          "id": 1729355059
+        },
+        {
+          "distance": 0.2110365629196167,
+          "id": 1763559129
+        },
+        {
+          "distance": 0.21325963735580444,
+          "id": 1763558925
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1880151401,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Happy Indigenous Peoples’ Day!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -73,5 +117,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

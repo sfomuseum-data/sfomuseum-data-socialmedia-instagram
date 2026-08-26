@@ -36,6 +36,50 @@
       "taken": 1528374120,
       "taken_at": "Jun 07, 2018 12:22 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1290563941001892,
+          "id": 1729358549
+        },
+        {
+          "distance": 0.1497669219970703,
+          "id": 1729358549
+        },
+        {
+          "distance": 0.17937910556793213,
+          "id": 1729358591
+        },
+        {
+          "distance": 0.189414381980896,
+          "id": 1729357773
+        },
+        {
+          "distance": 0.20263028144836426,
+          "id": 1729357773
+        },
+        {
+          "distance": 0.2060062289237976,
+          "id": 1729358399
+        },
+        {
+          "distance": 0.2130826711654663,
+          "id": 1729358205
+        },
+        {
+          "distance": 0.21596503257751465,
+          "id": 1729358205
+        },
+        {
+          "distance": 0.22223180532455444,
+          "id": 1729358173
+        },
+        {
+          "distance": 0.2256462574005127,
+          "id": 1729358101
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729358141,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Kanban or Japanese shop signs feature imagery that allows potential customers to identify the things merchants sell in their shops...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -31,6 +31,50 @@
       "taken": 1692114960,
       "taken_at": "Aug 15, 2023 3:56 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14974701404571533,
+          "id": 1880151511
+        },
+        {
+          "distance": 0.1536087989807129,
+          "id": 1880151511
+        },
+        {
+          "distance": 0.22031068801879883,
+          "id": 1729361567
+        },
+        {
+          "distance": 0.24129140377044678,
+          "id": 1729355779
+        },
+        {
+          "distance": 0.25511932373046875,
+          "id": 1880151131
+        },
+        {
+          "distance": 0.2571220397949219,
+          "id": 1729355597
+        },
+        {
+          "distance": 0.2598520517349243,
+          "id": 1729360993
+        },
+        {
+          "distance": 0.26008594036102295,
+          "id": 1763558965
+        },
+        {
+          "distance": 0.26400041580200195,
+          "id": 1880151137
+        },
+        {
+          "distance": 0.26881861686706543,
+          "id": 1763558965
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1947425317,
-    "wof:lastmodified": 1733175332,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Viola Frey was born on this day Lodi, California in 1933...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -73,5 +117,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1450176720,
       "taken_at": "Dec 15, 2015 10:52 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1297093629837036,
+          "id": 1729361337
+        },
+        {
+          "distance": 0.14732366800308228,
+          "id": 1729356037
+        },
+        {
+          "distance": 0.15081733465194702,
+          "id": 1763559651
+        },
+        {
+          "distance": 0.15689480304718018,
+          "id": 1729356037
+        },
+        {
+          "distance": 0.1640223264694214,
+          "id": 1763559651
+        },
+        {
+          "distance": 0.17146921157836914,
+          "id": 1729362077
+        },
+        {
+          "distance": 0.1717674732208252,
+          "id": 1729359843
+        },
+        {
+          "distance": 0.17186319828033447,
+          "id": 1729361391
+        },
+        {
+          "distance": 0.17367595434188843,
+          "id": 1729356029
+        },
+        {
+          "distance": 0.17718052864074707,
+          "id": 1729360513
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361271,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "The Loughead brothers, Allen and Malcolm, were born in what is now called Fremont in the San Francisco Bay Area in the late 1800s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

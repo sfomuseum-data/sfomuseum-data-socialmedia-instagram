@@ -31,6 +31,50 @@
       "taken": 1615908300,
       "taken_at": "Mar 16, 2021 3:25 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.03027564287185669,
+          "id": 1729359515
+        },
+        {
+          "distance": 0.03220242261886597,
+          "id": 1729361143
+        },
+        {
+          "distance": 0.06484043598175049,
+          "id": 1729361143
+        },
+        {
+          "distance": 0.10819905996322632,
+          "id": 1729357513
+        },
+        {
+          "distance": 0.11656308174133301,
+          "id": 1729359515
+        },
+        {
+          "distance": 0.12229347229003906,
+          "id": 1729357547
+        },
+        {
+          "distance": 0.12879568338394165,
+          "id": 1729357513
+        },
+        {
+          "distance": 0.13005733489990234,
+          "id": 1880151063
+        },
+        {
+          "distance": 0.1363394856452942,
+          "id": 1763559413
+        },
+        {
+          "distance": 0.14646852016448975,
+          "id": 1729356859
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559233,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "As the commercial aviation industry grew in the early 1930s, it became apparent that San Francisco Airport needed to enlarge and enhance their passenger facilities...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

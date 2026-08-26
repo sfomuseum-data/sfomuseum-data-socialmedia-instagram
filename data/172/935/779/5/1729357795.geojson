@@ -37,6 +37,50 @@
       "taken": 1534176720,
       "taken_at": "Aug 13, 2018 4:12 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.31336843967437744,
+          "id": 1729356069
+        },
+        {
+          "distance": 0.32378143072128296,
+          "id": 1729356985
+        },
+        {
+          "distance": 0.3274593949317932,
+          "id": 1729356069
+        },
+        {
+          "distance": 0.3652363419532776,
+          "id": 1729357699
+        },
+        {
+          "distance": 0.36799561977386475,
+          "id": 1729361155
+        },
+        {
+          "distance": 0.36953026056289673,
+          "id": 1729356985
+        },
+        {
+          "distance": 0.3703082799911499,
+          "id": 1729358341
+        },
+        {
+          "distance": 0.382415771484375,
+          "id": 1729360977
+        },
+        {
+          "distance": 0.40544790029525757,
+          "id": 1729358551
+        },
+        {
+          "distance": 0.409651517868042,
+          "id": 1729358551
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729357795,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Nicholas Arioli’s CG animated short explores the significance of the term “life savings” through the experience of a naïve young boy who opens a lemonade stand to finance his dreams of space travel, an aspiration long-held by the filmmaker...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

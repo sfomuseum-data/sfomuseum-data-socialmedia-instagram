@@ -32,6 +32,50 @@
       "taken": 1665502740,
       "taken_at": "Oct 11, 2022 3:39 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10438030958175659,
+          "id": 1763559571
+        },
+        {
+          "distance": 0.14224398136138916,
+          "id": 1947425001
+        },
+        {
+          "distance": 0.14620572328567505,
+          "id": 1947425001
+        },
+        {
+          "distance": 0.15510964393615723,
+          "id": 1763559571
+        },
+        {
+          "distance": 0.16747158765792847,
+          "id": 1763558935
+        },
+        {
+          "distance": 0.1738734245300293,
+          "id": 1763559417
+        },
+        {
+          "distance": 0.18611353635787964,
+          "id": 1763559417
+        },
+        {
+          "distance": 0.1901072859764099,
+          "id": 1880151649
+        },
+        {
+          "distance": 0.19192278385162354,
+          "id": 1947425251
+        },
+        {
+          "distance": 0.1934604048728943,
+          "id": 1763558935
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1880151415,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "“I ask for the movement to continue, for the movement to grow, because last week I got a phone call from Altoona, Pennsylvania, and my election gave somebody else, one more person, hope...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -27,6 +27,50 @@
       "taken": 1707412980,
       "taken_at": "Feb 08, 2024 5:23 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09901922941207886,
+          "id": 1729355281
+        },
+        {
+          "distance": 0.14302831888198853,
+          "id": 1729355281
+        },
+        {
+          "distance": 0.17678403854370117,
+          "id": 1729358765
+        },
+        {
+          "distance": 0.21675926446914673,
+          "id": 1729358765
+        },
+        {
+          "distance": 0.2633211612701416,
+          "id": 1729358479
+        },
+        {
+          "distance": 0.26986342668533325,
+          "id": 1947425095
+        },
+        {
+          "distance": 0.30968719720840454,
+          "id": 1729358479
+        },
+        {
+          "distance": 0.3129391074180603,
+          "id": 1729358807
+        },
+        {
+          "distance": 0.3163319230079651,
+          "id": 1947424909
+        },
+        {
+          "distance": 0.31748080253601074,
+          "id": 1947424909
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947425137,
-    "wof:lastmodified": 1733175327,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Last week, the flag carrier of Japan, Japan Air Lines (JAL) celebrated 70 years of service at San Francisco International Airport...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

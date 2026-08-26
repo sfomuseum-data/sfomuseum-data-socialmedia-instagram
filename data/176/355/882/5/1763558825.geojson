@@ -30,6 +30,50 @@
       "taken": 1577808660,
       "taken_at": "Dec 31, 2019 4:11 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.02245384454727173,
+          "id": 1729355711
+        },
+        {
+          "distance": 0.07736414670944214,
+          "id": 1729355711
+        },
+        {
+          "distance": 0.34708213806152344,
+          "id": 1729358537
+        },
+        {
+          "distance": 0.3566949963569641,
+          "id": 1880151431
+        },
+        {
+          "distance": 0.358146607875824,
+          "id": 1729360673
+        },
+        {
+          "distance": 0.36045920848846436,
+          "id": 1729359825
+        },
+        {
+          "distance": 0.3654487729072571,
+          "id": 1729356243
+        },
+        {
+          "distance": 0.36634206771850586,
+          "id": 1729360779
+        },
+        {
+          "distance": 0.3677747845649719,
+          "id": 1729360535
+        },
+        {
+          "distance": 0.369167685508728,
+          "id": 1729360163
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763558825,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777659,
     "wof:name": "Happy New Year’s Eve!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

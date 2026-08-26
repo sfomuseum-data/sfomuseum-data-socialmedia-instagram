@@ -40,6 +40,50 @@
       "taken": 1537386000,
       "taken_at": "Sep 19, 2018 7:40 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.27116382122039795,
+          "id": 1729358197
+        },
+        {
+          "distance": 0.27130866050720215,
+          "id": 1729358197
+        },
+        {
+          "distance": 0.2918916940689087,
+          "id": 1729358321
+        },
+        {
+          "distance": 0.2948259711265564,
+          "id": 1729358321
+        },
+        {
+          "distance": 0.2979748249053955,
+          "id": 1729355665
+        },
+        {
+          "distance": 0.298798143863678,
+          "id": 1729357231
+        },
+        {
+          "distance": 0.2994638681411743,
+          "id": 1763558741
+        },
+        {
+          "distance": 0.2994638681411743,
+          "id": 1729358459
+        },
+        {
+          "distance": 0.3005458116531372,
+          "id": 1763559021
+        },
+        {
+          "distance": 0.30217695236206055,
+          "id": 1729357231
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729357651,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "In 1994, Gilbert Baker, the original creator of the rainbow flag and a team of volunteers created a mile-long rainbow flag for the 25th Anniversary of the 1969 Stonewall riots...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

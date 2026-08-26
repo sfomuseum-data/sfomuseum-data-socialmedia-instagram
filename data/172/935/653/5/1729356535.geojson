@@ -35,6 +35,50 @@
       "taken": 1558515600,
       "taken_at": "May 22, 2019 9:00 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.26739299297332764,
+          "id": 1729360771
+        },
+        {
+          "distance": 0.27703869342803955,
+          "id": 1729359223
+        },
+        {
+          "distance": 0.27795493602752686,
+          "id": 1729359331
+        },
+        {
+          "distance": 0.28461557626724243,
+          "id": 1880151245
+        },
+        {
+          "distance": 0.28693753480911255,
+          "id": 1729357003
+        },
+        {
+          "distance": 0.2899870276451111,
+          "id": 1729362613
+        },
+        {
+          "distance": 0.29416602849960327,
+          "id": 1729360771
+        },
+        {
+          "distance": 0.29725462198257446,
+          "id": 1729357005
+        },
+        {
+          "distance": 0.3040563464164734,
+          "id": 1729359871
+        },
+        {
+          "distance": 0.30654245615005493,
+          "id": 1729359365
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729356535,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Animals, both mythical and real, have appeared in fine and decorative arts and architecture for centuries...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -29,6 +29,50 @@
       "taken": 1682684580,
       "taken_at": "Apr 28, 2023 12:23 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.00002372264862060547,
+          "id": 1880151035
+        },
+        {
+          "distance": 0.05813497304916382,
+          "id": 1880151231
+        },
+        {
+          "distance": 0.09411853551864624,
+          "id": 1880151035
+        },
+        {
+          "distance": 0.11984896659851074,
+          "id": 1880151231
+        },
+        {
+          "distance": 0.17839080095291138,
+          "id": 1763558827
+        },
+        {
+          "distance": 0.17861586809158325,
+          "id": 1729355755
+        },
+        {
+          "distance": 0.2009669542312622,
+          "id": 1729355755
+        },
+        {
+          "distance": 0.20119822025299072,
+          "id": 1763558827
+        },
+        {
+          "distance": 0.2155056595802307,
+          "id": 1880151121
+        },
+        {
+          "distance": 0.2195267677307129,
+          "id": 1947425021
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880150951,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777661,
     "wof:name": "On January 21, 1976, Air France and British Airways marked a pivotal moment in the advancement of commercial aviation...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

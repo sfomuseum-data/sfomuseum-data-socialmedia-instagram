@@ -25,6 +25,50 @@
       "taken": 1452895080,
       "taken_at": "Jan 15, 2016 9:58 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.147657573223114,
+          "id": 1729359455
+        },
+        {
+          "distance": 0.19186538457870483,
+          "id": 1729359455
+        },
+        {
+          "distance": 0.20651835203170776,
+          "id": 1880151289
+        },
+        {
+          "distance": 0.206689715385437,
+          "id": 1729359929
+        },
+        {
+          "distance": 0.2150859832763672,
+          "id": 1763559327
+        },
+        {
+          "distance": 0.21745187044143677,
+          "id": 1763559487
+        },
+        {
+          "distance": 0.2378864288330078,
+          "id": 1729359929
+        },
+        {
+          "distance": 0.23899823427200317,
+          "id": 1880151289
+        },
+        {
+          "distance": 0.2453211545944214,
+          "id": 1729361549
+        },
+        {
+          "distance": 0.24581336975097656,
+          "id": 1947425117
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361167,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "The 049 Constellation was an extremely fast, highly advanced, and revolutionary large-capacity airliner with a unique dolphin-shaped fuselage and distinctive tripletail...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

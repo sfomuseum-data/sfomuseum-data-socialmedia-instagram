@@ -39,6 +39,50 @@
       "taken": 1562601120,
       "taken_at": "Jul 8, 2019, 3:52 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.011667490005493164,
+          "id": 1763558815
+        },
+        {
+          "distance": 0.1311943531036377,
+          "id": 1763558815
+        },
+        {
+          "distance": 0.13430458307266235,
+          "id": 1729360847
+        },
+        {
+          "distance": 0.1639731526374817,
+          "id": 1763559547
+        },
+        {
+          "distance": 0.16499072313308716,
+          "id": 1729358009
+        },
+        {
+          "distance": 0.17563360929489136,
+          "id": 1729360847
+        },
+        {
+          "distance": 0.184337317943573,
+          "id": 1880151589
+        },
+        {
+          "distance": 0.18737536668777466,
+          "id": 1729359361
+        },
+        {
+          "distance": 0.19145417213439941,
+          "id": 1729356729
+        },
+        {
+          "distance": 0.192193865776062,
+          "id": 1763559015
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729356337,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "The first flight of the Boeing 377 took place #onthisday in 1947...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

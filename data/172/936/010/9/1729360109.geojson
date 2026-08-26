@@ -33,6 +33,50 @@
       "taken": 1479324000,
       "taken_at": "Nov 16, 2016 7:20 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.08840054273605347,
+          "id": 1763558671
+        },
+        {
+          "distance": 0.08840054273605347,
+          "id": 1729359335
+        },
+        {
+          "distance": 0.1379460096359253,
+          "id": 1729359335
+        },
+        {
+          "distance": 0.1379460096359253,
+          "id": 1763558671
+        },
+        {
+          "distance": 0.1994801163673401,
+          "id": 1729357463
+        },
+        {
+          "distance": 0.20068657398223877,
+          "id": 1729360473
+        },
+        {
+          "distance": 0.2110798954963684,
+          "id": 1729360523
+        },
+        {
+          "distance": 0.21846652030944824,
+          "id": 1729360523
+        },
+        {
+          "distance": 0.22266769409179688,
+          "id": 1729360171
+        },
+        {
+          "distance": 0.22571951150894165,
+          "id": 1729360551
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729360109,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "In 1986, renowned French couturier Yves Saint Laurent (1936–2008) introduced this Qantas uniform, which was worn until 1991...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

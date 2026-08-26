@@ -40,6 +40,50 @@
       "taken": 1541614020,
       "taken_at": "Nov 7, 2018, 6:07 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2977362871170044,
+          "id": 1729356627
+        },
+        {
+          "distance": 0.3025878071784973,
+          "id": 1729356627
+        },
+        {
+          "distance": 0.3301199674606323,
+          "id": 1729357435
+        },
+        {
+          "distance": 0.3321855068206787,
+          "id": 1729356653
+        },
+        {
+          "distance": 0.3337578773498535,
+          "id": 1729356829
+        },
+        {
+          "distance": 0.3368760347366333,
+          "id": 1729357009
+        },
+        {
+          "distance": 0.36938709020614624,
+          "id": 1729357435
+        },
+        {
+          "distance": 0.3709515929222107,
+          "id": 1729357009
+        },
+        {
+          "distance": 0.37900233268737793,
+          "id": 1729357149
+        },
+        {
+          "distance": 0.38149940967559814,
+          "id": 1729357571
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729357401,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777631,
     "wof:name": "The French-speaking settlers who left the Acadian region of Canada  for southwest Louisiana in 1764 became known as Cajuns...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

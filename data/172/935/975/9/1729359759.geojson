@@ -25,6 +25,50 @@
       "taken": 1488448380,
       "taken_at": "Mar 02, 2017 9:53 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09123218059539795,
+          "id": 1729357747
+        },
+        {
+          "distance": 0.13837593793869019,
+          "id": 1729360235
+        },
+        {
+          "distance": 0.14320290088653564,
+          "id": 1729357667
+        },
+        {
+          "distance": 0.14411884546279907,
+          "id": 1729361383
+        },
+        {
+          "distance": 0.14981716871261597,
+          "id": 1729361267
+        },
+        {
+          "distance": 0.1535845398902893,
+          "id": 1729357545
+        },
+        {
+          "distance": 0.15390890836715698,
+          "id": 1947425255
+        },
+        {
+          "distance": 0.16274148225784302,
+          "id": 1729360259
+        },
+        {
+          "distance": 0.17188197374343872,
+          "id": 1729355253
+        },
+        {
+          "distance": 0.17281174659729004,
+          "id": 1729357057
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359759,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "Before the central multi-level parking structure was built in 1965, cars parked in a circular formation in front of the Central Terminal (now Terminal 2)...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

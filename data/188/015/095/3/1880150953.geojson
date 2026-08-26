@@ -27,6 +27,50 @@
       "taken": 1682936460,
       "taken_at": "May 01, 2023 10:21 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3279798626899719,
+          "id": 1763559195
+        },
+        {
+          "distance": 0.34617340564727783,
+          "id": 1729363027
+        },
+        {
+          "distance": 0.34728533029556274,
+          "id": 1729360897
+        },
+        {
+          "distance": 0.3505353331565857,
+          "id": 1763559075
+        },
+        {
+          "distance": 0.35385334491729736,
+          "id": 1729363027
+        },
+        {
+          "distance": 0.3541211485862732,
+          "id": 1880150945
+        },
+        {
+          "distance": 0.3604673147201538,
+          "id": 1880150945
+        },
+        {
+          "distance": 0.3621007204055786,
+          "id": 1729356671
+        },
+        {
+          "distance": 0.36912286281585693,
+          "id": 1763559195
+        },
+        {
+          "distance": 0.36923742294311523,
+          "id": 1729362259
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1880150953,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777661,
     "wof:name": "How much information can you squeeze on to a matchbook cover?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -73,5 +117,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

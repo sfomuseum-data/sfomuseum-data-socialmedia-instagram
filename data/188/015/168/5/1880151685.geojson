@@ -29,6 +29,50 @@
       "taken": 1654098900,
       "taken_at": "Jun 01, 2022 3:55 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0045188069343566895,
+          "id": 1880151613
+        },
+        {
+          "distance": 0.03832799196243286,
+          "id": 1880151643
+        },
+        {
+          "distance": 0.08959406614303589,
+          "id": 1880151613
+        },
+        {
+          "distance": 0.09263640642166138,
+          "id": 1880151521
+        },
+        {
+          "distance": 0.09276825189590454,
+          "id": 1880151049
+        },
+        {
+          "distance": 0.0945131778717041,
+          "id": 1880151631
+        },
+        {
+          "distance": 0.10343676805496216,
+          "id": 1947425187
+        },
+        {
+          "distance": 0.10542023181915283,
+          "id": 1880151643
+        },
+        {
+          "distance": 0.12203824520111084,
+          "id": 1880150963
+        },
+        {
+          "distance": 0.12505972385406494,
+          "id": 1880151175
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880151685,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777663,
     "wof:name": "The long-awaited day has come: the Aviation Museum and Library reopened today with a new facade and five new exhibitions!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

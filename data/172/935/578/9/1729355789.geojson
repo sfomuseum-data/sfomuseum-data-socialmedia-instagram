@@ -37,6 +37,50 @@
       "taken": 1576602120,
       "taken_at": "Dec 17, 2019, 5:02 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1160057783126831,
+          "id": 1729355771
+        },
+        {
+          "distance": 0.13628321886062622,
+          "id": 1729355765
+        },
+        {
+          "distance": 0.17499560117721558,
+          "id": 1729356251
+        },
+        {
+          "distance": 0.2075476050376892,
+          "id": 1729355771
+        },
+        {
+          "distance": 0.21680223941802979,
+          "id": 1729355853
+        },
+        {
+          "distance": 0.2172844409942627,
+          "id": 1729356401
+        },
+        {
+          "distance": 0.21924561262130737,
+          "id": 1729355765
+        },
+        {
+          "distance": 0.22491496801376343,
+          "id": 1729355773
+        },
+        {
+          "distance": 0.22572940587997437,
+          "id": 1729356361
+        },
+        {
+          "distance": 0.2314724326133728,
+          "id": 1729356469
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729355789,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777627,
     "wof:name": "Gilding, which has existed since ancient times, entails applying extremely thin sheets of gold to the surface of another material...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

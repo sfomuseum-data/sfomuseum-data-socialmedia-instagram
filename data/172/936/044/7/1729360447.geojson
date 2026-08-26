@@ -25,6 +25,50 @@
       "taken": 1470651840,
       "taken_at": "Aug 08, 2016 10:24 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.21459215879440308,
+          "id": 1729360659
+        },
+        {
+          "distance": 0.22901904582977295,
+          "id": 1729360763
+        },
+        {
+          "distance": 0.23728734254837036,
+          "id": 1729360659
+        },
+        {
+          "distance": 0.24500638246536255,
+          "id": 1729360763
+        },
+        {
+          "distance": 0.2623886466026306,
+          "id": 1729360565
+        },
+        {
+          "distance": 0.2625494599342346,
+          "id": 1729360661
+        },
+        {
+          "distance": 0.27434784173965454,
+          "id": 1729355739
+        },
+        {
+          "distance": 0.27614790201187134,
+          "id": 1729360735
+        },
+        {
+          "distance": 0.2791634202003479,
+          "id": 1729360219
+        },
+        {
+          "distance": 0.2808796167373657,
+          "id": 1729360385
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360447,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Inspired by the flora and fauna of his birthplace in El Salvador, José Nuñez uses assured and controlled paint strokes to delineate different shapes of flowers and other plants...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

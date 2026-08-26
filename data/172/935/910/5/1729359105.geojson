@@ -25,6 +25,50 @@
       "taken": 1504870980,
       "taken_at": "Sep 08, 2017 11:43 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2754916548728943,
+          "id": 1729362387
+        },
+        {
+          "distance": 0.27780747413635254,
+          "id": 1729362207
+        },
+        {
+          "distance": 0.2868690490722656,
+          "id": 1729359541
+        },
+        {
+          "distance": 0.2925434708595276,
+          "id": 1729359541
+        },
+        {
+          "distance": 0.29776984453201294,
+          "id": 1729359239
+        },
+        {
+          "distance": 0.3241702914237976,
+          "id": 1729359215
+        },
+        {
+          "distance": 0.33272653818130493,
+          "id": 1880150883
+        },
+        {
+          "distance": 0.33616018295288086,
+          "id": 1729359239
+        },
+        {
+          "distance": 0.33735090494155884,
+          "id": 1729362613
+        },
+        {
+          "distance": 0.34107452630996704,
+          "id": 1880151155
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359105,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "In Chinese opera, an actor will typically devote their opera training to a single type of role...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

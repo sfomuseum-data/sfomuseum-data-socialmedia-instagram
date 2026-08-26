@@ -52,6 +52,50 @@
       "taken": 1502191800,
       "taken_at": "Aug 08, 2017 11:30 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20628690719604492,
+          "id": 1729359563
+        },
+        {
+          "distance": 0.247563898563385,
+          "id": 1729359563
+        },
+        {
+          "distance": 0.2630126476287842,
+          "id": 1729359239
+        },
+        {
+          "distance": 0.28611916303634644,
+          "id": 1729359239
+        },
+        {
+          "distance": 0.2900199294090271,
+          "id": 1729358953
+        },
+        {
+          "distance": 0.29104554653167725,
+          "id": 1729358953
+        },
+        {
+          "distance": 0.29934465885162354,
+          "id": 1729359357
+        },
+        {
+          "distance": 0.30186164379119873,
+          "id": 1729362207
+        },
+        {
+          "distance": 0.31778955459594727,
+          "id": 1729359357
+        },
+        {
+          "distance": 0.32719695568084717,
+          "id": 1729359309
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -81,7 +125,7 @@
       }
     ],
     "wof:id": 1729359215,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "It is #InternationalCatDay!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -98,5 +142,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

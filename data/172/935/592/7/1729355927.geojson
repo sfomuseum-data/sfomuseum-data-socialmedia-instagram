@@ -32,6 +32,50 @@
       "taken": 1572523200,
       "taken_at": "Oct 31, 2019 12:00 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17594236135482788,
+          "id": 1729357127
+        },
+        {
+          "distance": 0.18427622318267822,
+          "id": 1729359519
+        },
+        {
+          "distance": 0.18711191415786743,
+          "id": 1729357127
+        },
+        {
+          "distance": 0.19455820322036743,
+          "id": 1729357769
+        },
+        {
+          "distance": 0.19776159524917603,
+          "id": 1729359519
+        },
+        {
+          "distance": 0.20802277326583862,
+          "id": 1729357043
+        },
+        {
+          "distance": 0.22163158655166626,
+          "id": 1729357575
+        },
+        {
+          "distance": 0.22241288423538208,
+          "id": 1729360549
+        },
+        {
+          "distance": 0.22352635860443115,
+          "id": 1729357345
+        },
+        {
+          "distance": 0.22522372007369995,
+          "id": 1729357769
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729355927,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777627,
     "wof:name": "In the mid-1960s, Braniff International launched the \"End of the Plain Plane\" campaign, dressing up their aircraft in bright, bold, eye-catching liveries never before seen on commercial aircraft...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1452623580,
       "taken_at": "Jan 12, 2016 6:33 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15465515851974487,
+          "id": 1763558905
+        },
+        {
+          "distance": 0.19682258367538452,
+          "id": 1763558905
+        },
+        {
+          "distance": 0.20774531364440918,
+          "id": 1729356657
+        },
+        {
+          "distance": 0.21014004945755005,
+          "id": 1729360091
+        },
+        {
+          "distance": 0.21119999885559082,
+          "id": 1729356657
+        },
+        {
+          "distance": 0.21168917417526245,
+          "id": 1729357841
+        },
+        {
+          "distance": 0.21366679668426514,
+          "id": 1729360091
+        },
+        {
+          "distance": 0.21976250410079956,
+          "id": 1880151387
+        },
+        {
+          "distance": 0.21993225812911987,
+          "id": 1880151189
+        },
+        {
+          "distance": 0.22186005115509033,
+          "id": 1729356091
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361175,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "Recently, there has been talk about re-opening mail routes to Cuba, which is only 90 miles from the most southern point in the United States, Key West, Florida...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

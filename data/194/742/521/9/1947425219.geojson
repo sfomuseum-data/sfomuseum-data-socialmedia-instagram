@@ -29,6 +29,50 @@
       "taken": 1700499120,
       "taken_at": "Nov 20, 2023 4:52 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15430676937103271,
+          "id": 1947425307
+        },
+        {
+          "distance": 0.15498465299606323,
+          "id": 1880150937
+        },
+        {
+          "distance": 0.15878432989120483,
+          "id": 1880150937
+        },
+        {
+          "distance": 0.16706544160842896,
+          "id": 1880150971
+        },
+        {
+          "distance": 0.1844097375869751,
+          "id": 1947425307
+        },
+        {
+          "distance": 0.18484646081924438,
+          "id": 1880150907
+        },
+        {
+          "distance": 0.2014148235321045,
+          "id": 1880150971
+        },
+        {
+          "distance": 0.20583373308181763,
+          "id": 1880150907
+        },
+        {
+          "distance": 0.21354132890701294,
+          "id": 1947425261
+        },
+        {
+          "distance": 0.2282128930091858,
+          "id": 1947425261
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1947425219,
-    "wof:lastmodified": 1733175330,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Principal dancer Joseph Walsh (b...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

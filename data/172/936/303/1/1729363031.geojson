@@ -25,6 +25,50 @@
       "taken": 1334327400,
       "taken_at": "Apr 13, 2012 2:30 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23960304260253906,
+          "id": 1729357159
+        },
+        {
+          "distance": 0.24517107009887695,
+          "id": 1729362727
+        },
+        {
+          "distance": 0.25156956911087036,
+          "id": 1729357315
+        },
+        {
+          "distance": 0.25232475996017456,
+          "id": 1729357089
+        },
+        {
+          "distance": 0.2551332116127014,
+          "id": 1729357315
+        },
+        {
+          "distance": 0.25612807273864746,
+          "id": 1729357089
+        },
+        {
+          "distance": 0.2578412890434265,
+          "id": 1729356727
+        },
+        {
+          "distance": 0.25787490606307983,
+          "id": 1729356673
+        },
+        {
+          "distance": 0.26019376516342163,
+          "id": 1729357025
+        },
+        {
+          "distance": 0.262079119682312,
+          "id": 1729356771
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729363031,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777657,
     "wof:name": "Sparks are flying around here (not just planes!)..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

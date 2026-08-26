@@ -42,6 +42,50 @@
       "taken": 1502998440,
       "taken_at": "Aug 17, 2017 7:34 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20137500762939453,
+          "id": 1947425117
+        },
+        {
+          "distance": 0.2056005597114563,
+          "id": 1763559155
+        },
+        {
+          "distance": 0.22365260124206543,
+          "id": 1729358727
+        },
+        {
+          "distance": 0.22749614715576172,
+          "id": 1729359969
+        },
+        {
+          "distance": 0.22876280546188354,
+          "id": 1763559327
+        },
+        {
+          "distance": 0.23726534843444824,
+          "id": 1729360617
+        },
+        {
+          "distance": 0.24254214763641357,
+          "id": 1729358727
+        },
+        {
+          "distance": 0.24264419078826904,
+          "id": 1763559487
+        },
+        {
+          "distance": 0.24464255571365356,
+          "id": 1763559155
+        },
+        {
+          "distance": 0.2576097846031189,
+          "id": 1729359701
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -71,7 +115,7 @@
       }
     ],
     "wof:id": 1729359167,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "United’s maintenance base was relocated from Cheyenne, Wyoming, and set up for full-time operation at San Francisco International Airport in 1947...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -88,5 +132,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

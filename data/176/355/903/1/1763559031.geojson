@@ -29,6 +29,50 @@
       "taken": 1602776340,
       "taken_at": "Oct 15, 2020 3:39 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.26695090532302856,
+          "id": 1880151305
+        },
+        {
+          "distance": 0.29227060079574585,
+          "id": 1729361561
+        },
+        {
+          "distance": 0.2925506830215454,
+          "id": 1729355059
+        },
+        {
+          "distance": 0.2955167889595032,
+          "id": 1729357385
+        },
+        {
+          "distance": 0.2966783046722412,
+          "id": 1763559023
+        },
+        {
+          "distance": 0.2979201674461365,
+          "id": 1763559119
+        },
+        {
+          "distance": 0.29886144399642944,
+          "id": 1729355739
+        },
+        {
+          "distance": 0.2992491126060486,
+          "id": 1763559023
+        },
+        {
+          "distance": 0.30387866497039795,
+          "id": 1729356631
+        },
+        {
+          "distance": 0.3044835925102234,
+          "id": 1729355937
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1763559031,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "In honor of our 40th anniversary, every week this year we are highlighting one of our past exhibitions...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

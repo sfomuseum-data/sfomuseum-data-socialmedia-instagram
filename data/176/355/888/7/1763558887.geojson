@@ -30,6 +30,50 @@
       "taken": 1611679200,
       "taken_at": "Jan 26, 2021 4:40 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2642572522163391,
+          "id": 1729355701
+        },
+        {
+          "distance": 0.2684224843978882,
+          "id": 1729360651
+        },
+        {
+          "distance": 0.27818238735198975,
+          "id": 1729360651
+        },
+        {
+          "distance": 0.28087323904037476,
+          "id": 1729355703
+        },
+        {
+          "distance": 0.28201615810394287,
+          "id": 1729355701
+        },
+        {
+          "distance": 0.2899143695831299,
+          "id": 1729360049
+        },
+        {
+          "distance": 0.29412227869033813,
+          "id": 1729360049
+        },
+        {
+          "distance": 0.29676908254623413,
+          "id": 1729355723
+        },
+        {
+          "distance": 0.2976405620574951,
+          "id": 1729355703
+        },
+        {
+          "distance": 0.29882222414016724,
+          "id": 1729355707
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763558887,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777659,
     "wof:name": "“Coding” uses computer controlled lighting and decorative architectural finishes to create an immersive environmental installation...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

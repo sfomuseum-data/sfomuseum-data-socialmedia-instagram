@@ -29,6 +29,50 @@
       "taken": 1677861180,
       "taken_at": "Mar 03, 2023 4:33 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1358303427696228,
+          "id": 1880151301
+        },
+        {
+          "distance": 0.16602814197540283,
+          "id": 1880151293
+        },
+        {
+          "distance": 0.1776338815689087,
+          "id": 1880150975
+        },
+        {
+          "distance": 0.1814512014389038,
+          "id": 1880151293
+        },
+        {
+          "distance": 0.2021571397781372,
+          "id": 1880151061
+        },
+        {
+          "distance": 0.2058594822883606,
+          "id": 1880150975
+        },
+        {
+          "distance": 0.20680594444274902,
+          "id": 1729355755
+        },
+        {
+          "distance": 0.2097628116607666,
+          "id": 1880151367
+        },
+        {
+          "distance": 0.21219485998153687,
+          "id": 1947425237
+        },
+        {
+          "distance": 0.21229606866836548,
+          "id": 1947425209
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880151079,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "From its humble beginnings in 1927, with one airmail contract to Cuba and a single leased plane, Pan American Airways rapidly expanded in the 1930s under the leadership of Juan T. Trippe as it pioneered a worldwide overseas route system that included the Caribbean, South America, China, New Zealand, and Europe...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

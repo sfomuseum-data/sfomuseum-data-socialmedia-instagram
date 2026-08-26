@@ -25,6 +25,50 @@
       "taken": 1603370340,
       "taken_at": "Oct 22, 2020 12:39 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2573031187057495,
+          "id": 1729358321
+        },
+        {
+          "distance": 0.2577058672904968,
+          "id": 1729358321
+        },
+        {
+          "distance": 0.2646932601928711,
+          "id": 1729358197
+        },
+        {
+          "distance": 0.2790181636810303,
+          "id": 1729358197
+        },
+        {
+          "distance": 0.2872118353843689,
+          "id": 1763558741
+        },
+        {
+          "distance": 0.2872118353843689,
+          "id": 1729358459
+        },
+        {
+          "distance": 0.29616397619247437,
+          "id": 1729358459
+        },
+        {
+          "distance": 0.29616397619247437,
+          "id": 1763558741
+        },
+        {
+          "distance": 0.29750174283981323,
+          "id": 1880151725
+        },
+        {
+          "distance": 0.30078649520874023,
+          "id": 1729357651
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1763559021,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "The world has lost an extraordinary man in Tom Taylor...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -29,6 +29,50 @@
       "taken": 1673266440,
       "taken_at": "Jan 09, 2023 12:14 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3849447965621948,
+          "id": 1729360879
+        },
+        {
+          "distance": 0.41594958305358887,
+          "id": 1729359739
+        },
+        {
+          "distance": 0.41953104734420776,
+          "id": 1729360879
+        },
+        {
+          "distance": 0.43117982149124146,
+          "id": 1729361053
+        },
+        {
+          "distance": 0.44053518772125244,
+          "id": 1729359605
+        },
+        {
+          "distance": 0.44130074977874756,
+          "id": 1880151377
+        },
+        {
+          "distance": 0.4433811902999878,
+          "id": 1729356329
+        },
+        {
+          "distance": 0.44389307498931885,
+          "id": 1729361167
+        },
+        {
+          "distance": 0.4552013874053955,
+          "id": 1729359851
+        },
+        {
+          "distance": 0.45596182346343994,
+          "id": 1729359739
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880151211,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Did you know that SFO Museum is an actively collecting institution?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

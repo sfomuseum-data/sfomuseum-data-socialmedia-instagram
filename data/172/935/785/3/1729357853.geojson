@@ -47,6 +47,50 @@
       "taken": 1532795100,
       "taken_at": "Jul 28, 2018 4:25 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14189958572387695,
+          "id": 1729358603
+        },
+        {
+          "distance": 0.19777560234069824,
+          "id": 1729358603
+        },
+        {
+          "distance": 0.27228331565856934,
+          "id": 1729361627
+        },
+        {
+          "distance": 0.30863481760025024,
+          "id": 1729361627
+        },
+        {
+          "distance": 0.3290126323699951,
+          "id": 1729358549
+        },
+        {
+          "distance": 0.34487462043762207,
+          "id": 1729358141
+        },
+        {
+          "distance": 0.3451935052871704,
+          "id": 1729358549
+        },
+        {
+          "distance": 0.35189640522003174,
+          "id": 1729357867
+        },
+        {
+          "distance": 0.3592684268951416,
+          "id": 1729358301
+        },
+        {
+          "distance": 0.3604910969734192,
+          "id": 1729357917
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -76,7 +120,7 @@
       }
     ],
     "wof:id": 1729357853,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "What better way to spend your caturday than at the airport?!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -93,5 +137,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

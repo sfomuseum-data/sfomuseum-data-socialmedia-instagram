@@ -51,6 +51,50 @@
       "taken": 1494950880,
       "taken_at": "May 16, 2017 4:08 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20563381910324097,
+          "id": 1729359287
+        },
+        {
+          "distance": 0.2478349208831787,
+          "id": 1729359287
+        },
+        {
+          "distance": 0.28210848569869995,
+          "id": 1729360259
+        },
+        {
+          "distance": 0.2862420082092285,
+          "id": 1729361701
+        },
+        {
+          "distance": 0.28810828924179077,
+          "id": 1729361577
+        },
+        {
+          "distance": 0.29191315174102783,
+          "id": 1729357747
+        },
+        {
+          "distance": 0.29533958435058594,
+          "id": 1729359165
+        },
+        {
+          "distance": 0.30416423082351685,
+          "id": 1729358531
+        },
+        {
+          "distance": 0.30514127016067505,
+          "id": 1729355241
+        },
+        {
+          "distance": 0.3054233193397522,
+          "id": 1729357747
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -80,7 +124,7 @@
       }
     ],
     "wof:id": 1729359507,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "At any given moment, there are at least seven thousand commercial airplanes in the sky...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -97,5 +141,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

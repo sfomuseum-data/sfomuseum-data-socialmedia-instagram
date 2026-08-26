@@ -41,6 +41,50 @@
       "taken": 1532680860,
       "taken_at": "Jul 27, 2018, 8:41 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12756389379501343,
+          "id": 1729357879
+        },
+        {
+          "distance": 0.1977962851524353,
+          "id": 1729357877
+        },
+        {
+          "distance": 0.20790356397628784,
+          "id": 1729357879
+        },
+        {
+          "distance": 0.21657037734985352,
+          "id": 1729357877
+        },
+        {
+          "distance": 0.21674805879592896,
+          "id": 1729357885
+        },
+        {
+          "distance": 0.23242968320846558,
+          "id": 1729357885
+        },
+        {
+          "distance": 0.2944232225418091,
+          "id": 1729361053
+        },
+        {
+          "distance": 0.3585362434387207,
+          "id": 1729361051
+        },
+        {
+          "distance": 0.3617510199546814,
+          "id": 1729360147
+        },
+        {
+          "distance": 0.36883842945098877,
+          "id": 1729361397
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -70,7 +114,7 @@
       }
     ],
     "wof:id": 1729357881,
-    "wof:lastmodified": 1716929951,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Large construction projects at SFO, a department of the City and County of San Francisco, are often funded through the issue and sale of municipal bonds...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -87,5 +131,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -30,6 +30,50 @@
       "taken": 1620750000,
       "taken_at": "May 11, 2021 4:20 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19730991125106812,
+          "id": 1729359969
+        },
+        {
+          "distance": 0.20574504137039185,
+          "id": 1729359167
+        },
+        {
+          "distance": 0.2136799693107605,
+          "id": 1729359701
+        },
+        {
+          "distance": 0.22661542892456055,
+          "id": 1729358727
+        },
+        {
+          "distance": 0.2297726273536682,
+          "id": 1729356623
+        },
+        {
+          "distance": 0.2308909296989441,
+          "id": 1729360263
+        },
+        {
+          "distance": 0.23169821500778198,
+          "id": 1729359833
+        },
+        {
+          "distance": 0.23998916149139404,
+          "id": 1729355429
+        },
+        {
+          "distance": 0.2422260046005249,
+          "id": 1763559547
+        },
+        {
+          "distance": 0.24301904439926147,
+          "id": 1763558807
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559155,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "United Air Lines highlighted many of their destinations in a series of advertisements placed in Time magazine in late 1944 and 1945...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

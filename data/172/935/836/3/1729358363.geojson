@@ -48,6 +48,50 @@
       "taken": 1523614920,
       "taken_at": "Apr 13, 2018 10:22 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.05297976732254028,
+          "id": 1729357073
+        },
+        {
+          "distance": 0.05747145414352417,
+          "id": 1729357063
+        },
+        {
+          "distance": 0.07845699787139893,
+          "id": 1729357755
+        },
+        {
+          "distance": 0.09865051507949829,
+          "id": 1729357039
+        },
+        {
+          "distance": 0.11059993505477905,
+          "id": 1763558881
+        },
+        {
+          "distance": 0.12482160329818726,
+          "id": 1729358911
+        },
+        {
+          "distance": 0.12732219696044922,
+          "id": 1729357755
+        },
+        {
+          "distance": 0.13797718286514282,
+          "id": 1729357073
+        },
+        {
+          "distance": 0.13938403129577637,
+          "id": 1729357063
+        },
+        {
+          "distance": 0.14705270528793335,
+          "id": 1729357039
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -77,7 +121,7 @@
       }
     ],
     "wof:id": 1729358363,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Introduced in the late 1930s, the British produced Short S.30 series of aircraft was a large-capacity double-deck flying boat...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -94,5 +138,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

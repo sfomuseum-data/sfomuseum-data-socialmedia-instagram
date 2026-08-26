@@ -33,6 +33,50 @@
       "taken": 1560159900,
       "taken_at": "Jun 10, 2019, 9:45 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23411059379577637,
+          "id": 1729356441
+        },
+        {
+          "distance": 0.24828088283538818,
+          "id": 1729356025
+        },
+        {
+          "distance": 0.2653915286064148,
+          "id": 1729356441
+        },
+        {
+          "distance": 0.27052950859069824,
+          "id": 1729363057
+        },
+        {
+          "distance": 0.2708749771118164,
+          "id": 1729360765
+        },
+        {
+          "distance": 0.2732030153274536,
+          "id": 1729360795
+        },
+        {
+          "distance": 0.28139710426330566,
+          "id": 1729356755
+        },
+        {
+          "distance": 0.2859288454055786,
+          "id": 1729360765
+        },
+        {
+          "distance": 0.293850839138031,
+          "id": 1729360795
+        },
+        {
+          "distance": 0.2952938675880432,
+          "id": 1729362959
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729356449,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Artist Jock McDonald stopped by on Monday afternoon with a charter bus of friends, collectors, and fellow artists, for an informal tour and artist talk of his current exhibition, “The Light of Water.”..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

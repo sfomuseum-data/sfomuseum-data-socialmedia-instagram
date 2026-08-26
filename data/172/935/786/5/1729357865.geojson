@@ -39,6 +39,50 @@
       "taken": 1533296580,
       "taken_at": "Aug 3, 2018, 11:43 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16551613807678223,
+          "id": 1729357835
+        },
+        {
+          "distance": 0.17692619562149048,
+          "id": 1729357653
+        },
+        {
+          "distance": 0.19062727689743042,
+          "id": 1729357417
+        },
+        {
+          "distance": 0.19518154859542847,
+          "id": 1729357421
+        },
+        {
+          "distance": 0.195264995098114,
+          "id": 1729357653
+        },
+        {
+          "distance": 0.20375871658325195,
+          "id": 1729357835
+        },
+        {
+          "distance": 0.22684448957443237,
+          "id": 1729357417
+        },
+        {
+          "distance": 0.2323877215385437,
+          "id": 1729358195
+        },
+        {
+          "distance": 0.23518633842468262,
+          "id": 1729358241
+        },
+        {
+          "distance": 0.24057936668395996,
+          "id": 1729358167
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729357865,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Though born in Los Angeles, Isamu Noguchi attended elementary school in Japan...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

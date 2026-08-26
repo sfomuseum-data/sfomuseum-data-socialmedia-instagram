@@ -30,6 +30,50 @@
       "taken": 1657554960,
       "taken_at": "Jul 11, 2022 3:56 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.21470767259597778,
+          "id": 1729361065
+        },
+        {
+          "distance": 0.2604386806488037,
+          "id": 1729361065
+        },
+        {
+          "distance": 0.3063594102859497,
+          "id": 1729362317
+        },
+        {
+          "distance": 0.31527775526046753,
+          "id": 1729362317
+        },
+        {
+          "distance": 0.36472469568252563,
+          "id": 1729356451
+        },
+        {
+          "distance": 0.3664311170578003,
+          "id": 1880151505
+        },
+        {
+          "distance": 0.3669745922088623,
+          "id": 1729357251
+        },
+        {
+          "distance": 0.3722881078720093,
+          "id": 1729361309
+        },
+        {
+          "distance": 0.38188523054122925,
+          "id": 1729357357
+        },
+        {
+          "distance": 0.38288432359695435,
+          "id": 1729361309
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151587,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Stir it up with some Swizzle Sticks!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

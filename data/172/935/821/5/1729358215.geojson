@@ -45,6 +45,50 @@
       "taken": 1526570040,
       "taken_at": "May 17, 2018, 3:14 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19330012798309326,
+          "id": 1729357063
+        },
+        {
+          "distance": 0.20627224445343018,
+          "id": 1729357073
+        },
+        {
+          "distance": 0.21179181337356567,
+          "id": 1729358219
+        },
+        {
+          "distance": 0.22182881832122803,
+          "id": 1729357601
+        },
+        {
+          "distance": 0.22197067737579346,
+          "id": 1729357273
+        },
+        {
+          "distance": 0.22356384992599487,
+          "id": 1729361635
+        },
+        {
+          "distance": 0.235248863697052,
+          "id": 1729357755
+        },
+        {
+          "distance": 0.24028509855270386,
+          "id": 1729357291
+        },
+        {
+          "distance": 0.24511682987213135,
+          "id": 1729358363
+        },
+        {
+          "distance": 0.2470477819442749,
+          "id": 1729361635
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -74,7 +118,7 @@
       }
     ],
     "wof:id": 1729358215,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Designed by Republic Aircraft’s test pilot and engineer Percival Hopkins \"Spence\" Spencer, the RC-3 Seabee was an all-metal, single-engine, sport amphibian aircraft introduced in 1946...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -91,5 +135,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

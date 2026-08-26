@@ -30,6 +30,50 @@
       "taken": 1657306800,
       "taken_at": "Jul 08, 2022 7:00 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.27787041664123535,
+          "id": 1880151783
+        },
+        {
+          "distance": 0.2790326476097107,
+          "id": 1880151007
+        },
+        {
+          "distance": 0.29192763566970825,
+          "id": 1880151783
+        },
+        {
+          "distance": 0.30117106437683105,
+          "id": 1880151647
+        },
+        {
+          "distance": 0.3154364824295044,
+          "id": 1729355817
+        },
+        {
+          "distance": 0.32576698064804077,
+          "id": 1880151007
+        },
+        {
+          "distance": 0.33146798610687256,
+          "id": 1729358335
+        },
+        {
+          "distance": 0.3500562906265259,
+          "id": 1880151677
+        },
+        {
+          "distance": 0.35081106424331665,
+          "id": 1729361749
+        },
+        {
+          "distance": 0.35288316011428833,
+          "id": 1729359655
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151593,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "In 1952, following a year living in Mexico, Mary Fuller McChesney (1922 – 2022) and her husband, Abstract Expressionist painter, Robert McChesney (1913–2008), hand-built a small home and two studios on two acres atop Sonoma Mountain near Petaluma, California...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

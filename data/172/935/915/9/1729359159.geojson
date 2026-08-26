@@ -42,6 +42,50 @@
       "taken": 1503579360,
       "taken_at": "Aug 24, 2017 12:56 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11941492557525635,
+          "id": 1729355091
+        },
+        {
+          "distance": 0.12333321571350098,
+          "id": 1729360279
+        },
+        {
+          "distance": 0.13610124588012695,
+          "id": 1729357103
+        },
+        {
+          "distance": 0.1386253833770752,
+          "id": 1880151243
+        },
+        {
+          "distance": 0.14515656232833862,
+          "id": 1729357103
+        },
+        {
+          "distance": 0.14623039960861206,
+          "id": 1729361593
+        },
+        {
+          "distance": 0.1466863751411438,
+          "id": 1729358405
+        },
+        {
+          "distance": 0.1537819504737854,
+          "id": 1729361615
+        },
+        {
+          "distance": 0.16669225692749023,
+          "id": 1880151243
+        },
+        {
+          "distance": 0.16794860363006592,
+          "id": 1729357969
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -71,7 +115,7 @@
       }
     ],
     "wof:id": 1729359159,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Taken only a year after its opening, this photo of the South Terminal (now Terminal 1) in SFO shows a book store, a phone bank, and the TWA and Western Airline desks...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -88,5 +132,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

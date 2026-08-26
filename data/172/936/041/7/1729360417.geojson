@@ -25,6 +25,50 @@
       "taken": 1471452480,
       "taken_at": "Aug 17, 2016 4:48 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17784994840621948,
+          "id": 1729361677
+        },
+        {
+          "distance": 0.1786136031150818,
+          "id": 1729357331
+        },
+        {
+          "distance": 0.18331897258758545,
+          "id": 1729359667
+        },
+        {
+          "distance": 0.19346356391906738,
+          "id": 1880150885
+        },
+        {
+          "distance": 0.19895446300506592,
+          "id": 1729359671
+        },
+        {
+          "distance": 0.20107895135879517,
+          "id": 1729357001
+        },
+        {
+          "distance": 0.2103888988494873,
+          "id": 1729361941
+        },
+        {
+          "distance": 0.21744728088378906,
+          "id": 1880150885
+        },
+        {
+          "distance": 0.2222139835357666,
+          "id": 1729357331
+        },
+        {
+          "distance": 0.23435837030410767,
+          "id": 1729362039
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360417,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "Married in 1910, Osa and Martin Johnson conducted four African safaris in the 1920s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -29,6 +29,50 @@
       "taken": 1496530020,
       "taken_at": "Jun 03, 2017 10:47 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11106842756271362,
+          "id": 1729358939
+        },
+        {
+          "distance": 0.13377690315246582,
+          "id": 1729359485
+        },
+        {
+          "distance": 0.1359136700630188,
+          "id": 1729358989
+        },
+        {
+          "distance": 0.13669055700302124,
+          "id": 1729358859
+        },
+        {
+          "distance": 0.1510709524154663,
+          "id": 1729359001
+        },
+        {
+          "distance": 0.16118133068084717,
+          "id": 1729359439
+        },
+        {
+          "distance": 0.16463279724121094,
+          "id": 1729358773
+        },
+        {
+          "distance": 0.17147386074066162,
+          "id": 1729359179
+        },
+        {
+          "distance": 0.1723678708076477,
+          "id": 1729359125
+        },
+        {
+          "distance": 0.1755671501159668,
+          "id": 1729359231
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729359435,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "By the 1930s, the typewriter was such a useful writing tool that even coin-operated conversions were made...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

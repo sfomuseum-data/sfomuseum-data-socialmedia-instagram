@@ -28,6 +28,50 @@
       "taken": 1566043440,
       "taken_at": "Aug 17, 2019 12:04 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2403584122657776,
+          "id": 1729361743
+        },
+        {
+          "distance": 0.2929600477218628,
+          "id": 1763559391
+        },
+        {
+          "distance": 0.2987186908721924,
+          "id": 1729361743
+        },
+        {
+          "distance": 0.30077964067459106,
+          "id": 1880151473
+        },
+        {
+          "distance": 0.31569719314575195,
+          "id": 1763559499
+        },
+        {
+          "distance": 0.3164510726928711,
+          "id": 1880150965
+        },
+        {
+          "distance": 0.3168768882751465,
+          "id": 1729360547
+        },
+        {
+          "distance": 0.3173467516899109,
+          "id": 1729360767
+        },
+        {
+          "distance": 0.3173559904098511,
+          "id": 1729360455
+        },
+        {
+          "distance": 0.31808340549468994,
+          "id": 1763559049
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1729356187,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777628,
     "wof:name": "Did you know that SFO Museum has a collection of over 140,000 objects across our museum, library, and archives?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

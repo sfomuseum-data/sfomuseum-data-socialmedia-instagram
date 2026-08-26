@@ -28,6 +28,50 @@
       "taken": 1588937940,
       "taken_at": "May 08, 2020 11:39 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09942013025283813,
+          "id": 1947425137
+        },
+        {
+          "distance": 0.13439726829528809,
+          "id": 1947425137
+        },
+        {
+          "distance": 0.2523321509361267,
+          "id": 1729358765
+        },
+        {
+          "distance": 0.2566565275192261,
+          "id": 1729358765
+        },
+        {
+          "distance": 0.2622750997543335,
+          "id": 1947425095
+        },
+        {
+          "distance": 0.2672029733657837,
+          "id": 1947425095
+        },
+        {
+          "distance": 0.31562167406082153,
+          "id": 1947424909
+        },
+        {
+          "distance": 0.33266955614089966,
+          "id": 1729358479
+        },
+        {
+          "distance": 0.3365306854248047,
+          "id": 1729358479
+        },
+        {
+          "distance": 0.34256237745285034,
+          "id": 1729358807
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1729355281,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777622,
     "wof:name": "As the shelter-in-place continues in the Bay Area and in many places around the world, we've been daydreaming about faraway locations to travel to...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

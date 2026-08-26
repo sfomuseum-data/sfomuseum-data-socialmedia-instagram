@@ -31,6 +31,50 @@
       "taken": 1675427160,
       "taken_at": "Feb 03, 2023 12:26 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17329418659210205,
+          "id": 1947425135
+        },
+        {
+          "distance": 0.20994335412979126,
+          "id": 1947425135
+        },
+        {
+          "distance": 0.2628370523452759,
+          "id": 1729355629
+        },
+        {
+          "distance": 0.2661493420600891,
+          "id": 1947425287
+        },
+        {
+          "distance": 0.283328652381897,
+          "id": 1880151781
+        },
+        {
+          "distance": 0.28415679931640625,
+          "id": 1729359993
+        },
+        {
+          "distance": 0.2874409556388855,
+          "id": 1947424999
+        },
+        {
+          "distance": 0.29102981090545654,
+          "id": 1729355633
+        },
+        {
+          "distance": 0.29228025674819946,
+          "id": 1729359429
+        },
+        {
+          "distance": 0.29548710584640503,
+          "id": 1729356893
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151153,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Alison Saar's “Flourish” is a story of displacement and inclusion; a narrative of seeded with the adversity that migrants and refugees often experience upon arrival...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

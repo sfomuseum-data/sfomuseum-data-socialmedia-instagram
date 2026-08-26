@@ -39,6 +39,50 @@
       "taken": 1532533620,
       "taken_at": "Jul 25, 2018 3:47 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.01422184705734253,
+          "id": 1729355399
+        },
+        {
+          "distance": 0.06278723478317261,
+          "id": 1729355399
+        },
+        {
+          "distance": 0.21394675970077515,
+          "id": 1729358633
+        },
+        {
+          "distance": 0.22130697965621948,
+          "id": 1729358633
+        },
+        {
+          "distance": 0.22623789310455322,
+          "id": 1729359141
+        },
+        {
+          "distance": 0.25488555431365967,
+          "id": 1729359141
+        },
+        {
+          "distance": 0.3356633186340332,
+          "id": 1729358965
+        },
+        {
+          "distance": 0.34563684463500977,
+          "id": 1880151375
+        },
+        {
+          "distance": 0.3458191752433777,
+          "id": 1729355263
+        },
+        {
+          "distance": 0.34686481952667236,
+          "id": 1729358635
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729357897,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "The Douglas DC-3 was one of the first airliners to be equipped with a galley...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

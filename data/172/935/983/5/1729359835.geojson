@@ -25,6 +25,50 @@
       "taken": 1486375080,
       "taken_at": "Feb 06, 2017 9:58 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.33821427822113037,
+          "id": 1729360535
+        },
+        {
+          "distance": 0.3463992476463318,
+          "id": 1729360535
+        },
+        {
+          "distance": 0.3465571999549866,
+          "id": 1729359701
+        },
+        {
+          "distance": 0.3671431541442871,
+          "id": 1729361699
+        },
+        {
+          "distance": 0.3730418086051941,
+          "id": 1729358293
+        },
+        {
+          "distance": 0.3732752203941345,
+          "id": 1729359733
+        },
+        {
+          "distance": 0.3751194477081299,
+          "id": 1729359701
+        },
+        {
+          "distance": 0.3751920461654663,
+          "id": 1729359975
+        },
+        {
+          "distance": 0.37531304359436035,
+          "id": 1729356623
+        },
+        {
+          "distance": 0.3781103491783142,
+          "id": 1763558953
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359835,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "Did you see the #SuperbOwl this weekend?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

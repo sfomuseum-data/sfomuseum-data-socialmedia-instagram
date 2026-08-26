@@ -32,6 +32,50 @@
       "taken": 1480777980,
       "taken_at": "Dec 03, 2016 3:13 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2349904179573059,
+          "id": 1729355127
+        },
+        {
+          "distance": 0.2384122610092163,
+          "id": 1729360873
+        },
+        {
+          "distance": 0.2515413165092468,
+          "id": 1729357923
+        },
+        {
+          "distance": 0.2568027973175049,
+          "id": 1729356191
+        },
+        {
+          "distance": 0.2601434588432312,
+          "id": 1729357231
+        },
+        {
+          "distance": 0.2718159556388855,
+          "id": 1729360865
+        },
+        {
+          "distance": 0.27399754524230957,
+          "id": 1729355127
+        },
+        {
+          "distance": 0.2784572243690491,
+          "id": 1729355141
+        },
+        {
+          "distance": 0.2892454266548157,
+          "id": 1880151423
+        },
+        {
+          "distance": 0.28949421644210815,
+          "id": 1947424789
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729360057,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777639,
     "wof:name": "San Francisco’s Sunset District, one of the biggest residential neighborhoods in the city, was once mostly sand dunes...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

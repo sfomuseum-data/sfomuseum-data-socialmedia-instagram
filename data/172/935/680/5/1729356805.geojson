@@ -42,6 +42,50 @@
       "taken": 1552822560,
       "taken_at": "Mar 17, 2019 11:36 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14822286367416382,
+          "id": 1729356811
+        },
+        {
+          "distance": 0.16747689247131348,
+          "id": 1729356547
+        },
+        {
+          "distance": 0.1809086799621582,
+          "id": 1729359363
+        },
+        {
+          "distance": 0.18130409717559814,
+          "id": 1729356819
+        },
+        {
+          "distance": 0.18450480699539185,
+          "id": 1729356577
+        },
+        {
+          "distance": 0.18849331140518188,
+          "id": 1729356557
+        },
+        {
+          "distance": 0.19080239534378052,
+          "id": 1729356811
+        },
+        {
+          "distance": 0.2086074948310852,
+          "id": 1729359363
+        },
+        {
+          "distance": 0.2173854112625122,
+          "id": 1729356549
+        },
+        {
+          "distance": 0.22057044506072998,
+          "id": 1729356819
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -71,7 +115,7 @@
       }
     ],
     "wof:id": 1729356805,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777629,
     "wof:name": "In her series, Heterotopia, Brooklyn-based artist Karine Laval produces dreamlike images that challenge and transform our experience of the natural world...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -88,5 +132,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

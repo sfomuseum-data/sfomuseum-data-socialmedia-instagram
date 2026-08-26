@@ -25,6 +25,50 @@
       "taken": 1494850560,
       "taken_at": "May 15, 2017 12:16 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1380496621131897,
+          "id": 1763559085
+        },
+        {
+          "distance": 0.16430222988128662,
+          "id": 1729359799
+        },
+        {
+          "distance": 0.16772818565368652,
+          "id": 1729358079
+        },
+        {
+          "distance": 0.17328983545303345,
+          "id": 1729359161
+        },
+        {
+          "distance": 0.1742599606513977,
+          "id": 1729359397
+        },
+        {
+          "distance": 0.18421775102615356,
+          "id": 1729359645
+        },
+        {
+          "distance": 0.19169706106185913,
+          "id": 1729358635
+        },
+        {
+          "distance": 0.19184643030166626,
+          "id": 1763559085
+        },
+        {
+          "distance": 0.1958417296409607,
+          "id": 1763559125
+        },
+        {
+          "distance": 0.19630920886993408,
+          "id": 1729359161
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359511,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "#OnThisDay in 1960, Delta Air Lines introduced the Convair CV-880 into service...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

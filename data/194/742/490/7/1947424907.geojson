@@ -25,6 +25,50 @@
       "taken": 1724155740,
       "taken_at": "Aug 20, 2024 12:09 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.05051994323730469,
+          "id": 1729360985
+        },
+        {
+          "distance": 0.10834312438964844,
+          "id": 1729360985
+        },
+        {
+          "distance": 0.18985670804977417,
+          "id": 1729355777
+        },
+        {
+          "distance": 0.1947389841079712,
+          "id": 1763559595
+        },
+        {
+          "distance": 0.19916129112243652,
+          "id": 1880150939
+        },
+        {
+          "distance": 0.22058850526809692,
+          "id": 1763559281
+        },
+        {
+          "distance": 0.22628414630889893,
+          "id": 1729359753
+        },
+        {
+          "distance": 0.22644925117492676,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.22994786500930786,
+          "id": 1763559595
+        },
+        {
+          "distance": 0.23140430450439453,
+          "id": 1763559323
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -53,7 +97,7 @@
       }
     ],
     "wof:id": 1947424907,
-    "wof:lastmodified": 1733175320,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Born in Tokyo, Marc Katano graduated from the California College of the Arts in Oakland, CA with distinction in 1975...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -67,5 +111,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

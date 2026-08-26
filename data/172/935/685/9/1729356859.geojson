@@ -34,6 +34,50 @@
       "taken": 1552226400,
       "taken_at": "Mar 10, 2019 2:00 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09659010171890259,
+          "id": 1729357323
+        },
+        {
+          "distance": 0.10043340921401978,
+          "id": 1880151063
+        },
+        {
+          "distance": 0.11050432920455933,
+          "id": 1880150909
+        },
+        {
+          "distance": 0.12124598026275635,
+          "id": 1729358457
+        },
+        {
+          "distance": 0.12737113237380981,
+          "id": 1729357547
+        },
+        {
+          "distance": 0.1287294626235962,
+          "id": 1763559413
+        },
+        {
+          "distance": 0.1363564133644104,
+          "id": 1729361261
+        },
+        {
+          "distance": 0.1421905755996704,
+          "id": 1729358135
+        },
+        {
+          "distance": 0.14662528038024902,
+          "id": 1763559233
+        },
+        {
+          "distance": 0.1498349905014038,
+          "id": 1729360531
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729356859,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777629,
     "wof:name": "#Onthisday in 1929, Charles Lindbergh piloted a Ford 5-AT Tri-Motor, named \"Mexico\" and painted with C.M.A...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

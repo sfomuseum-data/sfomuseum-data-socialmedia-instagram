@@ -40,6 +40,50 @@
       "taken": 1542219480,
       "taken_at": "Nov 14, 2018, 6:18 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.051015496253967285,
+          "id": 1729357381
+        },
+        {
+          "distance": 0.09134364128112793,
+          "id": 1729357357
+        },
+        {
+          "distance": 0.1346757411956787,
+          "id": 1729357381
+        },
+        {
+          "distance": 0.142558753490448,
+          "id": 1729357357
+        },
+        {
+          "distance": 0.19844567775726318,
+          "id": 1729358133
+        },
+        {
+          "distance": 0.2066749930381775,
+          "id": 1729361309
+        },
+        {
+          "distance": 0.23109769821166992,
+          "id": 1729358133
+        },
+        {
+          "distance": 0.24343156814575195,
+          "id": 1763559483
+        },
+        {
+          "distance": 0.24667459726333618,
+          "id": 1729361183
+        },
+        {
+          "distance": 0.2551078796386719,
+          "id": 1729358139
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729357363,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777631,
     "wof:name": "During the early 1940s, TWA (Transcontinental \u0026 Western Air) hostesses wore the popular “Petty Girl” uniform with a sterling silver and red enameled hat badge and jacket pin...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

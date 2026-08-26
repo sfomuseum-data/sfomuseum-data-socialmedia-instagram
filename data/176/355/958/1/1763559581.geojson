@@ -30,6 +30,50 @@
       "taken": 1645817640,
       "taken_at": "Feb 25, 2022 7:34 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.30720388889312744,
+          "id": 1729360805
+        },
+        {
+          "distance": 0.310973584651947,
+          "id": 1729358467
+        },
+        {
+          "distance": 0.3114534616470337,
+          "id": 1763558679
+        },
+        {
+          "distance": 0.3121352791786194,
+          "id": 1729359739
+        },
+        {
+          "distance": 0.3148952126502991,
+          "id": 1729355263
+        },
+        {
+          "distance": 0.3197464346885681,
+          "id": 1729359463
+        },
+        {
+          "distance": 0.3221439719200134,
+          "id": 1729358547
+        },
+        {
+          "distance": 0.32648056745529175,
+          "id": 1729359921
+        },
+        {
+          "distance": 0.32734251022338867,
+          "id": 1729359799
+        },
+        {
+          "distance": 0.3284096121788025,
+          "id": 1729358635
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559581,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "What’s on the menu today?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

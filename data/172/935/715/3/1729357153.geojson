@@ -27,6 +27,50 @@
       "taken": 1546294980,
       "taken_at": "Dec 31, 2018 10:23 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.4502759575843811,
+          "id": 1763558679
+        },
+        {
+          "distance": 0.45070940256118774,
+          "id": 1729359463
+        },
+        {
+          "distance": 0.4638434052467346,
+          "id": 1729356331
+        },
+        {
+          "distance": 0.47685885429382324,
+          "id": 1763558953
+        },
+        {
+          "distance": 0.4784442186355591,
+          "id": 1880151505
+        },
+        {
+          "distance": 0.48028671741485596,
+          "id": 1763559345
+        },
+        {
+          "distance": 0.4804380536079407,
+          "id": 1880151277
+        },
+        {
+          "distance": 0.4804770350456238,
+          "id": 1729355239
+        },
+        {
+          "distance": 0.4812747836112976,
+          "id": 1947425059
+        },
+        {
+          "distance": 0.4818727374076843,
+          "id": 1729355239
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1729357153,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777630,
     "wof:name": "Happy New Year!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -73,5 +117,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

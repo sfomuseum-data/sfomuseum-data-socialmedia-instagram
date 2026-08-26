@@ -25,6 +25,50 @@
       "taken": 1476381420,
       "taken_at": "Oct 13, 2016 5:57 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06398695707321167,
+          "id": 1729357747
+        },
+        {
+          "distance": 0.11074090003967285,
+          "id": 1729357667
+        },
+        {
+          "distance": 0.1145215630531311,
+          "id": 1947425255
+        },
+        {
+          "distance": 0.12576299905776978,
+          "id": 1729356131
+        },
+        {
+          "distance": 0.13814407587051392,
+          "id": 1729359759
+        },
+        {
+          "distance": 0.1407182216644287,
+          "id": 1729360259
+        },
+        {
+          "distance": 0.1445704698562622,
+          "id": 1729356281
+        },
+        {
+          "distance": 0.14817172288894653,
+          "id": 1729359933
+        },
+        {
+          "distance": 0.15410315990447998,
+          "id": 1729360429
+        },
+        {
+          "distance": 0.15480029582977295,
+          "id": 1729356131
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360235,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "This is a rare aerial view of SFO and surrounding buildings from 1963...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

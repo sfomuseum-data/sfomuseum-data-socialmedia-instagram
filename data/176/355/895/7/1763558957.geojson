@@ -30,6 +30,50 @@
       "taken": 1608312240,
       "taken_at": "Dec 18, 2020 5:24 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11774015426635742,
+          "id": 1763559461
+        },
+        {
+          "distance": 0.12062418460845947,
+          "id": 1729358921
+        },
+        {
+          "distance": 0.13416433334350586,
+          "id": 1729358929
+        },
+        {
+          "distance": 0.13581866025924683,
+          "id": 1729360117
+        },
+        {
+          "distance": 0.13946747779846191,
+          "id": 1729357689
+        },
+        {
+          "distance": 0.14144837856292725,
+          "id": 1729355649
+        },
+        {
+          "distance": 0.14191502332687378,
+          "id": 1763559461
+        },
+        {
+          "distance": 0.14445710182189941,
+          "id": 1729358663
+        },
+        {
+          "distance": 0.14571356773376465,
+          "id": 1729360045
+        },
+        {
+          "distance": 0.14678573608398438,
+          "id": 1729358563
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763558957,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "#Onthisday in 2017, Delta Air Lines’ last 747 took its final scheduled international flight from Seoul, South Korea, to Detroit...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

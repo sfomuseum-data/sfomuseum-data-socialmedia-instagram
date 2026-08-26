@@ -38,6 +38,50 @@
       "taken": 1480525920,
       "taken_at": "Nov 30, 2016 5:12 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.27014684677124023,
+          "id": 1729362133
+        },
+        {
+          "distance": 0.2810620665550232,
+          "id": 1729358923
+        },
+        {
+          "distance": 0.2831770181655884,
+          "id": 1729360041
+        },
+        {
+          "distance": 0.2907584309577942,
+          "id": 1729360733
+        },
+        {
+          "distance": 0.29184526205062866,
+          "id": 1729361731
+        },
+        {
+          "distance": 0.29392755031585693,
+          "id": 1729358923
+        },
+        {
+          "distance": 0.29832595586776733,
+          "id": 1729362133
+        },
+        {
+          "distance": 0.2996344566345215,
+          "id": 1729360041
+        },
+        {
+          "distance": 0.30426448583602905,
+          "id": 1729361795
+        },
+        {
+          "distance": 0.31125402450561523,
+          "id": 1729360711
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729360061,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777639,
     "wof:name": "Emilio Pucci’s outerwear for his layered Braniff Gemini IV uniform vividly expresses his interstellar vision...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

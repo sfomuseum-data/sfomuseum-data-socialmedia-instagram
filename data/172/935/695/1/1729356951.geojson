@@ -41,6 +41,50 @@
       "taken": 1550095020,
       "taken_at": "Feb 13, 2019 9:57 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.28836268186569214,
+          "id": 1729362575
+        },
+        {
+          "distance": 0.3120168447494507,
+          "id": 1729357113
+        },
+        {
+          "distance": 0.32420873641967773,
+          "id": 1729362575
+        },
+        {
+          "distance": 0.3480350971221924,
+          "id": 1729356779
+        },
+        {
+          "distance": 0.34955310821533203,
+          "id": 1729356641
+        },
+        {
+          "distance": 0.35383743047714233,
+          "id": 1729356645
+        },
+        {
+          "distance": 0.3665734529495239,
+          "id": 1729358411
+        },
+        {
+          "distance": 0.3666801452636719,
+          "id": 1729357113
+        },
+        {
+          "distance": 0.3745623230934143,
+          "id": 1729358489
+        },
+        {
+          "distance": 0.3752633333206177,
+          "id": 1729358859
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -70,7 +114,7 @@
       }
     ],
     "wof:id": 1729356951,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Humpty Dumpty sat on a wall, Humpty Dumpty had a great fall, Humpty Dumpty was used to sell potato chips???..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -87,5 +131,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

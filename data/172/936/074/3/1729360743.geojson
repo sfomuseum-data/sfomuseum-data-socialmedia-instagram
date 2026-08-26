@@ -25,6 +25,50 @@
       "taken": 1462471200,
       "taken_at": "May 05, 2016 6:00 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15261930227279663,
+          "id": 1729358283
+        },
+        {
+          "distance": 0.18133991956710815,
+          "id": 1880151387
+        },
+        {
+          "distance": 0.1823641061782837,
+          "id": 1729355569
+        },
+        {
+          "distance": 0.18955636024475098,
+          "id": 1763559617
+        },
+        {
+          "distance": 0.19195306301116943,
+          "id": 1763559617
+        },
+        {
+          "distance": 0.1935214400291443,
+          "id": 1729355953
+        },
+        {
+          "distance": 0.19582998752593994,
+          "id": 1880151189
+        },
+        {
+          "distance": 0.19895994663238525,
+          "id": 1729357841
+        },
+        {
+          "distance": 0.19900822639465332,
+          "id": 1880151387
+        },
+        {
+          "distance": 0.20538955926895142,
+          "id": 1729355569
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360743,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "A Boeing 247 at \"San Francisco's Busy Airport, Mills Field,\" circa 1935...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

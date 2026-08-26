@@ -25,6 +25,50 @@
       "taken": 1438779780,
       "taken_at": "Aug 05, 2015 1:03 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.34305453300476074,
+          "id": 1729361787
+        },
+        {
+          "distance": 0.34376150369644165,
+          "id": 1729359541
+        },
+        {
+          "distance": 0.3468724489212036,
+          "id": 1729359915
+        },
+        {
+          "distance": 0.37116414308547974,
+          "id": 1729358549
+        },
+        {
+          "distance": 0.3792673945426941,
+          "id": 1729362387
+        },
+        {
+          "distance": 0.3795771598815918,
+          "id": 1729359105
+        },
+        {
+          "distance": 0.3808102607727051,
+          "id": 1729356963
+        },
+        {
+          "distance": 0.38115519285202026,
+          "id": 1729359491
+        },
+        {
+          "distance": 0.3919418454170227,
+          "id": 1729356963
+        },
+        {
+          "distance": 0.39397335052490234,
+          "id": 1729361705
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361641,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777646,
     "wof:name": "China Airlines produced these playing cards that feature a historic painting (\"The Eighteen Scholars from the Ching Dynasty\")...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

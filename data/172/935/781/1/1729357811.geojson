@@ -43,6 +43,50 @@
       "taken": 1533715680,
       "taken_at": "Aug 8, 2018, 8:08 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15749818086624146,
+          "id": 1729357673
+        },
+        {
+          "distance": 0.18055647611618042,
+          "id": 1729357945
+        },
+        {
+          "distance": 0.18293172121047974,
+          "id": 1729357395
+        },
+        {
+          "distance": 0.18749916553497314,
+          "id": 1729357973
+        },
+        {
+          "distance": 0.21523624658584595,
+          "id": 1729358363
+        },
+        {
+          "distance": 0.21530979871749878,
+          "id": 1729357395
+        },
+        {
+          "distance": 0.21701133251190186,
+          "id": 1729357673
+        },
+        {
+          "distance": 0.21873325109481812,
+          "id": 1729358171
+        },
+        {
+          "distance": 0.21915936470031738,
+          "id": 1729357183
+        },
+        {
+          "distance": 0.22716695070266724,
+          "id": 1729357945
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -72,7 +116,7 @@
       }
     ],
     "wof:id": 1729357811,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777632,
     "wof:name": "After World War II, Fokker Aircraft of the Netherlands struggled amid a surplus of military transports unloaded on the market...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -89,5 +133,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

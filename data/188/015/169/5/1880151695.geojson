@@ -31,6 +31,50 @@
       "taken": 1654519020,
       "taken_at": "Jun 06, 2022 12:37 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3081094026565552,
+          "id": 1880151531
+        },
+        {
+          "distance": 0.3099885582923889,
+          "id": 1880151631
+        },
+        {
+          "distance": 0.3125537633895874,
+          "id": 1880151513
+        },
+        {
+          "distance": 0.31712114810943604,
+          "id": 1880151571
+        },
+        {
+          "distance": 0.31877726316452026,
+          "id": 1947424885
+        },
+        {
+          "distance": 0.32023686170578003,
+          "id": 1880151521
+        },
+        {
+          "distance": 0.32402604818344116,
+          "id": 1880151751
+        },
+        {
+          "distance": 0.32466351985931396,
+          "id": 1880151643
+        },
+        {
+          "distance": 0.32488059997558594,
+          "id": 1880151533
+        },
+        {
+          "distance": 0.32532328367233276,
+          "id": 1880151571
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151695,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777663,
     "wof:name": "This is your last week to see “Curiosity \u0026 Discovery: Antique Scientific Instruments!”..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

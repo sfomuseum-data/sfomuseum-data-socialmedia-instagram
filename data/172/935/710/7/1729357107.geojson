@@ -33,6 +33,50 @@
       "taken": 1547121360,
       "taken_at": "Jan 10, 2019 11:56 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.21719300746917725,
+          "id": 1763558761
+        },
+        {
+          "distance": 0.22247248888015747,
+          "id": 1729356891
+        },
+        {
+          "distance": 0.24488097429275513,
+          "id": 1729356891
+        },
+        {
+          "distance": 0.2484990358352661,
+          "id": 1763558907
+        },
+        {
+          "distance": 0.2546806335449219,
+          "id": 1729358039
+        },
+        {
+          "distance": 0.25584590435028076,
+          "id": 1763558761
+        },
+        {
+          "distance": 0.26695728302001953,
+          "id": 1729357477
+        },
+        {
+          "distance": 0.2714325189590454,
+          "id": 1729357077
+        },
+        {
+          "distance": 0.2731871008872986,
+          "id": 1729357753
+        },
+        {
+          "distance": 0.27378934621810913,
+          "id": 1729358039
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729357107,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777630,
     "wof:name": "Television introduced a series of western-themed shows that delighted children all over America...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

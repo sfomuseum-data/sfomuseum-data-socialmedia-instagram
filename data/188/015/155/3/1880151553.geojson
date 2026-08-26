@@ -30,6 +30,50 @@
       "taken": 1658843220,
       "taken_at": "Jul 26, 2022 1:47 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1315351128578186,
+          "id": 1729355475
+        },
+        {
+          "distance": 0.13844162225723267,
+          "id": 1729355475
+        },
+        {
+          "distance": 0.19588786363601685,
+          "id": 1729355461
+        },
+        {
+          "distance": 0.21618986129760742,
+          "id": 1729359753
+        },
+        {
+          "distance": 0.2199147343635559,
+          "id": 1729355461
+        },
+        {
+          "distance": 0.2203560471534729,
+          "id": 1729355465
+        },
+        {
+          "distance": 0.23113393783569336,
+          "id": 1729355465
+        },
+        {
+          "distance": 0.23245686292648315,
+          "id": 1880151609
+        },
+        {
+          "distance": 0.24515295028686523,
+          "id": 1729359753
+        },
+        {
+          "distance": 0.2530311346054077,
+          "id": 1729361339
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151553,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "\"Ocean Voices II” is an epic wood sculpture...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

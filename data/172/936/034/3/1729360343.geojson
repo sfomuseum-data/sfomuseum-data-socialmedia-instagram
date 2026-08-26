@@ -25,6 +25,50 @@
       "taken": 1473596160,
       "taken_at": "Sep 11, 2016 12:16 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.42864489555358887,
+          "id": 1947425317
+        },
+        {
+          "distance": 0.4331146478652954,
+          "id": 1729357475
+        },
+        {
+          "distance": 0.4404234290122986,
+          "id": 1729360993
+        },
+        {
+          "distance": 0.442028284072876,
+          "id": 1729362327
+        },
+        {
+          "distance": 0.4455271363258362,
+          "id": 1729356351
+        },
+        {
+          "distance": 0.4461299777030945,
+          "id": 1880150945
+        },
+        {
+          "distance": 0.44751614332199097,
+          "id": 1729355397
+        },
+        {
+          "distance": 0.4490530490875244,
+          "id": 1729355779
+        },
+        {
+          "distance": 0.4516792297363281,
+          "id": 1729359151
+        },
+        {
+          "distance": 0.45262372493743896,
+          "id": 1729357475
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360343,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "Our online database contains brochures on the various topics that airlines have covered over the years...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

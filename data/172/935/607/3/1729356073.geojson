@@ -33,6 +33,50 @@
       "taken": 1568992020,
       "taken_at": "Sep 20, 2019 3:07 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3205854296684265,
+          "id": 1729355501
+        },
+        {
+          "distance": 0.32088953256607056,
+          "id": 1729355987
+        },
+        {
+          "distance": 0.342502236366272,
+          "id": 1729361153
+        },
+        {
+          "distance": 0.3540615439414978,
+          "id": 1880151013
+        },
+        {
+          "distance": 0.35805755853652954,
+          "id": 1729357345
+        },
+        {
+          "distance": 0.35884737968444824,
+          "id": 1729361153
+        },
+        {
+          "distance": 0.368827223777771,
+          "id": 1729360551
+        },
+        {
+          "distance": 0.37072497606277466,
+          "id": 1729356289
+        },
+        {
+          "distance": 0.3707444667816162,
+          "id": 1729357769
+        },
+        {
+          "distance": 0.3719836473464966,
+          "id": 1729358963
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729356073,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777628,
     "wof:name": "The Boeing 747, which was first flown in 1969 and launched into service in 1970 by Pan American World Airways, revolutionized long-distance commercial air travel and set a completely new standard in airliner design, the “widebody” or “jumbojet.” Not to be left behind in the widebody market, aircraft manufacturers McDonnell Douglas and Lockheed Aircraft followed with their own widebody airliners, the DC-10 and L-1011 TriStar...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

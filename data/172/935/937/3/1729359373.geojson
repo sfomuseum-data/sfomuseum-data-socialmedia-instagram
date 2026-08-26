@@ -31,6 +31,50 @@
       "taken": 1498502760,
       "taken_at": "Jun 26, 2017, 6:46 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14812058210372925,
+          "id": 1729359377
+        },
+        {
+          "distance": 0.16065943241119385,
+          "id": 1729359383
+        },
+        {
+          "distance": 0.18181127309799194,
+          "id": 1729359377
+        },
+        {
+          "distance": 0.20660126209259033,
+          "id": 1729359383
+        },
+        {
+          "distance": 0.23676204681396484,
+          "id": 1729355789
+        },
+        {
+          "distance": 0.24086427688598633,
+          "id": 1729355771
+        },
+        {
+          "distance": 0.25987207889556885,
+          "id": 1729355765
+        },
+        {
+          "distance": 0.28006744384765625,
+          "id": 1729359813
+        },
+        {
+          "distance": 0.2820342779159546,
+          "id": 1729359259
+        },
+        {
+          "distance": 0.2971346974372864,
+          "id": 1729356251
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729359373,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Miniatures of the Temple of Vespasian and Titus, and those of the Temple of Castor and Pollux, were popular with visitors to these familiar ruins in Rome’s Forum...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

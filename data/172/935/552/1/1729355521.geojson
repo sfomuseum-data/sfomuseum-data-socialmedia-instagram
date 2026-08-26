@@ -29,6 +29,50 @@
       "taken": 1582132860,
       "taken_at": "Feb 19, 2020 5:21 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.26499444246292114,
+          "id": 1729359185
+        },
+        {
+          "distance": 0.29070723056793213,
+          "id": 1729358733
+        },
+        {
+          "distance": 0.2917215824127197,
+          "id": 1729358857
+        },
+        {
+          "distance": 0.2930029630661011,
+          "id": 1729357117
+        },
+        {
+          "distance": 0.30010563135147095,
+          "id": 1729358733
+        },
+        {
+          "distance": 0.3119703531265259,
+          "id": 1729358913
+        },
+        {
+          "distance": 0.3160141706466675,
+          "id": 1763558835
+        },
+        {
+          "distance": 0.3190731406211853,
+          "id": 1947425171
+        },
+        {
+          "distance": 0.3221297264099121,
+          "id": 1880151187
+        },
+        {
+          "distance": 0.3243163824081421,
+          "id": 1729355249
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729355521,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777626,
     "wof:name": "Our graphic designer, Jon, checks the printed labels for color corrections for our newest exhibition “Extra ’O’!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

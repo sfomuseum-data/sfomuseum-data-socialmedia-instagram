@@ -30,6 +30,50 @@
       "taken": 1714577940,
       "taken_at": "May 01, 2024 3:39 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.025383055210113525,
+          "id": 1947425083
+        },
+        {
+          "distance": 0.1215059757232666,
+          "id": 1947425025
+        },
+        {
+          "distance": 0.12334376573562622,
+          "id": 1947425223
+        },
+        {
+          "distance": 0.1254955530166626,
+          "id": 1947425083
+        },
+        {
+          "distance": 0.1758602261543274,
+          "id": 1947425227
+        },
+        {
+          "distance": 0.21079188585281372,
+          "id": 1947425025
+        },
+        {
+          "distance": 0.21562707424163818,
+          "id": 1947425223
+        },
+        {
+          "distance": 0.21708399057388306,
+          "id": 1947425227
+        },
+        {
+          "distance": 0.24060308933258057,
+          "id": 1947424955
+        },
+        {
+          "distance": 0.2574840784072876,
+          "id": 1947424955
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1947425037,
-    "wof:lastmodified": 1733175324,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Fiber artist, Kay Sekimachi  is Nisei, a second-generation Japanese American, born in San Francisco’s Japantown in 1926...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

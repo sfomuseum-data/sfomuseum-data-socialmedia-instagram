@@ -33,6 +33,50 @@
       "taken": 1499541060,
       "taken_at": "Jul 08, 2017 7:11 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0019221305847167969,
+          "id": 1729360857
+        },
+        {
+          "distance": 0.002657473087310791,
+          "id": 1729355365
+        },
+        {
+          "distance": 0.12075567245483398,
+          "id": 1729355365
+        },
+        {
+          "distance": 0.12120974063873291,
+          "id": 1729360857
+        },
+        {
+          "distance": 0.19415658712387085,
+          "id": 1729358203
+        },
+        {
+          "distance": 0.198930025100708,
+          "id": 1729356643
+        },
+        {
+          "distance": 0.20686817169189453,
+          "id": 1729362189
+        },
+        {
+          "distance": 0.21063905954360962,
+          "id": 1729356707
+        },
+        {
+          "distance": 0.21127402782440186,
+          "id": 1729358371
+        },
+        {
+          "distance": 0.2136533260345459,
+          "id": 1729359651
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729359337,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "United Airlines traces its origin to the mid-1920s, with the establishment of four airmail routes that would later become the backbone of United’s route system...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

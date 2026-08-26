@@ -45,6 +45,50 @@
       "taken": 1525950060,
       "taken_at": "May 10, 2018, 11:01 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.028114676475524902,
+          "id": 1729358269
+        },
+        {
+          "distance": 0.054320573806762695,
+          "id": 1729358247
+        },
+        {
+          "distance": 0.08486783504486084,
+          "id": 1729358269
+        },
+        {
+          "distance": 0.10588997602462769,
+          "id": 1729358247
+        },
+        {
+          "distance": 0.1312682032585144,
+          "id": 1729358345
+        },
+        {
+          "distance": 0.1575455665588379,
+          "id": 1729358295
+        },
+        {
+          "distance": 0.17251592874526978,
+          "id": 1729358345
+        },
+        {
+          "distance": 0.17915987968444824,
+          "id": 1729358223
+        },
+        {
+          "distance": 0.17949002981185913,
+          "id": 1729358359
+        },
+        {
+          "distance": 0.1823003888130188,
+          "id": 1729358115
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -74,7 +118,7 @@
       }
     ],
     "wof:id": 1729358245,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Described by Fortune magazine in 1936 as “the gaudy brother of somber Bakelite,” Catalin, the trade name for a cast-phenolic plastic made in a variety of brilliant colors, was first used to make smaller items such as bracelets, chess pieces, and buckles...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -91,5 +135,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

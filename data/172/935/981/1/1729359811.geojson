@@ -25,6 +25,50 @@
       "taken": 1487071020,
       "taken_at": "Feb 14, 2017 11:17 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2511014938354492,
+          "id": 1729361049
+        },
+        {
+          "distance": 0.2761104702949524,
+          "id": 1729355531
+        },
+        {
+          "distance": 0.27809804677963257,
+          "id": 1729355531
+        },
+        {
+          "distance": 0.2805859446525574,
+          "id": 1729355547
+        },
+        {
+          "distance": 0.2906875014305115,
+          "id": 1729361049
+        },
+        {
+          "distance": 0.30661720037460327,
+          "id": 1729356037
+        },
+        {
+          "distance": 0.3085837960243225,
+          "id": 1729357573
+        },
+        {
+          "distance": 0.3145727515220642,
+          "id": 1763559651
+        },
+        {
+          "distance": 0.3165397047996521,
+          "id": 1729359809
+        },
+        {
+          "distance": 0.3210347890853882,
+          "id": 1729356037
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359811,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "This #Valentine card from c. 1915 reads, “I'm up in the air about you, dear valentine”...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

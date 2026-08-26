@@ -27,6 +27,50 @@
       "taken": 1711121520,
       "taken_at": "Mar 22, 2024 3:32 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.246385395526886,
+          "id": 1729358331
+        },
+        {
+          "distance": 0.2699165344238281,
+          "id": 1729358331
+        },
+        {
+          "distance": 0.3010410666465759,
+          "id": 1880151005
+        },
+        {
+          "distance": 0.30385822057724,
+          "id": 1947425069
+        },
+        {
+          "distance": 0.3142593502998352,
+          "id": 1947425069
+        },
+        {
+          "distance": 0.321377158164978,
+          "id": 1729357411
+        },
+        {
+          "distance": 0.3255584239959717,
+          "id": 1729360551
+        },
+        {
+          "distance": 0.32887017726898193,
+          "id": 1729360469
+        },
+        {
+          "distance": 0.32925528287887573,
+          "id": 1763558671
+        },
+        {
+          "distance": 0.32925528287887573,
+          "id": 1729359335
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947425125,
-    "wof:lastmodified": 1733175326,
+    "wof:lastmodified": 1787777664,
     "wof:name": "FREE EVENT: Please join us for a free public event to celebrate the legacy of Virgin America and the new SFO Museum exhibition \"VX Forever\"...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -51,6 +51,50 @@
       "taken": 1515748200,
       "taken_at": "Jan 12, 2018 9:10 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0696176290512085,
+          "id": 1729358797
+        },
+        {
+          "distance": 0.07089537382125854,
+          "id": 1729358671
+        },
+        {
+          "distance": 0.09133869409561157,
+          "id": 1729358585
+        },
+        {
+          "distance": 0.10164940357208252,
+          "id": 1729358797
+        },
+        {
+          "distance": 0.10666549205780029,
+          "id": 1729358671
+        },
+        {
+          "distance": 0.107979416847229,
+          "id": 1729358525
+        },
+        {
+          "distance": 0.13146305084228516,
+          "id": 1729358585
+        },
+        {
+          "distance": 0.143879234790802,
+          "id": 1729358741
+        },
+        {
+          "distance": 0.1496468186378479,
+          "id": 1729358741
+        },
+        {
+          "distance": 0.1506863832473755,
+          "id": 1729358525
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -80,7 +124,7 @@
       }
     ],
     "wof:id": 1729358713,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Oxchuc is both a city and larger municipality, located to the east of San Andrés in Los Altos de Chiapas...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -97,5 +141,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

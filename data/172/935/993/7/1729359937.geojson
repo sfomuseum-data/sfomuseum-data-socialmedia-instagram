@@ -30,6 +30,50 @@
       "taken": 1483961520,
       "taken_at": "Jan 09, 2017 11:32 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23620420694351196,
+          "id": 1729357895
+        },
+        {
+          "distance": 0.2591962218284607,
+          "id": 1729355817
+        },
+        {
+          "distance": 0.2695354223251343,
+          "id": 1763559573
+        },
+        {
+          "distance": 0.27457195520401,
+          "id": 1729357369
+        },
+        {
+          "distance": 0.2860899567604065,
+          "id": 1729356577
+        },
+        {
+          "distance": 0.2866849899291992,
+          "id": 1729355903
+        },
+        {
+          "distance": 0.2889881730079651,
+          "id": 1729356819
+        },
+        {
+          "distance": 0.28983408212661743,
+          "id": 1729356557
+        },
+        {
+          "distance": 0.29233771562576294,
+          "id": 1729355903
+        },
+        {
+          "distance": 0.29269200563430786,
+          "id": 1729355677
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729359937,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "“Artists frequently try to use old techniques on a new medium...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

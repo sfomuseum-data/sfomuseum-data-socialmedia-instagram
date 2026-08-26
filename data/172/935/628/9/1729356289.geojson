@@ -33,6 +33,50 @@
       "taken": 1563960480,
       "taken_at": "Jul 24, 2019 9:28 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2407621145248413,
+          "id": 1729359875
+        },
+        {
+          "distance": 0.24711591005325317,
+          "id": 1729359217
+        },
+        {
+          "distance": 0.24928289651870728,
+          "id": 1729359339
+        },
+        {
+          "distance": 0.25645387172698975,
+          "id": 1729357769
+        },
+        {
+          "distance": 0.25969815254211426,
+          "id": 1880150923
+        },
+        {
+          "distance": 0.26407337188720703,
+          "id": 1729360397
+        },
+        {
+          "distance": 0.2646796703338623,
+          "id": 1729360479
+        },
+        {
+          "distance": 0.2667112946510315,
+          "id": 1729359489
+        },
+        {
+          "distance": 0.2708381414413452,
+          "id": 1729360475
+        },
+        {
+          "distance": 0.2710157632827759,
+          "id": 1880150923
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729356289,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Juan Trippe, founder of Pan American Airways, reportedly “discovered” Wake Island while scouring through 19th century clipper ship logs at the New York Public Library...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

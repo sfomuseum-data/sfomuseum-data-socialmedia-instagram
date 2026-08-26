@@ -43,6 +43,50 @@
       "taken": 1500288240,
       "taken_at": "Jul 17, 2017 10:44 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15889906883239746,
+          "id": 1729356625
+        },
+        {
+          "distance": 0.2185017466545105,
+          "id": 1729356625
+        },
+        {
+          "distance": 0.2673737406730652,
+          "id": 1763559185
+        },
+        {
+          "distance": 0.3126984238624573,
+          "id": 1763559185
+        },
+        {
+          "distance": 0.33836865425109863,
+          "id": 1763559155
+        },
+        {
+          "distance": 0.3516463041305542,
+          "id": 1729360029
+        },
+        {
+          "distance": 0.3539266586303711,
+          "id": 1729361665
+        },
+        {
+          "distance": 0.3581176996231079,
+          "id": 1763559093
+        },
+        {
+          "distance": 0.3600419759750366,
+          "id": 1729359283
+        },
+        {
+          "distance": 0.3636232614517212,
+          "id": 1729361533
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -72,7 +116,7 @@
       }
     ],
     "wof:id": 1729359305,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Though tiny, National Parks Airways, serving Utah, Idaho, and Montana in the 1920s and ‘30s, was nevertheless successful enough to acquire three Boeing 247 aircraft, one of which is featured on its calendar for 1937...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -89,5 +133,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

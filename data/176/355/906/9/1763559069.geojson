@@ -31,6 +31,50 @@
       "taken": 1625760600,
       "taken_at": "Jul 08, 2021 4:10 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13247054815292358,
+          "id": 1763559357
+        },
+        {
+          "distance": 0.16010916233062744,
+          "id": 1763559357
+        },
+        {
+          "distance": 0.194482684135437,
+          "id": 1729359165
+        },
+        {
+          "distance": 0.21495479345321655,
+          "id": 1729355127
+        },
+        {
+          "distance": 0.2162420153617859,
+          "id": 1729355141
+        },
+        {
+          "distance": 0.2309504747390747,
+          "id": 1729356531
+        },
+        {
+          "distance": 0.23163849115371704,
+          "id": 1729356931
+        },
+        {
+          "distance": 0.23365873098373413,
+          "id": 1763559479
+        },
+        {
+          "distance": 0.237623929977417,
+          "id": 1729358851
+        },
+        {
+          "distance": 0.2386089563369751,
+          "id": 1729362889
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559069,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Celebrate July with four short films that remind us of the importance of family...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

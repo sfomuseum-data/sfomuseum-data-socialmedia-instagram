@@ -32,6 +32,50 @@
       "taken": 1542566700,
       "taken_at": "Nov 18, 2018 6:45 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2899359464645386,
+          "id": 1729358727
+        },
+        {
+          "distance": 0.29179847240448,
+          "id": 1729359411
+        },
+        {
+          "distance": 0.2918078303337097,
+          "id": 1729358293
+        },
+        {
+          "distance": 0.29424697160720825,
+          "id": 1729360671
+        },
+        {
+          "distance": 0.31310147047042847,
+          "id": 1729355621
+        },
+        {
+          "distance": 0.31461411714553833,
+          "id": 1729360249
+        },
+        {
+          "distance": 0.3147309422492981,
+          "id": 1729361153
+        },
+        {
+          "distance": 0.3196179270744324,
+          "id": 1729361477
+        },
+        {
+          "distance": 0.31975698471069336,
+          "id": 1729359339
+        },
+        {
+          "distance": 0.3205786347389221,
+          "id": 1729359113
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729357349,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777631,
     "wof:name": "Our online database contains a wide variety of airline brochures and route maps dating back to the 1920s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -57,6 +57,50 @@
       "taken": 1507279020,
       "taken_at": "Oct 06, 2017 8:37 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16826611757278442,
+          "id": 1729358859
+        },
+        {
+          "distance": 0.18965768814086914,
+          "id": 1729359001
+        },
+        {
+          "distance": 0.19189900159835815,
+          "id": 1729359131
+        },
+        {
+          "distance": 0.20144909620285034,
+          "id": 1729358939
+        },
+        {
+          "distance": 0.2045719027519226,
+          "id": 1729358989
+        },
+        {
+          "distance": 0.21089798212051392,
+          "id": 1729359233
+        },
+        {
+          "distance": 0.21440434455871582,
+          "id": 1729356347
+        },
+        {
+          "distance": 0.22139549255371094,
+          "id": 1729359317
+        },
+        {
+          "distance": 0.22764116525650024,
+          "id": 1729359231
+        },
+        {
+          "distance": 0.2283545732498169,
+          "id": 1729356339
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -86,7 +130,7 @@
       }
     ],
     "wof:id": 1729359025,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Featured in our exhibition on the history of the design and use of typewriters is a \"The Good Companion Model T\" made by The Imperial Typewriter Co., Ltd. which once belonged to John Lennon...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -103,5 +147,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

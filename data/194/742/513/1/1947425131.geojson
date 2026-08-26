@@ -27,6 +27,50 @@
       "taken": 1707753480,
       "taken_at": "Feb 12, 2024 3:58 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07263928651809692,
+          "id": 1947424935
+        },
+        {
+          "distance": 0.07439941167831421,
+          "id": 1947424857
+        },
+        {
+          "distance": 0.09567028284072876,
+          "id": 1947425153
+        },
+        {
+          "distance": 0.15960431098937988,
+          "id": 1947425079
+        },
+        {
+          "distance": 0.16744893789291382,
+          "id": 1947425153
+        },
+        {
+          "distance": 0.17167776823043823,
+          "id": 1947424857
+        },
+        {
+          "distance": 0.17300653457641602,
+          "id": 1947424935
+        },
+        {
+          "distance": 0.1995052695274353,
+          "id": 1947424893
+        },
+        {
+          "distance": 0.20205748081207275,
+          "id": 1947425079
+        },
+        {
+          "distance": 0.20674407482147217,
+          "id": 1729355689
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947425131,
-    "wof:lastmodified": 1733175326,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Identified by the IATA (International Air Transport Association) code VX, Virgin America commenced operations in 2007 with branding licensed from Sir Richard Branson’s UK-based Virgin Group...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

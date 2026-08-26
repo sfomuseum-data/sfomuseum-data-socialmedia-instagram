@@ -30,6 +30,50 @@
       "taken": 1491502620,
       "taken_at": "Apr 6, 2017, 6:17 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15253818035125732,
+          "id": 1729359631
+        },
+        {
+          "distance": 0.16738587617874146,
+          "id": 1763558661
+        },
+        {
+          "distance": 0.16738587617874146,
+          "id": 1729359633
+        },
+        {
+          "distance": 0.1900659203529358,
+          "id": 1729360689
+        },
+        {
+          "distance": 0.19394713640213013,
+          "id": 1729359631
+        },
+        {
+          "distance": 0.20750081539154053,
+          "id": 1729355799
+        },
+        {
+          "distance": 0.21833020448684692,
+          "id": 1729356895
+        },
+        {
+          "distance": 0.22548454999923706,
+          "id": 1729355799
+        },
+        {
+          "distance": 0.23007917404174805,
+          "id": 1729359159
+        },
+        {
+          "distance": 0.23183304071426392,
+          "id": 1729356897
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729359641,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777636,
     "wof:name": "Do you recognize this terminal interior?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

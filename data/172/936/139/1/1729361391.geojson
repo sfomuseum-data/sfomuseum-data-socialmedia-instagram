@@ -25,6 +25,50 @@
       "taken": 1446670680,
       "taken_at": "Nov 04, 2015 8:58 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14606964588165283,
+          "id": 1880151641
+        },
+        {
+          "distance": 0.1638135313987732,
+          "id": 1729361337
+        },
+        {
+          "distance": 0.16706758737564087,
+          "id": 1880151641
+        },
+        {
+          "distance": 0.16816866397857666,
+          "id": 1729359419
+        },
+        {
+          "distance": 0.16954827308654785,
+          "id": 1729356707
+        },
+        {
+          "distance": 0.1719493269920349,
+          "id": 1729361271
+        },
+        {
+          "distance": 0.1739940047264099,
+          "id": 1729359671
+        },
+        {
+          "distance": 0.1796512007713318,
+          "id": 1763559319
+        },
+        {
+          "distance": 0.1837635040283203,
+          "id": 1880151595
+        },
+        {
+          "distance": 0.19083940982818604,
+          "id": 1729361161
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361391,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "A great promoter of aviation, as well as astronomy and botany, the British author Gertrude Bacon was an experienced balloonist and one of the first women to fly as a passenger in an airplane...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

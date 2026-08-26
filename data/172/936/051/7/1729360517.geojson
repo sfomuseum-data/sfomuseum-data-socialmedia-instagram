@@ -25,6 +25,50 @@
       "taken": 1469119200,
       "taken_at": "Jul 21, 2016 4:40 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.02830260992050171,
+          "id": 1729361865
+        },
+        {
+          "distance": 0.07707417011260986,
+          "id": 1729361865
+        },
+        {
+          "distance": 0.15151935815811157,
+          "id": 1729362995
+        },
+        {
+          "distance": 0.23373174667358398,
+          "id": 1729355799
+        },
+        {
+          "distance": 0.23774206638336182,
+          "id": 1763559563
+        },
+        {
+          "distance": 0.24009060859680176,
+          "id": 1729355701
+        },
+        {
+          "distance": 0.24067610502243042,
+          "id": 1729362995
+        },
+        {
+          "distance": 0.24252820014953613,
+          "id": 1763559563
+        },
+        {
+          "distance": 0.24956446886062622,
+          "id": 1729355145
+        },
+        {
+          "distance": 0.25508350133895874,
+          "id": 1729360259
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360517,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "These four sculptures were created from translucent white silicone coated fiberglass material stretched over a metal frame and inserted within the truss structure of the skylights, 70 feet above the floor...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

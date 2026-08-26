@@ -36,6 +36,50 @@
       "taken": 1526726760,
       "taken_at": "May 19, 2018 10:46 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15897589921951294,
+          "id": 1729358173
+        },
+        {
+          "distance": 0.17368632555007935,
+          "id": 1729358025
+        },
+        {
+          "distance": 0.18109029531478882,
+          "id": 1729358301
+        },
+        {
+          "distance": 0.18773335218429565,
+          "id": 1729358025
+        },
+        {
+          "distance": 0.19110620021820068,
+          "id": 1729357807
+        },
+        {
+          "distance": 0.2032005786895752,
+          "id": 1729358173
+        },
+        {
+          "distance": 0.20712482929229736,
+          "id": 1729361627
+        },
+        {
+          "distance": 0.2128371000289917,
+          "id": 1729358301
+        },
+        {
+          "distance": 0.21298182010650635,
+          "id": 1729358141
+        },
+        {
+          "distance": 0.2180551290512085,
+          "id": 1729358591
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729358205,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "The Fushimi kilns of Kyoto began crafting distinctive maneki neko during the early Meiji period (1868–1912)...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

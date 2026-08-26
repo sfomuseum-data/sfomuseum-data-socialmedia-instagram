@@ -30,6 +30,50 @@
       "taken": 1620139860,
       "taken_at": "May 04, 2021 2:51 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12598711252212524,
+          "id": 1880150929
+        },
+        {
+          "distance": 0.18173271417617798,
+          "id": 1880150929
+        },
+        {
+          "distance": 0.39163219928741455,
+          "id": 1729357909
+        },
+        {
+          "distance": 0.39655834436416626,
+          "id": 1880150941
+        },
+        {
+          "distance": 0.40294182300567627,
+          "id": 1880151747
+        },
+        {
+          "distance": 0.4101788401603699,
+          "id": 1880150941
+        },
+        {
+          "distance": 0.41328883171081543,
+          "id": 1729358965
+        },
+        {
+          "distance": 0.41593414545059204,
+          "id": 1729357909
+        },
+        {
+          "distance": 0.4176461100578308,
+          "id": 1729361003
+        },
+        {
+          "distance": 0.4202128052711487,
+          "id": 1729361003
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559163,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Well, would you Wookiee at that!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

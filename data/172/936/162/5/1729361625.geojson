@@ -32,6 +32,50 @@
       "taken": 1439205900,
       "taken_at": "Aug 10, 2015 11:25 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.30560749769210815,
+          "id": 1729362709
+        },
+        {
+          "distance": 0.32458531856536865,
+          "id": 1729362617
+        },
+        {
+          "distance": 0.33518004417419434,
+          "id": 1729362317
+        },
+        {
+          "distance": 0.3397371768951416,
+          "id": 1729362617
+        },
+        {
+          "distance": 0.3456365466117859,
+          "id": 1729362761
+        },
+        {
+          "distance": 0.3480888605117798,
+          "id": 1729362761
+        },
+        {
+          "distance": 0.34898900985717773,
+          "id": 1729362361
+        },
+        {
+          "distance": 0.350078284740448,
+          "id": 1729362581
+        },
+        {
+          "distance": 0.35124754905700684,
+          "id": 1729362373
+        },
+        {
+          "distance": 0.35489773750305176,
+          "id": 1729361877
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729361625,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777646,
     "wof:name": "What a beautiful collection of photos of our collection!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

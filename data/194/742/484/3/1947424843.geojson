@@ -30,6 +30,50 @@
       "taken": 1728314400,
       "taken_at": "Oct 07, 2024 3:20 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1882891058921814,
+          "id": 1947425207
+        },
+        {
+          "distance": 0.1889386773109436,
+          "id": 1947425169
+        },
+        {
+          "distance": 0.19564402103424072,
+          "id": 1947425291
+        },
+        {
+          "distance": 0.2028886079788208,
+          "id": 1729361489
+        },
+        {
+          "distance": 0.20540034770965576,
+          "id": 1729361495
+        },
+        {
+          "distance": 0.21927213668823242,
+          "id": 1729355951
+        },
+        {
+          "distance": 0.2198108434677124,
+          "id": 1729357609
+        },
+        {
+          "distance": 0.22087520360946655,
+          "id": 1729355755
+        },
+        {
+          "distance": 0.22431784868240356,
+          "id": 1947425257
+        },
+        {
+          "distance": 0.22639507055282593,
+          "id": 1763558827
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1947424843,
-    "wof:lastmodified": 1733175318,
+    "wof:lastmodified": 1787777664,
     "wof:name": "When Harold Bixby arrived in China in early 1933 on behalf of Pan American Airways, his main tasks were to expand the operations of the China National Aviation Corporation (CNAC) and to establish Pan American as a presence in the regional aviation community...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

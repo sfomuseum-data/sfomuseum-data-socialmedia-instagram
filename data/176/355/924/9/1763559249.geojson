@@ -30,6 +30,50 @@
       "taken": 1614184140,
       "taken_at": "Feb 24, 2021 4:29 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2196558117866516,
+          "id": 1729356317
+        },
+        {
+          "distance": 0.2223166823387146,
+          "id": 1729356623
+        },
+        {
+          "distance": 0.22878456115722656,
+          "id": 1729356623
+        },
+        {
+          "distance": 0.2351912260055542,
+          "id": 1729361179
+        },
+        {
+          "distance": 0.23754942417144775,
+          "id": 1729360007
+        },
+        {
+          "distance": 0.2404901385307312,
+          "id": 1880151189
+        },
+        {
+          "distance": 0.24081432819366455,
+          "id": 1763559617
+        },
+        {
+          "distance": 0.24336081743240356,
+          "id": 1729355569
+        },
+        {
+          "distance": 0.2436755895614624,
+          "id": 1763559017
+        },
+        {
+          "distance": 0.24475795030593872,
+          "id": 1729356317
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559249,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "The Lockheed Model 10 Electra was introduced in 1935 as the manufacturer's first all-metal aircraft, developed to compete with the Douglas DC-2 and Boeing 247...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

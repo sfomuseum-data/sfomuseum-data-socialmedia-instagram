@@ -28,6 +28,50 @@
       "taken": 1605009120,
       "taken_at": "Nov 10, 2020 11:52 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.27966374158859253,
+          "id": 1763559039
+        },
+        {
+          "distance": 0.29302841424942017,
+          "id": 1880151031
+        },
+        {
+          "distance": 0.32494598627090454,
+          "id": 1947424913
+        },
+        {
+          "distance": 0.3282794952392578,
+          "id": 1729359913
+        },
+        {
+          "distance": 0.3362409472465515,
+          "id": 1729355055
+        },
+        {
+          "distance": 0.33761924505233765,
+          "id": 1729355045
+        },
+        {
+          "distance": 0.3405119776725769,
+          "id": 1729361719
+        },
+        {
+          "distance": 0.3409104347229004,
+          "id": 1729360517
+        },
+        {
+          "distance": 0.3410639762878418,
+          "id": 1729361865
+        },
+        {
+          "distance": 0.34403514862060547,
+          "id": 1729362029
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1763558999,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Standing thirty-five feet tall, “Ether” is the first permanent artwork in the United States by Japanese artist #KoheiNawa...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

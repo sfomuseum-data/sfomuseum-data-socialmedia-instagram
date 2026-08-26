@@ -48,6 +48,50 @@
       "taken": 1504115100,
       "taken_at": "Aug 30, 2017 5:45 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2580622434616089,
+          "id": 1729359543
+        },
+        {
+          "distance": 0.2796465754508972,
+          "id": 1763559655
+        },
+        {
+          "distance": 0.29080748558044434,
+          "id": 1763559655
+        },
+        {
+          "distance": 0.29353904724121094,
+          "id": 1729360493
+        },
+        {
+          "distance": 0.29708796739578247,
+          "id": 1729360493
+        },
+        {
+          "distance": 0.32182925939559937,
+          "id": 1763559287
+        },
+        {
+          "distance": 0.32257503271102905,
+          "id": 1763559287
+        },
+        {
+          "distance": 0.32534974813461304,
+          "id": 1729361509
+        },
+        {
+          "distance": 0.33214205503463745,
+          "id": 1729358075
+        },
+        {
+          "distance": 0.3326655626296997,
+          "id": 1729359139
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -77,7 +121,7 @@
       }
     ],
     "wof:id": 1729359133,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "French fashion designer Pierre Balmain (1914–1982) created this outfit called the Tung Hoi (Eastern Sea) uniform for Cathay Pacific Airways...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -94,5 +138,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

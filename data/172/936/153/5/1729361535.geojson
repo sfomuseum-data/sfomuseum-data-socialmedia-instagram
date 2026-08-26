@@ -25,6 +25,50 @@
       "taken": 1442480640,
       "taken_at": "Sep 17, 2015 9:04 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14825189113616943,
+          "id": 1729363009
+        },
+        {
+          "distance": 0.21407216787338257,
+          "id": 1729363009
+        },
+        {
+          "distance": 0.24112266302108765,
+          "id": 1729356403
+        },
+        {
+          "distance": 0.2467246651649475,
+          "id": 1729362737
+        },
+        {
+          "distance": 0.25213921070098877,
+          "id": 1729362905
+        },
+        {
+          "distance": 0.25365525484085083,
+          "id": 1729356403
+        },
+        {
+          "distance": 0.26368778944015503,
+          "id": 1729356411
+        },
+        {
+          "distance": 0.266318678855896,
+          "id": 1729356411
+        },
+        {
+          "distance": 0.26677364110946655,
+          "id": 1729356841
+        },
+        {
+          "distance": 0.27693653106689453,
+          "id": 1729362737
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361535,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "What a beautiful combination...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

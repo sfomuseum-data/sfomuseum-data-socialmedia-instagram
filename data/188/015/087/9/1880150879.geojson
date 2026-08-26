@@ -30,6 +30,50 @@
       "taken": 1688130660,
       "taken_at": "Jun 30, 2023 1:11 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.21863460540771484,
+          "id": 1947425295
+        },
+        {
+          "distance": 0.2250942587852478,
+          "id": 1763559579
+        },
+        {
+          "distance": 0.23061317205429077,
+          "id": 1947425295
+        },
+        {
+          "distance": 0.24038106203079224,
+          "id": 1763559579
+        },
+        {
+          "distance": 0.24231404066085815,
+          "id": 1729355633
+        },
+        {
+          "distance": 0.2496018409729004,
+          "id": 1729355629
+        },
+        {
+          "distance": 0.2567010521888733,
+          "id": 1729355101
+        },
+        {
+          "distance": 0.26798027753829956,
+          "id": 1729355101
+        },
+        {
+          "distance": 0.27674317359924316,
+          "id": 1880150947
+        },
+        {
+          "distance": 0.28286099433898926,
+          "id": 1880150947
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880150879,
-    "wof:lastmodified": 1733175333,
+    "wof:lastmodified": 1787777661,
     "wof:name": "“Orion“ by Spencer Finch is inspired by the seven major stars of Orion, one of the most recognizable constellations in the night sky...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

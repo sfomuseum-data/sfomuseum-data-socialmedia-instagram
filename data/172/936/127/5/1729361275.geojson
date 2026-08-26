@@ -25,6 +25,50 @@
       "taken": 1450120440,
       "taken_at": "Dec 14, 2015 7:14 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10918962955474854,
+          "id": 1763559607
+        },
+        {
+          "distance": 0.11428910493850708,
+          "id": 1729355369
+        },
+        {
+          "distance": 0.13961172103881836,
+          "id": 1763559607
+        },
+        {
+          "distance": 0.14700114727020264,
+          "id": 1729355369
+        },
+        {
+          "distance": 0.2278706431388855,
+          "id": 1763558929
+        },
+        {
+          "distance": 0.23647171258926392,
+          "id": 1729355227
+        },
+        {
+          "distance": 0.2476702332496643,
+          "id": 1729361881
+        },
+        {
+          "distance": 0.2533065676689148,
+          "id": 1880151215
+        },
+        {
+          "distance": 0.2552393674850464,
+          "id": 1729361109
+        },
+        {
+          "distance": 0.2578204870223999,
+          "id": 1763558929
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361275,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "Pan American’s transpacific flight service would not have been possible without the additional support and expert skills of the airline technicians and construction engineers who built the island bases...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

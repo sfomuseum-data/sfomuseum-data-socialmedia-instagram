@@ -25,6 +25,50 @@
       "taken": 1456221300,
       "taken_at": "Feb 23, 2016 9:55 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15846163034439087,
+          "id": 1729361577
+        },
+        {
+          "distance": 0.1631200909614563,
+          "id": 1729360551
+        },
+        {
+          "distance": 0.1727953553199768,
+          "id": 1729360365
+        },
+        {
+          "distance": 0.1818566918373108,
+          "id": 1729361353
+        },
+        {
+          "distance": 0.18331575393676758,
+          "id": 1880151455
+        },
+        {
+          "distance": 0.18557924032211304,
+          "id": 1729355261
+        },
+        {
+          "distance": 0.18845820426940918,
+          "id": 1729361577
+        },
+        {
+          "distance": 0.18901926279067993,
+          "id": 1729357873
+        },
+        {
+          "distance": 0.18925178050994873,
+          "id": 1729359743
+        },
+        {
+          "distance": 0.1918243169784546,
+          "id": 1729359201
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361017,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777641,
     "wof:name": "Pacific Air Lines began as a business endeavor to train pilots during World War II...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -38,6 +38,50 @@
       "taken": 1523953620,
       "taken_at": "Apr 17, 2018 8:27 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19708967208862305,
+          "id": 1729360723
+        },
+        {
+          "distance": 0.20479285717010498,
+          "id": 1729359511
+        },
+        {
+          "distance": 0.21749907732009888,
+          "id": 1729359511
+        },
+        {
+          "distance": 0.21778327226638794,
+          "id": 1763559125
+        },
+        {
+          "distance": 0.22572821378707886,
+          "id": 1729359659
+        },
+        {
+          "distance": 0.23127597570419312,
+          "id": 1763559085
+        },
+        {
+          "distance": 0.2322273850440979,
+          "id": 1729356009
+        },
+        {
+          "distance": 0.23395973443984985,
+          "id": 1729358209
+        },
+        {
+          "distance": 0.23650199174880981,
+          "id": 1763559125
+        },
+        {
+          "distance": 0.24104177951812744,
+          "id": 1729355351
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729358339,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Developed from the 367 Stratofreighter, the Boeing 377 Stratocruiser was a fast, pressurized, large capacity airliner...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

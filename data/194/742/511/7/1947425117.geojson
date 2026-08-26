@@ -29,6 +29,50 @@
       "taken": 1708100580,
       "taken_at": "Feb 16, 2024 4:23 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.04922950267791748,
+          "id": 1763559327
+        },
+        {
+          "distance": 0.055963873863220215,
+          "id": 1763559487
+        },
+        {
+          "distance": 0.09808290004730225,
+          "id": 1763559327
+        },
+        {
+          "distance": 0.1059638261795044,
+          "id": 1763559487
+        },
+        {
+          "distance": 0.16575276851654053,
+          "id": 1729359455
+        },
+        {
+          "distance": 0.17107832431793213,
+          "id": 1729359455
+        },
+        {
+          "distance": 0.1773967146873474,
+          "id": 1729356319
+        },
+        {
+          "distance": 0.18785136938095093,
+          "id": 1729361549
+        },
+        {
+          "distance": 0.19143539667129517,
+          "id": 1729356319
+        },
+        {
+          "distance": 0.20142912864685059,
+          "id": 1729359167
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1947425117,
-    "wof:lastmodified": 1733175326,
+    "wof:lastmodified": 1787777664,
     "wof:name": "This year, in tandem with our forthcoming airline poster artist exhibition, we will be highlighting posters from our collection every week...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

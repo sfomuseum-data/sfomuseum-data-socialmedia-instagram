@@ -35,6 +35,50 @@
       "taken": 1515430920,
       "taken_at": "Jan 8, 2018, 5:02 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1800333857536316,
+          "id": 1729358735
+        },
+        {
+          "distance": 0.19184201955795288,
+          "id": 1729358737
+        },
+        {
+          "distance": 0.19414019584655762,
+          "id": 1729357723
+        },
+        {
+          "distance": 0.20061767101287842,
+          "id": 1729358735
+        },
+        {
+          "distance": 0.20422428846359253,
+          "id": 1729357723
+        },
+        {
+          "distance": 0.22015714645385742,
+          "id": 1729358737
+        },
+        {
+          "distance": 0.22472387552261353,
+          "id": 1729358711
+        },
+        {
+          "distance": 0.23564040660858154,
+          "id": 1729357793
+        },
+        {
+          "distance": 0.2537134885787964,
+          "id": 1729359887
+        },
+        {
+          "distance": 0.2553446888923645,
+          "id": 1729358147
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729358725,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Prior to Prohibition and the Volstead Act of 1919, gambling was a mainstay of the saloon...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

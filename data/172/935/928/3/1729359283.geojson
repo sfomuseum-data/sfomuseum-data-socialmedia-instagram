@@ -33,6 +33,50 @@
       "taken": 1500627780,
       "taken_at": "Jul 21, 2017 9:03 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.295731782913208,
+          "id": 1729359609
+        },
+        {
+          "distance": 0.3139925003051758,
+          "id": 1947425117
+        },
+        {
+          "distance": 0.31852221488952637,
+          "id": 1729360617
+        },
+        {
+          "distance": 0.3210826516151428,
+          "id": 1729359969
+        },
+        {
+          "distance": 0.3213413953781128,
+          "id": 1763559393
+        },
+        {
+          "distance": 0.32730352878570557,
+          "id": 1729359739
+        },
+        {
+          "distance": 0.3289836645126343,
+          "id": 1729355063
+        },
+        {
+          "distance": 0.32901763916015625,
+          "id": 1729359609
+        },
+        {
+          "distance": 0.3300473093986511,
+          "id": 1729359167
+        },
+        {
+          "distance": 0.33086276054382324,
+          "id": 1729360567
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729359283,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Featuring a stunning picture of the Three Brothers in Yosemite National Park, this c. 1950 TWA (Trans World Airlines) brochure advertises that California is less than a day away from almost anywhere in the USA...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

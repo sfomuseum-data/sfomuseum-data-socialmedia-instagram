@@ -29,6 +29,50 @@
       "taken": 1644504540,
       "taken_at": "Feb 10, 2022 2:49 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17157459259033203,
+          "id": 1729361251
+        },
+        {
+          "distance": 0.18687748908996582,
+          "id": 1729355245
+        },
+        {
+          "distance": 0.18917471170425415,
+          "id": 1880151805
+        },
+        {
+          "distance": 0.19065117835998535,
+          "id": 1880151779
+        },
+        {
+          "distance": 0.19559305906295776,
+          "id": 1729355245
+        },
+        {
+          "distance": 0.19560861587524414,
+          "id": 1729358743
+        },
+        {
+          "distance": 0.21034729480743408,
+          "id": 1729357489
+        },
+        {
+          "distance": 0.21932446956634521,
+          "id": 1880151805
+        },
+        {
+          "distance": 0.22156870365142822,
+          "id": 1763559077
+        },
+        {
+          "distance": 0.2236635684967041,
+          "id": 1880151799
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1763559615,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Braniff International Airways, which operated from 1930 to 1982, has the distinction of being one the very few airlines named eponymously for its owner...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

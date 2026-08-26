@@ -35,6 +35,50 @@
       "taken": 1559666880,
       "taken_at": "Jun 04, 2019 4:48 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.024690866470336914,
+          "id": 1729355717
+        },
+        {
+          "distance": 0.0845075249671936,
+          "id": 1729355717
+        },
+        {
+          "distance": 0.19609951972961426,
+          "id": 1729357325
+        },
+        {
+          "distance": 0.21244603395462036,
+          "id": 1729357693
+        },
+        {
+          "distance": 0.2152339220046997,
+          "id": 1729357693
+        },
+        {
+          "distance": 0.2305096983909607,
+          "id": 1763559407
+        },
+        {
+          "distance": 0.231425940990448,
+          "id": 1880151519
+        },
+        {
+          "distance": 0.23375946283340454,
+          "id": 1729357325
+        },
+        {
+          "distance": 0.2339264154434204,
+          "id": 1729360129
+        },
+        {
+          "distance": 0.2400004267692566,
+          "id": 1880151585
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729356467,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Jukeboxes provided amplified, musical entertainment in public gathering spots such as bars, diners, drive-ins, and soda fountains...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

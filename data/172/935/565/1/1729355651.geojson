@@ -34,6 +34,50 @@
       "taken": 1579280280,
       "taken_at": "Jan 17, 2020, 4:58 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.029163479804992676,
+          "id": 1729360513
+        },
+        {
+          "distance": 0.07885122299194336,
+          "id": 1729356029
+        },
+        {
+          "distance": 0.08050215244293213,
+          "id": 1729360513
+        },
+        {
+          "distance": 0.10835933685302734,
+          "id": 1729356029
+        },
+        {
+          "distance": 0.13423705101013184,
+          "id": 1880151595
+        },
+        {
+          "distance": 0.14249777793884277,
+          "id": 1880151673
+        },
+        {
+          "distance": 0.1766994595527649,
+          "id": 1729356037
+        },
+        {
+          "distance": 0.17699110507965088,
+          "id": 1880151661
+        },
+        {
+          "distance": 0.17979222536087036,
+          "id": 1729356037
+        },
+        {
+          "distance": 0.18581801652908325,
+          "id": 1880151673
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729355651,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777627,
     "wof:name": "Stanley Henry Page was San Francisco Bay Area engineer who was inspired by the new technologies of flight...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

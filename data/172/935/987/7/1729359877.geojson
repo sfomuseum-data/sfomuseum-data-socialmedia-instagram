@@ -25,6 +25,50 @@
       "taken": 1485543360,
       "taken_at": "Jan 27, 2017 6:56 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13775253295898438,
+          "id": 1729355227
+        },
+        {
+          "distance": 0.14058387279510498,
+          "id": 1729360673
+        },
+        {
+          "distance": 0.1457688808441162,
+          "id": 1729357989
+        },
+        {
+          "distance": 0.15084350109100342,
+          "id": 1729355665
+        },
+        {
+          "distance": 0.1528841257095337,
+          "id": 1729360673
+        },
+        {
+          "distance": 0.1532764434814453,
+          "id": 1729357989
+        },
+        {
+          "distance": 0.15615922212600708,
+          "id": 1729355899
+        },
+        {
+          "distance": 0.15918511152267456,
+          "id": 1763558929
+        },
+        {
+          "distance": 0.16197192668914795,
+          "id": 1729358177
+        },
+        {
+          "distance": 0.16714322566986084,
+          "id": 1729355339
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359877,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "This c. 1936 postcard features a rendering of the San Francisco - Oakland Bay Bridge superimposed on a photographic image of San Francisco...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

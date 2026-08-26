@@ -30,6 +30,50 @@
       "taken": 1650451320,
       "taken_at": "Apr 20, 2022 10:42 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19673407077789307,
+          "id": 1729360823
+        },
+        {
+          "distance": 0.20453286170959473,
+          "id": 1947425291
+        },
+        {
+          "distance": 0.20759272575378418,
+          "id": 1947425087
+        },
+        {
+          "distance": 0.21047455072402954,
+          "id": 1763559497
+        },
+        {
+          "distance": 0.23389673233032227,
+          "id": 1763559497
+        },
+        {
+          "distance": 0.23593223094940186,
+          "id": 1880151305
+        },
+        {
+          "distance": 0.2393544316291809,
+          "id": 1947425167
+        },
+        {
+          "distance": 0.23993349075317383,
+          "id": 1947424919
+        },
+        {
+          "distance": 0.2405228614807129,
+          "id": 1763559295
+        },
+        {
+          "distance": 0.24611228704452515,
+          "id": 1880151337
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151803,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777663,
     "wof:name": "It’s your last week to see “Mathematics: Vintage and Modern!”..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -31,6 +31,50 @@
       "taken": 1562864040,
       "taken_at": "Jul 11, 2019 4:54 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2065044641494751,
+          "id": 1729356623
+        },
+        {
+          "distance": 0.21946370601654053,
+          "id": 1763559249
+        },
+        {
+          "distance": 0.22440141439437866,
+          "id": 1729356083
+        },
+        {
+          "distance": 0.22627109289169312,
+          "id": 1729357179
+        },
+        {
+          "distance": 0.22627109289169312,
+          "id": 1763558807
+        },
+        {
+          "distance": 0.23569238185882568,
+          "id": 1729356623
+        },
+        {
+          "distance": 0.23721790313720703,
+          "id": 1729355569
+        },
+        {
+          "distance": 0.23766225576400757,
+          "id": 1729358161
+        },
+        {
+          "distance": 0.23807471990585327,
+          "id": 1729358161
+        },
+        {
+          "distance": 0.2412506341934204,
+          "id": 1729358537
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729356317,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777629,
     "wof:name": "With seats for ten passengers, the Boeing 247 was dubbed a “flying city” in this postcard advertisement...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

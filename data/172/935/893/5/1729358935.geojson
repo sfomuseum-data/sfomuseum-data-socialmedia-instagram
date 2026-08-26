@@ -47,6 +47,50 @@
       "taken": 1509620880,
       "taken_at": "Nov 02, 2017 11:08 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.002533137798309326,
+          "id": 1763559007
+        },
+        {
+          "distance": 0.05993306636810303,
+          "id": 1763559285
+        },
+        {
+          "distance": 0.08617061376571655,
+          "id": 1763559285
+        },
+        {
+          "distance": 0.09733688831329346,
+          "id": 1763559007
+        },
+        {
+          "distance": 0.11397111415863037,
+          "id": 1947425309
+        },
+        {
+          "distance": 0.12295788526535034,
+          "id": 1729356173
+        },
+        {
+          "distance": 0.1256200075149536,
+          "id": 1729356533
+        },
+        {
+          "distance": 0.13033008575439453,
+          "id": 1729357437
+        },
+        {
+          "distance": 0.13856858015060425,
+          "id": 1729361177
+        },
+        {
+          "distance": 0.14638406038284302,
+          "id": 1729357439
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -76,7 +120,7 @@
       }
     ],
     "wof:id": 1729358935,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777634,
     "wof:name": "#Onthisday in 1947, Howard Hughes, decided to take the huge Hughes H-4 Hercules (nicknamed the Spruce Goose) on a test flight to prove it could fly...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -93,5 +137,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

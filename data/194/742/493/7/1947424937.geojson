@@ -29,6 +29,50 @@
       "taken": 1721235600,
       "taken_at": "Jul 17, 2024 5:00 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.27490919828414917,
+          "id": 1729361509
+        },
+        {
+          "distance": 0.28726667165756226,
+          "id": 1729360257
+        },
+        {
+          "distance": 0.2920231223106384,
+          "id": 1763559147
+        },
+        {
+          "distance": 0.2939816117286682,
+          "id": 1729359139
+        },
+        {
+          "distance": 0.3010061979293823,
+          "id": 1729357403
+        },
+        {
+          "distance": 0.31091374158859253,
+          "id": 1729360257
+        },
+        {
+          "distance": 0.31115758419036865,
+          "id": 1763559643
+        },
+        {
+          "distance": 0.3136219382286072,
+          "id": 1729361467
+        },
+        {
+          "distance": 0.3140106201171875,
+          "id": 1729361509
+        },
+        {
+          "distance": 0.3141372799873352,
+          "id": 1763559391
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1947424937,
-    "wof:lastmodified": 1733175321,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Did you know that SFO Museum makes all of our own mannequins in house?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -38,6 +38,50 @@
       "taken": 1555434660,
       "taken_at": "Apr 16, 2019, 5:11 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16568481922149658,
+          "id": 1729356659
+        },
+        {
+          "distance": 0.17743253707885742,
+          "id": 1729356659
+        },
+        {
+          "distance": 0.2096419334411621,
+          "id": 1729357399
+        },
+        {
+          "distance": 0.210357666015625,
+          "id": 1729357205
+        },
+        {
+          "distance": 0.22292560338974,
+          "id": 1729357241
+        },
+        {
+          "distance": 0.2257237434387207,
+          "id": 1729357205
+        },
+        {
+          "distance": 0.23657745122909546,
+          "id": 1729356621
+        },
+        {
+          "distance": 0.23657864332199097,
+          "id": 1729357241
+        },
+        {
+          "distance": 0.23868262767791748,
+          "id": 1729357305
+        },
+        {
+          "distance": 0.24013084173202515,
+          "id": 1729359655
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729356647,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Ryan McClean was raised on the shores of Scotland’s Loch Nevis and became fascinated by nature from an early age...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

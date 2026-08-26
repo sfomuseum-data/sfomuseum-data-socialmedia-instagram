@@ -36,6 +36,50 @@
       "taken": 1558865220,
       "taken_at": "May 26, 2019 10:07 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2878897190093994,
+          "id": 1729358875
+        },
+        {
+          "distance": 0.2997288703918457,
+          "id": 1729358875
+        },
+        {
+          "distance": 0.3045334815979004,
+          "id": 1729355511
+        },
+        {
+          "distance": 0.31114304065704346,
+          "id": 1729360357
+        },
+        {
+          "distance": 0.3274558186531067,
+          "id": 1729356883
+        },
+        {
+          "distance": 0.3392598628997803,
+          "id": 1729361325
+        },
+        {
+          "distance": 0.344543993473053,
+          "id": 1729355527
+        },
+        {
+          "distance": 0.34522348642349243,
+          "id": 1729361325
+        },
+        {
+          "distance": 0.3481062054634094,
+          "id": 1729359951
+        },
+        {
+          "distance": 0.3495495319366455,
+          "id": 1729359951
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729356517,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Photographer Philip Cheung documents 690 miles of railroad track between Sacramento, California, and Promontory, Utah...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

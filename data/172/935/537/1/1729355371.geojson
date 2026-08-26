@@ -34,6 +34,50 @@
       "taken": 1585740900,
       "taken_at": "Apr 01, 2020 11:35 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0058062076568603516,
+          "id": 1729356011
+        },
+        {
+          "distance": 0.11033517122268677,
+          "id": 1729356011
+        },
+        {
+          "distance": 0.2296736240386963,
+          "id": 1729355203
+        },
+        {
+          "distance": 0.2607041001319885,
+          "id": 1729355203
+        },
+        {
+          "distance": 0.335266649723053,
+          "id": 1729355641
+        },
+        {
+          "distance": 0.35086768865585327,
+          "id": 1729356005
+        },
+        {
+          "distance": 0.35260266065597534,
+          "id": 1729356097
+        },
+        {
+          "distance": 0.35425156354904175,
+          "id": 1729356133
+        },
+        {
+          "distance": 0.37744879722595215,
+          "id": 1729356157
+        },
+        {
+          "distance": 0.3843103051185608,
+          "id": 1729355639
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729355371,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777624,
     "wof:name": "“Les Lointains”, which translates to The Faraway, was first produced by Zuber in 1825...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

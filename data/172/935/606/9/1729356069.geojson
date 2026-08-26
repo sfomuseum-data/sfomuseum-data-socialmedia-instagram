@@ -34,6 +34,50 @@
       "taken": 1569402360,
       "taken_at": "Sep 25, 2019 9:06 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.31281185150146484,
+          "id": 1729357795
+        },
+        {
+          "distance": 0.3401132822036743,
+          "id": 1729357795
+        },
+        {
+          "distance": 0.34741032123565674,
+          "id": 1947425011
+        },
+        {
+          "distance": 0.3524213433265686,
+          "id": 1729357699
+        },
+        {
+          "distance": 0.35324740409851074,
+          "id": 1729356985
+        },
+        {
+          "distance": 0.3645448088645935,
+          "id": 1763559091
+        },
+        {
+          "distance": 0.37189817428588867,
+          "id": 1947425011
+        },
+        {
+          "distance": 0.3824523687362671,
+          "id": 1763559317
+        },
+        {
+          "distance": 0.3828756809234619,
+          "id": 1729356985
+        },
+        {
+          "distance": 0.3899140954017639,
+          "id": 1947425317
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729356069,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777628,
     "wof:name": "The husband-and-wife filmmaking team of Max Porter and Ru Kuwahata employ stop-motion to animate a 150-word poem by Ron Koerge in this poignant and bittersweet story about family, loss, and the finer points of packing a suitcase...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

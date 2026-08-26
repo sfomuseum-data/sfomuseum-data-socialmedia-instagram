@@ -38,6 +38,50 @@
       "taken": 1497294000,
       "taken_at": "Jun 12, 2017 7:00 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18766969442367554,
+          "id": 1729361059
+        },
+        {
+          "distance": 0.21158790588378906,
+          "id": 1729355737
+        },
+        {
+          "distance": 0.21435141563415527,
+          "id": 1729359411
+        },
+        {
+          "distance": 0.21735817193984985,
+          "id": 1729358965
+        },
+        {
+          "distance": 0.22197073698043823,
+          "id": 1729360759
+        },
+        {
+          "distance": 0.22712314128875732,
+          "id": 1729357809
+        },
+        {
+          "distance": 0.2319326400756836,
+          "id": 1729358965
+        },
+        {
+          "distance": 0.2481873631477356,
+          "id": 1729355737
+        },
+        {
+          "distance": 0.26294273138046265,
+          "id": 1729362319
+        },
+        {
+          "distance": 0.26395511627197266,
+          "id": 1729356937
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729359415,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Did you know that in the 1960s you could fill out mail order forms for flight bags while in the air?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

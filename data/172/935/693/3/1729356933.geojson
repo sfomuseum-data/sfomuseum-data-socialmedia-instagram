@@ -34,6 +34,50 @@
       "taken": 1550520120,
       "taken_at": "Feb 18, 2019, 8:02 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.08372974395751953,
+          "id": 1729356409
+        },
+        {
+          "distance": 0.0883060097694397,
+          "id": 1729356409
+        },
+        {
+          "distance": 0.19455337524414062,
+          "id": 1729356955
+        },
+        {
+          "distance": 0.2392447590827942,
+          "id": 1763558729
+        },
+        {
+          "distance": 0.2392447590827942,
+          "id": 1729358233
+        },
+        {
+          "distance": 0.2474430799484253,
+          "id": 1729356931
+        },
+        {
+          "distance": 0.2654266953468323,
+          "id": 1729359681
+        },
+        {
+          "distance": 0.2670629024505615,
+          "id": 1729357097
+        },
+        {
+          "distance": 0.2703155279159546,
+          "id": 1729356391
+        },
+        {
+          "distance": 0.2757112979888916,
+          "id": 1729356955
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729356933,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "In her ongoing series, \"City Space\", Chicago-based artist Clarissa Bonet explores the urban landscape from a pedestrian perspective, producing dramatic images that draw focus both on the surface of the city and the psychological resonance of the architecture within it...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

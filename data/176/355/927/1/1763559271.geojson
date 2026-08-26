@@ -28,6 +28,50 @@
       "taken": 1638896340,
       "taken_at": "Dec 07, 2021 4:59 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.28087568283081055,
+          "id": 1763558729
+        },
+        {
+          "distance": 0.28087568283081055,
+          "id": 1729358233
+        },
+        {
+          "distance": 0.2856324315071106,
+          "id": 1729355999
+        },
+        {
+          "distance": 0.2899693250656128,
+          "id": 1729356409
+        },
+        {
+          "distance": 0.2930724620819092,
+          "id": 1729356931
+        },
+        {
+          "distance": 0.2941019535064697,
+          "id": 1729356955
+        },
+        {
+          "distance": 0.2945440411567688,
+          "id": 1729355999
+        },
+        {
+          "distance": 0.29943305253982544,
+          "id": 1947425011
+        },
+        {
+          "distance": 0.3017879128456116,
+          "id": 1729356955
+        },
+        {
+          "distance": 0.30243873596191406,
+          "id": 1947425011
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1763559271,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "SFO Museum celebrates the reopening of the Airport’s Video Arts screening room after a 20-month hiatus due to the COVID-19 pandemic...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

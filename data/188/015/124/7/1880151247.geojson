@@ -31,6 +31,50 @@
       "taken": 1671540720,
       "taken_at": "Dec 20, 2022 12:52 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19822615385055542,
+          "id": 1763559435
+        },
+        {
+          "distance": 0.22552335262298584,
+          "id": 1729355945
+        },
+        {
+          "distance": 0.2303692102432251,
+          "id": 1729359137
+        },
+        {
+          "distance": 0.23351168632507324,
+          "id": 1729356065
+        },
+        {
+          "distance": 0.23509705066680908,
+          "id": 1763559575
+        },
+        {
+          "distance": 0.23730015754699707,
+          "id": 1763559419
+        },
+        {
+          "distance": 0.24151849746704102,
+          "id": 1729357503
+        },
+        {
+          "distance": 0.24160879850387573,
+          "id": 1729361435
+        },
+        {
+          "distance": 0.2417583465576172,
+          "id": 1729357503
+        },
+        {
+          "distance": 0.244184672832489,
+          "id": 1729355945
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151247,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "#OnThisDay in 1939, the Ames Aeronautical Laboratory (@nasaames) was established as part of the National Advisory Committee for Aeronautics (NACA)...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

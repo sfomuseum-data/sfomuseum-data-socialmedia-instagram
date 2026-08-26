@@ -25,6 +25,50 @@
       "taken": 1467310560,
       "taken_at": "Jun 30, 2016 6:16 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1850261092185974,
+          "id": 1763558715
+        },
+        {
+          "distance": 0.1850261092185974,
+          "id": 1729358511
+        },
+        {
+          "distance": 0.18678224086761475,
+          "id": 1729358511
+        },
+        {
+          "distance": 0.18678224086761475,
+          "id": 1763558715
+        },
+        {
+          "distance": 0.18913936614990234,
+          "id": 1729358519
+        },
+        {
+          "distance": 0.19732290506362915,
+          "id": 1729360419
+        },
+        {
+          "distance": 0.20299023389816284,
+          "id": 1729358629
+        },
+        {
+          "distance": 0.20309394598007202,
+          "id": 1729356749
+        },
+        {
+          "distance": 0.2054157257080078,
+          "id": 1729361263
+        },
+        {
+          "distance": 0.21264034509658813,
+          "id": 1729358629
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360559,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "The interior of the air traffic control room at SFO in 1968 looks very different from a modern air traffic control room...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

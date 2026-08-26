@@ -32,6 +32,50 @@
       "taken": 1648480020,
       "taken_at": "Mar 28, 2022 3:07 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3405342698097229,
+          "id": 1729360817
+        },
+        {
+          "distance": 0.35027897357940674,
+          "id": 1729356243
+        },
+        {
+          "distance": 0.3621257543563843,
+          "id": 1729360817
+        },
+        {
+          "distance": 0.3664807677268982,
+          "id": 1763559557
+        },
+        {
+          "distance": 0.371789813041687,
+          "id": 1729361989
+        },
+        {
+          "distance": 0.37958407402038574,
+          "id": 1729358625
+        },
+        {
+          "distance": 0.3796859383583069,
+          "id": 1729356243
+        },
+        {
+          "distance": 0.38023585081100464,
+          "id": 1729359553
+        },
+        {
+          "distance": 0.3819112777709961,
+          "id": 1729359385
+        },
+        {
+          "distance": 0.38337743282318115,
+          "id": 1729359433
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1763559525,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Luggage labels are miniature works of graphic art that evoke the early years of commercial aviation and travel to faraway places...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -35,6 +35,50 @@
       "taken": 1571244780,
       "taken_at": "Oct 16, 2019 4:53 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3002060055732727,
+          "id": 1729355981
+        },
+        {
+          "distance": 0.30300748348236084,
+          "id": 1763558877
+        },
+        {
+          "distance": 0.3047908544540405,
+          "id": 1729357997
+        },
+        {
+          "distance": 0.3058134913444519,
+          "id": 1729362173
+        },
+        {
+          "distance": 0.3095698356628418,
+          "id": 1729359869
+        },
+        {
+          "distance": 0.3223666548728943,
+          "id": 1729362173
+        },
+        {
+          "distance": 0.32475173473358154,
+          "id": 1729355721
+        },
+        {
+          "distance": 0.32732683420181274,
+          "id": 1729355713
+        },
+        {
+          "distance": 0.3332648277282715,
+          "id": 1729359881
+        },
+        {
+          "distance": 0.3394685387611389,
+          "id": 1729357997
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729355995,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777627,
     "wof:name": "Jacques-Gérard Milbert’s (1776–1840) published lithographs provided the inspiration for the five scenes in Views of North America...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

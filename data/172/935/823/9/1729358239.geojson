@@ -32,6 +32,50 @@
       "taken": 1526205720,
       "taken_at": "May 13, 2018, 10:02 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18647915124893188,
+          "id": 1729361261
+        },
+        {
+          "distance": 0.19706803560256958,
+          "id": 1729356859
+        },
+        {
+          "distance": 0.20859825611114502,
+          "id": 1729362257
+        },
+        {
+          "distance": 0.2211398482322693,
+          "id": 1729359805
+        },
+        {
+          "distance": 0.22402262687683105,
+          "id": 1729358457
+        },
+        {
+          "distance": 0.22762680053710938,
+          "id": 1729356859
+        },
+        {
+          "distance": 0.23027104139328003,
+          "id": 1729359933
+        },
+        {
+          "distance": 0.23457640409469604,
+          "id": 1729357547
+        },
+        {
+          "distance": 0.23478704690933228,
+          "id": 1729359555
+        },
+        {
+          "distance": 0.2350422739982605,
+          "id": 1729359145
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729358239,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777633,
     "wof:name": "The word “home” evokes a variety of images and emotions for different people...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

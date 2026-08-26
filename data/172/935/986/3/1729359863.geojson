@@ -25,6 +25,50 @@
       "taken": 1485856800,
       "taken_at": "Jan 31, 2017 10:00 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13069027662277222,
+          "id": 1947425043
+        },
+        {
+          "distance": 0.1666315793991089,
+          "id": 1947425043
+        },
+        {
+          "distance": 0.29485660791397095,
+          "id": 1729360499
+        },
+        {
+          "distance": 0.3041262626647949,
+          "id": 1729359065
+        },
+        {
+          "distance": 0.30752331018447876,
+          "id": 1763558725
+        },
+        {
+          "distance": 0.30752331018447876,
+          "id": 1729358623
+        },
+        {
+          "distance": 0.3083640933036804,
+          "id": 1729358477
+        },
+        {
+          "distance": 0.3109946846961975,
+          "id": 1763559155
+        },
+        {
+          "distance": 0.3112573027610779,
+          "id": 1729359599
+        },
+        {
+          "distance": 0.3191944360733032,
+          "id": 1729359619
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359863,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "Air Canada, the flag carrier of Canada, started as Trans-Canada Air Lines (TCA) in 1937...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -34,6 +34,50 @@
       "taken": 1488538500,
       "taken_at": "Mar 03, 2017 10:55 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.03154247999191284,
+          "id": 1729360303
+        },
+        {
+          "distance": 0.08299434185028076,
+          "id": 1729360303
+        },
+        {
+          "distance": 0.19084316492080688,
+          "id": 1729355075
+        },
+        {
+          "distance": 0.1991581916809082,
+          "id": 1729355079
+        },
+        {
+          "distance": 0.21289527416229248,
+          "id": 1729355079
+        },
+        {
+          "distance": 0.22509878873825073,
+          "id": 1729355075
+        },
+        {
+          "distance": 0.24452900886535645,
+          "id": 1729355047
+        },
+        {
+          "distance": 0.2717093229293823,
+          "id": 1729355047
+        },
+        {
+          "distance": 0.27353358268737793,
+          "id": 1729358769
+        },
+        {
+          "distance": 0.2921088933944702,
+          "id": 1729361481
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729359763,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "Eames plywood chairs exhibit a functional and sculptural, harmoniously simple design that flexes to fit the sitter through pivoting rubber shock-mount connections...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

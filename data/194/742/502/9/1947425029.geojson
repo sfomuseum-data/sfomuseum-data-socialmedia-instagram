@@ -29,6 +29,50 @@
       "taken": 1715354580,
       "taken_at": "May 10, 2024 3:23 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0019041895866394043,
+          "id": 1880151753
+        },
+        {
+          "distance": 0.10381066799163818,
+          "id": 1880151753
+        },
+        {
+          "distance": 0.24230951070785522,
+          "id": 1947425295
+        },
+        {
+          "distance": 0.2610310912132263,
+          "id": 1947424913
+        },
+        {
+          "distance": 0.26811671257019043,
+          "id": 1763559579
+        },
+        {
+          "distance": 0.27245843410491943,
+          "id": 1729355633
+        },
+        {
+          "distance": 0.29238563776016235,
+          "id": 1947425295
+        },
+        {
+          "distance": 0.2925572395324707,
+          "id": 1947424913
+        },
+        {
+          "distance": 0.299080491065979,
+          "id": 1880150879
+        },
+        {
+          "distance": 0.29931992292404175,
+          "id": 1729355635
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1947425029,
-    "wof:lastmodified": 1733175324,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Composed of over 3,500 individual kite-like ellipses, “This Infinite Gateway of Time and Circumstance” by Jacob Hashimoto is an immersive sculpture that floats between two floors of the Grand Hyatt at SFO as an undulating, interwoven canopy...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

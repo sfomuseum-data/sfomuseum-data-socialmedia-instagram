@@ -32,6 +32,50 @@
       "taken": 1482228960,
       "taken_at": "Dec 20, 2016 10:16 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0436321496963501,
+          "id": 1729357215
+        },
+        {
+          "distance": 0.10451513528823853,
+          "id": 1729357215
+        },
+        {
+          "distance": 0.1288672685623169,
+          "id": 1947424953
+        },
+        {
+          "distance": 0.16757816076278687,
+          "id": 1729358863
+        },
+        {
+          "distance": 0.17627334594726562,
+          "id": 1729358851
+        },
+        {
+          "distance": 0.18203914165496826,
+          "id": 1729357481
+        },
+        {
+          "distance": 0.18509256839752197,
+          "id": 1729355109
+        },
+        {
+          "distance": 0.18566220998764038,
+          "id": 1763558959
+        },
+        {
+          "distance": 0.18700724840164185,
+          "id": 1763559275
+        },
+        {
+          "distance": 0.18930679559707642,
+          "id": 1763559547
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729360005,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777638,
     "wof:name": "One of the greatest advances in commercial aviation was the succesful introduction of jet airliners during the late 1950s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

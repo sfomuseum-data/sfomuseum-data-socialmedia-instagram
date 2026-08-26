@@ -31,6 +31,50 @@
       "taken": 1648832400,
       "taken_at": "Apr 01, 2022 5:00 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3056408762931824,
+          "id": 1763559093
+        },
+        {
+          "distance": 0.3263079524040222,
+          "id": 1763559247
+        },
+        {
+          "distance": 0.33192962408065796,
+          "id": 1763559093
+        },
+        {
+          "distance": 0.3357621431350708,
+          "id": 1763559257
+        },
+        {
+          "distance": 0.34190917015075684,
+          "id": 1729361165
+        },
+        {
+          "distance": 0.34350162744522095,
+          "id": 1729356037
+        },
+        {
+          "distance": 0.343611478805542,
+          "id": 1729357041
+        },
+        {
+          "distance": 0.34384387731552124,
+          "id": 1763559257
+        },
+        {
+          "distance": 0.3449562191963196,
+          "id": 1729357041
+        },
+        {
+          "distance": 0.3451741337776184,
+          "id": 1729358383
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559509,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Igor Sikorsky was born in Kyiv, in modern day Ukraine in 1889...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

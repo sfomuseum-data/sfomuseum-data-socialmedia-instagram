@@ -42,6 +42,50 @@
       "taken": 1518808500,
       "taken_at": "Feb 16, 2018 7:15 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3592120409011841,
+          "id": 1729358255
+        },
+        {
+          "distance": 0.3670569062232971,
+          "id": 1729355957
+        },
+        {
+          "distance": 0.3696480989456177,
+          "id": 1729358263
+        },
+        {
+          "distance": 0.3804893493652344,
+          "id": 1729360895
+        },
+        {
+          "distance": 0.3893839716911316,
+          "id": 1729358257
+        },
+        {
+          "distance": 0.39673948287963867,
+          "id": 1729356167
+        },
+        {
+          "distance": 0.3969545364379883,
+          "id": 1729358605
+        },
+        {
+          "distance": 0.3971729278564453,
+          "id": 1729356887
+        },
+        {
+          "distance": 0.39874589443206787,
+          "id": 1729357793
+        },
+        {
+          "distance": 0.39880484342575073,
+          "id": 1729358263
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -71,7 +115,7 @@
       }
     ],
     "wof:id": 1729358561,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "American carved stone books first appeared around 1860...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -88,5 +132,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

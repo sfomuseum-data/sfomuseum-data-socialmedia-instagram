@@ -44,6 +44,50 @@
       "taken": 1548595980,
       "taken_at": "Jan 27, 2019 1:33 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.22289711236953735,
+          "id": 1729356985
+        },
+        {
+          "distance": 0.23685353994369507,
+          "id": 1729356985
+        },
+        {
+          "distance": 0.27898621559143066,
+          "id": 1729356871
+        },
+        {
+          "distance": 0.295213520526886,
+          "id": 1729361573
+        },
+        {
+          "distance": 0.2980368137359619,
+          "id": 1729356259
+        },
+        {
+          "distance": 0.30112314224243164,
+          "id": 1729357751
+        },
+        {
+          "distance": 0.3027406930923462,
+          "id": 1729357001
+        },
+        {
+          "distance": 0.30780285596847534,
+          "id": 1729360597
+        },
+        {
+          "distance": 0.3086715340614319,
+          "id": 1763559539
+        },
+        {
+          "distance": 0.3104116916656494,
+          "id": 1729360919
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -73,7 +117,7 @@
       }
     ],
     "wof:id": 1729357037,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777629,
     "wof:name": "In his series, \"This World and Others Like It\", artist Drew Nikonowicz draws upon the language of nineteenth-century survey images to investigate the role of the explorer in present times...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -90,5 +134,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

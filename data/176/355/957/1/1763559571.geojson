@@ -30,6 +30,50 @@
       "taken": 1646413740,
       "taken_at": "Mar 04, 2022 5:09 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10435372591018677,
+          "id": 1880151415
+        },
+        {
+          "distance": 0.11977255344390869,
+          "id": 1947425001
+        },
+        {
+          "distance": 0.13780689239501953,
+          "id": 1947425001
+        },
+        {
+          "distance": 0.14398479461669922,
+          "id": 1880151415
+        },
+        {
+          "distance": 0.14496243000030518,
+          "id": 1763558935
+        },
+        {
+          "distance": 0.15824759006500244,
+          "id": 1763558935
+        },
+        {
+          "distance": 0.1598343849182129,
+          "id": 1763559417
+        },
+        {
+          "distance": 0.1689472794532776,
+          "id": 1763559417
+        },
+        {
+          "distance": 0.19147777557373047,
+          "id": 1947425251
+        },
+        {
+          "distance": 0.2154417634010315,
+          "id": 1729355237
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559571,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "As an openly gay politician and civil rights leader, Harvey Milk regularly received death threats...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

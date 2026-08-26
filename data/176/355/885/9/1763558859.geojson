@@ -31,6 +31,50 @@
       "taken": 1611939900,
       "taken_at": "Jan 29, 2021 5:05 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17501848936080933,
+          "id": 1763559111
+        },
+        {
+          "distance": 0.17619574069976807,
+          "id": 1763558891
+        },
+        {
+          "distance": 0.18241798877716064,
+          "id": 1763559145
+        },
+        {
+          "distance": 0.1838892102241516,
+          "id": 1763558891
+        },
+        {
+          "distance": 0.18418735265731812,
+          "id": 1763559111
+        },
+        {
+          "distance": 0.1993812918663025,
+          "id": 1729357431
+        },
+        {
+          "distance": 0.2029469609260559,
+          "id": 1729357431
+        },
+        {
+          "distance": 0.20597189664840698,
+          "id": 1729356835
+        },
+        {
+          "distance": 0.20640510320663452,
+          "id": 1763559187
+        },
+        {
+          "distance": 0.2086087465286255,
+          "id": 1729357405
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763558859,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777659,
     "wof:name": "While the British Invasion rocked the United States in the mid 1960s, “Ventures-mania” swept through Japan, where The Ventures outsold The Beatles in record sales by approximately two-to-one...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

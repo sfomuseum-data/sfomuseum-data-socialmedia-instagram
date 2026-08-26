@@ -35,6 +35,50 @@
       "taken": 1571675640,
       "taken_at": "Oct 21, 2019, 4:34 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20854347944259644,
+          "id": 1729355963
+        },
+        {
+          "distance": 0.2240009903907776,
+          "id": 1763559151
+        },
+        {
+          "distance": 0.24746906757354736,
+          "id": 1763559151
+        },
+        {
+          "distance": 0.25201600790023804,
+          "id": 1729355963
+        },
+        {
+          "distance": 0.2716919183731079,
+          "id": 1763558945
+        },
+        {
+          "distance": 0.27799445390701294,
+          "id": 1763558945
+        },
+        {
+          "distance": 0.29977160692214966,
+          "id": 1763558967
+        },
+        {
+          "distance": 0.3275754451751709,
+          "id": 1763558967
+        },
+        {
+          "distance": 0.39860260486602783,
+          "id": 1880151371
+        },
+        {
+          "distance": 0.40143054723739624,
+          "id": 1763559471
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729355961,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777627,
     "wof:name": "Something not often considered by museum-goers is how long it can take to develop an exhibition...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

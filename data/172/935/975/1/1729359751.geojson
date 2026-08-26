@@ -39,6 +39,50 @@
       "taken": 1488632100,
       "taken_at": "Mar 04, 2017 12:55 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12942540645599365,
+          "id": 1729356881
+        },
+        {
+          "distance": 0.16891640424728394,
+          "id": 1729356881
+        },
+        {
+          "distance": 0.21408402919769287,
+          "id": 1729357023
+        },
+        {
+          "distance": 0.3004283308982849,
+          "id": 1729358367
+        },
+        {
+          "distance": 0.31489282846450806,
+          "id": 1729356789
+        },
+        {
+          "distance": 0.3222060799598694,
+          "id": 1729360159
+        },
+        {
+          "distance": 0.33443933725357056,
+          "id": 1729356483
+        },
+        {
+          "distance": 0.33923429250717163,
+          "id": 1729358367
+        },
+        {
+          "distance": 0.34072959423065186,
+          "id": 1880151595
+        },
+        {
+          "distance": 0.3413386344909668,
+          "id": 1729360159
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729359751,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "“I surfed first and then shot photos...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

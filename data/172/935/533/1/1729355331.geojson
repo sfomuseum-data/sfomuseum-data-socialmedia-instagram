@@ -31,6 +31,50 @@
       "taken": 1587582120,
       "taken_at": "Apr 22, 2020, 7:02 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06895291805267334,
+          "id": 1880150959
+        },
+        {
+          "distance": 0.09130859375,
+          "id": 1729355341
+        },
+        {
+          "distance": 0.1725587248802185,
+          "id": 1880150959
+        },
+        {
+          "distance": 0.18126356601715088,
+          "id": 1729355341
+        },
+        {
+          "distance": 0.18526822328567505,
+          "id": 1880151607
+        },
+        {
+          "distance": 0.19023483991622925,
+          "id": 1880151607
+        },
+        {
+          "distance": 0.20798534154891968,
+          "id": 1729357871
+        },
+        {
+          "distance": 0.22817504405975342,
+          "id": 1729359429
+        },
+        {
+          "distance": 0.2360759973526001,
+          "id": 1729355493
+        },
+        {
+          "distance": 0.24650436639785767,
+          "id": 1763559039
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729355331,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777623,
     "wof:name": "Happy #EarthDay!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1444425780,
       "taken_at": "Oct 09, 2015 9:23 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11792010068893433,
+          "id": 1729356177
+        },
+        {
+          "distance": 0.15016865730285645,
+          "id": 1729356177
+        },
+        {
+          "distance": 0.163108229637146,
+          "id": 1729360541
+        },
+        {
+          "distance": 0.1669207215309143,
+          "id": 1729355743
+        },
+        {
+          "distance": 0.17039531469345093,
+          "id": 1729357115
+        },
+        {
+          "distance": 0.17723536491394043,
+          "id": 1729361251
+        },
+        {
+          "distance": 0.18305528163909912,
+          "id": 1729360263
+        },
+        {
+          "distance": 0.18349236249923706,
+          "id": 1729358763
+        },
+        {
+          "distance": 0.18411028385162354,
+          "id": 1729355109
+        },
+        {
+          "distance": 0.18596607446670532,
+          "id": 1729359205
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361465,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "As its name implies, United Airlines originated from a merger of several early air transport companies that began operating more than 75 years ago...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

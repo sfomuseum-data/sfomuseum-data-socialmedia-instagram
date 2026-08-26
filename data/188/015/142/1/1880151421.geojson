@@ -30,6 +30,50 @@
       "taken": 1664878920,
       "taken_at": "Oct 04, 2022 10:22 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2346668839454651,
+          "id": 1729355935
+        },
+        {
+          "distance": 0.2505788803100586,
+          "id": 1880151477
+        },
+        {
+          "distance": 0.26009756326675415,
+          "id": 1880151477
+        },
+        {
+          "distance": 0.27041906118392944,
+          "id": 1729357483
+        },
+        {
+          "distance": 0.27041906118392944,
+          "id": 1763558787
+        },
+        {
+          "distance": 0.29088109731674194,
+          "id": 1729357393
+        },
+        {
+          "distance": 0.29443031549453735,
+          "id": 1729357483
+        },
+        {
+          "distance": 0.29443031549453735,
+          "id": 1763558787
+        },
+        {
+          "distance": 0.2958288788795471,
+          "id": 1729362063
+        },
+        {
+          "distance": 0.29905420541763306,
+          "id": 1729357025
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151421,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Marvin Lipofsky, a founding member of the American studio glass movement, explored the limits of form and color in glass and helped to elevate the medium to a fine art...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

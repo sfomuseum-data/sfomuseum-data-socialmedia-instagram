@@ -33,6 +33,50 @@
       "taken": 1569864360,
       "taken_at": "Sep 30, 2019 5:26 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15446311235427856,
+          "id": 1729356307
+        },
+        {
+          "distance": 0.17090964317321777,
+          "id": 1729355929
+        },
+        {
+          "distance": 0.1788332462310791,
+          "id": 1729356063
+        },
+        {
+          "distance": 0.1947891116142273,
+          "id": 1729356307
+        },
+        {
+          "distance": 0.20081722736358643,
+          "id": 1729356211
+        },
+        {
+          "distance": 0.22289985418319702,
+          "id": 1729356181
+        },
+        {
+          "distance": 0.2240651249885559,
+          "id": 1729355857
+        },
+        {
+          "distance": 0.22691822052001953,
+          "id": 1729356211
+        },
+        {
+          "distance": 0.2317063808441162,
+          "id": 1729356267
+        },
+        {
+          "distance": 0.2333660125732422,
+          "id": 1729355929
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729356045,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777628,
     "wof:name": "People have moved many species around the world to help control pest insects...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

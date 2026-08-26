@@ -29,6 +29,50 @@
       "taken": 1610733360,
       "taken_at": "Jan 15, 2021 5:56 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2579183578491211,
+          "id": 1729360425
+        },
+        {
+          "distance": 0.2618306279182434,
+          "id": 1729360427
+        },
+        {
+          "distance": 0.28263920545578003,
+          "id": 1729361447
+        },
+        {
+          "distance": 0.29141753911972046,
+          "id": 1729360397
+        },
+        {
+          "distance": 0.29426348209381104,
+          "id": 1729359411
+        },
+        {
+          "distance": 0.29920196533203125,
+          "id": 1880150923
+        },
+        {
+          "distance": 0.3162270188331604,
+          "id": 1880150923
+        },
+        {
+          "distance": 0.31784719228744507,
+          "id": 1729357105
+        },
+        {
+          "distance": 0.3183410167694092,
+          "id": 1947424967
+        },
+        {
+          "distance": 0.31874072551727295,
+          "id": 1729359659
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1763558899,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777659,
     "wof:name": "In 1947 Pan American World Airways added Sleeperette passenger seats to its Douglas DC-4 airliners...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

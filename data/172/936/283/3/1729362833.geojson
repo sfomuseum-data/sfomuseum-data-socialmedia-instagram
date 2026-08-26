@@ -25,6 +25,50 @@
       "taken": 1355933880,
       "taken_at": "Dec 19, 2012 4:18 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24273991584777832,
+          "id": 1729362899
+        },
+        {
+          "distance": 0.2693578600883484,
+          "id": 1729362795
+        },
+        {
+          "distance": 0.2807753086090088,
+          "id": 1729362899
+        },
+        {
+          "distance": 0.2845659852027893,
+          "id": 1729362793
+        },
+        {
+          "distance": 0.2909064292907715,
+          "id": 1729362761
+        },
+        {
+          "distance": 0.2924593687057495,
+          "id": 1729362795
+        },
+        {
+          "distance": 0.2925909161567688,
+          "id": 1729362919
+        },
+        {
+          "distance": 0.29466789960861206,
+          "id": 1729362709
+        },
+        {
+          "distance": 0.2998085618019104,
+          "id": 1729361495
+        },
+        {
+          "distance": 0.31646788120269775,
+          "id": 1729362761
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362833,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777649,
     "wof:name": "Oakland's William Wong moved to China in the 1930s to help jumpstart Chinese aviation...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1472838060,
       "taken_at": "Sep 02, 2016 5:41 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3328658938407898,
+          "id": 1729360039
+        },
+        {
+          "distance": 0.3487180471420288,
+          "id": 1729359543
+        },
+        {
+          "distance": 0.3721845746040344,
+          "id": 1729360039
+        },
+        {
+          "distance": 0.3897995948791504,
+          "id": 1729360027
+        },
+        {
+          "distance": 0.3952041268348694,
+          "id": 1729360439
+        },
+        {
+          "distance": 0.39873450994491577,
+          "id": 1729355695
+        },
+        {
+          "distance": 0.3991837501525879,
+          "id": 1763559561
+        },
+        {
+          "distance": 0.4037134051322937,
+          "id": 1729361509
+        },
+        {
+          "distance": 0.4066924452781677,
+          "id": 1729359543
+        },
+        {
+          "distance": 0.4110385775566101,
+          "id": 1763559561
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360373,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "French designer André #Courrèges (1923–2016) joined the House of #Balenciaga in 1949, and later opened his own house in 1961...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

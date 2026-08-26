@@ -25,6 +25,50 @@
       "taken": 1453368420,
       "taken_at": "Jan 21, 2016 9:27 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2837696671485901,
+          "id": 1729355777
+        },
+        {
+          "distance": 0.28793877363204956,
+          "id": 1880151519
+        },
+        {
+          "distance": 0.2905447483062744,
+          "id": 1947425047
+        },
+        {
+          "distance": 0.2911161184310913,
+          "id": 1880151585
+        },
+        {
+          "distance": 0.29442256689071655,
+          "id": 1729358707
+        },
+        {
+          "distance": 0.3002226948738098,
+          "id": 1729355777
+        },
+        {
+          "distance": 0.3042682409286499,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.3056183457374573,
+          "id": 1947425047
+        },
+        {
+          "distance": 0.3114359974861145,
+          "id": 1763559119
+        },
+        {
+          "distance": 0.31188660860061646,
+          "id": 1763558645
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361135,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "These are your last few weeks to catch “Mingei: Traditional Japanese Arts”...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

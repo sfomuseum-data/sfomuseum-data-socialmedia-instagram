@@ -35,6 +35,50 @@
       "taken": 1562167740,
       "taken_at": "Jul 3, 2019, 3:29 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.000024199485778808594,
+          "id": 1729355849
+        },
+        {
+          "distance": 0.00380706787109375,
+          "id": 1763558817
+        },
+        {
+          "distance": 0.12314087152481079,
+          "id": 1729355849
+        },
+        {
+          "distance": 0.12320446968078613,
+          "id": 1763558817
+        },
+        {
+          "distance": 0.19205749034881592,
+          "id": 1729356125
+        },
+        {
+          "distance": 0.20336496829986572,
+          "id": 1729356361
+        },
+        {
+          "distance": 0.20999640226364136,
+          "id": 1729355853
+        },
+        {
+          "distance": 0.21948957443237305,
+          "id": 1729356125
+        },
+        {
+          "distance": 0.23640519380569458,
+          "id": 1729356419
+        },
+        {
+          "distance": 0.23730194568634033,
+          "id": 1729355975
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729356359,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "This Renaissance Revival pedestal exhibits both veneering and marquetry...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

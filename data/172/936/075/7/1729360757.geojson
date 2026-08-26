@@ -25,6 +25,50 @@
       "taken": 1462097940,
       "taken_at": "May 01, 2016 10:19 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0028203725814819336,
+          "id": 1729361427
+        },
+        {
+          "distance": 0.12780725955963135,
+          "id": 1729361427
+        },
+        {
+          "distance": 0.18344610929489136,
+          "id": 1729360603
+        },
+        {
+          "distance": 0.1928642988204956,
+          "id": 1729360603
+        },
+        {
+          "distance": 0.3318766951560974,
+          "id": 1729357791
+        },
+        {
+          "distance": 0.3536432385444641,
+          "id": 1729360897
+        },
+        {
+          "distance": 0.36921167373657227,
+          "id": 1729361991
+        },
+        {
+          "distance": 0.37038618326187134,
+          "id": 1763558713
+        },
+        {
+          "distance": 0.37038618326187134,
+          "id": 1729358999
+        },
+        {
+          "distance": 0.37542903423309326,
+          "id": 1729361959
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360757,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Did you know that SFO Museum has a gallery featuring highlights from our collection of over 8,000 books?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

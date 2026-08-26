@@ -31,6 +31,50 @@
       "taken": 1606841040,
       "taken_at": "Dec 01, 2020 4:44 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10941857099533081,
+          "id": 1729358895
+        },
+        {
+          "distance": 0.12009429931640625,
+          "id": 1729355873
+        },
+        {
+          "distance": 0.13772493600845337,
+          "id": 1880151413
+        },
+        {
+          "distance": 0.14612001180648804,
+          "id": 1729358651
+        },
+        {
+          "distance": 0.14717739820480347,
+          "id": 1729358895
+        },
+        {
+          "distance": 0.14744770526885986,
+          "id": 1729355873
+        },
+        {
+          "distance": 0.1576942801475525,
+          "id": 1729360067
+        },
+        {
+          "distance": 0.1584818959236145,
+          "id": 1729357255
+        },
+        {
+          "distance": 0.1642160415649414,
+          "id": 1729358437
+        },
+        {
+          "distance": 0.16442924737930298,
+          "id": 1729357489
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763558979,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Trans World Airlines’ (TWA) ceremonial last flight took place #onthisday in 2001...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

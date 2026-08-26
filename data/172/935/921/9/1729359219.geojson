@@ -37,6 +37,50 @@
       "taken": 1502017020,
       "taken_at": "Aug 06, 2017 10:57 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.28158026933670044,
+          "id": 1729356225
+        },
+        {
+          "distance": 0.28916460275650024,
+          "id": 1729356225
+        },
+        {
+          "distance": 0.3055533766746521,
+          "id": 1880151091
+        },
+        {
+          "distance": 0.3070186376571655,
+          "id": 1729360993
+        },
+        {
+          "distance": 0.3243480324745178,
+          "id": 1729356041
+        },
+        {
+          "distance": 0.3277769088745117,
+          "id": 1729357895
+        },
+        {
+          "distance": 0.3282622694969177,
+          "id": 1880151091
+        },
+        {
+          "distance": 0.329132080078125,
+          "id": 1763559493
+        },
+        {
+          "distance": 0.3314536213874817,
+          "id": 1729356041
+        },
+        {
+          "distance": 0.333404541015625,
+          "id": 1729360993
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729359219,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "This assemblage by Mildred Howard is created from 130 real saxophones...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

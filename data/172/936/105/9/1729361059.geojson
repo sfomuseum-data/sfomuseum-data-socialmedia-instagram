@@ -25,6 +25,50 @@
       "taken": 1455361380,
       "taken_at": "Feb 13, 2016 11:03 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17697399854660034,
+          "id": 1729358965
+        },
+        {
+          "distance": 0.17751795053482056,
+          "id": 1729360759
+        },
+        {
+          "distance": 0.18784427642822266,
+          "id": 1729359415
+        },
+        {
+          "distance": 0.19821053743362427,
+          "id": 1729358965
+        },
+        {
+          "distance": 0.20311951637268066,
+          "id": 1729355737
+        },
+        {
+          "distance": 0.22032225131988525,
+          "id": 1729360759
+        },
+        {
+          "distance": 0.2272040843963623,
+          "id": 1729359415
+        },
+        {
+          "distance": 0.23714596033096313,
+          "id": 1729357809
+        },
+        {
+          "distance": 0.23828226327896118,
+          "id": 1729362319
+        },
+        {
+          "distance": 0.24040889739990234,
+          "id": 1729356937
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361059,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777643,
     "wof:name": "Our online database features a selection from our huge collection of airline bags...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

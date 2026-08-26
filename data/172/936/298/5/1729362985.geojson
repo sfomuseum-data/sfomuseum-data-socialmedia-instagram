@@ -25,6 +25,50 @@
       "taken": 1339509900,
       "taken_at": "Jun 12, 2012 2:05 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2591029405593872,
+          "id": 1729362623
+        },
+        {
+          "distance": 0.2798171639442444,
+          "id": 1729362999
+        },
+        {
+          "distance": 0.28366178274154663,
+          "id": 1729362623
+        },
+        {
+          "distance": 0.2975045442581177,
+          "id": 1729362999
+        },
+        {
+          "distance": 0.31581586599349976,
+          "id": 1729363015
+        },
+        {
+          "distance": 0.3211854100227356,
+          "id": 1729362983
+        },
+        {
+          "distance": 0.3216552734375,
+          "id": 1729363001
+        },
+        {
+          "distance": 0.3295929431915283,
+          "id": 1729362387
+        },
+        {
+          "distance": 0.32963114976882935,
+          "id": 1729362747
+        },
+        {
+          "distance": 0.3362877368927002,
+          "id": 1729362877
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362985,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777657,
     "wof:name": "1880s English sewing kit, perfectly suited for display when not in use..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

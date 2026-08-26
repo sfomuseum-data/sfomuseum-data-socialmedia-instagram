@@ -30,6 +30,50 @@
       "taken": 1568633760,
       "taken_at": "Sep 16, 2019 11:36 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.007873177528381348,
+          "id": 1729360319
+        },
+        {
+          "distance": 0.010217666625976562,
+          "id": 1880151445
+        },
+        {
+          "distance": 0.08402878046035767,
+          "id": 1729360319
+        },
+        {
+          "distance": 0.0940055251121521,
+          "id": 1729357841
+        },
+        {
+          "distance": 0.09465402364730835,
+          "id": 1880151387
+        },
+        {
+          "distance": 0.09922856092453003,
+          "id": 1880151445
+        },
+        {
+          "distance": 0.12197822332382202,
+          "id": 1880151387
+        },
+        {
+          "distance": 0.12607252597808838,
+          "id": 1880151189
+        },
+        {
+          "distance": 0.12958955764770508,
+          "id": 1763558839
+        },
+        {
+          "distance": 0.13173478841781616,
+          "id": 1729355657
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729356091,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777628,
     "wof:name": "#OnThisDay in 1927, Charles Lindbergh landed his Ryan NYP \"Spirit of St. Louis\" at Mills Field...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

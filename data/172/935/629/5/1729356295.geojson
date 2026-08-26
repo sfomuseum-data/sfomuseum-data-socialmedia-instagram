@@ -37,6 +37,50 @@
       "taken": 1563811920,
       "taken_at": "Jul 22, 2019, 4:12 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07751590013504028,
+          "id": 1729356287
+        },
+        {
+          "distance": 0.14381295442581177,
+          "id": 1729356209
+        },
+        {
+          "distance": 0.1468523144721985,
+          "id": 1729356297
+        },
+        {
+          "distance": 0.15375810861587524,
+          "id": 1729356287
+        },
+        {
+          "distance": 0.16096073389053345,
+          "id": 1729356679
+        },
+        {
+          "distance": 0.16604846715927124,
+          "id": 1729356197
+        },
+        {
+          "distance": 0.1695939302444458,
+          "id": 1729356679
+        },
+        {
+          "distance": 0.17077702283859253,
+          "id": 1729356213
+        },
+        {
+          "distance": 0.17648577690124512,
+          "id": 1729356459
+        },
+        {
+          "distance": 0.1821458339691162,
+          "id": 1729356371
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729356295,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "When you say “bug” to entomologists, they assume you mean a true bug—an insect in the order Hemiptera...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

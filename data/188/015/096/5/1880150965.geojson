@@ -27,6 +27,50 @@
       "taken": 1683649320,
       "taken_at": "May 09, 2023 4:22 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1783071756362915,
+          "id": 1729361431
+        },
+        {
+          "distance": 0.1857573390007019,
+          "id": 1880151061
+        },
+        {
+          "distance": 0.19207531213760376,
+          "id": 1880151047
+        },
+        {
+          "distance": 0.1921563744544983,
+          "id": 1729360547
+        },
+        {
+          "distance": 0.19557124376296997,
+          "id": 1947425209
+        },
+        {
+          "distance": 0.19559192657470703,
+          "id": 1947425237
+        },
+        {
+          "distance": 0.20128458738327026,
+          "id": 1947425201
+        },
+        {
+          "distance": 0.20228487253189087,
+          "id": 1947425141
+        },
+        {
+          "distance": 0.20293164253234863,
+          "id": 1763559049
+        },
+        {
+          "distance": 0.20316636562347412,
+          "id": 1729360681
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1880150965,
-    "wof:lastmodified": 1733175333,
+    "wof:lastmodified": 1787777661,
     "wof:name": "Flying on the Concorde at twice the speed of sound was an aviation experience like no other, even for flight crews who often found it nearly as exciting as the passengers...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -73,5 +117,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

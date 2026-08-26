@@ -46,6 +46,50 @@
       "taken": 1509285540,
       "taken_at": "Oct 29, 2017 1:59 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2673324942588806,
+          "id": 1729356055
+        },
+        {
+          "distance": 0.2757904529571533,
+          "id": 1729356055
+        },
+        {
+          "distance": 0.3134211301803589,
+          "id": 1729357663
+        },
+        {
+          "distance": 0.3142234683036804,
+          "id": 1729355493
+        },
+        {
+          "distance": 0.31932884454727173,
+          "id": 1763559393
+        },
+        {
+          "distance": 0.32843494415283203,
+          "id": 1729356189
+        },
+        {
+          "distance": 0.32936960458755493,
+          "id": 1729357665
+        },
+        {
+          "distance": 0.32936960458755493,
+          "id": 1763558769
+        },
+        {
+          "distance": 0.32960349321365356,
+          "id": 1729360563
+        },
+        {
+          "distance": 0.33652710914611816,
+          "id": 1729357657
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -75,7 +119,7 @@
       }
     ],
     "wof:id": 1729358949,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Part of the Stuart L. Udall Foundation, the Parks in Focus program connects middle school youth from underserved communities to nature and National Parks through photography, environmental education, and outdoor learning...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -92,5 +136,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

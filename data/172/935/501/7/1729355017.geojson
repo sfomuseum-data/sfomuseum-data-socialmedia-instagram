@@ -31,6 +31,50 @@
       "taken": 1601905680,
       "taken_at": "Oct 5, 2020, 1:48 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2228507399559021,
+          "id": 1729359431
+        },
+        {
+          "distance": 0.2269391417503357,
+          "id": 1729356113
+        },
+        {
+          "distance": 0.2434777021408081,
+          "id": 1729360529
+        },
+        {
+          "distance": 0.2439744472503662,
+          "id": 1729355041
+        },
+        {
+          "distance": 0.2458520531654358,
+          "id": 1729357579
+        },
+        {
+          "distance": 0.2458520531654358,
+          "id": 1763558765
+        },
+        {
+          "distance": 0.25356191396713257,
+          "id": 1729360689
+        },
+        {
+          "distance": 0.26139742136001587,
+          "id": 1729355041
+        },
+        {
+          "distance": 0.2636961340904236,
+          "id": 1729361633
+        },
+        {
+          "distance": 0.2658964991569519,
+          "id": 1729356113
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729355017,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777614,
     "wof:name": "Construction of a new terminal (now Terminal 2) at San Francisco International Airport began #onthsiday in 1951...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

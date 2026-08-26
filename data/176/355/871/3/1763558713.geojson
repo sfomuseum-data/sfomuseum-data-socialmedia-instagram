@@ -35,6 +35,50 @@
       "taken": 1508234880,
       "taken_at": "Oct 17, 2017 10:08 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.000023365020751953125,
+          "id": 1729358999
+        },
+        {
+          "distance": 0.06945151090621948,
+          "id": 1729358999
+        },
+        {
+          "distance": 0.2609410285949707,
+          "id": 1763558759
+        },
+        {
+          "distance": 0.2629064917564392,
+          "id": 1729358151
+        },
+        {
+          "distance": 0.2878853678703308,
+          "id": 1763558781
+        },
+        {
+          "distance": 0.2878853678703308,
+          "id": 1729357259
+        },
+        {
+          "distance": 0.29280078411102295,
+          "id": 1880151175
+        },
+        {
+          "distance": 0.29558050632476807,
+          "id": 1729357259
+        },
+        {
+          "distance": 0.29558050632476807,
+          "id": 1763558781
+        },
+        {
+          "distance": 0.3145327568054199,
+          "id": 1729357851
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1763558713,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777659,
     "wof:name": "Join us next Saturday, October 28, 2017, for the “Documenting Historical Aircraft in Models and Photographs” Lecture Series and Gallery Tour...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

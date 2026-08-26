@@ -35,6 +35,50 @@
       "taken": 1552226400,
       "taken_at": "Mar 10, 2019, 2:00 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14473551511764526,
+          "id": 1729358267
+        },
+        {
+          "distance": 0.14504122734069824,
+          "id": 1763558731
+        },
+        {
+          "distance": 0.14848947525024414,
+          "id": 1729355277
+        },
+        {
+          "distance": 0.15693336725234985,
+          "id": 1729360729
+        },
+        {
+          "distance": 0.1917056441307068,
+          "id": 1729360955
+        },
+        {
+          "distance": 0.19366782903671265,
+          "id": 1880151797
+        },
+        {
+          "distance": 0.1976502537727356,
+          "id": 1729358329
+        },
+        {
+          "distance": 0.20126783847808838,
+          "id": 1729360729
+        },
+        {
+          "distance": 0.20139360427856445,
+          "id": 1729358267
+        },
+        {
+          "distance": 0.2055506706237793,
+          "id": 1729361805
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729356843,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "#Onthisday in 1929, Charles Lindbergh piloted a Ford 5-AT Tri-Motor, named \"Mexico\" and painted with C.M.A. and Pan American Airways markings, on the first southbound airmail service from Brownsville Municipal Airport in Brownsville, Texas, to Mexico City, via Tampico...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

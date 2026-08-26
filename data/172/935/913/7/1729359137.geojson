@@ -48,6 +48,50 @@
       "taken": 1504375740,
       "taken_at": "Sep 02, 2017 6:09 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15177452564239502,
+          "id": 1729357503
+        },
+        {
+          "distance": 0.153999924659729,
+          "id": 1763559419
+        },
+        {
+          "distance": 0.15668272972106934,
+          "id": 1729355495
+        },
+        {
+          "distance": 0.1594010591506958,
+          "id": 1729358971
+        },
+        {
+          "distance": 0.16089093685150146,
+          "id": 1729361435
+        },
+        {
+          "distance": 0.16372758150100708,
+          "id": 1729356065
+        },
+        {
+          "distance": 0.17380332946777344,
+          "id": 1729360209
+        },
+        {
+          "distance": 0.1853618025779724,
+          "id": 1729356529
+        },
+        {
+          "distance": 0.18922185897827148,
+          "id": 1763559419
+        },
+        {
+          "distance": 0.18939965963363647,
+          "id": 1729355687
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -77,7 +121,7 @@
       }
     ],
     "wof:id": 1729359137,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Aircraft prototypes must undergo a wide range of tests during the pre-production process...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -94,5 +138,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

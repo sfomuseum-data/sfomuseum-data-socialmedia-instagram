@@ -30,6 +30,50 @@
       "taken": 1647950760,
       "taken_at": "Mar 22, 2022 12:06 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2163480520248413,
+          "id": 1729361539
+        },
+        {
+          "distance": 0.22052645683288574,
+          "id": 1729361539
+        },
+        {
+          "distance": 0.25727903842926025,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.2814781069755554,
+          "id": 1729355457
+        },
+        {
+          "distance": 0.2825623154640198,
+          "id": 1763559407
+        },
+        {
+          "distance": 0.2828158736228943,
+          "id": 1880151401
+        },
+        {
+          "distance": 0.28874456882476807,
+          "id": 1729357499
+        },
+        {
+          "distance": 0.2911262512207031,
+          "id": 1729355457
+        },
+        {
+          "distance": 0.2952772378921509,
+          "id": 1880151339
+        },
+        {
+          "distance": 0.29705876111984253,
+          "id": 1729356163
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559543,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Happy Birthday, Yayoi Kusama!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

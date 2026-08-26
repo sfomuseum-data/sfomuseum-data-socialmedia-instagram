@@ -32,6 +32,50 @@
       "taken": 1558702740,
       "taken_at": "May 24, 2019 12:59 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.08188283443450928,
+          "id": 1729356065
+        },
+        {
+          "distance": 0.08928412199020386,
+          "id": 1763559419
+        },
+        {
+          "distance": 0.0992957353591919,
+          "id": 1729357503
+        },
+        {
+          "distance": 0.10844343900680542,
+          "id": 1729356065
+        },
+        {
+          "distance": 0.11012017726898193,
+          "id": 1729360209
+        },
+        {
+          "distance": 0.11037760972976685,
+          "id": 1729355495
+        },
+        {
+          "distance": 0.11867326498031616,
+          "id": 1729358971
+        },
+        {
+          "distance": 0.13155293464660645,
+          "id": 1729355687
+        },
+        {
+          "distance": 0.13322335481643677,
+          "id": 1729357503
+        },
+        {
+          "distance": 0.14000993967056274,
+          "id": 1763559419
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729356529,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "#Onthisday in 1976, the first Concorde flights from the United States began at Washington Dulles International Airport...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -27,6 +27,50 @@
       "taken": 1685979480,
       "taken_at": "Jun 05, 2023 3:38 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2080358862876892,
+          "id": 1729359833
+        },
+        {
+          "distance": 0.21094173192977905,
+          "id": 1729360397
+        },
+        {
+          "distance": 0.21750634908676147,
+          "id": 1729357279
+        },
+        {
+          "distance": 0.22771227359771729,
+          "id": 1729357769
+        },
+        {
+          "distance": 0.23503386974334717,
+          "id": 1729356823
+        },
+        {
+          "distance": 0.23503386974334717,
+          "id": 1729356825
+        },
+        {
+          "distance": 0.23832589387893677,
+          "id": 1729359833
+        },
+        {
+          "distance": 0.23884230852127075,
+          "id": 1729356623
+        },
+        {
+          "distance": 0.2405301332473755,
+          "id": 1729358575
+        },
+        {
+          "distance": 0.24077671766281128,
+          "id": 1729357279
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1880150923,
-    "wof:lastmodified": 1733175333,
+    "wof:lastmodified": 1787777661,
     "wof:name": "The Convair XC-99 was a prototype cargo aircraft used by the United States Air Force in the 1940s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -73,5 +117,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

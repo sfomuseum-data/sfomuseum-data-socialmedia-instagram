@@ -34,6 +34,50 @@
       "taken": 1494873960,
       "taken_at": "May 15, 2017 6:46 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0026166439056396484,
+          "id": 1880151765
+        },
+        {
+          "distance": 0.05078643560409546,
+          "id": 1729358225
+        },
+        {
+          "distance": 0.13658756017684937,
+          "id": 1729357679
+        },
+        {
+          "distance": 0.14829480648040771,
+          "id": 1729361355
+        },
+        {
+          "distance": 0.15002578496932983,
+          "id": 1880151765
+        },
+        {
+          "distance": 0.15474069118499756,
+          "id": 1729358463
+        },
+        {
+          "distance": 0.16756391525268555,
+          "id": 1729358225
+        },
+        {
+          "distance": 0.1728774905204773,
+          "id": 1729357679
+        },
+        {
+          "distance": 0.17727571725845337,
+          "id": 1729359823
+        },
+        {
+          "distance": 0.19327688217163086,
+          "id": 1729360723
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729359503,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "#OnThisDay, the first female cabin crewmember, Ellen Church, worked her first flight for Boeing Air Transport(BAT)...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

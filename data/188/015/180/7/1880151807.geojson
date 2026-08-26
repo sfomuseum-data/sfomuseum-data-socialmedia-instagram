@@ -33,6 +33,50 @@
       "taken": 1650967560,
       "taken_at": "Apr 26, 2022 10:06 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14973825216293335,
+          "id": 1947425167
+        },
+        {
+          "distance": 0.15656894445419312,
+          "id": 1947424955
+        },
+        {
+          "distance": 0.1612805724143982,
+          "id": 1729362369
+        },
+        {
+          "distance": 0.1709093451499939,
+          "id": 1880151391
+        },
+        {
+          "distance": 0.17678678035736084,
+          "id": 1947425291
+        },
+        {
+          "distance": 0.20015281438827515,
+          "id": 1947424955
+        },
+        {
+          "distance": 0.21428167819976807,
+          "id": 1880151745
+        },
+        {
+          "distance": 0.21634137630462646,
+          "id": 1729361821
+        },
+        {
+          "distance": 0.22239696979522705,
+          "id": 1880151683
+        },
+        {
+          "distance": 0.22239696979522705,
+          "id": 1880151703
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1880151807,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777663,
     "wof:name": "The pineapple plant, known all over the world for its delicious fruit, is indigenous to Central and South America...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

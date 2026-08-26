@@ -52,6 +52,50 @@
       "taken": 1502478540,
       "taken_at": "Aug 11, 2017 7:09 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.008805930614471436,
+          "id": 1729358887
+        },
+        {
+          "distance": 0.06672227382659912,
+          "id": 1729358887
+        },
+        {
+          "distance": 0.11706680059432983,
+          "id": 1729360641
+        },
+        {
+          "distance": 0.1815028190612793,
+          "id": 1729360641
+        },
+        {
+          "distance": 0.2075507640838623,
+          "id": 1947425093
+        },
+        {
+          "distance": 0.2118014097213745,
+          "id": 1763559487
+        },
+        {
+          "distance": 0.21330922842025757,
+          "id": 1947425093
+        },
+        {
+          "distance": 0.2134137749671936,
+          "id": 1763559327
+        },
+        {
+          "distance": 0.23113512992858887,
+          "id": 1763558725
+        },
+        {
+          "distance": 0.23113512992858887,
+          "id": 1729358623
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -81,7 +125,7 @@
       }
     ],
     "wof:id": 1729359199,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "In the decade between the late-1930s and late-1940s, United Air Lines introduced a series of modern airliners that elevated air travel to new levels of speed and comfort...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -98,5 +142,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

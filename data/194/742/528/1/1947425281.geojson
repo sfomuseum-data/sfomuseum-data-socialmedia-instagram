@@ -28,6 +28,50 @@
       "taken": 1696602120,
       "taken_at": "Oct 06, 2023 2:22 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2755855917930603,
+          "id": 1729357059
+        },
+        {
+          "distance": 0.2897679805755615,
+          "id": 1729359593
+        },
+        {
+          "distance": 0.30301564931869507,
+          "id": 1729357059
+        },
+        {
+          "distance": 0.30864739418029785,
+          "id": 1763559411
+        },
+        {
+          "distance": 0.31341326236724854,
+          "id": 1729355225
+        },
+        {
+          "distance": 0.31419241428375244,
+          "id": 1729359593
+        },
+        {
+          "distance": 0.31474608182907104,
+          "id": 1729358437
+        },
+        {
+          "distance": 0.31975728273391724,
+          "id": 1763559015
+        },
+        {
+          "distance": 0.3199661374092102,
+          "id": 1729355225
+        },
+        {
+          "distance": 0.32072150707244873,
+          "id": 1729357627
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1947425281,
-    "wof:lastmodified": 1733175331,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Established 100 years ago in 1923, Czech Airlines is one of the five oldest airlines in the world...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -70,5 +114,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

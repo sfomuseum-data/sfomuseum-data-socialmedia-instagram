@@ -25,6 +25,50 @@
       "taken": 1464019980,
       "taken_at": "May 23, 2016 4:13 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.4154990315437317,
+          "id": 1880150995
+        },
+        {
+          "distance": 0.41893625259399414,
+          "id": 1880150995
+        },
+        {
+          "distance": 0.43052828311920166,
+          "id": 1729359097
+        },
+        {
+          "distance": 0.4323187470436096,
+          "id": 1729355419
+        },
+        {
+          "distance": 0.43405741453170776,
+          "id": 1729358023
+        },
+        {
+          "distance": 0.4353777766227722,
+          "id": 1763559557
+        },
+        {
+          "distance": 0.4362126588821411,
+          "id": 1729360141
+        },
+        {
+          "distance": 0.4375481605529785,
+          "id": 1729360861
+        },
+        {
+          "distance": 0.44542092084884644,
+          "id": 1729360943
+        },
+        {
+          "distance": 0.4457714557647705,
+          "id": 1763559291
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360703,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "On airplanes, particularly propliners, airlines had to carefully consider weight or lode distribution between passengers, freight, and mail...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

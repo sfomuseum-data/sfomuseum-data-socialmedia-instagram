@@ -31,6 +31,50 @@
       "taken": 1651833060,
       "taken_at": "May 06, 2022 10:31 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0026401281356811523,
+          "id": 1729359503
+        },
+        {
+          "distance": 0.05052608251571655,
+          "id": 1729358225
+        },
+        {
+          "distance": 0.13805580139160156,
+          "id": 1729359503
+        },
+        {
+          "distance": 0.13895708322525024,
+          "id": 1729357679
+        },
+        {
+          "distance": 0.15065008401870728,
+          "id": 1729361355
+        },
+        {
+          "distance": 0.1550980806350708,
+          "id": 1729358463
+        },
+        {
+          "distance": 0.16800105571746826,
+          "id": 1729358225
+        },
+        {
+          "distance": 0.17258548736572266,
+          "id": 1729357679
+        },
+        {
+          "distance": 0.1787775754928589,
+          "id": 1729359823
+        },
+        {
+          "distance": 0.19766771793365479,
+          "id": 1729360723
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151765,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777663,
     "wof:name": "Today is National Nurse’s Day...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

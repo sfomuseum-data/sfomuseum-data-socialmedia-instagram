@@ -29,6 +29,50 @@
       "taken": 1590750000,
       "taken_at": "May 29, 2020 11:00 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2069864273071289,
+          "id": 1729357849
+        },
+        {
+          "distance": 0.23240035772323608,
+          "id": 1729358231
+        },
+        {
+          "distance": 0.23627114295959473,
+          "id": 1763558623
+        },
+        {
+          "distance": 0.23683702945709229,
+          "id": 1729357575
+        },
+        {
+          "distance": 0.2467849850654602,
+          "id": 1729361039
+        },
+        {
+          "distance": 0.24819117784500122,
+          "id": 1729357849
+        },
+        {
+          "distance": 0.2483951449394226,
+          "id": 1763558623
+        },
+        {
+          "distance": 0.24901175498962402,
+          "id": 1729360975
+        },
+        {
+          "distance": 0.24920129776000977,
+          "id": 1880150999
+        },
+        {
+          "distance": 0.2524309754371643,
+          "id": 1729361039
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729355225,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777619,
     "wof:name": "On May 30, 1974, Air France introduced the Airbus A300 into service...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

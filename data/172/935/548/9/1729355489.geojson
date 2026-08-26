@@ -25,6 +25,50 @@
       "taken": 1583169780,
       "taken_at": "Mar 02, 2020 5:23 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.32795125246047974,
+          "id": 1729359701
+        },
+        {
+          "distance": 0.3379451632499695,
+          "id": 1729360897
+        },
+        {
+          "distance": 0.3465033769607544,
+          "id": 1729360617
+        },
+        {
+          "distance": 0.3496459722518921,
+          "id": 1729359701
+        },
+        {
+          "distance": 0.3522796630859375,
+          "id": 1729362581
+        },
+        {
+          "distance": 0.3556252717971802,
+          "id": 1729360515
+        },
+        {
+          "distance": 0.35604870319366455,
+          "id": 1729358501
+        },
+        {
+          "distance": 0.3599013090133667,
+          "id": 1729355115
+        },
+        {
+          "distance": 0.36066901683807373,
+          "id": 1729359863
+        },
+        {
+          "distance": 0.362248957157135,
+          "id": 1729360515
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729355489,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777625,
     "wof:name": "Today is #ReadAcrossAmerica Day!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

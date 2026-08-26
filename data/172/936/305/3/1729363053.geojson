@@ -25,6 +25,50 @@
       "taken": 1330432620,
       "taken_at": "Feb 28, 2012 12:37 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2468990683555603,
+          "id": 1729362981
+        },
+        {
+          "distance": 0.2807554006576538,
+          "id": 1729362981
+        },
+        {
+          "distance": 0.30096757411956787,
+          "id": 1729362929
+        },
+        {
+          "distance": 0.30822235345840454,
+          "id": 1729362929
+        },
+        {
+          "distance": 0.31285780668258667,
+          "id": 1729362631
+        },
+        {
+          "distance": 0.3193836212158203,
+          "id": 1729358845
+        },
+        {
+          "distance": 0.32073938846588135,
+          "id": 1729356601
+        },
+        {
+          "distance": 0.3210172653198242,
+          "id": 1729357315
+        },
+        {
+          "distance": 0.3276522159576416,
+          "id": 1729363031
+        },
+        {
+          "distance": 0.328447163105011,
+          "id": 1729362973
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729363053,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777658,
     "wof:name": "Light conservation in preparation for our upcoming T3 exhibit, Sewing in the Machine Age..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

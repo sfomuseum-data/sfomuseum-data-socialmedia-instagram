@@ -32,6 +32,50 @@
       "taken": 1511794380,
       "taken_at": "Nov 27, 2017 2:53 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2393873929977417,
+          "id": 1729360283
+        },
+        {
+          "distance": 0.2536354064941406,
+          "id": 1880150905
+        },
+        {
+          "distance": 0.2564757466316223,
+          "id": 1729360283
+        },
+        {
+          "distance": 0.2678115963935852,
+          "id": 1729362867
+        },
+        {
+          "distance": 0.2754521369934082,
+          "id": 1729362331
+        },
+        {
+          "distance": 0.2774454355239868,
+          "id": 1880150905
+        },
+        {
+          "distance": 0.27874892950057983,
+          "id": 1729362331
+        },
+        {
+          "distance": 0.27881526947021484,
+          "id": 1763559105
+        },
+        {
+          "distance": 0.2844734191894531,
+          "id": 1880151253
+        },
+        {
+          "distance": 0.28646475076675415,
+          "id": 1763559685
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729358879,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "How does the art at SFO stay clean?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

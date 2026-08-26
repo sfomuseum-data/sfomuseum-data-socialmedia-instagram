@@ -25,6 +25,50 @@
       "taken": 1680883080,
       "taken_at": "Apr 07, 2023 3:58 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3115776777267456,
+          "id": 1729360801
+        },
+        {
+          "distance": 0.3242955803871155,
+          "id": 1729360801
+        },
+        {
+          "distance": 0.3393644690513611,
+          "id": 1729361051
+        },
+        {
+          "distance": 0.35036468505859375,
+          "id": 1763558653
+        },
+        {
+          "distance": 0.35036468505859375,
+          "id": 1729359849
+        },
+        {
+          "distance": 0.3524714708328247,
+          "id": 1729357877
+        },
+        {
+          "distance": 0.3556474447250366,
+          "id": 1880151427
+        },
+        {
+          "distance": 0.3572787046432495,
+          "id": 1763559609
+        },
+        {
+          "distance": 0.359624981880188,
+          "id": 1763558653
+        },
+        {
+          "distance": 0.3661075830459595,
+          "id": 1729357475
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1880151001,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777661,
     "wof:name": "The first pitch of the Giants home opener game of the season against the Kansas City Royals was thrown this afternoon at 1:35pm PDT...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

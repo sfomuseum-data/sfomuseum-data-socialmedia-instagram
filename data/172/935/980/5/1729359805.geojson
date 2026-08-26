@@ -25,6 +25,50 @@
       "taken": 1487238120,
       "taken_at": "Feb 16, 2017 9:42 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.05897575616836548,
+          "id": 1729357547
+        },
+        {
+          "distance": 0.079897940158844,
+          "id": 1763559413
+        },
+        {
+          "distance": 0.127099871635437,
+          "id": 1729361261
+        },
+        {
+          "distance": 0.1288415789604187,
+          "id": 1880151063
+        },
+        {
+          "distance": 0.1464100480079651,
+          "id": 1729358457
+        },
+        {
+          "distance": 0.14762181043624878,
+          "id": 1763559233
+        },
+        {
+          "distance": 0.14977461099624634,
+          "id": 1729356859
+        },
+        {
+          "distance": 0.15031719207763672,
+          "id": 1880150909
+        },
+        {
+          "distance": 0.1515147089958191,
+          "id": 1729358135
+        },
+        {
+          "distance": 0.15255379676818848,
+          "id": 1729359451
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359805,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "This photo shows the newly constructed 1937 passenger terminal and four hangars...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

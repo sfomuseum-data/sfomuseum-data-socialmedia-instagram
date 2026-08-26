@@ -25,6 +25,50 @@
       "taken": 1479668580,
       "taken_at": "Nov 20, 2016 7:03 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.28506994247436523,
+          "id": 1729357145
+        },
+        {
+          "distance": 0.28784751892089844,
+          "id": 1729360729
+        },
+        {
+          "distance": 0.2931864857673645,
+          "id": 1763559505
+        },
+        {
+          "distance": 0.2964280843734741,
+          "id": 1729359555
+        },
+        {
+          "distance": 0.29958492517471313,
+          "id": 1763558731
+        },
+        {
+          "distance": 0.3015652894973755,
+          "id": 1729361107
+        },
+        {
+          "distance": 0.3027799725532532,
+          "id": 1729355797
+        },
+        {
+          "distance": 0.30380135774612427,
+          "id": 1729359523
+        },
+        {
+          "distance": 0.30433768033981323,
+          "id": 1729355277
+        },
+        {
+          "distance": 0.3067731261253357,
+          "id": 1729357413
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360105,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "We must learn from the past and dedicate ourselves as a nation to renewing the spirit of equality and our love of freedom.” President Bill Clinton, 1993, in an official presidential letter to Japanese Americans interned during World War II...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

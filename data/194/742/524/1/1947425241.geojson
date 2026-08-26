@@ -30,6 +30,50 @@
       "taken": 1699286160,
       "taken_at": "Nov 06, 2023 3:56 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.33603590726852417,
+          "id": 1729357869
+        },
+        {
+          "distance": 0.3411606550216675,
+          "id": 1729357895
+        },
+        {
+          "distance": 0.3424929976463318,
+          "id": 1729357253
+        },
+        {
+          "distance": 0.3438023328781128,
+          "id": 1729358427
+        },
+        {
+          "distance": 0.34575217962265015,
+          "id": 1729362263
+        },
+        {
+          "distance": 0.34847432374954224,
+          "id": 1729355599
+        },
+        {
+          "distance": 0.3498110771179199,
+          "id": 1729356665
+        },
+        {
+          "distance": 0.3517608046531677,
+          "id": 1729358617
+        },
+        {
+          "distance": 0.3549579381942749,
+          "id": 1729355493
+        },
+        {
+          "distance": 0.35538721084594727,
+          "id": 1729355537
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1947425241,
-    "wof:lastmodified": 1733175330,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Our newest exhibition \"Kay Sekimachi: Weaving Traditions\" celebrates Kay Sekimachi, a pioneering Bay Area fiber artist...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

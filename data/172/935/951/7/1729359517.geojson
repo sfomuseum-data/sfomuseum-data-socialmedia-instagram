@@ -42,6 +42,50 @@
       "taken": 1494616740,
       "taken_at": "May 12, 2017 7:19 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.036456286907196045,
+          "id": 1729359093
+        },
+        {
+          "distance": 0.10463815927505493,
+          "id": 1729359093
+        },
+        {
+          "distance": 0.2483004927635193,
+          "id": 1729358859
+        },
+        {
+          "distance": 0.24869835376739502,
+          "id": 1729358939
+        },
+        {
+          "distance": 0.2554377317428589,
+          "id": 1729359231
+        },
+        {
+          "distance": 0.2560972571372986,
+          "id": 1729358761
+        },
+        {
+          "distance": 0.2560972571372986,
+          "id": 1763558727
+        },
+        {
+          "distance": 0.25713425874710083,
+          "id": 1729356339
+        },
+        {
+          "distance": 0.2634962201118469,
+          "id": 1729359025
+        },
+        {
+          "distance": 0.27176976203918457,
+          "id": 1729356347
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -71,7 +115,7 @@
       }
     ],
     "wof:id": 1729359517,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "Our exhibition about the history and design of the typewriter opens tomorrow!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -88,5 +132,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

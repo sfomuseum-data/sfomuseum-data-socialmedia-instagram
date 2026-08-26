@@ -29,6 +29,50 @@
       "taken": 1681730040,
       "taken_at": "Apr 17, 2023 11:14 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.26694583892822266,
+          "id": 1763558983
+        },
+        {
+          "distance": 0.27434319257736206,
+          "id": 1729361531
+        },
+        {
+          "distance": 0.3107109069824219,
+          "id": 1729356319
+        },
+        {
+          "distance": 0.3138091564178467,
+          "id": 1947425117
+        },
+        {
+          "distance": 0.31464552879333496,
+          "id": 1763559487
+        },
+        {
+          "distance": 0.3147687315940857,
+          "id": 1729361605
+        },
+        {
+          "distance": 0.31664156913757324,
+          "id": 1729356319
+        },
+        {
+          "distance": 0.31849759817123413,
+          "id": 1763559327
+        },
+        {
+          "distance": 0.3196122646331787,
+          "id": 1729359455
+        },
+        {
+          "distance": 0.32127952575683594,
+          "id": 1880151161
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880150981,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777661,
     "wof:name": "#Onthisday in 1973, Federal Express delivered the first packages from its operational facility in Memphis, Tennessee...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

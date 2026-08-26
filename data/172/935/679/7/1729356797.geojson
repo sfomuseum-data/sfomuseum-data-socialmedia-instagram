@@ -38,6 +38,50 @@
       "taken": 1553014260,
       "taken_at": "Mar 19, 2019, 4:51 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.200411856174469,
+          "id": 1729356793
+        },
+        {
+          "distance": 0.206961989402771,
+          "id": 1729356793
+        },
+        {
+          "distance": 0.21625661849975586,
+          "id": 1729356891
+        },
+        {
+          "distance": 0.22147715091705322,
+          "id": 1729358039
+        },
+        {
+          "distance": 0.22358214855194092,
+          "id": 1763558761
+        },
+        {
+          "distance": 0.22732841968536377,
+          "id": 1729356891
+        },
+        {
+          "distance": 0.22945928573608398,
+          "id": 1729356719
+        },
+        {
+          "distance": 0.23697686195373535,
+          "id": 1729356583
+        },
+        {
+          "distance": 0.23851388692855835,
+          "id": 1729356335
+        },
+        {
+          "distance": 0.23873507976531982,
+          "id": 1763559221
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729356797,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "The atomic age permeated American culture throughout the 1950s and into the 1960s, influencing literature, film, television, and consumer goods...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -30,6 +30,50 @@
       "taken": 1653411720,
       "taken_at": "May 24, 2022 5:02 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.209153413772583,
+          "id": 1729355201
+        },
+        {
+          "distance": 0.23990225791931152,
+          "id": 1729362469
+        },
+        {
+          "distance": 0.24294739961624146,
+          "id": 1763559265
+        },
+        {
+          "distance": 0.2560656666755676,
+          "id": 1729355153
+        },
+        {
+          "distance": 0.2562950849533081,
+          "id": 1729362331
+        },
+        {
+          "distance": 0.25953179597854614,
+          "id": 1763559265
+        },
+        {
+          "distance": 0.2615775465965271,
+          "id": 1729358393
+        },
+        {
+          "distance": 0.2624737024307251,
+          "id": 1729355153
+        },
+        {
+          "distance": 0.2667075991630554,
+          "id": 1729355201
+        },
+        {
+          "distance": 0.2741430401802063,
+          "id": 1880151275
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151689,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777663,
     "wof:name": "It’s happening!!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

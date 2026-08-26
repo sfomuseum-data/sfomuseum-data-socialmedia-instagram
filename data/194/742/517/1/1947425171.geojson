@@ -32,6 +32,50 @@
       "taken": 1704300180,
       "taken_at": "Jan 03, 2024 4:43 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.21145224571228027,
+          "id": 1880151187
+        },
+        {
+          "distance": 0.21790260076522827,
+          "id": 1763559569
+        },
+        {
+          "distance": 0.21891993284225464,
+          "id": 1947425039
+        },
+        {
+          "distance": 0.2228139042854309,
+          "id": 1763558835
+        },
+        {
+          "distance": 0.2236453890800476,
+          "id": 1729357693
+        },
+        {
+          "distance": 0.2266455888748169,
+          "id": 1729357325
+        },
+        {
+          "distance": 0.22796404361724854,
+          "id": 1947424799
+        },
+        {
+          "distance": 0.22859346866607666,
+          "id": 1763559569
+        },
+        {
+          "distance": 0.2300514578819275,
+          "id": 1763559473
+        },
+        {
+          "distance": 0.2314630150794983,
+          "id": 1729355249
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1947425171,
-    "wof:lastmodified": 1733175328,
+    "wof:lastmodified": 1787777664,
     "wof:name": "SFO Museum is pleased to announce the extension of “To Survive on this Shore: Photographs and Interviews with Transgender and Gender Nonconforming Older Adults” by Jess T. Dugan and Vanessa Fabbre until July 2024...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

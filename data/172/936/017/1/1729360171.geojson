@@ -30,6 +30,50 @@
       "taken": 1477768080,
       "taken_at": "Oct 29, 2016 7:08 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15666133165359497,
+          "id": 1763558671
+        },
+        {
+          "distance": 0.15666133165359497,
+          "id": 1729359335
+        },
+        {
+          "distance": 0.15816426277160645,
+          "id": 1729360551
+        },
+        {
+          "distance": 0.16174757480621338,
+          "id": 1729359989
+        },
+        {
+          "distance": 0.1671692132949829,
+          "id": 1729359989
+        },
+        {
+          "distance": 0.17076939344406128,
+          "id": 1729358079
+        },
+        {
+          "distance": 0.1759435534477234,
+          "id": 1729360981
+        },
+        {
+          "distance": 0.1827426552772522,
+          "id": 1729359335
+        },
+        {
+          "distance": 0.18806570768356323,
+          "id": 1729359743
+        },
+        {
+          "distance": 0.19157469272613525,
+          "id": 1729360365
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729360171,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "From 1976 to 1981, United’s cabin crewmembers wore a combination of Stan Herman’s western style all-season uniform called Classic U.S.A...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

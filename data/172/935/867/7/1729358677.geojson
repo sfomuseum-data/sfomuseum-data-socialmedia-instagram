@@ -52,6 +52,50 @@
       "taken": 1516458480,
       "taken_at": "Jan 20, 2018, 2:28 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10746455192565918,
+          "id": 1729358681
+        },
+        {
+          "distance": 0.12187093496322632,
+          "id": 1729358801
+        },
+        {
+          "distance": 0.12964797019958496,
+          "id": 1729358801
+        },
+        {
+          "distance": 0.13515734672546387,
+          "id": 1729358803
+        },
+        {
+          "distance": 0.14206463098526,
+          "id": 1729358681
+        },
+        {
+          "distance": 0.15908533334732056,
+          "id": 1729358803
+        },
+        {
+          "distance": 0.16892176866531372,
+          "id": 1729358673
+        },
+        {
+          "distance": 0.170244038105011,
+          "id": 1729358521
+        },
+        {
+          "distance": 0.1786249876022339,
+          "id": 1729358521
+        },
+        {
+          "distance": 0.180056631565094,
+          "id": 1729358753
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -81,7 +125,7 @@
       }
     ],
     "wof:id": 1729358677,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Autonomous craft organizations provide artisans with a market for their goods and offer strength in numbers to their collective membership...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -98,5 +142,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

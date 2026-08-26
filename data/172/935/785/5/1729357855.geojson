@@ -46,6 +46,50 @@
       "taken": 1532859300,
       "taken_at": "Jul 29, 2018 10:15 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.03728353977203369,
+          "id": 1729360297
+        },
+        {
+          "distance": 0.06197851896286011,
+          "id": 1880151443
+        },
+        {
+          "distance": 0.1117972731590271,
+          "id": 1880151443
+        },
+        {
+          "distance": 0.12585532665252686,
+          "id": 1729360297
+        },
+        {
+          "distance": 0.14754343032836914,
+          "id": 1729357593
+        },
+        {
+          "distance": 0.16277211904525757,
+          "id": 1729360705
+        },
+        {
+          "distance": 0.19222235679626465,
+          "id": 1729359523
+        },
+        {
+          "distance": 0.1942957043647766,
+          "id": 1947425271
+        },
+        {
+          "distance": 0.19704127311706543,
+          "id": 1729358771
+        },
+        {
+          "distance": 0.1978297233581543,
+          "id": 1880151063
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -75,7 +119,7 @@
       }
     ],
     "wof:id": 1729357855,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "See how SFO has changed since 1927 through our collection of historical photos in our online database: http://bit.ly/SFOHistory  Image: Mills Field Municipal Airport of San Francisco, Hangar 1, 1928...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -92,5 +136,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

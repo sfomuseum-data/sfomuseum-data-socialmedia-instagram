@@ -38,6 +38,50 @@
       "taken": 1563274200,
       "taken_at": "Jul 16, 2019, 10:50 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18903851509094238,
+          "id": 1763559613
+        },
+        {
+          "distance": 0.21610617637634277,
+          "id": 1729357395
+        },
+        {
+          "distance": 0.21771478652954102,
+          "id": 1763559101
+        },
+        {
+          "distance": 0.22382527589797974,
+          "id": 1763559613
+        },
+        {
+          "distance": 0.23055851459503174,
+          "id": 1729357673
+        },
+        {
+          "distance": 0.2341269850730896,
+          "id": 1729358011
+        },
+        {
+          "distance": 0.23451519012451172,
+          "id": 1729357619
+        },
+        {
+          "distance": 0.2348480224609375,
+          "id": 1729357395
+        },
+        {
+          "distance": 0.2359340786933899,
+          "id": 1729359003
+        },
+        {
+          "distance": 0.2359340786933899,
+          "id": 1763558711
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729356301,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Developed and produced by Vickers-Armstrongs Ltd. of Great Britain, the Viscount was the world’s first turboprop airliner to go into service...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

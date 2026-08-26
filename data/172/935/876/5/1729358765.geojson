@@ -25,6 +25,50 @@
       "taken": 1514772420,
       "taken_at": "Jan 01, 2018 2:07 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17671948671340942,
+          "id": 1947425137
+        },
+        {
+          "distance": 0.23452836275100708,
+          "id": 1947425137
+        },
+        {
+          "distance": 0.25616133213043213,
+          "id": 1729355281
+        },
+        {
+          "distance": 0.281613826751709,
+          "id": 1729355281
+        },
+        {
+          "distance": 0.30707651376724243,
+          "id": 1729358479
+        },
+        {
+          "distance": 0.31586211919784546,
+          "id": 1947425095
+        },
+        {
+          "distance": 0.3405059576034546,
+          "id": 1729355683
+        },
+        {
+          "distance": 0.34259504079818726,
+          "id": 1729360613
+        },
+        {
+          "distance": 0.3514442443847656,
+          "id": 1947425117
+        },
+        {
+          "distance": 0.35622841119766235,
+          "id": 1880151005
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729358765,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "On the last day of 2017, we are ringing in the new year with fireworks!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

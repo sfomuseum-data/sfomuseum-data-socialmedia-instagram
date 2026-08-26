@@ -36,6 +36,50 @@
       "taken": 1516371300,
       "taken_at": "Jan 19, 2018, 2:15 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0591433048248291,
+          "id": 1729357783
+        },
+        {
+          "distance": 0.1484670639038086,
+          "id": 1729357783
+        },
+        {
+          "distance": 0.18856656551361084,
+          "id": 1729358693
+        },
+        {
+          "distance": 0.2028002142906189,
+          "id": 1729358411
+        },
+        {
+          "distance": 0.21139973402023315,
+          "id": 1729359887
+        },
+        {
+          "distance": 0.23155838251113892,
+          "id": 1729358147
+        },
+        {
+          "distance": 0.23158657550811768,
+          "id": 1729358735
+        },
+        {
+          "distance": 0.2342594861984253,
+          "id": 1729358711
+        },
+        {
+          "distance": 0.23638498783111572,
+          "id": 1729359887
+        },
+        {
+          "distance": 0.24209964275360107,
+          "id": 1729359861
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729358697,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Coin-operated vendors did not require their owner-operator to be present for every sale...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

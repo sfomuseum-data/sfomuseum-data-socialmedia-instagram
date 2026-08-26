@@ -25,6 +25,50 @@
       "taken": 1487761620,
       "taken_at": "Feb 22, 2017 11:07 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09103584289550781,
+          "id": 1729359161
+        },
+        {
+          "distance": 0.12286436557769775,
+          "id": 1729359161
+        },
+        {
+          "distance": 0.16003507375717163,
+          "id": 1729359921
+        },
+        {
+          "distance": 0.16437309980392456,
+          "id": 1729359511
+        },
+        {
+          "distance": 0.17206358909606934,
+          "id": 1729358635
+        },
+        {
+          "distance": 0.18443012237548828,
+          "id": 1729358635
+        },
+        {
+          "distance": 0.18840408325195312,
+          "id": 1729359921
+        },
+        {
+          "distance": 0.19233030080795288,
+          "id": 1729359217
+        },
+        {
+          "distance": 0.19797927141189575,
+          "id": 1729359511
+        },
+        {
+          "distance": 0.20156341791152954,
+          "id": 1729359397
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359799,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "This 1952 TWA advertisement reads: \"Where on earth could you find such service?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

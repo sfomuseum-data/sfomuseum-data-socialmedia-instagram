@@ -29,6 +29,50 @@
       "taken": 1645118880,
       "taken_at": "Feb 17, 2022 5:28 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13395899534225464,
+          "id": 1729356589
+        },
+        {
+          "distance": 0.15182387828826904,
+          "id": 1729356589
+        },
+        {
+          "distance": 0.20241737365722656,
+          "id": 1763559631
+        },
+        {
+          "distance": 0.2101568579673767,
+          "id": 1763559053
+        },
+        {
+          "distance": 0.21118485927581787,
+          "id": 1729359867
+        },
+        {
+          "distance": 0.22154659032821655,
+          "id": 1729357127
+        },
+        {
+          "distance": 0.22389590740203857,
+          "id": 1729357017
+        },
+        {
+          "distance": 0.2303100824356079,
+          "id": 1729357127
+        },
+        {
+          "distance": 0.233356773853302,
+          "id": 1729355687
+        },
+        {
+          "distance": 0.2336564064025879,
+          "id": 1729356033
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1763559601,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Braniff’s image took a bold new direction in the 1960s with an identity program masterminded by Mary Wells...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

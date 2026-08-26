@@ -33,6 +33,50 @@
       "taken": 1499074860,
       "taken_at": "Jul 03, 2017 9:41 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.002153456211090088,
+          "id": 1729360959
+        },
+        {
+          "distance": 0.10828709602355957,
+          "id": 1729360959
+        },
+        {
+          "distance": 0.1345251202583313,
+          "id": 1729355863
+        },
+        {
+          "distance": 0.14707344770431519,
+          "id": 1729356581
+        },
+        {
+          "distance": 0.1703994870185852,
+          "id": 1729361497
+        },
+        {
+          "distance": 0.17199474573135376,
+          "id": 1729360435
+        },
+        {
+          "distance": 0.17226022481918335,
+          "id": 1729361263
+        },
+        {
+          "distance": 0.1727139949798584,
+          "id": 1729356749
+        },
+        {
+          "distance": 0.17426806688308716,
+          "id": 1729356581
+        },
+        {
+          "distance": 0.17846184968948364,
+          "id": 1729361263
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729359355,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Pan American pioneered the multiple flight crew concept for long-range ocean transports...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

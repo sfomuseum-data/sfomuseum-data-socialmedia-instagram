@@ -37,6 +37,50 @@
       "taken": 1528906560,
       "taken_at": "Jun 13, 2018 4:16 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3461364507675171,
+          "id": 1729362197
+        },
+        {
+          "distance": 0.380165696144104,
+          "id": 1763558885
+        },
+        {
+          "distance": 0.38056057691574097,
+          "id": 1729359187
+        },
+        {
+          "distance": 0.3808158040046692,
+          "id": 1729358759
+        },
+        {
+          "distance": 0.38379353284835815,
+          "id": 1729362671
+        },
+        {
+          "distance": 0.38620030879974365,
+          "id": 1947424939
+        },
+        {
+          "distance": 0.38970667123794556,
+          "id": 1729362671
+        },
+        {
+          "distance": 0.39134472608566284,
+          "id": 1729362197
+        },
+        {
+          "distance": 0.39375805854797363,
+          "id": 1729361561
+        },
+        {
+          "distance": 0.3966599702835083,
+          "id": 1729360895
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729358123,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Some of the more interesting coin-operated vendors dispensed metered amounts of perfume and cologne from a liquid-filled reservoir...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -27,6 +27,50 @@
       "taken": 1455842160,
       "taken_at": "Feb 19, 2016 12:36 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24561327695846558,
+          "id": 1729357905
+        },
+        {
+          "distance": 0.26086777448654175,
+          "id": 1729360435
+        },
+        {
+          "distance": 0.26916366815567017,
+          "id": 1729357905
+        },
+        {
+          "distance": 0.2830986976623535,
+          "id": 1729357535
+        },
+        {
+          "distance": 0.2901354432106018,
+          "id": 1729361263
+        },
+        {
+          "distance": 0.2929460406303406,
+          "id": 1729356845
+        },
+        {
+          "distance": 0.29414916038513184,
+          "id": 1729361029
+        },
+        {
+          "distance": 0.2996981739997864,
+          "id": 1880151751
+        },
+        {
+          "distance": 0.3005995750427246,
+          "id": 1947425065
+        },
+        {
+          "distance": 0.3041413426399231,
+          "id": 1880151751
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1729361041,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777643,
     "wof:name": "Before satellites and computers: these photographs of Mills Field in 1928 document the various instruments airport workers used to take weather readings...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -73,5 +117,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

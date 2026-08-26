@@ -32,6 +32,50 @@
       "taken": 1636389720,
       "taken_at": "Nov 08, 2021 4:42 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3239966630935669,
+          "id": 1880150891
+        },
+        {
+          "distance": 0.33603882789611816,
+          "id": 1729361499
+        },
+        {
+          "distance": 0.3442463278770447,
+          "id": 1729359919
+        },
+        {
+          "distance": 0.36366039514541626,
+          "id": 1729359919
+        },
+        {
+          "distance": 0.3687078356742859,
+          "id": 1729361895
+        },
+        {
+          "distance": 0.3797011375427246,
+          "id": 1763558975
+        },
+        {
+          "distance": 0.3810713291168213,
+          "id": 1729356263
+        },
+        {
+          "distance": 0.3827388286590576,
+          "id": 1729355599
+        },
+        {
+          "distance": 0.3832587003707886,
+          "id": 1729355597
+        },
+        {
+          "distance": 0.389464795589447,
+          "id": 1729355597
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1763559337,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Happy Birthday, Macario Jiménez!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

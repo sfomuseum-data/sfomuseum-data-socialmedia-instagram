@@ -36,6 +36,50 @@
       "taken": 1546534320,
       "taken_at": "Jan 3, 2019, 4:52 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.220755934715271,
+          "id": 1729356475
+        },
+        {
+          "distance": 0.23720282316207886,
+          "id": 1729357339
+        },
+        {
+          "distance": 0.2511609196662903,
+          "id": 1729356475
+        },
+        {
+          "distance": 0.268545925617218,
+          "id": 1729357149
+        },
+        {
+          "distance": 0.26948612928390503,
+          "id": 1729357339
+        },
+        {
+          "distance": 0.28468286991119385,
+          "id": 1729356653
+        },
+        {
+          "distance": 0.29668158292770386,
+          "id": 1729356847
+        },
+        {
+          "distance": 0.3077700138092041,
+          "id": 1729357149
+        },
+        {
+          "distance": 0.3095712661743164,
+          "id": 1729357079
+        },
+        {
+          "distance": 0.3105178475379944,
+          "id": 1729355809
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729357143,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777630,
     "wof:name": "Cleveland Chenier, the older brother of the \"King of Zydeco\" Clifton Chenier, played the rubboard in Clifton's zydeco band...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

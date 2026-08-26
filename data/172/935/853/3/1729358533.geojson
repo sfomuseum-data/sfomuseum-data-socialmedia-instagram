@@ -25,6 +25,50 @@
       "taken": 1518866700,
       "taken_at": "Feb 17, 2018 11:25 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19154882431030273,
+          "id": 1729355633
+        },
+        {
+          "distance": 0.19560503959655762,
+          "id": 1729355635
+        },
+        {
+          "distance": 0.19700098037719727,
+          "id": 1947425295
+        },
+        {
+          "distance": 0.19819515943527222,
+          "id": 1729355101
+        },
+        {
+          "distance": 0.2114887833595276,
+          "id": 1880150947
+        },
+        {
+          "distance": 0.22363412380218506,
+          "id": 1729355629
+        },
+        {
+          "distance": 0.22776710987091064,
+          "id": 1729355101
+        },
+        {
+          "distance": 0.2420799732208252,
+          "id": 1729355635
+        },
+        {
+          "distance": 0.262492835521698,
+          "id": 1947424913
+        },
+        {
+          "distance": 0.26607000827789307,
+          "id": 1763559469
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729358533,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Bruce Beasley has lived in the Bay Area since his student days at the University of California, Berkeley...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

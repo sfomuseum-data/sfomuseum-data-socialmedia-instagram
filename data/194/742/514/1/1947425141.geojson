@@ -29,6 +29,50 @@
       "taken": 1706721480,
       "taken_at": "Jan 31, 2024 5:18 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.057807326316833496,
+          "id": 1947425209
+        },
+        {
+          "distance": 0.05783134698867798,
+          "id": 1947425237
+        },
+        {
+          "distance": 0.13044697046279907,
+          "id": 1947425237
+        },
+        {
+          "distance": 0.13050943613052368,
+          "id": 1947425209
+        },
+        {
+          "distance": 0.17570489645004272,
+          "id": 1880151473
+        },
+        {
+          "distance": 0.17651700973510742,
+          "id": 1880151287
+        },
+        {
+          "distance": 0.18190479278564453,
+          "id": 1880150965
+        },
+        {
+          "distance": 0.18256217241287231,
+          "id": 1880151061
+        },
+        {
+          "distance": 0.18619304895401,
+          "id": 1763559049
+        },
+        {
+          "distance": 0.19019049406051636,
+          "id": 1729355689
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1947425141,
-    "wof:lastmodified": 1733175327,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Introduced in 1955, the Lockheed L-1049G Super Constellation, also known as the “Super G,” was a longer-range upgrade variant of the Super Constellation...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

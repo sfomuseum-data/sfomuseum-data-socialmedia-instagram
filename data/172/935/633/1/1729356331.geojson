@@ -35,6 +35,50 @@
       "taken": 1562776080,
       "taken_at": "Jul 10, 2019, 4:28 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10130977630615234,
+          "id": 1729356339
+        },
+        {
+          "distance": 0.1359952688217163,
+          "id": 1729356347
+        },
+        {
+          "distance": 0.1693362593650818,
+          "id": 1729356339
+        },
+        {
+          "distance": 0.1785406470298767,
+          "id": 1729356347
+        },
+        {
+          "distance": 0.18576264381408691,
+          "id": 1729359231
+        },
+        {
+          "distance": 0.18812590837478638,
+          "id": 1729358859
+        },
+        {
+          "distance": 0.1975439190864563,
+          "id": 1729358939
+        },
+        {
+          "distance": 0.22021764516830444,
+          "id": 1729359231
+        },
+        {
+          "distance": 0.22562474012374878,
+          "id": 1729358989
+        },
+        {
+          "distance": 0.2264145016670227,
+          "id": 1729359001
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729356331,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "During the late 1930s, appliances for the office and home underwent a major transformation...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

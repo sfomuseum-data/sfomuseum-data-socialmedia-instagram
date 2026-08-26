@@ -42,6 +42,50 @@
       "taken": 1502270580,
       "taken_at": "Aug 09, 2017 9:23 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18814146518707275,
+          "id": 1729356635
+        },
+        {
+          "distance": 0.20433318614959717,
+          "id": 1729362903
+        },
+        {
+          "distance": 0.22001796960830688,
+          "id": 1729356635
+        },
+        {
+          "distance": 0.2297910451889038,
+          "id": 1729362903
+        },
+        {
+          "distance": 0.24946308135986328,
+          "id": 1947424901
+        },
+        {
+          "distance": 0.2522575855255127,
+          "id": 1729361021
+        },
+        {
+          "distance": 0.25362759828567505,
+          "id": 1947424901
+        },
+        {
+          "distance": 0.25994253158569336,
+          "id": 1729355951
+        },
+        {
+          "distance": 0.26008862257003784,
+          "id": 1729355545
+        },
+        {
+          "distance": 0.26318079233169556,
+          "id": 1729355545
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -71,7 +115,7 @@
       }
     ],
     "wof:id": 1729359209,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Did you know our library contains more than 8,000 books and periodicals on early, commercial, and military aviation?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -88,5 +132,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1467015660,
       "taken_at": "Jun 27, 2016 8:21 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10142815113067627,
+          "id": 1729360087
+        },
+        {
+          "distance": 0.13020455837249756,
+          "id": 1729360087
+        },
+        {
+          "distance": 0.25651103258132935,
+          "id": 1729360763
+        },
+        {
+          "distance": 0.2622029185295105,
+          "id": 1729360833
+        },
+        {
+          "distance": 0.26508629322052,
+          "id": 1729360295
+        },
+        {
+          "distance": 0.27891385555267334,
+          "id": 1729360295
+        },
+        {
+          "distance": 0.2835351228713989,
+          "id": 1729360833
+        },
+        {
+          "distance": 0.2917608618736267,
+          "id": 1729360271
+        },
+        {
+          "distance": 0.2979074716567993,
+          "id": 1729360715
+        },
+        {
+          "distance": 0.30179548263549805,
+          "id": 1729360659
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360581,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "San Francisco native Daniel Green’s artwork conveys an intense and playful fascination with American entertainment and popular culture...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

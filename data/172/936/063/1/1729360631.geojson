@@ -25,6 +25,50 @@
       "taken": 1465548420,
       "taken_at": "Jun 10, 2016 8:47 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.21744418144226074,
+          "id": 1729357175
+        },
+        {
+          "distance": 0.22082984447479248,
+          "id": 1729355169
+        },
+        {
+          "distance": 0.23096448183059692,
+          "id": 1729356319
+        },
+        {
+          "distance": 0.24051469564437866,
+          "id": 1729356319
+        },
+        {
+          "distance": 0.24576514959335327,
+          "id": 1729359455
+        },
+        {
+          "distance": 0.27505552768707275,
+          "id": 1729358285
+        },
+        {
+          "distance": 0.2913582921028137,
+          "id": 1729360649
+        },
+        {
+          "distance": 0.2917754054069519,
+          "id": 1729359455
+        },
+        {
+          "distance": 0.2921765446662903,
+          "id": 1729357175
+        },
+        {
+          "distance": 0.3031388521194458,
+          "id": 1947424925
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360631,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Happy Friday!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

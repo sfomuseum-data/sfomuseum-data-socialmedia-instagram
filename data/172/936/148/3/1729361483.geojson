@@ -25,6 +25,50 @@
       "taken": 1444041420,
       "taken_at": "Oct 05, 2015 10:37 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.137550950050354,
+          "id": 1729361407
+        },
+        {
+          "distance": 0.20363938808441162,
+          "id": 1729361407
+        },
+        {
+          "distance": 0.21642792224884033,
+          "id": 1729361777
+        },
+        {
+          "distance": 0.249012291431427,
+          "id": 1729361365
+        },
+        {
+          "distance": 0.24939972162246704,
+          "id": 1729361463
+        },
+        {
+          "distance": 0.2700592875480652,
+          "id": 1729359425
+        },
+        {
+          "distance": 0.2721571922302246,
+          "id": 1729361415
+        },
+        {
+          "distance": 0.27267879247665405,
+          "id": 1729357097
+        },
+        {
+          "distance": 0.28735047578811646,
+          "id": 1729356811
+        },
+        {
+          "distance": 0.31272774934768677,
+          "id": 1729356549
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361483,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "In 1932, Universal debuted The Mummy, spurred by an Egyptian craze after the discovery of King Tutankhamun’s tomb in the 1920s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

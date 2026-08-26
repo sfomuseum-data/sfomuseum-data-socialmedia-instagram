@@ -30,6 +30,50 @@
       "taken": 1570611900,
       "taken_at": "Oct 9, 2019, 9:05 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.285175621509552,
+          "id": 1729359425
+        },
+        {
+          "distance": 0.30200451612472534,
+          "id": 1763559087
+        },
+        {
+          "distance": 0.3031047582626343,
+          "id": 1729355597
+        },
+        {
+          "distance": 0.3068283200263977,
+          "id": 1763558965
+        },
+        {
+          "distance": 0.3074655532836914,
+          "id": 1947425317
+        },
+        {
+          "distance": 0.31721919775009155,
+          "id": 1763559493
+        },
+        {
+          "distance": 0.3194311857223511,
+          "id": 1880151091
+        },
+        {
+          "distance": 0.32677245140075684,
+          "id": 1729355677
+        },
+        {
+          "distance": 0.3278850317001343,
+          "id": 1729355597
+        },
+        {
+          "distance": 0.32924801111221313,
+          "id": 1880151205
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729356019,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777627,
     "wof:name": "“Welcome North, Welcome South, Welcome East, Welcome West” by Dan Snyder is a series of exuberant, waving figures and depictions of San Francisco landmarks highlight the wall piece, designed to greet and welcome visitors from around the world...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

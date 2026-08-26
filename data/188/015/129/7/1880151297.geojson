@@ -30,6 +30,50 @@
       "taken": 1669827540,
       "taken_at": "Nov 30, 2022 4:59 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.28905051946640015,
+          "id": 1729360765
+        },
+        {
+          "distance": 0.3003910779953003,
+          "id": 1729360795
+        },
+        {
+          "distance": 0.30731409788131714,
+          "id": 1729356449
+        },
+        {
+          "distance": 0.31303250789642334,
+          "id": 1947425171
+        },
+        {
+          "distance": 0.3130907416343689,
+          "id": 1729356387
+        },
+        {
+          "distance": 0.3138813376426697,
+          "id": 1880151187
+        },
+        {
+          "distance": 0.3156830072402954,
+          "id": 1729356025
+        },
+        {
+          "distance": 0.317807137966156,
+          "id": 1729358671
+        },
+        {
+          "distance": 0.31833791732788086,
+          "id": 1729357715
+        },
+        {
+          "distance": 0.3198084831237793,
+          "id": 1729360245
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151297,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "“If you had told me when I moved to San Francisco in 1998, ‘Kenn, you are going to be part of a museum’s permanent aviation collection and will love it,’ I would have thought you were out of your mind...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

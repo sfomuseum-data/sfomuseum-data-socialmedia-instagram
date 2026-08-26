@@ -30,6 +30,50 @@
       "taken": 1628870280,
       "taken_at": "Aug 13, 2021 3:58 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07449203729629517,
+          "id": 1763559433
+        },
+        {
+          "distance": 0.07755571603775024,
+          "id": 1763559205
+        },
+        {
+          "distance": 0.10964375734329224,
+          "id": 1763559205
+        },
+        {
+          "distance": 0.11686486005783081,
+          "id": 1763559227
+        },
+        {
+          "distance": 0.12484800815582275,
+          "id": 1763559433
+        },
+        {
+          "distance": 0.13049936294555664,
+          "id": 1763559227
+        },
+        {
+          "distance": 0.13461542129516602,
+          "id": 1763559245
+        },
+        {
+          "distance": 0.15792393684387207,
+          "id": 1763559157
+        },
+        {
+          "distance": 0.17724955081939697,
+          "id": 1763559245
+        },
+        {
+          "distance": 0.20444506406784058,
+          "id": 1763559157
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559463,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Effie (1889–1966) and Avis (1863–1958) Hotchkiss were the first women to ride across the United States on a motorcycle...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

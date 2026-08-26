@@ -38,6 +38,50 @@
       "taken": 1541063040,
       "taken_at": "Nov 1, 2018, 9:04 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.054880380630493164,
+          "id": 1729357457
+        },
+        {
+          "distance": 0.09585374593734741,
+          "id": 1729357457
+        },
+        {
+          "distance": 0.1461946964263916,
+          "id": 1729356887
+        },
+        {
+          "distance": 0.22358614206314087,
+          "id": 1729356887
+        },
+        {
+          "distance": 0.23661869764328003,
+          "id": 1729357451
+        },
+        {
+          "distance": 0.27124011516571045,
+          "id": 1729358445
+        },
+        {
+          "distance": 0.2734289765357971,
+          "id": 1729356743
+        },
+        {
+          "distance": 0.27941715717315674,
+          "id": 1729357505
+        },
+        {
+          "distance": 0.2836751937866211,
+          "id": 1729358591
+        },
+        {
+          "distance": 0.2859104871749878,
+          "id": 1729357067
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729357453,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777631,
     "wof:name": "Limited edition, bronze animal sculptures were a specialty of many Art Nouveau artists...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

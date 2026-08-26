@@ -27,6 +27,50 @@
       "taken": 1696834860,
       "taken_at": "Oct 09, 2023 7:01 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.05349940061569214,
+          "id": 1947424853
+        },
+        {
+          "distance": 0.053577423095703125,
+          "id": 1947424829
+        },
+        {
+          "distance": 0.055712342262268066,
+          "id": 1947424957
+        },
+        {
+          "distance": 0.0683211088180542,
+          "id": 1947425235
+        },
+        {
+          "distance": 0.06905686855316162,
+          "id": 1947425269
+        },
+        {
+          "distance": 0.0967714786529541,
+          "id": 1947424853
+        },
+        {
+          "distance": 0.09682220220565796,
+          "id": 1947424829
+        },
+        {
+          "distance": 0.09720242023468018,
+          "id": 1947425235
+        },
+        {
+          "distance": 0.0975416898727417,
+          "id": 1947425269
+        },
+        {
+          "distance": 0.11421215534210205,
+          "id": 1947424957
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947425273,
-    "wof:lastmodified": 1733175331,
+    "wof:lastmodified": 1787777664,
     "wof:name": "The Aviation Museum and Library is closed today to observe Indigenous Peoples’ Day and will reopen tomorrow, October 10th at 10am...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

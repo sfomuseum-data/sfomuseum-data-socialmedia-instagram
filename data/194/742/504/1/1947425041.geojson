@@ -32,6 +32,50 @@
       "taken": 1713283500,
       "taken_at": "Apr 16, 2024 4:05 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.003370344638824463,
+          "id": 1947425005
+        },
+        {
+          "distance": 0.008613407611846924,
+          "id": 1880151017
+        },
+        {
+          "distance": 0.008613407611846924,
+          "id": 1880151119
+        },
+        {
+          "distance": 0.011860549449920654,
+          "id": 1880150893
+        },
+        {
+          "distance": 0.011860549449920654,
+          "id": 1880151181
+        },
+        {
+          "distance": 0.011860549449920654,
+          "id": 1880150987
+        },
+        {
+          "distance": 0.011860549449920654,
+          "id": 1880150889
+        },
+        {
+          "distance": 0.011860549449920654,
+          "id": 1947425311
+        },
+        {
+          "distance": 0.011860549449920654,
+          "id": 1947425239
+        },
+        {
+          "distance": 0.011860549449920654,
+          "id": 1947425279
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1947425041,
-    "wof:lastmodified": 1733175324,
+    "wof:lastmodified": 1787777664,
     "wof:name": "\"I was first aware of my identity when I was like six or seven years old...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1485285900,
       "taken_at": "Jan 24, 2017 7:25 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1281002163887024,
+          "id": 1729359961
+        },
+        {
+          "distance": 0.14165818691253662,
+          "id": 1729355439
+        },
+        {
+          "distance": 0.16989797353744507,
+          "id": 1729359869
+        },
+        {
+          "distance": 0.2084323763847351,
+          "id": 1729355439
+        },
+        {
+          "distance": 0.22466719150543213,
+          "id": 1729359961
+        },
+        {
+          "distance": 0.2310228943824768,
+          "id": 1729360239
+        },
+        {
+          "distance": 0.23143422603607178,
+          "id": 1729359869
+        },
+        {
+          "distance": 0.2540261745452881,
+          "id": 1729359827
+        },
+        {
+          "distance": 0.26105713844299316,
+          "id": 1729359331
+        },
+        {
+          "distance": 0.262579083442688,
+          "id": 1729359223
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359881,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "This illustration is from the second part of \"Oriental Scenery\" by Thomas and William Daniell, published from 1795 to 1807...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

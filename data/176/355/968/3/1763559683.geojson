@@ -30,6 +30,50 @@
       "taken": 1639760220,
       "taken_at": "Dec 17, 2021 4:57 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.019504904747009277,
+          "id": 1729358813
+        },
+        {
+          "distance": 0.028331398963928223,
+          "id": 1729357217
+        },
+        {
+          "distance": 0.0781862735748291,
+          "id": 1729357217
+        },
+        {
+          "distance": 0.0795087218284607,
+          "id": 1729358813
+        },
+        {
+          "distance": 0.12244778871536255,
+          "id": 1729361265
+        },
+        {
+          "distance": 0.1434994339942932,
+          "id": 1729361265
+        },
+        {
+          "distance": 0.19174152612686157,
+          "id": 1763558923
+        },
+        {
+          "distance": 0.2140023112297058,
+          "id": 1880151641
+        },
+        {
+          "distance": 0.2168228030204773,
+          "id": 1763558923
+        },
+        {
+          "distance": 0.21697980165481567,
+          "id": 1880151107
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559683,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Today is Pan American Aviation Day...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

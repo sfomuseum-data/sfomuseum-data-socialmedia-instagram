@@ -29,6 +29,50 @@
       "taken": 1568798580,
       "taken_at": "Sep 18, 2019 9:23 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09527510404586792,
+          "id": 1729356193
+        },
+        {
+          "distance": 0.20426017045974731,
+          "id": 1729356193
+        },
+        {
+          "distance": 0.21753543615341187,
+          "id": 1729355363
+        },
+        {
+          "distance": 0.2210589051246643,
+          "id": 1729355951
+        },
+        {
+          "distance": 0.2216842770576477,
+          "id": 1880151393
+        },
+        {
+          "distance": 0.22280222177505493,
+          "id": 1763558925
+        },
+        {
+          "distance": 0.22350960969924927,
+          "id": 1763559129
+        },
+        {
+          "distance": 0.2244037389755249,
+          "id": 1763558925
+        },
+        {
+          "distance": 0.23520177602767944,
+          "id": 1947424999
+        },
+        {
+          "distance": 0.24072211980819702,
+          "id": 1947424899
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729356071,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777628,
     "wof:name": "It's Ask a Curator day!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

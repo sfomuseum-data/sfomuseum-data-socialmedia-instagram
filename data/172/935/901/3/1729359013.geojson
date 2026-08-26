@@ -31,6 +31,50 @@
       "taken": 1507458120,
       "taken_at": "Oct 08, 2017 10:22 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.28871220350265503,
+          "id": 1729360829
+        },
+        {
+          "distance": 0.3038833737373352,
+          "id": 1947424975
+        },
+        {
+          "distance": 0.3184240460395813,
+          "id": 1947425317
+        },
+        {
+          "distance": 0.3292800188064575,
+          "id": 1729360829
+        },
+        {
+          "distance": 0.3412189483642578,
+          "id": 1880150891
+        },
+        {
+          "distance": 0.3452671766281128,
+          "id": 1729359635
+        },
+        {
+          "distance": 0.3525858521461487,
+          "id": 1729355597
+        },
+        {
+          "distance": 0.3538333773612976,
+          "id": 1763559493
+        },
+        {
+          "distance": 0.3545617461204529,
+          "id": 1729360993
+        },
+        {
+          "distance": 0.3589887022972107,
+          "id": 1729359425
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729359013,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777634,
     "wof:name": "An image of two Jarabe Tapatio dancers, performing what is known as in English as the Mexican Hat Dance, are shown in motion from the waist down...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

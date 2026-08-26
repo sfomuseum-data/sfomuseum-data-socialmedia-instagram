@@ -38,6 +38,50 @@
       "taken": 1535623860,
       "taken_at": "Aug 30, 2018, 10:11 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1293153166770935,
+          "id": 1729358735
+        },
+        {
+          "distance": 0.1369084119796753,
+          "id": 1729359887
+        },
+        {
+          "distance": 0.14991462230682373,
+          "id": 1729358735
+        },
+        {
+          "distance": 0.1625698208808899,
+          "id": 1729358737
+        },
+        {
+          "distance": 0.1753360629081726,
+          "id": 1729358737
+        },
+        {
+          "distance": 0.17814874649047852,
+          "id": 1729358725
+        },
+        {
+          "distance": 0.17929232120513916,
+          "id": 1729358611
+        },
+        {
+          "distance": 0.18070316314697266,
+          "id": 1729357739
+        },
+        {
+          "distance": 0.19372063875198364,
+          "id": 1729358725
+        },
+        {
+          "distance": 0.1950240135192871,
+          "id": 1729358611
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729357723,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Fortune-telling was so fashionable in the first half of the 20th century that some machines, such as The Gypsy Fortune Teller, advertised the subject and did not actually offer a fortune...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

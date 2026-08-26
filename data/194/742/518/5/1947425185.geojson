@@ -30,6 +30,50 @@
       "taken": 1702995840,
       "taken_at": "Dec 19, 2023 2:24 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09255540370941162,
+          "id": 1880151253
+        },
+        {
+          "distance": 0.13291674852371216,
+          "id": 1880151253
+        },
+        {
+          "distance": 0.14222586154937744,
+          "id": 1880151069
+        },
+        {
+          "distance": 0.14412915706634521,
+          "id": 1729359429
+        },
+        {
+          "distance": 0.14664041996002197,
+          "id": 1729357871
+        },
+        {
+          "distance": 0.16899502277374268,
+          "id": 1729355723
+        },
+        {
+          "distance": 0.1790299415588379,
+          "id": 1880151299
+        },
+        {
+          "distance": 0.17927628755569458,
+          "id": 1729355703
+        },
+        {
+          "distance": 0.18300271034240723,
+          "id": 1880151137
+        },
+        {
+          "distance": 0.18302392959594727,
+          "id": 1947425089
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1947425185,
-    "wof:lastmodified": 1733175328,
+    "wof:lastmodified": 1787777664,
     "wof:name": "For “Long Arc of Day,” by Kim Anno, Anno combined historical scenes of the San Francisco Bay and the surrounding California landscape into one image...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -40,6 +40,50 @@
       "taken": 1532202840,
       "taken_at": "Jul 21, 2018, 7:54 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2513270378112793,
+          "id": 1947424789
+        },
+        {
+          "distance": 0.25155723094940186,
+          "id": 1729360057
+        },
+        {
+          "distance": 0.2933397889137268,
+          "id": 1729356191
+        },
+        {
+          "distance": 0.2977936267852783,
+          "id": 1729358233
+        },
+        {
+          "distance": 0.2977936267852783,
+          "id": 1763558729
+        },
+        {
+          "distance": 0.30299967527389526,
+          "id": 1729360057
+        },
+        {
+          "distance": 0.30891698598861694,
+          "id": 1729356191
+        },
+        {
+          "distance": 0.3242766857147217,
+          "id": 1729361113
+        },
+        {
+          "distance": 0.3319018483161926,
+          "id": 1729355613
+        },
+        {
+          "distance": 0.33224016427993774,
+          "id": 1729358239
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729357923,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777632,
     "wof:name": "In one of the lesser-known public works projects undertaken by President Franklin D. Roosevelt’s New Deal, three “Greenbelt Towns” were designed and built by the U.S. Government between 1935 and 1938: Greenbelt, Maryland; Greendale, Wisconsin; and Greenhills, Ohio...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1456426140,
       "taken_at": "Feb 25, 2016 6:49 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13745564222335815,
+          "id": 1729355165
+        },
+        {
+          "distance": 0.16235411167144775,
+          "id": 1763558959
+        },
+        {
+          "distance": 0.1782957911491394,
+          "id": 1729355035
+        },
+        {
+          "distance": 0.1835390329360962,
+          "id": 1729356131
+        },
+        {
+          "distance": 0.18620586395263672,
+          "id": 1729361735
+        },
+        {
+          "distance": 0.18642514944076538,
+          "id": 1880151167
+        },
+        {
+          "distance": 0.18959087133407593,
+          "id": 1880151063
+        },
+        {
+          "distance": 0.19541436433792114,
+          "id": 1729359077
+        },
+        {
+          "distance": 0.19666236639022827,
+          "id": 1729356859
+        },
+        {
+          "distance": 0.19669204950332642,
+          "id": 1729355207
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361019,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777641,
     "wof:name": "Southwest Airways began commercial commuter passenger operations in 1946...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

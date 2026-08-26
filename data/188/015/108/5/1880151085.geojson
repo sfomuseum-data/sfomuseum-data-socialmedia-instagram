@@ -25,6 +25,50 @@
       "taken": 1678121040,
       "taken_at": "Mar 06, 2023 4:44 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.03426474332809448,
+          "id": 1729357751
+        },
+        {
+          "distance": 0.03709840774536133,
+          "id": 1729361573
+        },
+        {
+          "distance": 0.08725130558013916,
+          "id": 1763559539
+        },
+        {
+          "distance": 0.12491178512573242,
+          "id": 1729358409
+        },
+        {
+          "distance": 0.12533044815063477,
+          "id": 1763559539
+        },
+        {
+          "distance": 0.12594258785247803,
+          "id": 1729359019
+        },
+        {
+          "distance": 0.13120394945144653,
+          "id": 1729356581
+        },
+        {
+          "distance": 0.13873744010925293,
+          "id": 1729356749
+        },
+        {
+          "distance": 0.14571136236190796,
+          "id": 1729361263
+        },
+        {
+          "distance": 0.1544824242591858,
+          "id": 1729359019
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1880151085,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "This month on #52Objects, SFO Museum celebrates pioneering #WomeninAviation...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

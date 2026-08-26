@@ -29,6 +29,50 @@
       "taken": 1605205740,
       "taken_at": "Nov 12, 2020 6:29 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17046838998794556,
+          "id": 1763558929
+        },
+        {
+          "distance": 0.17301476001739502,
+          "id": 1729355227
+        },
+        {
+          "distance": 0.1820417046546936,
+          "id": 1729355899
+        },
+        {
+          "distance": 0.18677634000778198,
+          "id": 1729357125
+        },
+        {
+          "distance": 0.18699586391448975,
+          "id": 1729358177
+        },
+        {
+          "distance": 0.18880236148834229,
+          "id": 1880151215
+        },
+        {
+          "distance": 0.21854007244110107,
+          "id": 1729355227
+        },
+        {
+          "distance": 0.22085589170455933,
+          "id": 1729359877
+        },
+        {
+          "distance": 0.2216172218322754,
+          "id": 1763558929
+        },
+        {
+          "distance": 0.2232605218887329,
+          "id": 1729355899
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1763558993,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Lesser known and slightly older than the Golden Gate Bridge, the San Francisco-Oakland Bay Bridge has one of the longest spans in the United States and carries over 260,000 cars each day...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }
