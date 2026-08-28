@@ -28,6 +28,50 @@
       "taken": 1608891240,
       "taken_at": "Dec 25, 2020 10:14 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.29615992307662964,
+          "id": 1880151277
+        },
+        {
+          "distance": 0.30436116456985474,
+          "id": 1880151277
+        },
+        {
+          "distance": 0.3540762662887573,
+          "id": 1729360535
+        },
+        {
+          "distance": 0.36461687088012695,
+          "id": 1729360535
+        },
+        {
+          "distance": 0.37742310762405396,
+          "id": 1729359835
+        },
+        {
+          "distance": 0.40286076068878174,
+          "id": 1947425191
+        },
+        {
+          "distance": 0.4077093005180359,
+          "id": 1880151431
+        },
+        {
+          "distance": 0.41115230321884155,
+          "id": 1729360075
+        },
+        {
+          "distance": 0.4223107099533081,
+          "id": 1763559609
+        },
+        {
+          "distance": 0.4259348511695862,
+          "id": 1947425191
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1763558953,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Merry Christmas from SFO Museum...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

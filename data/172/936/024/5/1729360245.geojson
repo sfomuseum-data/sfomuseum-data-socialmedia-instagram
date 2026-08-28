@@ -29,6 +29,50 @@
       "taken": 1476177900,
       "taken_at": "Oct 11, 2016 9:25 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17727047204971313,
+          "id": 1729359343
+        },
+        {
+          "distance": 0.17831772565841675,
+          "id": 1729355059
+        },
+        {
+          "distance": 0.18414783477783203,
+          "id": 1880151305
+        },
+        {
+          "distance": 0.19620174169540405,
+          "id": 1763558907
+        },
+        {
+          "distance": 0.19661599397659302,
+          "id": 1947425087
+        },
+        {
+          "distance": 0.20028376579284668,
+          "id": 1880151401
+        },
+        {
+          "distance": 0.20351457595825195,
+          "id": 1763558925
+        },
+        {
+          "distance": 0.2039150595664978,
+          "id": 1880151187
+        },
+        {
+          "distance": 0.20396840572357178,
+          "id": 1729360823
+        },
+        {
+          "distance": 0.2044278383255005,
+          "id": 1729358347
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729360245,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "This is your last week to catch \"A Potter's Life: #MargueriteWildenhain at #PondFarm\", on display, post-security, in Terminal 2 ...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

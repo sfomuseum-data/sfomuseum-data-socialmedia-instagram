@@ -51,6 +51,50 @@
       "taken": 1513192140,
       "taken_at": "Dec 13, 2017, 7:09 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.22903412580490112,
+          "id": 1729358825
+        },
+        {
+          "distance": 0.26337891817092896,
+          "id": 1729358825
+        },
+        {
+          "distance": 0.2853764295578003,
+          "id": 1729359919
+        },
+        {
+          "distance": 0.2876726984977722,
+          "id": 1729359091
+        },
+        {
+          "distance": 0.30670613050460815,
+          "id": 1880151205
+        },
+        {
+          "distance": 0.3092873692512512,
+          "id": 1729358889
+        },
+        {
+          "distance": 0.3178291916847229,
+          "id": 1729362347
+        },
+        {
+          "distance": 0.32030439376831055,
+          "id": 1729359919
+        },
+        {
+          "distance": 0.3246942162513733,
+          "id": 1729358545
+        },
+        {
+          "distance": 0.34271687269210815,
+          "id": 1729358521
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -80,7 +124,7 @@
       }
     ],
     "wof:id": 1729358819,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Fraktur, or illuminated Germanic documents, employ a combination of ink and watercolor and can be easily recognized by its elaborate decoration...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -97,5 +141,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

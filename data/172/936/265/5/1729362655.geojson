@@ -25,6 +25,50 @@
       "taken": 1371206520,
       "taken_at": "Jun 14, 2013 10:42 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1886734962463379,
+          "id": 1729362229
+        },
+        {
+          "distance": 0.18947243690490723,
+          "id": 1729362817
+        },
+        {
+          "distance": 0.20270133018493652,
+          "id": 1729363061
+        },
+        {
+          "distance": 0.21513080596923828,
+          "id": 1729362617
+        },
+        {
+          "distance": 0.21524465084075928,
+          "id": 1729362817
+        },
+        {
+          "distance": 0.22785615921020508,
+          "id": 1729362541
+        },
+        {
+          "distance": 0.2286739945411682,
+          "id": 1729362373
+        },
+        {
+          "distance": 0.2328994870185852,
+          "id": 1729362721
+        },
+        {
+          "distance": 0.23647856712341309,
+          "id": 1729362617
+        },
+        {
+          "distance": 0.24228721857070923,
+          "id": 1729362475
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362655,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "A rare 1930s, 1:39 scale model of an American Airlines Douglas Sleeper Transport...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

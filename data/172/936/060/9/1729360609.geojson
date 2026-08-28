@@ -25,6 +25,50 @@
       "taken": 1466330760,
       "taken_at": "Jun 19, 2016 10:06 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3979155421257019,
+          "id": 1729360695
+        },
+        {
+          "distance": 0.4170265793800354,
+          "id": 1947425183
+        },
+        {
+          "distance": 0.4192653298377991,
+          "id": 1729360993
+        },
+        {
+          "distance": 0.4206885099411011,
+          "id": 1729355999
+        },
+        {
+          "distance": 0.42292630672454834,
+          "id": 1729355561
+        },
+        {
+          "distance": 0.4242439270019531,
+          "id": 1729355367
+        },
+        {
+          "distance": 0.43271052837371826,
+          "id": 1729359923
+        },
+        {
+          "distance": 0.43475550413131714,
+          "id": 1729356743
+        },
+        {
+          "distance": 0.43649327754974365,
+          "id": 1729362613
+        },
+        {
+          "distance": 0.4365200400352478,
+          "id": 1729355561
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360609,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "The Ruth Asawa San Francisco School of the Arts (SOTA) located in the Diamond Heights neighborhood of San Francisco, is a four-year public high school serving students who excel in visual, performing, and creative arts...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

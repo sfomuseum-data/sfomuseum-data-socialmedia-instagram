@@ -25,6 +25,50 @@
       "taken": 1329906480,
       "taken_at": "Feb 22, 2012 10:28 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2199794054031372,
+          "id": 1763559237
+        },
+        {
+          "distance": 0.22677487134933472,
+          "id": 1729356835
+        },
+        {
+          "distance": 0.24957984685897827,
+          "id": 1729356891
+        },
+        {
+          "distance": 0.2647861838340759,
+          "id": 1729356891
+        },
+        {
+          "distance": 0.2651413083076477,
+          "id": 1729357527
+        },
+        {
+          "distance": 0.2657512426376343,
+          "id": 1729362115
+        },
+        {
+          "distance": 0.2660943269729614,
+          "id": 1763559237
+        },
+        {
+          "distance": 0.26991236209869385,
+          "id": 1880150917
+        },
+        {
+          "distance": 0.2700382471084595,
+          "id": 1729357431
+        },
+        {
+          "distance": 0.27112603187561035,
+          "id": 1729357779
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729363055,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777658,
     "wof:name": "Elvis Presley hit the music charts for the 1st time w/ \"Heartbreak Hotel\" OTD in 1956..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

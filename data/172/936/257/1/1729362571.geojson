@@ -25,6 +25,50 @@
       "taken": 1378288560,
       "taken_at": "Sep 04, 2013 9:56 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.25545138120651245,
+          "id": 1729362949
+        },
+        {
+          "distance": 0.25760704278945923,
+          "id": 1729362477
+        },
+        {
+          "distance": 0.2603294253349304,
+          "id": 1729362515
+        },
+        {
+          "distance": 0.2648856043815613,
+          "id": 1729359185
+        },
+        {
+          "distance": 0.27072811126708984,
+          "id": 1729362719
+        },
+        {
+          "distance": 0.2720078229904175,
+          "id": 1729362743
+        },
+        {
+          "distance": 0.2746284008026123,
+          "id": 1729362291
+        },
+        {
+          "distance": 0.28187096118927,
+          "id": 1729362515
+        },
+        {
+          "distance": 0.2852212190628052,
+          "id": 1729358913
+        },
+        {
+          "distance": 0.286230206489563,
+          "id": 1729360393
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362571,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "Photos, notes, and blue painter's tape are our exhibition preparator's best friends...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

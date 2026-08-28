@@ -25,6 +25,50 @@
       "taken": 1442945760,
       "taken_at": "Sep 22, 2015 6:16 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09308505058288574,
+          "id": 1729361757
+        },
+        {
+          "distance": 0.16085058450698853,
+          "id": 1729361757
+        },
+        {
+          "distance": 0.24723589420318604,
+          "id": 1729361369
+        },
+        {
+          "distance": 0.29388612508773804,
+          "id": 1729361737
+        },
+        {
+          "distance": 0.29394054412841797,
+          "id": 1729361369
+        },
+        {
+          "distance": 0.3158290982246399,
+          "id": 1729361491
+        },
+        {
+          "distance": 0.3205549120903015,
+          "id": 1729361537
+        },
+        {
+          "distance": 0.3208554983139038,
+          "id": 1729356429
+        },
+        {
+          "distance": 0.3210400938987732,
+          "id": 1729356295
+        },
+        {
+          "distance": 0.321349561214447,
+          "id": 1729355817
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361515,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "Can you imagine swimming beside a 7-foot-long fish?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

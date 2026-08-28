@@ -48,6 +48,50 @@
       "taken": 1506534840,
       "taken_at": "Sep 27, 2017 5:54 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.28924787044525146,
+          "id": 1729361183
+        },
+        {
+          "distance": 0.32154834270477295,
+          "id": 1729357397
+        },
+        {
+          "distance": 0.34520697593688965,
+          "id": 1729357363
+        },
+        {
+          "distance": 0.3531678318977356,
+          "id": 1729357381
+        },
+        {
+          "distance": 0.3555248975753784,
+          "id": 1880151177
+        },
+        {
+          "distance": 0.3659878969192505,
+          "id": 1729358139
+        },
+        {
+          "distance": 0.36984556913375854,
+          "id": 1763559483
+        },
+        {
+          "distance": 0.3707221746444702,
+          "id": 1729361183
+        },
+        {
+          "distance": 0.3803741931915283,
+          "id": 1729358139
+        },
+        {
+          "distance": 0.3811318874359131,
+          "id": 1729357357
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -77,7 +121,7 @@
       }
     ],
     "wof:id": 1729359053,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Pilots are outfitted with military style, two-piece suit uniforms and hats...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -94,5 +138,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

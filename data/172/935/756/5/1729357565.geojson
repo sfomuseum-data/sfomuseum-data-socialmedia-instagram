@@ -40,6 +40,50 @@
       "taken": 1539328560,
       "taken_at": "Oct 12, 2018 7:16 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.28408169746398926,
+          "id": 1729358321
+        },
+        {
+          "distance": 0.2921355962753296,
+          "id": 1729358321
+        },
+        {
+          "distance": 0.29414260387420654,
+          "id": 1729358197
+        },
+        {
+          "distance": 0.29497605562210083,
+          "id": 1729358197
+        },
+        {
+          "distance": 0.35636550188064575,
+          "id": 1729355641
+        },
+        {
+          "distance": 0.35843145847320557,
+          "id": 1763559021
+        },
+        {
+          "distance": 0.3625097870826721,
+          "id": 1729361719
+        },
+        {
+          "distance": 0.367737352848053,
+          "id": 1729357297
+        },
+        {
+          "distance": 0.37591123580932617,
+          "id": 1729361719
+        },
+        {
+          "distance": 0.3827182650566101,
+          "id": 1729355641
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729357565,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777632,
     "wof:name": "National #ComingOutDay was yesterday!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

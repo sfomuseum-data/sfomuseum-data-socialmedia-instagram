@@ -49,6 +49,50 @@
       "taken": 1510058100,
       "taken_at": "Nov 07, 2017 12:35 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.004549264907836914,
+          "id": 1729358929
+        },
+        {
+          "distance": 0.05860954523086548,
+          "id": 1729358929
+        },
+        {
+          "distance": 0.14207321405410767,
+          "id": 1729359895
+        },
+        {
+          "distance": 0.14207321405410767,
+          "id": 1763558657
+        },
+        {
+          "distance": 0.1470821499824524,
+          "id": 1763558957
+        },
+        {
+          "distance": 0.15039962530136108,
+          "id": 1729358663
+        },
+        {
+          "distance": 0.15156322717666626,
+          "id": 1729355477
+        },
+        {
+          "distance": 0.15306711196899414,
+          "id": 1729358833
+        },
+        {
+          "distance": 0.1533253788948059,
+          "id": 1729356407
+        },
+        {
+          "distance": 0.1536737084388733,
+          "id": 1729355649
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -78,7 +122,7 @@
       }
     ],
     "wof:id": 1763558705,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777659,
     "wof:name": "2017 marks the end of an era for United Airlines: it will cease to fly the iconic Boeing 747 on commercial routes...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -95,5 +139,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

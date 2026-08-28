@@ -30,6 +30,50 @@
       "taken": 1617379380,
       "taken_at": "Apr 02, 2021 4:03 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07435077428817749,
+          "id": 1763559433
+        },
+        {
+          "distance": 0.07755756378173828,
+          "id": 1763559463
+        },
+        {
+          "distance": 0.08030855655670166,
+          "id": 1763559227
+        },
+        {
+          "distance": 0.09994101524353027,
+          "id": 1763559245
+        },
+        {
+          "distance": 0.11040818691253662,
+          "id": 1763559463
+        },
+        {
+          "distance": 0.1123386025428772,
+          "id": 1763559227
+        },
+        {
+          "distance": 0.12016540765762329,
+          "id": 1763559433
+        },
+        {
+          "distance": 0.15265023708343506,
+          "id": 1763559245
+        },
+        {
+          "distance": 0.17199891805648804,
+          "id": 1763559157
+        },
+        {
+          "distance": 0.17502468824386597,
+          "id": 1763559121
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559205,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Harley-Davidson survives as the only continuously operating company of the approximately 100 motorcycle manufacturers that existed in the United States during the early twentieth century...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

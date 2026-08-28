@@ -29,6 +29,50 @@
       "taken": 1672852560,
       "taken_at": "Jan 04, 2023 5:16 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2271047830581665,
+          "id": 1763559499
+        },
+        {
+          "distance": 0.2520190477371216,
+          "id": 1729361467
+        },
+        {
+          "distance": 0.26223576068878174,
+          "id": 1729359625
+        },
+        {
+          "distance": 0.2724621295928955,
+          "id": 1729359139
+        },
+        {
+          "distance": 0.280933141708374,
+          "id": 1763559499
+        },
+        {
+          "distance": 0.3177475333213806,
+          "id": 1763559147
+        },
+        {
+          "distance": 0.3271902799606323,
+          "id": 1763559643
+        },
+        {
+          "distance": 0.32814645767211914,
+          "id": 1729360313
+        },
+        {
+          "distance": 0.32876360416412354,
+          "id": 1729356405
+        },
+        {
+          "distance": 0.3307937979698181,
+          "id": 1729359625
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880151209,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "We are saddened to hear about the recent passing of Dame Vivienne Westwood...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

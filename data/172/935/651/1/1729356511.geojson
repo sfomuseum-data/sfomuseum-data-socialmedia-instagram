@@ -32,6 +32,50 @@
       "taken": 1559050560,
       "taken_at": "May 28, 2019, 1:36 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06305670738220215,
+          "id": 1729356513
+        },
+        {
+          "distance": 0.11427563428878784,
+          "id": 1729356513
+        },
+        {
+          "distance": 0.1457461714744568,
+          "id": 1729358359
+        },
+        {
+          "distance": 0.170362651348114,
+          "id": 1729358295
+        },
+        {
+          "distance": 0.17155897617340088,
+          "id": 1729358223
+        },
+        {
+          "distance": 0.17321360111236572,
+          "id": 1729358359
+        },
+        {
+          "distance": 0.17493832111358643,
+          "id": 1729358345
+        },
+        {
+          "distance": 0.18448233604431152,
+          "id": 1729358375
+        },
+        {
+          "distance": 0.18906670808792114,
+          "id": 1729357825
+        },
+        {
+          "distance": 0.19204771518707275,
+          "id": 1729357589
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729356511,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "During the 1930s and ‘40s, as new forms of entertainment were electronically transmitted along radio waves from venues and broadcast stations to the public in their homes, the streamline designs of radios further conveyed the idea of technological progress...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

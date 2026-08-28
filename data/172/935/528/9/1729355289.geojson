@@ -25,6 +25,50 @@
       "taken": 1588594620,
       "taken_at": "May 04, 2020 12:17 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.010886788368225098,
+          "id": 1729357759
+        },
+        {
+          "distance": 0.10554385185241699,
+          "id": 1729357759
+        },
+        {
+          "distance": 0.21655571460723877,
+          "id": 1880151713
+        },
+        {
+          "distance": 0.23612254858016968,
+          "id": 1729357999
+        },
+        {
+          "distance": 0.24904972314834595,
+          "id": 1729355707
+        },
+        {
+          "distance": 0.2534661293029785,
+          "id": 1880151713
+        },
+        {
+          "distance": 0.2564215064048767,
+          "id": 1763558931
+        },
+        {
+          "distance": 0.2569854259490967,
+          "id": 1763559555
+        },
+        {
+          "distance": 0.2617930769920349,
+          "id": 1729355723
+        },
+        {
+          "distance": 0.2651457190513611,
+          "id": 1729359429
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729355289,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777622,
     "wof:name": "Happy #BirdDay from our public art collection!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

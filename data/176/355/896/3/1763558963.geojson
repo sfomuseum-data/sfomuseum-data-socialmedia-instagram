@@ -25,6 +25,50 @@
       "taken": 1608053280,
       "taken_at": "Dec 15, 2020 5:28 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.026235103607177734,
+          "id": 1763559313
+        },
+        {
+          "distance": 0.07800477743148804,
+          "id": 1763559313
+        },
+        {
+          "distance": 0.10275429487228394,
+          "id": 1729355709
+        },
+        {
+          "distance": 0.13342446088790894,
+          "id": 1763559403
+        },
+        {
+          "distance": 0.136796772480011,
+          "id": 1729355709
+        },
+        {
+          "distance": 0.13742071390151978,
+          "id": 1763559343
+        },
+        {
+          "distance": 0.15288466215133667,
+          "id": 1729359579
+        },
+        {
+          "distance": 0.16057652235031128,
+          "id": 1729356565
+        },
+        {
+          "distance": 0.16281473636627197,
+          "id": 1763559343
+        },
+        {
+          "distance": 0.16567295789718628,
+          "id": 1729358315
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1763558963,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "#Onthisday in 2009, the Boeing 787 took off on its maiden flight...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

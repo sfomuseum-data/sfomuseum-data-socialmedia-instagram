@@ -36,6 +36,50 @@
       "taken": 1554288960,
       "taken_at": "Apr 03, 2019 10:56 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.040729403495788574,
+          "id": 1729356655
+        },
+        {
+          "distance": 0.11130058765411377,
+          "id": 1729357111
+        },
+        {
+          "distance": 0.11274504661560059,
+          "id": 1763558799
+        },
+        {
+          "distance": 0.1191205382347107,
+          "id": 1729357111
+        },
+        {
+          "distance": 0.12027513980865479,
+          "id": 1763558799
+        },
+        {
+          "distance": 0.13466709852218628,
+          "id": 1729356655
+        },
+        {
+          "distance": 0.15388983488082886,
+          "id": 1729356761
+        },
+        {
+          "distance": 0.22524511814117432,
+          "id": 1729356997
+        },
+        {
+          "distance": 0.23436009883880615,
+          "id": 1729357229
+        },
+        {
+          "distance": 0.23722761869430542,
+          "id": 1729357239
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729356713,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Theresa Nguyen is a designer-silversmith who is fascinated by the process of transforming an ordinary sheet of silver into a lifelike, sculptural form...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

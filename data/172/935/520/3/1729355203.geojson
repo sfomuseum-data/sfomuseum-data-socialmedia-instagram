@@ -27,6 +27,50 @@
       "taken": 1594224000,
       "taken_at": "Jul 08, 2020 4:00 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.225502610206604,
+          "id": 1729356011
+        },
+        {
+          "distance": 0.22996681928634644,
+          "id": 1729355371
+        },
+        {
+          "distance": 0.24380064010620117,
+          "id": 1729355371
+        },
+        {
+          "distance": 0.2438223958015442,
+          "id": 1729356011
+        },
+        {
+          "distance": 0.2786663770675659,
+          "id": 1729356097
+        },
+        {
+          "distance": 0.3366623520851135,
+          "id": 1729356097
+        },
+        {
+          "distance": 0.34718793630599976,
+          "id": 1729356133
+        },
+        {
+          "distance": 0.35782861709594727,
+          "id": 1729356157
+        },
+        {
+          "distance": 0.35962730646133423,
+          "id": 1729355641
+        },
+        {
+          "distance": 0.3652212619781494,
+          "id": 1729355639
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1729355203,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777619,
     "wof:name": "Enjoy being an armchair traveler while learning more about \"Zuber: The Art of French Scenic Wallpaper.\"..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -73,5 +117,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1466097780,
       "taken_at": "Jun 16, 2016 5:23 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1579151749610901,
+          "id": 1729355161
+        },
+        {
+          "distance": 0.1722954511642456,
+          "id": 1729358405
+        },
+        {
+          "distance": 0.175157368183136,
+          "id": 1763559131
+        },
+        {
+          "distance": 0.17843788862228394,
+          "id": 1729355207
+        },
+        {
+          "distance": 0.1803680658340454,
+          "id": 1729357057
+        },
+        {
+          "distance": 0.1819620132446289,
+          "id": 1729355165
+        },
+        {
+          "distance": 0.18330812454223633,
+          "id": 1729359159
+        },
+        {
+          "distance": 0.18791913986206055,
+          "id": 1729360465
+        },
+        {
+          "distance": 0.1941542625427246,
+          "id": 1763559677
+        },
+        {
+          "distance": 0.1970282793045044,
+          "id": 1729355161
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360607,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "The cars and the airlines may have changed but the curbside at SFO still looks similar to how it did in the 1970s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

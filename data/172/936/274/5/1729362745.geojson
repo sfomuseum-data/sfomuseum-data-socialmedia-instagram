@@ -25,6 +25,50 @@
       "taken": 1365773280,
       "taken_at": "Apr 12, 2013 1:28 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3253629803657532,
+          "id": 1729362449
+        },
+        {
+          "distance": 0.32798445224761963,
+          "id": 1729362495
+        },
+        {
+          "distance": 0.33698195219039917,
+          "id": 1729362449
+        },
+        {
+          "distance": 0.34735435247421265,
+          "id": 1729362379
+        },
+        {
+          "distance": 0.3590393662452698,
+          "id": 1729362355
+        },
+        {
+          "distance": 0.3631959557533264,
+          "id": 1729362379
+        },
+        {
+          "distance": 0.36491286754608154,
+          "id": 1729362797
+        },
+        {
+          "distance": 0.367601215839386,
+          "id": 1729362739
+        },
+        {
+          "distance": 0.37090831995010376,
+          "id": 1729362867
+        },
+        {
+          "distance": 0.3720579743385315,
+          "id": 1729362495
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362745,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "While at #Recology, Sirron Norris addressed gentrification in San Francisco with repainted toys in his signature \"Cartoon Literalism\"..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

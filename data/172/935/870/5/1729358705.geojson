@@ -25,6 +25,50 @@
       "taken": 1515931500,
       "taken_at": "Jan 14, 2018 12:05 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.25116080045700073,
+          "id": 1729358177
+        },
+        {
+          "distance": 0.2575141191482544,
+          "id": 1729361381
+        },
+        {
+          "distance": 0.25769108533859253,
+          "id": 1729355227
+        },
+        {
+          "distance": 0.2599843740463257,
+          "id": 1729358177
+        },
+        {
+          "distance": 0.2613048553466797,
+          "id": 1763558929
+        },
+        {
+          "distance": 0.26246994733810425,
+          "id": 1729358875
+        },
+        {
+          "distance": 0.2675430178642273,
+          "id": 1729361381
+        },
+        {
+          "distance": 0.27750980854034424,
+          "id": 1729360677
+        },
+        {
+          "distance": 0.2815026044845581,
+          "id": 1880151215
+        },
+        {
+          "distance": 0.28335386514663696,
+          "id": 1729357125
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729358705,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "In the early 1930s, the United States government commissioned a group of photographers under the Farm Security Administration (FSA) to document the daily lives, working conditions, and plight of Americans during the Great Depression and into World War II...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

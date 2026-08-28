@@ -33,6 +33,50 @@
       "taken": 1545840360,
       "taken_at": "Dec 26, 2018 4:06 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2581917643547058,
+          "id": 1729358349
+        },
+        {
+          "distance": 0.26237738132476807,
+          "id": 1729355885
+        },
+        {
+          "distance": 0.2668684124946594,
+          "id": 1729355677
+        },
+        {
+          "distance": 0.2679704427719116,
+          "id": 1729355903
+        },
+        {
+          "distance": 0.28298527002334595,
+          "id": 1729358349
+        },
+        {
+          "distance": 0.28406816720962524,
+          "id": 1729355663
+        },
+        {
+          "distance": 0.29458194971084595,
+          "id": 1729355903
+        },
+        {
+          "distance": 0.2967391610145569,
+          "id": 1729355677
+        },
+        {
+          "distance": 0.3047240376472473,
+          "id": 1729355663
+        },
+        {
+          "distance": 0.3096807599067688,
+          "id": 1729355885
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729357185,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777630,
     "wof:name": "With sewing skills learned from crafting his own drag costumes, in 1978 Gilbert Baker was asked by City Supervisor and gay rights leader Harvey Milk and other local activists to create a new symbol for the movement...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -32,6 +32,50 @@
       "taken": 1613562000,
       "taken_at": "Feb 17, 2021 11:40 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16450852155685425,
+          "id": 1729357041
+        },
+        {
+          "distance": 0.16685378551483154,
+          "id": 1763559285
+        },
+        {
+          "distance": 0.1702507734298706,
+          "id": 1763558723
+        },
+        {
+          "distance": 0.1702507734298706,
+          "id": 1729358627
+        },
+        {
+          "distance": 0.17078137397766113,
+          "id": 1763559247
+        },
+        {
+          "distance": 0.17098098993301392,
+          "id": 1729357755
+        },
+        {
+          "distance": 0.17377471923828125,
+          "id": 1729358695
+        },
+        {
+          "distance": 0.17462587356567383,
+          "id": 1880151169
+        },
+        {
+          "distance": 0.17570048570632935,
+          "id": 1729355861
+        },
+        {
+          "distance": 0.17982971668243408,
+          "id": 1763558939
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1763559257,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "The Sikorsky S-42 was developed to meet the requirements of Pan American Airways’ president Juan T. Trippe for a large, long-range, trans-oceanic flying boat...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -42,6 +42,50 @@
       "taken": 1541786820,
       "taken_at": "Nov 09, 2018 6:07 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.036602020263671875,
+          "id": 1729357669
+        },
+        {
+          "distance": 0.04493117332458496,
+          "id": 1729357631
+        },
+        {
+          "distance": 0.04493117332458496,
+          "id": 1763558767
+        },
+        {
+          "distance": 0.06861835718154907,
+          "id": 1729358657
+        },
+        {
+          "distance": 0.07676422595977783,
+          "id": 1729357553
+        },
+        {
+          "distance": 0.07889026403427124,
+          "id": 1729357493
+        },
+        {
+          "distance": 0.08182704448699951,
+          "id": 1729357631
+        },
+        {
+          "distance": 0.08619600534439087,
+          "id": 1729357851
+        },
+        {
+          "distance": 0.08649516105651855,
+          "id": 1729357959
+        },
+        {
+          "distance": 0.0889177918434143,
+          "id": 1729358531
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -71,7 +115,7 @@
       }
     ],
     "wof:id": 1729357387,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777631,
     "wof:name": "In 1957, BOAC (British Overseas Airways Corporation) introduced the long-delayed, turboprop Britannia, developed and produced by the Bristol Aircraft Company of Filton, England...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -88,5 +132,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -39,6 +39,50 @@
       "taken": 1548699600,
       "taken_at": "Jan 28, 2019, 6:20 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.018682241439819336,
+          "id": 1763558881
+        },
+        {
+          "distance": 0.07953757047653198,
+          "id": 1729357755
+        },
+        {
+          "distance": 0.09878736734390259,
+          "id": 1729358363
+        },
+        {
+          "distance": 0.10590702295303345,
+          "id": 1763558881
+        },
+        {
+          "distance": 0.12235236167907715,
+          "id": 1729357073
+        },
+        {
+          "distance": 0.12875014543533325,
+          "id": 1947425155
+        },
+        {
+          "distance": 0.13249576091766357,
+          "id": 1729357063
+        },
+        {
+          "distance": 0.13329476118087769,
+          "id": 1729357755
+        },
+        {
+          "distance": 0.13362473249435425,
+          "id": 1729358911
+        },
+        {
+          "distance": 0.1404644250869751,
+          "id": 1729357729
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729357039,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "The Sikorsky S-40 was developed in response to requests from Pan American Airways’ president Juan T. Trippe for a high-capacity flying boat...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

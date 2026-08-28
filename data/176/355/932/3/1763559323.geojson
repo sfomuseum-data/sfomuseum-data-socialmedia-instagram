@@ -31,6 +31,50 @@
       "taken": 1636976880,
       "taken_at": "Nov 15, 2021 11:48 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14556598663330078,
+          "id": 1880151325
+        },
+        {
+          "distance": 0.17476171255111694,
+          "id": 1880150939
+        },
+        {
+          "distance": 0.18284881114959717,
+          "id": 1880151325
+        },
+        {
+          "distance": 0.18560844659805298,
+          "id": 1763559379
+        },
+        {
+          "distance": 0.18760406970977783,
+          "id": 1763559281
+        },
+        {
+          "distance": 0.19762635231018066,
+          "id": 1729361797
+        },
+        {
+          "distance": 0.19848597049713135,
+          "id": 1763559595
+        },
+        {
+          "distance": 0.20187383890151978,
+          "id": 1729355777
+        },
+        {
+          "distance": 0.2055201530456543,
+          "id": 1880150939
+        },
+        {
+          "distance": 0.20665091276168823,
+          "id": 1947424799
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559323,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Happy 101st Birthday to Wayne Thiebaud, who was born #onthisday in 1920 in Mesa, Arizona!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

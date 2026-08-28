@@ -25,6 +25,50 @@
       "taken": 1454060400,
       "taken_at": "Jan 29, 2016 9:40 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09764450788497925,
+          "id": 1729361713
+        },
+        {
+          "distance": 0.13421165943145752,
+          "id": 1729361713
+        },
+        {
+          "distance": 0.1912691593170166,
+          "id": 1729360699
+        },
+        {
+          "distance": 0.22885513305664062,
+          "id": 1729360699
+        },
+        {
+          "distance": 0.23520463705062866,
+          "id": 1729361303
+        },
+        {
+          "distance": 0.2389376163482666,
+          "id": 1729361303
+        },
+        {
+          "distance": 0.29286694526672363,
+          "id": 1947424963
+        },
+        {
+          "distance": 0.29394954442977905,
+          "id": 1947424963
+        },
+        {
+          "distance": 0.29822874069213867,
+          "id": 1947424989
+        },
+        {
+          "distance": 0.3011478781700134,
+          "id": 1729358303
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361103,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777644,
     "wof:name": "A lot of thought goes into every last detail in our exhibitions...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

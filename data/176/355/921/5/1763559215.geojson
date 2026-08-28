@@ -30,6 +30,50 @@
       "taken": 1617115200,
       "taken_at": "Mar 30, 2021 2:40 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3675633668899536,
+          "id": 1729357255
+        },
+        {
+          "distance": 0.37491530179977417,
+          "id": 1763558979
+        },
+        {
+          "distance": 0.38843291997909546,
+          "id": 1729360045
+        },
+        {
+          "distance": 0.39080941677093506,
+          "id": 1729357661
+        },
+        {
+          "distance": 0.3922348618507385,
+          "id": 1729360469
+        },
+        {
+          "distance": 0.39534515142440796,
+          "id": 1729357251
+        },
+        {
+          "distance": 0.3980553150177002,
+          "id": 1729357255
+        },
+        {
+          "distance": 0.39941972494125366,
+          "id": 1729360549
+        },
+        {
+          "distance": 0.4000028371810913,
+          "id": 1729355185
+        },
+        {
+          "distance": 0.40142661333084106,
+          "id": 1729355133
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559215,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "From every personal snapshot, video clip, and diary entry of an airline employee emerges a series of experiences supporting the broader story of commercial aviation...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

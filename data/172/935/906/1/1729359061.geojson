@@ -52,6 +52,50 @@
       "taken": 1506508860,
       "taken_at": "Sep 27, 2017 10:41 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.001194298267364502,
+          "id": 1729358495
+        },
+        {
+          "distance": 0.05656200647354126,
+          "id": 1729358495
+        },
+        {
+          "distance": 0.1250704526901245,
+          "id": 1729359023
+        },
+        {
+          "distance": 0.1294214129447937,
+          "id": 1729358517
+        },
+        {
+          "distance": 0.1508072018623352,
+          "id": 1729358517
+        },
+        {
+          "distance": 0.20090830326080322,
+          "id": 1729359023
+        },
+        {
+          "distance": 0.20414042472839355,
+          "id": 1729358429
+        },
+        {
+          "distance": 0.21627706289291382,
+          "id": 1729358621
+        },
+        {
+          "distance": 0.22297954559326172,
+          "id": 1729358509
+        },
+        {
+          "distance": 0.2237720489501953,
+          "id": 1729358429
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -81,7 +125,7 @@
       }
     ],
     "wof:id": 1729359061,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Women from Chiapas have woven on backstrap looms for centuries...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -98,5 +142,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

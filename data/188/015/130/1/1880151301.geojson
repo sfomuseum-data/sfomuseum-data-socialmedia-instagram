@@ -29,6 +29,50 @@
       "taken": 1669720080,
       "taken_at": "Nov 29, 2022 11:08 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1163865327835083,
+          "id": 1880151293
+        },
+        {
+          "distance": 0.1359633207321167,
+          "id": 1880151079
+        },
+        {
+          "distance": 0.1746615171432495,
+          "id": 1880151293
+        },
+        {
+          "distance": 0.1967836618423462,
+          "id": 1880151191
+        },
+        {
+          "distance": 0.20570266246795654,
+          "id": 1880150975
+        },
+        {
+          "distance": 0.20896685123443604,
+          "id": 1880151079
+        },
+        {
+          "distance": 0.21301531791687012,
+          "id": 1880151367
+        },
+        {
+          "distance": 0.21426212787628174,
+          "id": 1880151287
+        },
+        {
+          "distance": 0.21952718496322632,
+          "id": 1880151061
+        },
+        {
+          "distance": 0.2196769118309021,
+          "id": 1947425237
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880151301,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Created through a merger as Transcontinental \u0026 Western Air in 1930, TWA was renamed Trans World Airlines during the early postwar era as it expanded into international routes...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

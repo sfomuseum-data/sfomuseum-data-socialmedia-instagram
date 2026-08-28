@@ -38,6 +38,50 @@
       "taken": 1527163980,
       "taken_at": "May 24, 2018 12:13 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3607146739959717,
+          "id": 1729355037
+        },
+        {
+          "distance": 0.3635387420654297,
+          "id": 1880151727
+        },
+        {
+          "distance": 0.3748222589492798,
+          "id": 1729359313
+        },
+        {
+          "distance": 0.3748222589492798,
+          "id": 1763558669
+        },
+        {
+          "distance": 0.38120734691619873,
+          "id": 1729360213
+        },
+        {
+          "distance": 0.3861951231956482,
+          "id": 1729359323
+        },
+        {
+          "distance": 0.3870059847831726,
+          "id": 1880151715
+        },
+        {
+          "distance": 0.38926559686660767,
+          "id": 1729357667
+        },
+        {
+          "distance": 0.389731228351593,
+          "id": 1729355037
+        },
+        {
+          "distance": 0.3933334946632385,
+          "id": 1729356023
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729358191,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "#OnThisDay in 1960, the Pan American Worldport terminal opened at Idlewild Airport, now called John F. Kennedy International Airport in New York City...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

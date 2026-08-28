@@ -39,6 +39,50 @@
       "taken": 1536652860,
       "taken_at": "Sep 11, 2018 8:01 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16703283786773682,
+          "id": 1729359389
+        },
+        {
+          "distance": 0.18370544910430908,
+          "id": 1729359417
+        },
+        {
+          "distance": 0.20371317863464355,
+          "id": 1729359417
+        },
+        {
+          "distance": 0.21971547603607178,
+          "id": 1729358413
+        },
+        {
+          "distance": 0.22315043210983276,
+          "id": 1729359389
+        },
+        {
+          "distance": 0.22492671012878418,
+          "id": 1880151627
+        },
+        {
+          "distance": 0.22718405723571777,
+          "id": 1729359119
+        },
+        {
+          "distance": 0.2337624430656433,
+          "id": 1729360729
+        },
+        {
+          "distance": 0.23414838314056396,
+          "id": 1729360435
+        },
+        {
+          "distance": 0.2357284426689148,
+          "id": 1729360019
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729357683,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Radio unified people by its ability to instantly inform and entertain populations separated by thousands of miles...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

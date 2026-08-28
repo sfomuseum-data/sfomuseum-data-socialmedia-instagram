@@ -31,6 +31,50 @@
       "taken": 1681834800,
       "taken_at": "Apr 18, 2023 4:20 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07192063331604004,
+          "id": 1880150937
+        },
+        {
+          "distance": 0.10649937391281128,
+          "id": 1880150937
+        },
+        {
+          "distance": 0.16715365648269653,
+          "id": 1947425219
+        },
+        {
+          "distance": 0.16876232624053955,
+          "id": 1947425307
+        },
+        {
+          "distance": 0.18819236755371094,
+          "id": 1880150907
+        },
+        {
+          "distance": 0.19315391778945923,
+          "id": 1947425219
+        },
+        {
+          "distance": 0.20850872993469238,
+          "id": 1947425307
+        },
+        {
+          "distance": 0.20890527963638306,
+          "id": 1880150907
+        },
+        {
+          "distance": 0.22573792934417725,
+          "id": 1947425261
+        },
+        {
+          "distance": 0.23061662912368774,
+          "id": 1880150997
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880150971,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777661,
     "wof:name": "Annabelle Lopez Ochoa was selected as one of twelve choreographers to create a thirty-minute ballet for San Francisco Ballet’s 𝘜𝘯𝘣𝘰𝘶𝘯𝘥: 𝘈 𝘍𝘦𝘴𝘵𝘪𝘷𝘢𝘭 𝘰𝘧 𝘕𝘦𝘸 𝘞𝘰𝘳𝘬𝘴 (2018)...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

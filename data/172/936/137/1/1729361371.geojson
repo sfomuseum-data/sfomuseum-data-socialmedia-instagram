@@ -25,6 +25,50 @@
       "taken": 1447322460,
       "taken_at": "Nov 12, 2015 10:01 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.29359614849090576,
+          "id": 1729359635
+        },
+        {
+          "distance": 0.3097637891769409,
+          "id": 1729359635
+        },
+        {
+          "distance": 0.33824318647384644,
+          "id": 1729357869
+        },
+        {
+          "distance": 0.33862972259521484,
+          "id": 1729357097
+        },
+        {
+          "distance": 0.33884984254837036,
+          "id": 1729362205
+        },
+        {
+          "distance": 0.34035980701446533,
+          "id": 1729356905
+        },
+        {
+          "distance": 0.3496308922767639,
+          "id": 1763558975
+        },
+        {
+          "distance": 0.3549222946166992,
+          "id": 1880151495
+        },
+        {
+          "distance": 0.3622807264328003,
+          "id": 1729360715
+        },
+        {
+          "distance": 0.36330747604370117,
+          "id": 1729357895
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361371,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "Art from the San Francisco Waldorf School will be up in the Arrivals Level of Terminal 1 until the end of the month...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -30,6 +30,50 @@
       "taken": 1588620600,
       "taken_at": "May 04, 2020 7:30 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.011407136917114258,
+          "id": 1729355293
+        },
+        {
+          "distance": 0.09962916374206543,
+          "id": 1729355293
+        },
+        {
+          "distance": 0.1543368697166443,
+          "id": 1729357649
+        },
+        {
+          "distance": 0.16904211044311523,
+          "id": 1763559617
+        },
+        {
+          "distance": 0.1758495569229126,
+          "id": 1729355165
+        },
+        {
+          "distance": 0.17994385957717896,
+          "id": 1729358771
+        },
+        {
+          "distance": 0.18361037969589233,
+          "id": 1729356979
+        },
+        {
+          "distance": 0.18377763032913208,
+          "id": 1729357627
+        },
+        {
+          "distance": 0.1837971806526184,
+          "id": 1729359955
+        },
+        {
+          "distance": 0.18383866548538208,
+          "id": 1729357293
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763558843,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777659,
     "wof:name": "The speed of the advancement of aviation in the twentieth century is aptly illustrated in this image from the late 1950s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

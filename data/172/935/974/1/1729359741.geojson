@@ -28,6 +28,50 @@
       "taken": 1489396680,
       "taken_at": "Mar 13, 2017, 9:18 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17357933521270752,
+          "id": 1729359723
+        },
+        {
+          "distance": 0.17426061630249023,
+          "id": 1729359723
+        },
+        {
+          "distance": 0.19883984327316284,
+          "id": 1729359923
+        },
+        {
+          "distance": 0.20515578985214233,
+          "id": 1729358737
+        },
+        {
+          "distance": 0.20747393369674683,
+          "id": 1729360031
+        },
+        {
+          "distance": 0.2327592372894287,
+          "id": 1729361811
+        },
+        {
+          "distance": 0.24126464128494263,
+          "id": 1729358735
+        },
+        {
+          "distance": 0.24545669555664062,
+          "id": 1729359923
+        },
+        {
+          "distance": 0.257981538772583,
+          "id": 1729359445
+        },
+        {
+          "distance": 0.2584516406059265,
+          "id": 1729360031
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1729359741,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777636,
     "wof:name": "The poker machine was the most popular gambling device at the turn of the twentieth century...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

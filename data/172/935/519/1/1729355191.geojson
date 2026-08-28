@@ -31,6 +31,50 @@
       "taken": 1594807920,
       "taken_at": "Jul 15, 2020, 10:12 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2309214472770691,
+          "id": 1729355187
+        },
+        {
+          "distance": 0.23890739679336548,
+          "id": 1729355187
+        },
+        {
+          "distance": 0.2824496030807495,
+          "id": 1729355195
+        },
+        {
+          "distance": 0.30111241340637207,
+          "id": 1729355195
+        },
+        {
+          "distance": 0.3054385185241699,
+          "id": 1880150973
+        },
+        {
+          "distance": 0.3084760308265686,
+          "id": 1947425317
+        },
+        {
+          "distance": 0.309661865234375,
+          "id": 1880150973
+        },
+        {
+          "distance": 0.3156774640083313,
+          "id": 1763558965
+        },
+        {
+          "distance": 0.32207512855529785,
+          "id": 1880151607
+        },
+        {
+          "distance": 0.322460412979126,
+          "id": 1763558965
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729355191,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777619,
     "wof:name": "In “Hyper-Natural Bay Area”, artist Robert Minervini considers what defining characteristics make a city distinctive and offers a window onto his version of San Francisco...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

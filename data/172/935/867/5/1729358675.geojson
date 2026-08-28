@@ -47,6 +47,50 @@
       "taken": 1516714560,
       "taken_at": "Jan 23, 2018, 1:36 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11631512641906738,
+          "id": 1729359131
+        },
+        {
+          "distance": 0.14734137058258057,
+          "id": 1729359131
+        },
+        {
+          "distance": 0.22363042831420898,
+          "id": 1729358983
+        },
+        {
+          "distance": 0.23379039764404297,
+          "id": 1729359121
+        },
+        {
+          "distance": 0.23704594373703003,
+          "id": 1729359025
+        },
+        {
+          "distance": 0.27217960357666016,
+          "id": 1729359125
+        },
+        {
+          "distance": 0.2724025845527649,
+          "id": 1729358983
+        },
+        {
+          "distance": 0.2781810760498047,
+          "id": 1880151349
+        },
+        {
+          "distance": 0.27927595376968384,
+          "id": 1763559011
+        },
+        {
+          "distance": 0.2820435166358948,
+          "id": 1729358859
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -76,7 +120,7 @@
       }
     ],
     "wof:id": 1729358675,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777634,
     "wof:name": "This is your last week to check out our Typewriters exhibition!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -93,5 +137,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1366030320,
       "taken_at": "Apr 15, 2013 12:52 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14661812782287598,
+          "id": 1729362737
+        },
+        {
+          "distance": 0.18619292974472046,
+          "id": 1729362785
+        },
+        {
+          "distance": 0.19593912363052368,
+          "id": 1729362737
+        },
+        {
+          "distance": 0.20453840494155884,
+          "id": 1729362949
+        },
+        {
+          "distance": 0.22190183401107788,
+          "id": 1729356841
+        },
+        {
+          "distance": 0.23041921854019165,
+          "id": 1729362785
+        },
+        {
+          "distance": 0.2480696439743042,
+          "id": 1729362473
+        },
+        {
+          "distance": 0.25153112411499023,
+          "id": 1729363009
+        },
+        {
+          "distance": 0.25642168521881104,
+          "id": 1729362913
+        },
+        {
+          "distance": 0.25647473335266113,
+          "id": 1729362291
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362743,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "When rotating it \"a little to the left\" becomes a challenge...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

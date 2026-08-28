@@ -30,6 +30,50 @@
       "taken": 1614098640,
       "taken_at": "Feb 23, 2021 4:44 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19340795278549194,
+          "id": 1763559357
+        },
+        {
+          "distance": 0.19728606939315796,
+          "id": 1729355793
+        },
+        {
+          "distance": 0.19897150993347168,
+          "id": 1729355109
+        },
+        {
+          "distance": 0.2128077745437622,
+          "id": 1729355793
+        },
+        {
+          "distance": 0.21576577425003052,
+          "id": 1729356531
+        },
+        {
+          "distance": 0.21866005659103394,
+          "id": 1729355315
+        },
+        {
+          "distance": 0.22209125757217407,
+          "id": 1729359533
+        },
+        {
+          "distance": 0.22880512475967407,
+          "id": 1763559357
+        },
+        {
+          "distance": 0.23332446813583374,
+          "id": 1729357215
+        },
+        {
+          "distance": 0.23705285787582397,
+          "id": 1729359173
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559255,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Publicity photo perfection...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

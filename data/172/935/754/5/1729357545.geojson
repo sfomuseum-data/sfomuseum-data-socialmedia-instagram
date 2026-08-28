@@ -37,6 +37,50 @@
       "taken": 1539878280,
       "taken_at": "Oct 18, 2018, 3:58 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09925568103790283,
+          "id": 1729357529
+        },
+        {
+          "distance": 0.15144133567810059,
+          "id": 1729355023
+        },
+        {
+          "distance": 0.15353113412857056,
+          "id": 1729359759
+        },
+        {
+          "distance": 0.16203302145004272,
+          "id": 1729359427
+        },
+        {
+          "distance": 0.19198793172836304,
+          "id": 1729360639
+        },
+        {
+          "distance": 0.19791293144226074,
+          "id": 1729358233
+        },
+        {
+          "distance": 0.19791293144226074,
+          "id": 1763558729
+        },
+        {
+          "distance": 0.1986936330795288,
+          "id": 1729357097
+        },
+        {
+          "distance": 0.20002806186676025,
+          "id": 1729357429
+        },
+        {
+          "distance": 0.2150658369064331,
+          "id": 1729361875
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729357545,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777632,
     "wof:name": "In 1958, sociologist turned real estate developer Nathan K. Mendelsohn purchased 82,000 acres of land in the Mojave Desert with the intent of master-planning California's next great metropolis...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

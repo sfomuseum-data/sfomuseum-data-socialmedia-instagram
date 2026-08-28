@@ -29,6 +29,50 @@
       "taken": 1716888300,
       "taken_at": "May 28, 2024 9:25 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.000022530555725097656,
+          "id": 1947425027
+        },
+        {
+          "distance": 0.0682603120803833,
+          "id": 1947425027
+        },
+        {
+          "distance": 0.13178759813308716,
+          "id": 1947424845
+        },
+        {
+          "distance": 0.13178759813308716,
+          "id": 1947424837
+        },
+        {
+          "distance": 0.13388550281524658,
+          "id": 1947424943
+        },
+        {
+          "distance": 0.13466596603393555,
+          "id": 1947425017
+        },
+        {
+          "distance": 0.13654708862304688,
+          "id": 1947424943
+        },
+        {
+          "distance": 0.13924986124038696,
+          "id": 1947425017
+        },
+        {
+          "distance": 0.1583651304244995,
+          "id": 1947424845
+        },
+        {
+          "distance": 0.1583651304244995,
+          "id": 1947424837
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1947425009,
-    "wof:lastmodified": 1733175323,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Pan American Airways was established in 1927...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

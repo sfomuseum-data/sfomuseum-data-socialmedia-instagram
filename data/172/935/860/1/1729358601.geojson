@@ -25,6 +25,50 @@
       "taken": 1517687700,
       "taken_at": "Feb 03, 2018 7:55 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.32977133989334106,
+          "id": 1729358077
+        },
+        {
+          "distance": 0.33293354511260986,
+          "id": 1729358077
+        },
+        {
+          "distance": 0.36803120374679565,
+          "id": 1729362595
+        },
+        {
+          "distance": 0.36888444423675537,
+          "id": 1729355029
+        },
+        {
+          "distance": 0.3692963719367981,
+          "id": 1729355029
+        },
+        {
+          "distance": 0.37195438146591187,
+          "id": 1729356041
+        },
+        {
+          "distance": 0.37535470724105835,
+          "id": 1729363039
+        },
+        {
+          "distance": 0.38078588247299194,
+          "id": 1729355917
+        },
+        {
+          "distance": 0.38411736488342285,
+          "id": 1729362595
+        },
+        {
+          "distance": 0.3855286240577698,
+          "id": 1729355917
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729358601,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Photography has been central to advancing scientific discovery and exploration since its invention in the 1820s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

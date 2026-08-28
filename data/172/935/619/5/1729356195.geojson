@@ -36,6 +36,50 @@
       "taken": 1566372780,
       "taken_at": "Aug 21, 2019, 7:33 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24771612882614136,
+          "id": 1729356171
+        },
+        {
+          "distance": 0.25622397661209106,
+          "id": 1729356179
+        },
+        {
+          "distance": 0.2865257263183594,
+          "id": 1729355879
+        },
+        {
+          "distance": 0.2866564393043518,
+          "id": 1729356269
+        },
+        {
+          "distance": 0.2888730764389038,
+          "id": 1729356179
+        },
+        {
+          "distance": 0.30449163913726807,
+          "id": 1729356171
+        },
+        {
+          "distance": 0.3058621883392334,
+          "id": 1729356269
+        },
+        {
+          "distance": 0.3060181140899658,
+          "id": 1729356247
+        },
+        {
+          "distance": 0.31309014558792114,
+          "id": 1729355879
+        },
+        {
+          "distance": 0.3148477077484131,
+          "id": 1729356247
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729356195,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777628,
     "wof:name": "Lists of endangered and extinct insects are always dominated by butterflies...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

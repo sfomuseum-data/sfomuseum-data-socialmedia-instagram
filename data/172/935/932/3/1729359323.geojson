@@ -33,6 +33,50 @@
       "taken": 1499967540,
       "taken_at": "Jul 13, 2017, 5:39 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.061187922954559326,
+          "id": 1729359313
+        },
+        {
+          "distance": 0.061187922954559326,
+          "id": 1763558669
+        },
+        {
+          "distance": 0.14172154664993286,
+          "id": 1729359313
+        },
+        {
+          "distance": 0.14172154664993286,
+          "id": 1763558669
+        },
+        {
+          "distance": 0.21336746215820312,
+          "id": 1729357941
+        },
+        {
+          "distance": 0.247258722782135,
+          "id": 1729357941
+        },
+        {
+          "distance": 0.2614554762840271,
+          "id": 1729360259
+        },
+        {
+          "distance": 0.26276612281799316,
+          "id": 1729357667
+        },
+        {
+          "distance": 0.2632591724395752,
+          "id": 1729361615
+        },
+        {
+          "distance": 0.2715422511100769,
+          "id": 1729359159
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729359323,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777635,
     "wof:name": "What was SFO like back in the 1960s?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -32,6 +32,50 @@
       "taken": 1493984460,
       "taken_at": "May 05, 2017 11:41 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06854575872421265,
+          "id": 1880151041
+        },
+        {
+          "distance": 0.12617748975753784,
+          "id": 1729356131
+        },
+        {
+          "distance": 0.1331135630607605,
+          "id": 1763559173
+        },
+        {
+          "distance": 0.13760721683502197,
+          "id": 1880150909
+        },
+        {
+          "distance": 0.15990197658538818,
+          "id": 1880151041
+        },
+        {
+          "distance": 0.17075103521347046,
+          "id": 1763559173
+        },
+        {
+          "distance": 0.1709839105606079,
+          "id": 1729358135
+        },
+        {
+          "distance": 0.17171376943588257,
+          "id": 1729361317
+        },
+        {
+          "distance": 0.17208117246627808,
+          "id": 1729360235
+        },
+        {
+          "distance": 0.1743602156639099,
+          "id": 1729360929
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729359537,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "There's a lot to see in this photo from 1967!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

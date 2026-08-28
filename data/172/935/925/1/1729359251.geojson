@@ -25,6 +25,50 @@
       "taken": 1501684740,
       "taken_at": "Aug 02, 2017 2:39 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0529668927192688,
+          "id": 1729355587
+        },
+        {
+          "distance": 0.09563785791397095,
+          "id": 1729355587
+        },
+        {
+          "distance": 0.1239168643951416,
+          "id": 1729356563
+        },
+        {
+          "distance": 0.12555521726608276,
+          "id": 1947425081
+        },
+        {
+          "distance": 0.13910412788391113,
+          "id": 1947425081
+        },
+        {
+          "distance": 0.1394726037979126,
+          "id": 1729357953
+        },
+        {
+          "distance": 0.1457875370979309,
+          "id": 1729356563
+        },
+        {
+          "distance": 0.1462726593017578,
+          "id": 1729357841
+        },
+        {
+          "distance": 0.14950579404830933,
+          "id": 1729359841
+        },
+        {
+          "distance": 0.1584162712097168,
+          "id": 1729355113
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359251,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "In the early 1930s, Boeing Aircraft and United Air Lines worked together to produce a remarkable aircraft that revolutionized air travel, the Boeing 247...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -31,6 +31,50 @@
       "taken": 1652195760,
       "taken_at": "May 10, 2022 3:16 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23542630672454834,
+          "id": 1729356223
+        },
+        {
+          "distance": 0.28953081369400024,
+          "id": 1729356223
+        },
+        {
+          "distance": 0.3071482181549072,
+          "id": 1880150995
+        },
+        {
+          "distance": 0.3165934681892395,
+          "id": 1947425209
+        },
+        {
+          "distance": 0.3166384696960449,
+          "id": 1947425237
+        },
+        {
+          "distance": 0.31756556034088135,
+          "id": 1880150995
+        },
+        {
+          "distance": 0.3283097743988037,
+          "id": 1729359367
+        },
+        {
+          "distance": 0.33112359046936035,
+          "id": 1729358079
+        },
+        {
+          "distance": 0.33347392082214355,
+          "id": 1729358727
+        },
+        {
+          "distance": 0.3335161805152893,
+          "id": 1947425141
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151731,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777663,
     "wof:name": "Introduced in 1959, the Douglas DC-8 was United Air Lines’ first jet airliner to be launched into service and the second American jetliner to be launched into service after Boeing’s 707...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

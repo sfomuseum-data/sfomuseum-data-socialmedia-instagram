@@ -25,6 +25,50 @@
       "taken": 1463224440,
       "taken_at": "May 14, 2016 11:14 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12628203630447388,
+          "id": 1763559125
+        },
+        {
+          "distance": 0.1424393653869629,
+          "id": 1763558867
+        },
+        {
+          "distance": 0.15266680717468262,
+          "id": 1729358209
+        },
+        {
+          "distance": 0.16045278310775757,
+          "id": 1729358079
+        },
+        {
+          "distance": 0.1643437147140503,
+          "id": 1763558867
+        },
+        {
+          "distance": 0.16485053300857544,
+          "id": 1763559125
+        },
+        {
+          "distance": 0.16987115144729614,
+          "id": 1729361117
+        },
+        {
+          "distance": 0.17626190185546875,
+          "id": 1729356769
+        },
+        {
+          "distance": 0.1778247356414795,
+          "id": 1729356749
+        },
+        {
+          "distance": 0.17860037088394165,
+          "id": 1729359397
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360723,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "A trip on the Martin M-130 China Clipper in 1937 included five stops from San Francisco to Hong Kong: Honolulu; Midway Island; Wake Island; Guam; and Manila, Philippines...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

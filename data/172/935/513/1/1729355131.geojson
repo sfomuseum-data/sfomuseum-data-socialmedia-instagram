@@ -30,6 +30,50 @@
       "taken": 1597671600,
       "taken_at": "Aug 17, 2020 1:40 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2859097123146057,
+          "id": 1729359897
+        },
+        {
+          "distance": 0.2863222360610962,
+          "id": 1880151689
+        },
+        {
+          "distance": 0.308033287525177,
+          "id": 1729355101
+        },
+        {
+          "distance": 0.31754714250564575,
+          "id": 1947424985
+        },
+        {
+          "distance": 0.31974804401397705,
+          "id": 1729358533
+        },
+        {
+          "distance": 0.3200191855430603,
+          "id": 1729360497
+        },
+        {
+          "distance": 0.3230122923851013,
+          "id": 1947424929
+        },
+        {
+          "distance": 0.32348912954330444,
+          "id": 1947424929
+        },
+        {
+          "distance": 0.3253978490829468,
+          "id": 1880151689
+        },
+        {
+          "distance": 0.3259804844856262,
+          "id": 1763559295
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729355131,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777618,
     "wof:name": "In advance of construction work at the Aviation Museum \u0026 Library, our team has been busy with the deinstallation of our long-term exhibition on the China Clipper...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

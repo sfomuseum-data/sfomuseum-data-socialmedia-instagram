@@ -32,6 +32,50 @@
       "taken": 1639048500,
       "taken_at": "Dec 09, 2021 11:15 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.000022649765014648438,
+          "id": 1763559681
+        },
+        {
+          "distance": 0.06540340185165405,
+          "id": 1763559653
+        },
+        {
+          "distance": 0.06540340185165405,
+          "id": 1763559647
+        },
+        {
+          "distance": 0.06540340185165405,
+          "id": 1763559665
+        },
+        {
+          "distance": 0.07577383518218994,
+          "id": 1763559335
+        },
+        {
+          "distance": 0.09888964891433716,
+          "id": 1763559681
+        },
+        {
+          "distance": 0.11482959985733032,
+          "id": 1763559335
+        },
+        {
+          "distance": 0.12208384275436401,
+          "id": 1763559665
+        },
+        {
+          "distance": 0.12208384275436401,
+          "id": 1763559653
+        },
+        {
+          "distance": 0.12208384275436401,
+          "id": 1763559647
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1763559267,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "In his ode to the critical importance of personal interaction, Canadian filmmaker David Findlay explores the emotional resonance of human connections when all physical contact has been removed...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

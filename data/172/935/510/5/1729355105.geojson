@@ -30,6 +30,50 @@
       "taken": 1598534460,
       "taken_at": "Aug 27, 2020 1:21 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3687319755554199,
+          "id": 1729360969
+        },
+        {
+          "distance": 0.3696632385253906,
+          "id": 1729359947
+        },
+        {
+          "distance": 0.3705440163612366,
+          "id": 1729361429
+        },
+        {
+          "distance": 0.3749474287033081,
+          "id": 1729360185
+        },
+        {
+          "distance": 0.37777745723724365,
+          "id": 1729361577
+        },
+        {
+          "distance": 0.37822574377059937,
+          "id": 1729360429
+        },
+        {
+          "distance": 0.3817179203033447,
+          "id": 1729359947
+        },
+        {
+          "distance": 0.3840206265449524,
+          "id": 1729359465
+        },
+        {
+          "distance": 0.3866044878959656,
+          "id": 1729356145
+        },
+        {
+          "distance": 0.3874282240867615,
+          "id": 1729356145
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729355105,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777617,
     "wof:name": "#Onthisday in 1954, the three-day dedication ceremony for San Francisco International Airport’s new terminal building kicked off...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

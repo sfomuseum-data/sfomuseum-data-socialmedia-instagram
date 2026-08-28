@@ -33,6 +33,50 @@
       "taken": 1540982820,
       "taken_at": "Oct 31, 2018 10:47 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06966328620910645,
+          "id": 1729357753
+        },
+        {
+          "distance": 0.11514174938201904,
+          "id": 1729357753
+        },
+        {
+          "distance": 0.1853708028793335,
+          "id": 1729358499
+        },
+        {
+          "distance": 0.20048916339874268,
+          "id": 1729358499
+        },
+        {
+          "distance": 0.22093766927719116,
+          "id": 1763558761
+        },
+        {
+          "distance": 0.24523711204528809,
+          "id": 1729358039
+        },
+        {
+          "distance": 0.24838292598724365,
+          "id": 1947424919
+        },
+        {
+          "distance": 0.25068747997283936,
+          "id": 1729358237
+        },
+        {
+          "distance": 0.26175785064697266,
+          "id": 1947424919
+        },
+        {
+          "distance": 0.26212531328201294,
+          "id": 1763558761
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729357477,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777631,
     "wof:name": "These radios are dressed up for Halloween!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

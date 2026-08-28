@@ -37,6 +37,50 @@
       "taken": 1501944720,
       "taken_at": "Aug 05, 2017 2:52 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13096249103546143,
+          "id": 1729358543
+        },
+        {
+          "distance": 0.1436161994934082,
+          "id": 1729358543
+        },
+        {
+          "distance": 0.18122214078903198,
+          "id": 1729359805
+        },
+        {
+          "distance": 0.18186283111572266,
+          "id": 1729355665
+        },
+        {
+          "distance": 0.18310046195983887,
+          "id": 1729355339
+        },
+        {
+          "distance": 0.18877345323562622,
+          "id": 1763559173
+        },
+        {
+          "distance": 0.19060581922531128,
+          "id": 1729355339
+        },
+        {
+          "distance": 0.19246625900268555,
+          "id": 1729357727
+        },
+        {
+          "distance": 0.1933935284614563,
+          "id": 1729357727
+        },
+        {
+          "distance": 0.19752639532089233,
+          "id": 1729361289
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729359229,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Have you ever been to San Francisco's City Hall?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

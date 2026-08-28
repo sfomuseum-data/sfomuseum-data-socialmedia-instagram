@@ -25,6 +25,50 @@
       "taken": 1369137180,
       "taken_at": "May 21, 2013 11:53 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1560266613960266,
+          "id": 1729362761
+        },
+        {
+          "distance": 0.19501572847366333,
+          "id": 1729362761
+        },
+        {
+          "distance": 0.23207783699035645,
+          "id": 1729362581
+        },
+        {
+          "distance": 0.24917149543762207,
+          "id": 1729357791
+        },
+        {
+          "distance": 0.26713067293167114,
+          "id": 1729362581
+        },
+        {
+          "distance": 0.27621716260910034,
+          "id": 1729362997
+        },
+        {
+          "distance": 0.2800756096839905,
+          "id": 1729361253
+        },
+        {
+          "distance": 0.2954513430595398,
+          "id": 1729362541
+        },
+        {
+          "distance": 0.2960132956504822,
+          "id": 1729362567
+        },
+        {
+          "distance": 0.2991027235984802,
+          "id": 1729357791
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362691,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "Revisit your childhood wonder of flight with the #Aviation Library's exhibit Ascent to the Air Age: Aviation Literature for Young Readers 1910s-1950s..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

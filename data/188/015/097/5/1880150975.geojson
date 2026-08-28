@@ -27,6 +27,50 @@
       "taken": 1681906080,
       "taken_at": "Apr 19, 2023 12:08 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17774039506912231,
+          "id": 1880151079
+        },
+        {
+          "distance": 0.17795103788375854,
+          "id": 1880151293
+        },
+        {
+          "distance": 0.19605982303619385,
+          "id": 1880151293
+        },
+        {
+          "distance": 0.20560890436172485,
+          "id": 1880151301
+        },
+        {
+          "distance": 0.2277698516845703,
+          "id": 1763558827
+        },
+        {
+          "distance": 0.23425012826919556,
+          "id": 1729355755
+        },
+        {
+          "distance": 0.24213498830795288,
+          "id": 1880151079
+        },
+        {
+          "distance": 0.24363291263580322,
+          "id": 1729355059
+        },
+        {
+          "distance": 0.24596452713012695,
+          "id": 1880151061
+        },
+        {
+          "distance": 0.24622774124145508,
+          "id": 1880151305
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1880150975,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777661,
     "wof:name": "Japan Air Lines (JAL) was formed and initiated domestic operations in 1951...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -73,5 +117,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -44,6 +44,50 @@
       "taken": 1506594180,
       "taken_at": "Sep 28, 2017 10:23 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09904265403747559,
+          "id": 1880151167
+        },
+        {
+          "distance": 0.13624858856201172,
+          "id": 1729357057
+        },
+        {
+          "distance": 0.14920258522033691,
+          "id": 1880151167
+        },
+        {
+          "distance": 0.16173964738845825,
+          "id": 1729357667
+        },
+        {
+          "distance": 0.16388922929763794,
+          "id": 1729355795
+        },
+        {
+          "distance": 0.16766667366027832,
+          "id": 1729360047
+        },
+        {
+          "distance": 0.17104780673980713,
+          "id": 1729359077
+        },
+        {
+          "distance": 0.1711195707321167,
+          "id": 1729355165
+        },
+        {
+          "distance": 0.17348742485046387,
+          "id": 1729355165
+        },
+        {
+          "distance": 0.17370867729187012,
+          "id": 1729360259
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -73,7 +117,7 @@
       }
     ],
     "wof:id": 1729359051,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "In 1962, San Francisco International Airport ranked as the fourth busiest airport in the U.S...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -90,5 +134,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

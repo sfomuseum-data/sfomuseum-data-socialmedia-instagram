@@ -32,6 +32,50 @@
       "taken": 1582818420,
       "taken_at": "Feb 27, 2020, 3:47 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1723000407218933,
+          "id": 1729359645
+        },
+        {
+          "distance": 0.17871779203414917,
+          "id": 1729359307
+        },
+        {
+          "distance": 0.1810954213142395,
+          "id": 1763559085
+        },
+        {
+          "distance": 0.18254488706588745,
+          "id": 1729360399
+        },
+        {
+          "distance": 0.20018625259399414,
+          "id": 1729360399
+        },
+        {
+          "distance": 0.2020047903060913,
+          "id": 1729359307
+        },
+        {
+          "distance": 0.20270442962646484,
+          "id": 1729356953
+        },
+        {
+          "distance": 0.20286905765533447,
+          "id": 1729355273
+        },
+        {
+          "distance": 0.20669341087341309,
+          "id": 1729359511
+        },
+        {
+          "distance": 0.2094045877456665,
+          "id": 1729359645
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729355505,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777625,
     "wof:name": "United Air Lines received its first Boeing 747-100 on June 26, 1970, and a month later launched 747 service from San Francisco to Honolulu...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

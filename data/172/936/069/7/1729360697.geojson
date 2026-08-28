@@ -25,6 +25,50 @@
       "taken": 1463825100,
       "taken_at": "May 21, 2016 10:05 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2556403875350952,
+          "id": 1729358503
+        },
+        {
+          "distance": 0.2596898078918457,
+          "id": 1763559041
+        },
+        {
+          "distance": 0.2683730721473694,
+          "id": 1729361451
+        },
+        {
+          "distance": 0.28186357021331787,
+          "id": 1729359867
+        },
+        {
+          "distance": 0.2893029451370239,
+          "id": 1763559357
+        },
+        {
+          "distance": 0.28957599401474,
+          "id": 1729358503
+        },
+        {
+          "distance": 0.2926675081253052,
+          "id": 1729358929
+        },
+        {
+          "distance": 0.29288357496261597,
+          "id": 1729361451
+        },
+        {
+          "distance": 0.2959706783294678,
+          "id": 1763558705
+        },
+        {
+          "distance": 0.3003295063972473,
+          "id": 1729356423
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360697,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Hughes Airwest, the airline with the slogan, \"the top banana in the west\", did not literally fly bananas, but this imaginative 1970s poster does feature a flying banana...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

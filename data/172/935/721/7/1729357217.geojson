@@ -45,6 +45,50 @@
       "taken": 1545069600,
       "taken_at": "Dec 17, 2018 6:00 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.023584842681884766,
+          "id": 1729358813
+        },
+        {
+          "distance": 0.02829158306121826,
+          "id": 1763559683
+        },
+        {
+          "distance": 0.06874591112136841,
+          "id": 1763559683
+        },
+        {
+          "distance": 0.06880003213882446,
+          "id": 1729358813
+        },
+        {
+          "distance": 0.0910494327545166,
+          "id": 1729361265
+        },
+        {
+          "distance": 0.13983196020126343,
+          "id": 1729361265
+        },
+        {
+          "distance": 0.17332834005355835,
+          "id": 1763558923
+        },
+        {
+          "distance": 0.189846932888031,
+          "id": 1880151641
+        },
+        {
+          "distance": 0.19162774085998535,
+          "id": 1880151721
+        },
+        {
+          "distance": 0.19238901138305664,
+          "id": 1763558923
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -74,7 +118,7 @@
       }
     ],
     "wof:id": 1729357217,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777630,
     "wof:name": "Happy Pan American Aviation Day!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -91,5 +135,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

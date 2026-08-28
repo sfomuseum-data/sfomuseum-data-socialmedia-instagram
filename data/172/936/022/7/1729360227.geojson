@@ -25,6 +25,50 @@
       "taken": 1476741300,
       "taken_at": "Oct 17, 2016 9:55 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.22783273458480835,
+          "id": 1729359429
+        },
+        {
+          "distance": 0.24864399433135986,
+          "id": 1729355723
+        },
+        {
+          "distance": 0.25604110956192017,
+          "id": 1729358483
+        },
+        {
+          "distance": 0.25676286220550537,
+          "id": 1729356013
+        },
+        {
+          "distance": 0.2595115303993225,
+          "id": 1729356013
+        },
+        {
+          "distance": 0.25962698459625244,
+          "id": 1729357871
+        },
+        {
+          "distance": 0.26082664728164673,
+          "id": 1729355723
+        },
+        {
+          "distance": 0.26434069871902466,
+          "id": 1729358483
+        },
+        {
+          "distance": 0.2722160220146179,
+          "id": 1729355633
+        },
+        {
+          "distance": 0.27634376287460327,
+          "id": 1880151285
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360227,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "As you have gotten off your international flight at SFO have you noticed the textured walls as you walk to border patrol?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

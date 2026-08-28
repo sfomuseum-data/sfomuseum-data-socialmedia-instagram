@@ -35,6 +35,50 @@
       "taken": 1561976400,
       "taken_at": "Jul 1, 2019, 10:20 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06390678882598877,
+          "id": 1729356369
+        },
+        {
+          "distance": 0.06828439235687256,
+          "id": 1729356379
+        },
+        {
+          "distance": 0.13889795541763306,
+          "id": 1729356379
+        },
+        {
+          "distance": 0.14725565910339355,
+          "id": 1729356369
+        },
+        {
+          "distance": 0.14777714014053345,
+          "id": 1729356377
+        },
+        {
+          "distance": 0.16001087427139282,
+          "id": 1729355839
+        },
+        {
+          "distance": 0.19358152151107788,
+          "id": 1729355973
+        },
+        {
+          "distance": 0.20030701160430908,
+          "id": 1729355991
+        },
+        {
+          "distance": 0.2282174825668335,
+          "id": 1729355839
+        },
+        {
+          "distance": 0.23330390453338623,
+          "id": 1729355835
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729356373,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "American Modern Gothic furnishings evolved from the nineteenth-century English design reform movement in England...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

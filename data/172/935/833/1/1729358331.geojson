@@ -38,6 +38,50 @@
       "taken": 1524566460,
       "taken_at": "Apr 24, 2018 10:41 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2465806007385254,
+          "id": 1947425125
+        },
+        {
+          "distance": 0.2546616196632385,
+          "id": 1729360469
+        },
+        {
+          "distance": 0.25755220651626587,
+          "id": 1729360469
+        },
+        {
+          "distance": 0.2601633667945862,
+          "id": 1729357255
+        },
+        {
+          "distance": 0.2646082043647766,
+          "id": 1763558657
+        },
+        {
+          "distance": 0.2646082043647766,
+          "id": 1729359895
+        },
+        {
+          "distance": 0.2648282051086426,
+          "id": 1947425125
+        },
+        {
+          "distance": 0.27074241638183594,
+          "id": 1880151233
+        },
+        {
+          "distance": 0.2802097201347351,
+          "id": 1729360815
+        },
+        {
+          "distance": 0.2821112871170044,
+          "id": 1947425179
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729358331,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "It is a historic day in the aviation community, as the last branded Virgin America flights are scheduled to depart from SFO this evening...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

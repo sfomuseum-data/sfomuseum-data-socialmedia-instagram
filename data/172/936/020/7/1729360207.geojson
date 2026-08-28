@@ -25,6 +25,50 @@
       "taken": 1477040880,
       "taken_at": "Oct 21, 2016 9:08 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06766730546951294,
+          "id": 1763559247
+        },
+        {
+          "distance": 0.09129893779754639,
+          "id": 1763559247
+        },
+        {
+          "distance": 0.11542105674743652,
+          "id": 1729361109
+        },
+        {
+          "distance": 0.12320029735565186,
+          "id": 1729361163
+        },
+        {
+          "distance": 0.12759310007095337,
+          "id": 1880150943
+        },
+        {
+          "distance": 0.12960213422775269,
+          "id": 1880151169
+        },
+        {
+          "distance": 0.13067054748535156,
+          "id": 1763559285
+        },
+        {
+          "distance": 0.13213485479354858,
+          "id": 1729357437
+        },
+        {
+          "distance": 0.1364452838897705,
+          "id": 1729358695
+        },
+        {
+          "distance": 0.1367005705833435,
+          "id": 1729357041
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360207,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "Captain Ed Musick inaugurated the first transpacific scheduled passenger service flying the Hawaiian Clipper...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

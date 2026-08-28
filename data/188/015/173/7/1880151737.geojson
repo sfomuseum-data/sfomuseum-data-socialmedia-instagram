@@ -30,6 +30,50 @@
       "taken": 1652445840,
       "taken_at": "May 13, 2022 12:44 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15009891986846924,
+          "id": 1880151783
+        },
+        {
+          "distance": 0.17871302366256714,
+          "id": 1880151677
+        },
+        {
+          "distance": 0.17974960803985596,
+          "id": 1880151621
+        },
+        {
+          "distance": 0.18675148487091064,
+          "id": 1880151007
+        },
+        {
+          "distance": 0.18825644254684448,
+          "id": 1880151783
+        },
+        {
+          "distance": 0.18983876705169678,
+          "id": 1880151557
+        },
+        {
+          "distance": 0.19054919481277466,
+          "id": 1880151007
+        },
+        {
+          "distance": 0.1962031126022339,
+          "id": 1880151677
+        },
+        {
+          "distance": 0.2002561092376709,
+          "id": 1880151621
+        },
+        {
+          "distance": 0.21351569890975952,
+          "id": 1880151557
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151737,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777663,
     "wof:name": "Professional sculptor Tererai Murambatsvina (b...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

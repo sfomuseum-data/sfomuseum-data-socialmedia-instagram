@@ -25,6 +25,50 @@
       "taken": 1479498000,
       "taken_at": "Nov 18, 2016 7:40 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24856454133987427,
+          "id": 1729359269
+        },
+        {
+          "distance": 0.27243489027023315,
+          "id": 1947424819
+        },
+        {
+          "distance": 0.2757483720779419,
+          "id": 1947424819
+        },
+        {
+          "distance": 0.2927424907684326,
+          "id": 1729359877
+        },
+        {
+          "distance": 0.2929273247718811,
+          "id": 1729359269
+        },
+        {
+          "distance": 0.296040415763855,
+          "id": 1729356099
+        },
+        {
+          "distance": 0.305258572101593,
+          "id": 1729358229
+        },
+        {
+          "distance": 0.30763208866119385,
+          "id": 1729360057
+        },
+        {
+          "distance": 0.3087300658226013,
+          "id": 1729358175
+        },
+        {
+          "distance": 0.3106604218482971,
+          "id": 1729355015
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360113,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "A view of Green Street on San Francisco’s Telegraph Hill is featured on this United Airlines menu from circa 1975 by American painter Peter Hayward...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

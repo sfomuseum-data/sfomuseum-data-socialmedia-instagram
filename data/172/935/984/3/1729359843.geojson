@@ -25,6 +25,50 @@
       "taken": 1486206780,
       "taken_at": "Feb 04, 2017 11:13 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.08853358030319214,
+          "id": 1729358203
+        },
+        {
+          "distance": 0.1398051381111145,
+          "id": 1729359483
+        },
+        {
+          "distance": 0.14761042594909668,
+          "id": 1729358203
+        },
+        {
+          "distance": 0.1484023928642273,
+          "id": 1729358607
+        },
+        {
+          "distance": 0.17164522409439087,
+          "id": 1729361271
+        },
+        {
+          "distance": 0.1728646159172058,
+          "id": 1729358607
+        },
+        {
+          "distance": 0.18337321281433105,
+          "id": 1729359483
+        },
+        {
+          "distance": 0.1928931474685669,
+          "id": 1729362077
+        },
+        {
+          "distance": 0.19681322574615479,
+          "id": 1729356091
+        },
+        {
+          "distance": 0.20116794109344482,
+          "id": 1729360319
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359843,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "#HappyBirthday to Charles #Lindbergh who was born #onthisday in 1902...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

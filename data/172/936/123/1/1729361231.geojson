@@ -25,6 +25,50 @@
       "taken": 1451128920,
       "taken_at": "Dec 26, 2015 11:22 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3096672296524048,
+          "id": 1880151205
+        },
+        {
+          "distance": 0.3098940849304199,
+          "id": 1729355903
+        },
+        {
+          "distance": 0.3111454248428345,
+          "id": 1729355677
+        },
+        {
+          "distance": 0.3114370107650757,
+          "id": 1729355677
+        },
+        {
+          "distance": 0.3156852126121521,
+          "id": 1729355903
+        },
+        {
+          "distance": 0.32159513235092163,
+          "id": 1729355885
+        },
+        {
+          "distance": 0.3235442638397217,
+          "id": 1729356557
+        },
+        {
+          "distance": 0.32473868131637573,
+          "id": 1729356819
+        },
+        {
+          "distance": 0.3266947269439697,
+          "id": 1729356557
+        },
+        {
+          "distance": 0.32790154218673706,
+          "id": 1729356577
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361231,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "The Kids Art Museum (KAM), located in Monterey, California, is dedicated to promoting art education for all children...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

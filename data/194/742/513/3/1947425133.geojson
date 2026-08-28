@@ -28,6 +28,50 @@
       "taken": 1706890800,
       "taken_at": "Feb 02, 2024 4:20 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.22236084938049316,
+          "id": 1729356063
+        },
+        {
+          "distance": 0.22697097063064575,
+          "id": 1880151115
+        },
+        {
+          "distance": 0.23293840885162354,
+          "id": 1880151091
+        },
+        {
+          "distance": 0.24496012926101685,
+          "id": 1947424955
+        },
+        {
+          "distance": 0.2509300708770752,
+          "id": 1880151439
+        },
+        {
+          "distance": 0.25139766931533813,
+          "id": 1729358671
+        },
+        {
+          "distance": 0.2572377324104309,
+          "id": 1947424955
+        },
+        {
+          "distance": 0.2574002146720886,
+          "id": 1763559497
+        },
+        {
+          "distance": 0.2629551291465759,
+          "id": 1880151379
+        },
+        {
+          "distance": 0.26355284452438354,
+          "id": 1729355029
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1947425133,
-    "wof:lastmodified": 1733175327,
+    "wof:lastmodified": 1787777664,
     "wof:name": "In the early 1960s, enamel artist June Schwarcz's husband Leroy, a mechanical engineer, constructed an electroplating tank so she could plate raised designs to fill with champlevé and cloisonné enamels...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -70,5 +114,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -34,6 +34,50 @@
       "taken": 1495879320,
       "taken_at": "May 27, 2017 10:02 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13024002313613892,
+          "id": 1763559487
+        },
+        {
+          "distance": 0.13092172145843506,
+          "id": 1763559327
+        },
+        {
+          "distance": 0.1476459503173828,
+          "id": 1729361167
+        },
+        {
+          "distance": 0.15794771909713745,
+          "id": 1729361549
+        },
+        {
+          "distance": 0.16566824913024902,
+          "id": 1947425117
+        },
+        {
+          "distance": 0.175281822681427,
+          "id": 1729356319
+        },
+        {
+          "distance": 0.18885761499404907,
+          "id": 1763559327
+        },
+        {
+          "distance": 0.18975436687469482,
+          "id": 1763559487
+        },
+        {
+          "distance": 0.18995052576065063,
+          "id": 1947425117
+        },
+        {
+          "distance": 0.19496792554855347,
+          "id": 1729361531
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729359455,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Happy 80th birthday to our most famous landmark!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

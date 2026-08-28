@@ -45,6 +45,50 @@
       "taken": 1503392820,
       "taken_at": "Aug 22, 2017 9:07 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.03190112113952637,
+          "id": 1729359155
+        },
+        {
+          "distance": 0.09862291812896729,
+          "id": 1729359155
+        },
+        {
+          "distance": 0.2745581865310669,
+          "id": 1763559677
+        },
+        {
+          "distance": 0.2801692485809326,
+          "id": 1729360607
+        },
+        {
+          "distance": 0.29266780614852905,
+          "id": 1729355161
+        },
+        {
+          "distance": 0.3058053255081177,
+          "id": 1763559677
+        },
+        {
+          "distance": 0.30743294954299927,
+          "id": 1729356769
+        },
+        {
+          "distance": 0.32251298427581787,
+          "id": 1729360105
+        },
+        {
+          "distance": 0.32379794120788574,
+          "id": 1729359523
+        },
+        {
+          "distance": 0.3305853605270386,
+          "id": 1729361019
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -74,7 +118,7 @@
       }
     ],
     "wof:id": 1763558683,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777659,
     "wof:name": "Growing up outside of San Francisco in the East Bay suburb of Walnut Creek during the 1950s and ‘60s, Mimi Plumb was raised amidst a changing landscape...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -91,5 +135,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

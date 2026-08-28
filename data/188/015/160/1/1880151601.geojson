@@ -30,6 +30,50 @@
       "taken": 1657212660,
       "taken_at": "Jul 07, 2022 4:51 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1988999843597412,
+          "id": 1763559533
+        },
+        {
+          "distance": 0.22516536712646484,
+          "id": 1763559533
+        },
+        {
+          "distance": 0.23211240768432617,
+          "id": 1880151805
+        },
+        {
+          "distance": 0.2332916259765625,
+          "id": 1880151779
+        },
+        {
+          "distance": 0.2439061999320984,
+          "id": 1729355509
+        },
+        {
+          "distance": 0.24660325050354004,
+          "id": 1729355509
+        },
+        {
+          "distance": 0.24687957763671875,
+          "id": 1880151639
+        },
+        {
+          "distance": 0.25229209661483765,
+          "id": 1729357255
+        },
+        {
+          "distance": 0.2554171681404114,
+          "id": 1880151639
+        },
+        {
+          "distance": 0.25789982080459595,
+          "id": 1763559059
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151601,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Ozark Air Lines was founded in 1943 in Springfield, Missouri, and although service began in 1945, it was quickly halted as the Civil Aeronautics Board (CAB) had not issued them a license to operate...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

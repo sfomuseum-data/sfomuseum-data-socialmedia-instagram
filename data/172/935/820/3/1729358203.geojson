@@ -49,6 +49,50 @@
       "taken": 1526901360,
       "taken_at": "May 21, 2018 11:16 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.08817422389984131,
+          "id": 1729359843
+        },
+        {
+          "distance": 0.13220614194869995,
+          "id": 1880151445
+        },
+        {
+          "distance": 0.1356433629989624,
+          "id": 1729356091
+        },
+        {
+          "distance": 0.14025217294692993,
+          "id": 1729360319
+        },
+        {
+          "distance": 0.1410287618637085,
+          "id": 1880151387
+        },
+        {
+          "distance": 0.15145742893218994,
+          "id": 1729356707
+        },
+        {
+          "distance": 0.16474366188049316,
+          "id": 1729355657
+        },
+        {
+          "distance": 0.16532480716705322,
+          "id": 1729357075
+        },
+        {
+          "distance": 0.1683647632598877,
+          "id": 1729359843
+        },
+        {
+          "distance": 0.16897642612457275,
+          "id": 1729355287
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -78,7 +122,7 @@
       }
     ],
     "wof:id": 1729358203,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "#OnThisDay in 1927, Charles A. Lindbergh landed in Paris, France, making aviation history...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -95,5 +139,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

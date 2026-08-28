@@ -52,6 +52,50 @@
       "taken": 1513716660,
       "taken_at": "Dec 19, 2017, 8:51 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11577153205871582,
+          "id": 1729358753
+        },
+        {
+          "distance": 0.13891685009002686,
+          "id": 1729358801
+        },
+        {
+          "distance": 0.14364838600158691,
+          "id": 1729358573
+        },
+        {
+          "distance": 0.15153461694717407,
+          "id": 1729358959
+        },
+        {
+          "distance": 0.15338033437728882,
+          "id": 1729358715
+        },
+        {
+          "distance": 0.1591724157333374,
+          "id": 1729358677
+        },
+        {
+          "distance": 0.17194443941116333,
+          "id": 1729358521
+        },
+        {
+          "distance": 0.17282158136367798,
+          "id": 1729358527
+        },
+        {
+          "distance": 0.17319154739379883,
+          "id": 1729358681
+        },
+        {
+          "distance": 0.1735854148864746,
+          "id": 1729358835
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -81,7 +125,7 @@
       }
     ],
     "wof:id": 1729358803,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777634,
     "wof:name": "On the northern edge of Los Altos, Mexico, is the municipality of Pantelhó...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -98,5 +142,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

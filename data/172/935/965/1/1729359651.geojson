@@ -29,6 +29,50 @@
       "taken": 1491472800,
       "taken_at": "Apr 06, 2017 10:00 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.04336947202682495,
+          "id": 1729358371
+        },
+        {
+          "distance": 0.12007021903991699,
+          "id": 1880151387
+        },
+        {
+          "distance": 0.13712286949157715,
+          "id": 1880151691
+        },
+        {
+          "distance": 0.14005941152572632,
+          "id": 1729357537
+        },
+        {
+          "distance": 0.1567440629005432,
+          "id": 1729358371
+        },
+        {
+          "distance": 0.15738308429718018,
+          "id": 1729356091
+        },
+        {
+          "distance": 0.158916175365448,
+          "id": 1880151387
+        },
+        {
+          "distance": 0.1607162356376648,
+          "id": 1729360319
+        },
+        {
+          "distance": 0.16398578882217407,
+          "id": 1880151445
+        },
+        {
+          "distance": 0.16508519649505615,
+          "id": 1880151189
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729359651,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "Happy Birthday #United Airlines!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

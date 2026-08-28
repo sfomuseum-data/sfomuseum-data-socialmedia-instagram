@@ -49,6 +49,50 @@
       "taken": 1501322640,
       "taken_at": "Jul 29, 2017 10:04 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17226731777191162,
+          "id": 1729360231
+        },
+        {
+          "distance": 0.21549773216247559,
+          "id": 1729360231
+        },
+        {
+          "distance": 0.25878167152404785,
+          "id": 1763559273
+        },
+        {
+          "distance": 0.26321905851364136,
+          "id": 1729362461
+        },
+        {
+          "distance": 0.26498866081237793,
+          "id": 1729356229
+        },
+        {
+          "distance": 0.3082582354545593,
+          "id": 1729359493
+        },
+        {
+          "distance": 0.3164135813713074,
+          "id": 1763559273
+        },
+        {
+          "distance": 0.31697291135787964,
+          "id": 1729355417
+        },
+        {
+          "distance": 0.3237832188606262,
+          "id": 1729356033
+        },
+        {
+          "distance": 0.3244327902793884,
+          "id": 1729356229
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -78,7 +122,7 @@
       }
     ],
     "wof:id": 1729359253,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "In 1961, the Nut Tree Restaurant commissioned its first Chavez model after Edwin Power, a pilot and one of the restaurant's owners, had seen Chavez's work in the collection of the National Air and Space Museum...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -95,5 +139,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

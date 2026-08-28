@@ -29,6 +29,50 @@
       "taken": 1480613100,
       "taken_at": "Dec 01, 2016 5:25 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3108815550804138,
+          "id": 1729359071
+        },
+        {
+          "distance": 0.3256113529205322,
+          "id": 1729359071
+        },
+        {
+          "distance": 0.33338677883148193,
+          "id": 1729359463
+        },
+        {
+          "distance": 0.3335726857185364,
+          "id": 1763558679
+        },
+        {
+          "distance": 0.34094035625457764,
+          "id": 1763558897
+        },
+        {
+          "distance": 0.3649400472640991,
+          "id": 1729358471
+        },
+        {
+          "distance": 0.3888646960258484,
+          "id": 1763558679
+        },
+        {
+          "distance": 0.38996148109436035,
+          "id": 1729359463
+        },
+        {
+          "distance": 0.4003725051879883,
+          "id": 1763558897
+        },
+        {
+          "distance": 0.40214604139328003,
+          "id": 1729359721
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729360059,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777639,
     "wof:name": "What would you have ordered from this circa 1965 menu from the International Room?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

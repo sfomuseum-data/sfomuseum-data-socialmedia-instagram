@@ -29,6 +29,50 @@
       "taken": 1673351820,
       "taken_at": "Jan 10, 2023 11:57 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09661394357681274,
+          "id": 1880150875
+        },
+        {
+          "distance": 0.1233397126197815,
+          "id": 1880151317
+        },
+        {
+          "distance": 0.1382286548614502,
+          "id": 1880150875
+        },
+        {
+          "distance": 0.19636106491088867,
+          "id": 1880151317
+        },
+        {
+          "distance": 0.200916588306427,
+          "id": 1880150873
+        },
+        {
+          "distance": 0.20917481184005737,
+          "id": 1729356499
+        },
+        {
+          "distance": 0.2174466848373413,
+          "id": 1880151785
+        },
+        {
+          "distance": 0.224012553691864,
+          "id": 1947424951
+        },
+        {
+          "distance": 0.22654330730438232,
+          "id": 1947425165
+        },
+        {
+          "distance": 0.23063069581985474,
+          "id": 1947425305
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880151197,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Originally founded as Western Air Express in 1925, the company rebranded itself as Western Airlines in 1941 after several mergers during the 1930s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

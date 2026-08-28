@@ -47,6 +47,50 @@
       "taken": 1511114400,
       "taken_at": "Nov 19, 2017 6:00 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3809549808502197,
+          "id": 1729358909
+        },
+        {
+          "distance": 0.3844352960586548,
+          "id": 1729358909
+        },
+        {
+          "distance": 0.3956405520439148,
+          "id": 1947425137
+        },
+        {
+          "distance": 0.39761632680892944,
+          "id": 1729358479
+        },
+        {
+          "distance": 0.40715646743774414,
+          "id": 1729362319
+        },
+        {
+          "distance": 0.4142068028450012,
+          "id": 1729357809
+        },
+        {
+          "distance": 0.41591042280197144,
+          "id": 1763559501
+        },
+        {
+          "distance": 0.4171685576438904,
+          "id": 1880151463
+        },
+        {
+          "distance": 0.41860783100128174,
+          "id": 1729361641
+        },
+        {
+          "distance": 0.42164862155914307,
+          "id": 1729361641
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -76,7 +120,7 @@
       }
     ],
     "wof:id": 1729358893,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Hold on to your lunch!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -93,5 +137,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

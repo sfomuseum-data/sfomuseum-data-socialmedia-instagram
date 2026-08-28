@@ -25,6 +25,50 @@
       "taken": 1488880020,
       "taken_at": "Mar 07, 2017 9:47 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19595909118652344,
+          "id": 1729355795
+        },
+        {
+          "distance": 0.19950562715530396,
+          "id": 1763558959
+        },
+        {
+          "distance": 0.2025512456893921,
+          "id": 1729360047
+        },
+        {
+          "distance": 0.22809332609176636,
+          "id": 1729360047
+        },
+        {
+          "distance": 0.22824597358703613,
+          "id": 1729358963
+        },
+        {
+          "distance": 0.23447167873382568,
+          "id": 1729355795
+        },
+        {
+          "distance": 0.2347586750984192,
+          "id": 1729355165
+        },
+        {
+          "distance": 0.24437201023101807,
+          "id": 1729357481
+        },
+        {
+          "distance": 0.25064700841903687,
+          "id": 1880151167
+        },
+        {
+          "distance": 0.2515794634819031,
+          "id": 1729361039
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359745,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "The Flying Tiger Line was founded on June 24, 1945, as the National Skyway Freight Corporation...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

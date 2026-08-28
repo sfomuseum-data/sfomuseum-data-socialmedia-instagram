@@ -25,6 +25,50 @@
       "taken": 1468256880,
       "taken_at": "Jul 11, 2016 5:08 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17713487148284912,
+          "id": 1729361085
+        },
+        {
+          "distance": 0.183393657207489,
+          "id": 1729355251
+        },
+        {
+          "distance": 0.19288235902786255,
+          "id": 1729357711
+        },
+        {
+          "distance": 0.20861726999282837,
+          "id": 1729360541
+        },
+        {
+          "distance": 0.2131561040878296,
+          "id": 1729357717
+        },
+        {
+          "distance": 0.21786969900131226,
+          "id": 1729361255
+        },
+        {
+          "distance": 0.22060543298721313,
+          "id": 1729359947
+        },
+        {
+          "distance": 0.22606700658798218,
+          "id": 1729361085
+        },
+        {
+          "distance": 0.22955584526062012,
+          "id": 1729356177
+        },
+        {
+          "distance": 0.23050546646118164,
+          "id": 1729357717
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360537,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Cargo planes carry nearly every type of material around the world - even go-karts!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1486979040,
       "taken_at": "Feb 13, 2017 9:44 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19658517837524414,
+          "id": 1729355439
+        },
+        {
+          "distance": 0.21666723489761353,
+          "id": 1729355439
+        },
+        {
+          "distance": 0.23681312799453735,
+          "id": 1729360239
+        },
+        {
+          "distance": 0.24116981029510498,
+          "id": 1729359869
+        },
+        {
+          "distance": 0.24164390563964844,
+          "id": 1729359961
+        },
+        {
+          "distance": 0.2540348768234253,
+          "id": 1729359881
+        },
+        {
+          "distance": 0.27173519134521484,
+          "id": 1729359869
+        },
+        {
+          "distance": 0.27895915508270264,
+          "id": 1729360183
+        },
+        {
+          "distance": 0.27907484769821167,
+          "id": 1729359961
+        },
+        {
+          "distance": 0.28678208589553833,
+          "id": 1729360239
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359827,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "The Turquoise Coast, in southwest Turkey, was home to the Ancient Lycians...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

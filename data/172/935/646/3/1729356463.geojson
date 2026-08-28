@@ -36,6 +36,50 @@
       "taken": 1559813340,
       "taken_at": "Jun 6, 2019, 9:29 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.21627461910247803,
+          "id": 1729356171
+        },
+        {
+          "distance": 0.22018951177597046,
+          "id": 1729356179
+        },
+        {
+          "distance": 0.22649240493774414,
+          "id": 1729356171
+        },
+        {
+          "distance": 0.23600393533706665,
+          "id": 1729356179
+        },
+        {
+          "distance": 0.24321097135543823,
+          "id": 1729356461
+        },
+        {
+          "distance": 0.25148361921310425,
+          "id": 1729356593
+        },
+        {
+          "distance": 0.2603464722633362,
+          "id": 1729356141
+        },
+        {
+          "distance": 0.26492881774902344,
+          "id": 1729356141
+        },
+        {
+          "distance": 0.2671985626220703,
+          "id": 1729356287
+        },
+        {
+          "distance": 0.2717752456665039,
+          "id": 1729356455
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729356463,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Insects with bright, high-contrast colors are often noxious and do not taste good, or may bite, or sting...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

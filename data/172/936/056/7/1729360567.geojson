@@ -25,6 +25,50 @@
       "taken": 1467367980,
       "taken_at": "Jul 01, 2016 10:13 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.25046026706695557,
+          "id": 1729359217
+        },
+        {
+          "distance": 0.2579071521759033,
+          "id": 1729359659
+        },
+        {
+          "distance": 0.2645377516746521,
+          "id": 1947425117
+        },
+        {
+          "distance": 0.27495163679122925,
+          "id": 1729356715
+        },
+        {
+          "distance": 0.27664637565612793,
+          "id": 1729363027
+        },
+        {
+          "distance": 0.27925044298171997,
+          "id": 1763559327
+        },
+        {
+          "distance": 0.280367374420166,
+          "id": 1729358709
+        },
+        {
+          "distance": 0.28118759393692017,
+          "id": 1729361603
+        },
+        {
+          "distance": 0.28161096572875977,
+          "id": 1729359875
+        },
+        {
+          "distance": 0.28810715675354004,
+          "id": 1763559487
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360567,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Does a California vacation fit your plans and pocketbook this summer?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

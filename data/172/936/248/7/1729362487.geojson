@@ -25,6 +25,50 @@
       "taken": 1383212760,
       "taken_at": "Oct 31, 2013 9:46 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15332245826721191,
+          "id": 1729362889
+        },
+        {
+          "distance": 0.21098512411117554,
+          "id": 1729362901
+        },
+        {
+          "distance": 0.21454036235809326,
+          "id": 1729362889
+        },
+        {
+          "distance": 0.22291040420532227,
+          "id": 1729362901
+        },
+        {
+          "distance": 0.22650736570358276,
+          "id": 1729362307
+        },
+        {
+          "distance": 0.23605746030807495,
+          "id": 1729362773
+        },
+        {
+          "distance": 0.25213295221328735,
+          "id": 1729362307
+        },
+        {
+          "distance": 0.25650280714035034,
+          "id": 1729362711
+        },
+        {
+          "distance": 0.26017332077026367,
+          "id": 1729360419
+        },
+        {
+          "distance": 0.26132041215896606,
+          "id": 1763559183
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362487,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "Museum lover AND a plane spotter?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

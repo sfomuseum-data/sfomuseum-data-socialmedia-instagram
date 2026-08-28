@@ -32,6 +32,50 @@
       "taken": 1675762380,
       "taken_at": "Feb 07, 2023 9:33 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16648876667022705,
+          "id": 1880151605
+        },
+        {
+          "distance": 0.1706104278564453,
+          "id": 1880151605
+        },
+        {
+          "distance": 0.19812923669815063,
+          "id": 1880151619
+        },
+        {
+          "distance": 0.20632582902908325,
+          "id": 1880151305
+        },
+        {
+          "distance": 0.21562528610229492,
+          "id": 1729356085
+        },
+        {
+          "distance": 0.21594130992889404,
+          "id": 1729355425
+        },
+        {
+          "distance": 0.2159428596496582,
+          "id": 1947424879
+        },
+        {
+          "distance": 0.2227512001991272,
+          "id": 1729362675
+        },
+        {
+          "distance": 0.22498786449432373,
+          "id": 1729355421
+        },
+        {
+          "distance": 0.22506481409072876,
+          "id": 1880151499
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1880151143,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "This tile shows three cranes flying above waves, with a full moon and two clouds behind them...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

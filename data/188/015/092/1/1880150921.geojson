@@ -29,6 +29,50 @@
       "taken": 1684166460,
       "taken_at": "May 15, 2023 4:01 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.31247031688690186,
+          "id": 1729361477
+        },
+        {
+          "distance": 0.33213603496551514,
+          "id": 1729355169
+        },
+        {
+          "distance": 0.3352316617965698,
+          "id": 1729357175
+        },
+        {
+          "distance": 0.3374482989311218,
+          "id": 1763558679
+        },
+        {
+          "distance": 0.3386630415916443,
+          "id": 1763558653
+        },
+        {
+          "distance": 0.3386630415916443,
+          "id": 1729359849
+        },
+        {
+          "distance": 0.3454441428184509,
+          "id": 1729358727
+        },
+        {
+          "distance": 0.3479155898094177,
+          "id": 1729359167
+        },
+        {
+          "distance": 0.34824395179748535,
+          "id": 1763558653
+        },
+        {
+          "distance": 0.34824395179748535,
+          "id": 1729359849
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880150921,
-    "wof:lastmodified": 1733175333,
+    "wof:lastmodified": 1787777661,
     "wof:name": "How many of you take time to review the safety information card once you’ve boarded an airplane?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

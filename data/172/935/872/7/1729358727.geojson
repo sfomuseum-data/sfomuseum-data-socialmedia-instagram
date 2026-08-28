@@ -37,6 +37,50 @@
       "taken": 1515583980,
       "taken_at": "Jan 10, 2018 11:33 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18190765380859375,
+          "id": 1729358929
+        },
+        {
+          "distance": 0.18564438819885254,
+          "id": 1729361153
+        },
+        {
+          "distance": 0.18637120723724365,
+          "id": 1763559073
+        },
+        {
+          "distance": 0.1921072006225586,
+          "id": 1763558705
+        },
+        {
+          "distance": 0.19673967361450195,
+          "id": 1729361465
+        },
+        {
+          "distance": 0.19871288537979126,
+          "id": 1729358087
+        },
+        {
+          "distance": 0.2048751711845398,
+          "id": 1729356407
+        },
+        {
+          "distance": 0.20796096324920654,
+          "id": 1729357345
+        },
+        {
+          "distance": 0.21264761686325073,
+          "id": 1880151805
+        },
+        {
+          "distance": 0.21397143602371216,
+          "id": 1880151013
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729358727,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "The 727 was Boeing's only tri-jet aircraft and, at the time of its production from the 1960s to the 1980s was Boeing's best-selling jet with over 1,800 sold...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

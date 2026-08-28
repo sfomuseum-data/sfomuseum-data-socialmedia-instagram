@@ -34,6 +34,50 @@
       "taken": 1551376020,
       "taken_at": "Feb 28, 2019, 5:47 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14606010913848877,
+          "id": 1729355207
+        },
+        {
+          "distance": 0.1642664670944214,
+          "id": 1729356895
+        },
+        {
+          "distance": 0.16588062047958374,
+          "id": 1729355207
+        },
+        {
+          "distance": 0.18332254886627197,
+          "id": 1729360677
+        },
+        {
+          "distance": 0.18418020009994507,
+          "id": 1947425255
+        },
+        {
+          "distance": 0.19681274890899658,
+          "id": 1729361697
+        },
+        {
+          "distance": 0.20052164793014526,
+          "id": 1763558661
+        },
+        {
+          "distance": 0.20052164793014526,
+          "id": 1729359633
+        },
+        {
+          "distance": 0.20494931936264038,
+          "id": 1729361697
+        },
+        {
+          "distance": 0.20561456680297852,
+          "id": 1729360213
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729356897,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Terminal 2, previously known as the Central Terminal, opened in 1954...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

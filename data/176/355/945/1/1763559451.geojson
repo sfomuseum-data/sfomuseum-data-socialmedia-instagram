@@ -25,6 +25,50 @@
       "taken": 1629824160,
       "taken_at": "Aug 24, 2021 4:56 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.227344810962677,
+          "id": 1763559175
+        },
+        {
+          "distance": 0.23157191276550293,
+          "id": 1763559089
+        },
+        {
+          "distance": 0.2496219277381897,
+          "id": 1763559175
+        },
+        {
+          "distance": 0.2544019818305969,
+          "id": 1729359587
+        },
+        {
+          "distance": 0.2665489912033081,
+          "id": 1763559463
+        },
+        {
+          "distance": 0.2671810984611511,
+          "id": 1763558855
+        },
+        {
+          "distance": 0.26926952600479126,
+          "id": 1763559089
+        },
+        {
+          "distance": 0.2719089388847351,
+          "id": 1763559433
+        },
+        {
+          "distance": 0.27400755882263184,
+          "id": 1763559205
+        },
+        {
+          "distance": 0.274192214012146,
+          "id": 1729359587
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1763559451,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "The first Motorcycle Cannonball was a 3,325-mile endurance run from Kitty Hawk, North Carolina, to Santa Monica, California, held from September 10–26, 2010...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

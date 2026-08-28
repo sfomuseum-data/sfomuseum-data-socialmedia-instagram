@@ -48,6 +48,50 @@
       "taken": 1510313040,
       "taken_at": "Nov 10, 2017 11:24 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12485730648040771,
+          "id": 1729358363
+        },
+        {
+          "distance": 0.12777769565582275,
+          "id": 1729358979
+        },
+        {
+          "distance": 0.13365787267684937,
+          "id": 1729357039
+        },
+        {
+          "distance": 0.1386370062828064,
+          "id": 1729357755
+        },
+        {
+          "distance": 0.13919532299041748,
+          "id": 1763558881
+        },
+        {
+          "distance": 0.14731431007385254,
+          "id": 1729357073
+        },
+        {
+          "distance": 0.15505433082580566,
+          "id": 1729357063
+        },
+        {
+          "distance": 0.16499394178390503,
+          "id": 1729357439
+        },
+        {
+          "distance": 0.16752439737319946,
+          "id": 1729357755
+        },
+        {
+          "distance": 0.17378413677215576,
+          "id": 1729357039
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -77,7 +121,7 @@
       }
     ],
     "wof:id": 1729358911,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777634,
     "wof:name": "The Dornier Do X flying boat was the largest airplane built at the time of its introduction in 1929...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -94,5 +138,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

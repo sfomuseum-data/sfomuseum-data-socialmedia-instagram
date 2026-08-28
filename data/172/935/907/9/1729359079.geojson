@@ -52,6 +52,50 @@
       "taken": 1505421900,
       "taken_at": "Sep 14, 2017 8:45 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.29983949661254883,
+          "id": 1729358727
+        },
+        {
+          "distance": 0.3400917053222656,
+          "id": 1729358727
+        },
+        {
+          "distance": 0.3419124484062195,
+          "id": 1729359193
+        },
+        {
+          "distance": 0.3497413992881775,
+          "id": 1729355095
+        },
+        {
+          "distance": 0.35008925199508667,
+          "id": 1729358929
+        },
+        {
+          "distance": 0.3520123362541199,
+          "id": 1880151343
+        },
+        {
+          "distance": 0.35224729776382446,
+          "id": 1729357349
+        },
+        {
+          "distance": 0.35529422760009766,
+          "id": 1729361477
+        },
+        {
+          "distance": 0.3566162586212158,
+          "id": 1763558705
+        },
+        {
+          "distance": 0.36554354429244995,
+          "id": 1763558705
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -81,7 +125,7 @@
       }
     ],
     "wof:id": 1729359079,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "By the 1950s, United began a campaign to engage with its youngest passengers...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -98,5 +142,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

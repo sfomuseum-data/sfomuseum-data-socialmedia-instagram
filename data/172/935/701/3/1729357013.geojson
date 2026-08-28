@@ -40,6 +40,50 @@
       "taken": 1549018260,
       "taken_at": "Feb 01, 2019 10:51 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.21012037992477417,
+          "id": 1729357985
+        },
+        {
+          "distance": 0.21012037992477417,
+          "id": 1729357987
+        },
+        {
+          "distance": 0.2338482141494751,
+          "id": 1729356513
+        },
+        {
+          "distance": 0.23596513271331787,
+          "id": 1729358031
+        },
+        {
+          "distance": 0.24007999897003174,
+          "id": 1729356511
+        },
+        {
+          "distance": 0.24044036865234375,
+          "id": 1729357939
+        },
+        {
+          "distance": 0.24215620756149292,
+          "id": 1729356879
+        },
+        {
+          "distance": 0.24833863973617554,
+          "id": 1729358021
+        },
+        {
+          "distance": 0.2548692226409912,
+          "id": 1729358269
+        },
+        {
+          "distance": 0.2550305128097534,
+          "id": 1729358223
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729357013,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777629,
     "wof:name": "During the late 1940s, high-fidelity audio equipment progressed from floor standing, cabinet radios to scientifically designed, component-based systems...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

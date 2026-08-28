@@ -25,6 +25,50 @@
       "taken": 1374573300,
       "taken_at": "Jul 23, 2013 9:55 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16449570655822754,
+          "id": 1729362639
+        },
+        {
+          "distance": 0.18663889169692993,
+          "id": 1729362639
+        },
+        {
+          "distance": 0.21525967121124268,
+          "id": 1763559113
+        },
+        {
+          "distance": 0.21781569719314575,
+          "id": 1763559079
+        },
+        {
+          "distance": 0.2208843231201172,
+          "id": 1763559113
+        },
+        {
+          "distance": 0.22359180450439453,
+          "id": 1729360365
+        },
+        {
+          "distance": 0.22681307792663574,
+          "id": 1729360205
+        },
+        {
+          "distance": 0.22751569747924805,
+          "id": 1763558977
+        },
+        {
+          "distance": 0.23384076356887817,
+          "id": 1763559429
+        },
+        {
+          "distance": 0.23428016901016235,
+          "id": 1729359743
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362619,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "Airlines have long embraced the use of #plastics for everything from meal service sets to flight bags to uniforms, such as this flight attendant dress by designer Emilio Pucci for Braniff International Airways...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

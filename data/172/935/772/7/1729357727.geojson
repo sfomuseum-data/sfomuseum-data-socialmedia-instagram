@@ -35,6 +35,50 @@
       "taken": 1535967960,
       "taken_at": "Sep 03, 2018 9:46 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12579208612442017,
+          "id": 1880150909
+        },
+        {
+          "distance": 0.15476471185684204,
+          "id": 1729356027
+        },
+        {
+          "distance": 0.16977447271347046,
+          "id": 1729355653
+        },
+        {
+          "distance": 0.17157584428787231,
+          "id": 1729356027
+        },
+        {
+          "distance": 0.17384344339370728,
+          "id": 1729360531
+        },
+        {
+          "distance": 0.17390233278274536,
+          "id": 1763559173
+        },
+        {
+          "distance": 0.17452746629714966,
+          "id": 1729358543
+        },
+        {
+          "distance": 0.1749722957611084,
+          "id": 1880150909
+        },
+        {
+          "distance": 0.17845690250396729,
+          "id": 1729358543
+        },
+        {
+          "distance": 0.1819102168083191,
+          "id": 1880151063
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729357727,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Built for the Panama–Pacific International Exposition in 1915, the Palace of Fine Arts is a San Francisco landmark...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

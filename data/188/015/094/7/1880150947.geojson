@@ -32,6 +32,50 @@
       "taken": 1683019560,
       "taken_at": "May 02, 2023 9:26 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17146408557891846,
+          "id": 1729355633
+        },
+        {
+          "distance": 0.17321926355361938,
+          "id": 1947425295
+        },
+        {
+          "distance": 0.1765938401222229,
+          "id": 1763559469
+        },
+        {
+          "distance": 0.19157284498214722,
+          "id": 1729355629
+        },
+        {
+          "distance": 0.19711899757385254,
+          "id": 1763559599
+        },
+        {
+          "distance": 0.21159154176712036,
+          "id": 1729358533
+        },
+        {
+          "distance": 0.21399205923080444,
+          "id": 1763559579
+        },
+        {
+          "distance": 0.22072052955627441,
+          "id": 1729357999
+        },
+        {
+          "distance": 0.2274841070175171,
+          "id": 1763558931
+        },
+        {
+          "distance": 0.2298770546913147,
+          "id": 1763559555
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1880150947,
-    "wof:lastmodified": 1733175333,
+    "wof:lastmodified": 1787777661,
     "wof:name": "Joyce Hsu is a Bay Area artist best known for her mechanized creatures that inhabit a fantasy world of the artist’s creation...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

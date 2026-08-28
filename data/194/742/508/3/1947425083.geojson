@@ -31,6 +31,50 @@
       "taken": 1710172860,
       "taken_at": "Mar 11, 2024 4:01 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.025431573390960693,
+          "id": 1947425037
+        },
+        {
+          "distance": 0.11433732509613037,
+          "id": 1947425037
+        },
+        {
+          "distance": 0.12051355838775635,
+          "id": 1947425025
+        },
+        {
+          "distance": 0.1230916976928711,
+          "id": 1947425223
+        },
+        {
+          "distance": 0.1594374179840088,
+          "id": 1947425227
+        },
+        {
+          "distance": 0.20351755619049072,
+          "id": 1947425025
+        },
+        {
+          "distance": 0.20938217639923096,
+          "id": 1947425223
+        },
+        {
+          "distance": 0.21016347408294678,
+          "id": 1947425227
+        },
+        {
+          "distance": 0.2523842453956604,
+          "id": 1947424955
+        },
+        {
+          "distance": 0.2657257318496704,
+          "id": 1947424955
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1947425083,
-    "wof:lastmodified": 1733175325,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Fiber artist Kay Sekimachi’s series of monofilament sculptures began in 1963 as an experiment to weave a wall hanging in multiple, translucent layers...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -73,5 +117,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

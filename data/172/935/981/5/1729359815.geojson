@@ -25,6 +25,50 @@
       "taken": 1487098860,
       "taken_at": "Feb 14, 2017 7:01 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.31627941131591797,
+          "id": 1729360237
+        },
+        {
+          "distance": 0.3573008179664612,
+          "id": 1729360479
+        },
+        {
+          "distance": 0.36143410205841064,
+          "id": 1729360237
+        },
+        {
+          "distance": 0.3648936152458191,
+          "id": 1729359527
+        },
+        {
+          "distance": 0.3654078245162964,
+          "id": 1729359527
+        },
+        {
+          "distance": 0.3757423162460327,
+          "id": 1729360331
+        },
+        {
+          "distance": 0.3773641586303711,
+          "id": 1729360331
+        },
+        {
+          "distance": 0.378246545791626,
+          "id": 1729360641
+        },
+        {
+          "distance": 0.3820192813873291,
+          "id": 1729361121
+        },
+        {
+          "distance": 0.3855903148651123,
+          "id": 1729358783
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359815,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "#Mexico was one of Pan American Airways' first destinations...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

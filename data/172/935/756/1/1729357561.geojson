@@ -39,6 +39,50 @@
       "taken": 1539370860,
       "taken_at": "Oct 12, 2018, 7:01 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0678223967552185,
+          "id": 1729358087
+        },
+        {
+          "distance": 0.0906258225440979,
+          "id": 1729358087
+        },
+        {
+          "distance": 0.17270106077194214,
+          "id": 1729357345
+        },
+        {
+          "distance": 0.18113166093826294,
+          "id": 1729357345
+        },
+        {
+          "distance": 0.18161845207214355,
+          "id": 1729356753
+        },
+        {
+          "distance": 0.18521398305892944,
+          "id": 1729355873
+        },
+        {
+          "distance": 0.18814224004745483,
+          "id": 1729358895
+        },
+        {
+          "distance": 0.19224518537521362,
+          "id": 1729356033
+        },
+        {
+          "distance": 0.19386011362075806,
+          "id": 1729356033
+        },
+        {
+          "distance": 0.2000948190689087,
+          "id": 1729358895
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729357561,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777632,
     "wof:name": "The DC-10 was McDonnell Douglas’ first wide-body jetliner...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

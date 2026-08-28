@@ -36,6 +36,50 @@
       "taken": 1551480720,
       "taken_at": "Mar 1, 2019, 10:52 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14973604679107666,
+          "id": 1729356873
+        },
+        {
+          "distance": 0.19376850128173828,
+          "id": 1729360355
+        },
+        {
+          "distance": 0.1947566270828247,
+          "id": 1729356873
+        },
+        {
+          "distance": 0.23114198446273804,
+          "id": 1729360355
+        },
+        {
+          "distance": 0.23202985525131226,
+          "id": 1729356891
+        },
+        {
+          "distance": 0.2366241216659546,
+          "id": 1729358031
+        },
+        {
+          "distance": 0.24227255582809448,
+          "id": 1729357013
+        },
+        {
+          "distance": 0.2433297038078308,
+          "id": 1729358345
+        },
+        {
+          "distance": 0.24405473470687866,
+          "id": 1729357589
+        },
+        {
+          "distance": 0.24565887451171875,
+          "id": 1729357987
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729356879,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "By the mid-1950s, record companies released the majority of rhythm-and-blues and rock ‘n’ roll songs as 45-rpm singles...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

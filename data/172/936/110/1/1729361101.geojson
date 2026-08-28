@@ -25,6 +25,50 @@
       "taken": 1454240100,
       "taken_at": "Jan 31, 2016 11:35 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10534673929214478,
+          "id": 1880151791
+        },
+        {
+          "distance": 0.12077116966247559,
+          "id": 1880151791
+        },
+        {
+          "distance": 0.27509385347366333,
+          "id": 1729360085
+        },
+        {
+          "distance": 0.3308382034301758,
+          "id": 1729360085
+        },
+        {
+          "distance": 0.3511611223220825,
+          "id": 1729356647
+        },
+        {
+          "distance": 0.3513556718826294,
+          "id": 1729356647
+        },
+        {
+          "distance": 0.3680083751678467,
+          "id": 1729357241
+        },
+        {
+          "distance": 0.39231008291244507,
+          "id": 1729361191
+        },
+        {
+          "distance": 0.3996788263320923,
+          "id": 1729357487
+        },
+        {
+          "distance": 0.4009855389595032,
+          "id": 1729357007
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361101,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777644,
     "wof:name": "The logistics of food service were not always a top priority in early aviation, however as the aviation industry developed so did passenger amenities...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -41,6 +41,50 @@
       "taken": 1513963260,
       "taken_at": "Dec 22, 2017 5:21 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1429286003112793,
+          "id": 1729360891
+        },
+        {
+          "distance": 0.18409162759780884,
+          "id": 1729360891
+        },
+        {
+          "distance": 0.21147948503494263,
+          "id": 1729361881
+        },
+        {
+          "distance": 0.21572309732437134,
+          "id": 1729362311
+        },
+        {
+          "distance": 0.22352123260498047,
+          "id": 1880151691
+        },
+        {
+          "distance": 0.2291710376739502,
+          "id": 1729360319
+        },
+        {
+          "distance": 0.22972947359085083,
+          "id": 1729359257
+        },
+        {
+          "distance": 0.2311214804649353,
+          "id": 1763559651
+        },
+        {
+          "distance": 0.23112189769744873,
+          "id": 1729360561
+        },
+        {
+          "distance": 0.2350757122039795,
+          "id": 1729359651
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -70,7 +114,7 @@
       }
     ],
     "wof:id": 1729358781,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "#Onthisday in 1932, Pacific Air Transport (PAT), part of United Air Lines, became a tenant at San Francisco Airport...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -87,5 +131,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

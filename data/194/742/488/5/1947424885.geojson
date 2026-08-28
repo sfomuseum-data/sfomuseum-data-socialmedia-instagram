@@ -30,6 +30,50 @@
       "taken": 1726502280,
       "taken_at": "Sep 16, 2024 3:58 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.22040462493896484,
+          "id": 1947425115
+        },
+        {
+          "distance": 0.23654955625534058,
+          "id": 1947425019
+        },
+        {
+          "distance": 0.23844730854034424,
+          "id": 1947425019
+        },
+        {
+          "distance": 0.2551707625389099,
+          "id": 1947425181
+        },
+        {
+          "distance": 0.27034658193588257,
+          "id": 1947425039
+        },
+        {
+          "distance": 0.28061163425445557,
+          "id": 1880151059
+        },
+        {
+          "distance": 0.2825694680213928,
+          "id": 1947424799
+        },
+        {
+          "distance": 0.28281205892562866,
+          "id": 1880151513
+        },
+        {
+          "distance": 0.28755056858062744,
+          "id": 1763559103
+        },
+        {
+          "distance": 0.29200804233551025,
+          "id": 1729360097
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1947424885,
-    "wof:lastmodified": 1733175319,
+    "wof:lastmodified": 1787777664,
     "wof:name": "This is your last week to catch “Recollections… from the Unknown Museum” on display in Terminal 2...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

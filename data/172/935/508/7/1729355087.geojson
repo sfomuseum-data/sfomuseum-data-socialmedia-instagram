@@ -31,6 +31,50 @@
       "taken": 1599225300,
       "taken_at": "Sep 4, 2020, 1:15 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15477293729782104,
+          "id": 1729355183
+        },
+        {
+          "distance": 0.19780439138412476,
+          "id": 1729355093
+        },
+        {
+          "distance": 0.2184959053993225,
+          "id": 1729355179
+        },
+        {
+          "distance": 0.23261874914169312,
+          "id": 1729355181
+        },
+        {
+          "distance": 0.25223684310913086,
+          "id": 1729355093
+        },
+        {
+          "distance": 0.257781982421875,
+          "id": 1729355181
+        },
+        {
+          "distance": 0.2708390951156616,
+          "id": 1729355179
+        },
+        {
+          "distance": 0.28927934169769287,
+          "id": 1729356027
+        },
+        {
+          "distance": 0.2942981719970703,
+          "id": 1729356027
+        },
+        {
+          "distance": 0.29608154296875,
+          "id": 1763559159
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729355087,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777616,
     "wof:name": "This year marks the 150th anniversary of San Francisco’s Golden Gate Park...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -49,6 +49,50 @@
       "taken": 1504188960,
       "taken_at": "Aug 31, 2017 2:16 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.26361894607543945,
+          "id": 1880151333
+        },
+        {
+          "distance": 0.2762795090675354,
+          "id": 1729360673
+        },
+        {
+          "distance": 0.28875571489334106,
+          "id": 1729359877
+        },
+        {
+          "distance": 0.2927020788192749,
+          "id": 1880151431
+        },
+        {
+          "distance": 0.2944459915161133,
+          "id": 1729360673
+        },
+        {
+          "distance": 0.29666924476623535,
+          "id": 1880151333
+        },
+        {
+          "distance": 0.30663448572158813,
+          "id": 1729360779
+        },
+        {
+          "distance": 0.3078584671020508,
+          "id": 1729359877
+        },
+        {
+          "distance": 0.31517136096954346,
+          "id": 1729356319
+        },
+        {
+          "distance": 0.3153564929962158,
+          "id": 1763558629
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -78,7 +122,7 @@
       }
     ],
     "wof:id": 1729359127,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "In 1961, San Francisco and Oakland (SFO) Helicopter Airlines commenced operations with local helicopter flights between San Francisco and Oakland...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -95,5 +139,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

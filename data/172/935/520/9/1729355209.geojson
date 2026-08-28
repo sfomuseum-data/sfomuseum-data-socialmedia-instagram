@@ -26,6 +26,50 @@
       "taken": 1593691680,
       "taken_at": "Jul 2, 2020, 12:08 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2019307017326355,
+          "id": 1729355231
+        },
+        {
+          "distance": 0.20763683319091797,
+          "id": 1729355219
+        },
+        {
+          "distance": 0.23182177543640137,
+          "id": 1729355213
+        },
+        {
+          "distance": 0.25112462043762207,
+          "id": 1729355219
+        },
+        {
+          "distance": 0.2573186755180359,
+          "id": 1729355213
+        },
+        {
+          "distance": 0.25833451747894287,
+          "id": 1729355231
+        },
+        {
+          "distance": 0.31226229667663574,
+          "id": 1729355215
+        },
+        {
+          "distance": 0.33176177740097046,
+          "id": 1729355215
+        },
+        {
+          "distance": 0.3391020894050598,
+          "id": 1729355217
+        },
+        {
+          "distance": 0.36658602952957153,
+          "id": 1729355217
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1729355209,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777619,
     "wof:name": "SFO Museum has taken a break from social media to reflect on the police killing of unarmed people of color across the U.S. We stand in solidarity with the Black community and pledge to do better...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

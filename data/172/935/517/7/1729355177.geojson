@@ -31,6 +31,50 @@
       "taken": 1595931900,
       "taken_at": "Jul 28, 2020 10:25 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17992538213729858,
+          "id": 1947425063
+        },
+        {
+          "distance": 0.2026875615119934,
+          "id": 1729355119
+        },
+        {
+          "distance": 0.2043853998184204,
+          "id": 1763558947
+        },
+        {
+          "distance": 0.2124348282814026,
+          "id": 1729355147
+        },
+        {
+          "distance": 0.21677696704864502,
+          "id": 1763558947
+        },
+        {
+          "distance": 0.21720951795578003,
+          "id": 1880151789
+        },
+        {
+          "distance": 0.22460627555847168,
+          "id": 1729355025
+        },
+        {
+          "distance": 0.23495030403137207,
+          "id": 1947425063
+        },
+        {
+          "distance": 0.23572945594787598,
+          "id": 1947425285
+        },
+        {
+          "distance": 0.23592805862426758,
+          "id": 1729355383
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729355177,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777619,
     "wof:name": "Klea McKenna works in total darkness to make “photographic rubbings” – photographic images made through touch rather than through a camera...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

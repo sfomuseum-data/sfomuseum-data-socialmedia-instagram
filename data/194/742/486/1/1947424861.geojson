@@ -29,6 +29,50 @@
       "taken": 1727193600,
       "taken_at": "Sep 24, 2024 4:00 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2126360535621643,
+          "id": 1729357117
+        },
+        {
+          "distance": 0.23295265436172485,
+          "id": 1729358913
+        },
+        {
+          "distance": 0.25847166776657104,
+          "id": 1729358913
+        },
+        {
+          "distance": 0.2638154625892639,
+          "id": 1729357117
+        },
+        {
+          "distance": 0.26439368724823,
+          "id": 1729358997
+        },
+        {
+          "distance": 0.27416229248046875,
+          "id": 1729360807
+        },
+        {
+          "distance": 0.28705787658691406,
+          "id": 1729362579
+        },
+        {
+          "distance": 0.2918243408203125,
+          "id": 1880151499
+        },
+        {
+          "distance": 0.2927206754684448,
+          "id": 1880151625
+        },
+        {
+          "distance": 0.29783374071121216,
+          "id": 1880151499
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1947424861,
-    "wof:lastmodified": 1733175319,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Do you ever wonder how SFO Museum creates our exhibitions?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

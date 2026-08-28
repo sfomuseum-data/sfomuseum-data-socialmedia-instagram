@@ -36,6 +36,50 @@
       "taken": 1680517080,
       "taken_at": "Apr 03, 2023 10:18 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10801088809967041,
+          "id": 1880151199
+        },
+        {
+          "distance": 0.19189584255218506,
+          "id": 1880151199
+        },
+        {
+          "distance": 0.23314553499221802,
+          "id": 1729356755
+        },
+        {
+          "distance": 0.24057376384735107,
+          "id": 1729362959
+        },
+        {
+          "distance": 0.2552783489227295,
+          "id": 1880150991
+        },
+        {
+          "distance": 0.2570040225982666,
+          "id": 1880150939
+        },
+        {
+          "distance": 0.2580968737602234,
+          "id": 1947425039
+        },
+        {
+          "distance": 0.25810790061950684,
+          "id": 1947424927
+        },
+        {
+          "distance": 0.2649845480918884,
+          "id": 1880151259
+        },
+        {
+          "distance": 0.26583707332611084,
+          "id": 1947424917
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1880151009,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777661,
     "wof:name": "Kacper Kowalski is a photographer and aviator who has been observing and photographing landscapes from above for over twenty-five years...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

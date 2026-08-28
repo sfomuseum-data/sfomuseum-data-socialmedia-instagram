@@ -31,6 +31,50 @@
       "taken": 1585075200,
       "taken_at": "Mar 24, 2020, 6:40 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15892601013183594,
+          "id": 1729355389
+        },
+        {
+          "distance": 0.2129698395729065,
+          "id": 1729355389
+        },
+        {
+          "distance": 0.29470139741897583,
+          "id": 1729355395
+        },
+        {
+          "distance": 0.3284544348716736,
+          "id": 1947425317
+        },
+        {
+          "distance": 0.3306073546409607,
+          "id": 1729355597
+        },
+        {
+          "distance": 0.3309377431869507,
+          "id": 1729355395
+        },
+        {
+          "distance": 0.33194947242736816,
+          "id": 1729361885
+        },
+        {
+          "distance": 0.33370494842529297,
+          "id": 1763559493
+        },
+        {
+          "distance": 0.3354640007019043,
+          "id": 1763559281
+        },
+        {
+          "distance": 0.3422122001647949,
+          "id": 1763559019
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729355397,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777624,
     "wof:name": "After graduating from Colorado College in 1989, Margaret Kilgallen moved to San Francisco, where she fell into orbit with a loose group of artists that would later become known as the Mission School...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -33,6 +33,50 @@
       "taken": 1623341040,
       "taken_at": "Jun 10, 2021 4:04 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.02454543113708496,
+          "id": 1763559079
+        },
+        {
+          "distance": 0.10340249538421631,
+          "id": 1729360205
+        },
+        {
+          "distance": 0.10470110177993774,
+          "id": 1763559079
+        },
+        {
+          "distance": 0.1387404203414917,
+          "id": 1763559049
+        },
+        {
+          "distance": 0.14282721281051636,
+          "id": 1729360135
+        },
+        {
+          "distance": 0.15789252519607544,
+          "id": 1729359183
+        },
+        {
+          "distance": 0.15948688983917236,
+          "id": 1729360205
+        },
+        {
+          "distance": 0.17692553997039795,
+          "id": 1729361467
+        },
+        {
+          "distance": 0.1801743507385254,
+          "id": 1763558977
+        },
+        {
+          "distance": 0.18564844131469727,
+          "id": 1763559391
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1763559113,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Mid-1960s airline fashion showcased bright and colorful, patterned fabrics for the first time in the industry...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

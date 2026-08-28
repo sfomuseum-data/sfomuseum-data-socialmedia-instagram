@@ -27,6 +27,50 @@
       "taken": 1699376700,
       "taken_at": "Nov 07, 2023 5:05 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.43364644050598145,
+          "id": 1729355351
+        },
+        {
+          "distance": 0.4381195306777954,
+          "id": 1729359791
+        },
+        {
+          "distance": 0.43965083360671997,
+          "id": 1729357573
+        },
+        {
+          "distance": 0.4408203959465027,
+          "id": 1729356271
+        },
+        {
+          "distance": 0.44191157817840576,
+          "id": 1729355637
+        },
+        {
+          "distance": 0.44373494386672974,
+          "id": 1729359809
+        },
+        {
+          "distance": 0.4461892247200012,
+          "id": 1729360435
+        },
+        {
+          "distance": 0.44750285148620605,
+          "id": 1729356029
+        },
+        {
+          "distance": 0.4497452974319458,
+          "id": 1729356037
+        },
+        {
+          "distance": 0.45120155811309814,
+          "id": 1729359073
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947425249,
-    "wof:lastmodified": 1733175330,
+    "wof:lastmodified": 1787777664,
     "wof:name": "The Link Flight Trainer played an important role in the development of commercial aviation...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

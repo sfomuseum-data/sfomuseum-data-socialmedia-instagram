@@ -31,6 +31,50 @@
       "taken": 1493718120,
       "taken_at": "May 02, 2017 9:42 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13050007820129395,
+          "id": 1763559641
+        },
+        {
+          "distance": 0.13183122873306274,
+          "id": 1763559641
+        },
+        {
+          "distance": 0.20627659559249878,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.21297597885131836,
+          "id": 1880151513
+        },
+        {
+          "distance": 0.2174440622329712,
+          "id": 1880151513
+        },
+        {
+          "distance": 0.21935641765594482,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.22328203916549683,
+          "id": 1880151095
+        },
+        {
+          "distance": 0.2240293025970459,
+          "id": 1729358827
+        },
+        {
+          "distance": 0.22415125370025635,
+          "id": 1880151095
+        },
+        {
+          "distance": 0.22995740175247192,
+          "id": 1729356893
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729359547,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "We are very sad to hear about the passing of artist Vito Acconci...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

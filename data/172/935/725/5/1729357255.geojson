@@ -42,6 +42,50 @@
       "taken": 1544551620,
       "taken_at": "Dec 11, 2018, 6:07 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14361703395843506,
+          "id": 1729360469
+        },
+        {
+          "distance": 0.1543647050857544,
+          "id": 1763558979
+        },
+        {
+          "distance": 0.15727412700653076,
+          "id": 1729355245
+        },
+        {
+          "distance": 0.15824806690216064,
+          "id": 1729355245
+        },
+        {
+          "distance": 0.15829837322235107,
+          "id": 1763558979
+        },
+        {
+          "distance": 0.15883582830429077,
+          "id": 1729360469
+        },
+        {
+          "distance": 0.16423815488815308,
+          "id": 1729357769
+        },
+        {
+          "distance": 0.16772687435150146,
+          "id": 1729357251
+        },
+        {
+          "distance": 0.1683691143989563,
+          "id": 1763559637
+        },
+        {
+          "distance": 0.16980290412902832,
+          "id": 1729357251
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -71,7 +115,7 @@
       }
     ],
     "wof:id": 1729357255,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777630,
     "wof:name": "The McDonnell Douglas MD-80 was an updated version of the DC-9, which was introduced in 1965...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -88,5 +132,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -33,6 +33,50 @@
       "taken": 1564996800,
       "taken_at": "Aug 05, 2019 9:20 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1601771116256714,
+          "id": 1729357823
+        },
+        {
+          "distance": 0.1601771116256714,
+          "id": 1763558747
+        },
+        {
+          "distance": 0.18336760997772217,
+          "id": 1729357823
+        },
+        {
+          "distance": 0.18336760997772217,
+          "id": 1763558747
+        },
+        {
+          "distance": 0.19736480712890625,
+          "id": 1729359379
+        },
+        {
+          "distance": 0.2135947346687317,
+          "id": 1729359379
+        },
+        {
+          "distance": 0.24504601955413818,
+          "id": 1729363037
+        },
+        {
+          "distance": 0.2533479332923889,
+          "id": 1729363037
+        },
+        {
+          "distance": 0.25637614727020264,
+          "id": 1729357819
+        },
+        {
+          "distance": 0.2572653293609619,
+          "id": 1729357829
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729356249,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777629,
     "wof:name": "It’s summer and do you know what that means?!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

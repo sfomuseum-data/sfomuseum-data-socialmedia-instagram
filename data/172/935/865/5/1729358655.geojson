@@ -41,6 +41,50 @@
       "taken": 1516729800,
       "taken_at": "Jan 23, 2018 5:50 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12227857112884521,
+          "id": 1729360263
+        },
+        {
+          "distance": 0.12247228622436523,
+          "id": 1763559547
+        },
+        {
+          "distance": 0.14914429187774658,
+          "id": 1880151589
+        },
+        {
+          "distance": 0.1608409285545349,
+          "id": 1729358009
+        },
+        {
+          "distance": 0.166642963886261,
+          "id": 1729359361
+        },
+        {
+          "distance": 0.17327821254730225,
+          "id": 1729356979
+        },
+        {
+          "distance": 0.17396289110183716,
+          "id": 1763559547
+        },
+        {
+          "distance": 0.17563223838806152,
+          "id": 1763559167
+        },
+        {
+          "distance": 0.1769060492515564,
+          "id": 1729358213
+        },
+        {
+          "distance": 0.17752522230148315,
+          "id": 1729355429
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -70,7 +114,7 @@
       }
     ],
     "wof:id": 1729358655,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Formed in 1947, California Central Airlines (CCA) was a short-lived, post-war airline based in Burbank, California...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -87,5 +131,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

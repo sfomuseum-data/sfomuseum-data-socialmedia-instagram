@@ -34,6 +34,50 @@
       "taken": 1709052840,
       "taken_at": "Feb 27, 2024 4:54 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1343989372253418,
+          "id": 1729355551
+        },
+        {
+          "distance": 0.16381394863128662,
+          "id": 1729355551
+        },
+        {
+          "distance": 0.23091375827789307,
+          "id": 1880151081
+        },
+        {
+          "distance": 0.23238295316696167,
+          "id": 1763559341
+        },
+        {
+          "distance": 0.23486864566802979,
+          "id": 1729355617
+        },
+        {
+          "distance": 0.23665845394134521,
+          "id": 1880151351
+        },
+        {
+          "distance": 0.2623997926712036,
+          "id": 1880151081
+        },
+        {
+          "distance": 0.2637420892715454,
+          "id": 1763559439
+        },
+        {
+          "distance": 0.2936866879463196,
+          "id": 1947425001
+        },
+        {
+          "distance": 0.2957335114479065,
+          "id": 1880151657
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1947425105,
-    "wof:lastmodified": 1733175326,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Hank Willis Thomas uses language and the form of the lenticular print to challenge our subjective perspective...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

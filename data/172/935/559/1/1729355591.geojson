@@ -35,6 +35,50 @@
       "taken": 1580923020,
       "taken_at": "Feb 5, 2020, 5:17 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16784799098968506,
+          "id": 1729356199
+        },
+        {
+          "distance": 0.24542587995529175,
+          "id": 1729356199
+        },
+        {
+          "distance": 0.2569025754928589,
+          "id": 1729356117
+        },
+        {
+          "distance": 0.28248918056488037,
+          "id": 1729356117
+        },
+        {
+          "distance": 0.36484014987945557,
+          "id": 1729355721
+        },
+        {
+          "distance": 0.371204137802124,
+          "id": 1729355727
+        },
+        {
+          "distance": 0.3738451600074768,
+          "id": 1729355719
+        },
+        {
+          "distance": 0.38726770877838135,
+          "id": 1729356005
+        },
+        {
+          "distance": 0.39268749952316284,
+          "id": 1729356005
+        },
+        {
+          "distance": 0.39714688062667847,
+          "id": 1729355721
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729355591,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777626,
     "wof:name": "What did it take to mount and install the thirty-two lengths of wallpaper that make up the complete set of Zuber’s “Les Vues d’Amérique du Nord (Views of North America)”?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

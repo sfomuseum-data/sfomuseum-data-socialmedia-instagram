@@ -38,6 +38,50 @@
       "taken": 1555066080,
       "taken_at": "Apr 12, 2019, 10:48 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15881115198135376,
+          "id": 1729357253
+        },
+        {
+          "distance": 0.17867469787597656,
+          "id": 1729356775
+        },
+        {
+          "distance": 0.201224684715271,
+          "id": 1729362423
+        },
+        {
+          "distance": 0.22805410623550415,
+          "id": 1729356659
+        },
+        {
+          "distance": 0.2418268918991089,
+          "id": 1729356981
+        },
+        {
+          "distance": 0.24234014749526978,
+          "id": 1729357441
+        },
+        {
+          "distance": 0.24420815706253052,
+          "id": 1729356725
+        },
+        {
+          "distance": 0.25200897455215454,
+          "id": 1729357093
+        },
+        {
+          "distance": 0.2662196159362793,
+          "id": 1729356767
+        },
+        {
+          "distance": 0.26710641384124756,
+          "id": 1729357441
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729356665,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Initially trained as a painter, Miriam Hanid was introduced to silversmithing while studying mixed-media art at the University for the Creative Arts at Farnham in South East England...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

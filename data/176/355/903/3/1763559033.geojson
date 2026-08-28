@@ -31,6 +31,50 @@
       "taken": 1602673320,
       "taken_at": "Oct 14, 2020 11:02 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.059900760650634766,
+          "id": 1729361409
+        },
+        {
+          "distance": 0.09781104326248169,
+          "id": 1729361409
+        },
+        {
+          "distance": 0.19022834300994873,
+          "id": 1729357391
+        },
+        {
+          "distance": 0.20618081092834473,
+          "id": 1729357391
+        },
+        {
+          "distance": 0.21104401350021362,
+          "id": 1729360981
+        },
+        {
+          "distance": 0.2181774377822876,
+          "id": 1729359743
+        },
+        {
+          "distance": 0.21970802545547485,
+          "id": 1729357873
+        },
+        {
+          "distance": 0.2205960750579834,
+          "id": 1729360711
+        },
+        {
+          "distance": 0.2236815094947815,
+          "id": 1729359113
+        },
+        {
+          "distance": 0.22554665803909302,
+          "id": 1729360253
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559033,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Bonnie Jones Moon worked for Pan American World Airways from 1972 to 1989...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

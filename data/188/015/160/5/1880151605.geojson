@@ -31,6 +31,50 @@
       "taken": 1657538340,
       "taken_at": "Jul 11, 2022 11:19 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1102721095085144,
+          "id": 1880151619
+        },
+        {
+          "distance": 0.14440029859542847,
+          "id": 1880151619
+        },
+        {
+          "distance": 0.17090606689453125,
+          "id": 1880151143
+        },
+        {
+          "distance": 0.1821034550666809,
+          "id": 1880151305
+        },
+        {
+          "distance": 0.1931169033050537,
+          "id": 1729362675
+        },
+        {
+          "distance": 0.1956658959388733,
+          "id": 1729362675
+        },
+        {
+          "distance": 0.20047283172607422,
+          "id": 1880151305
+        },
+        {
+          "distance": 0.20110219717025757,
+          "id": 1947424879
+        },
+        {
+          "distance": 0.20174449682235718,
+          "id": 1880151143
+        },
+        {
+          "distance": 0.20270466804504395,
+          "id": 1880151425
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151605,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "In the 1860s, Minton \u0026 Company, a major English ceramic producer whose wares ranged from affordable transferware to hand-decorated porcelain and large-scale monumental design, acquired books of Japanese birds and flowers...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

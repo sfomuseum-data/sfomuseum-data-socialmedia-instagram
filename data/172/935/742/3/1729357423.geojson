@@ -31,6 +31,50 @@
       "taken": 1541443260,
       "taken_at": "Nov 05, 2018 6:41 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17894047498703003,
+          "id": 1729357285
+        },
+        {
+          "distance": 0.24952369928359985,
+          "id": 1729357285
+        },
+        {
+          "distance": 0.27211350202560425,
+          "id": 1729360729
+        },
+        {
+          "distance": 0.2923978567123413,
+          "id": 1729355781
+        },
+        {
+          "distance": 0.30648159980773926,
+          "id": 1729355279
+        },
+        {
+          "distance": 0.31781917810440063,
+          "id": 1729356843
+        },
+        {
+          "distance": 0.32058805227279663,
+          "id": 1729357341
+        },
+        {
+          "distance": 0.32147490978240967,
+          "id": 1729361805
+        },
+        {
+          "distance": 0.3226611614227295,
+          "id": 1729355277
+        },
+        {
+          "distance": 0.32549917697906494,
+          "id": 1729358081
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729357423,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777631,
     "wof:name": "In coordination with the naming of Terminal 1: The Harvey B...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

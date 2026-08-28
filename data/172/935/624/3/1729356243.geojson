@@ -33,6 +33,50 @@
       "taken": 1565103900,
       "taken_at": "Aug 06, 2019 3:05 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.31068187952041626,
+          "id": 1729359247
+        },
+        {
+          "distance": 0.32854515314102173,
+          "id": 1729358015
+        },
+        {
+          "distance": 0.3299909830093384,
+          "id": 1729356907
+        },
+        {
+          "distance": 0.32999497652053833,
+          "id": 1729359247
+        },
+        {
+          "distance": 0.33197104930877686,
+          "id": 1729356907
+        },
+        {
+          "distance": 0.3330422043800354,
+          "id": 1729360817
+        },
+        {
+          "distance": 0.3389814496040344,
+          "id": 1729355167
+        },
+        {
+          "distance": 0.3399991989135742,
+          "id": 1729358015
+        },
+        {
+          "distance": 0.34050190448760986,
+          "id": 1729360817
+        },
+        {
+          "distance": 0.3448570966720581,
+          "id": 1729359629
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729356243,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777628,
     "wof:name": "Japan Airlines (JAL) was founded on August 1, 1951 and began domestic service the following year...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

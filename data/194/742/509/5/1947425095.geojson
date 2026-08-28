@@ -27,6 +27,50 @@
       "taken": 1710865380,
       "taken_at": "Mar 19, 2024 4:23 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2678104639053345,
+          "id": 1729355281
+        },
+        {
+          "distance": 0.3242928981781006,
+          "id": 1947425137
+        },
+        {
+          "distance": 0.33004701137542725,
+          "id": 1729355281
+        },
+        {
+          "distance": 0.3368155360221863,
+          "id": 1947425137
+        },
+        {
+          "distance": 0.34248900413513184,
+          "id": 1729358765
+        },
+        {
+          "distance": 0.36336034536361694,
+          "id": 1729358479
+        },
+        {
+          "distance": 0.3684247136116028,
+          "id": 1729358479
+        },
+        {
+          "distance": 0.37807929515838623,
+          "id": 1729358765
+        },
+        {
+          "distance": 0.38645750284194946,
+          "id": 1763559487
+        },
+        {
+          "distance": 0.39588016271591187,
+          "id": 1947424909
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947425095,
-    "wof:lastmodified": 1733175325,
+    "wof:lastmodified": 1787777664,
     "wof:name": "It’s the first day of spring!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

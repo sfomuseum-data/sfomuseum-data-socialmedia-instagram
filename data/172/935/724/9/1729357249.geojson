@@ -41,6 +41,50 @@
       "taken": 1544712420,
       "taken_at": "Dec 13, 2018 2:47 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3029335141181946,
+          "id": 1729356799
+        },
+        {
+          "distance": 0.30543053150177,
+          "id": 1729356799
+        },
+        {
+          "distance": 0.3070608973503113,
+          "id": 1729356641
+        },
+        {
+          "distance": 0.3072097897529602,
+          "id": 1729356645
+        },
+        {
+          "distance": 0.31036877632141113,
+          "id": 1729356637
+        },
+        {
+          "distance": 0.3197551965713501,
+          "id": 1729361765
+        },
+        {
+          "distance": 0.33006107807159424,
+          "id": 1729358411
+        },
+        {
+          "distance": 0.33715498447418213,
+          "id": 1729362617
+        },
+        {
+          "distance": 0.34561771154403687,
+          "id": 1729362379
+        },
+        {
+          "distance": 0.3618788719177246,
+          "id": 1729356803
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -70,7 +114,7 @@
       }
     ],
     "wof:id": 1729357249,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777630,
     "wof:name": "America’s fascination with the automobile reached new heights during the postwar years...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -87,5 +131,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

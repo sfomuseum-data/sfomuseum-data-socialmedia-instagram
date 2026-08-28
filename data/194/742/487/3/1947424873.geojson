@@ -27,6 +27,50 @@
       "taken": 1725984840,
       "taken_at": "Sep 10, 2024 4:14 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.22699230909347534,
+          "id": 1729357135
+        },
+        {
+          "distance": 0.22699230909347534,
+          "id": 1763558801
+        },
+        {
+          "distance": 0.22874319553375244,
+          "id": 1947424919
+        },
+        {
+          "distance": 0.2335401177406311,
+          "id": 1947425167
+        },
+        {
+          "distance": 0.23495370149612427,
+          "id": 1729357405
+        },
+        {
+          "distance": 0.23614197969436646,
+          "id": 1947424795
+        },
+        {
+          "distance": 0.2368021011352539,
+          "id": 1729357325
+        },
+        {
+          "distance": 0.2374662160873413,
+          "id": 1947424795
+        },
+        {
+          "distance": 0.24126678705215454,
+          "id": 1729357337
+        },
+        {
+          "distance": 0.24156296253204346,
+          "id": 1947425291
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947424873,
-    "wof:lastmodified": 1733175319,
+    "wof:lastmodified": 1787777664,
     "wof:name": "In 1942, the United States War Production Board, War Advertising Council, and Office of War Information coordinated a nationwide campaign to recruit women into the workforce...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

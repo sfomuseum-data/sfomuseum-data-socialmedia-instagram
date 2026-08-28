@@ -25,6 +25,50 @@
       "taken": 1482401760,
       "taken_at": "Dec 22, 2016 10:16 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1923617720603943,
+          "id": 1729359523
+        },
+        {
+          "distance": 0.19261294603347778,
+          "id": 1729361227
+        },
+        {
+          "distance": 0.1971152424812317,
+          "id": 1729360877
+        },
+        {
+          "distance": 0.21052402257919312,
+          "id": 1947425271
+        },
+        {
+          "distance": 0.2106863260269165,
+          "id": 1763559449
+        },
+        {
+          "distance": 0.21460509300231934,
+          "id": 1729357593
+        },
+        {
+          "distance": 0.2152334451675415,
+          "id": 1729361697
+        },
+        {
+          "distance": 0.2251080870628357,
+          "id": 1729361697
+        },
+        {
+          "distance": 0.2260914444923401,
+          "id": 1729361143
+        },
+        {
+          "distance": 0.2272222638130188,
+          "id": 1763559345
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359987,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777638,
     "wof:name": "Before the jet bridge, passengers would board planes from ground level using rolling stairs regardless of the heat, rain, snow, or wind on the airfield...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

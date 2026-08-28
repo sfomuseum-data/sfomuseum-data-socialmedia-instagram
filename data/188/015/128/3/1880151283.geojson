@@ -28,6 +28,50 @@
       "taken": 1670411580,
       "taken_at": "Dec 07, 2022 11:13 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.08324456214904785,
+          "id": 1729358837
+        },
+        {
+          "distance": 0.09257543087005615,
+          "id": 1729358837
+        },
+        {
+          "distance": 0.1941826343536377,
+          "id": 1880151589
+        },
+        {
+          "distance": 0.19570893049240112,
+          "id": 1729359361
+        },
+        {
+          "distance": 0.19833391904830933,
+          "id": 1729357145
+        },
+        {
+          "distance": 0.2000824213027954,
+          "id": 1729358009
+        },
+        {
+          "distance": 0.20274007320404053,
+          "id": 1763559505
+        },
+        {
+          "distance": 0.2029067873954773,
+          "id": 1729355811
+        },
+        {
+          "distance": 0.2048180103302002,
+          "id": 1729356979
+        },
+        {
+          "distance": 0.207741379737854,
+          "id": 1729356979
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1880151283,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "#Onthisday in 1941, San Francisco Airport became an U.S. Army Air Corps training and staging facility...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

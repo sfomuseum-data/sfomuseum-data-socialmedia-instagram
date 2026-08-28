@@ -27,6 +27,50 @@
       "taken": 1721143980,
       "taken_at": "Jul 16, 2024 3:33 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19252872467041016,
+          "id": 1880150873
+        },
+        {
+          "distance": 0.2159070372581482,
+          "id": 1880151785
+        },
+        {
+          "distance": 0.21666783094406128,
+          "id": 1729356499
+        },
+        {
+          "distance": 0.22409933805465698,
+          "id": 1880151197
+        },
+        {
+          "distance": 0.23001182079315186,
+          "id": 1947424867
+        },
+        {
+          "distance": 0.23039603233337402,
+          "id": 1947425305
+        },
+        {
+          "distance": 0.23153471946716309,
+          "id": 1729358933
+        },
+        {
+          "distance": 0.2501041293144226,
+          "id": 1947425165
+        },
+        {
+          "distance": 0.2510450482368469,
+          "id": 1947425113
+        },
+        {
+          "distance": 0.2636502981185913,
+          "id": 1729358839
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947424951,
-    "wof:lastmodified": 1733175321,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Designed in the early 1940s under the leadership of Lockheed’s chief engineer Clarence \"Kelly\" Johnson (1910–90), with direction from TWA’s (Transcontinental \u0026 Western Air) owner Howard Hughes (1905–76), the Lockheed L-049 Constellation was introduced as a commercial airliner shortly after World War II...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

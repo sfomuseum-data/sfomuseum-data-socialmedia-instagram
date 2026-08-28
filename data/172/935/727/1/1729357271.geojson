@@ -37,6 +37,50 @@
       "taken": 1544185560,
       "taken_at": "Dec 07, 2018 12:26 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3468162417411804,
+          "id": 1729360369
+        },
+        {
+          "distance": 0.3649829030036926,
+          "id": 1729360369
+        },
+        {
+          "distance": 0.36921483278274536,
+          "id": 1729360457
+        },
+        {
+          "distance": 0.37358564138412476,
+          "id": 1947425117
+        },
+        {
+          "distance": 0.382357120513916,
+          "id": 1729359167
+        },
+        {
+          "distance": 0.3824222683906555,
+          "id": 1729356109
+        },
+        {
+          "distance": 0.382455050945282,
+          "id": 1729359071
+        },
+        {
+          "distance": 0.3825111389160156,
+          "id": 1763559221
+        },
+        {
+          "distance": 0.38268542289733887,
+          "id": 1763559485
+        },
+        {
+          "distance": 0.38472282886505127,
+          "id": 1729356797
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729357271,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777630,
     "wof:name": "Our newest exhibition, \"The Modern Consumer: 1950s Products and Style\" is now on display, post-security, in Terminal 3...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

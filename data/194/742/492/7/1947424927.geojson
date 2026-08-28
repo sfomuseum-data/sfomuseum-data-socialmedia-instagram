@@ -31,6 +31,50 @@
       "taken": 1722353400,
       "taken_at": "Jul 30, 2024 3:30 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.031090140342712402,
+          "id": 1947424917
+        },
+        {
+          "distance": 0.13491606712341309,
+          "id": 1947424917
+        },
+        {
+          "distance": 0.16708391904830933,
+          "id": 1947424799
+        },
+        {
+          "distance": 0.1691265106201172,
+          "id": 1880150991
+        },
+        {
+          "distance": 0.17696356773376465,
+          "id": 1947425039
+        },
+        {
+          "distance": 0.2065388560295105,
+          "id": 1729356755
+        },
+        {
+          "distance": 0.2099328637123108,
+          "id": 1729362959
+        },
+        {
+          "distance": 0.21037232875823975,
+          "id": 1880150939
+        },
+        {
+          "distance": 0.21552109718322754,
+          "id": 1880150991
+        },
+        {
+          "distance": 0.21675550937652588,
+          "id": 1947424799
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1947424927,
-    "wof:lastmodified": 1733175320,
+    "wof:lastmodified": 1787777664,
     "wof:name": "“There is no better way to celebrate Pride Month at SFO than the completion of the first airport terminal in the world named for an LGBTQ leader that changed our city and our country,” said Mayor London Breed last month upon the opening of the final phase of Harvey Milk Terminal 1...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -73,5 +117,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

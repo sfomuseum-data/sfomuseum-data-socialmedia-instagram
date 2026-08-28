@@ -34,6 +34,50 @@
       "taken": 1502961660,
       "taken_at": "Aug 17, 2017 9:21 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16174966096878052,
+          "id": 1729356351
+        },
+        {
+          "distance": 0.2667607069015503,
+          "id": 1763559197
+        },
+        {
+          "distance": 0.28906846046447754,
+          "id": 1729356931
+        },
+        {
+          "distance": 0.2920571565628052,
+          "id": 1729356955
+        },
+        {
+          "distance": 0.29958558082580566,
+          "id": 1729356955
+        },
+        {
+          "distance": 0.3049328923225403,
+          "id": 1947425317
+        },
+        {
+          "distance": 0.31003302335739136,
+          "id": 1729357285
+        },
+        {
+          "distance": 0.3100583553314209,
+          "id": 1880151131
+        },
+        {
+          "distance": 0.3109203577041626,
+          "id": 1729355999
+        },
+        {
+          "distance": 0.31143414974212646,
+          "id": 1729360993
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729359177,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "\"Waiting\" by Larry Sultan and Mike Mandel is a large-scale photographic close-up of four central figures involved in the familiar yet deeply symbolic drama of waiting in an airport for the return of loved ones...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

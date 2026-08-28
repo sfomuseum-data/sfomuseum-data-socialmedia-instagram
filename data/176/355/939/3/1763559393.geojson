@@ -31,6 +31,50 @@
       "taken": 1633107420,
       "taken_at": "Oct 01, 2021 4:57 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.31923139095306396,
+          "id": 1729358949
+        },
+        {
+          "distance": 0.32132893800735474,
+          "id": 1729359283
+        },
+        {
+          "distance": 0.3559948205947876,
+          "id": 1729358949
+        },
+        {
+          "distance": 0.36395949125289917,
+          "id": 1729359283
+        },
+        {
+          "distance": 0.3985009789466858,
+          "id": 1729355377
+        },
+        {
+          "distance": 0.41287100315093994,
+          "id": 1729358873
+        },
+        {
+          "distance": 0.4152644872665405,
+          "id": 1729359195
+        },
+        {
+          "distance": 0.41744375228881836,
+          "id": 1763559663
+        },
+        {
+          "distance": 0.42252427339553833,
+          "id": 1729361487
+        },
+        {
+          "distance": 0.42400676012039185,
+          "id": 1729355497
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559393,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Yosemite was established as a national park #onthisday in 1890 by the federal government...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

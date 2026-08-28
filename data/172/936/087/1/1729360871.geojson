@@ -25,6 +25,50 @@
       "taken": 1459414200,
       "taken_at": "Mar 31, 2016 8:50 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.164270281791687,
+          "id": 1729360725
+        },
+        {
+          "distance": 0.2129117250442505,
+          "id": 1729359499
+        },
+        {
+          "distance": 0.22322440147399902,
+          "id": 1729360717
+        },
+        {
+          "distance": 0.22705590724945068,
+          "id": 1729360725
+        },
+        {
+          "distance": 0.23240739107131958,
+          "id": 1729359037
+        },
+        {
+          "distance": 0.23771697282791138,
+          "id": 1729359525
+        },
+        {
+          "distance": 0.24253082275390625,
+          "id": 1729359381
+        },
+        {
+          "distance": 0.2523549795150757,
+          "id": 1729359499
+        },
+        {
+          "distance": 0.2592090964317322,
+          "id": 1729359037
+        },
+        {
+          "distance": 0.2598949670791626,
+          "id": 1729359525
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360871,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Discoveries of ancient Roman glass inspired late nineteenth-century artists to produce similarly lustrous glass...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

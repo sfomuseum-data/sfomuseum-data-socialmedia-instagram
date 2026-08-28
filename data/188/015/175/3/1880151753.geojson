@@ -33,6 +33,50 @@
       "taken": 1651863600,
       "taken_at": "May 06, 2022 7:00 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0018700361251831055,
+          "id": 1947425029
+        },
+        {
+          "distance": 0.10740774869918823,
+          "id": 1947425029
+        },
+        {
+          "distance": 0.2390822172164917,
+          "id": 1947425295
+        },
+        {
+          "distance": 0.259668231010437,
+          "id": 1947424913
+        },
+        {
+          "distance": 0.2650325298309326,
+          "id": 1763559579
+        },
+        {
+          "distance": 0.27260565757751465,
+          "id": 1729355633
+        },
+        {
+          "distance": 0.2918913960456848,
+          "id": 1947425295
+        },
+        {
+          "distance": 0.2923886775970459,
+          "id": 1947424913
+        },
+        {
+          "distance": 0.2980263829231262,
+          "id": 1729355635
+        },
+        {
+          "distance": 0.2992352843284607,
+          "id": 1763558947
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1880151753,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777663,
     "wof:name": "Composed of over 3,500 individual kite-like ellipses, this immersive sculpture floats between two floors of the building in an undulating, interwoven canopy...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

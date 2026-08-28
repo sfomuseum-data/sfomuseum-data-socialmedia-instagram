@@ -29,6 +29,50 @@
       "taken": 1529947620,
       "taken_at": "Jun 25, 2018 5:27 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13270455598831177,
+          "id": 1729357313
+        },
+        {
+          "distance": 0.15024691820144653,
+          "id": 1729357313
+        },
+        {
+          "distance": 0.15139776468276978,
+          "id": 1729357829
+        },
+        {
+          "distance": 0.15558481216430664,
+          "id": 1729357829
+        },
+        {
+          "distance": 0.17967522144317627,
+          "id": 1729357819
+        },
+        {
+          "distance": 0.1856774091720581,
+          "id": 1729357819
+        },
+        {
+          "distance": 0.19144773483276367,
+          "id": 1729357823
+        },
+        {
+          "distance": 0.19144773483276367,
+          "id": 1763558747
+        },
+        {
+          "distance": 0.21773028373718262,
+          "id": 1729357823
+        },
+        {
+          "distance": 0.21773028373718262,
+          "id": 1763558747
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729358093,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777632,
     "wof:name": "SFO Museum is about to move its offices, work shops, and some of its collection into a brand new building!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

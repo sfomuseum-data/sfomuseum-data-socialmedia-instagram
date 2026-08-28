@@ -25,6 +25,50 @@
       "taken": 1366210980,
       "taken_at": "Apr 17, 2013 3:03 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.22932332754135132,
+          "id": 1729362371
+        },
+        {
+          "distance": 0.2770828604698181,
+          "id": 1729361285
+        },
+        {
+          "distance": 0.28748196363449097,
+          "id": 1729362647
+        },
+        {
+          "distance": 0.2876562476158142,
+          "id": 1729362903
+        },
+        {
+          "distance": 0.2916417717933655,
+          "id": 1729362371
+        },
+        {
+          "distance": 0.29984933137893677,
+          "id": 1729362579
+        },
+        {
+          "distance": 0.2999774217605591,
+          "id": 1729362799
+        },
+        {
+          "distance": 0.3065779209136963,
+          "id": 1729356635
+        },
+        {
+          "distance": 0.3069823980331421,
+          "id": 1729362175
+        },
+        {
+          "distance": 0.3105303645133972,
+          "id": 1729362903
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362739,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "Made from discarded metal siding, Gaza Bowen's 'Cryptotomes' was a continuation of her earlier 'Bibliotheca Memoria,' an entire \"library\" made from scavenged materials...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

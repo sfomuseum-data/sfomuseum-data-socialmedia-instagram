@@ -25,6 +25,50 @@
       "taken": 1472134740,
       "taken_at": "Aug 25, 2016 2:19 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1375860571861267,
+          "id": 1763559131
+        },
+        {
+          "distance": 0.16505146026611328,
+          "id": 1729360279
+        },
+        {
+          "distance": 0.1841980218887329,
+          "id": 1729359159
+        },
+        {
+          "distance": 0.18704700469970703,
+          "id": 1729361593
+        },
+        {
+          "distance": 0.18741971254348755,
+          "id": 1729359719
+        },
+        {
+          "distance": 0.1898646354675293,
+          "id": 1729360121
+        },
+        {
+          "distance": 0.19195544719696045,
+          "id": 1729355091
+        },
+        {
+          "distance": 0.20149892568588257,
+          "id": 1763559131
+        },
+        {
+          "distance": 0.21957874298095703,
+          "id": 1729358405
+        },
+        {
+          "distance": 0.22561651468276978,
+          "id": 1729357969
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360407,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "The rental car center at SFO was located in the Central Terminal (now Terminal 2) in the early 1960s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

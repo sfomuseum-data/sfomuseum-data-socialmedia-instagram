@@ -50,6 +50,50 @@
       "taken": 1498408380,
       "taken_at": "Jun 25, 2017, 4:33 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16522216796875,
+          "id": 1729359255
+        },
+        {
+          "distance": 0.21858704090118408,
+          "id": 1729360471
+        },
+        {
+          "distance": 0.2237398624420166,
+          "id": 1729360717
+        },
+        {
+          "distance": 0.228468120098114,
+          "id": 1729359255
+        },
+        {
+          "distance": 0.2421402931213379,
+          "id": 1729360775
+        },
+        {
+          "distance": 0.24264097213745117,
+          "id": 1729360871
+        },
+        {
+          "distance": 0.24790102243423462,
+          "id": 1729360725
+        },
+        {
+          "distance": 0.25743532180786133,
+          "id": 1729359037
+        },
+        {
+          "distance": 0.2602725028991699,
+          "id": 1729360871
+        },
+        {
+          "distance": 0.2604762315750122,
+          "id": 1729359525
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -79,7 +123,7 @@
       }
     ],
     "wof:id": 1729359381,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Lillian Palmer (1871–1961), undeterred by a lack of formal training, began crafting metalwork in copper, lead, and brass in 1907...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -96,5 +140,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

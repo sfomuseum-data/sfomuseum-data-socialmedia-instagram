@@ -30,6 +30,50 @@
       "taken": 1671555360,
       "taken_at": "Dec 20, 2022 4:56 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1447298526763916,
+          "id": 1880151779
+        },
+        {
+          "distance": 0.16595494747161865,
+          "id": 1880151739
+        },
+        {
+          "distance": 0.19329839944839478,
+          "id": 1880151799
+        },
+        {
+          "distance": 0.19478988647460938,
+          "id": 1880151805
+        },
+        {
+          "distance": 0.19726842641830444,
+          "id": 1763559059
+        },
+        {
+          "distance": 0.20366358757019043,
+          "id": 1880151799
+        },
+        {
+          "distance": 0.20714247226715088,
+          "id": 1880151779
+        },
+        {
+          "distance": 0.20920085906982422,
+          "id": 1880151739
+        },
+        {
+          "distance": 0.2107871174812317,
+          "id": 1729358231
+        },
+        {
+          "distance": 0.22507309913635254,
+          "id": 1729359883
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151251,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "The first flight of the Boeing 707 took off on its maiden flight #onthisday in 1957...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

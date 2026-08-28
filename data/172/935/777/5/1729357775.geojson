@@ -40,6 +40,50 @@
       "taken": 1534494180,
       "taken_at": "Aug 17, 2018 8:23 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16405367851257324,
+          "id": 1729356515
+        },
+        {
+          "distance": 0.18404412269592285,
+          "id": 1729356515
+        },
+        {
+          "distance": 0.19230467081069946,
+          "id": 1729362517
+        },
+        {
+          "distance": 0.23217612504959106,
+          "id": 1729362517
+        },
+        {
+          "distance": 0.23540818691253662,
+          "id": 1729358369
+        },
+        {
+          "distance": 0.24123209714889526,
+          "id": 1729358369
+        },
+        {
+          "distance": 0.2433779239654541,
+          "id": 1729358237
+        },
+        {
+          "distance": 0.24706465005874634,
+          "id": 1729358373
+        },
+        {
+          "distance": 0.24934881925582886,
+          "id": 1729357979
+        },
+        {
+          "distance": 0.24934881925582886,
+          "id": 1729357975
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729357775,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "The Golden Gate International Exposition was held from February 1939 to September 1940 to celebrate construction of the Golden Gate Bridge and the San Francisco-Oakland Bay Bridge...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

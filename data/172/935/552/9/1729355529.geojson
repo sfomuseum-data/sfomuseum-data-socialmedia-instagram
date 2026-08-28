@@ -29,6 +29,50 @@
       "taken": 1582047120,
       "taken_at": "Feb 18, 2020 5:32 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17968469858169556,
+          "id": 1880151401
+        },
+        {
+          "distance": 0.19418668746948242,
+          "id": 1947425115
+        },
+        {
+          "distance": 0.19960683584213257,
+          "id": 1729358347
+        },
+        {
+          "distance": 0.20679068565368652,
+          "id": 1947425019
+        },
+        {
+          "distance": 0.2121451497077942,
+          "id": 1880151117
+        },
+        {
+          "distance": 0.2121451497077942,
+          "id": 1880151227
+        },
+        {
+          "distance": 0.21469718217849731,
+          "id": 1763559407
+        },
+        {
+          "distance": 0.21949130296707153,
+          "id": 1763558925
+        },
+        {
+          "distance": 0.2244850993156433,
+          "id": 1763559129
+        },
+        {
+          "distance": 0.2268228530883789,
+          "id": 1880151513
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729355529,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777626,
     "wof:name": "This is your last week to see “California Studio Craft: featuring works from the Forrest L. Merrill collection.” Studio craft combines the characteristics of traditional, handmade craft with the refined qualities of fine art...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

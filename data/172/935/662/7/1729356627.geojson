@@ -34,6 +34,50 @@
       "taken": 1556099760,
       "taken_at": "Apr 24, 2019 9:56 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2839996814727783,
+          "id": 1729356653
+        },
+        {
+          "distance": 0.2920709252357483,
+          "id": 1729356829
+        },
+        {
+          "distance": 0.295992374420166,
+          "id": 1729357009
+        },
+        {
+          "distance": 0.2976687550544739,
+          "id": 1729357401
+        },
+        {
+          "distance": 0.3140674829483032,
+          "id": 1729357143
+        },
+        {
+          "distance": 0.3185771107673645,
+          "id": 1729357149
+        },
+        {
+          "distance": 0.33539289236068726,
+          "id": 1729356835
+        },
+        {
+          "distance": 0.33775222301483154,
+          "id": 1729356653
+        },
+        {
+          "distance": 0.34577882289886475,
+          "id": 1729362021
+        },
+        {
+          "distance": 0.3514724373817444,
+          "id": 1729357571
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729356627,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Many of the musicians on “Oakland Blues” came from Louisiana and Texas to work in Bay Area shipyards around World War II...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -29,6 +29,50 @@
       "taken": 1639152780,
       "taken_at": "Dec 10, 2021 4:13 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2431291937828064,
+          "id": 1880151689
+        },
+        {
+          "distance": 0.2778198719024658,
+          "id": 1729362469
+        },
+        {
+          "distance": 0.27797532081604004,
+          "id": 1729359631
+        },
+        {
+          "distance": 0.28290432691574097,
+          "id": 1729355799
+        },
+        {
+          "distance": 0.28354573249816895,
+          "id": 1729362469
+        },
+        {
+          "distance": 0.2867898941040039,
+          "id": 1729362719
+        },
+        {
+          "distance": 0.29385602474212646,
+          "id": 1729358389
+        },
+        {
+          "distance": 0.297457754611969,
+          "id": 1880151689
+        },
+        {
+          "distance": 0.30566704273223877,
+          "id": 1729359631
+        },
+        {
+          "distance": 0.3099164366722107,
+          "id": 1729362331
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1763559265,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Happy birthday to us!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

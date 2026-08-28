@@ -30,6 +30,50 @@
       "taken": 1682007540,
       "taken_at": "Apr 20, 2023 4:19 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.26884812116622925,
+          "id": 1729356063
+        },
+        {
+          "distance": 0.28107166290283203,
+          "id": 1880150969
+        },
+        {
+          "distance": 0.2866984009742737,
+          "id": 1880151023
+        },
+        {
+          "distance": 0.28679555654525757,
+          "id": 1729355929
+        },
+        {
+          "distance": 0.2880009412765503,
+          "id": 1947425009
+        },
+        {
+          "distance": 0.2880009412765503,
+          "id": 1947425027
+        },
+        {
+          "distance": 0.28825950622558594,
+          "id": 1880151539
+        },
+        {
+          "distance": 0.28948038816452026,
+          "id": 1729356307
+        },
+        {
+          "distance": 0.2932586073875427,
+          "id": 1880151447
+        },
+        {
+          "distance": 0.2932586073875427,
+          "id": 1880151497
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880150983,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777661,
     "wof:name": "In 2015, SFO Museum presented “I Love You, California: A Natural History.” California has the greatest diversity of natural areas, flora, and fauna species in North America...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

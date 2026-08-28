@@ -25,6 +25,50 @@
       "taken": 1440588840,
       "taken_at": "Aug 26, 2015 11:34 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.28938382863998413,
+          "id": 1729362435
+        },
+        {
+          "distance": 0.30286771059036255,
+          "id": 1729361661
+        },
+        {
+          "distance": 0.3090214133262634,
+          "id": 1729361679
+        },
+        {
+          "distance": 0.3161942958831787,
+          "id": 1729361597
+        },
+        {
+          "distance": 0.32186466455459595,
+          "id": 1729361681
+        },
+        {
+          "distance": 0.3291845917701721,
+          "id": 1947424913
+        },
+        {
+          "distance": 0.3330850601196289,
+          "id": 1729362995
+        },
+        {
+          "distance": 0.3381958603858948,
+          "id": 1729358827
+        },
+        {
+          "distance": 0.3409750461578369,
+          "id": 1729362273
+        },
+        {
+          "distance": 0.3432760238647461,
+          "id": 1729361631
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361591,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777646,
     "wof:name": "If you've ever flown United out of SFO, you've probably sat near Gate 65 in Terminal 3...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

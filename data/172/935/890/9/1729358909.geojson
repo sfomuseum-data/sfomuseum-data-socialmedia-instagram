@@ -37,6 +37,50 @@
       "taken": 1510496520,
       "taken_at": "Nov 12, 2017 2:22 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3706708550453186,
+          "id": 1729356139
+        },
+        {
+          "distance": 0.37580788135528564,
+          "id": 1729359491
+        },
+        {
+          "distance": 0.37948036193847656,
+          "id": 1729356151
+        },
+        {
+          "distance": 0.37949228286743164,
+          "id": 1729355485
+        },
+        {
+          "distance": 0.3938279151916504,
+          "id": 1763558981
+        },
+        {
+          "distance": 0.3942626714706421,
+          "id": 1729358819
+        },
+        {
+          "distance": 0.408027708530426,
+          "id": 1729356139
+        },
+        {
+          "distance": 0.41338592767715454,
+          "id": 1729358819
+        },
+        {
+          "distance": 0.4141926169395447,
+          "id": 1729357329
+        },
+        {
+          "distance": 0.41469448804855347,
+          "id": 1729356169
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729358909,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Founded in 1991, Art With Elders (AWE) connects generations by celebrating the wisdom, talents, and creativity of older adults, while utilizing the vast potential of the visual arts as a tool to address the challenges of aging...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

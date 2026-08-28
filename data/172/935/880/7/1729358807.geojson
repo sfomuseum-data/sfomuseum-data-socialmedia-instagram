@@ -38,6 +38,50 @@
       "taken": 1513682460,
       "taken_at": "Dec 19, 2017 11:21 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20865380764007568,
+          "id": 1947425055
+        },
+        {
+          "distance": 0.2205519676208496,
+          "id": 1947425055
+        },
+        {
+          "distance": 0.28801244497299194,
+          "id": 1729360749
+        },
+        {
+          "distance": 0.29315727949142456,
+          "id": 1729360749
+        },
+        {
+          "distance": 0.3064228892326355,
+          "id": 1763559443
+        },
+        {
+          "distance": 0.30678415298461914,
+          "id": 1729358231
+        },
+        {
+          "distance": 0.3128579258918762,
+          "id": 1947425137
+        },
+        {
+          "distance": 0.32415419816970825,
+          "id": 1729355417
+        },
+        {
+          "distance": 0.32456064224243164,
+          "id": 1763559479
+        },
+        {
+          "distance": 0.3265862464904785,
+          "id": 1729358231
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729358807,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Lufthansa, the flag carrier of Germany, traces its history back to 1926...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -42,6 +42,50 @@
       "taken": 1530301200,
       "taken_at": "Jun 29, 2018, 7:40 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.25868916511535645,
+          "id": 1729359389
+        },
+        {
+          "distance": 0.2593105435371399,
+          "id": 1729357683
+        },
+        {
+          "distance": 0.275495707988739,
+          "id": 1729359417
+        },
+        {
+          "distance": 0.27615970373153687,
+          "id": 1763558765
+        },
+        {
+          "distance": 0.27615970373153687,
+          "id": 1729357579
+        },
+        {
+          "distance": 0.27627748250961304,
+          "id": 1880151627
+        },
+        {
+          "distance": 0.28100740909576416,
+          "id": 1729360919
+        },
+        {
+          "distance": 0.28886741399765015,
+          "id": 1763559325
+        },
+        {
+          "distance": 0.2968658208847046,
+          "id": 1880151469
+        },
+        {
+          "distance": 0.2987494468688965,
+          "id": 1729358413
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -71,7 +115,7 @@
       }
     ],
     "wof:id": 1729358045,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Transistors are far smaller than vacuum tubes and do not require periodic replacement...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -88,5 +132,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

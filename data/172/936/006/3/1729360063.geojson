@@ -34,6 +34,50 @@
       "taken": 1480696680,
       "taken_at": "Dec 02, 2016 4:38 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16961759328842163,
+          "id": 1729355915
+        },
+        {
+          "distance": 0.2159309983253479,
+          "id": 1729355915
+        },
+        {
+          "distance": 0.24047929048538208,
+          "id": 1729361635
+        },
+        {
+          "distance": 0.24687951803207397,
+          "id": 1729361635
+        },
+        {
+          "distance": 0.248368501663208,
+          "id": 1729358155
+        },
+        {
+          "distance": 0.278425395488739,
+          "id": 1729358891
+        },
+        {
+          "distance": 0.2808064818382263,
+          "id": 1729357601
+        },
+        {
+          "distance": 0.2922409176826477,
+          "id": 1729358891
+        },
+        {
+          "distance": 0.2943052053451538,
+          "id": 1729357273
+        },
+        {
+          "distance": 0.2949930429458618,
+          "id": 1729360589
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729360063,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777639,
     "wof:name": "Pre-security, in the arrivals level of Terminal 3, we have on display a selection of works from Edward Chavez (1917-2004), a recognized master within the aircraft model-making community...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

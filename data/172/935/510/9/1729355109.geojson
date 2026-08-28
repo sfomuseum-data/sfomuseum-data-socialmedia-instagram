@@ -29,6 +29,50 @@
       "taken": 1598011740,
       "taken_at": "Aug 21, 2020 12:09 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10729128122329712,
+          "id": 1763559357
+        },
+        {
+          "distance": 0.12532049417495728,
+          "id": 1763559357
+        },
+        {
+          "distance": 0.13300782442092896,
+          "id": 1729358863
+        },
+        {
+          "distance": 0.15248942375183105,
+          "id": 1729358851
+        },
+        {
+          "distance": 0.1528623104095459,
+          "id": 1880151527
+        },
+        {
+          "distance": 0.15782266855239868,
+          "id": 1729357215
+        },
+        {
+          "distance": 0.15965348482131958,
+          "id": 1729358851
+        },
+        {
+          "distance": 0.16287660598754883,
+          "id": 1729360005
+        },
+        {
+          "distance": 0.1639661192893982,
+          "id": 1729357215
+        },
+        {
+          "distance": 0.16542774438858032,
+          "id": 1729358863
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729355109,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777617,
     "wof:name": "#Onthisday in 1959, Hawai’i became the 50th U.S. state...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -52,6 +52,50 @@
       "taken": 1512144420,
       "taken_at": "Dec 01, 2017 4:07 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.04641711711883545,
+          "id": 1729358939
+        },
+        {
+          "distance": 0.10567867755889893,
+          "id": 1729359001
+        },
+        {
+          "distance": 0.10637706518173218,
+          "id": 1729356347
+        },
+        {
+          "distance": 0.11199575662612915,
+          "id": 1729356339
+        },
+        {
+          "distance": 0.11536645889282227,
+          "id": 1729359485
+        },
+        {
+          "distance": 0.11861932277679443,
+          "id": 1729358989
+        },
+        {
+          "distance": 0.1228952407836914,
+          "id": 1729359233
+        },
+        {
+          "distance": 0.13678884506225586,
+          "id": 1729359435
+        },
+        {
+          "distance": 0.13811349868774414,
+          "id": 1729359179
+        },
+        {
+          "distance": 0.1417890191078186,
+          "id": 1729358773
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -81,7 +125,7 @@
       }
     ],
     "wof:id": 1729358859,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "In 1896, Franz Xaver Wagner (1837–1907) introduced a machine that provided the blueprint for modern typewriters used in offices throughout the world...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -98,5 +142,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

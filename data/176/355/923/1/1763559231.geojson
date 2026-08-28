@@ -30,6 +30,50 @@
       "taken": 1615825920,
       "taken_at": "Mar 15, 2021 4:32 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16080230474472046,
+          "id": 1763559177
+        },
+        {
+          "distance": 0.18101364374160767,
+          "id": 1763559221
+        },
+        {
+          "distance": 0.19073820114135742,
+          "id": 1763558863
+        },
+        {
+          "distance": 0.20194047689437866,
+          "id": 1763559177
+        },
+        {
+          "distance": 0.20408165454864502,
+          "id": 1763559221
+        },
+        {
+          "distance": 0.20884227752685547,
+          "id": 1763558885
+        },
+        {
+          "distance": 0.216627299785614,
+          "id": 1763558885
+        },
+        {
+          "distance": 0.2228468656539917,
+          "id": 1763558863
+        },
+        {
+          "distance": 0.2470453977584839,
+          "id": 1763559067
+        },
+        {
+          "distance": 0.25204920768737793,
+          "id": 1763559067
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559231,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Did you know that the humble bobby pin originated in the Bay Area?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

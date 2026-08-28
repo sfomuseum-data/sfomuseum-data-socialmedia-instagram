@@ -37,6 +37,50 @@
       "taken": 1500402300,
       "taken_at": "Jul 18, 2017, 6:25 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09606063365936279,
+          "id": 1729358989
+        },
+        {
+          "distance": 0.1578202247619629,
+          "id": 1729358983
+        },
+        {
+          "distance": 0.1589917540550232,
+          "id": 1729359439
+        },
+        {
+          "distance": 0.15998202562332153,
+          "id": 1729359485
+        },
+        {
+          "distance": 0.16155129671096802,
+          "id": 1729358989
+        },
+        {
+          "distance": 0.165554940700531,
+          "id": 1729359125
+        },
+        {
+          "distance": 0.16625452041625977,
+          "id": 1729359181
+        },
+        {
+          "distance": 0.16640043258666992,
+          "id": 1729359001
+        },
+        {
+          "distance": 0.18394511938095093,
+          "id": 1729358859
+        },
+        {
+          "distance": 0.18681097030639648,
+          "id": 1763558663
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729359317,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Typewriter design during the late nineteenth century was far from standardized and innovative ideas abounded...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

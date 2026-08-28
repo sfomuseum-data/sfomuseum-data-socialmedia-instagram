@@ -32,6 +32,50 @@
       "taken": 1658852160,
       "taken_at": "Jul 26, 2022 4:16 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.000023305416107177734,
+          "id": 1880151575
+        },
+        {
+          "distance": 0.07924950122833252,
+          "id": 1880151575
+        },
+        {
+          "distance": 0.13595432043075562,
+          "id": 1880151571
+        },
+        {
+          "distance": 0.13756436109542847,
+          "id": 1880151571
+        },
+        {
+          "distance": 0.1395784616470337,
+          "id": 1880151531
+        },
+        {
+          "distance": 0.14335662126541138,
+          "id": 1880151513
+        },
+        {
+          "distance": 0.15484261512756348,
+          "id": 1880151513
+        },
+        {
+          "distance": 0.15820449590682983,
+          "id": 1763559679
+        },
+        {
+          "distance": 0.16470301151275635,
+          "id": 1880151519
+        },
+        {
+          "distance": 0.1649603247642517,
+          "id": 1880151531
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1880151563,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Marjorie Stinson (1895–1975) was inspired to learn to fly by her sister Katherine Stinson (1891–1977)...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

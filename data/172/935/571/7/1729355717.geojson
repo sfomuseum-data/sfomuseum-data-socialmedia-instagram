@@ -30,6 +30,50 @@
       "taken": 1577792160,
       "taken_at": "Dec 31, 2019 11:36 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.02465289831161499,
+          "id": 1729356467
+        },
+        {
+          "distance": 0.07389360666275024,
+          "id": 1729356467
+        },
+        {
+          "distance": 0.1779816746711731,
+          "id": 1729357325
+        },
+        {
+          "distance": 0.19456350803375244,
+          "id": 1729357693
+        },
+        {
+          "distance": 0.20504772663116455,
+          "id": 1729357693
+        },
+        {
+          "distance": 0.2233339548110962,
+          "id": 1729357325
+        },
+        {
+          "distance": 0.2383320927619934,
+          "id": 1947425115
+        },
+        {
+          "distance": 0.24152159690856934,
+          "id": 1880151519
+        },
+        {
+          "distance": 0.24267619848251343,
+          "id": 1947424999
+        },
+        {
+          "distance": 0.24566668272018433,
+          "id": 1729356793
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729355717,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777627,
     "wof:name": "This is your last week to see “The Modern Consumer — 1950s Products and Style”!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

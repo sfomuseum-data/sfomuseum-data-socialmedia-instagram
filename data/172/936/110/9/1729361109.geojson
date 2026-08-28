@@ -25,6 +25,50 @@
       "taken": 1454156760,
       "taken_at": "Jan 30, 2016 12:26 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07910537719726562,
+          "id": 1729359597
+        },
+        {
+          "distance": 0.07961243391036987,
+          "id": 1729356533
+        },
+        {
+          "distance": 0.0815930962562561,
+          "id": 1729355993
+        },
+        {
+          "distance": 0.11106312274932861,
+          "id": 1729356533
+        },
+        {
+          "distance": 0.11421120166778564,
+          "id": 1947425309
+        },
+        {
+          "distance": 0.11541533470153809,
+          "id": 1729360207
+        },
+        {
+          "distance": 0.11773681640625,
+          "id": 1729361163
+        },
+        {
+          "distance": 0.11802405118942261,
+          "id": 1729358751
+        },
+        {
+          "distance": 0.12327730655670166,
+          "id": 1729356173
+        },
+        {
+          "distance": 0.1291791796684265,
+          "id": 1729355659
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361109,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777644,
     "wof:name": "On April 16, 1935, a Pan American Airways Sikorsky S-42 passed through the Golden Gate on the first survey flight to Hawai’i...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

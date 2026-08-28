@@ -36,6 +36,50 @@
       "taken": 1528829100,
       "taken_at": "Jun 12, 2018 6:45 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0735471248626709,
+          "id": 1729358691
+        },
+        {
+          "distance": 0.12591850757598877,
+          "id": 1729358691
+        },
+        {
+          "distance": 0.19009363651275635,
+          "id": 1729358243
+        },
+        {
+          "distance": 0.21236687898635864,
+          "id": 1947424931
+        },
+        {
+          "distance": 0.21585959196090698,
+          "id": 1729360549
+        },
+        {
+          "distance": 0.21750742197036743,
+          "id": 1729355185
+        },
+        {
+          "distance": 0.22395014762878418,
+          "id": 1729358243
+        },
+        {
+          "distance": 0.23856115341186523,
+          "id": 1763559055
+        },
+        {
+          "distance": 0.2428261637687683,
+          "id": 1947424931
+        },
+        {
+          "distance": 0.2596486806869507,
+          "id": 1729358951
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729358125,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777632,
     "wof:name": "This is your last week to see \"When You Got It- Flaunt It: Advertising Braniff International,\" which highlights two decades of Braniff International Airways' marketing history...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

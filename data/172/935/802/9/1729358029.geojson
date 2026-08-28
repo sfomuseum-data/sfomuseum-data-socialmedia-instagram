@@ -40,6 +40,50 @@
       "taken": 1530548640,
       "taken_at": "Jul 2, 2018, 4:24 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.08122992515563965,
+          "id": 1729361111
+        },
+        {
+          "distance": 0.0846056342124939,
+          "id": 1729358017
+        },
+        {
+          "distance": 0.13419592380523682,
+          "id": 1729358017
+        },
+        {
+          "distance": 0.14810305833816528,
+          "id": 1729361111
+        },
+        {
+          "distance": 0.17905205488204956,
+          "id": 1729360513
+        },
+        {
+          "distance": 0.1795269250869751,
+          "id": 1763559445
+        },
+        {
+          "distance": 0.18716251850128174,
+          "id": 1729356029
+        },
+        {
+          "distance": 0.1939064860343933,
+          "id": 1729359955
+        },
+        {
+          "distance": 0.19431805610656738,
+          "id": 1729355651
+        },
+        {
+          "distance": 0.1968892216682434,
+          "id": 1729360811
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729358029,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Have you ever seen a Boeing 314 Wright Twin Cyclone fourteen-cylinder engine?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

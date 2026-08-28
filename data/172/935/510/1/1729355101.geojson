@@ -28,6 +28,50 @@
       "taken": 1598968620,
       "taken_at": "Sep 01, 2020 1:57 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19816064834594727,
+          "id": 1729358533
+        },
+        {
+          "distance": 0.19987934827804565,
+          "id": 1729355633
+        },
+        {
+          "distance": 0.21649670600891113,
+          "id": 1729355629
+        },
+        {
+          "distance": 0.22352004051208496,
+          "id": 1729358533
+        },
+        {
+          "distance": 0.22754532098770142,
+          "id": 1947425295
+        },
+        {
+          "distance": 0.23182839155197144,
+          "id": 1729357999
+        },
+        {
+          "distance": 0.23445093631744385,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.24006646871566772,
+          "id": 1729355635
+        },
+        {
+          "distance": 0.24665558338165283,
+          "id": 1880150947
+        },
+        {
+          "distance": 0.24945372343063354,
+          "id": 1729355707
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1729355101,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777617,
     "wof:name": "This vibrant sculptural collage, featuring a star form constructed from a bent I-beam, a cast aluminum redwood branch and fluorescent lights, establishes a strong focal point for passengers as they traverse the corridor...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

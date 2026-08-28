@@ -32,6 +32,50 @@
       "taken": 1651653600,
       "taken_at": "May 04, 2022 8:40 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2360420823097229,
+          "id": 1729360509
+        },
+        {
+          "distance": 0.2478013038635254,
+          "id": 1729360509
+        },
+        {
+          "distance": 0.2581002116203308,
+          "id": 1763559299
+        },
+        {
+          "distance": 0.2673901915550232,
+          "id": 1729359761
+        },
+        {
+          "distance": 0.2689976692199707,
+          "id": 1729355417
+        },
+        {
+          "distance": 0.270920991897583,
+          "id": 1763559299
+        },
+        {
+          "distance": 0.27595198154449463,
+          "id": 1729360353
+        },
+        {
+          "distance": 0.2798529267311096,
+          "id": 1729359795
+        },
+        {
+          "distance": 0.2854820489883423,
+          "id": 1729359761
+        },
+        {
+          "distance": 0.2862142324447632,
+          "id": 1729357689
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1880151747,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777663,
     "wof:name": "May the fourth be with you!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

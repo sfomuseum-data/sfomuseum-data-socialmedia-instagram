@@ -25,6 +25,50 @@
       "taken": 1607524860,
       "taken_at": "Dec 09, 2020 2:41 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1876947283744812,
+          "id": 1729359343
+        },
+        {
+          "distance": 0.1967124342918396,
+          "id": 1729360823
+        },
+        {
+          "distance": 0.20793110132217407,
+          "id": 1729359343
+        },
+        {
+          "distance": 0.2107425332069397,
+          "id": 1729355059
+        },
+        {
+          "distance": 0.21515238285064697,
+          "id": 1729360823
+        },
+        {
+          "distance": 0.22310250997543335,
+          "id": 1763559129
+        },
+        {
+          "distance": 0.23412418365478516,
+          "id": 1947425115
+        },
+        {
+          "distance": 0.23434114456176758,
+          "id": 1729357385
+        },
+        {
+          "distance": 0.24030035734176636,
+          "id": 1947425087
+        },
+        {
+          "distance": 0.2463182806968689,
+          "id": 1880151425
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1763558969,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "This is our last week for \"Eclectic Taste: Victorian Silver Plate\" which is on display, post-security, in Harvey Milk Terminal 1...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

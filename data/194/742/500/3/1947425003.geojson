@@ -32,6 +32,50 @@
       "taken": 1716305580,
       "taken_at": "May 21, 2024 3:33 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07230311632156372,
+          "id": 1729355291
+        },
+        {
+          "distance": 0.13389688730239868,
+          "id": 1763559599
+        },
+        {
+          "distance": 0.15439993143081665,
+          "id": 1763559599
+        },
+        {
+          "distance": 0.17744922637939453,
+          "id": 1763559469
+        },
+        {
+          "distance": 0.17882376909255981,
+          "id": 1763559469
+        },
+        {
+          "distance": 0.19724416732788086,
+          "id": 1729355291
+        },
+        {
+          "distance": 0.2273537516593933,
+          "id": 1729357871
+        },
+        {
+          "distance": 0.2305888533592224,
+          "id": 1729356163
+        },
+        {
+          "distance": 0.2396445870399475,
+          "id": 1880151131
+        },
+        {
+          "distance": 0.24412333965301514,
+          "id": 1880151299
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1947425003,
-    "wof:lastmodified": 1733175323,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Hung Liu was a Bay Area artist whose signature painterly style is one that allows the paint to drip across the image...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

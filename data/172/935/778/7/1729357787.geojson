@@ -36,6 +36,50 @@
       "taken": 1534148220,
       "taken_at": "Aug 13, 2018 8:17 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.27628093957901,
+          "id": 1729358445
+        },
+        {
+          "distance": 0.30558478832244873,
+          "id": 1729357507
+        },
+        {
+          "distance": 0.30940163135528564,
+          "id": 1729357517
+        },
+        {
+          "distance": 0.3112391233444214,
+          "id": 1729356935
+        },
+        {
+          "distance": 0.31298011541366577,
+          "id": 1729357195
+        },
+        {
+          "distance": 0.3234391212463379,
+          "id": 1729357067
+        },
+        {
+          "distance": 0.3245354890823364,
+          "id": 1729357797
+        },
+        {
+          "distance": 0.3262626528739929,
+          "id": 1729357195
+        },
+        {
+          "distance": 0.3277174234390259,
+          "id": 1729357719
+        },
+        {
+          "distance": 0.32797181606292725,
+          "id": 1729358485
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729357787,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Meow!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

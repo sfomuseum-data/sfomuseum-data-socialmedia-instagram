@@ -42,6 +42,50 @@
       "taken": 1515686520,
       "taken_at": "Jan 11, 2018 4:02 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1529008150100708,
+          "id": 1880151071
+        },
+        {
+          "distance": 0.15922820568084717,
+          "id": 1880151071
+        },
+        {
+          "distance": 0.1946752667427063,
+          "id": 1729358481
+        },
+        {
+          "distance": 0.21459805965423584,
+          "id": 1729361067
+        },
+        {
+          "distance": 0.23597705364227295,
+          "id": 1763558843
+        },
+        {
+          "distance": 0.23615527153015137,
+          "id": 1729361153
+        },
+        {
+          "distance": 0.23749929666519165,
+          "id": 1729358481
+        },
+        {
+          "distance": 0.24392735958099365,
+          "id": 1729361171
+        },
+        {
+          "distance": 0.2452700138092041,
+          "id": 1729357345
+        },
+        {
+          "distance": 0.24922573566436768,
+          "id": 1729360365
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -71,7 +115,7 @@
       }
     ],
     "wof:id": 1729358717,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Did you know that New York Airways offered helicopter service directly to the Pan American building?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -88,5 +132,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

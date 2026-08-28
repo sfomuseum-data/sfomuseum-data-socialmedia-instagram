@@ -48,6 +48,50 @@
       "taken": 1533745080,
       "taken_at": "Aug 08, 2018 4:18 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.04485630989074707,
+          "id": 1729357517
+        },
+        {
+          "distance": 0.06111598014831543,
+          "id": 1729356935
+        },
+        {
+          "distance": 0.09567129611968994,
+          "id": 1729357507
+        },
+        {
+          "distance": 0.09601205587387085,
+          "id": 1729357517
+        },
+        {
+          "distance": 0.10333573818206787,
+          "id": 1729356935
+        },
+        {
+          "distance": 0.10735321044921875,
+          "id": 1729357505
+        },
+        {
+          "distance": 0.12138652801513672,
+          "id": 1729357507
+        },
+        {
+          "distance": 0.15518838167190552,
+          "id": 1729357505
+        },
+        {
+          "distance": 0.2088611125946045,
+          "id": 1729358485
+        },
+        {
+          "distance": 0.22758787870407104,
+          "id": 1729358149
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -77,7 +121,7 @@
       }
     ],
     "wof:id": 1729357797,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "It's International Cat Day and we cannot get enough of cats at SFO Museum!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -94,5 +138,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

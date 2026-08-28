@@ -25,6 +25,50 @@
       "taken": 1718612400,
       "taken_at": "Jun 17, 2024 8:20 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2968313694000244,
+          "id": 1729355777
+        },
+        {
+          "distance": 0.29771900177001953,
+          "id": 1729355707
+        },
+        {
+          "distance": 0.3033527731895447,
+          "id": 1729355777
+        },
+        {
+          "distance": 0.3079577088356018,
+          "id": 1880151053
+        },
+        {
+          "distance": 0.3085085153579712,
+          "id": 1880151607
+        },
+        {
+          "distance": 0.31192320585250854,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.31241440773010254,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.31473201513290405,
+          "id": 1880150947
+        },
+        {
+          "distance": 0.3156161308288574,
+          "id": 1729358533
+        },
+        {
+          "distance": 0.3158576488494873,
+          "id": 1947424913
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -53,7 +97,7 @@
       }
     ],
     "wof:id": 1947424991,
-    "wof:lastmodified": 1733175322,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Today is the grand opening of Harvey Milk Terminal 1's new north check-in lobby!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -67,5 +111,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1343204700,
       "taken_at": "Jul 25, 2012 8:25 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20439541339874268,
+          "id": 1729362743
+        },
+        {
+          "distance": 0.23068082332611084,
+          "id": 1729362743
+        },
+        {
+          "distance": 0.23700112104415894,
+          "id": 1729359185
+        },
+        {
+          "distance": 0.24478286504745483,
+          "id": 1729362473
+        },
+        {
+          "distance": 0.24845129251480103,
+          "id": 1729362327
+        },
+        {
+          "distance": 0.2522088885307312,
+          "id": 1729362737
+        },
+        {
+          "distance": 0.2523581385612488,
+          "id": 1729363051
+        },
+        {
+          "distance": 0.25446391105651855,
+          "id": 1729356841
+        },
+        {
+          "distance": 0.2546682357788086,
+          "id": 1729362913
+        },
+        {
+          "distance": 0.2556038498878479,
+          "id": 1729362571
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362949,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777657,
     "wof:name": "How do you test a mount for a 250+ pound sculpture?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

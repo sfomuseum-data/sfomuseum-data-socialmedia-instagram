@@ -29,6 +29,50 @@
       "taken": 1646934960,
       "taken_at": "Mar 10, 2022 5:56 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.22306329011917114,
+          "id": 1729359433
+        },
+        {
+          "distance": 0.2391211986541748,
+          "id": 1729361141
+        },
+        {
+          "distance": 0.24253326654434204,
+          "id": 1729361141
+        },
+        {
+          "distance": 0.24263256788253784,
+          "id": 1729362125
+        },
+        {
+          "distance": 0.251043438911438,
+          "id": 1763559133
+        },
+        {
+          "distance": 0.25187480449676514,
+          "id": 1729356301
+        },
+        {
+          "distance": 0.2519308924674988,
+          "id": 1729360469
+        },
+        {
+          "distance": 0.254683256149292,
+          "id": 1729361125
+        },
+        {
+          "distance": 0.263350248336792,
+          "id": 1729358625
+        },
+        {
+          "distance": 0.26634490489959717,
+          "id": 1729358623
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1763559557,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Pennsylvania Central Airlines changed its name to Capital Airlines in 1948...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

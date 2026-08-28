@@ -25,6 +25,50 @@
       "taken": 1451820720,
       "taken_at": "Jan 03, 2016 11:32 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.411685049533844,
+          "id": 1729359681
+        },
+        {
+          "distance": 0.414290189743042,
+          "id": 1729357097
+        },
+        {
+          "distance": 0.42355531454086304,
+          "id": 1729356497
+        },
+        {
+          "distance": 0.4241170287132263,
+          "id": 1729358233
+        },
+        {
+          "distance": 0.4241170287132263,
+          "id": 1763558729
+        },
+        {
+          "distance": 0.43105489015579224,
+          "id": 1947424971
+        },
+        {
+          "distance": 0.432547390460968,
+          "id": 1729355999
+        },
+        {
+          "distance": 0.4330623745918274,
+          "id": 1729362959
+        },
+        {
+          "distance": 0.4350401759147644,
+          "id": 1729361211
+        },
+        {
+          "distance": 0.4360088109970093,
+          "id": 1729356955
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361203,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "In 1945, aboard a troopship with hundreds of soldiers returning stateside during WWII from China-Burma-India Theater, John Gutmann captured these tattoo images...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

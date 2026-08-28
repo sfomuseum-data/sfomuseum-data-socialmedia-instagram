@@ -31,6 +31,50 @@
       "taken": 1622822940,
       "taken_at": "Jun 04, 2021 4:09 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1253989338874817,
+          "id": 1947425087
+        },
+        {
+          "distance": 0.13741374015808105,
+          "id": 1763559457
+        },
+        {
+          "distance": 0.1687091588973999,
+          "id": 1729355059
+        },
+        {
+          "distance": 0.1718578338623047,
+          "id": 1947425087
+        },
+        {
+          "distance": 0.1776788830757141,
+          "id": 1763559457
+        },
+        {
+          "distance": 0.18420350551605225,
+          "id": 1947424919
+        },
+        {
+          "distance": 0.18422287702560425,
+          "id": 1880151305
+        },
+        {
+          "distance": 0.18915152549743652,
+          "id": 1729360823
+        },
+        {
+          "distance": 0.19222134351730347,
+          "id": 1763558907
+        },
+        {
+          "distance": 0.19812440872192383,
+          "id": 1729355019
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559119,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Even after a year of staying home, it's hard to imagine life without shampoo, which emerged in the early twentieth century...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -31,6 +31,50 @@
       "taken": 1614955260,
       "taken_at": "Mar 05, 2021 2:41 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0999983549118042,
+          "id": 1763559205
+        },
+        {
+          "distance": 0.10003721714019775,
+          "id": 1763559227
+        },
+        {
+          "distance": 0.12373721599578857,
+          "id": 1763559227
+        },
+        {
+          "distance": 0.13453078269958496,
+          "id": 1763559463
+        },
+        {
+          "distance": 0.13713818788528442,
+          "id": 1763559433
+        },
+        {
+          "distance": 0.1406407356262207,
+          "id": 1763559205
+        },
+        {
+          "distance": 0.16326099634170532,
+          "id": 1763559433
+        },
+        {
+          "distance": 0.17293822765350342,
+          "id": 1763559463
+        },
+        {
+          "distance": 0.17441076040267944,
+          "id": 1763558855
+        },
+        {
+          "distance": 0.19494223594665527,
+          "id": 1763558851
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559245,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "EPIC STORY ALERT!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

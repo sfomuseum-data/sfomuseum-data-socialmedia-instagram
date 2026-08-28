@@ -30,6 +30,50 @@
       "taken": 1575633060,
       "taken_at": "Dec 06, 2019 11:51 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.020369231700897217,
+          "id": 1729358751
+        },
+        {
+          "distance": 0.09480410814285278,
+          "id": 1729358751
+        },
+        {
+          "distance": 0.10876280069351196,
+          "id": 1729355659
+        },
+        {
+          "distance": 0.12310963869094849,
+          "id": 1729355659
+        },
+        {
+          "distance": 0.146112859249115,
+          "id": 1729361109
+        },
+        {
+          "distance": 0.15813517570495605,
+          "id": 1729355993
+        },
+        {
+          "distance": 0.16048789024353027,
+          "id": 1729356533
+        },
+        {
+          "distance": 0.1616901159286499,
+          "id": 1729359597
+        },
+        {
+          "distance": 0.16796594858169556,
+          "id": 1729360207
+        },
+        {
+          "distance": 0.16853296756744385,
+          "id": 1729356541
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729355813,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777627,
     "wof:name": "Can you imagine a roundtrip flight between California and the Philippine capital of Manila taking fifteen days?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

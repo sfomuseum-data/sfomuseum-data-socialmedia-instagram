@@ -32,6 +32,50 @@
       "taken": 1610451060,
       "taken_at": "Jan 12, 2021 11:31 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.008834123611450195,
+          "id": 1729355791
+        },
+        {
+          "distance": 0.02503114938735962,
+          "id": 1763559347
+        },
+        {
+          "distance": 0.0923837423324585,
+          "id": 1729355791
+        },
+        {
+          "distance": 0.09391641616821289,
+          "id": 1763559347
+        },
+        {
+          "distance": 0.13196367025375366,
+          "id": 1729355811
+        },
+        {
+          "distance": 0.16022580862045288,
+          "id": 1729355811
+        },
+        {
+          "distance": 0.2136460542678833,
+          "id": 1729355287
+        },
+        {
+          "distance": 0.2141774296760559,
+          "id": 1763558839
+        },
+        {
+          "distance": 0.21495932340621948,
+          "id": 1729359695
+        },
+        {
+          "distance": 0.21881723403930664,
+          "id": 1729357841
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1763558913,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777659,
     "wof:name": "As the world grows more and more interconnected, can you imagine what it was like to fly around the world in the 1930s, when the aviation industry was just in its infancy?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

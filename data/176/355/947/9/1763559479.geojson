@@ -30,6 +30,50 @@
       "taken": 1628092320,
       "taken_at": "Aug 04, 2021 3:52 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14466911554336548,
+          "id": 1729360749
+        },
+        {
+          "distance": 0.14544761180877686,
+          "id": 1729355559
+        },
+        {
+          "distance": 0.1559343934059143,
+          "id": 1729355563
+        },
+        {
+          "distance": 0.16156607866287231,
+          "id": 1729355417
+        },
+        {
+          "distance": 0.17213571071624756,
+          "id": 1729360749
+        },
+        {
+          "distance": 0.18273037672042847,
+          "id": 1729355563
+        },
+        {
+          "distance": 0.19137781858444214,
+          "id": 1729358231
+        },
+        {
+          "distance": 0.19312423467636108,
+          "id": 1729355559
+        },
+        {
+          "distance": 0.19621556997299194,
+          "id": 1729357629
+        },
+        {
+          "distance": 0.19750630855560303,
+          "id": 1729355417
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559479,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "The Boeing 737 was designed to be a short-to-mid-range regional jetliner and incorporated many of the assemblies and components used in the Boeing 727...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

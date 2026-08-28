@@ -32,6 +32,50 @@
       "taken": 1623858600,
       "taken_at": "Jun 16, 2021 3:50 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.03834819793701172,
+          "id": 1729357619
+        },
+        {
+          "distance": 0.06648868322372437,
+          "id": 1763559587
+        },
+        {
+          "distance": 0.0942506194114685,
+          "id": 1763559587
+        },
+        {
+          "distance": 0.09963154792785645,
+          "id": 1729357619
+        },
+        {
+          "distance": 0.13960862159729004,
+          "id": 1729357837
+        },
+        {
+          "distance": 0.1491352915763855,
+          "id": 1729357673
+        },
+        {
+          "distance": 0.1543319821357727,
+          "id": 1729357123
+        },
+        {
+          "distance": 0.1557578444480896,
+          "id": 1729356909
+        },
+        {
+          "distance": 0.15841364860534668,
+          "id": 1729358643
+        },
+        {
+          "distance": 0.16301202774047852,
+          "id": 1729358529
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1763559101,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Introduced in 1952, the de Havilland D.H. 106 Comet was the first commercial passenger jetliner to enter service, years before the introduction of other jetliners...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

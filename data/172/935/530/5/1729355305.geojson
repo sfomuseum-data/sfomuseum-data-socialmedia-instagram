@@ -29,6 +29,50 @@
       "taken": 1588239300,
       "taken_at": "Apr 30, 2020 9:35 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1810767650604248,
+          "id": 1729358853
+        },
+        {
+          "distance": 0.22945111989974976,
+          "id": 1880151773
+        },
+        {
+          "distance": 0.23176157474517822,
+          "id": 1729359359
+        },
+        {
+          "distance": 0.23253417015075684,
+          "id": 1729356383
+        },
+        {
+          "distance": 0.2330508828163147,
+          "id": 1763559403
+        },
+        {
+          "distance": 0.2395106554031372,
+          "id": 1729358853
+        },
+        {
+          "distance": 0.25119733810424805,
+          "id": 1729358643
+        },
+        {
+          "distance": 0.25228554010391235,
+          "id": 1729355709
+        },
+        {
+          "distance": 0.2582392692565918,
+          "id": 1729355357
+        },
+        {
+          "distance": 0.25885462760925293,
+          "id": 1729355845
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729355305,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777623,
     "wof:name": "People Express Airlines commenced operations #onthisday in 1981...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

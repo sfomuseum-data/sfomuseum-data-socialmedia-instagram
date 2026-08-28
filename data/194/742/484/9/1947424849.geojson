@@ -27,6 +27,50 @@
       "taken": 1728050640,
       "taken_at": "Oct 04, 2024 2:04 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07973378896713257,
+          "id": 1947425021
+        },
+        {
+          "distance": 0.11093461513519287,
+          "id": 1947424969
+        },
+        {
+          "distance": 0.12098050117492676,
+          "id": 1947424895
+        },
+        {
+          "distance": 0.13162750005722046,
+          "id": 1729358531
+        },
+        {
+          "distance": 0.13364404439926147,
+          "id": 1729357493
+        },
+        {
+          "distance": 0.13654237985610962,
+          "id": 1729357069
+        },
+        {
+          "distance": 0.1386551856994629,
+          "id": 1729358085
+        },
+        {
+          "distance": 0.14163613319396973,
+          "id": 1729358657
+        },
+        {
+          "distance": 0.1430147886276245,
+          "id": 1947425021
+        },
+        {
+          "distance": 0.14798575639724731,
+          "id": 1947424969
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947424849,
-    "wof:lastmodified": 1733175319,
+    "wof:lastmodified": 1787777664,
     "wof:name": "First flown in 1957, the Boeing 707 was the first successful jet airliner to provide regular, sustained commercial passenger service...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

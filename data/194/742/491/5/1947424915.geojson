@@ -28,6 +28,50 @@
       "taken": 1723045260,
       "taken_at": "Aug 07, 2024 3:41 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.041550278663635254,
+          "id": 1947424973
+        },
+        {
+          "distance": 0.08045697212219238,
+          "id": 1947424899
+        },
+        {
+          "distance": 0.09965348243713379,
+          "id": 1947424973
+        },
+        {
+          "distance": 0.10555821657180786,
+          "id": 1947424899
+        },
+        {
+          "distance": 0.24291658401489258,
+          "id": 1947425087
+        },
+        {
+          "distance": 0.2449333667755127,
+          "id": 1947425291
+        },
+        {
+          "distance": 0.24847877025604248,
+          "id": 1729356635
+        },
+        {
+          "distance": 0.2501084804534912,
+          "id": 1729355951
+        },
+        {
+          "distance": 0.2522566318511963,
+          "id": 1729356755
+        },
+        {
+          "distance": 0.25306814908981323,
+          "id": 1880151541
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1947424915,
-    "wof:lastmodified": 1733175320,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Pan American World Airways expanded its routes during the postwar years to include the newly independent countries of India and Pakistan, as well as Thailand (formerly Siam)...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -70,5 +114,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

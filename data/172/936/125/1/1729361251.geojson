@@ -25,6 +25,50 @@
       "taken": 1450474080,
       "taken_at": "Dec 18, 2015 9:28 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10684144496917725,
+          "id": 1729358743
+        },
+        {
+          "distance": 0.13480448722839355,
+          "id": 1763559203
+        },
+        {
+          "distance": 0.13534647226333618,
+          "id": 1729355245
+        },
+        {
+          "distance": 0.14414089918136597,
+          "id": 1729361603
+        },
+        {
+          "distance": 0.14852499961853027,
+          "id": 1880151067
+        },
+        {
+          "distance": 0.15234190225601196,
+          "id": 1729355429
+        },
+        {
+          "distance": 0.15805500745773315,
+          "id": 1763559203
+        },
+        {
+          "distance": 0.1582273244857788,
+          "id": 1729361603
+        },
+        {
+          "distance": 0.16032618284225464,
+          "id": 1729355245
+        },
+        {
+          "distance": 0.16090774536132812,
+          "id": 1729357179
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361251,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "A Pan American Douglas DC-7 soars over San Francisco in the 1950s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

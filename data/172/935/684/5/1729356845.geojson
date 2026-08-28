@@ -34,6 +34,50 @@
       "taken": 1552078380,
       "taken_at": "Mar 08, 2019 8:53 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.021329104900360107,
+          "id": 1947425065
+        },
+        {
+          "distance": 0.06440746784210205,
+          "id": 1947425065
+        },
+        {
+          "distance": 0.07233089208602905,
+          "id": 1729359789
+        },
+        {
+          "distance": 0.08943235874176025,
+          "id": 1729359789
+        },
+        {
+          "distance": 0.19291681051254272,
+          "id": 1729361015
+        },
+        {
+          "distance": 0.1947457194328308,
+          "id": 1729358943
+        },
+        {
+          "distance": 0.2025877833366394,
+          "id": 1729361263
+        },
+        {
+          "distance": 0.20944029092788696,
+          "id": 1729360019
+        },
+        {
+          "distance": 0.21658742427825928,
+          "id": 1729356581
+        },
+        {
+          "distance": 0.21953129768371582,
+          "id": 1729360477
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729356845,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777629,
     "wof:name": "\"The Voice of S.F...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

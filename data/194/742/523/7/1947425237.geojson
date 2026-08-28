@@ -29,6 +29,50 @@
       "taken": 1700240100,
       "taken_at": "Nov 17, 2023 4:55 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.00002384185791015625,
+          "id": 1947425209
+        },
+        {
+          "distance": 0.057804644107818604,
+          "id": 1947425141
+        },
+        {
+          "distance": 0.08339732885360718,
+          "id": 1947425209
+        },
+        {
+          "distance": 0.12013036012649536,
+          "id": 1947425141
+        },
+        {
+          "distance": 0.16861069202423096,
+          "id": 1880150965
+        },
+        {
+          "distance": 0.16968154907226562,
+          "id": 1880151473
+        },
+        {
+          "distance": 0.16996139287948608,
+          "id": 1729360135
+        },
+        {
+          "distance": 0.17088770866394043,
+          "id": 1729361489
+        },
+        {
+          "distance": 0.17371028661727905,
+          "id": 1880151121
+        },
+        {
+          "distance": 0.1756277084350586,
+          "id": 1880151287
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1947425237,
-    "wof:lastmodified": 1733175330,
+    "wof:lastmodified": 1787777664,
     "wof:name": "This DC-3 seat typically used in day-use configurations was covered in fabric, amply cushioned, and represented the introduction of foam rubber on airliner seats...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

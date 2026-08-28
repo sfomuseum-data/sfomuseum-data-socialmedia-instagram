@@ -28,6 +28,50 @@
       "taken": 1446634560,
       "taken_at": "Nov 04, 2015 10:56 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12793225049972534,
+          "id": 1729361869
+        },
+        {
+          "distance": 0.1375042200088501,
+          "id": 1880151223
+        },
+        {
+          "distance": 0.15800601243972778,
+          "id": 1880151185
+        },
+        {
+          "distance": 0.1659570336341858,
+          "id": 1880151223
+        },
+        {
+          "distance": 0.17887723445892334,
+          "id": 1729359577
+        },
+        {
+          "distance": 0.20511376857757568,
+          "id": 1729361337
+        },
+        {
+          "distance": 0.20889508724212646,
+          "id": 1729360319
+        },
+        {
+          "distance": 0.2091912031173706,
+          "id": 1729361881
+        },
+        {
+          "distance": 0.2095041275024414,
+          "id": 1880151721
+        },
+        {
+          "distance": 0.21798616647720337,
+          "id": 1729359257
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1729361387,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "Lincoln Beachey was born in San Francisco in 1887...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

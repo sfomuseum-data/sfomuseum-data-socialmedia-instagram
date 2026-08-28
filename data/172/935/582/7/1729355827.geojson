@@ -32,6 +32,50 @@
       "taken": 1575383220,
       "taken_at": "Dec 03, 2019 2:27 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.40077900886535645,
+          "id": 1729360267
+        },
+        {
+          "distance": 0.40892142057418823,
+          "id": 1947425177
+        },
+        {
+          "distance": 0.40937918424606323,
+          "id": 1947425177
+        },
+        {
+          "distance": 0.4103090763092041,
+          "id": 1729355621
+        },
+        {
+          "distance": 0.41363269090652466,
+          "id": 1880151767
+        },
+        {
+          "distance": 0.41535264253616333,
+          "id": 1729361531
+        },
+        {
+          "distance": 0.4165484309196472,
+          "id": 1729360855
+        },
+        {
+          "distance": 0.4165956377983093,
+          "id": 1729359281
+        },
+        {
+          "distance": 0.41892510652542114,
+          "id": 1729360855
+        },
+        {
+          "distance": 0.4191410541534424,
+          "id": 1729360861
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729355827,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777627,
     "wof:name": "Air Illinois was a regional airline based in Carbondale, Illinois, that started operation in 1970 and filed for bankruptcy in 1984...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

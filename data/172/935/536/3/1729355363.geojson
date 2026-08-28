@@ -38,6 +38,50 @@
       "taken": 1586347260,
       "taken_at": "Apr 08, 2020 12:01 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.152654767036438,
+          "id": 1729355297
+        },
+        {
+          "distance": 0.16763198375701904,
+          "id": 1729355297
+        },
+        {
+          "distance": 0.16975247859954834,
+          "id": 1763559025
+        },
+        {
+          "distance": 0.1761114001274109,
+          "id": 1763559025
+        },
+        {
+          "distance": 0.18960785865783691,
+          "id": 1763559569
+        },
+        {
+          "distance": 0.19907426834106445,
+          "id": 1729355785
+        },
+        {
+          "distance": 0.21713769435882568,
+          "id": 1729356071
+        },
+        {
+          "distance": 0.21817290782928467,
+          "id": 1880151475
+        },
+        {
+          "distance": 0.2204715609550476,
+          "id": 1763558907
+        },
+        {
+          "distance": 0.22220379114151,
+          "id": 1763559105
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729355363,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777624,
     "wof:name": "Hand painted signs for barbershops and hairdressers have a rich history in Africa...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

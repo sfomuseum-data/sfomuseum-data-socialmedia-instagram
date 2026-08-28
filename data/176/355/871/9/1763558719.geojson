@@ -40,6 +40,50 @@
       "taken": 1518027600,
       "taken_at": "Feb 07, 2018 6:20 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.011402368545532227,
+          "id": 1729358583
+        },
+        {
+          "distance": 0.12032806873321533,
+          "id": 1729358583
+        },
+        {
+          "distance": 0.2805159091949463,
+          "id": 1729359213
+        },
+        {
+          "distance": 0.2926403284072876,
+          "id": 1729359663
+        },
+        {
+          "distance": 0.30180221796035767,
+          "id": 1729359213
+        },
+        {
+          "distance": 0.33129674196243286,
+          "id": 1729358663
+        },
+        {
+          "distance": 0.33159542083740234,
+          "id": 1729359833
+        },
+        {
+          "distance": 0.3362022042274475,
+          "id": 1729355649
+        },
+        {
+          "distance": 0.34699302911758423,
+          "id": 1729358441
+        },
+        {
+          "distance": 0.3482942581176758,
+          "id": 1763559073
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1763558719,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777659,
     "wof:name": "#OnThisDay in 1960, Pan American World Airways received their first Douglas DC-8, the \"Clipper Mandarin\", registry number N803PA...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

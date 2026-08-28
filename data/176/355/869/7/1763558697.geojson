@@ -25,6 +25,50 @@
       "taken": 1514226600,
       "taken_at": "Dec 25, 2017 6:30 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.003733336925506592,
+          "id": 1729358779
+        },
+        {
+          "distance": 0.07768672704696655,
+          "id": 1729358779
+        },
+        {
+          "distance": 0.2091578245162964,
+          "id": 1729359349
+        },
+        {
+          "distance": 0.2118391990661621,
+          "id": 1763558677
+        },
+        {
+          "distance": 0.21538782119750977,
+          "id": 1763558677
+        },
+        {
+          "distance": 0.21964585781097412,
+          "id": 1729359349
+        },
+        {
+          "distance": 0.27682268619537354,
+          "id": 1729358137
+        },
+        {
+          "distance": 0.2830301523208618,
+          "id": 1729355563
+        },
+        {
+          "distance": 0.28712034225463867,
+          "id": 1729360469
+        },
+        {
+          "distance": 0.2946551442146301,
+          "id": 1729355563
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1763558697,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777659,
     "wof:name": "Happy Holidays from SFO Museum...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

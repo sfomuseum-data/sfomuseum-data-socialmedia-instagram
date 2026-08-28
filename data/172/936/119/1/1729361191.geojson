@@ -29,6 +29,50 @@
       "taken": 1452111720,
       "taken_at": "Jan 06, 2016 8:22 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1114315390586853,
+          "id": 1729360451
+        },
+        {
+          "distance": 0.123557448387146,
+          "id": 1729360451
+        },
+        {
+          "distance": 0.26089155673980713,
+          "id": 1729357549
+        },
+        {
+          "distance": 0.28851431608200073,
+          "id": 1729357241
+        },
+        {
+          "distance": 0.29159969091415405,
+          "id": 1729361149
+        },
+        {
+          "distance": 0.2957267165184021,
+          "id": 1729357549
+        },
+        {
+          "distance": 0.3045766353607178,
+          "id": 1729356647
+        },
+        {
+          "distance": 0.30715054273605347,
+          "id": 1729361149
+        },
+        {
+          "distance": 0.3079041838645935,
+          "id": 1729357169
+        },
+        {
+          "distance": 0.3106851577758789,
+          "id": 1729357169
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729361191,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "Marguerite Wildenhain accepted a position as head of ceramics at the Municipal School of Fine and Applied Arts in Halle, Germany, in 1926...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

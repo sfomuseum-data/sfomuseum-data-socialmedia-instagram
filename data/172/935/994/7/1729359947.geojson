@@ -25,6 +25,50 @@
       "taken": 1483439400,
       "taken_at": "Jan 03, 2017 10:30 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13027065992355347,
+          "id": 1729356145
+        },
+        {
+          "distance": 0.15330302715301514,
+          "id": 1729360429
+        },
+        {
+          "distance": 0.15548032522201538,
+          "id": 1729361577
+        },
+        {
+          "distance": 0.16863000392913818,
+          "id": 1729360411
+        },
+        {
+          "distance": 0.17127835750579834,
+          "id": 1729359149
+        },
+        {
+          "distance": 0.1721559762954712,
+          "id": 1729361255
+        },
+        {
+          "distance": 0.17540210485458374,
+          "id": 1729360411
+        },
+        {
+          "distance": 0.17782056331634521,
+          "id": 1729361735
+        },
+        {
+          "distance": 0.17791378498077393,
+          "id": 1729357593
+        },
+        {
+          "distance": 0.1809062957763672,
+          "id": 1729360541
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359947,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "Happy 2017!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

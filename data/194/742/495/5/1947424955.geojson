@@ -27,6 +27,50 @@
       "taken": 1720454100,
       "taken_at": "Jul 08, 2024 3:55 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14797669649124146,
+          "id": 1947425167
+        },
+        {
+          "distance": 0.1564851999282837,
+          "id": 1880151807
+        },
+        {
+          "distance": 0.19704359769821167,
+          "id": 1729358671
+        },
+        {
+          "distance": 0.1971806287765503,
+          "id": 1880151391
+        },
+        {
+          "distance": 0.21308273077011108,
+          "id": 1880151493
+        },
+        {
+          "distance": 0.21980470418930054,
+          "id": 1729356101
+        },
+        {
+          "distance": 0.21994811296463013,
+          "id": 1947425167
+        },
+        {
+          "distance": 0.22012686729431152,
+          "id": 1947425291
+        },
+        {
+          "distance": 0.22176212072372437,
+          "id": 1729356005
+        },
+        {
+          "distance": 0.22370821237564087,
+          "id": 1880151245
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947424955,
-    "wof:lastmodified": 1733175321,
+    "wof:lastmodified": 1787777664,
     "wof:name": "It is your last week to see \"Kay Sekimachi: Weaving Traditions!\"..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

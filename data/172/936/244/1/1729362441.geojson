@@ -25,6 +25,50 @@
       "taken": 1389192000,
       "taken_at": "Jan 08, 2014 2:40 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16929692029953003,
+          "id": 1729362309
+        },
+        {
+          "distance": 0.1985170841217041,
+          "id": 1729362391
+        },
+        {
+          "distance": 0.24898886680603027,
+          "id": 1729362287
+        },
+        {
+          "distance": 0.25354623794555664,
+          "id": 1729362185
+        },
+        {
+          "distance": 0.254186749458313,
+          "id": 1729362309
+        },
+        {
+          "distance": 0.2578464150428772,
+          "id": 1729362173
+        },
+        {
+          "distance": 0.26388776302337646,
+          "id": 1729362391
+        },
+        {
+          "distance": 0.26439034938812256,
+          "id": 1729357737
+        },
+        {
+          "distance": 0.2728158235549927,
+          "id": 1729362089
+        },
+        {
+          "distance": 0.28860044479370117,
+          "id": 1729357737
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362441,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "Classic font treatment from this 1869 San Francisco map...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

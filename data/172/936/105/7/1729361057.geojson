@@ -25,6 +25,50 @@
       "taken": 1455308820,
       "taken_at": "Feb 12, 2016 8:27 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14663273096084595,
+          "id": 1729357581
+        },
+        {
+          "distance": 0.15261077880859375,
+          "id": 1729360243
+        },
+        {
+          "distance": 0.16856682300567627,
+          "id": 1880151313
+        },
+        {
+          "distance": 0.16967034339904785,
+          "id": 1880151313
+        },
+        {
+          "distance": 0.17534655332565308,
+          "id": 1729361173
+        },
+        {
+          "distance": 0.18205136060714722,
+          "id": 1729357581
+        },
+        {
+          "distance": 0.18542444705963135,
+          "id": 1729359597
+        },
+        {
+          "distance": 0.18593353033065796,
+          "id": 1729360243
+        },
+        {
+          "distance": 0.18713831901550293,
+          "id": 1729355993
+        },
+        {
+          "distance": 0.19614535570144653,
+          "id": 1729361173
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361057,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777643,
     "wof:name": "Featuring the Pan American Airways Martin M-130 China Clipper, this colorful postcard from circa 1935 is missing two distinctive Bay Area landmarks, for which construction was underway but not complete...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

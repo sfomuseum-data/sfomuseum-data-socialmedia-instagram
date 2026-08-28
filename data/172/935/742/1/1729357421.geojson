@@ -34,6 +34,50 @@
       "taken": 1541528520,
       "taken_at": "Nov 06, 2018 6:22 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1600542664527893,
+          "id": 1729357417
+        },
+        {
+          "distance": 0.160591721534729,
+          "id": 1729357835
+        },
+        {
+          "distance": 0.17063480615615845,
+          "id": 1729358241
+        },
+        {
+          "distance": 0.18200665712356567,
+          "id": 1729357835
+        },
+        {
+          "distance": 0.18709135055541992,
+          "id": 1729357653
+        },
+        {
+          "distance": 0.1891433596611023,
+          "id": 1729357261
+        },
+        {
+          "distance": 0.19237416982650757,
+          "id": 1729358241
+        },
+        {
+          "distance": 0.1950332522392273,
+          "id": 1729357865
+        },
+        {
+          "distance": 0.19898545742034912,
+          "id": 1729357417
+        },
+        {
+          "distance": 0.20756560564041138,
+          "id": 1729357653
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729357421,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777631,
     "wof:name": "“Noguchi's art, deeply rooted in tradition, kept reiterating the underlying wisdom and verities of life...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

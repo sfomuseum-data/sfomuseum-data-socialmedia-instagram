@@ -33,6 +33,50 @@
       "taken": 1659525060,
       "taken_at": "Aug 03, 2022 11:11 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06679779291152954,
+          "id": 1880151513
+        },
+        {
+          "distance": 0.12492501735687256,
+          "id": 1880151513
+        },
+        {
+          "distance": 0.13965171575546265,
+          "id": 1880151575
+        },
+        {
+          "distance": 0.13965171575546265,
+          "id": 1880151563
+        },
+        {
+          "distance": 0.1594935655593872,
+          "id": 1880151563
+        },
+        {
+          "distance": 0.1594935655593872,
+          "id": 1880151575
+        },
+        {
+          "distance": 0.1953880786895752,
+          "id": 1880151519
+        },
+        {
+          "distance": 0.20396703481674194,
+          "id": 1880151519
+        },
+        {
+          "distance": 0.2199622392654419,
+          "id": 1880151571
+        },
+        {
+          "distance": 0.22118639945983887,
+          "id": 1880151571
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1880151531,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "In 1912, Julia Clark became the third woman in the United States to earn a pilot’s license...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

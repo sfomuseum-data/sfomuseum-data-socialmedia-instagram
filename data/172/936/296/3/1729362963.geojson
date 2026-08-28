@@ -25,6 +25,50 @@
       "taken": 1341576840,
       "taken_at": "Jul 06, 2012 12:14 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.284745991230011,
+          "id": 1729362707
+        },
+        {
+          "distance": 0.30726712942123413,
+          "id": 1729362707
+        },
+        {
+          "distance": 0.31410521268844604,
+          "id": 1729362865
+        },
+        {
+          "distance": 0.3260113000869751,
+          "id": 1729362757
+        },
+        {
+          "distance": 0.33670657873153687,
+          "id": 1729363051
+        },
+        {
+          "distance": 0.3384929895401001,
+          "id": 1729362725
+        },
+        {
+          "distance": 0.3386686444282532,
+          "id": 1729362477
+        },
+        {
+          "distance": 0.3405648469924927,
+          "id": 1729362109
+        },
+        {
+          "distance": 0.34216833114624023,
+          "id": 1729360153
+        },
+        {
+          "distance": 0.34328192472457886,
+          "id": 1729362535
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362963,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777657,
     "wof:name": "We've got to hand it to our Librarian for making sure our white gloves are totally dry after being cleaned...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

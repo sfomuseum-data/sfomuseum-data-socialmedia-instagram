@@ -30,6 +30,50 @@
       "taken": 1608224520,
       "taken_at": "Dec 17, 2020 5:02 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2250789999961853,
+          "id": 1729361337
+        },
+        {
+          "distance": 0.22573167085647583,
+          "id": 1729361391
+        },
+        {
+          "distance": 0.23630273342132568,
+          "id": 1880151223
+        },
+        {
+          "distance": 0.24015462398529053,
+          "id": 1880151595
+        },
+        {
+          "distance": 0.24799776077270508,
+          "id": 1880151661
+        },
+        {
+          "distance": 0.2500055432319641,
+          "id": 1729361271
+        },
+        {
+          "distance": 0.25145190954208374,
+          "id": 1880151641
+        },
+        {
+          "distance": 0.25438809394836426,
+          "id": 1880151595
+        },
+        {
+          "distance": 0.25540971755981445,
+          "id": 1880151611
+        },
+        {
+          "distance": 0.2557845711708069,
+          "id": 1880151661
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763558961,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Today is Pan American Aviation Day, a celebration for the first flight of the Wright Flyer, which took place on December 17, 1903...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

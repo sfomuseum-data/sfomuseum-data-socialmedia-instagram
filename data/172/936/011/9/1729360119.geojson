@@ -25,6 +25,50 @@
       "taken": 1479053340,
       "taken_at": "Nov 13, 2016 4:09 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.004607737064361572,
+          "id": 1729357635
+        },
+        {
+          "distance": 0.08692407608032227,
+          "id": 1729357635
+        },
+        {
+          "distance": 0.2971215844154358,
+          "id": 1880150923
+        },
+        {
+          "distance": 0.3042030334472656,
+          "id": 1729358575
+        },
+        {
+          "distance": 0.30689936876296997,
+          "id": 1729360479
+        },
+        {
+          "distance": 0.3082658052444458,
+          "id": 1880150923
+        },
+        {
+          "distance": 0.3100253939628601,
+          "id": 1729361045
+        },
+        {
+          "distance": 0.31072747707366943,
+          "id": 1729359833
+        },
+        {
+          "distance": 0.313057005405426,
+          "id": 1729358691
+        },
+        {
+          "distance": 0.3148709535598755,
+          "id": 1729356715
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360119,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "Need some design inspiration or nostalgic for the golden age of aviation?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

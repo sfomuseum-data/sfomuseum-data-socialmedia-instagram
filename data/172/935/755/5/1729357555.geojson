@@ -37,6 +37,50 @@
       "taken": 1539444780,
       "taken_at": "Oct 13, 2018, 3:33 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23272234201431274,
+          "id": 1729357567
+        },
+        {
+          "distance": 0.23631978034973145,
+          "id": 1729355099
+        },
+        {
+          "distance": 0.2592011094093323,
+          "id": 1729357567
+        },
+        {
+          "distance": 0.2624935507774353,
+          "id": 1729355069
+        },
+        {
+          "distance": 0.2690759301185608,
+          "id": 1729355069
+        },
+        {
+          "distance": 0.2769113779067993,
+          "id": 1729355099
+        },
+        {
+          "distance": 0.3132299780845642,
+          "id": 1729357195
+        },
+        {
+          "distance": 0.3216428756713867,
+          "id": 1729355039
+        },
+        {
+          "distance": 0.3239111304283142,
+          "id": 1729355077
+        },
+        {
+          "distance": 0.3274858593940735,
+          "id": 1729355081
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729357555,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777632,
     "wof:name": "\"A Sterling Renaissance: British Silver Design 1957 to 2018\" is not our only exhibition with silver...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

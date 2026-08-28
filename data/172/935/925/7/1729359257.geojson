@@ -25,6 +25,50 @@
       "taken": 1501257900,
       "taken_at": "Jul 28, 2017 4:05 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0791662335395813,
+          "id": 1729362077
+        },
+        {
+          "distance": 0.1024366021156311,
+          "id": 1729358317
+        },
+        {
+          "distance": 0.10966223478317261,
+          "id": 1729360561
+        },
+        {
+          "distance": 0.11013329029083252,
+          "id": 1880151387
+        },
+        {
+          "distance": 0.13559681177139282,
+          "id": 1729357841
+        },
+        {
+          "distance": 0.13950979709625244,
+          "id": 1729357075
+        },
+        {
+          "distance": 0.13984471559524536,
+          "id": 1880151189
+        },
+        {
+          "distance": 0.14102399349212646,
+          "id": 1729357597
+        },
+        {
+          "distance": 0.14127200841903687,
+          "id": 1729355657
+        },
+        {
+          "distance": 0.1449175477027893,
+          "id": 1880151387
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359257,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "In the late 1920s, airline passenger seats needed to be light, yet strong, durable, and sufficiently comfortable to sit in for long hours...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

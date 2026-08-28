@@ -25,6 +25,50 @@
       "taken": 1458064980,
       "taken_at": "Mar 15, 2016 6:03 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.33286184072494507,
+          "id": 1729355083
+        },
+        {
+          "distance": 0.33839505910873413,
+          "id": 1947425129
+        },
+        {
+          "distance": 0.3460882902145386,
+          "id": 1729360409
+        },
+        {
+          "distance": 0.3536456227302551,
+          "id": 1729358727
+        },
+        {
+          "distance": 0.360002338886261,
+          "id": 1947425129
+        },
+        {
+          "distance": 0.3647427558898926,
+          "id": 1729360409
+        },
+        {
+          "distance": 0.3656684160232544,
+          "id": 1729355083
+        },
+        {
+          "distance": 0.36950039863586426,
+          "id": 1947424831
+        },
+        {
+          "distance": 0.36956262588500977,
+          "id": 1729358571
+        },
+        {
+          "distance": 0.3709866404533386,
+          "id": 1729355735
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360933,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "This month, Virgin America will start daily flights from SFO to Denver, Colorado...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

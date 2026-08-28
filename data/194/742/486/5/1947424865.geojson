@@ -27,6 +27,50 @@
       "taken": 1727712000,
       "taken_at": "Sep 30, 2024 4:00 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19099211692810059,
+          "id": 1947424835
+        },
+        {
+          "distance": 0.20116454362869263,
+          "id": 1947424835
+        },
+        {
+          "distance": 0.2597425580024719,
+          "id": 1729360673
+        },
+        {
+          "distance": 0.26353514194488525,
+          "id": 1729360673
+        },
+        {
+          "distance": 0.26511478424072266,
+          "id": 1947425117
+        },
+        {
+          "distance": 0.2709575295448303,
+          "id": 1729359877
+        },
+        {
+          "distance": 0.27845025062561035,
+          "id": 1729355227
+        },
+        {
+          "distance": 0.2829967141151428,
+          "id": 1763559327
+        },
+        {
+          "distance": 0.2839078903198242,
+          "id": 1729361381
+        },
+        {
+          "distance": 0.28856104612350464,
+          "id": 1763559487
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947424865,
-    "wof:lastmodified": 1733175319,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Our newest exhibition, “San Francisco: City of the World” is now on display in Terminal 2!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

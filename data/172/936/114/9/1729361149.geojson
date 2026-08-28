@@ -27,6 +27,50 @@
       "taken": 1453289640,
       "taken_at": "Jan 20, 2016 11:34 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17682349681854248,
+          "id": 1729360615
+        },
+        {
+          "distance": 0.21762555837631226,
+          "id": 1763559361
+        },
+        {
+          "distance": 0.2246820330619812,
+          "id": 1729358645
+        },
+        {
+          "distance": 0.22598785161972046,
+          "id": 1729359655
+        },
+        {
+          "distance": 0.23041903972625732,
+          "id": 1729358639
+        },
+        {
+          "distance": 0.2342243194580078,
+          "id": 1729360615
+        },
+        {
+          "distance": 0.23964178562164307,
+          "id": 1729361441
+        },
+        {
+          "distance": 0.24392986297607422,
+          "id": 1729361915
+        },
+        {
+          "distance": 0.2524937391281128,
+          "id": 1729359829
+        },
+        {
+          "distance": 0.25505530834198,
+          "id": 1729362175
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1729361149,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "Marguerite Wildenhain went to work at the Municipal School of Fine and Applied Arts in 1926 where she headed the school’s ceramics department for seven years...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -73,5 +117,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

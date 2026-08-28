@@ -25,6 +25,50 @@
       "taken": 1475176320,
       "taken_at": "Sep 29, 2016 7:12 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12347495555877686,
+          "id": 1729359159
+        },
+        {
+          "distance": 0.165213942527771,
+          "id": 1729360407
+        },
+        {
+          "distance": 0.16812491416931152,
+          "id": 1763559131
+        },
+        {
+          "distance": 0.168481707572937,
+          "id": 1729361593
+        },
+        {
+          "distance": 0.17419809103012085,
+          "id": 1880151243
+        },
+        {
+          "distance": 0.17622584104537964,
+          "id": 1729355091
+        },
+        {
+          "distance": 0.18303930759429932,
+          "id": 1729357103
+        },
+        {
+          "distance": 0.18608629703521729,
+          "id": 1729359719
+        },
+        {
+          "distance": 0.1922505497932434,
+          "id": 1729360121
+        },
+        {
+          "distance": 0.19822025299072266,
+          "id": 1729360607
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360279,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "This photograph of the Central Terminal (now Terminal 2) at SFO was taken on August 30, 1962...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

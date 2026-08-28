@@ -25,6 +25,50 @@
       "taken": 1450345620,
       "taken_at": "Dec 17, 2015 9:47 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09088730812072754,
+          "id": 1729357217
+        },
+        {
+          "distance": 0.11299741268157959,
+          "id": 1729358813
+        },
+        {
+          "distance": 0.12244164943695068,
+          "id": 1763559683
+        },
+        {
+          "distance": 0.1415092945098877,
+          "id": 1729357217
+        },
+        {
+          "distance": 0.14253956079483032,
+          "id": 1729358813
+        },
+        {
+          "distance": 0.144730806350708,
+          "id": 1763559683
+        },
+        {
+          "distance": 0.1941562294960022,
+          "id": 1880151721
+        },
+        {
+          "distance": 0.19894814491271973,
+          "id": 1880151107
+        },
+        {
+          "distance": 0.22299492359161377,
+          "id": 1880151611
+        },
+        {
+          "distance": 0.2230931520462036,
+          "id": 1763559651
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361265,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "#OnThisDay in 1903, the Wright brothers successfully flew a heavier-than-air, mechanically propelled aircraft at Kitty Hawk, North Carolina...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

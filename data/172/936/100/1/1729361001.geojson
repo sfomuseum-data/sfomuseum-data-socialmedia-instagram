@@ -25,6 +25,50 @@
       "taken": 1456573320,
       "taken_at": "Feb 27, 2016 11:42 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3258744478225708,
+          "id": 1729360177
+        },
+        {
+          "distance": 0.3281809091567993,
+          "id": 1729356557
+        },
+        {
+          "distance": 0.3358396291732788,
+          "id": 1729356577
+        },
+        {
+          "distance": 0.33785223960876465,
+          "id": 1729359911
+        },
+        {
+          "distance": 0.3402412533760071,
+          "id": 1729356819
+        },
+        {
+          "distance": 0.34389162063598633,
+          "id": 1729359941
+        },
+        {
+          "distance": 0.3446977138519287,
+          "id": 1729357093
+        },
+        {
+          "distance": 0.3471078872680664,
+          "id": 1729356819
+        },
+        {
+          "distance": 0.34901249408721924,
+          "id": 1729356557
+        },
+        {
+          "distance": 0.35299593210220337,
+          "id": 1729356577
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361001,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Kevin Carpenter’s Microbe Worlds is an exploration of the hidden beauty and cellular motifs of microbes as revealed by high-resolution microscope scanning of cell surfaces, which combines magnification with great three-dimensionality and depth of field...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

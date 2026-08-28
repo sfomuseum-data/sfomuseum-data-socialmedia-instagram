@@ -30,6 +30,50 @@
       "taken": 1629388200,
       "taken_at": "Aug 19, 2021 3:50 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16020047664642334,
+          "id": 1729357323
+        },
+        {
+          "distance": 0.17269736528396606,
+          "id": 1880150909
+        },
+        {
+          "distance": 0.17709052562713623,
+          "id": 1729360531
+        },
+        {
+          "distance": 0.18392151594161987,
+          "id": 1729358457
+        },
+        {
+          "distance": 0.1918044090270996,
+          "id": 1729359145
+        },
+        {
+          "distance": 0.19351357221603394,
+          "id": 1729358135
+        },
+        {
+          "distance": 0.19628006219863892,
+          "id": 1729357737
+        },
+        {
+          "distance": 0.1974853277206421,
+          "id": 1729357727
+        },
+        {
+          "distance": 0.20054584741592407,
+          "id": 1880151063
+        },
+        {
+          "distance": 0.20356589555740356,
+          "id": 1729356859
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559455,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "If you were flying high above the airport in 1930, this would have been your view...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

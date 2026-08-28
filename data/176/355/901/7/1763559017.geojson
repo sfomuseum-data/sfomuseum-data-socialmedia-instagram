@@ -30,6 +30,50 @@
       "taken": 1603889400,
       "taken_at": "Oct 28, 2020 12:50 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06720560789108276,
+          "id": 1729358961
+        },
+        {
+          "distance": 0.10739719867706299,
+          "id": 1880151387
+        },
+        {
+          "distance": 0.10911643505096436,
+          "id": 1729355953
+        },
+        {
+          "distance": 0.12328308820724487,
+          "id": 1880151189
+        },
+        {
+          "distance": 0.12337785959243774,
+          "id": 1729358961
+        },
+        {
+          "distance": 0.12886983156204224,
+          "id": 1880151387
+        },
+        {
+          "distance": 0.13324159383773804,
+          "id": 1729356091
+        },
+        {
+          "distance": 0.13636153936386108,
+          "id": 1729357075
+        },
+        {
+          "distance": 0.138749897480011,
+          "id": 1729361159
+        },
+        {
+          "distance": 0.14102762937545776,
+          "id": 1729360319
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559017,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Nine days after their first ever service, Pan American Airways’ first scheduled mail service departed from Key West, Florida, to Havana, Cuba, #onthisday in 1927...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

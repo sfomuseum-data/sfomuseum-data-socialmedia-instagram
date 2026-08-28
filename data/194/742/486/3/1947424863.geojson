@@ -29,6 +29,50 @@
       "taken": 1726761180,
       "taken_at": "Sep 19, 2024 3:53 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3045353889465332,
+          "id": 1729362053
+        },
+        {
+          "distance": 0.3048807382583618,
+          "id": 1729362053
+        },
+        {
+          "distance": 0.3102654814720154,
+          "id": 1729358733
+        },
+        {
+          "distance": 0.33716899156570435,
+          "id": 1763559051
+        },
+        {
+          "distance": 0.34158748388290405,
+          "id": 1729357967
+        },
+        {
+          "distance": 0.3420826196670532,
+          "id": 1729356155
+        },
+        {
+          "distance": 0.34226977825164795,
+          "id": 1729358733
+        },
+        {
+          "distance": 0.3445858359336853,
+          "id": 1729355521
+        },
+        {
+          "distance": 0.35184675455093384,
+          "id": 1729357211
+        },
+        {
+          "distance": 0.3521859645843506,
+          "id": 1729356573
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1947424863,
-    "wof:lastmodified": 1733175319,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Did you know that SFO Museum designs all our graphics in-house?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

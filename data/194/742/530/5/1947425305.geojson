@@ -29,6 +29,50 @@
       "taken": 1694534100,
       "taken_at": "Sep 12, 2023 3:55 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.01134181022644043,
+          "id": 1947425113
+        },
+        {
+          "distance": 0.10114073753356934,
+          "id": 1947425165
+        },
+        {
+          "distance": 0.15761315822601318,
+          "id": 1947425165
+        },
+        {
+          "distance": 0.178572416305542,
+          "id": 1947425113
+        },
+        {
+          "distance": 0.21742141246795654,
+          "id": 1729356499
+        },
+        {
+          "distance": 0.2201957106590271,
+          "id": 1947424867
+        },
+        {
+          "distance": 0.22579264640808105,
+          "id": 1947425235
+        },
+        {
+          "distance": 0.22655165195465088,
+          "id": 1947425269
+        },
+        {
+          "distance": 0.22777503728866577,
+          "id": 1880151785
+        },
+        {
+          "distance": 0.22863203287124634,
+          "id": 1947424853
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1947425305,
-    "wof:lastmodified": 1733175331,
+    "wof:lastmodified": 1787777664,
     "wof:name": "A visionary artist, Georges Liautaud (1899–1991) founded the Haitian metal sculpture movement...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -31,6 +31,50 @@
       "taken": 1670928360,
       "taken_at": "Dec 13, 2022 10:46 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16409063339233398,
+          "id": 1880151305
+        },
+        {
+          "distance": 0.22012221813201904,
+          "id": 1880151379
+        },
+        {
+          "distance": 0.22605741024017334,
+          "id": 1880151195
+        },
+        {
+          "distance": 0.22767436504364014,
+          "id": 1880151305
+        },
+        {
+          "distance": 0.23197001218795776,
+          "id": 1729360679
+        },
+        {
+          "distance": 0.24042409658432007,
+          "id": 1729356997
+        },
+        {
+          "distance": 0.2425890564918518,
+          "id": 1729360823
+        },
+        {
+          "distance": 0.24392521381378174,
+          "id": 1947424879
+        },
+        {
+          "distance": 0.24646425247192383,
+          "id": 1947425291
+        },
+        {
+          "distance": 0.24727708101272583,
+          "id": 1729360245
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151269,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Japanese art was influenced by other Eastern countries, such as China and India...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

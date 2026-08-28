@@ -25,6 +25,50 @@
       "taken": 1352301000,
       "taken_at": "Nov 07, 2012 3:10 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23613780736923218,
+          "id": 1729362925
+        },
+        {
+          "distance": 0.2724723815917969,
+          "id": 1729362801
+        },
+        {
+          "distance": 0.27255505323410034,
+          "id": 1729362925
+        },
+        {
+          "distance": 0.27779990434646606,
+          "id": 1729362815
+        },
+        {
+          "distance": 0.279558002948761,
+          "id": 1729362815
+        },
+        {
+          "distance": 0.29277724027633667,
+          "id": 1729362941
+        },
+        {
+          "distance": 0.29411596059799194,
+          "id": 1729362869
+        },
+        {
+          "distance": 0.30585312843322754,
+          "id": 1729362869
+        },
+        {
+          "distance": 0.3149309754371643,
+          "id": 1729362955
+        },
+        {
+          "distance": 0.31714534759521484,
+          "id": 1729362801
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362853,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777654,
     "wof:name": "A lot of work goes into designing bikes!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

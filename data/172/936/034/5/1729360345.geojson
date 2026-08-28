@@ -28,6 +28,50 @@
       "taken": 1474107180,
       "taken_at": "Sep 17, 2016 10:13 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.30044668912887573,
+          "id": 1729356189
+        },
+        {
+          "distance": 0.3132290244102478,
+          "id": 1729356189
+        },
+        {
+          "distance": 0.335349977016449,
+          "id": 1729356393
+        },
+        {
+          "distance": 0.3378037214279175,
+          "id": 1729356393
+        },
+        {
+          "distance": 0.3461337685585022,
+          "id": 1729358187
+        },
+        {
+          "distance": 0.34786659479141235,
+          "id": 1729355647
+        },
+        {
+          "distance": 0.3582296371459961,
+          "id": 1729356881
+        },
+        {
+          "distance": 0.3585251569747925,
+          "id": 1729355647
+        },
+        {
+          "distance": 0.35987532138824463,
+          "id": 1729355653
+        },
+        {
+          "distance": 0.3610173463821411,
+          "id": 1880151693
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1729360345,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "Kerry Mansfield is a San Francisco-based photographer...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

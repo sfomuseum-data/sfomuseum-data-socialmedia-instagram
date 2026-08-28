@@ -32,6 +32,50 @@
       "taken": 1492539000,
       "taken_at": "Apr 18, 2017, 6:10 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.08083587884902954,
+          "id": 1729359591
+        },
+        {
+          "distance": 0.08083587884902954,
+          "id": 1763558659
+        },
+        {
+          "distance": 0.0999981164932251,
+          "id": 1729359593
+        },
+        {
+          "distance": 0.11472868919372559,
+          "id": 1729359043
+        },
+        {
+          "distance": 0.12416845560073853,
+          "id": 1729356303
+        },
+        {
+          "distance": 0.12438267469406128,
+          "id": 1763559015
+        },
+        {
+          "distance": 0.1358579397201538,
+          "id": 1729357627
+        },
+        {
+          "distance": 0.1531466245651245,
+          "id": 1729359043
+        },
+        {
+          "distance": 0.15710300207138062,
+          "id": 1729359593
+        },
+        {
+          "distance": 0.15761911869049072,
+          "id": 1763558659
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729359601,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777636,
     "wof:name": "Have you ever wondered how aircraft are painted?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

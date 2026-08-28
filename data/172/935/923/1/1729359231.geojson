@@ -57,6 +57,50 @@
       "taken": 1501778040,
       "taken_at": "Aug 03, 2017 4:34 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10292738676071167,
+          "id": 1729359197
+        },
+        {
+          "distance": 0.10292738676071167,
+          "id": 1763558687
+        },
+        {
+          "distance": 0.11957836151123047,
+          "id": 1729359121
+        },
+        {
+          "distance": 0.1452738642692566,
+          "id": 1729358939
+        },
+        {
+          "distance": 0.14967471361160278,
+          "id": 1729358859
+        },
+        {
+          "distance": 0.1500881314277649,
+          "id": 1729359121
+        },
+        {
+          "distance": 0.15100735425949097,
+          "id": 1729358989
+        },
+        {
+          "distance": 0.16239643096923828,
+          "id": 1729356339
+        },
+        {
+          "distance": 0.16452425718307495,
+          "id": 1763558687
+        },
+        {
+          "distance": 0.16452425718307495,
+          "id": 1729359197
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -86,7 +130,7 @@
       }
     ],
     "wof:id": 1729359231,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "In the mid-1930s, L.C...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -103,5 +147,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

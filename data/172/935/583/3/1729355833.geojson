@@ -30,6 +30,50 @@
       "taken": 1575291120,
       "taken_at": "Dec 02, 2019 12:52 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1564342975616455,
+          "id": 1729359361
+        },
+        {
+          "distance": 0.15683084726333618,
+          "id": 1729355429
+        },
+        {
+          "distance": 0.15821701288223267,
+          "id": 1729360277
+        },
+        {
+          "distance": 0.15831828117370605,
+          "id": 1729358009
+        },
+        {
+          "distance": 0.16008394956588745,
+          "id": 1763559547
+        },
+        {
+          "distance": 0.16035616397857666,
+          "id": 1729356623
+        },
+        {
+          "distance": 0.16275125741958618,
+          "id": 1729356979
+        },
+        {
+          "distance": 0.16407310962677002,
+          "id": 1880151589
+        },
+        {
+          "distance": 0.16906416416168213,
+          "id": 1729356979
+        },
+        {
+          "distance": 0.17100447416305542,
+          "id": 1729359771
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729355833,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777627,
     "wof:name": "On December 1, 2001, the final Trans World Airlines (TWA) flight departed from Kansas City, Missouri and landed in St. Louis, Missouri...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

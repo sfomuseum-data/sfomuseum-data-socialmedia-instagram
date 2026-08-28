@@ -49,6 +49,50 @@
       "taken": 1501704600,
       "taken_at": "Aug 02, 2017 8:10 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1993190050125122,
+          "id": 1729358953
+        },
+        {
+          "distance": 0.2275484800338745,
+          "id": 1729358953
+        },
+        {
+          "distance": 0.23075640201568604,
+          "id": 1729359563
+        },
+        {
+          "distance": 0.2439451813697815,
+          "id": 1729359215
+        },
+        {
+          "distance": 0.24637138843536377,
+          "id": 1729359357
+        },
+        {
+          "distance": 0.26101696491241455,
+          "id": 1729359563
+        },
+        {
+          "distance": 0.2612220048904419,
+          "id": 1880151503
+        },
+        {
+          "distance": 0.26313579082489014,
+          "id": 1729359215
+        },
+        {
+          "distance": 0.26339298486709595,
+          "id": 1729359357
+        },
+        {
+          "distance": 0.29777371883392334,
+          "id": 1729359105
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -78,7 +122,7 @@
       }
     ],
     "wof:id": 1729359239,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "In Bhutan, traditional appliquéd and embroidered boots, called tshoglham are made of leather, silk damask, and silk brocades...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -95,5 +139,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

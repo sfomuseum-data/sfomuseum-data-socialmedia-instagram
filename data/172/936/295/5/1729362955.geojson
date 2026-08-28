@@ -25,6 +25,50 @@
       "taken": 1342513980,
       "taken_at": "Jul 17, 2012 8:33 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16324299573898315,
+          "id": 1729362801
+        },
+        {
+          "distance": 0.21726644039154053,
+          "id": 1729362801
+        },
+        {
+          "distance": 0.22231334447860718,
+          "id": 1729363051
+        },
+        {
+          "distance": 0.24298232793807983,
+          "id": 1729362815
+        },
+        {
+          "distance": 0.2456400990486145,
+          "id": 1729362737
+        },
+        {
+          "distance": 0.25957274436950684,
+          "id": 1729363051
+        },
+        {
+          "distance": 0.26660871505737305,
+          "id": 1729362941
+        },
+        {
+          "distance": 0.2669587731361389,
+          "id": 1729362743
+        },
+        {
+          "distance": 0.26876896619796753,
+          "id": 1729363019
+        },
+        {
+          "distance": 0.27699047327041626,
+          "id": 1729362949
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362955,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777657,
     "wof:name": "Mountain bikes are on the move.....",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

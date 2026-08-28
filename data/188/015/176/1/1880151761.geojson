@@ -30,6 +30,50 @@
       "taken": 1651505820,
       "taken_at": "May 02, 2022 3:37 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3014978766441345,
+          "id": 1729360511
+        },
+        {
+          "distance": 0.3162294030189514,
+          "id": 1729357193
+        },
+        {
+          "distance": 0.3261083960533142,
+          "id": 1729360511
+        },
+        {
+          "distance": 0.37530094385147095,
+          "id": 1729359141
+        },
+        {
+          "distance": 0.3791160583496094,
+          "id": 1729357193
+        },
+        {
+          "distance": 0.3882158398628235,
+          "id": 1729360451
+        },
+        {
+          "distance": 0.39136266708374023,
+          "id": 1729362239
+        },
+        {
+          "distance": 0.39287739992141724,
+          "id": 1729357399
+        },
+        {
+          "distance": 0.4000939726829529,
+          "id": 1729359141
+        },
+        {
+          "distance": 0.403822660446167,
+          "id": 1729361191
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151761,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777663,
     "wof:name": "What will you eat your inflight meal on?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

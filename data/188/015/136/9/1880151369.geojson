@@ -30,6 +30,50 @@
       "taken": 1666969260,
       "taken_at": "Oct 28, 2022 3:01 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1242830753326416,
+          "id": 1880151557
+        },
+        {
+          "distance": 0.14243322610855103,
+          "id": 1880151557
+        },
+        {
+          "distance": 0.1767250895500183,
+          "id": 1880151621
+        },
+        {
+          "distance": 0.1783011555671692,
+          "id": 1880151677
+        },
+        {
+          "distance": 0.1856083869934082,
+          "id": 1880151677
+        },
+        {
+          "distance": 0.19632846117019653,
+          "id": 1880151621
+        },
+        {
+          "distance": 0.21318167448043823,
+          "id": 1880151007
+        },
+        {
+          "distance": 0.21529936790466309,
+          "id": 1880151783
+        },
+        {
+          "distance": 0.22388726472854614,
+          "id": 1880151783
+        },
+        {
+          "distance": 0.23463964462280273,
+          "id": 1880151737
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151369,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Zimbabwe boasts an abundance of stone deposits throughout the country and a unique, artistic tradition of stone carving...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

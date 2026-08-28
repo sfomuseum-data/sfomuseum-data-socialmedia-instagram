@@ -29,6 +29,50 @@
       "taken": 1701272700,
       "taken_at": "Nov 29, 2023 3:45 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3752346634864807,
+          "id": 1763559093
+        },
+        {
+          "distance": 0.38201266527175903,
+          "id": 1763559093
+        },
+        {
+          "distance": 0.41818928718566895,
+          "id": 1729362165
+        },
+        {
+          "distance": 0.4193432927131653,
+          "id": 1729360861
+        },
+        {
+          "distance": 0.42133045196533203,
+          "id": 1729356825
+        },
+        {
+          "distance": 0.42133045196533203,
+          "id": 1729356823
+        },
+        {
+          "distance": 0.42267006635665894,
+          "id": 1729360397
+        },
+        {
+          "distance": 0.4242507815361023,
+          "id": 1729361179
+        },
+        {
+          "distance": 0.4281449317932129,
+          "id": 1729360397
+        },
+        {
+          "distance": 0.4281585216522217,
+          "id": 1729361559
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1947425225,
-    "wof:lastmodified": 1733175330,
+    "wof:lastmodified": 1787777664,
     "wof:name": "On November 29, 1935, the inaugural transpacific Pan American Airways airmail service landed in Manila from California carrying 110,865 letters...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1380722400,
       "taken_at": "Oct 02, 2013 2:00 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2505320906639099,
+          "id": 1729362677
+        },
+        {
+          "distance": 0.25241488218307495,
+          "id": 1729362557
+        },
+        {
+          "distance": 0.272428035736084,
+          "id": 1729362163
+        },
+        {
+          "distance": 0.2790486812591553,
+          "id": 1729362557
+        },
+        {
+          "distance": 0.2909165620803833,
+          "id": 1729362677
+        },
+        {
+          "distance": 0.3031877875328064,
+          "id": 1729362235
+        },
+        {
+          "distance": 0.30420953035354614,
+          "id": 1729362381
+        },
+        {
+          "distance": 0.3139181137084961,
+          "id": 1729362381
+        },
+        {
+          "distance": 0.3159417510032654,
+          "id": 1729362163
+        },
+        {
+          "distance": 0.3159853219985962,
+          "id": 1729363007
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362525,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "Creating scrimshaw could keep an imaginative whaler busy during down time, especially when the end product was a cribbage board!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

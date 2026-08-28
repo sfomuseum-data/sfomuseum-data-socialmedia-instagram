@@ -30,6 +30,50 @@
       "taken": 1643300760,
       "taken_at": "Jan 27, 2022 4:26 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.29260146617889404,
+          "id": 1729360861
+        },
+        {
+          "distance": 0.3347740173339844,
+          "id": 1729358023
+        },
+        {
+          "distance": 0.33973705768585205,
+          "id": 1729359991
+        },
+        {
+          "distance": 0.34324318170547485,
+          "id": 1729360029
+        },
+        {
+          "distance": 0.34471219778060913,
+          "id": 1729359411
+        },
+        {
+          "distance": 0.3535478115081787,
+          "id": 1729358015
+        },
+        {
+          "distance": 0.35424453020095825,
+          "id": 1947424831
+        },
+        {
+          "distance": 0.3571885824203491,
+          "id": 1880151281
+        },
+        {
+          "distance": 0.36010974645614624,
+          "id": 1729363027
+        },
+        {
+          "distance": 0.3612602949142456,
+          "id": 1880151505
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559633,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Ansett Airways was founded in 1935 by Sir Reginald Myles \"Reg\" Ansett in Australia...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

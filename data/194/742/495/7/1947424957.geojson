@@ -27,6 +27,50 @@
       "taken": 1720019340,
       "taken_at": "Jul 03, 2024 3:09 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.005565643310546875,
+          "id": 1947424829
+        },
+        {
+          "distance": 0.0056639909744262695,
+          "id": 1947424853
+        },
+        {
+          "distance": 0.03920716047286987,
+          "id": 1947425269
+        },
+        {
+          "distance": 0.040785014629364014,
+          "id": 1947425235
+        },
+        {
+          "distance": 0.05574524402618408,
+          "id": 1947425273
+        },
+        {
+          "distance": 0.09324169158935547,
+          "id": 1947424829
+        },
+        {
+          "distance": 0.09324866533279419,
+          "id": 1947424853
+        },
+        {
+          "distance": 0.09409308433532715,
+          "id": 1947425235
+        },
+        {
+          "distance": 0.09598499536514282,
+          "id": 1947425269
+        },
+        {
+          "distance": 0.09848439693450928,
+          "id": 1947425273
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947424957,
-    "wof:lastmodified": 1733175321,
+    "wof:lastmodified": 1787777664,
     "wof:name": "The Aviation Museum and Library will be closed tomorrow to observe Independence Day and will reopen on July 5th at 10am...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

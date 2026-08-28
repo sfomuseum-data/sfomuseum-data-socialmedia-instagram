@@ -40,6 +40,50 @@
       "taken": 1542203100,
       "taken_at": "Nov 14, 2018, 1:45 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09749031066894531,
+          "id": 1729356605
+        },
+        {
+          "distance": 0.116455078125,
+          "id": 1729356605
+        },
+        {
+          "distance": 0.27235549688339233,
+          "id": 1729356857
+        },
+        {
+          "distance": 0.28118133544921875,
+          "id": 1729357393
+        },
+        {
+          "distance": 0.2821388840675354,
+          "id": 1729357235
+        },
+        {
+          "distance": 0.28883886337280273,
+          "id": 1729357159
+        },
+        {
+          "distance": 0.296301007270813,
+          "id": 1729357159
+        },
+        {
+          "distance": 0.30142927169799805,
+          "id": 1729357445
+        },
+        {
+          "distance": 0.30230236053466797,
+          "id": 1729356727
+        },
+        {
+          "distance": 0.3030032515525818,
+          "id": 1729356727
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729357379,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777631,
     "wof:name": "\"I see my work as a continual exploration into the possibilities within the technique of enameling and indulging the wonderful range of colors available to me...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

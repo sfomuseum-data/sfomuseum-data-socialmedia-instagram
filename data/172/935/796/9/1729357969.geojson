@@ -37,6 +37,50 @@
       "taken": 1531412760,
       "taken_at": "Jul 12, 2018 4:26 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15533453226089478,
+          "id": 1763558661
+        },
+        {
+          "distance": 0.15533453226089478,
+          "id": 1729359633
+        },
+        {
+          "distance": 0.15565752983093262,
+          "id": 1729358405
+        },
+        {
+          "distance": 0.16027790307998657,
+          "id": 1729357177
+        },
+        {
+          "distance": 0.1679389476776123,
+          "id": 1729359159
+        },
+        {
+          "distance": 0.17023539543151855,
+          "id": 1729358405
+        },
+        {
+          "distance": 0.17511135339736938,
+          "id": 1729360465
+        },
+        {
+          "distance": 0.17569780349731445,
+          "id": 1763558661
+        },
+        {
+          "distance": 0.17569780349731445,
+          "id": 1729359633
+        },
+        {
+          "distance": 0.18064403533935547,
+          "id": 1729355091
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729357969,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "What did SFO look like in 1970?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -30,6 +30,50 @@
       "taken": 1497865080,
       "taken_at": "Jun 19, 2017 9:38 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12052643299102783,
+          "id": 1729355605
+        },
+        {
+          "distance": 0.12736541032791138,
+          "id": 1763559085
+        },
+        {
+          "distance": 0.129794180393219,
+          "id": 1729358209
+        },
+        {
+          "distance": 0.1372942328453064,
+          "id": 1729358635
+        },
+        {
+          "distance": 0.14014852046966553,
+          "id": 1763559125
+        },
+        {
+          "distance": 0.15566903352737427,
+          "id": 1729358547
+        },
+        {
+          "distance": 0.16046619415283203,
+          "id": 1729358635
+        },
+        {
+          "distance": 0.16496151685714722,
+          "id": 1729359645
+        },
+        {
+          "distance": 0.1743006706237793,
+          "id": 1729359511
+        },
+        {
+          "distance": 0.17875534296035767,
+          "id": 1729360723
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729359397,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Taken around 1936 in a Douglas DC-3, this promotional TWA (Transcontinental \u0026 Western Air) photo advertises their complimentary meal service...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -28,6 +28,50 @@
       "taken": 1490000160,
       "taken_at": "Mar 20, 2017 8:56 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.30262666940689087,
+          "id": 1729359331
+        },
+        {
+          "distance": 0.34543150663375854,
+          "id": 1729359331
+        },
+        {
+          "distance": 0.3542373776435852,
+          "id": 1729359223
+        },
+        {
+          "distance": 0.36355823278427124,
+          "id": 1729359469
+        },
+        {
+          "distance": 0.3779118061065674,
+          "id": 1729359871
+        },
+        {
+          "distance": 0.38254934549331665,
+          "id": 1729359223
+        },
+        {
+          "distance": 0.385555624961853,
+          "id": 1729359469
+        },
+        {
+          "distance": 0.404283344745636,
+          "id": 1729360239
+        },
+        {
+          "distance": 0.40557581186294556,
+          "id": 1729362209
+        },
+        {
+          "distance": 0.4064057469367981,
+          "id": 1947424971
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1729359699,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "Did you know that you can receive one of SFO Museum's brochures or catalogs free of charge?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

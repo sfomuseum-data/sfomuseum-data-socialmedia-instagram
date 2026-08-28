@@ -36,6 +36,50 @@
       "taken": 1523371260,
       "taken_at": "Apr 10, 2018 2:41 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23420625925064087,
+          "id": 1729357179
+        },
+        {
+          "distance": 0.23420625925064087,
+          "id": 1763558807
+        },
+        {
+          "distance": 0.2454354166984558,
+          "id": 1729356623
+        },
+        {
+          "distance": 0.25054025650024414,
+          "id": 1729355245
+        },
+        {
+          "distance": 0.25167471170425415,
+          "id": 1880151589
+        },
+        {
+          "distance": 0.25410574674606323,
+          "id": 1729359361
+        },
+        {
+          "distance": 0.25456559658050537,
+          "id": 1729358537
+        },
+        {
+          "distance": 0.2564508318901062,
+          "id": 1763559547
+        },
+        {
+          "distance": 0.2565121054649353,
+          "id": 1729357179
+        },
+        {
+          "distance": 0.2565121054649353,
+          "id": 1763558807
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729358355,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "TACA (Transportes Aereos del Continente Americano) started in 1932 as the ambitious project of Lowell Yerex to establish a Latin American airline network...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

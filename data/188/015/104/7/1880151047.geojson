@@ -29,6 +29,50 @@
       "taken": 1679394960,
       "taken_at": "Mar 21, 2023 10:36 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1665143370628357,
+          "id": 1880151141
+        },
+        {
+          "distance": 0.171245276927948,
+          "id": 1880151179
+        },
+        {
+          "distance": 0.19184011220932007,
+          "id": 1880150965
+        },
+        {
+          "distance": 0.21206063032150269,
+          "id": 1729360547
+        },
+        {
+          "distance": 0.21758568286895752,
+          "id": 1880151337
+        },
+        {
+          "distance": 0.2250971794128418,
+          "id": 1947424847
+        },
+        {
+          "distance": 0.23040151596069336,
+          "id": 1947425237
+        },
+        {
+          "distance": 0.2304554581642151,
+          "id": 1947425209
+        },
+        {
+          "distance": 0.23064714670181274,
+          "id": 1729361489
+        },
+        {
+          "distance": 0.23131054639816284,
+          "id": 1947425291
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880151047,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777661,
     "wof:name": "In 1963, the United States launched a government-funded Supersonic Transport (SST) program to compete with the joint British and French Concorde project...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -40,6 +40,50 @@
       "taken": 1535648340,
       "taken_at": "Aug 30, 2018 4:59 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.05216491222381592,
+          "id": 1729358383
+        },
+        {
+          "distance": 0.05222529172897339,
+          "id": 1729357033
+        },
+        {
+          "distance": 0.05339515209197998,
+          "id": 1729357275
+        },
+        {
+          "distance": 0.059053122997283936,
+          "id": 1729357993
+        },
+        {
+          "distance": 0.059945106506347656,
+          "id": 1763558763
+        },
+        {
+          "distance": 0.06151711940765381,
+          "id": 1729358313
+        },
+        {
+          "distance": 0.061623215675354004,
+          "id": 1729356977
+        },
+        {
+          "distance": 0.07705402374267578,
+          "id": 1729357609
+        },
+        {
+          "distance": 0.08197379112243652,
+          "id": 1729357275
+        },
+        {
+          "distance": 0.08449810743331909,
+          "id": 1729357993
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729357733,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "The all-metal Ford Tri-Motor, or “Tin Goose,” as it was nicknamed, had a substantial impact on the early advancement of commercial aviation in the late 1920s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

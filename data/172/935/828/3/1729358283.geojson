@@ -37,6 +37,50 @@
       "taken": 1525356900,
       "taken_at": "May 03, 2018 2:15 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15297001600265503,
+          "id": 1729360743
+        },
+        {
+          "distance": 0.16773682832717896,
+          "id": 1729359361
+        },
+        {
+          "distance": 0.1680416464805603,
+          "id": 1763558849
+        },
+        {
+          "distance": 0.1773497462272644,
+          "id": 1880151589
+        },
+        {
+          "distance": 0.18283861875534058,
+          "id": 1729360743
+        },
+        {
+          "distance": 0.1875767707824707,
+          "id": 1763559617
+        },
+        {
+          "distance": 0.18782728910446167,
+          "id": 1763559547
+        },
+        {
+          "distance": 0.18920296430587769,
+          "id": 1729356439
+        },
+        {
+          "distance": 0.19321751594543457,
+          "id": 1729361347
+        },
+        {
+          "distance": 0.19494879245758057,
+          "id": 1763558849
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729358283,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "What did SFO look like in the 1940s?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

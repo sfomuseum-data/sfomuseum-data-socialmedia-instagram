@@ -25,6 +25,50 @@
       "taken": 1455217440,
       "taken_at": "Feb 11, 2016 7:04 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2785588502883911,
+          "id": 1729360147
+        },
+        {
+          "distance": 0.2807871699333191,
+          "id": 1729360799
+        },
+        {
+          "distance": 0.290260910987854,
+          "id": 1729360347
+        },
+        {
+          "distance": 0.311631977558136,
+          "id": 1729360147
+        },
+        {
+          "distance": 0.3174183964729309,
+          "id": 1729360799
+        },
+        {
+          "distance": 0.32077962160110474,
+          "id": 1729358023
+        },
+        {
+          "distance": 0.32904863357543945,
+          "id": 1729360347
+        },
+        {
+          "distance": 0.32992422580718994,
+          "id": 1729358283
+        },
+        {
+          "distance": 0.331462562084198,
+          "id": 1729357877
+        },
+        {
+          "distance": 0.334486186504364,
+          "id": 1729357841
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361051,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777643,
     "wof:name": "This aircraft register from 1928 logged all of the plane departures and arrivals at Mills Field Municipal Airport of San Francisco, today’s SFO...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -27,6 +27,50 @@
       "taken": 1732032660,
       "taken_at": "Nov 19, 2024 4:11 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2551521062850952,
+          "id": 1729358233
+        },
+        {
+          "distance": 0.2551521062850952,
+          "id": 1763558729
+        },
+        {
+          "distance": 0.27812808752059937,
+          "id": 1729356191
+        },
+        {
+          "distance": 0.2797815203666687,
+          "id": 1729356549
+        },
+        {
+          "distance": 0.2845895290374756,
+          "id": 1729356549
+        },
+        {
+          "distance": 0.2896314263343811,
+          "id": 1729360057
+        },
+        {
+          "distance": 0.2897118330001831,
+          "id": 1729356955
+        },
+        {
+          "distance": 0.2899439334869385,
+          "id": 1729357097
+        },
+        {
+          "distance": 0.2943239212036133,
+          "id": 1729357545
+        },
+        {
+          "distance": 0.30266261100769043,
+          "id": 1729356933
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947424789,
-    "wof:lastmodified": 1733175316,
+    "wof:lastmodified": 1787777663,
     "wof:name": "Our newest exhibition “Schools for the Colored” by Wendel A...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -39,6 +39,50 @@
       "taken": 1530634080,
       "taken_at": "Jul 3, 2018, 4:08 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.34399914741516113,
+          "id": 1729361767
+        },
+        {
+          "distance": 0.3532879948616028,
+          "id": 1729356331
+        },
+        {
+          "distance": 0.3617785573005676,
+          "id": 1729361563
+        },
+        {
+          "distance": 0.3724404573440552,
+          "id": 1729360029
+        },
+        {
+          "distance": 0.3743058443069458,
+          "id": 1729361193
+        },
+        {
+          "distance": 0.3748012185096741,
+          "id": 1729356671
+        },
+        {
+          "distance": 0.3771243691444397,
+          "id": 1729358403
+        },
+        {
+          "distance": 0.3792343735694885,
+          "id": 1729360397
+        },
+        {
+          "distance": 0.3796613812446594,
+          "id": 1880150921
+        },
+        {
+          "distance": 0.3838486075401306,
+          "id": 1880151627
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729358027,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777632,
     "wof:name": "During the 1930s, E.H. Scott produced some of the most expensive radios ever made...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

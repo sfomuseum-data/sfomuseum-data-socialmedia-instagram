@@ -30,6 +30,50 @@
       "taken": 1584008280,
       "taken_at": "Mar 12, 2020 10:18 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2305946946144104,
+          "id": 1729355171
+        },
+        {
+          "distance": 0.23685294389724731,
+          "id": 1729357817
+        },
+        {
+          "distance": 0.2457338571548462,
+          "id": 1763558957
+        },
+        {
+          "distance": 0.2468045949935913,
+          "id": 1729355941
+        },
+        {
+          "distance": 0.2484138011932373,
+          "id": 1763558745
+        },
+        {
+          "distance": 0.25110578536987305,
+          "id": 1729358121
+        },
+        {
+          "distance": 0.2519822120666504,
+          "id": 1729356059
+        },
+        {
+          "distance": 0.2563875913619995,
+          "id": 1729357817
+        },
+        {
+          "distance": 0.2587314248085022,
+          "id": 1729355171
+        },
+        {
+          "distance": 0.2643285393714905,
+          "id": 1763558745
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729355459,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777625,
     "wof:name": "On March 11, 1993, the first Airbus A321 took off on its maiden flight...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

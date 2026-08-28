@@ -32,6 +32,50 @@
       "taken": 1636477380,
       "taken_at": "Nov 09, 2021 5:03 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.008053362369537354,
+          "id": 1763559653
+        },
+        {
+          "distance": 0.008053362369537354,
+          "id": 1763559665
+        },
+        {
+          "distance": 0.008053362369537354,
+          "id": 1763559647
+        },
+        {
+          "distance": 0.07566112279891968,
+          "id": 1763559267
+        },
+        {
+          "distance": 0.07566112279891968,
+          "id": 1763559681
+        },
+        {
+          "distance": 0.09844750165939331,
+          "id": 1763559681
+        },
+        {
+          "distance": 0.09844750165939331,
+          "id": 1763559267
+        },
+        {
+          "distance": 0.10325121879577637,
+          "id": 1763559653
+        },
+        {
+          "distance": 0.10325121879577637,
+          "id": 1763559647
+        },
+        {
+          "distance": 0.10325121879577637,
+          "id": 1763559665
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1763559335,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "SFO Museum is pleased to announce the re-opening of the Video Arts Screening room to the public after a 20-month hiatus due to the Covid-19 pandemic...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

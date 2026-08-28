@@ -32,6 +32,50 @@
       "taken": 1478598900,
       "taken_at": "Nov 08, 2016 9:55 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2121586799621582,
+          "id": 1729360693
+        },
+        {
+          "distance": 0.24630796909332275,
+          "id": 1729360693
+        },
+        {
+          "distance": 0.24815869331359863,
+          "id": 1729358535
+        },
+        {
+          "distance": 0.25148701667785645,
+          "id": 1729360783
+        },
+        {
+          "distance": 0.2942412495613098,
+          "id": 1729360391
+        },
+        {
+          "distance": 0.3051743507385254,
+          "id": 1729358535
+        },
+        {
+          "distance": 0.30721116065979004,
+          "id": 1729360783
+        },
+        {
+          "distance": 0.3205867409706116,
+          "id": 1880151359
+        },
+        {
+          "distance": 0.3244016170501709,
+          "id": 1729360163
+        },
+        {
+          "distance": 0.33170580863952637,
+          "id": 1729361397
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729360137,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "#OnThisDay in 1948, the first Pan American World Airways airmail service to Barcelona, Spain departed from New York...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

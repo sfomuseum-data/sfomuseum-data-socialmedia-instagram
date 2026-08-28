@@ -39,6 +39,50 @@
       "taken": 1535560020,
       "taken_at": "Aug 29, 2018 4:27 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11174243688583374,
+          "id": 1729355311
+        },
+        {
+          "distance": 0.1214408278465271,
+          "id": 1729355311
+        },
+        {
+          "distance": 0.21317094564437866,
+          "id": 1763559475
+        },
+        {
+          "distance": 0.22195494174957275,
+          "id": 1729358079
+        },
+        {
+          "distance": 0.2342587113380432,
+          "id": 1729360545
+        },
+        {
+          "distance": 0.23672020435333252,
+          "id": 1729355251
+        },
+        {
+          "distance": 0.23929202556610107,
+          "id": 1729360133
+        },
+        {
+          "distance": 0.24028664827346802,
+          "id": 1729361459
+        },
+        {
+          "distance": 0.24572741985321045,
+          "id": 1729355261
+        },
+        {
+          "distance": 0.2466617226600647,
+          "id": 1729360907
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729357743,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Masterminded by advertising executive Mary Wells Lawrence and unveiled in 1965, Braniff’s revolutionary new identity shocked the airline industry...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

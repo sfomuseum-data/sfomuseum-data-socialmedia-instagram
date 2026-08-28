@@ -33,6 +33,50 @@
       "taken": 1495216860,
       "taken_at": "May 19, 2017 6:01 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16555052995681763,
+          "id": 1763559273
+        },
+        {
+          "distance": 0.1763380765914917,
+          "id": 1729356229
+        },
+        {
+          "distance": 0.19518935680389404,
+          "id": 1763559273
+        },
+        {
+          "distance": 0.20180392265319824,
+          "id": 1729356229
+        },
+        {
+          "distance": 0.2279999852180481,
+          "id": 1729361881
+        },
+        {
+          "distance": 0.23180115222930908,
+          "id": 1729361289
+        },
+        {
+          "distance": 0.23413479328155518,
+          "id": 1729357535
+        },
+        {
+          "distance": 0.2367890477180481,
+          "id": 1763558993
+        },
+        {
+          "distance": 0.2490801215171814,
+          "id": 1729360231
+        },
+        {
+          "distance": 0.25173670053482056,
+          "id": 1729361387
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729359493,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "In 1929, the German airship, LZ 127 Graf Zeppelin completed an ambitious, 21-day, round-the-world trip in sponsored by newspaper magnate William Randolph Hearst...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

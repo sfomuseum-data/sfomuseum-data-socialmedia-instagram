@@ -30,6 +30,50 @@
       "taken": 1650467640,
       "taken_at": "Apr 20, 2022 3:14 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.017746448516845703,
+          "id": 1729358329
+        },
+        {
+          "distance": 0.08190393447875977,
+          "id": 1729358329
+        },
+        {
+          "distance": 0.17092537879943848,
+          "id": 1729360721
+        },
+        {
+          "distance": 0.17905175685882568,
+          "id": 1729360379
+        },
+        {
+          "distance": 0.18032556772232056,
+          "id": 1947424791
+        },
+        {
+          "distance": 0.1826944351196289,
+          "id": 1729360721
+        },
+        {
+          "distance": 0.18288451433181763,
+          "id": 1729360081
+        },
+        {
+          "distance": 0.1832011342048645,
+          "id": 1763558641
+        },
+        {
+          "distance": 0.18682348728179932,
+          "id": 1729355287
+        },
+        {
+          "distance": 0.18760216236114502,
+          "id": 1763558839
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151797,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777663,
     "wof:name": "On April 19 and #onthisday in 1930, the U. S. Army Air Corps held an air show at Mills Field Airport...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

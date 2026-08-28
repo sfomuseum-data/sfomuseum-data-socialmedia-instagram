@@ -40,6 +40,50 @@
       "taken": 1521140880,
       "taken_at": "Mar 15, 2018 7:08 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06881660223007202,
+          "id": 1729357323
+        },
+        {
+          "distance": 0.09438484907150269,
+          "id": 1729358135
+        },
+        {
+          "distance": 0.10666954517364502,
+          "id": 1729359451
+        },
+        {
+          "distance": 0.11118823289871216,
+          "id": 1880151063
+        },
+        {
+          "distance": 0.11998927593231201,
+          "id": 1880150909
+        },
+        {
+          "distance": 0.12126719951629639,
+          "id": 1729356859
+        },
+        {
+          "distance": 0.12529605627059937,
+          "id": 1729357547
+        },
+        {
+          "distance": 0.12767624855041504,
+          "id": 1880150909
+        },
+        {
+          "distance": 0.12923663854599,
+          "id": 1729360531
+        },
+        {
+          "distance": 0.1353585124015808,
+          "id": 1763559413
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729358457,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "#Onthisday in 1927 the City and County of San Francisco signed a lease with the Mills Estate for 150 acres to use as an airport...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

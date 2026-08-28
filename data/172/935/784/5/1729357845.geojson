@@ -39,6 +39,50 @@
       "taken": 1533312300,
       "taken_at": "Aug 03, 2018 4:05 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.32126861810684204,
+          "id": 1729357535
+        },
+        {
+          "distance": 0.3366774320602417,
+          "id": 1729358083
+        },
+        {
+          "distance": 0.3449152708053589,
+          "id": 1729357771
+        },
+        {
+          "distance": 0.34880077838897705,
+          "id": 1763558727
+        },
+        {
+          "distance": 0.34880077838897705,
+          "id": 1729358761
+        },
+        {
+          "distance": 0.3587498664855957,
+          "id": 1729358083
+        },
+        {
+          "distance": 0.3591143488883972,
+          "id": 1729360801
+        },
+        {
+          "distance": 0.37756115198135376,
+          "id": 1729360801
+        },
+        {
+          "distance": 0.3786725401878357,
+          "id": 1880151001
+        },
+        {
+          "distance": 0.38042736053466797,
+          "id": 1729359733
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729357845,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Susan Hale (1833-1910) edited the six numbers of the Balloon Post, a news sheet in 1871 about airmail via balloon to raise funds for the relief of French war refugees from the Franco-Prussian War...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

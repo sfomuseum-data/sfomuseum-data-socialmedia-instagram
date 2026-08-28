@@ -37,6 +37,50 @@
       "taken": 1576777980,
       "taken_at": "Dec 19, 2019, 5:53 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12030929327011108,
+          "id": 1729355761
+        },
+        {
+          "distance": 0.12629520893096924,
+          "id": 1729355749
+        },
+        {
+          "distance": 0.13263803720474243,
+          "id": 1729355749
+        },
+        {
+          "distance": 0.15419644117355347,
+          "id": 1729355761
+        },
+        {
+          "distance": 0.22948795557022095,
+          "id": 1729361809
+        },
+        {
+          "distance": 0.236921489238739,
+          "id": 1880151495
+        },
+        {
+          "distance": 0.24602127075195312,
+          "id": 1880151495
+        },
+        {
+          "distance": 0.268621027469635,
+          "id": 1729357097
+        },
+        {
+          "distance": 0.27927273511886597,
+          "id": 1729361809
+        },
+        {
+          "distance": 0.2899615168571472,
+          "id": 1729360563
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729355757,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777627,
     "wof:name": "In his ongoing series, “Solar Transit”, Bryant Austin makes photographs that reveal the sun’s surface in vivid detail while documenting its apparent transit across the California landscape...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

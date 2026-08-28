@@ -25,6 +25,50 @@
       "taken": 1449174960,
       "taken_at": "Dec 03, 2015 8:36 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18263286352157593,
+          "id": 1729360381
+        },
+        {
+          "distance": 0.18744325637817383,
+          "id": 1729355503
+        },
+        {
+          "distance": 0.19077152013778687,
+          "id": 1729358327
+        },
+        {
+          "distance": 0.19379055500030518,
+          "id": 1729360381
+        },
+        {
+          "distance": 0.19858688116073608,
+          "id": 1729355759
+        },
+        {
+          "distance": 0.2010698914527893,
+          "id": 1729358329
+        },
+        {
+          "distance": 0.20114976167678833,
+          "id": 1880151063
+        },
+        {
+          "distance": 0.2024570107460022,
+          "id": 1763559527
+        },
+        {
+          "distance": 0.20735472440719604,
+          "id": 1880151797
+        },
+        {
+          "distance": 0.2083979845046997,
+          "id": 1729358071
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361307,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "The modern-day Coast Guard was formed In 1915 by merging the U.S. Life Saving Service with the Revenue Cutter Service and placing it under the Department of the Treasury...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

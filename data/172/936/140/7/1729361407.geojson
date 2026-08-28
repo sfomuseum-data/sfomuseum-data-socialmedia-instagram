@@ -25,6 +25,50 @@
       "taken": 1446114300,
       "taken_at": "Oct 29, 2015 10:25 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13758599758148193,
+          "id": 1729361483
+        },
+        {
+          "distance": 0.19047129154205322,
+          "id": 1729361463
+        },
+        {
+          "distance": 0.21923738718032837,
+          "id": 1729361483
+        },
+        {
+          "distance": 0.2280159592628479,
+          "id": 1729361415
+        },
+        {
+          "distance": 0.24659794569015503,
+          "id": 1729361463
+        },
+        {
+          "distance": 0.26285505294799805,
+          "id": 1729361777
+        },
+        {
+          "distance": 0.2875208258628845,
+          "id": 1729361365
+        },
+        {
+          "distance": 0.2981957197189331,
+          "id": 1729361813
+        },
+        {
+          "distance": 0.3022920489311218,
+          "id": 1729361415
+        },
+        {
+          "distance": 0.31753242015838623,
+          "id": 1729361423
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361407,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "Have you ever dressed up as a couple for Halloween?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

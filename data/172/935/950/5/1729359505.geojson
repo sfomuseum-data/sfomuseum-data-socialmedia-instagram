@@ -55,6 +55,50 @@
       "taken": 1494714420,
       "taken_at": "May 13, 2017 10:27 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3319321870803833,
+          "id": 1729356755
+        },
+        {
+          "distance": 0.33433109521865845,
+          "id": 1729355097
+        },
+        {
+          "distance": 0.3373029828071594,
+          "id": 1947425171
+        },
+        {
+          "distance": 0.3406193256378174,
+          "id": 1947425039
+        },
+        {
+          "distance": 0.34479057788848877,
+          "id": 1947424901
+        },
+        {
+          "distance": 0.34505462646484375,
+          "id": 1880151555
+        },
+        {
+          "distance": 0.34799158573150635,
+          "id": 1880151539
+        },
+        {
+          "distance": 0.35010457038879395,
+          "id": 1880150993
+        },
+        {
+          "distance": 0.3552010655403137,
+          "id": 1763559379
+        },
+        {
+          "distance": 0.3572816848754883,
+          "id": 1880151009
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -84,7 +128,7 @@
       }
     ],
     "wof:id": 1729359505,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "Today marks the 50th anniversary of the song \"San Francisco (Be Sure to Wear Flowers in Your Hair)\" by Scott McKenzie, which was released #onthisday in 1967...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -101,5 +145,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

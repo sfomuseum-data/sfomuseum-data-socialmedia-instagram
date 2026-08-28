@@ -33,6 +33,50 @@
       "taken": 1635437160,
       "taken_at": "Oct 28, 2021 4:06 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12981939315795898,
+          "id": 1880151657
+        },
+        {
+          "distance": 0.1569063663482666,
+          "id": 1880151657
+        },
+        {
+          "distance": 0.15848666429519653,
+          "id": 1729355617
+        },
+        {
+          "distance": 0.1953829526901245,
+          "id": 1729355617
+        },
+        {
+          "distance": 0.20546954870224,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.21044397354125977,
+          "id": 1729355435
+        },
+        {
+          "distance": 0.2247910499572754,
+          "id": 1880151081
+        },
+        {
+          "distance": 0.22548198699951172,
+          "id": 1763559679
+        },
+        {
+          "distance": 0.22710561752319336,
+          "id": 1880151575
+        },
+        {
+          "distance": 0.22710561752319336,
+          "id": 1880151563
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1763559355,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Happy Birthday to the late Margaret Kilgallen, born #onthisday in 1967...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

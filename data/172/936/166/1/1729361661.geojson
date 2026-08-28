@@ -25,6 +25,50 @@
       "taken": 1438171020,
       "taken_at": "Jul 29, 2015 11:57 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17758411169052124,
+          "id": 1729362273
+        },
+        {
+          "distance": 0.2019924521446228,
+          "id": 1729362851
+        },
+        {
+          "distance": 0.24602091312408447,
+          "id": 1729362851
+        },
+        {
+          "distance": 0.25947797298431396,
+          "id": 1729362273
+        },
+        {
+          "distance": 0.2797374725341797,
+          "id": 1729362995
+        },
+        {
+          "distance": 0.2816160321235657,
+          "id": 1729361679
+        },
+        {
+          "distance": 0.29635506868362427,
+          "id": 1729361631
+        },
+        {
+          "distance": 0.30269068479537964,
+          "id": 1729361591
+        },
+        {
+          "distance": 0.3229954242706299,
+          "id": 1729361865
+        },
+        {
+          "distance": 0.3256070613861084,
+          "id": 1947424913
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361661,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777646,
     "wof:name": "Every Beating Sound by Janet Echelman can be found in Terminal 2 Post-Security...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

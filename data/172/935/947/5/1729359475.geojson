@@ -49,6 +49,50 @@
       "taken": 1495795920,
       "taken_at": "May 26, 2017 10:52 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09838515520095825,
+          "id": 1729358873
+        },
+        {
+          "distance": 0.1192789077758789,
+          "id": 1729358873
+        },
+        {
+          "distance": 0.2510777711868286,
+          "id": 1729359163
+        },
+        {
+          "distance": 0.27337419986724854,
+          "id": 1729359163
+        },
+        {
+          "distance": 0.2849454879760742,
+          "id": 1729359091
+        },
+        {
+          "distance": 0.3164966106414795,
+          "id": 1729358753
+        },
+        {
+          "distance": 0.3275830149650574,
+          "id": 1729359581
+        },
+        {
+          "distance": 0.341566264629364,
+          "id": 1729359371
+        },
+        {
+          "distance": 0.3433683514595032,
+          "id": 1729359091
+        },
+        {
+          "distance": 0.3567603826522827,
+          "id": 1729355957
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -78,7 +122,7 @@
       }
     ],
     "wof:id": 1729359475,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "Although best known for its pottery department, the H. Sophie Newcomb Memorial College was also acclaimed for its embroidery department, which opened in 1902...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -95,5 +139,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

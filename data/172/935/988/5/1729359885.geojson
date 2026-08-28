@@ -30,6 +30,50 @@
       "taken": 1485197700,
       "taken_at": "Jan 23, 2017 6:55 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.28078216314315796,
+          "id": 1729357031
+        },
+        {
+          "distance": 0.31511062383651733,
+          "id": 1729357487
+        },
+        {
+          "distance": 0.3173189163208008,
+          "id": 1729357007
+        },
+        {
+          "distance": 0.33123159408569336,
+          "id": 1729359903
+        },
+        {
+          "distance": 0.33273571729660034,
+          "id": 1729359255
+        },
+        {
+          "distance": 0.33326083421707153,
+          "id": 1729357487
+        },
+        {
+          "distance": 0.34082573652267456,
+          "id": 1729357241
+        },
+        {
+          "distance": 0.3408801555633545,
+          "id": 1729357241
+        },
+        {
+          "distance": 0.3481636643409729,
+          "id": 1729357399
+        },
+        {
+          "distance": 0.34988611936569214,
+          "id": 1729357447
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729359885,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "Aluminum made twentieth-century modern marvels such as airline travel, refrigeration, and space flight a reality...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

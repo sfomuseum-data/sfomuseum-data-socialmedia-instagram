@@ -27,6 +27,50 @@
       "taken": 1714405380,
       "taken_at": "Apr 29, 2024 3:43 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14963805675506592,
+          "id": 1880151259
+        },
+        {
+          "distance": 0.15267932415008545,
+          "id": 1763559569
+        },
+        {
+          "distance": 0.15835702419281006,
+          "id": 1947424799
+        },
+        {
+          "distance": 0.16668462753295898,
+          "id": 1880150991
+        },
+        {
+          "distance": 0.1721898913383484,
+          "id": 1763559379
+        },
+        {
+          "distance": 0.17638510465621948,
+          "id": 1763559569
+        },
+        {
+          "distance": 0.17659717798233032,
+          "id": 1947424917
+        },
+        {
+          "distance": 0.17698490619659424,
+          "id": 1947424927
+        },
+        {
+          "distance": 0.1856898069381714,
+          "id": 1763559473
+        },
+        {
+          "distance": 0.18860304355621338,
+          "id": 1763559281
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947425039,
-    "wof:lastmodified": 1733175324,
+    "wof:lastmodified": 1787777664,
     "wof:name": "City College of San Francisco (CCSF) is an urban community college with affordable, high-quality instruction, and evening and weekend classes...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

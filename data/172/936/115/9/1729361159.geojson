@@ -26,6 +26,50 @@
       "taken": 1452944040,
       "taken_at": "Jan 16, 2016, 11:34 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.004374444484710693,
+          "id": 1763558607
+        },
+        {
+          "distance": 0.026863694190979004,
+          "id": 1729357075
+        },
+        {
+          "distance": 0.031444251537323,
+          "id": 1729355657
+        },
+        {
+          "distance": 0.03420674800872803,
+          "id": 1880151189
+        },
+        {
+          "distance": 0.03607898950576782,
+          "id": 1729358701
+        },
+        {
+          "distance": 0.07105493545532227,
+          "id": 1729358701
+        },
+        {
+          "distance": 0.07341122627258301,
+          "id": 1729357075
+        },
+        {
+          "distance": 0.08039093017578125,
+          "id": 1763558607
+        },
+        {
+          "distance": 0.08176648616790771,
+          "id": 1880151189
+        },
+        {
+          "distance": 0.08376145362854004,
+          "id": 1729355657
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1729361159,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777645,
     "wof:name": "The eight-passenger Fokker F-7 inaugurated Pan Am’s first scheduled passenger flight from Key West, Florida, to Havana, Cuba, on January 16, 1928...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -33,6 +33,50 @@
       "taken": 1624983720,
       "taken_at": "Jun 29, 2021 4:22 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.024472534656524658,
+          "id": 1763559113
+        },
+        {
+          "distance": 0.11270958185195923,
+          "id": 1729360205
+        },
+        {
+          "distance": 0.11964064836502075,
+          "id": 1763559113
+        },
+        {
+          "distance": 0.1360756754875183,
+          "id": 1729360135
+        },
+        {
+          "distance": 0.16217386722564697,
+          "id": 1763559049
+        },
+        {
+          "distance": 0.16352659463882446,
+          "id": 1729359183
+        },
+        {
+          "distance": 0.1679617166519165,
+          "id": 1729360205
+        },
+        {
+          "distance": 0.17639732360839844,
+          "id": 1729361467
+        },
+        {
+          "distance": 0.1880706548690796,
+          "id": 1947425237
+        },
+        {
+          "distance": 0.18808895349502563,
+          "id": 1947425209
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1763559079,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Trans World Airlines (TWA) took a subtle approach to their 1968 summer uniform...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

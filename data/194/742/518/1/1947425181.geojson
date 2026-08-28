@@ -28,6 +28,50 @@
       "taken": 1704214920,
       "taken_at": "Jan 02, 2024 5:02 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2040630578994751,
+          "id": 1880151785
+        },
+        {
+          "distance": 0.22077977657318115,
+          "id": 1729359429
+        },
+        {
+          "distance": 0.22517502307891846,
+          "id": 1729357701
+        },
+        {
+          "distance": 0.22817742824554443,
+          "id": 1947424867
+        },
+        {
+          "distance": 0.23503875732421875,
+          "id": 1729357871
+        },
+        {
+          "distance": 0.23837244510650635,
+          "id": 1880151585
+        },
+        {
+          "distance": 0.2411976456642151,
+          "id": 1880151781
+        },
+        {
+          "distance": 0.2437061071395874,
+          "id": 1729356499
+        },
+        {
+          "distance": 0.24547672271728516,
+          "id": 1947424799
+        },
+        {
+          "distance": 0.24942368268966675,
+          "id": 1880151259
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1947425181,
-    "wof:lastmodified": 1733175328,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Enamel artist June Schwarcz was not trained in metalworking or enameling; rather, she studied industrial design at Pratt Institute...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -70,5 +114,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

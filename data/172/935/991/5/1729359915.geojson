@@ -29,6 +29,50 @@
       "taken": 1484337060,
       "taken_at": "Jan 13, 2017 7:51 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2796887159347534,
+          "id": 1729360239
+        },
+        {
+          "distance": 0.29066866636276245,
+          "id": 1729359541
+        },
+        {
+          "distance": 0.3043391704559326,
+          "id": 1729359869
+        },
+        {
+          "distance": 0.3048103451728821,
+          "id": 1729359827
+        },
+        {
+          "distance": 0.31216543912887573,
+          "id": 1729359961
+        },
+        {
+          "distance": 0.33672964572906494,
+          "id": 1729355439
+        },
+        {
+          "distance": 0.339630126953125,
+          "id": 1729360239
+        },
+        {
+          "distance": 0.3400934338569641,
+          "id": 1729359223
+        },
+        {
+          "distance": 0.34657782316207886,
+          "id": 1729355727
+        },
+        {
+          "distance": 0.34668731689453125,
+          "id": 1729361641
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729359915,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "The East India Company, an English company that formed in order to trade with China, Southeast Asia, and India, granted Thomas Daniell and his teenage nephew permission to journey to India to work as engravers in late 1784...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

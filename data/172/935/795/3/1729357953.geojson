@@ -39,6 +39,50 @@
       "taken": 1531818480,
       "taken_at": "Jul 17, 2018 9:08 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07844913005828857,
+          "id": 1729356563
+        },
+        {
+          "distance": 0.09234672784805298,
+          "id": 1947425081
+        },
+        {
+          "distance": 0.1321081519126892,
+          "id": 1947425081
+        },
+        {
+          "distance": 0.13496840000152588,
+          "id": 1729356563
+        },
+        {
+          "distance": 0.139243483543396,
+          "id": 1729359251
+        },
+        {
+          "distance": 0.15068316459655762,
+          "id": 1729359047
+        },
+        {
+          "distance": 0.16745758056640625,
+          "id": 1729355113
+        },
+        {
+          "distance": 0.16762971878051758,
+          "id": 1729359823
+        },
+        {
+          "distance": 0.16822004318237305,
+          "id": 1729355587
+        },
+        {
+          "distance": 0.17306047677993774,
+          "id": 1729359251
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729357953,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Have you ever seen this Boeing logo?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -28,6 +28,50 @@
       "taken": 1724687220,
       "taken_at": "Aug 26, 2024 3:47 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.04465687274932861,
+          "id": 1947425047
+        },
+        {
+          "distance": 0.1039968729019165,
+          "id": 1947425047
+        },
+        {
+          "distance": 0.20900052785873413,
+          "id": 1880150873
+        },
+        {
+          "distance": 0.23364508152008057,
+          "id": 1880151197
+        },
+        {
+          "distance": 0.2428341507911682,
+          "id": 1729356499
+        },
+        {
+          "distance": 0.24580317735671997,
+          "id": 1729358933
+        },
+        {
+          "distance": 0.2472318410873413,
+          "id": 1729358839
+        },
+        {
+          "distance": 0.24985462427139282,
+          "id": 1880150875
+        },
+        {
+          "distance": 0.2538612484931946,
+          "id": 1947424839
+        },
+        {
+          "distance": 0.2571578025817871,
+          "id": 1880151317
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1947424897,
-    "wof:lastmodified": 1733175320,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Porcelain developed in China during the Tang dynasty (618–907) and continued to be refined in proceeding centuries...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -70,5 +114,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

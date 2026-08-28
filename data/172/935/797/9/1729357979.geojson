@@ -39,6 +39,50 @@
       "taken": 1531306680,
       "taken_at": "Jul 11, 2018 10:58 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.000022530555725097656,
+          "id": 1729357975
+        },
+        {
+          "distance": 0.1059834361076355,
+          "id": 1729358237
+        },
+        {
+          "distance": 0.117198646068573,
+          "id": 1729357975
+        },
+        {
+          "distance": 0.13675999641418457,
+          "id": 1729358309
+        },
+        {
+          "distance": 0.1453782320022583,
+          "id": 1729357495
+        },
+        {
+          "distance": 0.15678924322128296,
+          "id": 1763558761
+        },
+        {
+          "distance": 0.16068154573440552,
+          "id": 1729358237
+        },
+        {
+          "distance": 0.1639319658279419,
+          "id": 1729358039
+        },
+        {
+          "distance": 0.16904592514038086,
+          "id": 1729356719
+        },
+        {
+          "distance": 0.16926592588424683,
+          "id": 1729358369
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729357979,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Mid-century design redefined furniture, housewares, and decorative arts as functional and attractive, modern products...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

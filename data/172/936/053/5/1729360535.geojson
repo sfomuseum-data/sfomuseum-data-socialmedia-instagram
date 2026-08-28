@@ -25,6 +25,50 @@
       "taken": 1468150080,
       "taken_at": "Jul 10, 2016 11:28 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.30280935764312744,
+          "id": 1729356623
+        },
+        {
+          "distance": 0.33356010913848877,
+          "id": 1729358537
+        },
+        {
+          "distance": 0.3359103202819824,
+          "id": 1729356623
+        },
+        {
+          "distance": 0.3361096978187561,
+          "id": 1729355711
+        },
+        {
+          "distance": 0.3380931615829468,
+          "id": 1729359835
+        },
+        {
+          "distance": 0.33866578340530396,
+          "id": 1729360515
+        },
+        {
+          "distance": 0.34157150983810425,
+          "id": 1729359701
+        },
+        {
+          "distance": 0.3456767201423645,
+          "id": 1729360249
+        },
+        {
+          "distance": 0.3462101221084595,
+          "id": 1729358015
+        },
+        {
+          "distance": 0.34696537256240845,
+          "id": 1729355971
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360535,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "This card was given to Fred Kemmerle in 1949 by @United to commemorate his first flight...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

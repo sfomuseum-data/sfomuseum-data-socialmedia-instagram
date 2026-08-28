@@ -30,6 +30,50 @@
       "taken": 1695916140,
       "taken_at": "Sep 28, 2023 3:49 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12708258628845215,
+          "id": 1729360823
+        },
+        {
+          "distance": 0.14344662427902222,
+          "id": 1947425257
+        },
+        {
+          "distance": 0.15467536449432373,
+          "id": 1947425087
+        },
+        {
+          "distance": 0.15839099884033203,
+          "id": 1880151305
+        },
+        {
+          "distance": 0.16392439603805542,
+          "id": 1880151187
+        },
+        {
+          "distance": 0.1650061011314392,
+          "id": 1947425167
+        },
+        {
+          "distance": 0.1670963168144226,
+          "id": 1729355059
+        },
+        {
+          "distance": 0.17683660984039307,
+          "id": 1880151807
+        },
+        {
+          "distance": 0.1776498556137085,
+          "id": 1729362369
+        },
+        {
+          "distance": 0.17840689420700073,
+          "id": 1729360095
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1947425291,
-    "wof:lastmodified": 1733175331,
+    "wof:lastmodified": 1787777664,
     "wof:name": "“In keeping with physical fitness trends, I was always hoping that visitors, by viewing some forgotten object, might be exercising that area of the brain which holds onto the memory cells.”—Mickey McGowan, curator, Unknown Museum, December 2022  A visit to the Unknown Museum is a complete immersion in conceptual art and American consumerism...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

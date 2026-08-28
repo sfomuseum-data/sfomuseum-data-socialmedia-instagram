@@ -31,6 +31,50 @@
       "taken": 1629907320,
       "taken_at": "Aug 25, 2021 4:02 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1211538314819336,
+          "id": 1763558997
+        },
+        {
+          "distance": 0.12850266695022583,
+          "id": 1729358365
+        },
+        {
+          "distance": 0.14024800062179565,
+          "id": 1763558997
+        },
+        {
+          "distance": 0.15650814771652222,
+          "id": 1729358365
+        },
+        {
+          "distance": 0.18974757194519043,
+          "id": 1880151527
+        },
+        {
+          "distance": 0.1914042830467224,
+          "id": 1947425179
+        },
+        {
+          "distance": 0.21249920129776,
+          "id": 1729357345
+        },
+        {
+          "distance": 0.21487027406692505,
+          "id": 1729361501
+        },
+        {
+          "distance": 0.21789950132369995,
+          "id": 1880151779
+        },
+        {
+          "distance": 0.2210283875465393,
+          "id": 1729358087
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559453,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "The Lockheed L-1011 TriStar was a wide-body, long-range tri-jet airliner introduced in 1972...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

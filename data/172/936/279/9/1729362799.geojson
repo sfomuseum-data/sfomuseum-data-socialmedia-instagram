@@ -25,6 +25,50 @@
       "taken": 1361886360,
       "taken_at": "Feb 26, 2013 1:46 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.143740713596344,
+          "id": 1729361991
+        },
+        {
+          "distance": 0.15110290050506592,
+          "id": 1729362371
+        },
+        {
+          "distance": 0.15854185819625854,
+          "id": 1729361991
+        },
+        {
+          "distance": 0.168423593044281,
+          "id": 1729362371
+        },
+        {
+          "distance": 0.19345581531524658,
+          "id": 1729362895
+        },
+        {
+          "distance": 0.2233262062072754,
+          "id": 1729362895
+        },
+        {
+          "distance": 0.23962080478668213,
+          "id": 1729362903
+        },
+        {
+          "distance": 0.2656702995300293,
+          "id": 1729362761
+        },
+        {
+          "distance": 0.2728116512298584,
+          "id": 1729362903
+        },
+        {
+          "distance": 0.277377188205719,
+          "id": 1729362761
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362799,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777648,
     "wof:name": "Curl up w/ one of 7,700 books at our #aviation library!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

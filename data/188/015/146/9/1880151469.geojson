@@ -29,6 +29,50 @@
       "taken": 1663151700,
       "taken_at": "Sep 14, 2022 10:35 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2514018416404724,
+          "id": 1763558765
+        },
+        {
+          "distance": 0.2514018416404724,
+          "id": 1729357579
+        },
+        {
+          "distance": 0.2528923749923706,
+          "id": 1763559325
+        },
+        {
+          "distance": 0.25884687900543213,
+          "id": 1729357579
+        },
+        {
+          "distance": 0.25884687900543213,
+          "id": 1763558765
+        },
+        {
+          "distance": 0.2611309289932251,
+          "id": 1763559325
+        },
+        {
+          "distance": 0.2655321955680847,
+          "id": 1729355539
+        },
+        {
+          "distance": 0.26783549785614014,
+          "id": 1880151627
+        },
+        {
+          "distance": 0.273989200592041,
+          "id": 1729357483
+        },
+        {
+          "distance": 0.273989200592041,
+          "id": 1763558787
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880151469,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "We are saddened by the recent passing of renowned photographer Fred Lyon, who died in August at the age of 97...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

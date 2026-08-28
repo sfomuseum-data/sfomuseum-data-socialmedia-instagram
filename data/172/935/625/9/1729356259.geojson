@@ -33,6 +33,50 @@
       "taken": 1564734960,
       "taken_at": "Aug 02, 2019 8:36 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.21644461154937744,
+          "id": 1729360847
+        },
+        {
+          "distance": 0.23124253749847412,
+          "id": 1763558815
+        },
+        {
+          "distance": 0.24319243431091309,
+          "id": 1729356337
+        },
+        {
+          "distance": 0.2500591278076172,
+          "id": 1763559445
+        },
+        {
+          "distance": 0.2558838725090027,
+          "id": 1729357687
+        },
+        {
+          "distance": 0.2563314437866211,
+          "id": 1729360047
+        },
+        {
+          "distance": 0.2582658529281616,
+          "id": 1729355795
+        },
+        {
+          "distance": 0.25998014211654663,
+          "id": 1729356769
+        },
+        {
+          "distance": 0.26319998502731323,
+          "id": 1729356769
+        },
+        {
+          "distance": 0.26520776748657227,
+          "id": 1729360847
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729356259,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777629,
     "wof:name": "An Aircraft Marshaller or signal person is a person who visually communicates directions between the pilot of an aircraft and ground crew in order to direct the aircraft into a particular space or position...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

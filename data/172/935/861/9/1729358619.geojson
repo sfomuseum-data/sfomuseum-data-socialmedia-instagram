@@ -52,6 +52,50 @@
       "taken": 1517334060,
       "taken_at": "Jan 30, 2018, 5:41 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0395393967628479,
+          "id": 1729358545
+        },
+        {
+          "distance": 0.05784350633621216,
+          "id": 1729358521
+        },
+        {
+          "distance": 0.06855487823486328,
+          "id": 1729358581
+        },
+        {
+          "distance": 0.08782553672790527,
+          "id": 1729358515
+        },
+        {
+          "distance": 0.09170103073120117,
+          "id": 1729358917
+        },
+        {
+          "distance": 0.0920330286026001,
+          "id": 1729358555
+        },
+        {
+          "distance": 0.09221184253692627,
+          "id": 1729358527
+        },
+        {
+          "distance": 0.11635094881057739,
+          "id": 1729358521
+        },
+        {
+          "distance": 0.12041991949081421,
+          "id": 1729358917
+        },
+        {
+          "distance": 0.12097138166427612,
+          "id": 1729358545
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -81,7 +125,7 @@
       }
     ],
     "wof:id": 1729358619,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Weavers keep sample textiles known as muestras as a reference to symbols and designs...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -98,5 +142,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

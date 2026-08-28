@@ -27,6 +27,50 @@
       "taken": 1468945260,
       "taken_at": "Jul 19, 2016 4:21 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.00002276897430419922,
+          "id": 1729360505
+        },
+        {
+          "distance": 0.08748269081115723,
+          "id": 1729360505
+        },
+        {
+          "distance": 0.10778605937957764,
+          "id": 1729361011
+        },
+        {
+          "distance": 0.14438354969024658,
+          "id": 1729361011
+        },
+        {
+          "distance": 0.1893528699874878,
+          "id": 1729360895
+        },
+        {
+          "distance": 0.20184874534606934,
+          "id": 1729360947
+        },
+        {
+          "distance": 0.20840001106262207,
+          "id": 1729360601
+        },
+        {
+          "distance": 0.2127537727355957,
+          "id": 1729360793
+        },
+        {
+          "distance": 0.22824859619140625,
+          "id": 1729360793
+        },
+        {
+          "distance": 0.23484432697296143,
+          "id": 1729360895
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1763558635,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777659,
     "wof:name": "This is your last week to catch \"Essential Style: Vintage and Antique Purse\", on display, pre-security, in the International Terminal!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -73,5 +117,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

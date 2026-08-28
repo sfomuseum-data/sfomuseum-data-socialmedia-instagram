@@ -47,6 +47,50 @@
       "taken": 1505649960,
       "taken_at": "Sep 17, 2017 12:06 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.26785337924957275,
+          "id": 1729362959
+        },
+        {
+          "distance": 0.27875816822052,
+          "id": 1729356755
+        },
+        {
+          "distance": 0.2836393117904663,
+          "id": 1763559379
+        },
+        {
+          "distance": 0.2863007187843323,
+          "id": 1947425039
+        },
+        {
+          "distance": 0.29446446895599365,
+          "id": 1947424927
+        },
+        {
+          "distance": 0.29663872718811035,
+          "id": 1947424901
+        },
+        {
+          "distance": 0.30129045248031616,
+          "id": 1880150991
+        },
+        {
+          "distance": 0.30136871337890625,
+          "id": 1763559473
+        },
+        {
+          "distance": 0.30573487281799316,
+          "id": 1763559281
+        },
+        {
+          "distance": 0.31104493141174316,
+          "id": 1880150939
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -76,7 +120,7 @@
       }
     ],
     "wof:id": 1729359083,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "The Case Study House program was established by Arts \u0026 Architecture magazine in 1945 in an effort to produce model homes for efficient and affordable living during the housing boom generated after the end of World War II...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -93,5 +137,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

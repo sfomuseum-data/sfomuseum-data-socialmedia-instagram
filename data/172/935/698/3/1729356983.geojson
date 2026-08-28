@@ -35,6 +35,50 @@
       "taken": 1549576140,
       "taken_at": "Feb 07, 2019 9:49 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1770768165588379,
+          "id": 1729356645
+        },
+        {
+          "distance": 0.18070518970489502,
+          "id": 1729356641
+        },
+        {
+          "distance": 0.18749815225601196,
+          "id": 1729356637
+        },
+        {
+          "distance": 0.2376810908317566,
+          "id": 1729356641
+        },
+        {
+          "distance": 0.24023979902267456,
+          "id": 1729356645
+        },
+        {
+          "distance": 0.24989497661590576,
+          "id": 1729356637
+        },
+        {
+          "distance": 0.27641361951828003,
+          "id": 1729358411
+        },
+        {
+          "distance": 0.30535978078842163,
+          "id": 1729356803
+        },
+        {
+          "distance": 0.30980849266052246,
+          "id": 1729362379
+        },
+        {
+          "distance": 0.3125249743461609,
+          "id": 1729357739
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729356983,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777629,
     "wof:name": "The 1950s were the golden age of space-themed toys...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

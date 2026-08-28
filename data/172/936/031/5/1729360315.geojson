@@ -29,6 +29,50 @@
       "taken": 1474372200,
       "taken_at": "Sep 20, 2016 11:50 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.4208409786224365,
+          "id": 1729358003
+        },
+        {
+          "distance": 0.43330055475234985,
+          "id": 1729359605
+        },
+        {
+          "distance": 0.4510156512260437,
+          "id": 1880151315
+        },
+        {
+          "distance": 0.45480483770370483,
+          "id": 1729359143
+        },
+        {
+          "distance": 0.46001821756362915,
+          "id": 1947424997
+        },
+        {
+          "distance": 0.46039170026779175,
+          "id": 1729358003
+        },
+        {
+          "distance": 0.46134763956069946,
+          "id": 1729359327
+        },
+        {
+          "distance": 0.4673805832862854,
+          "id": 1729361273
+        },
+        {
+          "distance": 0.46744656562805176,
+          "id": 1947424967
+        },
+        {
+          "distance": 0.4768173098564148,
+          "id": 1947424997
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729360315,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "In 1933, a British team led by RAF Lt. David McIntyre and Sir Douglas Douglas-Hamilton successfully flew two Westland biplanes over Mount Everest in the Himalayas...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

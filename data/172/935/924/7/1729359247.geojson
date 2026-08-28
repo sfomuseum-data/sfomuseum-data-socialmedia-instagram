@@ -25,6 +25,50 @@
       "taken": 1501506660,
       "taken_at": "Jul 31, 2017 1:11 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.040281713008880615,
+          "id": 1729356907
+        },
+        {
+          "distance": 0.0673627257347107,
+          "id": 1729356907
+        },
+        {
+          "distance": 0.08380967378616333,
+          "id": 1729355167
+        },
+        {
+          "distance": 0.11019951105117798,
+          "id": 1729355167
+        },
+        {
+          "distance": 0.21761161088943481,
+          "id": 1729358501
+        },
+        {
+          "distance": 0.25014984607696533,
+          "id": 1729358501
+        },
+        {
+          "distance": 0.2550247311592102,
+          "id": 1947424801
+        },
+        {
+          "distance": 0.2567104697227478,
+          "id": 1880151089
+        },
+        {
+          "distance": 0.26405346393585205,
+          "id": 1729360175
+        },
+        {
+          "distance": 0.26954591274261475,
+          "id": 1729358537
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359247,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "#OnThisDay in 1946, #Philippine Airlines became the first Asian Airline to cross the Pacific Ocean...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

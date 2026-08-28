@@ -33,6 +33,50 @@
       "taken": 1646046660,
       "taken_at": "Feb 28, 2022 11:11 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20958846807479858,
+          "id": 1763559281
+        },
+        {
+          "distance": 0.22354543209075928,
+          "id": 1763559569
+        },
+        {
+          "distance": 0.22359323501586914,
+          "id": 1763559473
+        },
+        {
+          "distance": 0.22554105520248413,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.22718840837478638,
+          "id": 1763559323
+        },
+        {
+          "distance": 0.22888290882110596,
+          "id": 1729355435
+        },
+        {
+          "distance": 0.22950756549835205,
+          "id": 1880151657
+        },
+        {
+          "distance": 0.23125362396240234,
+          "id": 1729355785
+        },
+        {
+          "distance": 0.23187404870986938,
+          "id": 1763559379
+        },
+        {
+          "distance": 0.23214876651763916,
+          "id": 1763559339
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1763559583,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "In his series “Rail Diwali”, Arko Datto explores how Diwali, a fall festival of the spiritual victory of light over darkness, is celebrated in some of the most underprivileged and heavily populated areas of Kolkata in East India...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -30,6 +30,50 @@
       "taken": 1647446640,
       "taken_at": "Mar 16, 2022 4:04 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07164108753204346,
+          "id": 1729360263
+        },
+        {
+          "distance": 0.07814085483551025,
+          "id": 1729358009
+        },
+        {
+          "distance": 0.08726656436920166,
+          "id": 1880151589
+        },
+        {
+          "distance": 0.090221107006073,
+          "id": 1729359361
+        },
+        {
+          "distance": 0.09933269023895264,
+          "id": 1729357943
+        },
+        {
+          "distance": 0.1099698543548584,
+          "id": 1729355429
+        },
+        {
+          "distance": 0.11320239305496216,
+          "id": 1729360263
+        },
+        {
+          "distance": 0.11696779727935791,
+          "id": 1763559167
+        },
+        {
+          "distance": 0.120414137840271,
+          "id": 1729358213
+        },
+        {
+          "distance": 0.12260448932647705,
+          "id": 1729358655
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559547,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "#Onthisday in 1947, the Convair 240 made its maiden flight...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

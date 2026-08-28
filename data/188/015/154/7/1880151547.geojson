@@ -30,6 +30,50 @@
       "taken": 1658763120,
       "taken_at": "Jul 25, 2022 3:32 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09693419933319092,
+          "id": 1763559305
+        },
+        {
+          "distance": 0.1770300269126892,
+          "id": 1947425275
+        },
+        {
+          "distance": 0.2153940200805664,
+          "id": 1763559305
+        },
+        {
+          "distance": 0.21568650007247925,
+          "id": 1763559591
+        },
+        {
+          "distance": 0.21719145774841309,
+          "id": 1763558907
+        },
+        {
+          "distance": 0.24128437042236328,
+          "id": 1947424987
+        },
+        {
+          "distance": 0.24964380264282227,
+          "id": 1763558925
+        },
+        {
+          "distance": 0.25546693801879883,
+          "id": 1947424919
+        },
+        {
+          "distance": 0.26064354181289673,
+          "id": 1763559129
+        },
+        {
+          "distance": 0.26267945766448975,
+          "id": 1729355059
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151547,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "During the mid-1920s, San Francisco leaders envisioned their city as the western terminus of a new transcontinental air mail system...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -32,6 +32,50 @@
       "taken": 1568294220,
       "taken_at": "Sep 12, 2019 1:17 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12322276830673218,
+          "id": 1729360077
+        },
+        {
+          "distance": 0.13872629404067993,
+          "id": 1729360689
+        },
+        {
+          "distance": 0.16768139600753784,
+          "id": 1729355041
+        },
+        {
+          "distance": 0.16911250352859497,
+          "id": 1729360337
+        },
+        {
+          "distance": 0.1735631823539734,
+          "id": 1729360689
+        },
+        {
+          "distance": 0.17896920442581177,
+          "id": 1729355041
+        },
+        {
+          "distance": 0.18417561054229736,
+          "id": 1729359077
+        },
+        {
+          "distance": 0.19097745418548584,
+          "id": 1729361129
+        },
+        {
+          "distance": 0.19355368614196777,
+          "id": 1729355161
+        },
+        {
+          "distance": 0.19492173194885254,
+          "id": 1729360247
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729356113,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777628,
     "wof:name": "What was going on at the airport in September of 1998?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -30,6 +30,50 @@
       "taken": 1702054680,
       "taken_at": "Dec 08, 2023 4:58 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0004871487617492676,
+          "id": 1947425169
+        },
+        {
+          "distance": 0.10059589147567749,
+          "id": 1947425057
+        },
+        {
+          "distance": 0.1261463761329651,
+          "id": 1947425169
+        },
+        {
+          "distance": 0.13498294353485107,
+          "id": 1947425057
+        },
+        {
+          "distance": 0.18146872520446777,
+          "id": 1947424901
+        },
+        {
+          "distance": 0.18806147575378418,
+          "id": 1947424843
+        },
+        {
+          "distance": 0.22410136461257935,
+          "id": 1729361489
+        },
+        {
+          "distance": 0.2245137095451355,
+          "id": 1947425291
+        },
+        {
+          "distance": 0.22485530376434326,
+          "id": 1729361495
+        },
+        {
+          "distance": 0.22539228200912476,
+          "id": 1947424901
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1947425207,
-    "wof:lastmodified": 1733175329,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Join us for a public panel discussion and exhibition tour of “Unlocking an Archival Treasure: The Harold Bixby Collection” tomorrow, December 9, 2023, from 1:30 to 3:00, in the Louis A. Turpen Aviation Museum \u0026 Library in the International Terminal...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

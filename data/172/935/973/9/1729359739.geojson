@@ -30,6 +30,50 @@
       "taken": 1489145640,
       "taken_at": "Mar 10, 2017 11:34 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.26090794801712036,
+          "id": 1729359609
+        },
+        {
+          "distance": 0.2665444612503052,
+          "id": 1729361549
+        },
+        {
+          "distance": 0.2698885202407837,
+          "id": 1729360029
+        },
+        {
+          "distance": 0.2768945097923279,
+          "id": 1729356329
+        },
+        {
+          "distance": 0.27973973751068115,
+          "id": 1729356715
+        },
+        {
+          "distance": 0.2798754572868347,
+          "id": 1729360617
+        },
+        {
+          "distance": 0.2837989926338196,
+          "id": 1763559327
+        },
+        {
+          "distance": 0.2869163155555725,
+          "id": 1763559487
+        },
+        {
+          "distance": 0.2874431610107422,
+          "id": 1729359643
+        },
+        {
+          "distance": 0.2902042865753174,
+          "id": 1729356329
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729359739,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "Western Airlines' advertisement promoted travel to Los Angeles aboard the airline’s “Californian” service, flying from Minneapolis-St. Paul in Minnesota to Los Angeles, California...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -29,6 +29,50 @@
       "taken": 1636720200,
       "taken_at": "Nov 12, 2021 12:30 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3084036707878113,
+          "id": 1729356997
+        },
+        {
+          "distance": 0.30848532915115356,
+          "id": 1729355027
+        },
+        {
+          "distance": 0.30977118015289307,
+          "id": 1729360633
+        },
+        {
+          "distance": 0.31996434926986694,
+          "id": 1729357385
+        },
+        {
+          "distance": 0.32378149032592773,
+          "id": 1729357559
+        },
+        {
+          "distance": 0.32487648725509644,
+          "id": 1763558817
+        },
+        {
+          "distance": 0.3277356028556824,
+          "id": 1729357559
+        },
+        {
+          "distance": 0.32818228006362915,
+          "id": 1729355849
+        },
+        {
+          "distance": 0.32818228006362915,
+          "id": 1729356359
+        },
+        {
+          "distance": 0.33590513467788696,
+          "id": 1763558785
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1763559331,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "In addition to ensuring that objects on view in exhibitions are stable and able to withstand the rigors of display, our conservator Alisa also makes sure that objects look their best...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

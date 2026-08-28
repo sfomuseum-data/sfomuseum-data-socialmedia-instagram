@@ -28,6 +28,50 @@
       "taken": 1549478160,
       "taken_at": "Feb 06, 2019 6:36 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.023220300674438477,
+          "id": 1729361055
+        },
+        {
+          "distance": 0.1568279266357422,
+          "id": 1729359983
+        },
+        {
+          "distance": 0.17013752460479736,
+          "id": 1729359615
+        },
+        {
+          "distance": 0.1719900369644165,
+          "id": 1729359983
+        },
+        {
+          "distance": 0.17805325984954834,
+          "id": 1729359845
+        },
+        {
+          "distance": 0.18485724925994873,
+          "id": 1729361055
+        },
+        {
+          "distance": 0.18843311071395874,
+          "id": 1729359421
+        },
+        {
+          "distance": 0.19594508409500122,
+          "id": 1729359587
+        },
+        {
+          "distance": 0.20383220911026,
+          "id": 1729359587
+        },
+        {
+          "distance": 0.20451092720031738,
+          "id": 1729359421
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1729356987,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777629,
     "wof:name": "This rare view of the United Air Lines Ticket Office in downtown San Francisco is from circa 1933...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

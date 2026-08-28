@@ -31,6 +31,50 @@
       "taken": 1551731520,
       "taken_at": "Mar 04, 2019 8:32 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.000026881694793701172,
+          "id": 1729356863
+        },
+        {
+          "distance": 0.029706716537475586,
+          "id": 1729358251
+        },
+        {
+          "distance": 0.04048532247543335,
+          "id": 1729355275
+        },
+        {
+          "distance": 0.043640077114105225,
+          "id": 1763558841
+        },
+        {
+          "distance": 0.07671183347702026,
+          "id": 1729355275
+        },
+        {
+          "distance": 0.07698822021484375,
+          "id": 1763558841
+        },
+        {
+          "distance": 0.0783085823059082,
+          "id": 1729358251
+        },
+        {
+          "distance": 0.07926070690155029,
+          "id": 1729356863
+        },
+        {
+          "distance": 0.3704044818878174,
+          "id": 1729357331
+        },
+        {
+          "distance": 0.3712010979652405,
+          "id": 1880151595
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763558791,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777659,
     "wof:name": "After taking her first flying lessons in 1932, Jackie Cochran obtained her pilot license in just three weeks...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

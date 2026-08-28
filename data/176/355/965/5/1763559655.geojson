@@ -33,6 +33,50 @@
       "taken": 1642531440,
       "taken_at": "Jan 18, 2022 6:44 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1454066038131714,
+          "id": 1729360461
+        },
+        {
+          "distance": 0.14793497323989868,
+          "id": 1763559287
+        },
+        {
+          "distance": 0.16039496660232544,
+          "id": 1763559627
+        },
+        {
+          "distance": 0.1766229271888733,
+          "id": 1763559627
+        },
+        {
+          "distance": 0.17949479818344116,
+          "id": 1729360461
+        },
+        {
+          "distance": 0.18162626028060913,
+          "id": 1729360205
+        },
+        {
+          "distance": 0.18661463260650635,
+          "id": 1729361731
+        },
+        {
+          "distance": 0.18709349632263184,
+          "id": 1763559287
+        },
+        {
+          "distance": 0.19223344326019287,
+          "id": 1763559113
+        },
+        {
+          "distance": 0.19363588094711304,
+          "id": 1729360329
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1763559655,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "In 1972, Emilio Pucci (1914–92) designed the “727 Braniff Place Blue Pant Collection” to commemorate the company’s growing fleet of Boeing 727 trijet airliners...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1456829040,
       "taken_at": "Mar 01, 2016 10:44 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.22899895906448364,
+          "id": 1729360633
+        },
+        {
+          "distance": 0.2510012984275818,
+          "id": 1729360453
+        },
+        {
+          "distance": 0.2636597752571106,
+          "id": 1729360725
+        },
+        {
+          "distance": 0.2667808532714844,
+          "id": 1729359381
+        },
+        {
+          "distance": 0.26829928159713745,
+          "id": 1729360453
+        },
+        {
+          "distance": 0.2752068042755127,
+          "id": 1729360871
+        },
+        {
+          "distance": 0.2793712019920349,
+          "id": 1729360633
+        },
+        {
+          "distance": 0.28288477659225464,
+          "id": 1729360725
+        },
+        {
+          "distance": 0.28962647914886475,
+          "id": 1729360775
+        },
+        {
+          "distance": 0.2933639883995056,
+          "id": 1729360717
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360997,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Nature served as a driving force of the Art Nouveau movement, inspiring designers throughout Europe and North America...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

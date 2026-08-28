@@ -37,6 +37,50 @@
       "taken": 1520357580,
       "taken_at": "Mar 06, 2018 5:33 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2632710337638855,
+          "id": 1947425137
+        },
+        {
+          "distance": 0.28643763065338135,
+          "id": 1729361395
+        },
+        {
+          "distance": 0.2969855070114136,
+          "id": 1947424909
+        },
+        {
+          "distance": 0.29981786012649536,
+          "id": 1729361395
+        },
+        {
+          "distance": 0.30250072479248047,
+          "id": 1947425137
+        },
+        {
+          "distance": 0.3071439862251282,
+          "id": 1729358765
+        },
+        {
+          "distance": 0.30783045291900635,
+          "id": 1947425095
+        },
+        {
+          "distance": 0.3095512390136719,
+          "id": 1763558957
+        },
+        {
+          "distance": 0.31997668743133545,
+          "id": 1729360045
+        },
+        {
+          "distance": 0.3239579200744629,
+          "id": 1729356203
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729358479,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777633,
     "wof:name": "The Winter Olympics just wrapped up in South Korea...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

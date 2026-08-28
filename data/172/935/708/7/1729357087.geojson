@@ -36,6 +36,50 @@
       "taken": 1547485980,
       "taken_at": "Jan 14, 2019 5:13 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2772059440612793,
+          "id": 1729357147
+        },
+        {
+          "distance": 0.2943663001060486,
+          "id": 1729362599
+        },
+        {
+          "distance": 0.3130245804786682,
+          "id": 1729356923
+        },
+        {
+          "distance": 0.3172839879989624,
+          "id": 1729362571
+        },
+        {
+          "distance": 0.3178625702857971,
+          "id": 1729358925
+        },
+        {
+          "distance": 0.31944572925567627,
+          "id": 1729355153
+        },
+        {
+          "distance": 0.32181113958358765,
+          "id": 1729356751
+        },
+        {
+          "distance": 0.3224737048149109,
+          "id": 1729357019
+        },
+        {
+          "distance": 0.32419532537460327,
+          "id": 1729356521
+        },
+        {
+          "distance": 0.32545262575149536,
+          "id": 1729356901
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729357087,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777630,
     "wof:name": "How is our upcoming exhibit on wooden surfboards shaping up?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

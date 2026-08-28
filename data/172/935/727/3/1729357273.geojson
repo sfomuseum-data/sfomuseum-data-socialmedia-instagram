@@ -40,6 +40,50 @@
       "taken": 1544205840,
       "taken_at": "Dec 7, 2018, 6:04 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0283125638961792,
+          "id": 1729357291
+        },
+        {
+          "distance": 0.12383204698562622,
+          "id": 1729357291
+        },
+        {
+          "distance": 0.14176470041275024,
+          "id": 1729358869
+        },
+        {
+          "distance": 0.14354407787322998,
+          "id": 1729358841
+        },
+        {
+          "distance": 0.1441664695739746,
+          "id": 1729357601
+        },
+        {
+          "distance": 0.1521562933921814,
+          "id": 1729358323
+        },
+        {
+          "distance": 0.1629388928413391,
+          "id": 1947425155
+        },
+        {
+          "distance": 0.16381973028182983,
+          "id": 1729357183
+        },
+        {
+          "distance": 0.16887956857681274,
+          "id": 1729358155
+        },
+        {
+          "distance": 0.1783275604248047,
+          "id": 1947425155
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729357273,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777630,
     "wof:name": "The Lockheed Model 14 Super Electra was a twin-engine, low-wing monoplane with a clean, aerodynamic fuselage and a twin tail...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

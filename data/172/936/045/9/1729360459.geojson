@@ -25,6 +25,50 @@
       "taken": 1470564240,
       "taken_at": "Aug 07, 2016 10:04 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1956614851951599,
+          "id": 1729360547
+        },
+        {
+          "distance": 0.20519161224365234,
+          "id": 1880151179
+        },
+        {
+          "distance": 0.22148311138153076,
+          "id": 1729360547
+        },
+        {
+          "distance": 0.22947043180465698,
+          "id": 1947425201
+        },
+        {
+          "distance": 0.24709123373031616,
+          "id": 1947425131
+        },
+        {
+          "distance": 0.251375675201416,
+          "id": 1880150965
+        },
+        {
+          "distance": 0.2555125951766968,
+          "id": 1880151033
+        },
+        {
+          "distance": 0.2555125951766968,
+          "id": 1947425245
+        },
+        {
+          "distance": 0.2559044361114502,
+          "id": 1947425201
+        },
+        {
+          "distance": 0.2565062642097473,
+          "id": 1947425087
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360459,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "The Aviation Museum and Library, is a great all-ages space for traveling families...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

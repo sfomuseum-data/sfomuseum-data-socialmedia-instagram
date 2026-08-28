@@ -36,6 +36,50 @@
       "taken": 1534407720,
       "taken_at": "Aug 16, 2018 8:22 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13212049007415771,
+          "id": 1729358591
+        },
+        {
+          "distance": 0.14412552118301392,
+          "id": 1729358399
+        },
+        {
+          "distance": 0.1678195595741272,
+          "id": 1729358485
+        },
+        {
+          "distance": 0.17208588123321533,
+          "id": 1729358149
+        },
+        {
+          "distance": 0.17277443408966064,
+          "id": 1729358399
+        },
+        {
+          "distance": 0.1784970760345459,
+          "id": 1729358149
+        },
+        {
+          "distance": 0.18030792474746704,
+          "id": 1729358173
+        },
+        {
+          "distance": 0.1916438341140747,
+          "id": 1729358485
+        },
+        {
+          "distance": 0.1952415108680725,
+          "id": 1729358301
+        },
+        {
+          "distance": 0.20114856958389282,
+          "id": 1729358591
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729357773,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Maneki neko most often feature a colorful bib attached to their necks...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

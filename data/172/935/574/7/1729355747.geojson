@@ -36,6 +36,50 @@
       "taken": 1577125560,
       "taken_at": "Dec 23, 2019 6:26 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.007478833198547363,
+          "id": 1880151249
+        },
+        {
+          "distance": 0.0886736512184143,
+          "id": 1880151249
+        },
+        {
+          "distance": 0.22774922847747803,
+          "id": 1729358785
+        },
+        {
+          "distance": 0.2509709596633911,
+          "id": 1729359893
+        },
+        {
+          "distance": 0.2591390609741211,
+          "id": 1729358785
+        },
+        {
+          "distance": 0.27395617961883545,
+          "id": 1729360949
+        },
+        {
+          "distance": 0.27651411294937134,
+          "id": 1729358833
+        },
+        {
+          "distance": 0.2829768657684326,
+          "id": 1729359893
+        },
+        {
+          "distance": 0.2874376177787781,
+          "id": 1880151013
+        },
+        {
+          "distance": 0.2887573838233948,
+          "id": 1729357345
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729355747,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777627,
     "wof:name": "#Onthisday in 1984, the first Pan American World Airways Airbus A300B4, registered N202PA, departed from New York to Bridgetown, Barbados...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

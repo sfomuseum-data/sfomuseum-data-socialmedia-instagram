@@ -25,6 +25,50 @@
       "taken": 1479390720,
       "taken_at": "Nov 17, 2016 1:52 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15751522779464722,
+          "id": 1763559131
+        },
+        {
+          "distance": 0.18969929218292236,
+          "id": 1729360407
+        },
+        {
+          "distance": 0.19166696071624756,
+          "id": 1880151243
+        },
+        {
+          "distance": 0.19199466705322266,
+          "id": 1729360279
+        },
+        {
+          "distance": 0.19318050146102905,
+          "id": 1763559131
+        },
+        {
+          "distance": 0.1991862654685974,
+          "id": 1729361593
+        },
+        {
+          "distance": 0.199515700340271,
+          "id": 1729357103
+        },
+        {
+          "distance": 0.2040618658065796,
+          "id": 1729359159
+        },
+        {
+          "distance": 0.20652246475219727,
+          "id": 1729360619
+        },
+        {
+          "distance": 0.21557289361953735,
+          "id": 1729359497
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360121,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "What would you have bought from this shop inside SFO in 1962?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

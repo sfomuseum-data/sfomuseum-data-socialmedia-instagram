@@ -27,6 +27,50 @@
       "taken": 1675098480,
       "taken_at": "Jan 30, 2023 5:08 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3223997950553894,
+          "id": 1947425155
+        },
+        {
+          "distance": 0.3360103368759155,
+          "id": 1729357729
+        },
+        {
+          "distance": 0.3372894525527954,
+          "id": 1729362041
+        },
+        {
+          "distance": 0.3391920328140259,
+          "id": 1729355915
+        },
+        {
+          "distance": 0.34073692560195923,
+          "id": 1729358155
+        },
+        {
+          "distance": 0.34076327085494995,
+          "id": 1729357291
+        },
+        {
+          "distance": 0.3408084511756897,
+          "id": 1729358891
+        },
+        {
+          "distance": 0.3412201404571533,
+          "id": 1729358401
+        },
+        {
+          "distance": 0.34136098623275757,
+          "id": 1729357273
+        },
+        {
+          "distance": 0.34753310680389404,
+          "id": 1729357291
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1880151159,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "There are more than a few inexplicable objects in our museum collection but this tabletop model featuring an aircraft on top of a walrus is one of the more peculiar ones...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -73,5 +117,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

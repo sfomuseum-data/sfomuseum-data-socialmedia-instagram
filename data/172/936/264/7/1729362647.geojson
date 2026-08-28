@@ -25,6 +25,50 @@
       "taken": 1372863600,
       "taken_at": "Jul 03, 2013 3:00 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.22263866662979126,
+          "id": 1729362605
+        },
+        {
+          "distance": 0.2676941156387329,
+          "id": 1729362959
+        },
+        {
+          "distance": 0.27497774362564087,
+          "id": 1729362867
+        },
+        {
+          "distance": 0.27652227878570557,
+          "id": 1729362547
+        },
+        {
+          "distance": 0.28316301107406616,
+          "id": 1729363021
+        },
+        {
+          "distance": 0.28756600618362427,
+          "id": 1729362739
+        },
+        {
+          "distance": 0.2941138744354248,
+          "id": 1729362867
+        },
+        {
+          "distance": 0.300804078578949,
+          "id": 1729362797
+        },
+        {
+          "distance": 0.3022080659866333,
+          "id": 1729362119
+        },
+        {
+          "distance": 0.3033808469772339,
+          "id": 1729362595
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362647,
-    "wof:lastmodified": 1733175351,
+    "wof:lastmodified": 1787777647,
     "wof:name": "Using photos found in the #Recology dump, James Sansing carefully cut out any people and framed the images in electrical boxes for his 2009 'Missing Persons' series...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

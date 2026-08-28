@@ -35,6 +35,50 @@
       "taken": 1543346700,
       "taken_at": "Nov 27, 2018 7:25 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24721574783325195,
+          "id": 1763559109
+        },
+        {
+          "distance": 0.27878624200820923,
+          "id": 1729358783
+        },
+        {
+          "distance": 0.2908230423927307,
+          "id": 1729358333
+        },
+        {
+          "distance": 0.29629194736480713,
+          "id": 1729359227
+        },
+        {
+          "distance": 0.297014057636261,
+          "id": 1763559109
+        },
+        {
+          "distance": 0.29731589555740356,
+          "id": 1729359065
+        },
+        {
+          "distance": 0.30082595348358154,
+          "id": 1729360867
+        },
+        {
+          "distance": 0.30432450771331787,
+          "id": 1729358333
+        },
+        {
+          "distance": 0.30453574657440186,
+          "id": 1947425117
+        },
+        {
+          "distance": 0.30545806884765625,
+          "id": 1729359319
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729357307,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777631,
     "wof:name": "This Alitalia poster from 1949 advertises the airline's services from European, African, and South American destinations to their hub in Rome...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

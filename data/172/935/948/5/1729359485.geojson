@@ -43,6 +43,50 @@
       "taken": 1495185180,
       "taken_at": "May 19, 2017 9:13 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.08643579483032227,
+          "id": 1729359439
+        },
+        {
+          "distance": 0.10518115758895874,
+          "id": 1729358989
+        },
+        {
+          "distance": 0.10663843154907227,
+          "id": 1729358939
+        },
+        {
+          "distance": 0.11526763439178467,
+          "id": 1729358859
+        },
+        {
+          "distance": 0.11738258600234985,
+          "id": 1729359179
+        },
+        {
+          "distance": 0.12361454963684082,
+          "id": 1729359125
+        },
+        {
+          "distance": 0.12601131200790405,
+          "id": 1729358773
+        },
+        {
+          "distance": 0.12840896844863892,
+          "id": 1729359001
+        },
+        {
+          "distance": 0.13402652740478516,
+          "id": 1729359435
+        },
+        {
+          "distance": 0.13441914319992065,
+          "id": 1729359439
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -72,7 +116,7 @@
       }
     ],
     "wof:id": 1729359485,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "The Sholes \u0026 Glidden Type Writer ushered in a new era of communication technology...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -89,5 +133,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

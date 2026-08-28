@@ -37,6 +37,50 @@
       "taken": 1597421640,
       "taken_at": "Aug 14, 2020, 4:14 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2576987147331238,
+          "id": 1763559087
+        },
+        {
+          "distance": 0.2721264958381653,
+          "id": 1729360727
+        },
+        {
+          "distance": 0.2818859815597534,
+          "id": 1729359941
+        },
+        {
+          "distance": 0.29640573263168335,
+          "id": 1729356553
+        },
+        {
+          "distance": 0.2975648045539856,
+          "id": 1729355309
+        },
+        {
+          "distance": 0.3046603202819824,
+          "id": 1729356549
+        },
+        {
+          "distance": 0.30478793382644653,
+          "id": 1763559087
+        },
+        {
+          "distance": 0.310139000415802,
+          "id": 1729356299
+        },
+        {
+          "distance": 0.311928927898407,
+          "id": 1729356547
+        },
+        {
+          "distance": 0.31377196311950684,
+          "id": 1729355309
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729355137,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777618,
     "wof:name": "Barbershop and hairdressing signs are often an ephemeral form of utilitarian folk art...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

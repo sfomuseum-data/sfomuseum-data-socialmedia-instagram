@@ -31,6 +31,50 @@
       "taken": 1580224800,
       "taken_at": "Jan 28, 2020 3:20 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15850389003753662,
+          "id": 1729356485
+        },
+        {
+          "distance": 0.22213929891586304,
+          "id": 1729356485
+        },
+        {
+          "distance": 0.2238956093788147,
+          "id": 1729356033
+        },
+        {
+          "distance": 0.2283797264099121,
+          "id": 1729355563
+        },
+        {
+          "distance": 0.23603737354278564,
+          "id": 1729359637
+        },
+        {
+          "distance": 0.23879176378250122,
+          "id": 1763558979
+        },
+        {
+          "distance": 0.24291247129440308,
+          "id": 1729360045
+        },
+        {
+          "distance": 0.25219815969467163,
+          "id": 1729355971
+        },
+        {
+          "distance": 0.253867506980896,
+          "id": 1729358921
+        },
+        {
+          "distance": 0.25425368547439575,
+          "id": 1880151413
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729355619,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777626,
     "wof:name": "Golden West Airlines was founded in 1968 as a small commuter airline based in Van Nuys, California...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

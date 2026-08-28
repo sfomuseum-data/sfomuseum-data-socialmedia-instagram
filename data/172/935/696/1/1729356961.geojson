@@ -34,6 +34,50 @@
       "taken": 1549881840,
       "taken_at": "Feb 11, 2019 10:44 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06376975774765015,
+          "id": 1729357617
+        },
+        {
+          "distance": 0.08015131950378418,
+          "id": 1729357617
+        },
+        {
+          "distance": 0.21774250268936157,
+          "id": 1729357507
+        },
+        {
+          "distance": 0.22746700048446655,
+          "id": 1729357067
+        },
+        {
+          "distance": 0.2288873791694641,
+          "id": 1729357505
+        },
+        {
+          "distance": 0.22971826791763306,
+          "id": 1729357719
+        },
+        {
+          "distance": 0.23024475574493408,
+          "id": 1729358591
+        },
+        {
+          "distance": 0.2394753098487854,
+          "id": 1729356935
+        },
+        {
+          "distance": 0.24184787273406982,
+          "id": 1729358445
+        },
+        {
+          "distance": 0.25093430280685425,
+          "id": 1729358399
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729356961,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Don't have a cat to keep you up at night?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

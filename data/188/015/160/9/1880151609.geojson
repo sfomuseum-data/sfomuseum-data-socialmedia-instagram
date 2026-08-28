@@ -29,6 +29,50 @@
       "taken": 1656673020,
       "taken_at": "Jul 01, 2022 10:57 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23237377405166626,
+          "id": 1880151553
+        },
+        {
+          "distance": 0.24616390466690063,
+          "id": 1729359753
+        },
+        {
+          "distance": 0.24730205535888672,
+          "id": 1729355475
+        },
+        {
+          "distance": 0.2543346881866455,
+          "id": 1729355461
+        },
+        {
+          "distance": 0.25776439905166626,
+          "id": 1729355461
+        },
+        {
+          "distance": 0.26290231943130493,
+          "id": 1763559127
+        },
+        {
+          "distance": 0.2656629681587219,
+          "id": 1729355475
+        },
+        {
+          "distance": 0.2674279808998108,
+          "id": 1729355465
+        },
+        {
+          "distance": 0.26948636770248413,
+          "id": 1880151553
+        },
+        {
+          "distance": 0.27178698778152466,
+          "id": 1729359753
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880151609,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Did you know SFO has multiple kids’ spots to help your little ones expend excess energy, such as “Tree Town” in Harvey Milk Terminal 1...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

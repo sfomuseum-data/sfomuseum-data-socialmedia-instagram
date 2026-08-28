@@ -30,6 +30,50 @@
       "taken": 1543503180,
       "taken_at": "Nov 29, 2018 2:53 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2417755126953125,
+          "id": 1729358267
+        },
+        {
+          "distance": 0.2420772910118103,
+          "id": 1763558731
+        },
+        {
+          "distance": 0.26059043407440186,
+          "id": 1729355277
+        },
+        {
+          "distance": 0.2686821222305298,
+          "id": 1729361359
+        },
+        {
+          "distance": 0.28261351585388184,
+          "id": 1729355503
+        },
+        {
+          "distance": 0.2845412492752075,
+          "id": 1729360381
+        },
+        {
+          "distance": 0.2870776057243347,
+          "id": 1729360729
+        },
+        {
+          "distance": 0.2871313691139221,
+          "id": 1729358267
+        },
+        {
+          "distance": 0.28864800930023193,
+          "id": 1729357247
+        },
+        {
+          "distance": 0.28872907161712646,
+          "id": 1729355277
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729357295,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777631,
     "wof:name": "The inaugural transpacific Pan American Airways clipper transpacific airmail service from California to Manila, the Philippines, carried 110,865 letters...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -29,6 +29,50 @@
       "taken": 1669114620,
       "taken_at": "Nov 22, 2022 10:57 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16972851753234863,
+          "id": 1729361057
+        },
+        {
+          "distance": 0.18887609243392944,
+          "id": 1729361057
+        },
+        {
+          "distance": 0.19771158695220947,
+          "id": 1729361605
+        },
+        {
+          "distance": 0.21603214740753174,
+          "id": 1880151263
+        },
+        {
+          "distance": 0.23052996397018433,
+          "id": 1763558983
+        },
+        {
+          "distance": 0.23817449808120728,
+          "id": 1729361173
+        },
+        {
+          "distance": 0.26058870553970337,
+          "id": 1729357581
+        },
+        {
+          "distance": 0.261141300201416,
+          "id": 1729361605
+        },
+        {
+          "distance": 0.26527148485183716,
+          "id": 1729361173
+        },
+        {
+          "distance": 0.2662152051925659,
+          "id": 1729359611
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880151313,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "On the afternoon of November 22, 1935, a Pan American Airways Martin M-130 named “China Clipper”, lifted off from the waters of the San Francisco Bay into the sky setting a course for the Philippines...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

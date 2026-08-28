@@ -35,6 +35,50 @@
       "taken": 1576763280,
       "taken_at": "Dec 19, 2019 1:48 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3606133460998535,
+          "id": 1729358467
+        },
+        {
+          "distance": 0.3938203454017639,
+          "id": 1729360001
+        },
+        {
+          "distance": 0.40122371912002563,
+          "id": 1729360805
+        },
+        {
+          "distance": 0.40509140491485596,
+          "id": 1729358467
+        },
+        {
+          "distance": 0.4070316553115845,
+          "id": 1729355767
+        },
+        {
+          "distance": 0.40979665517807007,
+          "id": 1729360805
+        },
+        {
+          "distance": 0.4153045415878296,
+          "id": 1729359463
+        },
+        {
+          "distance": 0.4159560203552246,
+          "id": 1763558679
+        },
+        {
+          "distance": 0.4160236716270447,
+          "id": 1763559581
+        },
+        {
+          "distance": 0.42096585035324097,
+          "id": 1729359739
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729355753,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777627,
     "wof:name": "With multiple holidays coming up, we hope you will find time to gather with loved ones for great company and a good meal...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

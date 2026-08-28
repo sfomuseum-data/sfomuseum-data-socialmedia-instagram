@@ -34,6 +34,50 @@
       "taken": 1586268900,
       "taken_at": "Apr 07, 2020 2:15 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.019472897052764893,
+          "id": 1729355845
+        },
+        {
+          "distance": 0.09059184789657593,
+          "id": 1729355845
+        },
+        {
+          "distance": 0.21442770957946777,
+          "id": 1763558711
+        },
+        {
+          "distance": 0.21442770957946777,
+          "id": 1729359003
+        },
+        {
+          "distance": 0.22967594861984253,
+          "id": 1729361851
+        },
+        {
+          "distance": 0.22967863082885742,
+          "id": 1729359359
+        },
+        {
+          "distance": 0.23227369785308838,
+          "id": 1880151773
+        },
+        {
+          "distance": 0.23363786935806274,
+          "id": 1947424849
+        },
+        {
+          "distance": 0.23804312944412231,
+          "id": 1729357123
+        },
+        {
+          "distance": 0.23920440673828125,
+          "id": 1729358853
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729355357,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777624,
     "wof:name": "Following Pan American World Airways’ introduction of the Boeing 747 in January 1970, BOAC (British Overseas Airways Corporation) received deliveries of the aircraft and launched transatlantic service in April 1971 between London and New York...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

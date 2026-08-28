@@ -31,6 +31,50 @@
       "taken": 1666195440,
       "taken_at": "Oct 19, 2022 4:04 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07657229900360107,
+          "id": 1729357075
+        },
+        {
+          "distance": 0.07779264450073242,
+          "id": 1880151189
+        },
+        {
+          "distance": 0.07877963781356812,
+          "id": 1729355657
+        },
+        {
+          "distance": 0.08839118480682373,
+          "id": 1729358701
+        },
+        {
+          "distance": 0.09033799171447754,
+          "id": 1763558607
+        },
+        {
+          "distance": 0.09217709302902222,
+          "id": 1729361159
+        },
+        {
+          "distance": 0.09446221590042114,
+          "id": 1729356091
+        },
+        {
+          "distance": 0.09882789850234985,
+          "id": 1729355953
+        },
+        {
+          "distance": 0.099429190158844,
+          "id": 1729360319
+        },
+        {
+          "distance": 0.10657072067260742,
+          "id": 1880151445
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151387,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Early airlines, especially in the 1920s and 1930s, struggled to turn a profit without a lucrative airmail route contract...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

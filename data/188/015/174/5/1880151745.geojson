@@ -32,6 +32,50 @@
       "taken": 1652283840,
       "taken_at": "May 11, 2022 3:44 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16285407543182373,
+          "id": 1763559523
+        },
+        {
+          "distance": 0.16737276315689087,
+          "id": 1763559523
+        },
+        {
+          "distance": 0.17141681909561157,
+          "id": 1763559321
+        },
+        {
+          "distance": 0.18084639310836792,
+          "id": 1880151707
+        },
+        {
+          "distance": 0.18217778205871582,
+          "id": 1880151541
+        },
+        {
+          "distance": 0.18581485748291016,
+          "id": 1880151515
+        },
+        {
+          "distance": 0.18871968984603882,
+          "id": 1880151493
+        },
+        {
+          "distance": 0.18986308574676514,
+          "id": 1880151323
+        },
+        {
+          "distance": 0.19581109285354614,
+          "id": 1763559283
+        },
+        {
+          "distance": 0.19843685626983643,
+          "id": 1729355951
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1880151745,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777663,
     "wof:name": "Reproducing historic wallpaper is no easy feat...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

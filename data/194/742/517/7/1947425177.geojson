@@ -27,6 +27,50 @@
       "taken": 1704096480,
       "taken_at": "Jan 01, 2024 8:08 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.40940916538238525,
+          "id": 1729355827
+        },
+        {
+          "distance": 0.4176054000854492,
+          "id": 1729355621
+        },
+        {
+          "distance": 0.42965608835220337,
+          "id": 1729360267
+        },
+        {
+          "distance": 0.43122243881225586,
+          "id": 1880151353
+        },
+        {
+          "distance": 0.4328271150588989,
+          "id": 1729355621
+        },
+        {
+          "distance": 0.4342960715293884,
+          "id": 1729360339
+        },
+        {
+          "distance": 0.43515413999557495,
+          "id": 1729355827
+        },
+        {
+          "distance": 0.4421427845954895,
+          "id": 1729355735
+        },
+        {
+          "distance": 0.44810962677001953,
+          "id": 1880151265
+        },
+        {
+          "distance": 0.4486500024795532,
+          "id": 1880151577
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947425177,
-    "wof:lastmodified": 1733175328,
+    "wof:lastmodified": 1787777664,
     "wof:name": "The Aviation Museum and Library is closed today to observe the new year holiday and will reopen tomorrow Tuesday, January 2 at 10am...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

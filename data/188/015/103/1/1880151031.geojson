@@ -34,6 +34,50 @@
       "taken": 1679487420,
       "taken_at": "Mar 22, 2023 12:17 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11494529247283936,
+          "id": 1763559579
+        },
+        {
+          "distance": 0.1464979648590088,
+          "id": 1763559579
+        },
+        {
+          "distance": 0.21554499864578247,
+          "id": 1880150947
+        },
+        {
+          "distance": 0.21668106317520142,
+          "id": 1947424913
+        },
+        {
+          "distance": 0.22022563219070435,
+          "id": 1729355633
+        },
+        {
+          "distance": 0.23607546091079712,
+          "id": 1947425295
+        },
+        {
+          "distance": 0.23712384700775146,
+          "id": 1947425295
+        },
+        {
+          "distance": 0.24539470672607422,
+          "id": 1947425135
+        },
+        {
+          "distance": 0.24587208032608032,
+          "id": 1729355629
+        },
+        {
+          "distance": 0.2526552081108093,
+          "id": 1729359429
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1880151031,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777661,
     "wof:name": "“The Color of Horizons” by Dana Hemenway recently was awarded first prize by Fiber Art Now for their Fiber Reimagined juried exhibition!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

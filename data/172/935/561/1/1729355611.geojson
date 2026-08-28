@@ -32,6 +32,50 @@
       "taken": 1580397060,
       "taken_at": "Jan 30, 2020 3:11 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2043439745903015,
+          "id": 1729357035
+        },
+        {
+          "distance": 0.20807278156280518,
+          "id": 1729357035
+        },
+        {
+          "distance": 0.2623879909515381,
+          "id": 1729358403
+        },
+        {
+          "distance": 0.28774309158325195,
+          "id": 1729358403
+        },
+        {
+          "distance": 0.31568479537963867,
+          "id": 1729359007
+        },
+        {
+          "distance": 0.31864339113235474,
+          "id": 1729358015
+        },
+        {
+          "distance": 0.32403701543807983,
+          "id": 1729358015
+        },
+        {
+          "distance": 0.3249886631965637,
+          "id": 1729360817
+        },
+        {
+          "distance": 0.32648158073425293,
+          "id": 1729360817
+        },
+        {
+          "distance": 0.3332524299621582,
+          "id": 1729360885
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729355611,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777626,
     "wof:name": "Hawaiian Airlines dates back to before Hawai’i’s statehood; it was incorporated as Inter-Island Airways #onthisday in 1929...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

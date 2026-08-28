@@ -25,6 +25,50 @@
       "taken": 1461746880,
       "taken_at": "Apr 27, 2016 8:48 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17337334156036377,
+          "id": 1729356953
+        },
+        {
+          "distance": 0.17647099494934082,
+          "id": 1729359645
+        },
+        {
+          "distance": 0.1861032247543335,
+          "id": 1729359307
+        },
+        {
+          "distance": 0.19091683626174927,
+          "id": 1729358303
+        },
+        {
+          "distance": 0.1922745704650879,
+          "id": 1729356953
+        },
+        {
+          "distance": 0.2039194107055664,
+          "id": 1729358635
+        },
+        {
+          "distance": 0.2062334418296814,
+          "id": 1729358079
+        },
+        {
+          "distance": 0.2135770320892334,
+          "id": 1729359307
+        },
+        {
+          "distance": 0.2198808193206787,
+          "id": 1729356009
+        },
+        {
+          "distance": 0.2225860357284546,
+          "id": 1729359645
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360781,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Introduced by Pan American World Airways in 1970, the Boeing 747-100 was the first of a new breed of jetliner, the “wide-body,” which ultimately revolutionized the airline industry...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

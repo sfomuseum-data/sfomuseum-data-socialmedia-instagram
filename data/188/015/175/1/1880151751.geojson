@@ -29,6 +29,50 @@
       "taken": 1651677360,
       "taken_at": "May 04, 2022 3:16 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1409105658531189,
+          "id": 1763559349
+        },
+        {
+          "distance": 0.1608617901802063,
+          "id": 1763559349
+        },
+        {
+          "distance": 0.17686939239501953,
+          "id": 1729362989
+        },
+        {
+          "distance": 0.17762553691864014,
+          "id": 1729362977
+        },
+        {
+          "distance": 0.18829816579818726,
+          "id": 1729362977
+        },
+        {
+          "distance": 0.21249163150787354,
+          "id": 1729363007
+        },
+        {
+          "distance": 0.2151671051979065,
+          "id": 1729362983
+        },
+        {
+          "distance": 0.2180877923965454,
+          "id": 1729362989
+        },
+        {
+          "distance": 0.21815508604049683,
+          "id": 1729363007
+        },
+        {
+          "distance": 0.22243309020996094,
+          "id": 1729362983
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880151751,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777663,
     "wof:name": "Composite lenses and precision manufacturing brought microscopes to the forefront of science in the nineteenth century...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -43,6 +43,50 @@
       "taken": 1490376780,
       "taken_at": "Mar 24, 2017 5:33 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3833516836166382,
+          "id": 1729360475
+        },
+        {
+          "distance": 0.3911166191101074,
+          "id": 1729359767
+        },
+        {
+          "distance": 0.3967474699020386,
+          "id": 1947424967
+        },
+        {
+          "distance": 0.40976476669311523,
+          "id": 1947424967
+        },
+        {
+          "distance": 0.4140794277191162,
+          "id": 1729358193
+        },
+        {
+          "distance": 0.4143064022064209,
+          "id": 1763559577
+        },
+        {
+          "distance": 0.41475164890289307,
+          "id": 1729356023
+        },
+        {
+          "distance": 0.41600239276885986,
+          "id": 1729359629
+        },
+        {
+          "distance": 0.4185068607330322,
+          "id": 1763558821
+        },
+        {
+          "distance": 0.4199931025505066,
+          "id": 1729358709
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -72,7 +116,7 @@
       }
     ],
     "wof:id": 1729359677,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "The Nash Motor Company produced the Golden Airflyte...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -89,5 +133,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

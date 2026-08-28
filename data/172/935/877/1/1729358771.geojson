@@ -39,6 +39,50 @@
       "taken": 1514460780,
       "taken_at": "Dec 28, 2017 11:33 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1447356939315796,
+          "id": 1729361171
+        },
+        {
+          "distance": 0.1735876202583313,
+          "id": 1729357593
+        },
+        {
+          "distance": 0.17712658643722534,
+          "id": 1729361171
+        },
+        {
+          "distance": 0.179978609085083,
+          "id": 1763558843
+        },
+        {
+          "distance": 0.1815345287322998,
+          "id": 1729357649
+        },
+        {
+          "distance": 0.18315893411636353,
+          "id": 1729358903
+        },
+        {
+          "distance": 0.19085735082626343,
+          "id": 1729360111
+        },
+        {
+          "distance": 0.19103962182998657,
+          "id": 1729356859
+        },
+        {
+          "distance": 0.19734978675842285,
+          "id": 1729357855
+        },
+        {
+          "distance": 0.20060855150222778,
+          "id": 1729355293
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729358771,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "During World War II, Pan American Airways moved their flying boat operations from Treasure Island to SFO's Seaplane Harbor...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

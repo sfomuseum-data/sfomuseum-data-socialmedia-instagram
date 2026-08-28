@@ -32,6 +32,50 @@
       "taken": 1546205580,
       "taken_at": "Dec 30, 2018 9:33 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23467612266540527,
+          "id": 1729357097
+        },
+        {
+          "distance": 0.24907350540161133,
+          "id": 1729357827
+        },
+        {
+          "distance": 0.2607271671295166,
+          "id": 1729357827
+        },
+        {
+          "distance": 0.26393449306488037,
+          "id": 1729356263
+        },
+        {
+          "distance": 0.26769548654556274,
+          "id": 1729356549
+        },
+        {
+          "distance": 0.27047228813171387,
+          "id": 1729356955
+        },
+        {
+          "distance": 0.2750431299209595,
+          "id": 1729359223
+        },
+        {
+          "distance": 0.2781519293785095,
+          "id": 1729356263
+        },
+        {
+          "distance": 0.2797453999519348,
+          "id": 1763558729
+        },
+        {
+          "distance": 0.2797453999519348,
+          "id": 1729358233
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729357161,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777630,
     "wof:name": "Founded in 1993, San Francisco-based First Exposures is a nationally recognized youth mentoring program that strives to make a long-term difference in the lives of high-need, underserved young people residing in the San Francisco Bay Area...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

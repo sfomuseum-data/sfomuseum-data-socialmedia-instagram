@@ -32,6 +32,50 @@
       "taken": 1583310720,
       "taken_at": "Mar 4, 2020, 8:32 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2124537229537964,
+          "id": 1729359059
+        },
+        {
+          "distance": 0.21918100118637085,
+          "id": 1947425077
+        },
+        {
+          "distance": 0.2240803837776184,
+          "id": 1880150959
+        },
+        {
+          "distance": 0.22547221183776855,
+          "id": 1729355145
+        },
+        {
+          "distance": 0.22729945182800293,
+          "id": 1729356547
+        },
+        {
+          "distance": 0.23612982034683228,
+          "id": 1729355331
+        },
+        {
+          "distance": 0.23724490404129028,
+          "id": 1729355487
+        },
+        {
+          "distance": 0.2378852367401123,
+          "id": 1729359059
+        },
+        {
+          "distance": 0.24140429496765137,
+          "id": 1729355011
+        },
+        {
+          "distance": 0.2534181475639343,
+          "id": 1729355023
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729355493,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777625,
     "wof:name": "“No Other Lands Their Glory Know” by Alice Shaw is a photographic image of a redwood forest on Mount Tamalpais in Marin County, California just north of San Francisco...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

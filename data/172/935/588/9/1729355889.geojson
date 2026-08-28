@@ -29,6 +29,50 @@
       "taken": 1573211280,
       "taken_at": "Nov 08, 2019 11:08 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07692521810531616,
+          "id": 1729356609
+        },
+        {
+          "distance": 0.08198541402816772,
+          "id": 1729356571
+        },
+        {
+          "distance": 0.14245498180389404,
+          "id": 1729356571
+        },
+        {
+          "distance": 0.14522278308868408,
+          "id": 1729356609
+        },
+        {
+          "distance": 0.20495504140853882,
+          "id": 1729356307
+        },
+        {
+          "distance": 0.21449846029281616,
+          "id": 1729356679
+        },
+        {
+          "distance": 0.21845048666000366,
+          "id": 1729356371
+        },
+        {
+          "distance": 0.21915769577026367,
+          "id": 1729356433
+        },
+        {
+          "distance": 0.22571396827697754,
+          "id": 1729356295
+        },
+        {
+          "distance": 0.2298828363418579,
+          "id": 1729356295
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729355889,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777627,
     "wof:name": "Next Saturday, November 16, SFO Museum is presenting a free lecture and guided tour to coincide with our exhibition “The Intriguing World of Insects”...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

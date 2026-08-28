@@ -39,6 +39,50 @@
       "taken": 1541283180,
       "taken_at": "Nov 3, 2018, 10:13 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3533015251159668,
+          "id": 1729356293
+        },
+        {
+          "distance": 0.36209821701049805,
+          "id": 1729356293
+        },
+        {
+          "distance": 0.3668273687362671,
+          "id": 1729356477
+        },
+        {
+          "distance": 0.3730922341346741,
+          "id": 1729357075
+        },
+        {
+          "distance": 0.37414222955703735,
+          "id": 1729361179
+        },
+        {
+          "distance": 0.38232147693634033,
+          "id": 1880151189
+        },
+        {
+          "distance": 0.3846936821937561,
+          "id": 1880151189
+        },
+        {
+          "distance": 0.38807129859924316,
+          "id": 1729358701
+        },
+        {
+          "distance": 0.3925522565841675,
+          "id": 1729355657
+        },
+        {
+          "distance": 0.3930474519729614,
+          "id": 1729361159
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729357427,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777631,
     "wof:name": "Over time, the traditional Cajun waltzes and two-steps played on the accordion fused with rhythm-and-blues, blues, and eventually, rock-and-roll to create a uniquely new Creole sound called zydeco...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

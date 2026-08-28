@@ -35,6 +35,50 @@
       "taken": 1516396920,
       "taken_at": "Jan 19, 2018 9:22 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.26691579818725586,
+          "id": 1763558781
+        },
+        {
+          "distance": 0.26691579818725586,
+          "id": 1729357259
+        },
+        {
+          "distance": 0.2820289134979248,
+          "id": 1729357141
+        },
+        {
+          "distance": 0.2850213646888733,
+          "id": 1729357493
+        },
+        {
+          "distance": 0.2850862145423889,
+          "id": 1729355725
+        },
+        {
+          "distance": 0.28585994243621826,
+          "id": 1947424969
+        },
+        {
+          "distance": 0.28959041833877563,
+          "id": 1729356977
+        },
+        {
+          "distance": 0.29034966230392456,
+          "id": 1729357851
+        },
+        {
+          "distance": 0.29158174991607666,
+          "id": 1729357553
+        },
+        {
+          "distance": 0.293756365776062,
+          "id": 1729357493
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729358679,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "At the intersection of art and aviation: In the mid-1970s, the advertising firm of Dillon, Gordon, Hawkey \u0026 Shortt was hired to refresh Braniff International's brand image...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

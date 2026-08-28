@@ -25,6 +25,50 @@
       "taken": 1470910500,
       "taken_at": "Aug 11, 2016 10:15 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1313604712486267,
+          "id": 1729360463
+        },
+        {
+          "distance": 0.14425665140151978,
+          "id": 1729360023
+        },
+        {
+          "distance": 0.16640973091125488,
+          "id": 1729360383
+        },
+        {
+          "distance": 0.16985857486724854,
+          "id": 1729360065
+        },
+        {
+          "distance": 0.1829770803451538,
+          "id": 1729359735
+        },
+        {
+          "distance": 0.18560534715652466,
+          "id": 1729360463
+        },
+        {
+          "distance": 0.1980111002922058,
+          "id": 1729360293
+        },
+        {
+          "distance": 0.20216798782348633,
+          "id": 1729360327
+        },
+        {
+          "distance": 0.20256459712982178,
+          "id": 1729359735
+        },
+        {
+          "distance": 0.20442503690719604,
+          "id": 1729360383
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360443,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Sir George Leonard Staunton (1737–1801) arrived in China in 1792 as a member of a British delegation...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

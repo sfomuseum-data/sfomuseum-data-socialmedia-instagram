@@ -25,6 +25,50 @@
       "taken": 1340119500,
       "taken_at": "Jun 19, 2012 3:25 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15163946151733398,
+          "id": 1729360517
+        },
+        {
+          "distance": 0.15927666425704956,
+          "id": 1729361865
+        },
+        {
+          "distance": 0.1623678207397461,
+          "id": 1729360517
+        },
+        {
+          "distance": 0.18145698308944702,
+          "id": 1729361865
+        },
+        {
+          "distance": 0.2314710021018982,
+          "id": 1729362273
+        },
+        {
+          "distance": 0.24292534589767456,
+          "id": 1729363029
+        },
+        {
+          "distance": 0.26608002185821533,
+          "id": 1729363029
+        },
+        {
+          "distance": 0.2742265462875366,
+          "id": 1729360945
+        },
+        {
+          "distance": 0.27675479650497437,
+          "id": 1729355799
+        },
+        {
+          "distance": 0.277302622795105,
+          "id": 1729362273
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362995,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777657,
     "wof:name": "James Carpenter's installation in the Intl Term was inspired by the Wright Brothers' first plane!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

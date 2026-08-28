@@ -25,6 +25,50 @@
       "taken": 1484575440,
       "taken_at": "Jan 16, 2017 2:04 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.34273970127105713,
+          "id": 1763559039
+        },
+        {
+          "distance": 0.37256312370300293,
+          "id": 1729359913
+        },
+        {
+          "distance": 0.39328885078430176,
+          "id": 1729361339
+        },
+        {
+          "distance": 0.39519357681274414,
+          "id": 1729359913
+        },
+        {
+          "distance": 0.3952379822731018,
+          "id": 1947425207
+        },
+        {
+          "distance": 0.3960610032081604,
+          "id": 1947425169
+        },
+        {
+          "distance": 0.39741188287734985,
+          "id": 1947424901
+        },
+        {
+          "distance": 0.39895522594451904,
+          "id": 1880151555
+        },
+        {
+          "distance": 0.3991086483001709,
+          "id": 1947425167
+        },
+        {
+          "distance": 0.3998320698738098,
+          "id": 1947425151
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359917,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "The Aviation Museum and Library is closed today to observe Dr. Martin Luther King, Jr. Day...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -27,6 +27,50 @@
       "taken": 1484391840,
       "taken_at": "Jan 14, 2017 11:04 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.251753032207489,
+          "id": 1729359425
+        },
+        {
+          "distance": 0.2546728253364563,
+          "id": 1880151205
+        },
+        {
+          "distance": 0.2585841417312622,
+          "id": 1729356811
+        },
+        {
+          "distance": 0.2637413740158081,
+          "id": 1729358835
+        },
+        {
+          "distance": 0.26741188764572144,
+          "id": 1729359635
+        },
+        {
+          "distance": 0.26744115352630615,
+          "id": 1729360177
+        },
+        {
+          "distance": 0.2681270241737366,
+          "id": 1729362061
+        },
+        {
+          "distance": 0.2711917757987976,
+          "id": 1729358521
+        },
+        {
+          "distance": 0.2802085876464844,
+          "id": 1729356819
+        },
+        {
+          "distance": 0.2820742726325989,
+          "id": 1729362061
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1729359919,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "Parkside Intermediate School serves sixth, seventh, and eighth grade students in the San Bruno Park School District...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -73,5 +117,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

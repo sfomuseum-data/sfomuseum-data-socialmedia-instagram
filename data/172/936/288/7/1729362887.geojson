@@ -25,6 +25,50 @@
       "taken": 1348135020,
       "taken_at": "Sep 20, 2012 9:57 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16856533288955688,
+          "id": 1729362873
+        },
+        {
+          "distance": 0.1998651623725891,
+          "id": 1729362873
+        },
+        {
+          "distance": 0.28661108016967773,
+          "id": 1729362847
+        },
+        {
+          "distance": 0.2890305519104004,
+          "id": 1729362849
+        },
+        {
+          "distance": 0.31317418813705444,
+          "id": 1729362859
+        },
+        {
+          "distance": 0.3217881917953491,
+          "id": 1729362859
+        },
+        {
+          "distance": 0.3230994939804077,
+          "id": 1729362847
+        },
+        {
+          "distance": 0.3633115291595459,
+          "id": 1729362381
+        },
+        {
+          "distance": 0.3696780800819397,
+          "id": 1729362809
+        },
+        {
+          "distance": 0.38377994298934937,
+          "id": 1729356085
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362887,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777654,
     "wof:name": "Details of paintings are also on view in T3!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

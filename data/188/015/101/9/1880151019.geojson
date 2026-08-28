@@ -32,6 +32,50 @@
       "taken": 1680088320,
       "taken_at": "Mar 29, 2023 11:12 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.31499379873275757,
+          "id": 1729355129
+        },
+        {
+          "distance": 0.32940661907196045,
+          "id": 1763559087
+        },
+        {
+          "distance": 0.3342374563217163,
+          "id": 1880151137
+        },
+        {
+          "distance": 0.3406064510345459,
+          "id": 1763559289
+        },
+        {
+          "distance": 0.3452514410018921,
+          "id": 1729360131
+        },
+        {
+          "distance": 0.3502461910247803,
+          "id": 1729360437
+        },
+        {
+          "distance": 0.3518068194389343,
+          "id": 1729359425
+        },
+        {
+          "distance": 0.35233402252197266,
+          "id": 1729355123
+        },
+        {
+          "distance": 0.3540228605270386,
+          "id": 1880151131
+        },
+        {
+          "distance": 0.3554966449737549,
+          "id": 1880151511
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1880151019,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777661,
     "wof:name": "A San Francisco native, Joan Brown (1938-90) was recognized early in her career as a major talent working in the style that became identified as Bay Area Figurative...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

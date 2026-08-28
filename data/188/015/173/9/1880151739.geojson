@@ -30,6 +30,50 @@
       "taken": 1652373780,
       "taken_at": "May 12, 2022 4:43 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1660138964653015,
+          "id": 1880151251
+        },
+        {
+          "distance": 0.17435556650161743,
+          "id": 1880151779
+        },
+        {
+          "distance": 0.1965901255607605,
+          "id": 1880151799
+        },
+        {
+          "distance": 0.20266741514205933,
+          "id": 1729361465
+        },
+        {
+          "distance": 0.21398288011550903,
+          "id": 1763559059
+        },
+        {
+          "distance": 0.22171372175216675,
+          "id": 1880151251
+        },
+        {
+          "distance": 0.22703087329864502,
+          "id": 1729358231
+        },
+        {
+          "distance": 0.23168879747390747,
+          "id": 1880151799
+        },
+        {
+          "distance": 0.23537009954452515,
+          "id": 1729356023
+        },
+        {
+          "distance": 0.2353864312171936,
+          "id": 1729360005
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151739,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777663,
     "wof:name": "Started in 1945 by eleven former members of the Flying Tigers, the nickname for a special operations group of military pilots deployed to China during World War II, the Flying Tiger Line was the first scheduled all-cargo airline in the United States...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

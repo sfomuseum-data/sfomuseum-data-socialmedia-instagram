@@ -29,6 +29,50 @@
       "taken": 1612870860,
       "taken_at": "Feb 09, 2021 11:41 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20637762546539307,
+          "id": 1763558959
+        },
+        {
+          "distance": 0.20828938484191895,
+          "id": 1729359057
+        },
+        {
+          "distance": 0.21431922912597656,
+          "id": 1729355327
+        },
+        {
+          "distance": 0.21708661317825317,
+          "id": 1729361127
+        },
+        {
+          "distance": 0.21883857250213623,
+          "id": 1729359043
+        },
+        {
+          "distance": 0.2253814935684204,
+          "id": 1947424953
+        },
+        {
+          "distance": 0.22576665878295898,
+          "id": 1729358851
+        },
+        {
+          "distance": 0.22876542806625366,
+          "id": 1729356791
+        },
+        {
+          "distance": 0.22982537746429443,
+          "id": 1729361085
+        },
+        {
+          "distance": 0.2312624454498291,
+          "id": 1763558691
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1763558853,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777659,
     "wof:name": "The first flight of the Boeing 727 was #OnThisDay in 1963...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

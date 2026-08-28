@@ -30,6 +30,50 @@
       "taken": 1608553980,
       "taken_at": "Dec 21, 2020 12:33 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.08388811349868774,
+          "id": 1729358851
+        },
+        {
+          "distance": 0.13095873594284058,
+          "id": 1880151167
+        },
+        {
+          "distance": 0.13402622938156128,
+          "id": 1729358851
+        },
+        {
+          "distance": 0.14948898553848267,
+          "id": 1729355133
+        },
+        {
+          "distance": 0.1571660041809082,
+          "id": 1947424953
+        },
+        {
+          "distance": 0.15760445594787598,
+          "id": 1729358863
+        },
+        {
+          "distance": 0.15943926572799683,
+          "id": 1729355165
+        },
+        {
+          "distance": 0.16271263360977173,
+          "id": 1729361019
+        },
+        {
+          "distance": 0.1665077805519104,
+          "id": 1729360247
+        },
+        {
+          "distance": 0.17443537712097168,
+          "id": 1729357215
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763558959,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "#OnThisDay in 1969, the first widebody jet landed at San Francisco International Airport...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

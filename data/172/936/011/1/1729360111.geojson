@@ -25,6 +25,50 @@
       "taken": 1479204240,
       "taken_at": "Nov 15, 2016 10:04 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0492168664932251,
+          "id": 1729358903
+        },
+        {
+          "distance": 0.12841284275054932,
+          "id": 1729358903
+        },
+        {
+          "distance": 0.14451974630355835,
+          "id": 1729361143
+        },
+        {
+          "distance": 0.1542568802833557,
+          "id": 1729357513
+        },
+        {
+          "distance": 0.15514546632766724,
+          "id": 1763559233
+        },
+        {
+          "distance": 0.15955746173858643,
+          "id": 1729360851
+        },
+        {
+          "distance": 0.16119563579559326,
+          "id": 1729361143
+        },
+        {
+          "distance": 0.16515129804611206,
+          "id": 1729357513
+        },
+        {
+          "distance": 0.16768085956573486,
+          "id": 1729355887
+        },
+        {
+          "distance": 0.16977590322494507,
+          "id": 1880151329
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360111,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "#Onthisday in 1940, the Coast Guard Air Station San Francisco was commissioned at San Francisco Airport...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

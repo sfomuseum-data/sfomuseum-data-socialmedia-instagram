@@ -38,6 +38,50 @@
       "taken": 1532094000,
       "taken_at": "Jul 20, 2018 1:40 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13094818592071533,
+          "id": 1729357243
+        },
+        {
+          "distance": 0.1315785050392151,
+          "id": 1729359501
+        },
+        {
+          "distance": 0.15749871730804443,
+          "id": 1729356143
+        },
+        {
+          "distance": 0.16433793306350708,
+          "id": 1729357243
+        },
+        {
+          "distance": 0.165097177028656,
+          "id": 1729356143
+        },
+        {
+          "distance": 0.16675007343292236,
+          "id": 1729357189
+        },
+        {
+          "distance": 0.19783371686935425,
+          "id": 1729361573
+        },
+        {
+          "distance": 0.2001139521598816,
+          "id": 1729356749
+        },
+        {
+          "distance": 0.2051318883895874,
+          "id": 1729356749
+        },
+        {
+          "distance": 0.2068784236907959,
+          "id": 1729357751
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729357925,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Have you ever seen the cockpit of an Ilyushin Il-86?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1445502180,
       "taken_at": "Oct 22, 2015 8:23 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16974252462387085,
+          "id": 1729358211
+        },
+        {
+          "distance": 0.17522382736206055,
+          "id": 1729358531
+        },
+        {
+          "distance": 0.17681336402893066,
+          "id": 1729358211
+        },
+        {
+          "distance": 0.18371480703353882,
+          "id": 1729357609
+        },
+        {
+          "distance": 0.18492001295089722,
+          "id": 1729358383
+        },
+        {
+          "distance": 0.18605923652648926,
+          "id": 1729357069
+        },
+        {
+          "distance": 0.1887056827545166,
+          "id": 1729357959
+        },
+        {
+          "distance": 0.19019418954849243,
+          "id": 1729357493
+        },
+        {
+          "distance": 0.19612514972686768,
+          "id": 1729358313
+        },
+        {
+          "distance": 0.19612687826156616,
+          "id": 1729357669
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361433,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "Within the aircraft model making community, Edward Chavez is a recognized master...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

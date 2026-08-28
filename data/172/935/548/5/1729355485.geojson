@@ -33,6 +33,50 @@
       "taken": 1583344500,
       "taken_at": "Mar 4, 2020, 5:55 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1485382318496704,
+          "id": 1729355423
+        },
+        {
+          "distance": 0.21864336729049683,
+          "id": 1729356151
+        },
+        {
+          "distance": 0.2199486494064331,
+          "id": 1729355423
+        },
+        {
+          "distance": 0.23767715692520142,
+          "id": 1729356169
+        },
+        {
+          "distance": 0.23978447914123535,
+          "id": 1729355479
+        },
+        {
+          "distance": 0.24385994672775269,
+          "id": 1729356139
+        },
+        {
+          "distance": 0.24450081586837769,
+          "id": 1729356169
+        },
+        {
+          "distance": 0.25305312871932983,
+          "id": 1729356253
+        },
+        {
+          "distance": 0.26445716619491577,
+          "id": 1729356279
+        },
+        {
+          "distance": 0.28896284103393555,
+          "id": 1729355425
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729355485,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777625,
     "wof:name": "Eldorado (1849), one of the most popular scenic wallpapers created by Zuber et Cie, showcases the continents of Africa, Asia, Europe, and North America through both natural scenery and stunning architectural elements...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -31,6 +31,50 @@
       "taken": 1565193720,
       "taken_at": "Aug 7, 2019, 4:02 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.005652368068695068,
+          "id": 1763558813
+        },
+        {
+          "distance": 0.12046563625335693,
+          "id": 1763558813
+        },
+        {
+          "distance": 0.2690216898918152,
+          "id": 1729356765
+        },
+        {
+          "distance": 0.2766970992088318,
+          "id": 1729358989
+        },
+        {
+          "distance": 0.2838480472564697,
+          "id": 1729360355
+        },
+        {
+          "distance": 0.2881295680999756,
+          "id": 1729358359
+        },
+        {
+          "distance": 0.291695773601532,
+          "id": 1729357825
+        },
+        {
+          "distance": 0.2928938865661621,
+          "id": 1729356513
+        },
+        {
+          "distance": 0.2988007664680481,
+          "id": 1729358989
+        },
+        {
+          "distance": 0.2995116114616394,
+          "id": 1729359439
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729356227,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777628,
     "wof:name": "In the 1930s, irons were redesigned with clean, curved housings reminiscent of streamlined train cars...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

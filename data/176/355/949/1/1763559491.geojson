@@ -31,6 +31,50 @@
       "taken": 1649688960,
       "taken_at": "Apr 11, 2022 2:56 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12739145755767822,
+          "id": 1729357397
+        },
+        {
+          "distance": 0.16819345951080322,
+          "id": 1729357397
+        },
+        {
+          "distance": 0.17726898193359375,
+          "id": 1763559537
+        },
+        {
+          "distance": 0.17994707822799683,
+          "id": 1729360519
+        },
+        {
+          "distance": 0.20759403705596924,
+          "id": 1729360519
+        },
+        {
+          "distance": 0.21127527952194214,
+          "id": 1763559537
+        },
+        {
+          "distance": 0.2247319221496582,
+          "id": 1729360257
+        },
+        {
+          "distance": 0.22545844316482544,
+          "id": 1729357403
+        },
+        {
+          "distance": 0.2266811728477478,
+          "id": 1880151177
+        },
+        {
+          "distance": 0.22677767276763916,
+          "id": 1880151465
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559491,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Happy birthday to Oleg Cassini!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

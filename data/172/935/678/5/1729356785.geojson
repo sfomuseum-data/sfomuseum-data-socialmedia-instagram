@@ -36,6 +36,50 @@
       "taken": 1553504400,
       "taken_at": "Mar 25, 2019, 9:00 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09381204843521118,
+          "id": 1729356787
+        },
+        {
+          "distance": 0.1339893937110901,
+          "id": 1729356787
+        },
+        {
+          "distance": 0.13890403509140015,
+          "id": 1729356773
+        },
+        {
+          "distance": 0.17043536901474,
+          "id": 1729356773
+        },
+        {
+          "distance": 0.20516717433929443,
+          "id": 1729355401
+        },
+        {
+          "distance": 0.22570544481277466,
+          "id": 1729355141
+        },
+        {
+          "distance": 0.23076331615447998,
+          "id": 1729355379
+        },
+        {
+          "distance": 0.24475115537643433,
+          "id": 1729355379
+        },
+        {
+          "distance": 0.27582788467407227,
+          "id": 1729362075
+        },
+        {
+          "distance": 0.27721744775772095,
+          "id": 1729355125
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729356785,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "“Early morning and looking out of the airplane window, watching as the mist rises from the peaks and valleys below...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

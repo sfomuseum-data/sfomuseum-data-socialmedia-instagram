@@ -25,6 +25,50 @@
       "taken": 1459931340,
       "taken_at": "Apr 06, 2016 8:29 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0018994808197021484,
+          "id": 1729359337
+        },
+        {
+          "distance": 0.0031828880310058594,
+          "id": 1729355365
+        },
+        {
+          "distance": 0.12136703729629517,
+          "id": 1729355365
+        },
+        {
+          "distance": 0.12321329116821289,
+          "id": 1729359337
+        },
+        {
+          "distance": 0.1913667917251587,
+          "id": 1729358203
+        },
+        {
+          "distance": 0.1967012882232666,
+          "id": 1729356643
+        },
+        {
+          "distance": 0.20569604635238647,
+          "id": 1729356707
+        },
+        {
+          "distance": 0.20677471160888672,
+          "id": 1729362189
+        },
+        {
+          "distance": 0.20776081085205078,
+          "id": 1729358371
+        },
+        {
+          "distance": 0.21037644147872925,
+          "id": 1729359651
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360857,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Happy 90th Birthday United Airlines!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

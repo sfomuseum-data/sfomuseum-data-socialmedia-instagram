@@ -35,6 +35,50 @@
       "taken": 1528200480,
       "taken_at": "Jun 05, 2018 12:08 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16536259651184082,
+          "id": 1763558873
+        },
+        {
+          "distance": 0.1659216284751892,
+          "id": 1729359695
+        },
+        {
+          "distance": 0.16874361038208008,
+          "id": 1729355871
+        },
+        {
+          "distance": 0.18150430917739868,
+          "id": 1880151169
+        },
+        {
+          "distance": 0.19128406047821045,
+          "id": 1880151229
+        },
+        {
+          "distance": 0.19329965114593506,
+          "id": 1729355871
+        },
+        {
+          "distance": 0.19611656665802002,
+          "id": 1763558939
+        },
+        {
+          "distance": 0.19768625497817993,
+          "id": 1729356541
+        },
+        {
+          "distance": 0.2014748454093933,
+          "id": 1729359695
+        },
+        {
+          "distance": 0.20313632488250732,
+          "id": 1729357041
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729358153,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "#Onthisday in 1934, Pan American Airways received its first Sikorsky S-42...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

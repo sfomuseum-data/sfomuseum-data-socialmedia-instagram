@@ -25,6 +25,50 @@
       "taken": 1459242120,
       "taken_at": "Mar 29, 2016 9:02 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.33849775791168213,
+          "id": 1729361737
+        },
+        {
+          "distance": 0.3420763611793518,
+          "id": 1729360385
+        },
+        {
+          "distance": 0.34727203845977783,
+          "id": 1729361155
+        },
+        {
+          "distance": 0.3545128107070923,
+          "id": 1729361233
+        },
+        {
+          "distance": 0.35666877031326294,
+          "id": 1729361343
+        },
+        {
+          "distance": 0.3570902943611145,
+          "id": 1729361233
+        },
+        {
+          "distance": 0.3656158447265625,
+          "id": 1729361343
+        },
+        {
+          "distance": 0.36773961782455444,
+          "id": 1729356941
+        },
+        {
+          "distance": 0.3685078024864197,
+          "id": 1729361905
+        },
+        {
+          "distance": 0.36959367990493774,
+          "id": 1729362269
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360887,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "After three years of storyboarding and re-storyboarding, capturing the characters through the voices of actors seems like it should be a straightforward venture—actors come to the studio, read their lines, and go home...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

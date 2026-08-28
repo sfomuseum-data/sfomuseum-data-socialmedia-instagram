@@ -39,6 +39,50 @@
       "taken": 1497177660,
       "taken_at": "Jun 11, 2017 10:41 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11728101968765259,
+          "id": 1729355023
+        },
+        {
+          "distance": 0.16215193271636963,
+          "id": 1729357545
+        },
+        {
+          "distance": 0.16575324535369873,
+          "id": 1729357097
+        },
+        {
+          "distance": 0.16827255487442017,
+          "id": 1729361875
+        },
+        {
+          "distance": 0.169985830783844,
+          "id": 1729357429
+        },
+        {
+          "distance": 0.20674067735671997,
+          "id": 1729356547
+        },
+        {
+          "distance": 0.21378952264785767,
+          "id": 1729356811
+        },
+        {
+          "distance": 0.2252635359764099,
+          "id": 1729356549
+        },
+        {
+          "distance": 0.2290555238723755,
+          "id": 1729358233
+        },
+        {
+          "distance": 0.2290555238723755,
+          "id": 1763558729
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729359427,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Human vision allows for the perception of only a minute portion of the electromagnetic spectrum—we see this as visible light in a range of color, from violet on one end of the visible spectrum to red on the other...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

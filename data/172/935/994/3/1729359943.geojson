@@ -32,6 +32,50 @@
       "taken": 1484045820,
       "taken_at": "Jan 10, 2017 10:57 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2000293731689453,
+          "id": 1763559365
+        },
+        {
+          "distance": 0.2236698865890503,
+          "id": 1729355873
+        },
+        {
+          "distance": 0.22455734014511108,
+          "id": 1729355683
+        },
+        {
+          "distance": 0.2266327142715454,
+          "id": 1729360469
+        },
+        {
+          "distance": 0.23432356119155884,
+          "id": 1729358895
+        },
+        {
+          "distance": 0.23458534479141235,
+          "id": 1729357345
+        },
+        {
+          "distance": 0.2362193465232849,
+          "id": 1729357561
+        },
+        {
+          "distance": 0.23668742179870605,
+          "id": 1729358895
+        },
+        {
+          "distance": 0.24698424339294434,
+          "id": 1729360469
+        },
+        {
+          "distance": 0.24751287698745728,
+          "id": 1729356033
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729359943,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "#Onthisday, the first McDonnell Douglas MD-11 took flight in 1990...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

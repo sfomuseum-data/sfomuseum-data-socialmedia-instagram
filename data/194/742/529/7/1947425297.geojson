@@ -25,6 +25,50 @@
       "taken": 1695053280,
       "taken_at": "Sep 18, 2023 4:08 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0959160327911377,
+          "id": 1880151393
+        },
+        {
+          "distance": 0.09830456972122192,
+          "id": 1880151337
+        },
+        {
+          "distance": 0.11364656686782837,
+          "id": 1880151393
+        },
+        {
+          "distance": 0.11711788177490234,
+          "id": 1729358531
+        },
+        {
+          "distance": 0.12680411338806152,
+          "id": 1729357069
+        },
+        {
+          "distance": 0.12703293561935425,
+          "id": 1947425021
+        },
+        {
+          "distance": 0.13366973400115967,
+          "id": 1729358085
+        },
+        {
+          "distance": 0.13802427053451538,
+          "id": 1947424895
+        },
+        {
+          "distance": 0.14011543989181519,
+          "id": 1763558767
+        },
+        {
+          "distance": 0.14011543989181519,
+          "id": 1729357631
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -53,7 +97,7 @@
       }
     ],
     "wof:id": 1947425297,
-    "wof:lastmodified": 1733175331,
+    "wof:lastmodified": 1787777664,
     "wof:name": "On this day in 1959, the DC-8 entered service with Delta Air Lines and United Air Lines...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -67,5 +111,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

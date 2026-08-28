@@ -37,6 +37,50 @@
       "taken": 1534241940,
       "taken_at": "Aug 14, 2018 10:19 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17768263816833496,
+          "id": 1880151527
+        },
+        {
+          "distance": 0.18917721509933472,
+          "id": 1729355133
+        },
+        {
+          "distance": 0.1912374496459961,
+          "id": 1729359895
+        },
+        {
+          "distance": 0.1912374496459961,
+          "id": 1763558657
+        },
+        {
+          "distance": 0.20294958353042603,
+          "id": 1729355133
+        },
+        {
+          "distance": 0.20470964908599854,
+          "id": 1729358851
+        },
+        {
+          "distance": 0.20483750104904175,
+          "id": 1729358929
+        },
+        {
+          "distance": 0.20559120178222656,
+          "id": 1729360117
+        },
+        {
+          "distance": 0.20660185813903809,
+          "id": 1763558705
+        },
+        {
+          "distance": 0.2088133692741394,
+          "id": 1729360117
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729357781,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "#OnThisDay in 1971, the first of this type of aircraft service started at San Francisco International Airport (SFO)...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

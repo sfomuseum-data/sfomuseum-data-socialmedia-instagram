@@ -26,6 +26,50 @@
       "taken": 1487974320,
       "taken_at": "Feb 24, 2017, 10:12 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.00002384185791015625,
+          "id": 1763558651
+        },
+        {
+          "distance": 0.1231299638748169,
+          "id": 1763558651
+        },
+        {
+          "distance": 0.3537454605102539,
+          "id": 1729361397
+        },
+        {
+          "distance": 0.3616846799850464,
+          "id": 1729361397
+        },
+        {
+          "distance": 0.3696204423904419,
+          "id": 1729360617
+        },
+        {
+          "distance": 0.37088942527770996,
+          "id": 1729360969
+        },
+        {
+          "distance": 0.37260979413986206,
+          "id": 1729360457
+        },
+        {
+          "distance": 0.3730694055557251,
+          "id": 1729362039
+        },
+        {
+          "distance": 0.37511545419692993,
+          "id": 1880151359
+        },
+        {
+          "distance": 0.3802696466445923,
+          "id": 1729359947
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1729359787,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777636,
     "wof:name": "This Airmail flight cover promoting the 1939 Golden Gate International Exposition honoring National Air Mail Week was postmarked on May 15, 1938...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

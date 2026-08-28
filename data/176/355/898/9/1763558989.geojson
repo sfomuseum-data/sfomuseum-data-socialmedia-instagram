@@ -29,6 +29,50 @@
       "taken": 1606231260,
       "taken_at": "Nov 24, 2020 3:21 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18580520153045654,
+          "id": 1729360099
+        },
+        {
+          "distance": 0.2125415802001953,
+          "id": 1729360099
+        },
+        {
+          "distance": 0.28196364641189575,
+          "id": 1729360867
+        },
+        {
+          "distance": 0.283926784992218,
+          "id": 1729355197
+        },
+        {
+          "distance": 0.28474098443984985,
+          "id": 1729357961
+        },
+        {
+          "distance": 0.28595900535583496,
+          "id": 1729359319
+        },
+        {
+          "distance": 0.29501616954803467,
+          "id": 1947424859
+        },
+        {
+          "distance": 0.30487364530563354,
+          "id": 1729359931
+        },
+        {
+          "distance": 0.305325984954834,
+          "id": 1729359931
+        },
+        {
+          "distance": 0.3256778120994568,
+          "id": 1947424859
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1763558989,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Britain's former international flag carrier airline, British Overseas Airways Corporation, or BOAC was founded by an Act of the British Parliament #onthisday in 1939...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

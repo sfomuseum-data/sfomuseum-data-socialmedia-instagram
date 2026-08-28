@@ -25,6 +25,50 @@
       "taken": 1450429500,
       "taken_at": "Dec 18, 2015 9:05 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2884800434112549,
+          "id": 1729361153
+        },
+        {
+          "distance": 0.3059777021408081,
+          "id": 1729358293
+        },
+        {
+          "distance": 0.31030839681625366,
+          "id": 1729355269
+        },
+        {
+          "distance": 0.3121204972267151,
+          "id": 1729360551
+        },
+        {
+          "distance": 0.31245577335357666,
+          "id": 1729358243
+        },
+        {
+          "distance": 0.3131372928619385,
+          "id": 1729361017
+        },
+        {
+          "distance": 0.31341874599456787,
+          "id": 1763558837
+        },
+        {
+          "distance": 0.3138777017593384,
+          "id": 1729360171
+        },
+        {
+          "distance": 0.31831657886505127,
+          "id": 1729355269
+        },
+        {
+          "distance": 0.3195616602897644,
+          "id": 1763558837
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361257,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "Air California (later renamed AirCal) was founded in 1965 by a group of Orange County businessmen, but after two decades of operation, the airline was acquired by American Airlines...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

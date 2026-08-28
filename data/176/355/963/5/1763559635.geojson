@@ -33,6 +33,50 @@
       "taken": 1643387160,
       "taken_at": "Jan 28, 2022 4:26 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07702422142028809,
+          "id": 1729355055
+        },
+        {
+          "distance": 0.11984622478485107,
+          "id": 1729355055
+        },
+        {
+          "distance": 0.1717967391014099,
+          "id": 1729355065
+        },
+        {
+          "distance": 0.19262981414794922,
+          "id": 1729355065
+        },
+        {
+          "distance": 0.22634154558181763,
+          "id": 1880151677
+        },
+        {
+          "distance": 0.23183435201644897,
+          "id": 1729355045
+        },
+        {
+          "distance": 0.2330489158630371,
+          "id": 1729355057
+        },
+        {
+          "distance": 0.23367047309875488,
+          "id": 1880151103
+        },
+        {
+          "distance": 0.24598121643066406,
+          "id": 1880151103
+        },
+        {
+          "distance": 0.25250744819641113,
+          "id": 1880151783
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1763559635,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Congratulations to Woody De Othello for his forthcoming participation in the 2022 Whitney Biennial!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

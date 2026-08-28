@@ -25,6 +25,50 @@
       "taken": 1350904080,
       "taken_at": "Oct 22, 2012 11:08 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1865835189819336,
+          "id": 1729362831
+        },
+        {
+          "distance": 0.22965747117996216,
+          "id": 1729362831
+        },
+        {
+          "distance": 0.28703439235687256,
+          "id": 1729362259
+        },
+        {
+          "distance": 0.29049909114837646,
+          "id": 1729362119
+        },
+        {
+          "distance": 0.31049948930740356,
+          "id": 1729362451
+        },
+        {
+          "distance": 0.3137524127960205,
+          "id": 1729363033
+        },
+        {
+          "distance": 0.3141685724258423,
+          "id": 1729362963
+        },
+        {
+          "distance": 0.3198050856590271,
+          "id": 1729362581
+        },
+        {
+          "distance": 0.3208971619606018,
+          "id": 1729362617
+        },
+        {
+          "distance": 0.32246583700180054,
+          "id": 1729362761
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362865,
-    "wof:lastmodified": 1733175351,
+    "wof:lastmodified": 1787777654,
     "wof:name": "Our archives have their hands full, working on a new gift!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

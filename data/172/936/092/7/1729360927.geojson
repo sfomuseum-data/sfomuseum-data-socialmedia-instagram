@@ -25,6 +25,50 @@
       "taken": 1458207960,
       "taken_at": "Mar 17, 2016 9:46 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.4441866874694824,
+          "id": 1729357539
+        },
+        {
+          "distance": 0.4588560461997986,
+          "id": 1729357539
+        },
+        {
+          "distance": 0.45946377515792847,
+          "id": 1880151505
+        },
+        {
+          "distance": 0.46027928590774536,
+          "id": 1729360703
+        },
+        {
+          "distance": 0.46077436208724976,
+          "id": 1729360861
+        },
+        {
+          "distance": 0.46671611070632935,
+          "id": 1763559557
+        },
+        {
+          "distance": 0.4682292342185974,
+          "id": 1763559633
+        },
+        {
+          "distance": 0.4727475643157959,
+          "id": 1729360939
+        },
+        {
+          "distance": 0.4727475643157959,
+          "id": 1763558617
+        },
+        {
+          "distance": 0.4741489887237549,
+          "id": 1729360155
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360927,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "On multi-stop journeys, airlines would pass out seat occupied cards to passengers in case they wished to temporarily disembark the aircraft at an airport along the way...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

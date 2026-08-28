@@ -37,6 +37,50 @@
       "taken": 1497531480,
       "taken_at": "Jun 15, 2017 12:58 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.000023365020751953125,
+          "id": 1729359069
+        },
+        {
+          "distance": 0.08511537313461304,
+          "id": 1729359069
+        },
+        {
+          "distance": 0.2614259719848633,
+          "id": 1729359037
+        },
+        {
+          "distance": 0.2747500538825989,
+          "id": 1729359525
+        },
+        {
+          "distance": 0.2819048762321472,
+          "id": 1729359525
+        },
+        {
+          "distance": 0.28424787521362305,
+          "id": 1729359037
+        },
+        {
+          "distance": 0.3002767562866211,
+          "id": 1729359499
+        },
+        {
+          "distance": 0.3196486830711365,
+          "id": 1729357595
+        },
+        {
+          "distance": 0.3293881416320801,
+          "id": 1729361149
+        },
+        {
+          "distance": 0.33518916368484497,
+          "id": 1729360725
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729359409,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "The Saturday Evening Girls Club began as a library reading group under the guidance of librarian Edith Guerrier (1870–1958) in Boston’s North End in 1899...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

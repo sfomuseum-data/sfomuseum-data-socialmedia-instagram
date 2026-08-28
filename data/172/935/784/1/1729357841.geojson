@@ -35,6 +35,50 @@
       "taken": 1533042780,
       "taken_at": "Jul 31, 2018 1:13 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07470834255218506,
+          "id": 1729360561
+        },
+        {
+          "distance": 0.09391617774963379,
+          "id": 1729356091
+        },
+        {
+          "distance": 0.09614616632461548,
+          "id": 1729360319
+        },
+        {
+          "distance": 0.0990520715713501,
+          "id": 1729361029
+        },
+        {
+          "distance": 0.0991315245628357,
+          "id": 1880151445
+        },
+        {
+          "distance": 0.10917311906814575,
+          "id": 1729361029
+        },
+        {
+          "distance": 0.11099374294281006,
+          "id": 1880151387
+        },
+        {
+          "distance": 0.11571919918060303,
+          "id": 1880151189
+        },
+        {
+          "distance": 0.11746543645858765,
+          "id": 1729358701
+        },
+        {
+          "distance": 0.12278085947036743,
+          "id": 1729357075
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729357841,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "#Onthisday in 1931, Century Pacific Air Lines began service from San Francisco to San Diego, via Oakland, Fresno, Bakersfield, and Los Angeles...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -30,6 +30,50 @@
       "taken": 1656098820,
       "taken_at": "Jun 24, 2022 7:27 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.04782921075820923,
+          "id": 1729355199
+        },
+        {
+          "distance": 0.10789674520492554,
+          "id": 1729355199
+        },
+        {
+          "distance": 0.2891257405281067,
+          "id": 1729359757
+        },
+        {
+          "distance": 0.2986212372779846,
+          "id": 1729356031
+        },
+        {
+          "distance": 0.30699676275253296,
+          "id": 1729360547
+        },
+        {
+          "distance": 0.31044721603393555,
+          "id": 1729355501
+        },
+        {
+          "distance": 0.31464701890945435,
+          "id": 1729355987
+        },
+        {
+          "distance": 0.31560230255126953,
+          "id": 1763558831
+        },
+        {
+          "distance": 0.31707239151000977,
+          "id": 1729355725
+        },
+        {
+          "distance": 0.31782716512680054,
+          "id": 1729360653
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151635,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Happy Pride Weekend from SFO Museum!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

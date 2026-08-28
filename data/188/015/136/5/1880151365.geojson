@@ -29,6 +29,50 @@
       "taken": 1667316960,
       "taken_at": "Nov 01, 2022 3:36 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3186855912208557,
+          "id": 1880150959
+        },
+        {
+          "distance": 0.33640623092651367,
+          "id": 1729358827
+        },
+        {
+          "distance": 0.33699023723602295,
+          "id": 1763559563
+        },
+        {
+          "distance": 0.33817529678344727,
+          "id": 1729355707
+        },
+        {
+          "distance": 0.3440336585044861,
+          "id": 1729358483
+        },
+        {
+          "distance": 0.3461494445800781,
+          "id": 1880151607
+        },
+        {
+          "distance": 0.3466153144836426,
+          "id": 1729358483
+        },
+        {
+          "distance": 0.3483986258506775,
+          "id": 1880151607
+        },
+        {
+          "distance": 0.35055863857269287,
+          "id": 1729358827
+        },
+        {
+          "distance": 0.3522002696990967,
+          "id": 1763559129
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880151365,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "In “On the Air” by Lewis deSoto, one can literally traverse the earth, walking “on the air” and tracing a path from location to location...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

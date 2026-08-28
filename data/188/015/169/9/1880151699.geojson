@@ -29,6 +29,50 @@
       "taken": 1654254900,
       "taken_at": "Jun 03, 2022 11:15 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.5374517440795898,
+          "id": 1729362131
+        },
+        {
+          "distance": 0.5620747208595276,
+          "id": 1729362247
+        },
+        {
+          "distance": 0.5684482455253601,
+          "id": 1729362131
+        },
+        {
+          "distance": 0.5711748600006104,
+          "id": 1729355731
+        },
+        {
+          "distance": 0.5862479209899902,
+          "id": 1729357937
+        },
+        {
+          "distance": 0.5877281427383423,
+          "id": 1880150929
+        },
+        {
+          "distance": 0.5981234312057495,
+          "id": 1763559503
+        },
+        {
+          "distance": 0.5986204147338867,
+          "id": 1880150929
+        },
+        {
+          "distance": 0.6060240268707275,
+          "id": 1880151787
+        },
+        {
+          "distance": 0.6116431951522827,
+          "id": 1763559503
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880151699,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777663,
     "wof:name": "Happy National Donut Day!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

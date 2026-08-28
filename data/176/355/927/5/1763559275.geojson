@@ -29,6 +29,50 @@
       "taken": 1638809280,
       "taken_at": "Dec 06, 2021 4:48 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14778685569763184,
+          "id": 1729360847
+        },
+        {
+          "distance": 0.17364174127578735,
+          "id": 1729357215
+        },
+        {
+          "distance": 0.17610406875610352,
+          "id": 1763559547
+        },
+        {
+          "distance": 0.17730027437210083,
+          "id": 1729358863
+        },
+        {
+          "distance": 0.18094056844711304,
+          "id": 1729360847
+        },
+        {
+          "distance": 0.18395066261291504,
+          "id": 1729355293
+        },
+        {
+          "distance": 0.18411701917648315,
+          "id": 1729359361
+        },
+        {
+          "distance": 0.18639087677001953,
+          "id": 1763558843
+        },
+        {
+          "distance": 0.1866557002067566,
+          "id": 1729360005
+        },
+        {
+          "distance": 0.18700957298278809,
+          "id": 1729358009
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1763559275,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Each airport around the world is assigned a three-letter IATA (International Air Transport Association) code to make them easily and quickly identifiable...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

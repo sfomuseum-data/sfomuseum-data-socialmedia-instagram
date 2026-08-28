@@ -32,6 +32,50 @@
       "taken": 1623774840,
       "taken_at": "Jun 15, 2021 4:34 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.21958619356155396,
+          "id": 1763559111
+        },
+        {
+          "distance": 0.2245492935180664,
+          "id": 1763558859
+        },
+        {
+          "distance": 0.23076313734054565,
+          "id": 1763559251
+        },
+        {
+          "distance": 0.23135626316070557,
+          "id": 1763559111
+        },
+        {
+          "distance": 0.2318286895751953,
+          "id": 1763558891
+        },
+        {
+          "distance": 0.24275553226470947,
+          "id": 1763559145
+        },
+        {
+          "distance": 0.24349582195281982,
+          "id": 1729356275
+        },
+        {
+          "distance": 0.24396538734436035,
+          "id": 1763558859
+        },
+        {
+          "distance": 0.25068020820617676,
+          "id": 1763559145
+        },
+        {
+          "distance": 0.25290626287460327,
+          "id": 1729356275
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1763559103,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "For many guitarists, customized gear is essential to the look and sound of surf music...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

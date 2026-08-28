@@ -30,6 +30,50 @@
       "taken": 1637773620,
       "taken_at": "Nov 24, 2021 5:07 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20733940601348877,
+          "id": 1729360353
+        },
+        {
+          "distance": 0.21003997325897217,
+          "id": 1729357689
+        },
+        {
+          "distance": 0.2219427227973938,
+          "id": 1729356121
+        },
+        {
+          "distance": 0.22288644313812256,
+          "id": 1729357689
+        },
+        {
+          "distance": 0.22487449645996094,
+          "id": 1729356121
+        },
+        {
+          "distance": 0.2326749563217163,
+          "id": 1729360353
+        },
+        {
+          "distance": 0.23277807235717773,
+          "id": 1763559183
+        },
+        {
+          "distance": 0.24621587991714478,
+          "id": 1729360221
+        },
+        {
+          "distance": 0.25258302688598633,
+          "id": 1729360221
+        },
+        {
+          "distance": 0.2541295289993286,
+          "id": 1880150999
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559299,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "The A350 is Airbus’ most recent long-range, wide-body twin-engine jet airliner...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

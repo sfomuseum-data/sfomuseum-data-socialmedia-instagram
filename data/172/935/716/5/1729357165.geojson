@@ -35,6 +35,50 @@
       "taken": 1546013460,
       "taken_at": "Dec 28, 2018, 4:11 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.000023186206817626953,
+          "id": 1763558803
+        },
+        {
+          "distance": 0.044216156005859375,
+          "id": 1729357071
+        },
+        {
+          "distance": 0.11531174182891846,
+          "id": 1763558803
+        },
+        {
+          "distance": 0.11595731973648071,
+          "id": 1729357071
+        },
+        {
+          "distance": 0.1461493968963623,
+          "id": 1729356997
+        },
+        {
+          "distance": 0.17046397924423218,
+          "id": 1729357385
+        },
+        {
+          "distance": 0.17069441080093384,
+          "id": 1729356631
+        },
+        {
+          "distance": 0.17814010381698608,
+          "id": 1729357321
+        },
+        {
+          "distance": 0.19231849908828735,
+          "id": 1729357385
+        },
+        {
+          "distance": 0.19781076908111572,
+          "id": 1729356607
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729357165,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777630,
     "wof:name": "Martyn Pugh is a designer-silversmith who is known for creating modern forms with graceful and flowing lines...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

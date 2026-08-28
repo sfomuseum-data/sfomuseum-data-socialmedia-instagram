@@ -32,6 +32,50 @@
       "taken": 1561735440,
       "taken_at": "Jun 28, 2019 3:24 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10345083475112915,
+          "id": 1729358993
+        },
+        {
+          "distance": 0.12997406721115112,
+          "id": 1763559359
+        },
+        {
+          "distance": 0.14967703819274902,
+          "id": 1729359769
+        },
+        {
+          "distance": 0.15292608737945557,
+          "id": 1729358993
+        },
+        {
+          "distance": 0.1531406044960022,
+          "id": 1880150957
+        },
+        {
+          "distance": 0.15401452779769897,
+          "id": 1729355303
+        },
+        {
+          "distance": 0.16716569662094116,
+          "id": 1763559359
+        },
+        {
+          "distance": 0.16990172863006592,
+          "id": 1729359579
+        },
+        {
+          "distance": 0.17077410221099854,
+          "id": 1729356565
+        },
+        {
+          "distance": 0.17174071073532104,
+          "id": 1880151773
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729356383,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "#Onthisday in 2004, the longest regularly scheduled commercial nonstop flight, departed from Singapore and landed in Newark, New Jersey operated by Singapore Airlines...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

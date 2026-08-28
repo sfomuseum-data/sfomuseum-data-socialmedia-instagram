@@ -33,6 +33,50 @@
       "taken": 1537474380,
       "taken_at": "Sep 20, 2018 8:13 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2522968053817749,
+          "id": 1729357159
+        },
+        {
+          "distance": 0.25786226987838745,
+          "id": 1729357235
+        },
+        {
+          "distance": 0.2706447243690491,
+          "id": 1729356667
+        },
+        {
+          "distance": 0.28736186027526855,
+          "id": 1763558787
+        },
+        {
+          "distance": 0.28736186027526855,
+          "id": 1729357483
+        },
+        {
+          "distance": 0.2878621816635132,
+          "id": 1729356991
+        },
+        {
+          "distance": 0.2882031202316284,
+          "id": 1729357025
+        },
+        {
+          "distance": 0.29283732175827026,
+          "id": 1729362063
+        },
+        {
+          "distance": 0.29401546716690063,
+          "id": 1729356639
+        },
+        {
+          "distance": 0.2946974039077759,
+          "id": 1729357393
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729357645,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "What's happening at the museum?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

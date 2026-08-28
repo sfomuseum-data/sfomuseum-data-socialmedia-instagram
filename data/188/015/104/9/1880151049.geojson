@@ -28,6 +28,50 @@
       "taken": 1680000300,
       "taken_at": "Mar 28, 2023 10:45 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.019692718982696533,
+          "id": 1947425187
+        },
+        {
+          "distance": 0.05106896162033081,
+          "id": 1880151175
+        },
+        {
+          "distance": 0.07308542728424072,
+          "id": 1880151643
+        },
+        {
+          "distance": 0.07696932554244995,
+          "id": 1947425187
+        },
+        {
+          "distance": 0.08208668231964111,
+          "id": 1880150963
+        },
+        {
+          "distance": 0.08402150869369507,
+          "id": 1880151521
+        },
+        {
+          "distance": 0.09027963876724243,
+          "id": 1880151613
+        },
+        {
+          "distance": 0.09188687801361084,
+          "id": 1880151175
+        },
+        {
+          "distance": 0.09268254041671753,
+          "id": 1880151685
+        },
+        {
+          "distance": 0.09374779462814331,
+          "id": 1947425195
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1880151049,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777661,
     "wof:name": "Born in Fort Payne, Alabama, Katherine Stinson (1891-1977) was the fourth woman in the United States to obtain a pilot’s certification...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

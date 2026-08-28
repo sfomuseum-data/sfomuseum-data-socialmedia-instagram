@@ -30,6 +30,50 @@
       "taken": 1642611000,
       "taken_at": "Jan 19, 2022 4:50 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10934066772460938,
+          "id": 1880151707
+        },
+        {
+          "distance": 0.12833911180496216,
+          "id": 1880151323
+        },
+        {
+          "distance": 0.15122520923614502,
+          "id": 1880151707
+        },
+        {
+          "distance": 0.15726447105407715,
+          "id": 1880151493
+        },
+        {
+          "distance": 0.15744835138320923,
+          "id": 1763559523
+        },
+        {
+          "distance": 0.16151750087738037,
+          "id": 1763559523
+        },
+        {
+          "distance": 0.16887450218200684,
+          "id": 1880151245
+        },
+        {
+          "distance": 0.17430585622787476,
+          "id": 1880151217
+        },
+        {
+          "distance": 0.17456752061843872,
+          "id": 1880151245
+        },
+        {
+          "distance": 0.1795826554298401,
+          "id": 1880151323
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559649,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "William Burges (1827–81), a nineteenth-century British architect, interior designer, and furniture designer, emerged as an eccentric proponent of the Gothic Revival in mid-nineteenth-century Britain...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

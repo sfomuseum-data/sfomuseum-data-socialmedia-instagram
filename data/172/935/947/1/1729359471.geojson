@@ -35,6 +35,50 @@
       "taken": 1495563480,
       "taken_at": "May 23, 2017, 6:18 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3211289644241333,
+          "id": 1729359463
+        },
+        {
+          "distance": 0.3225407600402832,
+          "id": 1729361447
+        },
+        {
+          "distance": 0.3261827826499939,
+          "id": 1763558679
+        },
+        {
+          "distance": 0.32810741662979126,
+          "id": 1729359807
+        },
+        {
+          "distance": 0.33653295040130615,
+          "id": 1729359227
+        },
+        {
+          "distance": 0.34136611223220825,
+          "id": 1729359455
+        },
+        {
+          "distance": 0.3536759614944458,
+          "id": 1763559581
+        },
+        {
+          "distance": 0.3599538207054138,
+          "id": 1729361167
+        },
+        {
+          "distance": 0.36227595806121826,
+          "id": 1729359807
+        },
+        {
+          "distance": 0.3626118302345276,
+          "id": 1763559109
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729359471,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777635,
     "wof:name": "What was it like flying to Paris on TWA in the mid-fifties?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

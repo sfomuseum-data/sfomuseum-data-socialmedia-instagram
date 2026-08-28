@@ -25,6 +25,50 @@
       "taken": 1702312980,
       "taken_at": "Dec 11, 2023 4:43 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1978754997253418,
+          "id": 1729355799
+        },
+        {
+          "distance": 0.19938760995864868,
+          "id": 1729355345
+        },
+        {
+          "distance": 0.20572543144226074,
+          "id": 1729355799
+        },
+        {
+          "distance": 0.21542292833328247,
+          "id": 1729356113
+        },
+        {
+          "distance": 0.221718430519104,
+          "id": 1729360247
+        },
+        {
+          "distance": 0.23023509979248047,
+          "id": 1729356113
+        },
+        {
+          "distance": 0.23215574026107788,
+          "id": 1729360689
+        },
+        {
+          "distance": 0.23654383420944214,
+          "id": 1729359631
+        },
+        {
+          "distance": 0.23788928985595703,
+          "id": 1729360077
+        },
+        {
+          "distance": 0.2379211187362671,
+          "id": 1729355345
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -53,7 +97,7 @@
       }
     ],
     "wof:id": 1947425197,
-    "wof:lastmodified": 1733175329,
+    "wof:lastmodified": 1787777664,
     "wof:name": "San Francisco International Airport’s International Terminal officially opened to the public on December 10, 2000...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -67,5 +111,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -37,6 +37,50 @@
       "taken": 1533220320,
       "taken_at": "Aug 2, 2018, 2:32 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.00008100271224975586,
+          "id": 1763558749
+        },
+        {
+          "distance": 0.06316518783569336,
+          "id": 1729357859
+        },
+        {
+          "distance": 0.06415301561355591,
+          "id": 1729357847
+        },
+        {
+          "distance": 0.11815112829208374,
+          "id": 1763558749
+        },
+        {
+          "distance": 0.1419684886932373,
+          "id": 1729357847
+        },
+        {
+          "distance": 0.15798205137252808,
+          "id": 1729357859
+        },
+        {
+          "distance": 0.22303032875061035,
+          "id": 1729357195
+        },
+        {
+          "distance": 0.22465717792510986,
+          "id": 1729357719
+        },
+        {
+          "distance": 0.22733062505722046,
+          "id": 1729357067
+        },
+        {
+          "distance": 0.22869020700454712,
+          "id": 1729357067
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729357833,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Émile Gallé (1846-1904) combined natural motifs with modern techniques and was one of Art Nouveau’s most significant figures...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

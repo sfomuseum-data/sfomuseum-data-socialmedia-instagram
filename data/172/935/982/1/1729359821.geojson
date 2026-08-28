@@ -30,6 +30,50 @@
       "taken": 1486917240,
       "taken_at": "Feb 12, 2017 4:34 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17042452096939087,
+          "id": 1729359725
+        },
+        {
+          "distance": 0.2245827317237854,
+          "id": 1729359725
+        },
+        {
+          "distance": 0.38755518198013306,
+          "id": 1729361137
+        },
+        {
+          "distance": 0.40293025970458984,
+          "id": 1729355277
+        },
+        {
+          "distance": 0.40625935792922974,
+          "id": 1880151297
+        },
+        {
+          "distance": 0.42003458738327026,
+          "id": 1763558731
+        },
+        {
+          "distance": 0.4206969738006592,
+          "id": 1729361137
+        },
+        {
+          "distance": 0.4216495752334595,
+          "id": 1729358367
+        },
+        {
+          "distance": 0.43182218074798584,
+          "id": 1763559539
+        },
+        {
+          "distance": 0.4347074031829834,
+          "id": 1729356481
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729359821,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "The Indian National Finals Rodeo (INFR), the largest and oldest organization of its kind, was founded in 1976...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -30,6 +30,50 @@
       "taken": 1557773400,
       "taken_at": "May 13, 2019, 6:50 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20197951793670654,
+          "id": 1729356573
+        },
+        {
+          "distance": 0.2428295612335205,
+          "id": 1729356573
+        },
+        {
+          "distance": 0.2585582733154297,
+          "id": 1729357779
+        },
+        {
+          "distance": 0.2745685577392578,
+          "id": 1729356683
+        },
+        {
+          "distance": 0.280550479888916,
+          "id": 1729357823
+        },
+        {
+          "distance": 0.280550479888916,
+          "id": 1763558747
+        },
+        {
+          "distance": 0.2886032462120056,
+          "id": 1729356249
+        },
+        {
+          "distance": 0.289773166179657,
+          "id": 1729357779
+        },
+        {
+          "distance": 0.29243582487106323,
+          "id": 1729362707
+        },
+        {
+          "distance": 0.3198484182357788,
+          "id": 1729362707
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729356585,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Did you know our collections staff catalog each object by hand?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

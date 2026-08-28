@@ -35,6 +35,50 @@
       "taken": 1437580680,
       "taken_at": "Jul 22, 2015 3:58 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.020605921745300293,
+          "id": 1729359667
+        },
+        {
+          "distance": 0.10512858629226685,
+          "id": 1729359667
+        },
+        {
+          "distance": 0.17637592554092407,
+          "id": 1880151673
+        },
+        {
+          "distance": 0.1778842806816101,
+          "id": 1729360417
+        },
+        {
+          "distance": 0.19102662801742554,
+          "id": 1729359419
+        },
+        {
+          "distance": 0.19198906421661377,
+          "id": 1763559319
+        },
+        {
+          "distance": 0.19240611791610718,
+          "id": 1729361271
+        },
+        {
+          "distance": 0.19867634773254395,
+          "id": 1880151673
+        },
+        {
+          "distance": 0.20113277435302734,
+          "id": 1729357331
+        },
+        {
+          "distance": 0.2029995322227478,
+          "id": 1729361333
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729361677,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777646,
     "wof:name": "A photograph of an early #aviatrix and a child at the newly named San Francisco Airport in 1932...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

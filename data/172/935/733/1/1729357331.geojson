@@ -32,6 +32,50 @@
       "taken": 1542803820,
       "taken_at": "Nov 21, 2018 12:37 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.034315645694732666,
+          "id": 1729359671
+        },
+        {
+          "distance": 0.0727386474609375,
+          "id": 1729361581
+        },
+        {
+          "distance": 0.07354545593261719,
+          "id": 1729359671
+        },
+        {
+          "distance": 0.07960683107376099,
+          "id": 1729361581
+        },
+        {
+          "distance": 0.13799530267715454,
+          "id": 1729355471
+        },
+        {
+          "distance": 0.1481384038925171,
+          "id": 1729357001
+        },
+        {
+          "distance": 0.15013223886489868,
+          "id": 1729357903
+        },
+        {
+          "distance": 0.16039282083511353,
+          "id": 1729355471
+        },
+        {
+          "distance": 0.16705375909805298,
+          "id": 1729357391
+        },
+        {
+          "distance": 0.17389333248138428,
+          "id": 1880151641
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729357331,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777631,
     "wof:name": "Janet Knight, the first woman to earn a transport license at Mills Field, began flying in 1930...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -33,6 +33,50 @@
       "taken": 1657622940,
       "taken_at": "Jul 12, 2022 10:49 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.397453248500824,
+          "id": 1729358495
+        },
+        {
+          "distance": 0.40179288387298584,
+          "id": 1729359061
+        },
+        {
+          "distance": 0.4029812216758728,
+          "id": 1729358495
+        },
+        {
+          "distance": 0.40539300441741943,
+          "id": 1729359061
+        },
+        {
+          "distance": 0.41035014390945435,
+          "id": 1729358621
+        },
+        {
+          "distance": 0.4127495288848877,
+          "id": 1729358509
+        },
+        {
+          "distance": 0.419952392578125,
+          "id": 1729359023
+        },
+        {
+          "distance": 0.4210963845252991,
+          "id": 1729358621
+        },
+        {
+          "distance": 0.43353480100631714,
+          "id": 1729358517
+        },
+        {
+          "distance": 0.4386482834815979,
+          "id": 1729356159
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1880151591,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "The pineapple contains extraordinarily fine, yet incredibly strong fibers...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

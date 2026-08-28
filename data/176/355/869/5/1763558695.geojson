@@ -36,6 +36,50 @@
       "taken": 1513341720,
       "taken_at": "Dec 15, 2017 12:42 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.00002473592758178711,
+          "id": 1729358817
+        },
+        {
+          "distance": 0.11016231775283813,
+          "id": 1729358817
+        },
+        {
+          "distance": 0.3091455101966858,
+          "id": 1729356663
+        },
+        {
+          "distance": 0.33336561918258667,
+          "id": 1729357277
+        },
+        {
+          "distance": 0.34934771060943604,
+          "id": 1729360993
+        },
+        {
+          "distance": 0.3550183176994324,
+          "id": 1880151711
+        },
+        {
+          "distance": 0.35953235626220703,
+          "id": 1729359425
+        },
+        {
+          "distance": 0.36014431715011597,
+          "id": 1729362277
+        },
+        {
+          "distance": 0.3617289066314697,
+          "id": 1729356905
+        },
+        {
+          "distance": 0.36284077167510986,
+          "id": 1729356663
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1763558695,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777659,
     "wof:name": "Nick Albertson’s work draws focus on the mass-produced objects that occupy the corners of our daily lives...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

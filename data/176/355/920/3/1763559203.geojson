@@ -31,6 +31,50 @@
       "taken": 1617804180,
       "taken_at": "Apr 07, 2021 2:03 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09984010457992554,
+          "id": 1880151067
+        },
+        {
+          "distance": 0.13117700815200806,
+          "id": 1729355429
+        },
+        {
+          "distance": 0.13350129127502441,
+          "id": 1729358213
+        },
+        {
+          "distance": 0.13453394174575806,
+          "id": 1729361251
+        },
+        {
+          "distance": 0.13537126779556274,
+          "id": 1729356729
+        },
+        {
+          "distance": 0.135797381401062,
+          "id": 1729358009
+        },
+        {
+          "distance": 0.13744449615478516,
+          "id": 1763559547
+        },
+        {
+          "distance": 0.14480465650558472,
+          "id": 1729359361
+        },
+        {
+          "distance": 0.14560377597808838,
+          "id": 1729355245
+        },
+        {
+          "distance": 0.14865297079086304,
+          "id": 1729360263
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559203,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "It's Wing Wednesday, and today's plane is the Douglas DC-4!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -30,6 +30,50 @@
       "taken": 1705943340,
       "taken_at": "Jan 22, 2024 5:09 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.29692542552948,
+          "id": 1947425047
+        },
+        {
+          "distance": 0.3011360168457031,
+          "id": 1729362675
+        },
+        {
+          "distance": 0.32538557052612305,
+          "id": 1947424897
+        },
+        {
+          "distance": 0.3374541997909546,
+          "id": 1947424879
+        },
+        {
+          "distance": 0.34161651134490967,
+          "id": 1729362675
+        },
+        {
+          "distance": 0.3443201780319214,
+          "id": 1947424823
+        },
+        {
+          "distance": 0.34684741497039795,
+          "id": 1947425047
+        },
+        {
+          "distance": 0.35402143001556396,
+          "id": 1947424945
+        },
+        {
+          "distance": 0.36195945739746094,
+          "id": 1947424945
+        },
+        {
+          "distance": 0.3636714220046997,
+          "id": 1947424823
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1947425161,
-    "wof:lastmodified": 1733175328,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Our newest exhibition, “Everyday Elegance in Chinese Ceramics” is now on display!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

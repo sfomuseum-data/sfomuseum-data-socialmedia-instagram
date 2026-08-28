@@ -38,6 +38,50 @@
       "taken": 1538730840,
       "taken_at": "Oct 5, 2018, 9:14 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19424515962600708,
+          "id": 1729355041
+        },
+        {
+          "distance": 0.2011834979057312,
+          "id": 1729355041
+        },
+        {
+          "distance": 0.21526503562927246,
+          "id": 1729360689
+        },
+        {
+          "distance": 0.22059303522109985,
+          "id": 1729360337
+        },
+        {
+          "distance": 0.2238735556602478,
+          "id": 1763559233
+        },
+        {
+          "distance": 0.22517645359039307,
+          "id": 1729361129
+        },
+        {
+          "distance": 0.23183304071426392,
+          "id": 1729360247
+        },
+        {
+          "distance": 0.23234683275222778,
+          "id": 1729357513
+        },
+        {
+          "distance": 0.23275279998779297,
+          "id": 1729361019
+        },
+        {
+          "distance": 0.23820197582244873,
+          "id": 1729361143
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729357599,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777632,
     "wof:name": "#Onthisday in 1951, construction began on the new terminal building at San Francisco International Airport...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

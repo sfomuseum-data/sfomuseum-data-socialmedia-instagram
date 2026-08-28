@@ -31,6 +31,50 @@
       "taken": 1619623020,
       "taken_at": "Apr 28, 2021 3:17 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11728715896606445,
+          "id": 1763559547
+        },
+        {
+          "distance": 0.1224740743637085,
+          "id": 1729356623
+        },
+        {
+          "distance": 0.1412029266357422,
+          "id": 1729355429
+        },
+        {
+          "distance": 0.15123474597930908,
+          "id": 1729356623
+        },
+        {
+          "distance": 0.1541963815689087,
+          "id": 1729355245
+        },
+        {
+          "distance": 0.1617012619972229,
+          "id": 1729360263
+        },
+        {
+          "distance": 0.17060846090316772,
+          "id": 1729357179
+        },
+        {
+          "distance": 0.17060846090316772,
+          "id": 1763558807
+        },
+        {
+          "distance": 0.17148834466934204,
+          "id": 1729357489
+        },
+        {
+          "distance": 0.17479324340820312,
+          "id": 1729355245
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559167,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Developed by the Glenn L. Martin Company, the Martin 2-0-2 was intended to supersede the DC-3...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

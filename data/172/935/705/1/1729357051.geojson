@@ -35,6 +35,50 @@
       "taken": 1548252240,
       "taken_at": "Jan 23, 2019, 2:04 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.02263045310974121,
+          "id": 1729360965
+        },
+        {
+          "distance": 0.09893983602523804,
+          "id": 1729360965
+        },
+        {
+          "distance": 0.22229784727096558,
+          "id": 1729357055
+        },
+        {
+          "distance": 0.26147037744522095,
+          "id": 1729357055
+        },
+        {
+          "distance": 0.2905445694923401,
+          "id": 1729357679
+        },
+        {
+          "distance": 0.29713428020477295,
+          "id": 1729355471
+        },
+        {
+          "distance": 0.299322247505188,
+          "id": 1880151673
+        },
+        {
+          "distance": 0.2998899817466736,
+          "id": 1880151709
+        },
+        {
+          "distance": 0.3019081950187683,
+          "id": 1729358225
+        },
+        {
+          "distance": 0.30768632888793945,
+          "id": 1880151709
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729357051,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777630,
     "wof:name": "Lady Grace Drummond-Hay, an English journalist, was the only woman among sixty passengers and crew on the Graf Zeppelin when it flew around the world in 1929...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

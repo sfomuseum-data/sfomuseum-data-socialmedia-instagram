@@ -25,6 +25,50 @@
       "taken": 1444766040,
       "taken_at": "Oct 13, 2015 7:54 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2519574761390686,
+          "id": 1729360855
+        },
+        {
+          "distance": 0.27711576223373413,
+          "id": 1729359221
+        },
+        {
+          "distance": 0.27711576223373413,
+          "id": 1763558689
+        },
+        {
+          "distance": 0.2805386781692505,
+          "id": 1729360029
+        },
+        {
+          "distance": 0.29139214754104614,
+          "id": 1729361167
+        },
+        {
+          "distance": 0.2932868003845215,
+          "id": 1729360855
+        },
+        {
+          "distance": 0.29579198360443115,
+          "id": 1729359653
+        },
+        {
+          "distance": 0.29863590002059937,
+          "id": 1729359039
+        },
+        {
+          "distance": 0.3035416603088379,
+          "id": 1729359049
+        },
+        {
+          "distance": 0.3061385750770569,
+          "id": 1880151303
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361455,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "Los Angeles is only about 380 miles from San Francisco, but who would trade a four-hour plane ride for a lengthy train journey of over twelve hours?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

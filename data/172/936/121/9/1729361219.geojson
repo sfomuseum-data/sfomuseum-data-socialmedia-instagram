@@ -25,6 +25,50 @@
       "taken": 1451474700,
       "taken_at": "Dec 30, 2015 11:25 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17739832401275635,
+          "id": 1729361071
+        },
+        {
+          "distance": 0.20670795440673828,
+          "id": 1729361305
+        },
+        {
+          "distance": 0.21532803773880005,
+          "id": 1729361305
+        },
+        {
+          "distance": 0.24872738122940063,
+          "id": 1729361289
+        },
+        {
+          "distance": 0.2490389347076416,
+          "id": 1729358179
+        },
+        {
+          "distance": 0.2507385015487671,
+          "id": 1729359229
+        },
+        {
+          "distance": 0.2510284185409546,
+          "id": 1729358179
+        },
+        {
+          "distance": 0.2517717480659485,
+          "id": 1763559173
+        },
+        {
+          "distance": 0.25630468130111694,
+          "id": 1729361071
+        },
+        {
+          "distance": 0.2565481662750244,
+          "id": 1729357225
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361219,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "In 1939, a World’s Fair was hosted by San Francisco...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

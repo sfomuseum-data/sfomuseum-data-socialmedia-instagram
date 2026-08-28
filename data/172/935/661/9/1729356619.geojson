@@ -34,6 +34,50 @@
       "taken": 1556206320,
       "taken_at": "Apr 25, 2019, 3:32 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.056778907775878906,
+          "id": 1729356613
+        },
+        {
+          "distance": 0.07130736112594604,
+          "id": 1729356603
+        },
+        {
+          "distance": 0.15459275245666504,
+          "id": 1729356613
+        },
+        {
+          "distance": 0.19421184062957764,
+          "id": 1729356603
+        },
+        {
+          "distance": 0.24931365251541138,
+          "id": 1729358215
+        },
+        {
+          "distance": 0.2694026827812195,
+          "id": 1729361319
+        },
+        {
+          "distance": 0.2847004532814026,
+          "id": 1729357601
+        },
+        {
+          "distance": 0.29141366481781006,
+          "id": 1729358891
+        },
+        {
+          "distance": 0.2990148663520813,
+          "id": 1729357729
+        },
+        {
+          "distance": 0.304323673248291,
+          "id": 1729357073
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729356619,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "One of the first uses of aluminum in rotor blades was in the Hiller XH-44 “Hiller-copter”, designed and built by Stanley Hiller, Jr. (1924–2006) in 1944 at the age of nineteen...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

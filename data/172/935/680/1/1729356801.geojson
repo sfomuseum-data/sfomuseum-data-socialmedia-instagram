@@ -33,6 +33,50 @@
       "taken": 1552919460,
       "taken_at": "Mar 18, 2019 2:31 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0750572681427002,
+          "id": 1729356123
+        },
+        {
+          "distance": 0.1341521143913269,
+          "id": 1729356123
+        },
+        {
+          "distance": 0.250138521194458,
+          "id": 1729356411
+        },
+        {
+          "distance": 0.27367645502090454,
+          "id": 1729356403
+        },
+        {
+          "distance": 0.27847832441329956,
+          "id": 1729356403
+        },
+        {
+          "distance": 0.28504371643066406,
+          "id": 1880151175
+        },
+        {
+          "distance": 0.29083704948425293,
+          "id": 1729363009
+        },
+        {
+          "distance": 0.2927402853965759,
+          "id": 1729356411
+        },
+        {
+          "distance": 0.3039659261703491,
+          "id": 1880151049
+        },
+        {
+          "distance": 0.3155709505081177,
+          "id": 1880151109
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729356801,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Without aluminum, the rapid advancement of aviation in the twentieth century would have been impossible...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

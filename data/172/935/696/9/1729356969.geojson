@@ -39,6 +39,50 @@
       "taken": 1549622400,
       "taken_at": "Feb 8, 2019, 10:40 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2593250870704651,
+          "id": 1729356945
+        },
+        {
+          "distance": 0.2749457359313965,
+          "id": 1729356901
+        },
+        {
+          "distance": 0.27674925327301025,
+          "id": 1729357021
+        },
+        {
+          "distance": 0.2918369174003601,
+          "id": 1729356971
+        },
+        {
+          "distance": 0.3035586476325989,
+          "id": 1729356943
+        },
+        {
+          "distance": 0.31225770711898804,
+          "id": 1729356971
+        },
+        {
+          "distance": 0.3188982605934143,
+          "id": 1729357019
+        },
+        {
+          "distance": 0.33437466621398926,
+          "id": 1729357147
+        },
+        {
+          "distance": 0.34215837717056274,
+          "id": 1729356901
+        },
+        {
+          "distance": 0.35945701599121094,
+          "id": 1729359941
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729356969,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Native Hawaiian surfing originated approximately one thousand years ago, imported from Tahiti by the Polynesian people who settled the Hawaiian Islands...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

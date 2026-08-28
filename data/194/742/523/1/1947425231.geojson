@@ -25,6 +25,50 @@
       "taken": 1700586060,
       "taken_at": "Nov 21, 2023 5:01 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13057583570480347,
+          "id": 1763558873
+        },
+        {
+          "distance": 0.13313794136047363,
+          "id": 1729359695
+        },
+        {
+          "distance": 0.14976274967193604,
+          "id": 1729359695
+        },
+        {
+          "distance": 0.1715417504310608,
+          "id": 1763558873
+        },
+        {
+          "distance": 0.18035632371902466,
+          "id": 1729356781
+        },
+        {
+          "distance": 0.18508529663085938,
+          "id": 1880151169
+        },
+        {
+          "distance": 0.1890655755996704,
+          "id": 1880151221
+        },
+        {
+          "distance": 0.19709926843643188,
+          "id": 1729356781
+        },
+        {
+          "distance": 0.19955146312713623,
+          "id": 1729356989
+        },
+        {
+          "distance": 0.20050501823425293,
+          "id": 1729355871
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -53,7 +97,7 @@
       }
     ],
     "wof:id": 1947425231,
-    "wof:lastmodified": 1733175330,
+    "wof:lastmodified": 1787777664,
     "wof:name": "In 1931, the longest over-water flying boat passenger service was operated by Pan American...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -67,5 +111,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

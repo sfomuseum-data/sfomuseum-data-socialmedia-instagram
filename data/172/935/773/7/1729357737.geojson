@@ -25,6 +25,50 @@
       "taken": 1535710320,
       "taken_at": "Aug 31, 2018 10:12 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1742052435874939,
+          "id": 1729362391
+        },
+        {
+          "distance": 0.17965692281723022,
+          "id": 1729362089
+        },
+        {
+          "distance": 0.19617241621017456,
+          "id": 1763559455
+        },
+        {
+          "distance": 0.19679713249206543,
+          "id": 1729355339
+        },
+        {
+          "distance": 0.19935452938079834,
+          "id": 1729355665
+        },
+        {
+          "distance": 0.1997869610786438,
+          "id": 1729360929
+        },
+        {
+          "distance": 0.20649218559265137,
+          "id": 1763559173
+        },
+        {
+          "distance": 0.2072080373764038,
+          "id": 1880151203
+        },
+        {
+          "distance": 0.209184467792511,
+          "id": 1729360929
+        },
+        {
+          "distance": 0.20982861518859863,
+          "id": 1729362309
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729357737,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Wonder what's happening behind the scenes at SFO Museum?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

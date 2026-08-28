@@ -30,6 +30,50 @@
       "taken": 1667841060,
       "taken_at": "Nov 07, 2022 5:11 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2856925129890442,
+          "id": 1729359193
+        },
+        {
+          "distance": 0.2967182397842407,
+          "id": 1729355095
+        },
+        {
+          "distance": 0.3241157531738281,
+          "id": 1729359193
+        },
+        {
+          "distance": 0.32540684938430786,
+          "id": 1729358727
+        },
+        {
+          "distance": 0.33143526315689087,
+          "id": 1880151551
+        },
+        {
+          "distance": 0.3407636284828186,
+          "id": 1729355095
+        },
+        {
+          "distance": 0.34142905473709106,
+          "id": 1729355693
+        },
+        {
+          "distance": 0.34785032272338867,
+          "id": 1729355037
+        },
+        {
+          "distance": 0.35113149881362915,
+          "id": 1729357349
+        },
+        {
+          "distance": 0.35168957710266113,
+          "id": 1729358293
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151343,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "#Onthisday in 2017, United Airlines’ last scheduled Boeing 747 flight departed from SFO...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

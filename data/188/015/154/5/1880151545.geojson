@@ -33,6 +33,50 @@
       "taken": 1658743980,
       "taken_at": "Jul 25, 2022 10:13 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20912134647369385,
+          "id": 1947425293
+        },
+        {
+          "distance": 0.22638529539108276,
+          "id": 1729355523
+        },
+        {
+          "distance": 0.23952549695968628,
+          "id": 1947425293
+        },
+        {
+          "distance": 0.2487390637397766,
+          "id": 1729359203
+        },
+        {
+          "distance": 0.2514350414276123,
+          "id": 1729359023
+        },
+        {
+          "distance": 0.2520243525505066,
+          "id": 1729359203
+        },
+        {
+          "distance": 0.25576549768447876,
+          "id": 1729359061
+        },
+        {
+          "distance": 0.256134033203125,
+          "id": 1729355523
+        },
+        {
+          "distance": 0.2574869990348816,
+          "id": 1729358495
+        },
+        {
+          "distance": 0.2598903775215149,
+          "id": 1729355955
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1880151545,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "To maintain the fineness of piña fiber after it is extracted from the leaf and processed, individual three- to four-foot fibers are painstakingly knotted together by hand rather than spun on a wheel...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

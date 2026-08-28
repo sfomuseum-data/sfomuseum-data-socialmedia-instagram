@@ -33,6 +33,50 @@
       "taken": 1573753140,
       "taken_at": "Nov 14, 2019 5:39 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0817873477935791,
+          "id": 1729355699
+        },
+        {
+          "distance": 0.13204151391983032,
+          "id": 1729355699
+        },
+        {
+          "distance": 0.14315295219421387,
+          "id": 1729355881
+        },
+        {
+          "distance": 0.17141181230545044,
+          "id": 1729355491
+        },
+        {
+          "distance": 0.18080365657806396,
+          "id": 1729357493
+        },
+        {
+          "distance": 0.18152260780334473,
+          "id": 1880151121
+        },
+        {
+          "distance": 0.18557322025299072,
+          "id": 1729355881
+        },
+        {
+          "distance": 0.18973737955093384,
+          "id": 1729361431
+        },
+        {
+          "distance": 0.1927075982093811,
+          "id": 1729361489
+        },
+        {
+          "distance": 0.19322192668914795,
+          "id": 1729357959
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729355893,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777627,
     "wof:name": "SFO Museum would like to offer a heartfelt thank you to all of the service members and families of the United States military...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

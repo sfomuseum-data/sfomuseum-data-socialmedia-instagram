@@ -37,6 +37,50 @@
       "taken": 1561397460,
       "taken_at": "Jun 24, 2019 5:31 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17964130640029907,
+          "id": 1729359429
+        },
+        {
+          "distance": 0.19012194871902466,
+          "id": 1729357999
+        },
+        {
+          "distance": 0.21622896194458008,
+          "id": 1729357365
+        },
+        {
+          "distance": 0.21868395805358887,
+          "id": 1763559685
+        },
+        {
+          "distance": 0.22068899869918823,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.2213435173034668,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.22747856378555298,
+          "id": 1763558931
+        },
+        {
+          "distance": 0.2279437780380249,
+          "id": 1763559355
+        },
+        {
+          "distance": 0.23044484853744507,
+          "id": 1763559555
+        },
+        {
+          "distance": 0.2305067777633667,
+          "id": 1729357701
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729356389,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Did you know that 2% of the budget of civic construction projects in San Francisco goes towards funding public art?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

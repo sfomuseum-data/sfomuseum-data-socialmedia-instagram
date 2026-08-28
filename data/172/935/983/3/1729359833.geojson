@@ -25,6 +25,50 @@
       "taken": 1486463220,
       "taken_at": "Feb 07, 2017 10:27 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2052587866783142,
+          "id": 1880150923
+        },
+        {
+          "distance": 0.20821446180343628,
+          "id": 1880150923
+        },
+        {
+          "distance": 0.210443377494812,
+          "id": 1729357105
+        },
+        {
+          "distance": 0.22306078672409058,
+          "id": 1729357279
+        },
+        {
+          "distance": 0.2326580286026001,
+          "id": 1763559155
+        },
+        {
+          "distance": 0.23376792669296265,
+          "id": 1729359659
+        },
+        {
+          "distance": 0.233961284160614,
+          "id": 1729360397
+        },
+        {
+          "distance": 0.23588311672210693,
+          "id": 1729357105
+        },
+        {
+          "distance": 0.23621398210525513,
+          "id": 1729356017
+        },
+        {
+          "distance": 0.2491862177848816,
+          "id": 1729359659
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359833,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "This circa 1940 advertisement for Pan American Airways advertises their \"regularly scheduled service to 55 countries.\"..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

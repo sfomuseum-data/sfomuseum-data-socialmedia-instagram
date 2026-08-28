@@ -30,6 +30,50 @@
       "taken": 1475488740,
       "taken_at": "Oct 03, 2016 9:59 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.21447914838790894,
+          "id": 1729355023
+        },
+        {
+          "distance": 0.24486827850341797,
+          "id": 1729357545
+        },
+        {
+          "distance": 0.24754124879837036,
+          "id": 1729361137
+        },
+        {
+          "distance": 0.2517053484916687,
+          "id": 1729359427
+        },
+        {
+          "distance": 0.2605113387107849,
+          "id": 1729361875
+        },
+        {
+          "distance": 0.2705041766166687,
+          "id": 1763558729
+        },
+        {
+          "distance": 0.2705041766166687,
+          "id": 1729358233
+        },
+        {
+          "distance": 0.2739892601966858,
+          "id": 1729357429
+        },
+        {
+          "distance": 0.28362107276916504,
+          "id": 1729356497
+        },
+        {
+          "distance": 0.2882049083709717,
+          "id": 1729361033
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729360265,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "When Marguerite Wildenhain first arrived at Pond Farm in the summer of 1942, there was nothing there except an old barn where decided that her workshop would be located...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -26,6 +26,50 @@
       "taken": 1457863800,
       "taken_at": "Mar 13, 2016, 10:10 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.000024199485778808594,
+          "id": 1763558617
+        },
+        {
+          "distance": 0.11355805397033691,
+          "id": 1763558617
+        },
+        {
+          "distance": 0.24604052305221558,
+          "id": 1880151715
+        },
+        {
+          "distance": 0.28500300645828247,
+          "id": 1880151715
+        },
+        {
+          "distance": 0.30072689056396484,
+          "id": 1729359411
+        },
+        {
+          "distance": 0.30315881967544556,
+          "id": 1729358727
+        },
+        {
+          "distance": 0.3080431818962097,
+          "id": 1729360029
+        },
+        {
+          "distance": 0.32006359100341797,
+          "id": 1729363027
+        },
+        {
+          "distance": 0.32014721632003784,
+          "id": 1880151505
+        },
+        {
+          "distance": 0.3216620683670044,
+          "id": 1729361153
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1729360939,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Our collection features over one thousand safety information cards...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

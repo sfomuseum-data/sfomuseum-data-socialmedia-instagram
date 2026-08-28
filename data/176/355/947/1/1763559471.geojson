@@ -31,6 +31,50 @@
       "taken": 1628525040,
       "taken_at": "Aug 09, 2021 4:04 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2857324481010437,
+          "id": 1880151139
+        },
+        {
+          "distance": 0.2863766551017761,
+          "id": 1763559067
+        },
+        {
+          "distance": 0.28732120990753174,
+          "id": 1763559221
+        },
+        {
+          "distance": 0.2888890504837036,
+          "id": 1729359989
+        },
+        {
+          "distance": 0.30292797088623047,
+          "id": 1729359161
+        },
+        {
+          "distance": 0.30522865056991577,
+          "id": 1729359975
+        },
+        {
+          "distance": 0.30572259426116943,
+          "id": 1729356497
+        },
+        {
+          "distance": 0.3059689998626709,
+          "id": 1729361409
+        },
+        {
+          "distance": 0.30658578872680664,
+          "id": 1729361675
+        },
+        {
+          "distance": 0.3110489845275879,
+          "id": 1763558863
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559471,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Born in Washington, D.C., Nathaniel Mathis began cutting the hair of his friends as a teenager...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

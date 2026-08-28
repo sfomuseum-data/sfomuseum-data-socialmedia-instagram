@@ -30,6 +30,50 @@
       "taken": 1670515380,
       "taken_at": "Dec 08, 2022 4:03 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.278387188911438,
+          "id": 1729361167
+        },
+        {
+          "distance": 0.2919768691062927,
+          "id": 1729360855
+        },
+        {
+          "distance": 0.3021003007888794,
+          "id": 1729355621
+        },
+        {
+          "distance": 0.30621880292892456,
+          "id": 1729361455
+        },
+        {
+          "distance": 0.30885738134384155,
+          "id": 1729359455
+        },
+        {
+          "distance": 0.31662213802337646,
+          "id": 1729361167
+        },
+        {
+          "distance": 0.3206576108932495,
+          "id": 1729356329
+        },
+        {
+          "distance": 0.3237372040748596,
+          "id": 1729360855
+        },
+        {
+          "distance": 0.32712507247924805,
+          "id": 1729359767
+        },
+        {
+          "distance": 0.32720357179641724,
+          "id": 1729361665
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151303,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Until World War II, Transcontinental and Western Air Inc (TWA) primarily operated domestic passenger and mail services in the United States...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

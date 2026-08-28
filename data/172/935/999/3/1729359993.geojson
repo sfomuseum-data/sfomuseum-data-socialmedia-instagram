@@ -28,6 +28,50 @@
       "taken": 1481977920,
       "taken_at": "Dec 17, 2016 12:32 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14416170120239258,
+          "id": 1763559127
+        },
+        {
+          "distance": 0.1918538212776184,
+          "id": 1763559127
+        },
+        {
+          "distance": 0.20922112464904785,
+          "id": 1729361653
+        },
+        {
+          "distance": 0.222825825214386,
+          "id": 1729361653
+        },
+        {
+          "distance": 0.23677277565002441,
+          "id": 1729355629
+        },
+        {
+          "distance": 0.2500060200691223,
+          "id": 1947424957
+        },
+        {
+          "distance": 0.2562839388847351,
+          "id": 1947424853
+        },
+        {
+          "distance": 0.25668656826019287,
+          "id": 1947424829
+        },
+        {
+          "distance": 0.257473349571228,
+          "id": 1947425235
+        },
+        {
+          "distance": 0.26486414670944214,
+          "id": 1947425269
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1729359993,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777638,
     "wof:name": "Have you seen this horse sculpture in Terminal 1?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

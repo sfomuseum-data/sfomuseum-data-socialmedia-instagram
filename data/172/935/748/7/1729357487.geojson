@@ -39,6 +39,50 @@
       "taken": 1540485660,
       "taken_at": "Oct 25, 2018, 4:41 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.26565444469451904,
+          "id": 1729357031
+        },
+        {
+          "distance": 0.31496912240982056,
+          "id": 1729359885
+        },
+        {
+          "distance": 0.3168192505836487,
+          "id": 1729357169
+        },
+        {
+          "distance": 0.32713043689727783,
+          "id": 1729357007
+        },
+        {
+          "distance": 0.33497512340545654,
+          "id": 1729357031
+        },
+        {
+          "distance": 0.3365331292152405,
+          "id": 1729357169
+        },
+        {
+          "distance": 0.3390948176383972,
+          "id": 1729357577
+        },
+        {
+          "distance": 0.34068626165390015,
+          "id": 1729356647
+        },
+        {
+          "distance": 0.34209632873535156,
+          "id": 1729359885
+        },
+        {
+          "distance": 0.34220796823501587,
+          "id": 1729357007
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729357487,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777631,
     "wof:name": "\"The visual arts, in particular drawing and painting, have always been compelling…Whatever the medium, the challenge is always to find a unity of line, form, and proportion...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

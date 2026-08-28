@@ -25,6 +25,50 @@
       "taken": 1360592340,
       "taken_at": "Feb 11, 2013 2:19 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19524341821670532,
+          "id": 1729362605
+        },
+        {
+          "distance": 0.22689217329025269,
+          "id": 1729362605
+        },
+        {
+          "distance": 0.25570279359817505,
+          "id": 1729362379
+        },
+        {
+          "distance": 0.25596266984939575,
+          "id": 1729362709
+        },
+        {
+          "distance": 0.26006752252578735,
+          "id": 1729362355
+        },
+        {
+          "distance": 0.27100926637649536,
+          "id": 1729363007
+        },
+        {
+          "distance": 0.28103095293045044,
+          "id": 1729362747
+        },
+        {
+          "distance": 0.2816769480705261,
+          "id": 1729362387
+        },
+        {
+          "distance": 0.2850831151008606,
+          "id": 1729362383
+        },
+        {
+          "distance": 0.28645551204681396,
+          "id": 1729362953
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362797,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "Stereographs, prints \u0026 photos have long been favored as #souvenirs...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

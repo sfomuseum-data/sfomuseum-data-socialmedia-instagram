@@ -25,6 +25,50 @@
       "taken": 1481798460,
       "taken_at": "Dec 15, 2016 10:41 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1524626612663269,
+          "id": 1729355971
+        },
+        {
+          "distance": 0.17133861780166626,
+          "id": 1763558629
+        },
+        {
+          "distance": 0.17360717058181763,
+          "id": 1729360779
+        },
+        {
+          "distance": 0.18821454048156738,
+          "id": 1729355245
+        },
+        {
+          "distance": 0.19796770811080933,
+          "id": 1729357489
+        },
+        {
+          "distance": 0.20562827587127686,
+          "id": 1729355971
+        },
+        {
+          "distance": 0.20875465869903564,
+          "id": 1729356623
+        },
+        {
+          "distance": 0.2091488242149353,
+          "id": 1729357179
+        },
+        {
+          "distance": 0.2091488242149353,
+          "id": 1763558807
+        },
+        {
+          "distance": 0.21163958311080933,
+          "id": 1729355245
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360007,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777638,
     "wof:name": "#Onthisday in 1951, Eastern Air Lines introduced the Lockheed L-1049 Super Constellation...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

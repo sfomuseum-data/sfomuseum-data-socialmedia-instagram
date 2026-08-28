@@ -25,6 +25,50 @@
       "taken": 1444814400,
       "taken_at": "Oct 14, 2015 9:20 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.4103904962539673,
+          "id": 1729359673
+        },
+        {
+          "distance": 0.4492344260215759,
+          "id": 1729361371
+        },
+        {
+          "distance": 0.4626769423484802,
+          "id": 1729360177
+        },
+        {
+          "distance": 0.4837101697921753,
+          "id": 1729360569
+        },
+        {
+          "distance": 0.48778969049453735,
+          "id": 1729356665
+        },
+        {
+          "distance": 0.4968244433403015,
+          "id": 1729359979
+        },
+        {
+          "distance": 0.49743157625198364,
+          "id": 1729356491
+        },
+        {
+          "distance": 0.5016828775405884,
+          "id": 1729355011
+        },
+        {
+          "distance": 0.5045632719993591,
+          "id": 1729359635
+        },
+        {
+          "distance": 0.5058466196060181,
+          "id": 1729359937
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361461,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "Our newest Student Art Show is from the San Francisco Waldorf High School...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -39,6 +39,50 @@
       "taken": 1518010620,
       "taken_at": "Feb 07, 2018 1:37 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12342590093612671,
+          "id": 1729358399
+        },
+        {
+          "distance": 0.1321844458580017,
+          "id": 1729357773
+        },
+        {
+          "distance": 0.13768541812896729,
+          "id": 1729357773
+        },
+        {
+          "distance": 0.14035362005233765,
+          "id": 1729358399
+        },
+        {
+          "distance": 0.15346401929855347,
+          "id": 1729358149
+        },
+        {
+          "distance": 0.15350133180618286,
+          "id": 1729358485
+        },
+        {
+          "distance": 0.15795820951461792,
+          "id": 1729358173
+        },
+        {
+          "distance": 0.15838634967803955,
+          "id": 1729358335
+        },
+        {
+          "distance": 0.1730802059173584,
+          "id": 1729358149
+        },
+        {
+          "distance": 0.17774206399917603,
+          "id": 1729358485
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729358591,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Decorated with red glaze and gold ornamentation, this maneki neko figure comes from the Kutani kilns, established in the late 1600s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

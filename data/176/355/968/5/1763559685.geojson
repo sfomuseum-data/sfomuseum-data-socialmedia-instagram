@@ -34,6 +34,50 @@
       "taken": 1639500420,
       "taken_at": "Dec 14, 2021 4:47 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16446006298065186,
+          "id": 1729358483
+        },
+        {
+          "distance": 0.16763031482696533,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.1992698311805725,
+          "id": 1729355435
+        },
+        {
+          "distance": 0.20486575365066528,
+          "id": 1729358483
+        },
+        {
+          "distance": 0.20748037099838257,
+          "id": 1763559105
+        },
+        {
+          "distance": 0.20852530002593994,
+          "id": 1763558931
+        },
+        {
+          "distance": 0.21326464414596558,
+          "id": 1763559555
+        },
+        {
+          "distance": 0.22014224529266357,
+          "id": 1947425061
+        },
+        {
+          "distance": 0.22393792867660522,
+          "id": 1880151285
+        },
+        {
+          "distance": 0.22654229402542114,
+          "id": 1729355195
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1763559685,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "“Bay Area Victorian, Bay Area Deco, Bay Area Funk” by Joyce Kozloff, who was born #onthisday in 1942, is inspired by historical decorative styles found in the Bay Area...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

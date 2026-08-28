@@ -25,6 +25,50 @@
       "taken": 1609950120,
       "taken_at": "Jan 06, 2021 4:22 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1642579436302185,
+          "id": 1763558907
+        },
+        {
+          "distance": 0.17858558893203735,
+          "id": 1729355059
+        },
+        {
+          "distance": 0.18701088428497314,
+          "id": 1729357693
+        },
+        {
+          "distance": 0.18728476762771606,
+          "id": 1763559523
+        },
+        {
+          "distance": 0.18895846605300903,
+          "id": 1729355951
+        },
+        {
+          "distance": 0.1949915885925293,
+          "id": 1729356193
+        },
+        {
+          "distance": 0.19675201177597046,
+          "id": 1729357325
+        },
+        {
+          "distance": 0.19761621952056885,
+          "id": 1880151401
+        },
+        {
+          "distance": 0.2012418508529663,
+          "id": 1729355951
+        },
+        {
+          "distance": 0.20303845405578613,
+          "id": 1729358347
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1763558925,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "From 1804 to 1860, Jean Zuber and his successors offered twenty-five different scenic papers beginning with Les Vues de Suisse (1804)...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

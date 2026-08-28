@@ -42,6 +42,50 @@
       "taken": 1548440220,
       "taken_at": "Jan 25, 2019 6:17 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09530127048492432,
+          "id": 1729356947
+        },
+        {
+          "distance": 0.09530127048492432,
+          "id": 1729356965
+        },
+        {
+          "distance": 0.1314150094985962,
+          "id": 1729356947
+        },
+        {
+          "distance": 0.1314150094985962,
+          "id": 1729356965
+        },
+        {
+          "distance": 0.2313377857208252,
+          "id": 1729357021
+        },
+        {
+          "distance": 0.2668715715408325,
+          "id": 1729356945
+        },
+        {
+          "distance": 0.2724989652633667,
+          "id": 1729357021
+        },
+        {
+          "distance": 0.2759394645690918,
+          "id": 1729356901
+        },
+        {
+          "distance": 0.2769932746887207,
+          "id": 1729356923
+        },
+        {
+          "distance": 0.27715539932250977,
+          "id": 1729356945
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -71,7 +115,7 @@
       }
     ],
     "wof:id": 1729357045,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Shapers are artisans who create surfboards from shaping materials such as foam and wood...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -88,5 +132,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

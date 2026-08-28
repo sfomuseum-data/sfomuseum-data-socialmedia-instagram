@@ -25,6 +25,50 @@
       "taken": 1458322020,
       "taken_at": "Mar 18, 2016 5:27 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07694107294082642,
+          "id": 1763559173
+        },
+        {
+          "distance": 0.12115824222564697,
+          "id": 1763559173
+        },
+        {
+          "distance": 0.13584136962890625,
+          "id": 1729355665
+        },
+        {
+          "distance": 0.1464213728904724,
+          "id": 1729355339
+        },
+        {
+          "distance": 0.16116660833358765,
+          "id": 1729355339
+        },
+        {
+          "distance": 0.17415142059326172,
+          "id": 1729359537
+        },
+        {
+          "distance": 0.17427998781204224,
+          "id": 1729355653
+        },
+        {
+          "distance": 0.1802634596824646,
+          "id": 1729356027
+        },
+        {
+          "distance": 0.18741965293884277,
+          "id": 1729355511
+        },
+        {
+          "distance": 0.1883774995803833,
+          "id": 1729362309
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360929,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Stanley H. Page, a mechanical engineer, early aviator, and photographer, took aerial black-and-white photographs of San Francisco in the 1920s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

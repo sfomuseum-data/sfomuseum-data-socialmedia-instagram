@@ -30,6 +30,50 @@
       "taken": 1637167980,
       "taken_at": "Nov 17, 2021 4:53 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.026190459728240967,
+          "id": 1763558963
+        },
+        {
+          "distance": 0.09453380107879639,
+          "id": 1763558963
+        },
+        {
+          "distance": 0.1153607964515686,
+          "id": 1729355709
+        },
+        {
+          "distance": 0.1462741494178772,
+          "id": 1729355709
+        },
+        {
+          "distance": 0.15979671478271484,
+          "id": 1763559343
+        },
+        {
+          "distance": 0.16049295663833618,
+          "id": 1763559403
+        },
+        {
+          "distance": 0.17609572410583496,
+          "id": 1729359579
+        },
+        {
+          "distance": 0.1800181269645691,
+          "id": 1729356565
+        },
+        {
+          "distance": 0.1822439432144165,
+          "id": 1729355557
+        },
+        {
+          "distance": 0.1840674877166748,
+          "id": 1763559343
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559313,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "e Boeing 787 is the latest wide-body jet airliner manufactured by Boeing...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

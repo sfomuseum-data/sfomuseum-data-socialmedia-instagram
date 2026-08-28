@@ -31,6 +31,50 @@
       "taken": 1554900180,
       "taken_at": "Apr 10, 2019 12:43 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20574194192886353,
+          "id": 1763559629
+        },
+        {
+          "distance": 0.21270251274108887,
+          "id": 1729356083
+        },
+        {
+          "distance": 0.23377180099487305,
+          "id": 1729360007
+        },
+        {
+          "distance": 0.23456567525863647,
+          "id": 1763559629
+        },
+        {
+          "distance": 0.2393518090248108,
+          "id": 1729356083
+        },
+        {
+          "distance": 0.24442821741104126,
+          "id": 1729355971
+        },
+        {
+          "distance": 0.2454935908317566,
+          "id": 1729356623
+        },
+        {
+          "distance": 0.2459227442741394,
+          "id": 1729356009
+        },
+        {
+          "distance": 0.24688935279846191,
+          "id": 1763558621
+        },
+        {
+          "distance": 0.24735265970230103,
+          "id": 1729358537
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729356685,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "#Onthisday in 1937, Trans-Canada Air Lines (TCA), the flag carrier of Canada, was founded...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

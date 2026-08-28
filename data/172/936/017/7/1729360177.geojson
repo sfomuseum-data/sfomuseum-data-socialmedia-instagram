@@ -28,6 +28,50 @@
       "taken": 1477821780,
       "taken_at": "Oct 30, 2016 10:03 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2570621371269226,
+          "id": 1729356811
+        },
+        {
+          "distance": 0.26609063148498535,
+          "id": 1729356819
+        },
+        {
+          "distance": 0.2670046091079712,
+          "id": 1729359919
+        },
+        {
+          "distance": 0.2688792943954468,
+          "id": 1729356577
+        },
+        {
+          "distance": 0.2702426314353943,
+          "id": 1729356557
+        },
+        {
+          "distance": 0.286091148853302,
+          "id": 1880151205
+        },
+        {
+          "distance": 0.2988012433052063,
+          "id": 1729356547
+        },
+        {
+          "distance": 0.3047664165496826,
+          "id": 1729359919
+        },
+        {
+          "distance": 0.30548185110092163,
+          "id": 1729359979
+        },
+        {
+          "distance": 0.3227120041847229,
+          "id": 1729356819
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1729360177,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "Jose Ortega Elementary School is a culturally diverse Pre-Kindergarten through 5th grade public school located in San Francisco’s OMI (Oceanview-Merced Heights-Ingleside) neighborhood...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

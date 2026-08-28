@@ -32,6 +32,50 @@
       "taken": 1474012920,
       "taken_at": "Sep 16, 2016 8:02 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.05020105838775635,
+          "id": 1729361731
+        },
+        {
+          "distance": 0.09548509120941162,
+          "id": 1729361731
+        },
+        {
+          "distance": 0.14778494834899902,
+          "id": 1729360205
+        },
+        {
+          "distance": 0.17776888608932495,
+          "id": 1729360205
+        },
+        {
+          "distance": 0.18906313180923462,
+          "id": 1729360313
+        },
+        {
+          "distance": 0.19276726245880127,
+          "id": 1763559113
+        },
+        {
+          "distance": 0.19384968280792236,
+          "id": 1763559655
+        },
+        {
+          "distance": 0.22031080722808838,
+          "id": 1763559079
+        },
+        {
+          "distance": 0.22140610218048096,
+          "id": 1763559079
+        },
+        {
+          "distance": 0.23066604137420654,
+          "id": 1729360135
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729360329,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "California-based airlines responded to the space-age looks promoted by other carriers...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

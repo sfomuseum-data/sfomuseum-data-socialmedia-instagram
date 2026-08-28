@@ -33,6 +33,50 @@
       "taken": 1655830620,
       "taken_at": "Jun 21, 2022 4:57 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.08604764938354492,
+          "id": 1880151661
+        },
+        {
+          "distance": 0.10697519779205322,
+          "id": 1880151595
+        },
+        {
+          "distance": 0.1225900650024414,
+          "id": 1880151611
+        },
+        {
+          "distance": 0.12792211771011353,
+          "id": 1880151673
+        },
+        {
+          "distance": 0.13051825761795044,
+          "id": 1880151673
+        },
+        {
+          "distance": 0.13207459449768066,
+          "id": 1880151595
+        },
+        {
+          "distance": 0.14375954866409302,
+          "id": 1880151661
+        },
+        {
+          "distance": 0.14559686183929443,
+          "id": 1880151611
+        },
+        {
+          "distance": 0.1460559368133545,
+          "id": 1729361391
+        },
+        {
+          "distance": 0.1471271514892578,
+          "id": 1729355471
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1880151641,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "One of the earliest female French aviators, Mathilde Franck (1866–1956) was taught to fly by the Farman brothers, Henri (1874–1958) and Maurice (1877–1964), in early 1910...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

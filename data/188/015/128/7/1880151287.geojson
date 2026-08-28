@@ -31,6 +31,50 @@
       "taken": 1670349900,
       "taken_at": "Dec 06, 2022 6:05 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1432023048400879,
+          "id": 1880151061
+        },
+        {
+          "distance": 0.14840298891067505,
+          "id": 1880151473
+        },
+        {
+          "distance": 0.14986783266067505,
+          "id": 1880151367
+        },
+        {
+          "distance": 0.17489111423492432,
+          "id": 1880151191
+        },
+        {
+          "distance": 0.17545408010482788,
+          "id": 1880151473
+        },
+        {
+          "distance": 0.175889790058136,
+          "id": 1947425237
+        },
+        {
+          "distance": 0.1759001612663269,
+          "id": 1947425209
+        },
+        {
+          "distance": 0.17676281929016113,
+          "id": 1947425141
+        },
+        {
+          "distance": 0.18457967042922974,
+          "id": 1763559049
+        },
+        {
+          "distance": 0.19421249628067017,
+          "id": 1729355689
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151287,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "In the mid-1980s, Qantas introduced a new corporate look with a fresh livery for their aircraft, along with a new line of cabin and ground crew uniforms...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

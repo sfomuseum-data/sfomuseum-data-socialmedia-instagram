@@ -34,6 +34,50 @@
       "taken": 1567082640,
       "taken_at": "Aug 29, 2019, 12:44 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2138674259185791,
+          "id": 1729356151
+        },
+        {
+          "distance": 0.22761571407318115,
+          "id": 1729356169
+        },
+        {
+          "distance": 0.22825318574905396,
+          "id": 1729356169
+        },
+        {
+          "distance": 0.24364501237869263,
+          "id": 1729355485
+        },
+        {
+          "distance": 0.26263856887817383,
+          "id": 1729355423
+        },
+        {
+          "distance": 0.27035611867904663,
+          "id": 1729356253
+        },
+        {
+          "distance": 0.2821498513221741,
+          "id": 1729356151
+        },
+        {
+          "distance": 0.2933170795440674,
+          "id": 1729355485
+        },
+        {
+          "distance": 0.30795085430145264,
+          "id": 1729355423
+        },
+        {
+          "distance": 0.31741130352020264,
+          "id": 1729356253
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729356139,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777628,
     "wof:name": "Scenic wallpaper from China for export starting in the late 17th century certainly served as an inspiration for the French scenic wallpaper that followed in the nineteenth century...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

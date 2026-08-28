@@ -32,6 +32,50 @@
       "taken": 1640791500,
       "taken_at": "Dec 29, 2021 3:25 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.324393093585968,
+          "id": 1763558809
+        },
+        {
+          "distance": 0.3362061381340027,
+          "id": 1729356221
+        },
+        {
+          "distance": 0.34814900159835815,
+          "id": 1763559431
+        },
+        {
+          "distance": 0.36056870222091675,
+          "id": 1763559363
+        },
+        {
+          "distance": 0.36148929595947266,
+          "id": 1763558809
+        },
+        {
+          "distance": 0.3739028573036194,
+          "id": 1729358159
+        },
+        {
+          "distance": 0.3746228814125061,
+          "id": 1729356221
+        },
+        {
+          "distance": 0.3783530592918396,
+          "id": 1729355029
+        },
+        {
+          "distance": 0.3791852593421936,
+          "id": 1729355937
+        },
+        {
+          "distance": 0.3806532621383667,
+          "id": 1947425133
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1763559671,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Do you see the tricks these objects are playing?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

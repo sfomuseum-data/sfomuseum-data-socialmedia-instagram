@@ -30,6 +30,50 @@
       "taken": 1583764740,
       "taken_at": "Mar 09, 2020 2:39 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.010759472846984863,
+          "id": 1729360003
+        },
+        {
+          "distance": 0.09760510921478271,
+          "id": 1729360003
+        },
+        {
+          "distance": 0.2445141077041626,
+          "id": 1880151787
+        },
+        {
+          "distance": 0.28423261642456055,
+          "id": 1880151787
+        },
+        {
+          "distance": 0.30513060092926025,
+          "id": 1880151239
+        },
+        {
+          "distance": 0.3054943084716797,
+          "id": 1729360509
+        },
+        {
+          "distance": 0.30963224172592163,
+          "id": 1729360509
+        },
+        {
+          "distance": 0.3116755485534668,
+          "id": 1880151747
+        },
+        {
+          "distance": 0.33742982149124146,
+          "id": 1880151005
+        },
+        {
+          "distance": 0.3386378884315491,
+          "id": 1729355709
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729355469,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777625,
     "wof:name": "EVA Air, based near Taipei, Taiwan, was founded on March 8, 1989...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

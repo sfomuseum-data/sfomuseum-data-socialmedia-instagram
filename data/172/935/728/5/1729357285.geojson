@@ -25,6 +25,50 @@
       "taken": 1543947120,
       "taken_at": "Dec 04, 2018 6:12 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17889046669006348,
+          "id": 1729357423
+        },
+        {
+          "distance": 0.20405423641204834,
+          "id": 1729355781
+        },
+        {
+          "distance": 0.21839982271194458,
+          "id": 1729356007
+        },
+        {
+          "distance": 0.2260797619819641,
+          "id": 1729357341
+        },
+        {
+          "distance": 0.24287629127502441,
+          "id": 1729355671
+        },
+        {
+          "distance": 0.2513315677642822,
+          "id": 1729357413
+        },
+        {
+          "distance": 0.2533944845199585,
+          "id": 1729355279
+        },
+        {
+          "distance": 0.2570493817329407,
+          "id": 1729357637
+        },
+        {
+          "distance": 0.2579565644264221,
+          "id": 1729356007
+        },
+        {
+          "distance": 0.259476900100708,
+          "id": 1729357423
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729357285,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777631,
     "wof:name": "CALL FOR SUBMISSIONS: Do you or a friend or family member hold material pertaining to the life and legacy of San Francisco Supervisor #HarveyMilk?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

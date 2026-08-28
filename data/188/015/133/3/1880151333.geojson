@@ -31,6 +31,50 @@
       "taken": 1668099960,
       "taken_at": "Nov 10, 2022 5:06 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.22495698928833008,
+          "id": 1729361109
+        },
+        {
+          "distance": 0.22944635152816772,
+          "id": 1947425309
+        },
+        {
+          "distance": 0.2311381697654724,
+          "id": 1729361109
+        },
+        {
+          "distance": 0.23285168409347534,
+          "id": 1729359597
+        },
+        {
+          "distance": 0.23940175771713257,
+          "id": 1729355993
+        },
+        {
+          "distance": 0.24294716119766235,
+          "id": 1729356173
+        },
+        {
+          "distance": 0.25008976459503174,
+          "id": 1947425179
+        },
+        {
+          "distance": 0.2511370778083801,
+          "id": 1729356533
+        },
+        {
+          "distance": 0.2535973787307739,
+          "id": 1729359877
+        },
+        {
+          "distance": 0.255622923374176,
+          "id": 1729361603
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151333,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "San Francisco and Oakland (SFO) Helicopter Airlines was founded in 1961...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

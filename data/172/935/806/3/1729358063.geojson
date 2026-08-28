@@ -38,6 +38,50 @@
       "taken": 1530102060,
       "taken_at": "Jun 27, 2018 12:21 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3029789328575134,
+          "id": 1763559155
+        },
+        {
+          "distance": 0.3203883767127991,
+          "id": 1729359833
+        },
+        {
+          "distance": 0.3516004681587219,
+          "id": 1763559155
+        },
+        {
+          "distance": 0.35236674547195435,
+          "id": 1880151627
+        },
+        {
+          "distance": 0.35671699047088623,
+          "id": 1880150923
+        },
+        {
+          "distance": 0.3584938645362854,
+          "id": 1729358501
+        },
+        {
+          "distance": 0.3610307574272156,
+          "id": 1729359217
+        },
+        {
+          "distance": 0.36111438274383545,
+          "id": 1880150923
+        },
+        {
+          "distance": 0.36265110969543457,
+          "id": 1880151627
+        },
+        {
+          "distance": 0.36346298456192017,
+          "id": 1729359301
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729358063,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777632,
     "wof:name": "#HappyBirthday to Juan Trippe, the late President of Pan American World Airways, who was born #onthisday in 1899...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

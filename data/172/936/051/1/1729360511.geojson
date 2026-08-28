@@ -25,6 +25,50 @@
       "taken": 1468751760,
       "taken_at": "Jul 17, 2016 10:36 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.30128252506256104,
+          "id": 1880151761
+        },
+        {
+          "distance": 0.33615970611572266,
+          "id": 1880151761
+        },
+        {
+          "distance": 0.33948373794555664,
+          "id": 1729361191
+        },
+        {
+          "distance": 0.34796106815338135,
+          "id": 1729360451
+        },
+        {
+          "distance": 0.3519231677055359,
+          "id": 1729359141
+        },
+        {
+          "distance": 0.35927945375442505,
+          "id": 1729361191
+        },
+        {
+          "distance": 0.36322838068008423,
+          "id": 1729357897
+        },
+        {
+          "distance": 0.3670477271080017,
+          "id": 1729360451
+        },
+        {
+          "distance": 0.36812037229537964,
+          "id": 1729355399
+        },
+        {
+          "distance": 0.3682247996330261,
+          "id": 1729355399
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360511,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Our online database features highlights from our food service collection...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

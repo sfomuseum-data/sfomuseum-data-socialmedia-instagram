@@ -27,6 +27,50 @@
       "taken": 1705079640,
       "taken_at": "Jan 12, 2024 5:14 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09601318836212158,
+          "id": 1947425259
+        },
+        {
+          "distance": 0.13067084550857544,
+          "id": 1947425259
+        },
+        {
+          "distance": 0.14247596263885498,
+          "id": 1880150873
+        },
+        {
+          "distance": 0.15650039911270142,
+          "id": 1880150873
+        },
+        {
+          "distance": 0.270440936088562,
+          "id": 1947425047
+        },
+        {
+          "distance": 0.27091991901397705,
+          "id": 1947424897
+        },
+        {
+          "distance": 0.2908134460449219,
+          "id": 1947424897
+        },
+        {
+          "distance": 0.29883086681365967,
+          "id": 1880150875
+        },
+        {
+          "distance": 0.300753116607666,
+          "id": 1947425047
+        },
+        {
+          "distance": 0.3015604615211487,
+          "id": 1947424951
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947425159,
-    "wof:lastmodified": 1733175327,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Clara Barck Welles (1868–1965) founded the Kalo Shop in 1900 with five other women graduates of the School of the Art Institute of Chicago...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

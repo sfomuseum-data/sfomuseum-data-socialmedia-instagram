@@ -34,6 +34,50 @@
       "taken": 1552657200,
       "taken_at": "Mar 15, 2019 1:40 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.26570749282836914,
+          "id": 1729356423
+        },
+        {
+          "distance": 0.2781704068183899,
+          "id": 1729356423
+        },
+        {
+          "distance": 0.28270483016967773,
+          "id": 1729360469
+        },
+        {
+          "distance": 0.2973126173019409,
+          "id": 1729355563
+        },
+        {
+          "distance": 0.30202776193618774,
+          "id": 1729358921
+        },
+        {
+          "distance": 0.3095289468765259,
+          "id": 1729356033
+        },
+        {
+          "distance": 0.30980801582336426,
+          "id": 1763558979
+        },
+        {
+          "distance": 0.3118587136268616,
+          "id": 1729357043
+        },
+        {
+          "distance": 0.3120395541191101,
+          "id": 1729358929
+        },
+        {
+          "distance": 0.31634771823883057,
+          "id": 1729355563
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729356815,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777629,
     "wof:name": "#Onthisday in 1967, Southwest Airlines was founded by the late Herb Kelleher in Texas...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

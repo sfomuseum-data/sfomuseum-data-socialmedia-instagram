@@ -31,6 +31,50 @@
       "taken": 1619448300,
       "taken_at": "Apr 26, 2021 2:45 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16341733932495117,
+          "id": 1763559089
+        },
+        {
+          "distance": 0.20663917064666748,
+          "id": 1763558855
+        },
+        {
+          "distance": 0.21327131986618042,
+          "id": 1763559089
+        },
+        {
+          "distance": 0.2269187569618225,
+          "id": 1763559451
+        },
+        {
+          "distance": 0.2431936264038086,
+          "id": 1763559463
+        },
+        {
+          "distance": 0.2438819408416748,
+          "id": 1880151661
+        },
+        {
+          "distance": 0.24957811832427979,
+          "id": 1763558855
+        },
+        {
+          "distance": 0.252461314201355,
+          "id": 1729355651
+        },
+        {
+          "distance": 0.26042449474334717,
+          "id": 1729360513
+        },
+        {
+          "distance": 0.26335155963897705,
+          "id": 1763559205
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559175,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "With wanderlust running high these days, a cross-country road trip probably sounds like a lot of fun...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

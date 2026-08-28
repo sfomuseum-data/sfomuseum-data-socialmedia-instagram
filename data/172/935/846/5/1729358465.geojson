@@ -49,6 +49,50 @@
       "taken": 1520844900,
       "taken_at": "Mar 12, 2018 8:55 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17204225063323975,
+          "id": 1880151193
+        },
+        {
+          "distance": 0.17450016736984253,
+          "id": 1763559575
+        },
+        {
+          "distance": 0.18355852365493774,
+          "id": 1729356065
+        },
+        {
+          "distance": 0.18679016828536987,
+          "id": 1729356065
+        },
+        {
+          "distance": 0.18847954273223877,
+          "id": 1729355495
+        },
+        {
+          "distance": 0.19037461280822754,
+          "id": 1729356529
+        },
+        {
+          "distance": 0.19261234998703003,
+          "id": 1880151261
+        },
+        {
+          "distance": 0.199998676776886,
+          "id": 1880151193
+        },
+        {
+          "distance": 0.20004349946975708,
+          "id": 1763559419
+        },
+        {
+          "distance": 0.20469075441360474,
+          "id": 1763559575
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -78,7 +122,7 @@
       }
     ],
     "wof:id": 1729358465,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777633,
     "wof:name": "The Concorde was the first successful transoceanic supersonic airliner...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -95,5 +139,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

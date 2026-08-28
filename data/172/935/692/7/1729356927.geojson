@@ -35,6 +35,50 @@
       "taken": 1550673720,
       "taken_at": "Feb 20, 2019 2:42 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2275688648223877,
+          "id": 1729355261
+        },
+        {
+          "distance": 0.2289797067642212,
+          "id": 1729359047
+        },
+        {
+          "distance": 0.23279118537902832,
+          "id": 1729360551
+        },
+        {
+          "distance": 0.23316210508346558,
+          "id": 1729355113
+        },
+        {
+          "distance": 0.2361515760421753,
+          "id": 1729359047
+        },
+        {
+          "distance": 0.237168550491333,
+          "id": 1729359841
+        },
+        {
+          "distance": 0.2376328706741333,
+          "id": 1729357953
+        },
+        {
+          "distance": 0.23775839805603027,
+          "id": 1729360981
+        },
+        {
+          "distance": 0.2409524917602539,
+          "id": 1729355335
+        },
+        {
+          "distance": 0.24212783575057983,
+          "id": 1729355261
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729356927,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777629,
     "wof:name": "This photo from 1959 shows a group of stewardesses in front of United Air Lines' training center in Cheyenne, Wyoming...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

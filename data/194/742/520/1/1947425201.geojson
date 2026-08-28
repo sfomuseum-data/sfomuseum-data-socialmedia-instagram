@@ -25,6 +25,50 @@
       "taken": 1701450720,
       "taken_at": "Dec 01, 2023 5:12 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1321420669555664,
+          "id": 1880151179
+        },
+        {
+          "distance": 0.1753280758857727,
+          "id": 1880151049
+        },
+        {
+          "distance": 0.17658233642578125,
+          "id": 1947425187
+        },
+        {
+          "distance": 0.18536722660064697,
+          "id": 1729360547
+        },
+        {
+          "distance": 0.18909364938735962,
+          "id": 1880151175
+        },
+        {
+          "distance": 0.1970897912979126,
+          "id": 1880151179
+        },
+        {
+          "distance": 0.2011515498161316,
+          "id": 1880150965
+        },
+        {
+          "distance": 0.20167577266693115,
+          "id": 1880150963
+        },
+        {
+          "distance": 0.21232134103775024,
+          "id": 1880151121
+        },
+        {
+          "distance": 0.2154809832572937,
+          "id": 1880151685
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -53,7 +97,7 @@
       }
     ],
     "wof:id": 1947425201,
-    "wof:lastmodified": 1733175329,
+    "wof:lastmodified": 1787777664,
     "wof:name": "The Concorde was the first and only successful supersonic airliner to sustain regularly scheduled service...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -67,5 +111,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

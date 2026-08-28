@@ -48,6 +48,50 @@
       "taken": 1495135740,
       "taken_at": "May 18, 2017, 7:29 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1516190767288208,
+          "id": 1729359291
+        },
+        {
+          "distance": 0.22666996717453003,
+          "id": 1729359291
+        },
+        {
+          "distance": 0.2460145354270935,
+          "id": 1729359563
+        },
+        {
+          "distance": 0.27266228199005127,
+          "id": 1729359563
+        },
+        {
+          "distance": 0.2983354926109314,
+          "id": 1729361481
+        },
+        {
+          "distance": 0.2987555265426636,
+          "id": 1729359395
+        },
+        {
+          "distance": 0.3017328977584839,
+          "id": 1729359357
+        },
+        {
+          "distance": 0.30350321531295776,
+          "id": 1729358101
+        },
+        {
+          "distance": 0.31855064630508423,
+          "id": 1729360303
+        },
+        {
+          "distance": 0.3255698084831238,
+          "id": 1729361647
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -77,7 +121,7 @@
       }
     ],
     "wof:id": 1729359481,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777636,
     "wof:name": "In Japan, it is customary to remove shoes indoors...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -94,5 +138,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

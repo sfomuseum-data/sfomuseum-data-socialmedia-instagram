@@ -26,6 +26,50 @@
       "taken": 1460800920,
       "taken_at": "Apr 16, 2016, 10:02 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.010683000087738037,
+          "id": 1763558633
+        },
+        {
+          "distance": 0.07552742958068848,
+          "id": 1763558633
+        },
+        {
+          "distance": 0.23323529958724976,
+          "id": 1880151505
+        },
+        {
+          "distance": 0.24215924739837646,
+          "id": 1729361309
+        },
+        {
+          "distance": 0.24484997987747192,
+          "id": 1880151505
+        },
+        {
+          "distance": 0.2506340742111206,
+          "id": 1729357703
+        },
+        {
+          "distance": 0.2510088086128235,
+          "id": 1729358785
+        },
+        {
+          "distance": 0.2744329571723938,
+          "id": 1729359339
+        },
+        {
+          "distance": 0.2748905420303345,
+          "id": 1880151013
+        },
+        {
+          "distance": 0.2913287878036499,
+          "id": 1729358663
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1729360819,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777640,
     "wof:name": "This frequent flyer miles card is from the 1980s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

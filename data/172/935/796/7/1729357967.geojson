@@ -38,6 +38,50 @@
       "taken": 1531393020,
       "taken_at": "Jul 12, 2018 10:57 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.31806689500808716,
+          "id": 1729357485
+        },
+        {
+          "distance": 0.31882935762405396,
+          "id": 1729357519
+        },
+        {
+          "distance": 0.32088375091552734,
+          "id": 1729357117
+        },
+        {
+          "distance": 0.32367414236068726,
+          "id": 1729357485
+        },
+        {
+          "distance": 0.3256531357765198,
+          "id": 1729355521
+        },
+        {
+          "distance": 0.3295484185218811,
+          "id": 1729359379
+        },
+        {
+          "distance": 0.3329310417175293,
+          "id": 1729362631
+        },
+        {
+          "distance": 0.3343160152435303,
+          "id": 1729357559
+        },
+        {
+          "distance": 0.33583271503448486,
+          "id": 1729357559
+        },
+        {
+          "distance": 0.336727499961853,
+          "id": 1729357583
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729357967,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "One of the reasons we look so good (if we do say so ourselves!)..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

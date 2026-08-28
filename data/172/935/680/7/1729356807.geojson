@@ -34,6 +34,50 @@
       "taken": 1552999800,
       "taken_at": "Mar 19, 2019 12:50 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.03260070085525513,
+          "id": 1729355467
+        },
+        {
+          "distance": 0.08225035667419434,
+          "id": 1729355467
+        },
+        {
+          "distance": 0.21529918909072876,
+          "id": 1729360211
+        },
+        {
+          "distance": 0.21624869108200073,
+          "id": 1729360473
+        },
+        {
+          "distance": 0.22689008712768555,
+          "id": 1729360551
+        },
+        {
+          "distance": 0.23428857326507568,
+          "id": 1729357575
+        },
+        {
+          "distance": 0.2405901551246643,
+          "id": 1729360261
+        },
+        {
+          "distance": 0.2414940595626831,
+          "id": 1729360261
+        },
+        {
+          "distance": 0.24267619848251343,
+          "id": 1729359743
+        },
+        {
+          "distance": 0.24598437547683716,
+          "id": 1729360365
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729356807,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Loftleiðir Icelandic (or Iceland Airlines) was established in 1944 in Iceland...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

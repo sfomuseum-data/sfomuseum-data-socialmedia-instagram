@@ -30,6 +30,50 @@
       "taken": 1490950620,
       "taken_at": "Mar 31, 2017 8:57 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.21099448204040527,
+          "id": 1729356023
+        },
+        {
+          "distance": 0.21514731645584106,
+          "id": 1763558821
+        },
+        {
+          "distance": 0.22074979543685913,
+          "id": 1729361153
+        },
+        {
+          "distance": 0.2291654348373413,
+          "id": 1729360475
+        },
+        {
+          "distance": 0.23074710369110107,
+          "id": 1880151013
+        },
+        {
+          "distance": 0.24159955978393555,
+          "id": 1729356023
+        },
+        {
+          "distance": 0.24184465408325195,
+          "id": 1763558821
+        },
+        {
+          "distance": 0.24474579095840454,
+          "id": 1763558719
+        },
+        {
+          "distance": 0.24776238203048706,
+          "id": 1729358583
+        },
+        {
+          "distance": 0.24943524599075317,
+          "id": 1880151161
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729359663,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "The Pan Am Historical Foundation was established #onthisday in 1992 by a group of former Pan American employees to preserve and promote the unique heritage of Pan American World Airways, Inc. and its incomparable contributions to the technology, convenience, safety and excitement of commercial aviation...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

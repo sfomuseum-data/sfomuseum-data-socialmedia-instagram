@@ -25,6 +25,50 @@
       "taken": 1351847100,
       "taken_at": "Nov 02, 2012 9:05 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20057618618011475,
+          "id": 1729362273
+        },
+        {
+          "distance": 0.24626529216766357,
+          "id": 1729361661
+        },
+        {
+          "distance": 0.25374215841293335,
+          "id": 1729362273
+        },
+        {
+          "distance": 0.2886103391647339,
+          "id": 1729362995
+        },
+        {
+          "distance": 0.3132254481315613,
+          "id": 1729361661
+        },
+        {
+          "distance": 0.3317446708679199,
+          "id": 1729362435
+        },
+        {
+          "distance": 0.33988404273986816,
+          "id": 1729362585
+        },
+        {
+          "distance": 0.34704333543777466,
+          "id": 1729362773
+        },
+        {
+          "distance": 0.3555462956428528,
+          "id": 1880151031
+        },
+        {
+          "distance": 0.36074233055114746,
+          "id": 1729361937
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362851,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777654,
     "wof:name": "Things you notice only from a boom lift: the floor under Janet Echelman's T2 artwork echoes the shape of the netting above...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

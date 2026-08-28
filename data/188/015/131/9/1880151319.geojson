@@ -31,6 +31,50 @@
       "taken": 1669019160,
       "taken_at": "Nov 21, 2022 8:26 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.27077341079711914,
+          "id": 1880151371
+        },
+        {
+          "distance": 0.3146408796310425,
+          "id": 1880151371
+        },
+        {
+          "distance": 0.317099928855896,
+          "id": 1947425263
+        },
+        {
+          "distance": 0.32854366302490234,
+          "id": 1880151059
+        },
+        {
+          "distance": 0.33348900079727173,
+          "id": 1880151157
+        },
+        {
+          "distance": 0.33865219354629517,
+          "id": 1947425243
+        },
+        {
+          "distance": 0.3441178798675537,
+          "id": 1880151155
+        },
+        {
+          "distance": 0.3457990884780884,
+          "id": 1947425303
+        },
+        {
+          "distance": 0.34748637676239014,
+          "id": 1880151257
+        },
+        {
+          "distance": 0.34919965267181396,
+          "id": 1880151099
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151319,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Our newest exhibition, “San Francisco Opera: A Centennial Celebration” is now on display!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -28,6 +28,50 @@
       "taken": 1709571300,
       "taken_at": "Mar 04, 2024 4:55 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.29280805587768555,
+          "id": 1947424951
+        },
+        {
+          "distance": 0.32193201780319214,
+          "id": 1947425053
+        },
+        {
+          "distance": 0.32200080156326294,
+          "id": 1763558713
+        },
+        {
+          "distance": 0.32200080156326294,
+          "id": 1729358999
+        },
+        {
+          "distance": 0.33130592107772827,
+          "id": 1880151521
+        },
+        {
+          "distance": 0.3319590091705322,
+          "id": 1880151175
+        },
+        {
+          "distance": 0.33821696043014526,
+          "id": 1729358211
+        },
+        {
+          "distance": 0.3410770297050476,
+          "id": 1880151175
+        },
+        {
+          "distance": 0.34117186069488525,
+          "id": 1763558713
+        },
+        {
+          "distance": 0.34117186069488525,
+          "id": 1729358999
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1947425091,
-    "wof:lastmodified": 1733175325,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Our newest exhibition \"A Cut Above: Airplane Models from the SFO Museum Collection\" is now on display in the Mayor Edwin M. Lee International Terminal Departures Hall...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -70,5 +114,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

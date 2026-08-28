@@ -36,6 +36,50 @@
       "taken": 1518297000,
       "taken_at": "Feb 10, 2018 9:10 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07943952083587646,
+          "id": 1729361093
+        },
+        {
+          "distance": 0.14836132526397705,
+          "id": 1729361093
+        },
+        {
+          "distance": 0.20303577184677124,
+          "id": 1729360019
+        },
+        {
+          "distance": 0.20990771055221558,
+          "id": 1729360637
+        },
+        {
+          "distance": 0.23816871643066406,
+          "id": 1729360637
+        },
+        {
+          "distance": 0.2561020255088806,
+          "id": 1729359719
+        },
+        {
+          "distance": 0.2670552730560303,
+          "id": 1729356845
+        },
+        {
+          "distance": 0.26773083209991455,
+          "id": 1947425065
+        },
+        {
+          "distance": 0.27144789695739746,
+          "id": 1729355091
+        },
+        {
+          "distance": 0.27721840143203735,
+          "id": 1729360019
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729358569,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Before computers, airlines took reservations manually...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

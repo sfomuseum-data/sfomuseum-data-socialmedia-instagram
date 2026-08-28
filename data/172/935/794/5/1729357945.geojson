@@ -44,6 +44,50 @@
       "taken": 1531903620,
       "taken_at": "Jul 18, 2018, 8:47 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09278148412704468,
+          "id": 1729357673
+        },
+        {
+          "distance": 0.1111251711845398,
+          "id": 1729357183
+        },
+        {
+          "distance": 0.11255639791488647,
+          "id": 1729357973
+        },
+        {
+          "distance": 0.11531633138656616,
+          "id": 1729358011
+        },
+        {
+          "distance": 0.1198960542678833,
+          "id": 1729358171
+        },
+        {
+          "distance": 0.12589997053146362,
+          "id": 1763559613
+        },
+        {
+          "distance": 0.13417690992355347,
+          "id": 1729357183
+        },
+        {
+          "distance": 0.13578790426254272,
+          "id": 1729357207
+        },
+        {
+          "distance": 0.14209038019180298,
+          "id": 1729357395
+        },
+        {
+          "distance": 0.14638996124267578,
+          "id": 1729358869
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -73,7 +117,7 @@
       }
     ],
     "wof:id": 1729357945,
-    "wof:lastmodified": 1716929951,
+    "wof:lastmodified": 1787777632,
     "wof:name": "The Convair 240 was the first postwar commercial airliner developed by the Consolidated Vultee Company, or Convair, of San Diego...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -90,5 +134,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

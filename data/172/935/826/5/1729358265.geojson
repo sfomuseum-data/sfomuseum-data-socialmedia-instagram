@@ -35,6 +35,50 @@
       "taken": 1525605720,
       "taken_at": "May 6, 2018, 11:22 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.32856374979019165,
+          "id": 1729361571
+        },
+        {
+          "distance": 0.329288125038147,
+          "id": 1729358273
+        },
+        {
+          "distance": 0.3349086046218872,
+          "id": 1729356189
+        },
+        {
+          "distance": 0.33531057834625244,
+          "id": 1729355527
+        },
+        {
+          "distance": 0.33654552698135376,
+          "id": 1729358875
+        },
+        {
+          "distance": 0.33725786209106445,
+          "id": 1729361571
+        },
+        {
+          "distance": 0.33808648586273193,
+          "id": 1729360345
+        },
+        {
+          "distance": 0.34399402141571045,
+          "id": 1729355527
+        },
+        {
+          "distance": 0.34518110752105713,
+          "id": 1729358259
+        },
+        {
+          "distance": 0.34518110752105713,
+          "id": 1763558733
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729358265,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Since 2004, Brooklyn-based artist Rachel Sussman has been traveling the globe in search of continuously living organisms that are at least two thousand years old, which she photographs and chronicles in her series, \"The Oldest Living Things in the World\"...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

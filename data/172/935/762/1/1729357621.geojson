@@ -38,6 +38,50 @@
       "taken": 1538483880,
       "taken_at": "Oct 02, 2018 12:38 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.03948849439620972,
+          "id": 1729359617
+        },
+        {
+          "distance": 0.11169201135635376,
+          "id": 1729359617
+        },
+        {
+          "distance": 0.2999114394187927,
+          "id": 1729358503
+        },
+        {
+          "distance": 0.30971914529800415,
+          "id": 1729357361
+        },
+        {
+          "distance": 0.3126213550567627,
+          "id": 1729357361
+        },
+        {
+          "distance": 0.330094575881958,
+          "id": 1880151353
+        },
+        {
+          "distance": 0.3304232954978943,
+          "id": 1763559533
+        },
+        {
+          "distance": 0.33663493394851685,
+          "id": 1729358503
+        },
+        {
+          "distance": 0.34564173221588135,
+          "id": 1729360697
+        },
+        {
+          "distance": 0.3458840250968933,
+          "id": 1763559533
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729357621,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777632,
     "wof:name": "In the 1970s, Hughes Airwest advertised itself as the “Top banana in  the West” and caricatured its yellow aircraft as flying bananas on its  ads and promotional materials...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

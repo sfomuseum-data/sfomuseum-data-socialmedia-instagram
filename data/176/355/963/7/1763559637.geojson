@@ -31,6 +31,50 @@
       "taken": 1643126340,
       "taken_at": "Jan 25, 2022 3:59 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09564989805221558,
+          "id": 1729359691
+        },
+        {
+          "distance": 0.10959511995315552,
+          "id": 1729358651
+        },
+        {
+          "distance": 0.12689167261123657,
+          "id": 1729359691
+        },
+        {
+          "distance": 0.13214027881622314,
+          "id": 1729355245
+        },
+        {
+          "distance": 0.13262999057769775,
+          "id": 1729357769
+        },
+        {
+          "distance": 0.13356047868728638,
+          "id": 1729357043
+        },
+        {
+          "distance": 0.1361302137374878,
+          "id": 1729358651
+        },
+        {
+          "distance": 0.14430856704711914,
+          "id": 1729355033
+        },
+        {
+          "distance": 0.14964306354522705,
+          "id": 1763559293
+        },
+        {
+          "distance": 0.15117865800857544,
+          "id": 1729358231
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559637,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "#OnThisDay in 1959, an American Airlines Boeing 707 took off from Los Angeles to New York...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

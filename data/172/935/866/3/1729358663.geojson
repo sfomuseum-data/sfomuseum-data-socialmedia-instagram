@@ -39,6 +39,50 @@
       "taken": 1516644840,
       "taken_at": "Jan 22, 2018 6:14 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.012095391750335693,
+          "id": 1729355649
+        },
+        {
+          "distance": 0.08120882511138916,
+          "id": 1729355649
+        },
+        {
+          "distance": 0.10785126686096191,
+          "id": 1729355477
+        },
+        {
+          "distance": 0.11030787229537964,
+          "id": 1729355477
+        },
+        {
+          "distance": 0.11690092086791992,
+          "id": 1729360975
+        },
+        {
+          "distance": 0.13733667135238647,
+          "id": 1880151013
+        },
+        {
+          "distance": 0.13760298490524292,
+          "id": 1729357345
+        },
+        {
+          "distance": 0.1416175365447998,
+          "id": 1729358563
+        },
+        {
+          "distance": 0.14429110288619995,
+          "id": 1729358929
+        },
+        {
+          "distance": 0.14480900764465332,
+          "id": 1763558957
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729358663,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "#Onthisday in 1970, the world's first ever scheduled Boeing 747 wide-body jet service was flown by Pan American World Airways with Captain Robert M. Weeks in command...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

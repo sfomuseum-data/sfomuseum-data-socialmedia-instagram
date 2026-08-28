@@ -25,6 +25,50 @@
       "taken": 1485773700,
       "taken_at": "Jan 30, 2017 10:55 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20790249109268188,
+          "id": 1729359799
+        },
+        {
+          "distance": 0.21199482679367065,
+          "id": 1729359217
+        },
+        {
+          "distance": 0.223943829536438,
+          "id": 1729359217
+        },
+        {
+          "distance": 0.22455722093582153,
+          "id": 1729359511
+        },
+        {
+          "distance": 0.23130500316619873,
+          "id": 1729356715
+        },
+        {
+          "distance": 0.2320101261138916,
+          "id": 1729359161
+        },
+        {
+          "distance": 0.23335802555084229,
+          "id": 1729359511
+        },
+        {
+          "distance": 0.23601704835891724,
+          "id": 1729360981
+        },
+        {
+          "distance": 0.24058318138122559,
+          "id": 1729356289
+        },
+        {
+          "distance": 0.24196749925613403,
+          "id": 1729356715
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359875,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "This 1960 American Airlines flight information packet advertises the airline's new Boeing 707 jets...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

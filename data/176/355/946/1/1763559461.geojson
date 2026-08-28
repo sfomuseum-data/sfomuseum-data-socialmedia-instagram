@@ -32,6 +32,50 @@
       "taken": 1629311220,
       "taken_at": "Aug 18, 2021 6:27 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11806219816207886,
+          "id": 1763558957
+        },
+        {
+          "distance": 0.1256362795829773,
+          "id": 1729357689
+        },
+        {
+          "distance": 0.14020079374313354,
+          "id": 1729358921
+        },
+        {
+          "distance": 0.1528046727180481,
+          "id": 1729358929
+        },
+        {
+          "distance": 0.1530996561050415,
+          "id": 1763558957
+        },
+        {
+          "distance": 0.1627545952796936,
+          "id": 1729360353
+        },
+        {
+          "distance": 0.16288775205612183,
+          "id": 1763558705
+        },
+        {
+          "distance": 0.16832667589187622,
+          "id": 1729355649
+        },
+        {
+          "distance": 0.1685326099395752,
+          "id": 1729356033
+        },
+        {
+          "distance": 0.16911369562149048,
+          "id": 1729355477
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1763559461,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "The first wide-body jumbo-jet to be introduced, the Boeing 747 revolutionized long-distance, transoceanic commercial aviation and set the standard for all other wide-body designs that followed...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

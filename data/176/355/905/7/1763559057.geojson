@@ -29,6 +29,50 @@
       "taken": 1627055160,
       "taken_at": "Jul 23, 2021 3:46 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16462182998657227,
+          "id": 1880151573
+        },
+        {
+          "distance": 0.1885840892791748,
+          "id": 1880151573
+        },
+        {
+          "distance": 0.22479873895645142,
+          "id": 1729356893
+        },
+        {
+          "distance": 0.23446369171142578,
+          "id": 1763559183
+        },
+        {
+          "distance": 0.2419000267982483,
+          "id": 1763559037
+        },
+        {
+          "distance": 0.25324171781539917,
+          "id": 1763559037
+        },
+        {
+          "distance": 0.2564135193824768,
+          "id": 1729356897
+        },
+        {
+          "distance": 0.25839412212371826,
+          "id": 1763559183
+        },
+        {
+          "distance": 0.26211971044540405,
+          "id": 1729359547
+        },
+        {
+          "distance": 0.26320910453796387,
+          "id": 1729359949
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1763559057,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "#Onthisday in 2019, the first flight landed at SFO’s new Harvey Milk Terminal 1...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -41,6 +41,50 @@
       "taken": 1524910260,
       "taken_at": "Apr 28, 2018 10:11 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11050623655319214,
+          "id": 1729358173
+        },
+        {
+          "distance": 0.12563318014144897,
+          "id": 1729361627
+        },
+        {
+          "distance": 0.13624048233032227,
+          "id": 1729358025
+        },
+        {
+          "distance": 0.14527732133865356,
+          "id": 1729358399
+        },
+        {
+          "distance": 0.16485315561294556,
+          "id": 1729358173
+        },
+        {
+          "distance": 0.16532278060913086,
+          "id": 1729358399
+        },
+        {
+          "distance": 0.168664813041687,
+          "id": 1729358025
+        },
+        {
+          "distance": 0.180905282497406,
+          "id": 1729358591
+        },
+        {
+          "distance": 0.18127650022506714,
+          "id": 1729358205
+        },
+        {
+          "distance": 0.18557488918304443,
+          "id": 1729358445
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -70,7 +114,7 @@
       }
     ],
     "wof:id": 1729358301,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Shigaraki, located in the mountains east of Kyoto in Shiga Prefecture, began making stoneware in the thirteenth century...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -87,5 +131,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

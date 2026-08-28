@@ -28,6 +28,50 @@
       "taken": 1687439220,
       "taken_at": "Jun 22, 2023 1:07 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.05514204502105713,
+          "id": 1880150993
+        },
+        {
+          "distance": 0.06405729055404663,
+          "id": 1729355237
+        },
+        {
+          "distance": 0.08878344297409058,
+          "id": 1880151649
+        },
+        {
+          "distance": 0.09725373983383179,
+          "id": 1947425151
+        },
+        {
+          "distance": 0.1148715615272522,
+          "id": 1880151235
+        },
+        {
+          "distance": 0.15709704160690308,
+          "id": 1763559417
+        },
+        {
+          "distance": 0.17199349403381348,
+          "id": 1880150993
+        },
+        {
+          "distance": 0.17505979537963867,
+          "id": 1947425151
+        },
+        {
+          "distance": 0.18494004011154175,
+          "id": 1947425251
+        },
+        {
+          "distance": 0.19026100635528564,
+          "id": 1729355237
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1880150869,
-    "wof:lastmodified": 1733175333,
+    "wof:lastmodified": 1787777661,
     "wof:name": "Did you know that Harvey Milk was connected to the creation of the Rainbow Flag as a symbol of gay pride?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

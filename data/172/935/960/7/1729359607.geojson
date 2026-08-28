@@ -31,6 +31,50 @@
       "taken": 1492709880,
       "taken_at": "Apr 20, 2017 5:38 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.34944283962249756,
+          "id": 1729357723
+        },
+        {
+          "distance": 0.35102951526641846,
+          "id": 1729359689
+        },
+        {
+          "distance": 0.36082780361175537,
+          "id": 1763558755
+        },
+        {
+          "distance": 0.36171209812164307,
+          "id": 1729357981
+        },
+        {
+          "distance": 0.36538511514663696,
+          "id": 1763558755
+        },
+        {
+          "distance": 0.3688826560974121,
+          "id": 1729359939
+        },
+        {
+          "distance": 0.36983227729797363,
+          "id": 1880151361
+        },
+        {
+          "distance": 0.37239062786102295,
+          "id": 1729359831
+        },
+        {
+          "distance": 0.3727646470069885,
+          "id": 1729355631
+        },
+        {
+          "distance": 0.3728557229042053,
+          "id": 1729359939
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729359607,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "On display in Terminal 2 is the history of the design and use of ouija boards, or talking boards, from the 1800s to the present...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

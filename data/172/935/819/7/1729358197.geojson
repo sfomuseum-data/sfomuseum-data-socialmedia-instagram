@@ -40,6 +40,50 @@
       "taken": 1526846160,
       "taken_at": "May 20, 2018 7:56 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11993813514709473,
+          "id": 1729358321
+        },
+        {
+          "distance": 0.15047991275787354,
+          "id": 1729358321
+        },
+        {
+          "distance": 0.16624468564987183,
+          "id": 1729357297
+        },
+        {
+          "distance": 0.22060084342956543,
+          "id": 1729357957
+        },
+        {
+          "distance": 0.22865480184555054,
+          "id": 1729357297
+        },
+        {
+          "distance": 0.2515406012535095,
+          "id": 1729357651
+        },
+        {
+          "distance": 0.2644355893135071,
+          "id": 1763559021
+        },
+        {
+          "distance": 0.2710909843444824,
+          "id": 1729355581
+        },
+        {
+          "distance": 0.27570271492004395,
+          "id": 1729358075
+        },
+        {
+          "distance": 0.29240965843200684,
+          "id": 1729358075
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729358197,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Did you know that the rainbow flag originally had eight colors, each of which had a special significance?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

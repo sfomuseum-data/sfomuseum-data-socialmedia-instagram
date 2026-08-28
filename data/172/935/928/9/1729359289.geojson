@@ -32,6 +32,50 @@
       "taken": 1500545340,
       "taken_at": "Jul 20, 2017 10:09 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18147778511047363,
+          "id": 1729357969
+        },
+        {
+          "distance": 0.21102166175842285,
+          "id": 1729357969
+        },
+        {
+          "distance": 0.22131413221359253,
+          "id": 1729359633
+        },
+        {
+          "distance": 0.22131413221359253,
+          "id": 1763558661
+        },
+        {
+          "distance": 0.23124700784683228,
+          "id": 1729359633
+        },
+        {
+          "distance": 0.23124700784683228,
+          "id": 1763558661
+        },
+        {
+          "distance": 0.24156510829925537,
+          "id": 1729357177
+        },
+        {
+          "distance": 0.24911850690841675,
+          "id": 1729360465
+        },
+        {
+          "distance": 0.25147587060928345,
+          "id": 1729355091
+        },
+        {
+          "distance": 0.2535862326622009,
+          "id": 1729357177
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729359289,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Do you remember this terminal at SFO?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -30,6 +30,50 @@
       "taken": 1625239320,
       "taken_at": "Jul 02, 2021 3:22 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3502417206764221,
+          "id": 1880150953
+        },
+        {
+          "distance": 0.39883899688720703,
+          "id": 1880150953
+        },
+        {
+          "distance": 0.4016333818435669,
+          "id": 1729360029
+        },
+        {
+          "distance": 0.4070035219192505,
+          "id": 1880151359
+        },
+        {
+          "distance": 0.4073195457458496,
+          "id": 1880151505
+        },
+        {
+          "distance": 0.4102175235748291,
+          "id": 1729355971
+        },
+        {
+          "distance": 0.41071635484695435,
+          "id": 1729356527
+        },
+        {
+          "distance": 0.41409820318222046,
+          "id": 1729355971
+        },
+        {
+          "distance": 0.41637951135635376,
+          "id": 1729356699
+        },
+        {
+          "distance": 0.41637951135635376,
+          "id": 1729356671
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559075,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Word of the day: phillumenist - a collector of matchbooks or matchboxes, \"lover of light.\"..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

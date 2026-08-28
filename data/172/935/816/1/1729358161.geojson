@@ -41,6 +41,50 @@
       "taken": 1528188540,
       "taken_at": "Jun 5, 2018, 8:49 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16472256183624268,
+          "id": 1880151067
+        },
+        {
+          "distance": 0.1685360074043274,
+          "id": 1729356043
+        },
+        {
+          "distance": 0.1687610149383545,
+          "id": 1729357145
+        },
+        {
+          "distance": 0.1760406494140625,
+          "id": 1729358317
+        },
+        {
+          "distance": 0.18075335025787354,
+          "id": 1729356979
+        },
+        {
+          "distance": 0.18150091171264648,
+          "id": 1729355429
+        },
+        {
+          "distance": 0.18269890546798706,
+          "id": 1763559203
+        },
+        {
+          "distance": 0.18322163820266724,
+          "id": 1729361163
+        },
+        {
+          "distance": 0.18347787857055664,
+          "id": 1880151589
+        },
+        {
+          "distance": 0.18382251262664795,
+          "id": 1729361603
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -70,7 +114,7 @@
       }
     ],
     "wof:id": 1729358161,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777633,
     "wof:name": "The all-metal, twin-engine Boeing Model 247 was a revolutionary airplane when introduced in 1933...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -87,5 +131,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

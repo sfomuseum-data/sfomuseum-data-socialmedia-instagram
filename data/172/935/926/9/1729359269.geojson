@@ -41,6 +41,50 @@
       "taken": 1501415460,
       "taken_at": "Jul 30, 2017 11:51 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24840164184570312,
+          "id": 1729360113
+        },
+        {
+          "distance": 0.29186612367630005,
+          "id": 1947424819
+        },
+        {
+          "distance": 0.30862540006637573,
+          "id": 1947424819
+        },
+        {
+          "distance": 0.31554555892944336,
+          "id": 1729358179
+        },
+        {
+          "distance": 0.3225708603858948,
+          "id": 1729360113
+        },
+        {
+          "distance": 0.3276621103286743,
+          "id": 1729358179
+        },
+        {
+          "distance": 0.33344167470932007,
+          "id": 1729359877
+        },
+        {
+          "distance": 0.3437334895133972,
+          "id": 1729358175
+        },
+        {
+          "distance": 0.34661978483200073,
+          "id": 1729360057
+        },
+        {
+          "distance": 0.34816157817840576,
+          "id": 1729359461
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -70,7 +114,7 @@
       }
     ],
     "wof:id": 1729359269,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Founded in 1895, Lick-Wilmerding High School inspires students to become self-directed, lifelong learners who contribute to the world with knowledge, skill, creativity, compassion, and can-do confidence...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -87,5 +131,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

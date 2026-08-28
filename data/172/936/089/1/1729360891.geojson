@@ -25,6 +25,50 @@
       "taken": 1458844680,
       "taken_at": "Mar 24, 2016 6:38 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14288508892059326,
+          "id": 1729358781
+        },
+        {
+          "distance": 0.1571258306503296,
+          "id": 1729358781
+        },
+        {
+          "distance": 0.17589712142944336,
+          "id": 1880151691
+        },
+        {
+          "distance": 0.18152540922164917,
+          "id": 1729359651
+        },
+        {
+          "distance": 0.18230164051055908,
+          "id": 1880151387
+        },
+        {
+          "distance": 0.18668872117996216,
+          "id": 1763559651
+        },
+        {
+          "distance": 0.19349855184555054,
+          "id": 1729360319
+        },
+        {
+          "distance": 0.19403165578842163,
+          "id": 1729356091
+        },
+        {
+          "distance": 0.20068895816802979,
+          "id": 1880151189
+        },
+        {
+          "distance": 0.20120495557785034,
+          "id": 1729358371
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360891,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Pacific Air Transport (PAT) was founded in 1926 by Vern C. Gorst, a transportation-minded entrepreneur with ties to the Pacific Northwest and California...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

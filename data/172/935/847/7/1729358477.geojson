@@ -35,6 +35,50 @@
       "taken": 1520861520,
       "taken_at": "Mar 12, 2018 1:32 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2773463726043701,
+          "id": 1729356715
+        },
+        {
+          "distance": 0.28360480070114136,
+          "id": 1729357679
+        },
+        {
+          "distance": 0.2878895401954651,
+          "id": 1729360367
+        },
+        {
+          "distance": 0.29789042472839355,
+          "id": 1729355587
+        },
+        {
+          "distance": 0.29947930574417114,
+          "id": 1729359701
+        },
+        {
+          "distance": 0.3003234267234802,
+          "id": 1729359217
+        },
+        {
+          "distance": 0.30067330598831177,
+          "id": 1729359875
+        },
+        {
+          "distance": 0.3009601831436157,
+          "id": 1763559085
+        },
+        {
+          "distance": 0.30183476209640503,
+          "id": 1729356715
+        },
+        {
+          "distance": 0.30205589532852173,
+          "id": 1729359251
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729358477,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777633,
     "wof:name": "In 1949, Trans-Canada Air Lines produced this traveler information brochure for their passengers traveling with babies...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

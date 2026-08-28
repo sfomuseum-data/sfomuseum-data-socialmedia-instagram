@@ -25,6 +25,50 @@
       "taken": 1460892540,
       "taken_at": "Apr 17, 2016 11:29 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2635624408721924,
+          "id": 1729355129
+        },
+        {
+          "distance": 0.26744139194488525,
+          "id": 1729359635
+        },
+        {
+          "distance": 0.27223074436187744,
+          "id": 1729355123
+        },
+        {
+          "distance": 0.27794796228408813,
+          "id": 1763558871
+        },
+        {
+          "distance": 0.29845261573791504,
+          "id": 1763558871
+        },
+        {
+          "distance": 0.2986701726913452,
+          "id": 1763559197
+        },
+        {
+          "distance": 0.3015708923339844,
+          "id": 1729357777
+        },
+        {
+          "distance": 0.3075316548347473,
+          "id": 1729362613
+        },
+        {
+          "distance": 0.30974501371383667,
+          "id": 1729355997
+        },
+        {
+          "distance": 0.31140226125717163,
+          "id": 1763559289
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360803,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Stuart Hall and Convent of the Sacred Heart High School are located in San Francisco’s Pacific Heights neighborhood...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

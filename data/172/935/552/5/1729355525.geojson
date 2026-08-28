@@ -32,6 +32,50 @@
       "taken": 1581700140,
       "taken_at": "Feb 14, 2020 5:09 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2755996584892273,
+          "id": 1729355739
+        },
+        {
+          "distance": 0.2761508822441101,
+          "id": 1729355739
+        },
+        {
+          "distance": 0.29370826482772827,
+          "id": 1729362343
+        },
+        {
+          "distance": 0.30023735761642456,
+          "id": 1729362401
+        },
+        {
+          "distance": 0.30092936754226685,
+          "id": 1729362343
+        },
+        {
+          "distance": 0.30225783586502075,
+          "id": 1880151305
+        },
+        {
+          "distance": 0.31091415882110596,
+          "id": 1729355807
+        },
+        {
+          "distance": 0.3113659620285034,
+          "id": 1729362401
+        },
+        {
+          "distance": 0.31348949670791626,
+          "id": 1729355807
+        },
+        {
+          "distance": 0.3166084289550781,
+          "id": 1729361283
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729355525,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777626,
     "wof:name": "Did you know that “California Studio Craft: Featuring Works from the Forrest L. Merrill Collection” features work by the husband and wife team of woodworker Bob Stocksdale (1913–2003) and textile artist Kay Sekimachi (b...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

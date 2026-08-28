@@ -25,6 +25,50 @@
       "taken": 1464801660,
       "taken_at": "Jun 01, 2016 5:21 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1074633002281189,
+          "id": 1729360907
+        },
+        {
+          "distance": 0.1479141116142273,
+          "id": 1729360149
+        },
+        {
+          "distance": 0.15055209398269653,
+          "id": 1763559475
+        },
+        {
+          "distance": 0.15613025426864624,
+          "id": 1729355113
+        },
+        {
+          "distance": 0.15811139345169067,
+          "id": 1729360843
+        },
+        {
+          "distance": 0.1614505648612976,
+          "id": 1729360907
+        },
+        {
+          "distance": 0.16453438997268677,
+          "id": 1729356563
+        },
+        {
+          "distance": 0.1675662398338318,
+          "id": 1729360149
+        },
+        {
+          "distance": 0.17359042167663574,
+          "id": 1729361245
+        },
+        {
+          "distance": 0.17619448900222778,
+          "id": 1729355113
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360657,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "In 1955, designer Oleg Cassini introduced a fitted suit for TWA hostesses that was issued for five years...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

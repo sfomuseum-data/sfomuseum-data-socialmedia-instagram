@@ -25,6 +25,50 @@
       "taken": 1449404640,
       "taken_at": "Dec 06, 2015 12:24 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1532157063484192,
+          "id": 1729361373
+        },
+        {
+          "distance": 0.15801221132278442,
+          "id": 1729361351
+        },
+        {
+          "distance": 0.1791071891784668,
+          "id": 1729362077
+        },
+        {
+          "distance": 0.18368065357208252,
+          "id": 1729359257
+        },
+        {
+          "distance": 0.18411487340927124,
+          "id": 1729358317
+        },
+        {
+          "distance": 0.18421584367752075,
+          "id": 1729357053
+        },
+        {
+          "distance": 0.18626278638839722,
+          "id": 1729355861
+        },
+        {
+          "distance": 0.19082379341125488,
+          "id": 1729356303
+        },
+        {
+          "distance": 0.19113749265670776,
+          "id": 1880151523
+        },
+        {
+          "distance": 0.19136375188827515,
+          "id": 1729360561
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361297,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "#OnThisDay in 1935, Pan American Airway’s famous China Clipper arrived back in Alameda on San Francisco Bay after its record-breaking first flight to Asia...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

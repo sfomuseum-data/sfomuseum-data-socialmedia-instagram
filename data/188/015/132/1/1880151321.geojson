@@ -30,6 +30,50 @@
       "taken": 1668772800,
       "taken_at": "Nov 18, 2022 12:00 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2627831697463989,
+          "id": 1729357599
+        },
+        {
+          "distance": 0.274030864238739,
+          "id": 1729361019
+        },
+        {
+          "distance": 0.27451199293136597,
+          "id": 1729356113
+        },
+        {
+          "distance": 0.28860485553741455,
+          "id": 1729355799
+        },
+        {
+          "distance": 0.2944774031639099,
+          "id": 1729360247
+        },
+        {
+          "distance": 0.29791754484176636,
+          "id": 1729355041
+        },
+        {
+          "distance": 0.29950159788131714,
+          "id": 1729360077
+        },
+        {
+          "distance": 0.2999759316444397,
+          "id": 1729356113
+        },
+        {
+          "distance": 0.3038431406021118,
+          "id": 1729360689
+        },
+        {
+          "distance": 0.30416691303253174,
+          "id": 1729361129
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151321,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Under construction for three years, the 1954 San Francisco International Airport Terminal building was extensively documented...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

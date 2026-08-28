@@ -32,6 +32,50 @@
       "taken": 1675681080,
       "taken_at": "Feb 06, 2023 10:58 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.01268845796585083,
+          "id": 1947425243
+        },
+        {
+          "distance": 0.03399503231048584,
+          "id": 1947425303
+        },
+        {
+          "distance": 0.04076749086380005,
+          "id": 1880150883
+        },
+        {
+          "distance": 0.05338853597640991,
+          "id": 1880151155
+        },
+        {
+          "distance": 0.08059686422348022,
+          "id": 1880150979
+        },
+        {
+          "distance": 0.09467858076095581,
+          "id": 1947425243
+        },
+        {
+          "distance": 0.09821641445159912,
+          "id": 1947425303
+        },
+        {
+          "distance": 0.10244995355606079,
+          "id": 1880150883
+        },
+        {
+          "distance": 0.12459385395050049,
+          "id": 1880151155
+        },
+        {
+          "distance": 0.14589554071426392,
+          "id": 1880151207
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1880151157,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "“The voice is a wonderful thing, but I like realism...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

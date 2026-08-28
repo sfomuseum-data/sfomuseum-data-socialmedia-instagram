@@ -29,6 +29,50 @@
       "taken": 1602002040,
       "taken_at": "Oct 06, 2020 4:34 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13506191968917847,
+          "id": 1729355119
+        },
+        {
+          "distance": 0.19215792417526245,
+          "id": 1729355119
+        },
+        {
+          "distance": 0.20359736680984497,
+          "id": 1880150939
+        },
+        {
+          "distance": 0.20875561237335205,
+          "id": 1763558947
+        },
+        {
+          "distance": 0.2162928581237793,
+          "id": 1729355147
+        },
+        {
+          "distance": 0.22046083211898804,
+          "id": 1729355341
+        },
+        {
+          "distance": 0.22170406579971313,
+          "id": 1763558947
+        },
+        {
+          "distance": 0.22413122653961182,
+          "id": 1729355383
+        },
+        {
+          "distance": 0.22424417734146118,
+          "id": 1729355177
+        },
+        {
+          "distance": 0.23086011409759521,
+          "id": 1947425285
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729355025,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777614,
     "wof:name": "James Chronister approached making “California (1)” by first hiking in the Bodega Bay area of Northern California and taking hundreds of color photos of the terrain...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1484765160,
       "taken_at": "Jan 18, 2017 6:46 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.27302831411361694,
+          "id": 1729360189
+        },
+        {
+          "distance": 0.2794058322906494,
+          "id": 1729360189
+        },
+        {
+          "distance": 0.3022197484970093,
+          "id": 1729359939
+        },
+        {
+          "distance": 0.3761012554168701,
+          "id": 1763558727
+        },
+        {
+          "distance": 0.3761012554168701,
+          "id": 1729358761
+        },
+        {
+          "distance": 0.37962204217910767,
+          "id": 1729361415
+        },
+        {
+          "distance": 0.3927517533302307,
+          "id": 1729360897
+        },
+        {
+          "distance": 0.39433717727661133,
+          "id": 1729360037
+        },
+        {
+          "distance": 0.3955502510070801,
+          "id": 1729361415
+        },
+        {
+          "distance": 0.4218395948410034,
+          "id": 1729361253
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359905,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "Printed on the back of a William Fuld Ouija board in 1902 are instructions to “Place the board upon the knees of two persons, lady and gentleman preferred, with the small table upon the board...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

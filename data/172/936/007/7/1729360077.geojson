@@ -25,6 +25,50 @@
       "taken": 1480193700,
       "taken_at": "Nov 26, 2016 8:55 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1233413815498352,
+          "id": 1729356113
+        },
+        {
+          "distance": 0.16939020156860352,
+          "id": 1729360689
+        },
+        {
+          "distance": 0.18343043327331543,
+          "id": 1729356113
+        },
+        {
+          "distance": 0.19196820259094238,
+          "id": 1729360337
+        },
+        {
+          "distance": 0.19572794437408447,
+          "id": 1729360247
+        },
+        {
+          "distance": 0.19870662689208984,
+          "id": 1729355041
+        },
+        {
+          "distance": 0.199956476688385,
+          "id": 1729361129
+        },
+        {
+          "distance": 0.2016150951385498,
+          "id": 1729356895
+        },
+        {
+          "distance": 0.21022814512252808,
+          "id": 1729355041
+        },
+        {
+          "distance": 0.21237462759017944,
+          "id": 1729359077
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360077,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "SFO is constantly planning and implementing improvements to provide innovative terminals with the capacity to support an ever-increasing number of passengers...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

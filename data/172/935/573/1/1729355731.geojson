@@ -33,6 +33,50 @@
       "taken": 1577376180,
       "taken_at": "Dec 26, 2019, 4:03 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14468872547149658,
+          "id": 1729357809
+        },
+        {
+          "distance": 0.1583048701286316,
+          "id": 1729355737
+        },
+        {
+          "distance": 0.1937044858932495,
+          "id": 1729357809
+        },
+        {
+          "distance": 0.20878487825393677,
+          "id": 1729355737
+        },
+        {
+          "distance": 0.2288808822631836,
+          "id": 1729358965
+        },
+        {
+          "distance": 0.24206453561782837,
+          "id": 1729358965
+        },
+        {
+          "distance": 0.25159531831741333,
+          "id": 1729360759
+        },
+        {
+          "distance": 0.27157771587371826,
+          "id": 1729359415
+        },
+        {
+          "distance": 0.2758532762527466,
+          "id": 1729361059
+        },
+        {
+          "distance": 0.27703964710235596,
+          "id": 1729360759
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729355731,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777627,
     "wof:name": "In 1969, Continental Airlines received Civil Aeronautics Board approval for a route to Hawai’i...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

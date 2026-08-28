@@ -32,6 +32,50 @@
       "taken": 1557741060,
       "taken_at": "May 13, 2019 9:51 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3841264843940735,
+          "id": 1729357777
+        },
+        {
+          "distance": 0.40051448345184326,
+          "id": 1729360993
+        },
+        {
+          "distance": 0.4128572940826416,
+          "id": 1729357777
+        },
+        {
+          "distance": 0.41755956411361694,
+          "id": 1729360153
+        },
+        {
+          "distance": 0.41759347915649414,
+          "id": 1729360993
+        },
+        {
+          "distance": 0.421209454536438,
+          "id": 1729362863
+        },
+        {
+          "distance": 0.4275916814804077,
+          "id": 1729360153
+        },
+        {
+          "distance": 0.4281959533691406,
+          "id": 1729355397
+        },
+        {
+          "distance": 0.4301333427429199,
+          "id": 1729362001
+        },
+        {
+          "distance": 0.43245041370391846,
+          "id": 1763559197
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729356599,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Greenleaf TK-8 is a Title 1 Oakland public school grounded in diverse community relationships...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

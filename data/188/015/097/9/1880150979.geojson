@@ -31,6 +31,50 @@
       "taken": 1681479780,
       "taken_at": "Apr 14, 2023 1:43 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07930237054824829,
+          "id": 1947425243
+        },
+        {
+          "distance": 0.08069294691085815,
+          "id": 1880151157
+        },
+        {
+          "distance": 0.09131777286529541,
+          "id": 1947425303
+        },
+        {
+          "distance": 0.09163981676101685,
+          "id": 1880150883
+        },
+        {
+          "distance": 0.09890735149383545,
+          "id": 1880151011
+        },
+        {
+          "distance": 0.1046801209449768,
+          "id": 1880151155
+        },
+        {
+          "distance": 0.1377372145652771,
+          "id": 1947425243
+        },
+        {
+          "distance": 0.1415482759475708,
+          "id": 1880151157
+        },
+        {
+          "distance": 0.1423499584197998,
+          "id": 1880151207
+        },
+        {
+          "distance": 0.1434423327445984,
+          "id": 1947425303
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880150979,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777661,
     "wof:name": "American soprano Dorothy Kirsten (1910–92) started her performing arts career as a radio singer at WINS-New York...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

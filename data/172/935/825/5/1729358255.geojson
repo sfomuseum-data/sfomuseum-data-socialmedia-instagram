@@ -38,6 +38,50 @@
       "taken": 1525855020,
       "taken_at": "May 9, 2018, 8:37 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12056279182434082,
+          "id": 1729358263
+        },
+        {
+          "distance": 0.14813166856765747,
+          "id": 1729358257
+        },
+        {
+          "distance": 0.15583962202072144,
+          "id": 1729358263
+        },
+        {
+          "distance": 0.17492938041687012,
+          "id": 1729358257
+        },
+        {
+          "distance": 0.2603207230567932,
+          "id": 1947424901
+        },
+        {
+          "distance": 0.2616425156593323,
+          "id": 1729355951
+        },
+        {
+          "distance": 0.2661954164505005,
+          "id": 1729355059
+        },
+        {
+          "distance": 0.2679786682128906,
+          "id": 1880151499
+        },
+        {
+          "distance": 0.2702646255493164,
+          "id": 1880151677
+        },
+        {
+          "distance": 0.2719529867172241,
+          "id": 1729355739
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729358255,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777633,
     "wof:name": "The sixteenth President of the United States, Abraham Lincoln (1809–65) began serving in March of 1861...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

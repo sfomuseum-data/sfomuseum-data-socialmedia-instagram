@@ -38,6 +38,50 @@
       "taken": 1517505600,
       "taken_at": "Feb 01, 2018 5:20 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.35803937911987305,
+          "id": 1947424939
+        },
+        {
+          "distance": 0.3660488724708557,
+          "id": 1729356559
+        },
+        {
+          "distance": 0.36789435148239136,
+          "id": 1729355851
+        },
+        {
+          "distance": 0.3844582438468933,
+          "id": 1729359871
+        },
+        {
+          "distance": 0.3855345845222473,
+          "id": 1729358263
+        },
+        {
+          "distance": 0.3888816237449646,
+          "id": 1947425007
+        },
+        {
+          "distance": 0.3919253945350647,
+          "id": 1729360947
+        },
+        {
+          "distance": 0.3989710807800293,
+          "id": 1729357451
+        },
+        {
+          "distance": 0.4002876877784729,
+          "id": 1729355981
+        },
+        {
+          "distance": 0.4039957523345947,
+          "id": 1729358255
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729358605,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "As with so much American folk art, the maker of this pictorial carving and its origins is unknown...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

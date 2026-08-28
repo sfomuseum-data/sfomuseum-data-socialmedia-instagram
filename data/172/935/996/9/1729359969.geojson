@@ -32,6 +32,50 @@
       "taken": 1482859560,
       "taken_at": "Dec 27, 2016 5:26 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19726800918579102,
+          "id": 1763559155
+        },
+        {
+          "distance": 0.22264832258224487,
+          "id": 1729358623
+        },
+        {
+          "distance": 0.22264832258224487,
+          "id": 1763558725
+        },
+        {
+          "distance": 0.2261965274810791,
+          "id": 1729359097
+        },
+        {
+          "distance": 0.22744423151016235,
+          "id": 1729359167
+        },
+        {
+          "distance": 0.23915719985961914,
+          "id": 1763559155
+        },
+        {
+          "distance": 0.2449551224708557,
+          "id": 1729358625
+        },
+        {
+          "distance": 0.24645769596099854,
+          "id": 1729359701
+        },
+        {
+          "distance": 0.25430572032928467,
+          "id": 1729358727
+        },
+        {
+          "distance": 0.2567673325538635,
+          "id": 1729358625
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729359969,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "On May 1, 1947, #United Air Lines inaugurated their first flight to #Honolulu in a #Douglas DC-6, an eight-hour trip from San Francisco...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

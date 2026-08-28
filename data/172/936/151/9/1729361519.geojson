@@ -25,6 +25,50 @@
       "taken": 1442914620,
       "taken_at": "Sep 22, 2015 9:37 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18036210536956787,
+          "id": 1729362113
+        },
+        {
+          "distance": 0.22411400079727173,
+          "id": 1729361841
+        },
+        {
+          "distance": 0.22646260261535645,
+          "id": 1729362113
+        },
+        {
+          "distance": 0.23544448614120483,
+          "id": 1729361379
+        },
+        {
+          "distance": 0.23665225505828857,
+          "id": 1729361473
+        },
+        {
+          "distance": 0.2590521574020386,
+          "id": 1729355773
+        },
+        {
+          "distance": 0.26783692836761475,
+          "id": 1729361379
+        },
+        {
+          "distance": 0.2738327383995056,
+          "id": 1729356413
+        },
+        {
+          "distance": 0.2755597233772278,
+          "id": 1729358291
+        },
+        {
+          "distance": 0.28337180614471436,
+          "id": 1729361841
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361519,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "The pagodas featured in our exhibition were all hand-carved by teenage boys and young men working at Shanghai’s Tushanwan workshops...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

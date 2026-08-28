@@ -34,6 +34,50 @@
       "taken": 1536313260,
       "taken_at": "Sep 07, 2018 9:41 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2972109317779541,
+          "id": 1729359397
+        },
+        {
+          "distance": 0.30078035593032837,
+          "id": 1729357725
+        },
+        {
+          "distance": 0.31126850843429565,
+          "id": 1729362271
+        },
+        {
+          "distance": 0.3159481883049011,
+          "id": 1729357725
+        },
+        {
+          "distance": 0.3160455822944641,
+          "id": 1729356707
+        },
+        {
+          "distance": 0.31920140981674194,
+          "id": 1729361015
+        },
+        {
+          "distance": 0.3197295069694519,
+          "id": 1763558609
+        },
+        {
+          "distance": 0.3197295069694519,
+          "id": 1729361161
+        },
+        {
+          "distance": 0.32124143838882446,
+          "id": 1729361161
+        },
+        {
+          "distance": 0.32124143838882446,
+          "id": 1763558609
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729357721,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Radio shows delighted and captivated listeners during the golden age of broadcasting...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

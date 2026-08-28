@@ -37,6 +37,50 @@
       "taken": 1534435140,
       "taken_at": "Aug 16, 2018 3:59 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2585325837135315,
+          "id": 1729360897
+        },
+        {
+          "distance": 0.2599356174468994,
+          "id": 1729357791
+        },
+        {
+          "distance": 0.29018205404281616,
+          "id": 1729360897
+        },
+        {
+          "distance": 0.30932456254959106,
+          "id": 1729361253
+        },
+        {
+          "distance": 0.31939995288848877,
+          "id": 1729357791
+        },
+        {
+          "distance": 0.3546079397201538,
+          "id": 1729358083
+        },
+        {
+          "distance": 0.3557553291320801,
+          "id": 1729357535
+        },
+        {
+          "distance": 0.3561408519744873,
+          "id": 1729358513
+        },
+        {
+          "distance": 0.3633292317390442,
+          "id": 1729361253
+        },
+        {
+          "distance": 0.3665831685066223,
+          "id": 1729357845
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729357771,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "During the late nineteenth century, aeronauts tested the practical capabilities of the balloon with newly introduced technologies such as photography...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

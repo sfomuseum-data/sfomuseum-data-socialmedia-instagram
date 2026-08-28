@@ -25,6 +25,50 @@
       "taken": 1346065740,
       "taken_at": "Aug 27, 2012 11:09 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.21274340152740479,
+          "id": 1729362899
+        },
+        {
+          "distance": 0.21933096647262573,
+          "id": 1729362527
+        },
+        {
+          "distance": 0.23998665809631348,
+          "id": 1729362527
+        },
+        {
+          "distance": 0.24201726913452148,
+          "id": 1729362899
+        },
+        {
+          "distance": 0.253567099571228,
+          "id": 1729362795
+        },
+        {
+          "distance": 0.2650241255760193,
+          "id": 1729362997
+        },
+        {
+          "distance": 0.2666510343551636,
+          "id": 1729362905
+        },
+        {
+          "distance": 0.26817744970321655,
+          "id": 1729363009
+        },
+        {
+          "distance": 0.26849788427352905,
+          "id": 1729362795
+        },
+        {
+          "distance": 0.27228450775146484,
+          "id": 1729362997
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362919,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777656,
     "wof:name": "On view in the #Aviation #Museum, \"Flight Gear: Pilot Equipment from the Open-Cockpit Era\"..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

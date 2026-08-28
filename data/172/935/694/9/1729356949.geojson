@@ -29,6 +29,50 @@
       "taken": 1550069640,
       "taken_at": "Feb 13, 2019 2:54 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2940003275871277,
+          "id": 1729355317
+        },
+        {
+          "distance": 0.3033471703529358,
+          "id": 1880151505
+        },
+        {
+          "distance": 0.30774545669555664,
+          "id": 1729360029
+        },
+        {
+          "distance": 0.3362352252006531,
+          "id": 1729357963
+        },
+        {
+          "distance": 0.35130906105041504,
+          "id": 1729360897
+        },
+        {
+          "distance": 0.35362476110458374,
+          "id": 1729356623
+        },
+        {
+          "distance": 0.35498112440109253,
+          "id": 1729363027
+        },
+        {
+          "distance": 0.36053013801574707,
+          "id": 1729356423
+        },
+        {
+          "distance": 0.36468249559402466,
+          "id": 1729360029
+        },
+        {
+          "distance": 0.3653995990753174,
+          "id": 1729362351
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729356949,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Western Airlines introduced Wally Bird as its mascot in 1955...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

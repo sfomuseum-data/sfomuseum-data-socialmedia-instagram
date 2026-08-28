@@ -30,6 +30,50 @@
       "taken": 1726587900,
       "taken_at": "Sep 17, 2024 3:45 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06261086463928223,
+          "id": 1729362241
+        },
+        {
+          "distance": 0.1147223711013794,
+          "id": 1729362241
+        },
+        {
+          "distance": 0.29410088062286377,
+          "id": 1729357869
+        },
+        {
+          "distance": 0.29698073863983154,
+          "id": 1880150891
+        },
+        {
+          "distance": 0.315163791179657,
+          "id": 1947425317
+        },
+        {
+          "distance": 0.31585627794265747,
+          "id": 1729357895
+        },
+        {
+          "distance": 0.31836599111557007,
+          "id": 1880151091
+        },
+        {
+          "distance": 0.3205375671386719,
+          "id": 1880150959
+        },
+        {
+          "distance": 0.32059693336486816,
+          "id": 1729355597
+        },
+        {
+          "distance": 0.32069116830825806,
+          "id": 1729356663
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1947424875,
-    "wof:lastmodified": 1733175319,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Paper boats decorated with the poetry of many cultures are set adrift on the water in “Love Letters” by Enrique Chagoya...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

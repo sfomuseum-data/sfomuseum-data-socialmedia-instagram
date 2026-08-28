@@ -25,6 +25,50 @@
       "taken": 1475083320,
       "taken_at": "Sep 28, 2016 5:22 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0072310566902160645,
+          "id": 1729359679
+        },
+        {
+          "distance": 0.02116262912750244,
+          "id": 1729356283
+        },
+        {
+          "distance": 0.11434030532836914,
+          "id": 1729359679
+        },
+        {
+          "distance": 0.13887107372283936,
+          "id": 1729356283
+        },
+        {
+          "distance": 0.24932748079299927,
+          "id": 1729357099
+        },
+        {
+          "distance": 0.25436681509017944,
+          "id": 1729362253
+        },
+        {
+          "distance": 0.25909143686294556,
+          "id": 1729357093
+        },
+        {
+          "distance": 0.2592887878417969,
+          "id": 1729357099
+        },
+        {
+          "distance": 0.2649703025817871,
+          "id": 1729361441
+        },
+        {
+          "distance": 0.27126944065093994,
+          "id": 1729362423
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360285,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "Ruth Asawa (1926–2013) worked in #sculpture and created a handful of functional objects...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

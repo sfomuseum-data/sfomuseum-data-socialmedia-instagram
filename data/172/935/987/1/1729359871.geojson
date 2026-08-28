@@ -32,6 +32,50 @@
       "taken": 1485979320,
       "taken_at": "Feb 01, 2017 8:02 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11589586734771729,
+          "id": 1729359223
+        },
+        {
+          "distance": 0.13239628076553345,
+          "id": 1729359223
+        },
+        {
+          "distance": 0.22969329357147217,
+          "id": 1729359331
+        },
+        {
+          "distance": 0.23793989419937134,
+          "id": 1729359469
+        },
+        {
+          "distance": 0.2543070912361145,
+          "id": 1729359331
+        },
+        {
+          "distance": 0.263019859790802,
+          "id": 1729355423
+        },
+        {
+          "distance": 0.2768707871437073,
+          "id": 1729355727
+        },
+        {
+          "distance": 0.2821817398071289,
+          "id": 1729359347
+        },
+        {
+          "distance": 0.2877582907676697,
+          "id": 1729359469
+        },
+        {
+          "distance": 0.28900015354156494,
+          "id": 1729359827
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729359871,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "It is difficult to imagine modern Western civilization without the context of ancient Rome, the Eternal City...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

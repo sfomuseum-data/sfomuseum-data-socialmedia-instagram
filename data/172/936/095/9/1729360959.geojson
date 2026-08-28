@@ -25,6 +25,50 @@
       "taken": 1457378400,
       "taken_at": "Mar 07, 2016 7:20 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0021560192108154297,
+          "id": 1729359355
+        },
+        {
+          "distance": 0.10912340879440308,
+          "id": 1729359355
+        },
+        {
+          "distance": 0.1406652331352234,
+          "id": 1729355863
+        },
+        {
+          "distance": 0.1481928825378418,
+          "id": 1729356581
+        },
+        {
+          "distance": 0.17099863290786743,
+          "id": 1729361497
+        },
+        {
+          "distance": 0.17272508144378662,
+          "id": 1729356581
+        },
+        {
+          "distance": 0.17286080121994019,
+          "id": 1729361263
+        },
+        {
+          "distance": 0.17342281341552734,
+          "id": 1729356749
+        },
+        {
+          "distance": 0.17476731538772583,
+          "id": 1729360435
+        },
+        {
+          "distance": 0.17927497625350952,
+          "id": 1729361263
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360959,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "The flight deck on a Pan American Airways Boeing 314 provided enormous amounts of space for the operation and navigation of the aircraft, by today’s standards...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

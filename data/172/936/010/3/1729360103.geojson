@@ -29,6 +29,50 @@
       "taken": 1479154440,
       "taken_at": "Nov 14, 2016 8:14 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07230579853057861,
+          "id": 1729360401
+        },
+        {
+          "distance": 0.15461432933807373,
+          "id": 1729360401
+        },
+        {
+          "distance": 0.24756771326065063,
+          "id": 1729360219
+        },
+        {
+          "distance": 0.26650869846343994,
+          "id": 1729360763
+        },
+        {
+          "distance": 0.28523069620132446,
+          "id": 1729360219
+        },
+        {
+          "distance": 0.2926101088523865,
+          "id": 1729360565
+        },
+        {
+          "distance": 0.31201785802841187,
+          "id": 1729360203
+        },
+        {
+          "distance": 0.312023401260376,
+          "id": 1729360691
+        },
+        {
+          "distance": 0.3264281749725342,
+          "id": 1729360447
+        },
+        {
+          "distance": 0.32783621549606323,
+          "id": 1729360659
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729360103,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "Often sporting perfectly monochrome outfits complete with a matching flashlight necklace, Monica Valentine is enamored with color...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -32,6 +32,50 @@
       "taken": 1620921900,
       "taken_at": "May 13, 2021 4:05 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18957382440567017,
+          "id": 1763558945
+        },
+        {
+          "distance": 0.2112407684326172,
+          "id": 1763558945
+        },
+        {
+          "distance": 0.21210545301437378,
+          "id": 1729355963
+        },
+        {
+          "distance": 0.21331828832626343,
+          "id": 1763558967
+        },
+        {
+          "distance": 0.22437673807144165,
+          "id": 1729355961
+        },
+        {
+          "distance": 0.2390803098678589,
+          "id": 1729355963
+        },
+        {
+          "distance": 0.29117029905319214,
+          "id": 1763558967
+        },
+        {
+          "distance": 0.29830092191696167,
+          "id": 1729355961
+        },
+        {
+          "distance": 0.34688514471054077,
+          "id": 1763559471
+        },
+        {
+          "distance": 0.3538387417793274,
+          "id": 1763558885
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1763559151,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Jeff Hafler, a self-professed “hairstorian” and veteran hairstylist, began collecting vintage hair-related objects while attending cosmetology school in 1991...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

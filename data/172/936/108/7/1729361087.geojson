@@ -25,6 +25,50 @@
       "taken": 1455043140,
       "taken_at": "Feb 09, 2016 6:39 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0821332335472107,
+          "id": 1729357863
+        },
+        {
+          "distance": 0.12359851598739624,
+          "id": 1729355907
+        },
+        {
+          "distance": 0.14876079559326172,
+          "id": 1729357863
+        },
+        {
+          "distance": 0.152165949344635,
+          "id": 1729355907
+        },
+        {
+          "distance": 0.265944242477417,
+          "id": 1729361805
+        },
+        {
+          "distance": 0.2709742784500122,
+          "id": 1729359805
+        },
+        {
+          "distance": 0.2723454236984253,
+          "id": 1729355393
+        },
+        {
+          "distance": 0.272834837436676,
+          "id": 1729361113
+        },
+        {
+          "distance": 0.273163378238678,
+          "id": 1729360851
+        },
+        {
+          "distance": 0.2733963131904602,
+          "id": 1729361697
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361087,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777643,
     "wof:name": "Midway Atoll, part of the United States Minor Outlying Islands, was used by Pan American Airways as an island stop on their transpacific flights from California to the Philippines...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

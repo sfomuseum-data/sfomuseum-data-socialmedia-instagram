@@ -33,6 +33,50 @@
       "taken": 1660147500,
       "taken_at": "Aug 10, 2022 4:05 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16730564832687378,
+          "id": 1763559679
+        },
+        {
+          "distance": 0.18120068311691284,
+          "id": 1880151513
+        },
+        {
+          "distance": 0.18196380138397217,
+          "id": 1729355785
+        },
+        {
+          "distance": 0.18497753143310547,
+          "id": 1880151575
+        },
+        {
+          "distance": 0.18497753143310547,
+          "id": 1880151563
+        },
+        {
+          "distance": 0.18619346618652344,
+          "id": 1729357693
+        },
+        {
+          "distance": 0.18888264894485474,
+          "id": 1729357325
+        },
+        {
+          "distance": 0.19212830066680908,
+          "id": 1880151513
+        },
+        {
+          "distance": 0.19824695587158203,
+          "id": 1947424799
+        },
+        {
+          "distance": 0.2011474370956421,
+          "id": 1729357693
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1880151519,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Lillian Janeway Atwater (1890–1937) was the first woman to fly a hydroplane in the United States...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

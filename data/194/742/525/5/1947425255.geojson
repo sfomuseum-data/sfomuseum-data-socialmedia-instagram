@@ -25,6 +25,50 @@
       "taken": 1698160980,
       "taken_at": "Oct 24, 2023 3:23 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11196887493133545,
+          "id": 1729359933
+        },
+        {
+          "distance": 0.11344009637832642,
+          "id": 1729357747
+        },
+        {
+          "distance": 0.11405700445175171,
+          "id": 1729357667
+        },
+        {
+          "distance": 0.11462521553039551,
+          "id": 1729360235
+        },
+        {
+          "distance": 0.11941802501678467,
+          "id": 1729360259
+        },
+        {
+          "distance": 0.13678163290023804,
+          "id": 1729359077
+        },
+        {
+          "distance": 0.14059680700302124,
+          "id": 1729356281
+        },
+        {
+          "distance": 0.14077574014663696,
+          "id": 1729360877
+        },
+        {
+          "distance": 0.15163952112197876,
+          "id": 1763559413
+        },
+        {
+          "distance": 0.15210866928100586,
+          "id": 1729361129
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -53,7 +97,7 @@
       }
     ],
     "wof:id": 1947425255,
-    "wof:lastmodified": 1733175330,
+    "wof:lastmodified": 1787777664,
     "wof:name": "#OnThisDay the 1937, the Airport Administration and Airline Terminal Building was dedicated...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -67,5 +111,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

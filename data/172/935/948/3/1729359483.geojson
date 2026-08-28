@@ -32,6 +32,50 @@
       "taken": 1495383180,
       "taken_at": "May 21, 2017 4:13 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0522274374961853,
+          "id": 1729358607
+        },
+        {
+          "distance": 0.1145249605178833,
+          "id": 1729358607
+        },
+        {
+          "distance": 0.13986563682556152,
+          "id": 1729359843
+        },
+        {
+          "distance": 0.156879723072052,
+          "id": 1729358203
+        },
+        {
+          "distance": 0.1587786078453064,
+          "id": 1729359843
+        },
+        {
+          "distance": 0.17114800214767456,
+          "id": 1729358203
+        },
+        {
+          "distance": 0.17696785926818848,
+          "id": 1729362189
+        },
+        {
+          "distance": 0.20485663414001465,
+          "id": 1729360561
+        },
+        {
+          "distance": 0.21198123693466187,
+          "id": 1729356707
+        },
+        {
+          "distance": 0.2181711196899414,
+          "id": 1763559319
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729359483,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "Today marks the 90th anniversary of Charles Lindbergh’s landing in Paris after completing his historic, first solo crossing of the Atlantic Ocean...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

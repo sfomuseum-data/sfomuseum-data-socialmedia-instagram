@@ -25,6 +25,50 @@
       "taken": 1442393280,
       "taken_at": "Sep 16, 2015 8:48 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.37218189239501953,
+          "id": 1763559473
+        },
+        {
+          "distance": 0.384152352809906,
+          "id": 1729362959
+        },
+        {
+          "distance": 0.38660669326782227,
+          "id": 1729362579
+        },
+        {
+          "distance": 0.38855957984924316,
+          "id": 1729355097
+        },
+        {
+          "distance": 0.38925498723983765,
+          "id": 1947424917
+        },
+        {
+          "distance": 0.39146387577056885,
+          "id": 1729361797
+        },
+        {
+          "distance": 0.3990684747695923,
+          "id": 1947425039
+        },
+        {
+          "distance": 0.40104901790618896,
+          "id": 1763559281
+        },
+        {
+          "distance": 0.40210509300231934,
+          "id": 1729362959
+        },
+        {
+          "distance": 0.4021654725074768,
+          "id": 1947424927
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361557,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "Ian van Coller’s The Last Glacier project captures the fading majesty of the remaining glaciers in Glacier National Park in Montana...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

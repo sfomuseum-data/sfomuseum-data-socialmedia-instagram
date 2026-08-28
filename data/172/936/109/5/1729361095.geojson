@@ -25,6 +25,50 @@
       "taken": 1454436600,
       "taken_at": "Feb 02, 2016 6:10 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3087262511253357,
+          "id": 1729356495
+        },
+        {
+          "distance": 0.31110692024230957,
+          "id": 1729361069
+        },
+        {
+          "distance": 0.3253348469734192,
+          "id": 1947424831
+        },
+        {
+          "distance": 0.326019287109375,
+          "id": 1729355621
+        },
+        {
+          "distance": 0.337246298789978,
+          "id": 1729356203
+        },
+        {
+          "distance": 0.3383171558380127,
+          "id": 1729361543
+        },
+        {
+          "distance": 0.3521857261657715,
+          "id": 1729356203
+        },
+        {
+          "distance": 0.3544323444366455,
+          "id": 1729355329
+        },
+        {
+          "distance": 0.3546546697616577,
+          "id": 1729361923
+        },
+        {
+          "distance": 0.3565884232521057,
+          "id": 1729361069
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361095,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777643,
     "wof:name": "Based in Charlotte, North Carolina, the Carolina #Panthers are going head-to-head with the Denver #Broncos this Sunday at Super Bowl 50!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

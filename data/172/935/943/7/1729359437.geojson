@@ -41,6 +41,50 @@
       "taken": 1496694660,
       "taken_at": "Jun 05, 2017 8:31 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3280647397041321,
+          "id": 1729359309
+        },
+        {
+          "distance": 0.3285396695137024,
+          "id": 1763558855
+        },
+        {
+          "distance": 0.33633798360824585,
+          "id": 1729361323
+        },
+        {
+          "distance": 0.3465549349784851,
+          "id": 1729359321
+        },
+        {
+          "distance": 0.35107892751693726,
+          "id": 1763558855
+        },
+        {
+          "distance": 0.35226553678512573,
+          "id": 1729358989
+        },
+        {
+          "distance": 0.3535248041152954,
+          "id": 1763559245
+        },
+        {
+          "distance": 0.35878509283065796,
+          "id": 1729361089
+        },
+        {
+          "distance": 0.3593940734863281,
+          "id": 1729361323
+        },
+        {
+          "distance": 0.35945314168930054,
+          "id": 1763558985
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -70,7 +114,7 @@
       }
     ],
     "wof:id": 1729359437,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "In 1891, basketball—associated with sneakers more than any other sport—was invented in Springfield, Massachusetts, by Canadian-American James Naismith...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -87,5 +131,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

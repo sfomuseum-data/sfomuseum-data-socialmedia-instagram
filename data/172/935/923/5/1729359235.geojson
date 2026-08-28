@@ -25,6 +25,50 @@
       "taken": 1501751580,
       "taken_at": "Aug 03, 2017 9:13 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17372077703475952,
+          "id": 1880151041
+        },
+        {
+          "distance": 0.18118268251419067,
+          "id": 1729359537
+        },
+        {
+          "distance": 0.1882796287536621,
+          "id": 1729359537
+        },
+        {
+          "distance": 0.18871581554412842,
+          "id": 1729361317
+        },
+        {
+          "distance": 0.19554662704467773,
+          "id": 1729357667
+        },
+        {
+          "distance": 0.19660377502441406,
+          "id": 1880151041
+        },
+        {
+          "distance": 0.1978142261505127,
+          "id": 1729360235
+        },
+        {
+          "distance": 0.20147168636322021,
+          "id": 1729360235
+        },
+        {
+          "distance": 0.2018730640411377,
+          "id": 1729359933
+        },
+        {
+          "distance": 0.20392507314682007,
+          "id": 1880150909
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359235,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "This photo taken right before the opening of the International Terminal in 2000...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -30,6 +30,50 @@
       "taken": 1671727860,
       "taken_at": "Dec 22, 2022 4:51 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24314135313034058,
+          "id": 1729360045
+        },
+        {
+          "distance": 0.2510232925415039,
+          "id": 1880151233
+        },
+        {
+          "distance": 0.2543134093284607,
+          "id": 1763559059
+        },
+        {
+          "distance": 0.2578880190849304,
+          "id": 1729360045
+        },
+        {
+          "distance": 0.262817919254303,
+          "id": 1729361347
+        },
+        {
+          "distance": 0.26290589570999146,
+          "id": 1729357255
+        },
+        {
+          "distance": 0.26340484619140625,
+          "id": 1763559141
+        },
+        {
+          "distance": 0.2642974853515625,
+          "id": 1729361465
+        },
+        {
+          "distance": 0.2687489986419678,
+          "id": 1729361577
+        },
+        {
+          "distance": 0.26915544271469116,
+          "id": 1729357255
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151279,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "US Airways traced its roots to All American Aviation, which was founded in 1937 to conduct experiments in air mail pick up...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

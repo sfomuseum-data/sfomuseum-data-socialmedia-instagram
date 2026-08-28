@@ -27,6 +27,50 @@
       "taken": 1444209720,
       "taken_at": "Oct 07, 2015 9:22 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19661474227905273,
+          "id": 1729362059
+        },
+        {
+          "distance": 0.20868617296218872,
+          "id": 1880150891
+        },
+        {
+          "distance": 0.22289329767227173,
+          "id": 1729362059
+        },
+        {
+          "distance": 0.260589063167572,
+          "id": 1729359425
+        },
+        {
+          "distance": 0.2726660370826721,
+          "id": 1880151131
+        },
+        {
+          "distance": 0.27593445777893066,
+          "id": 1729360993
+        },
+        {
+          "distance": 0.2761104702949524,
+          "id": 1729360993
+        },
+        {
+          "distance": 0.28426629304885864,
+          "id": 1880151299
+        },
+        {
+          "distance": 0.2846043109893799,
+          "id": 1729357895
+        },
+        {
+          "distance": 0.28843164443969727,
+          "id": 1729355597
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1729361479,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "Like arrivals and departures, Riven/River’s two rectangular color fields complement each other...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -73,5 +117,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

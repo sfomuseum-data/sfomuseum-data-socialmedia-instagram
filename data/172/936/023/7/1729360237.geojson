@@ -25,6 +25,50 @@
       "taken": 1476214500,
       "taken_at": "Oct 11, 2016 7:35 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23979425430297852,
+          "id": 1729361121
+        },
+        {
+          "distance": 0.24341803789138794,
+          "id": 1729361121
+        },
+        {
+          "distance": 0.2454206347465515,
+          "id": 1729360475
+        },
+        {
+          "distance": 0.2648460268974304,
+          "id": 1880151163
+        },
+        {
+          "distance": 0.2650683522224426,
+          "id": 1729359833
+        },
+        {
+          "distance": 0.2699195146560669,
+          "id": 1729358641
+        },
+        {
+          "distance": 0.2723875045776367,
+          "id": 1729361533
+        },
+        {
+          "distance": 0.2734452486038208,
+          "id": 1729361125
+        },
+        {
+          "distance": 0.2744656801223755,
+          "id": 1880151163
+        },
+        {
+          "distance": 0.2751649022102356,
+          "id": 1729360479
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360237,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "On October 11, 1929, the inaugural Panagra (Pan American-Grace Airways) airmail service from Miami to Buenos Aires landed in Buenos Aires...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

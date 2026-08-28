@@ -33,6 +33,50 @@
       "taken": 1683294120,
       "taken_at": "May 05, 2023 1:42 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3036888837814331,
+          "id": 1729357891
+        },
+        {
+          "distance": 0.32693183422088623,
+          "id": 1880151199
+        },
+        {
+          "distance": 0.3308855891227722,
+          "id": 1880151199
+        },
+        {
+          "distance": 0.35164761543273926,
+          "id": 1880151395
+        },
+        {
+          "distance": 0.35219812393188477,
+          "id": 1880151581
+        },
+        {
+          "distance": 0.35246962308883667,
+          "id": 1880151081
+        },
+        {
+          "distance": 0.36418938636779785,
+          "id": 1729357891
+        },
+        {
+          "distance": 0.3659539818763733,
+          "id": 1763559379
+        },
+        {
+          "distance": 0.3662261366844177,
+          "id": 1947425061
+        },
+        {
+          "distance": 0.36635828018188477,
+          "id": 1729361031
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1880150933,
-    "wof:lastmodified": 1733175333,
+    "wof:lastmodified": 1787777661,
     "wof:name": "For his series, “Downwaste,” Jonathan Marquis visits glaciers in Montana’s Glacier National Park...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1482147060,
       "taken_at": "Dec 19, 2016 11:31 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3397909998893738,
+          "id": 1763559581
+        },
+        {
+          "distance": 0.35906660556793213,
+          "id": 1729359921
+        },
+        {
+          "distance": 0.36092644929885864,
+          "id": 1729358467
+        },
+        {
+          "distance": 0.3649557828903198,
+          "id": 1729359701
+        },
+        {
+          "distance": 0.3681979179382324,
+          "id": 1763559581
+        },
+        {
+          "distance": 0.37515830993652344,
+          "id": 1729359463
+        },
+        {
+          "distance": 0.37588948011398315,
+          "id": 1763558679
+        },
+        {
+          "distance": 0.3806617259979248,
+          "id": 1729355263
+        },
+        {
+          "distance": 0.3834085464477539,
+          "id": 1729358635
+        },
+        {
+          "distance": 0.3883437514305115,
+          "id": 1729359479
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360001,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777638,
     "wof:name": "What were United chef's cooking in airline kitchens and at home in 1954?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

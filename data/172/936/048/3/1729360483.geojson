@@ -25,6 +25,50 @@
       "taken": 1469873100,
       "taken_at": "Jul 30, 2016 10:05 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24304914474487305,
+          "id": 1763558765
+        },
+        {
+          "distance": 0.24304914474487305,
+          "id": 1729357579
+        },
+        {
+          "distance": 0.2432226538658142,
+          "id": 1729357341
+        },
+        {
+          "distance": 0.2559806704521179,
+          "id": 1729355671
+        },
+        {
+          "distance": 0.2689160704612732,
+          "id": 1947425059
+        },
+        {
+          "distance": 0.26970815658569336,
+          "id": 1947425289
+        },
+        {
+          "distance": 0.2710496187210083,
+          "id": 1729358111
+        },
+        {
+          "distance": 0.2733205556869507,
+          "id": 1729361459
+        },
+        {
+          "distance": 0.2751131057739258,
+          "id": 1880151139
+        },
+        {
+          "distance": 0.2752116322517395,
+          "id": 1763559661
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360483,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "When Florence Ludins-Katz and Elias Katz moved to Berkeley, California, in 1966, the disability rights movement had already found fertile ground in the San Francisco Bay Area...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

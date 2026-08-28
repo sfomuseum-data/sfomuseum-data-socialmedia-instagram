@@ -32,6 +32,50 @@
       "taken": 1577188860,
       "taken_at": "Dec 24, 2019 12:01 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3708178400993347,
+          "id": 1729360933
+        },
+        {
+          "distance": 0.37580615282058716,
+          "id": 1729357349
+        },
+        {
+          "distance": 0.3984036445617676,
+          "id": 1729360933
+        },
+        {
+          "distance": 0.40771716833114624,
+          "id": 1729359411
+        },
+        {
+          "distance": 0.4119223356246948,
+          "id": 1880151505
+        },
+        {
+          "distance": 0.41454339027404785,
+          "id": 1729360339
+        },
+        {
+          "distance": 0.415890634059906,
+          "id": 1729361531
+        },
+        {
+          "distance": 0.4204380512237549,
+          "id": 1729361477
+        },
+        {
+          "distance": 0.420631468296051,
+          "id": 1880151457
+        },
+        {
+          "distance": 0.4226403832435608,
+          "id": 1729360861
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729355735,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777627,
     "wof:name": "NORAD or the North American Aerospace Defense Command started tracking Santa’s movements #onthisday in 1955...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

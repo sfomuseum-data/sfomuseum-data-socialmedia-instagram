@@ -36,6 +36,50 @@
       "taken": 1533377220,
       "taken_at": "Aug 04, 2018 10:07 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.152104914188385,
+          "id": 1729356263
+        },
+        {
+          "distance": 0.17160284519195557,
+          "id": 1729356263
+        },
+        {
+          "distance": 0.17601686716079712,
+          "id": 1729357097
+        },
+        {
+          "distance": 0.2117883563041687,
+          "id": 1729359425
+        },
+        {
+          "distance": 0.23405343294143677,
+          "id": 1729357097
+        },
+        {
+          "distance": 0.2404005527496338,
+          "id": 1729356549
+        },
+        {
+          "distance": 0.24962621927261353,
+          "id": 1729359363
+        },
+        {
+          "distance": 0.24969273805618286,
+          "id": 1729357161
+        },
+        {
+          "distance": 0.2562951445579529,
+          "id": 1729355749
+        },
+        {
+          "distance": 0.2565365433692932,
+          "id": 1729359363
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729357827,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "In his ongoing series, \"The New Machinery\", artist Martin Venezky creates large-scale photographic collages made from found objects, parts, and discarded materials...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

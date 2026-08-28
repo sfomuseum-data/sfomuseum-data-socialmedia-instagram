@@ -36,6 +36,50 @@
       "taken": 1512056160,
       "taken_at": "Nov 30, 2017 3:36 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.21844017505645752,
+          "id": 1729358405
+        },
+        {
+          "distance": 0.2223469614982605,
+          "id": 1729355419
+        },
+        {
+          "distance": 0.2282857894897461,
+          "id": 1729360279
+        },
+        {
+          "distance": 0.236922025680542,
+          "id": 1729360607
+        },
+        {
+          "distance": 0.23867082595825195,
+          "id": 1729357969
+        },
+        {
+          "distance": 0.24053287506103516,
+          "id": 1763559241
+        },
+        {
+          "distance": 0.24550098180770874,
+          "id": 1729355165
+        },
+        {
+          "distance": 0.24696266651153564,
+          "id": 1763559505
+        },
+        {
+          "distance": 0.247103750705719,
+          "id": 1763559131
+        },
+        {
+          "distance": 0.24766206741333008,
+          "id": 1729355091
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729358877,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Among the early photos of SFO is this picture of United Air Lines' modest ticket counter in the airport's original administrative building...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

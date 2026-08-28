@@ -25,6 +25,50 @@
       "taken": 1459328820,
       "taken_at": "Mar 30, 2016 9:07 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2581847906112671,
+          "id": 1729358403
+        },
+        {
+          "distance": 0.30470824241638184,
+          "id": 1729360115
+        },
+        {
+          "distance": 0.313950777053833,
+          "id": 1729358403
+        },
+        {
+          "distance": 0.3196789622306824,
+          "id": 1729359007
+        },
+        {
+          "distance": 0.32223647832870483,
+          "id": 1729359301
+        },
+        {
+          "distance": 0.3333706259727478,
+          "id": 1729355611
+        },
+        {
+          "distance": 0.3344593048095703,
+          "id": 1729360115
+        },
+        {
+          "distance": 0.3378027677536011,
+          "id": 1729360175
+        },
+        {
+          "distance": 0.3441699147224426,
+          "id": 1729356053
+        },
+        {
+          "distance": 0.35168981552124023,
+          "id": 1729359007
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360885,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "This menu produced by Pan American World Airways features a world map illustration by Jacques Liozu...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

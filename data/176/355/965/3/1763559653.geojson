@@ -34,6 +34,50 @@
       "taken": 1642178640,
       "taken_at": "Jan 14, 2022 4:44 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.000025153160095214844,
+          "id": 1763559665
+        },
+        {
+          "distance": 0.000025153160095214844,
+          "id": 1763559647
+        },
+        {
+          "distance": 0.008096933364868164,
+          "id": 1763559335
+        },
+        {
+          "distance": 0.06545227766036987,
+          "id": 1763559267
+        },
+        {
+          "distance": 0.06545227766036987,
+          "id": 1763559681
+        },
+        {
+          "distance": 0.10031276941299438,
+          "id": 1763559267
+        },
+        {
+          "distance": 0.10031276941299438,
+          "id": 1763559681
+        },
+        {
+          "distance": 0.10216760635375977,
+          "id": 1763559335
+        },
+        {
+          "distance": 0.10636472702026367,
+          "id": 1763559665
+        },
+        {
+          "distance": 0.10636472702026367,
+          "id": 1763559647
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1763559653,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "British documentary filmmaker Ellen Evans profiles Kath Holden, who reflects on her life and art in the precious world of miniatures, where her creations stand apart from the genteel museum pieces of her contemporaries...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

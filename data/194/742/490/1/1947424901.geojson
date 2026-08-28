@@ -30,6 +30,50 @@
       "taken": 1724772900,
       "taken_at": "Aug 27, 2024 3:35 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18137115240097046,
+          "id": 1947425207
+        },
+        {
+          "distance": 0.18462830781936646,
+          "id": 1947425169
+        },
+        {
+          "distance": 0.19831520318984985,
+          "id": 1947425039
+        },
+        {
+          "distance": 0.2023213505744934,
+          "id": 1947425057
+        },
+        {
+          "distance": 0.20408213138580322,
+          "id": 1880150991
+        },
+        {
+          "distance": 0.2064037322998047,
+          "id": 1729356755
+        },
+        {
+          "distance": 0.21242260932922363,
+          "id": 1947425207
+        },
+        {
+          "distance": 0.21311575174331665,
+          "id": 1729359209
+        },
+        {
+          "distance": 0.2137080430984497,
+          "id": 1947425169
+        },
+        {
+          "distance": 0.2215021848678589,
+          "id": 1729355951
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1947424901,
-    "wof:lastmodified": 1733175320,
+    "wof:lastmodified": 1787777664,
     "wof:name": "When midwestern businessman Harold Bixby (1890-1965) worked for the China National Aviation Corporation (CNAC) in partnership with Pan American Airways (PAA), CNAC exclusively flew American-built aircraft types...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

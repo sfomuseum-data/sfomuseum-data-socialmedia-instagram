@@ -34,6 +34,50 @@
       "taken": 1544383500,
       "taken_at": "Dec 09, 2018 7:25 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.34261733293533325,
+          "id": 1729355367
+        },
+        {
+          "distance": 0.35040736198425293,
+          "id": 1729357777
+        },
+        {
+          "distance": 0.36174875497817993,
+          "id": 1729355555
+        },
+        {
+          "distance": 0.36426568031311035,
+          "id": 1729357777
+        },
+        {
+          "distance": 0.37386471033096313,
+          "id": 1947425317
+        },
+        {
+          "distance": 0.3742895722389221,
+          "id": 1947425317
+        },
+        {
+          "distance": 0.38342076539993286,
+          "id": 1729361023
+        },
+        {
+          "distance": 0.38469988107681274,
+          "id": 1729362151
+        },
+        {
+          "distance": 0.39148497581481934,
+          "id": 1763558965
+        },
+        {
+          "distance": 0.3978618383407593,
+          "id": 1763559087
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729357257,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777630,
     "wof:name": "The Golden Gate Kindergarten Association is a non-profit organization in San Francisco with a dual mission: it operates a preschool for children ages two through five, known as the Phoebe A. Hearst Preschool, and it also holds the Rhoda Kellogg collection of children’s art...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -34,6 +34,50 @@
       "taken": 1552508760,
       "taken_at": "Mar 13, 2019 8:26 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.00002300739288330078,
+          "id": 1729356825
+        },
+        {
+          "distance": 0.12175559997558594,
+          "id": 1729356825
+        },
+        {
+          "distance": 0.18502241373062134,
+          "id": 1729357679
+        },
+        {
+          "distance": 0.20031321048736572,
+          "id": 1729360785
+        },
+        {
+          "distance": 0.21070432662963867,
+          "id": 1729357055
+        },
+        {
+          "distance": 0.21118122339248657,
+          "id": 1729358225
+        },
+        {
+          "distance": 0.215959370136261,
+          "id": 1729357687
+        },
+        {
+          "distance": 0.21990728378295898,
+          "id": 1729357873
+        },
+        {
+          "distance": 0.22084635496139526,
+          "id": 1729361255
+        },
+        {
+          "distance": 0.22264212369918823,
+          "id": 1729359503
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729356823,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Dorothy Hope Parkinson Kewin (1922-1976) was the first Pan American World Airways stewardess officially assigned to Pacific route service...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1338288060,
       "taken_at": "May 29, 2012 10:41 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2963024377822876,
+          "id": 1729362651
+        },
+        {
+          "distance": 0.3033004403114319,
+          "id": 1729362981
+        },
+        {
+          "distance": 0.30619627237319946,
+          "id": 1729363007
+        },
+        {
+          "distance": 0.3093058466911316,
+          "id": 1729363021
+        },
+        {
+          "distance": 0.31005144119262695,
+          "id": 1729362787
+        },
+        {
+          "distance": 0.31082260608673096,
+          "id": 1729363021
+        },
+        {
+          "distance": 0.3122108578681946,
+          "id": 1729362977
+        },
+        {
+          "distance": 0.3145395517349243,
+          "id": 1729362983
+        },
+        {
+          "distance": 0.3152480125427246,
+          "id": 1729362839
+        },
+        {
+          "distance": 0.3158547282218933,
+          "id": 1729362929
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729363013,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777657,
     "wof:name": "Sewing birds were extra hands, holding fabric in their beaks, which opened when their tails were pressed...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

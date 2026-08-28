@@ -25,6 +25,50 @@
       "taken": 1473432600,
       "taken_at": "Sep 09, 2016 2:50 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19228601455688477,
+          "id": 1729360027
+        },
+        {
+          "distance": 0.20449566841125488,
+          "id": 1729360257
+        },
+        {
+          "distance": 0.21383720636367798,
+          "id": 1729360135
+        },
+        {
+          "distance": 0.22670632600784302,
+          "id": 1729360027
+        },
+        {
+          "distance": 0.23693108558654785,
+          "id": 1729360519
+        },
+        {
+          "distance": 0.24037599563598633,
+          "id": 1763559499
+        },
+        {
+          "distance": 0.24090653657913208,
+          "id": 1729360313
+        },
+        {
+          "distance": 0.24695855379104614,
+          "id": 1729361467
+        },
+        {
+          "distance": 0.24903345108032227,
+          "id": 1729360205
+        },
+        {
+          "distance": 0.250369131565094,
+          "id": 1763559147
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360351,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "Continental, which featured an onboard Pink Cloud Buffet Bar, issued this summer uniform from 1967 to 1970...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

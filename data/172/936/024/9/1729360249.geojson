@@ -25,6 +25,50 @@
       "taken": 1475775540,
       "taken_at": "Oct 06, 2016 5:39 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14552241563796997,
+          "id": 1729355263
+        },
+        {
+          "distance": 0.177035391330719,
+          "id": 1729355263
+        },
+        {
+          "distance": 0.259257435798645,
+          "id": 1729359167
+        },
+        {
+          "distance": 0.2704770565032959,
+          "id": 1729361559
+        },
+        {
+          "distance": 0.27070897817611694,
+          "id": 1947425117
+        },
+        {
+          "distance": 0.2730367183685303,
+          "id": 1729361559
+        },
+        {
+          "distance": 0.2805302143096924,
+          "id": 1763559155
+        },
+        {
+          "distance": 0.281708300113678,
+          "id": 1729360805
+        },
+        {
+          "distance": 0.2838858962059021,
+          "id": 1763558807
+        },
+        {
+          "distance": 0.2838858962059021,
+          "id": 1729357179
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360249,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "Have you ever eaten stuffed eggs with sardines?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

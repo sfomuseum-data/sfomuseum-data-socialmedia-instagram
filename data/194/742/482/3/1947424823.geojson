@@ -27,6 +27,50 @@
       "taken": 1730475180,
       "taken_at": "Nov 01, 2024 3:33 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18509048223495483,
+          "id": 1947424879
+        },
+        {
+          "distance": 0.20483404397964478,
+          "id": 1947424945
+        },
+        {
+          "distance": 0.23010212182998657,
+          "id": 1729362675
+        },
+        {
+          "distance": 0.24104738235473633,
+          "id": 1947424945
+        },
+        {
+          "distance": 0.2555224299430847,
+          "id": 1880151305
+        },
+        {
+          "distance": 0.2597625255584717,
+          "id": 1880151195
+        },
+        {
+          "distance": 0.267703652381897,
+          "id": 1947424879
+        },
+        {
+          "distance": 0.2783808708190918,
+          "id": 1729357239
+        },
+        {
+          "distance": 0.27875930070877075,
+          "id": 1880151143
+        },
+        {
+          "distance": 0.2795867919921875,
+          "id": 1880151269
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947424823,
-    "wof:lastmodified": 1733175318,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Once ubiquitous in Chinese dress, hats were worn on most public occasions...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

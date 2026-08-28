@@ -27,6 +27,50 @@
       "taken": 1721743860,
       "taken_at": "Jul 23, 2024 2:11 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.05280786752700806,
+          "id": 1947425153
+        },
+        {
+          "distance": 0.06894445419311523,
+          "id": 1947424857
+        },
+        {
+          "distance": 0.07273036241531372,
+          "id": 1947425131
+        },
+        {
+          "distance": 0.15330010652542114,
+          "id": 1947425153
+        },
+        {
+          "distance": 0.18300414085388184,
+          "id": 1947424857
+        },
+        {
+          "distance": 0.18724042177200317,
+          "id": 1947425079
+        },
+        {
+          "distance": 0.19034355878829956,
+          "id": 1947425131
+        },
+        {
+          "distance": 0.20891577005386353,
+          "id": 1947424893
+        },
+        {
+          "distance": 0.21934199333190918,
+          "id": 1947424983
+        },
+        {
+          "distance": 0.22014081478118896,
+          "id": 1947425069
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947424935,
-    "wof:lastmodified": 1733175321,
+    "wof:lastmodified": 1787777664,
     "wof:name": "In early 2004, the Virgin Group announced plans to create a United States-based, low-cost airline initially named \"Virgin USA.” Although the public showed strong support for the creation of a new economy airline, the company experienced many complications during the approval process, including rivalries between New York and California cities, labor union disputes, resistance from all major U.S. airlines, and concerns that a Virgin Group airline would primarily be controlled outside of the U.S. After initially being denied approval by the Department of Transportation, a revised application was submitted in January 2007 stipulating that voting shares would be held by an approved trust and only two Virgin Group directors would serve on the airline’s eight-person board...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

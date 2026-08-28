@@ -51,6 +51,50 @@
       "taken": 1515616200,
       "taken_at": "Jan 10, 2018 8:30 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24816566705703735,
+          "id": 1729356551
+        },
+        {
+          "distance": 0.27688270807266235,
+          "id": 1729362197
+        },
+        {
+          "distance": 0.28105252981185913,
+          "id": 1947424939
+        },
+        {
+          "distance": 0.2817307114601135,
+          "id": 1729356539
+        },
+        {
+          "distance": 0.28302669525146484,
+          "id": 1729356315
+        },
+        {
+          "distance": 0.300653874874115,
+          "id": 1729356323
+        },
+        {
+          "distance": 0.30357831716537476,
+          "id": 1729356321
+        },
+        {
+          "distance": 0.3142039179801941,
+          "id": 1729356539
+        },
+        {
+          "distance": 0.31872016191482544,
+          "id": 1947425007
+        },
+        {
+          "distance": 0.32083624601364136,
+          "id": 1729362323
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -80,7 +124,7 @@
       }
     ],
     "wof:id": 1729358723,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "In 1782, Congress designated the bald eagle, unique to North America, as the national emblem...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -97,5 +141,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -32,6 +32,50 @@
       "taken": 1530124860,
       "taken_at": "Jun 27, 2018, 6:41 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19943374395370483,
+          "id": 1729358059
+        },
+        {
+          "distance": 0.25045275688171387,
+          "id": 1729358053
+        },
+        {
+          "distance": 0.2509903311729431,
+          "id": 1729358053
+        },
+        {
+          "distance": 0.34897518157958984,
+          "id": 1729359523
+        },
+        {
+          "distance": 0.354736864566803,
+          "id": 1729361227
+        },
+        {
+          "distance": 0.36334460973739624,
+          "id": 1729357989
+        },
+        {
+          "distance": 0.36394405364990234,
+          "id": 1880151719
+        },
+        {
+          "distance": 0.36627453565597534,
+          "id": 1729355087
+        },
+        {
+          "distance": 0.36814767122268677,
+          "id": 1729360235
+        },
+        {
+          "distance": 0.37040454149246216,
+          "id": 1729357593
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729358061,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777632,
     "wof:name": "In recognition of the sixty-fifth anniversary of the Korean Armistice Agreement, which led to the cessation of hostilities on the Korean Peninsula, San Francisco International Airport is proud to present a photographic survey of the San Francisco Korean War Memorial...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

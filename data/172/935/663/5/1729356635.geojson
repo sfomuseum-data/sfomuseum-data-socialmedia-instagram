@@ -34,6 +34,50 @@
       "taken": 1556041260,
       "taken_at": "Apr 23, 2019 5:41 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.08755964040756226,
+          "id": 1729362903
+        },
+        {
+          "distance": 0.13558429479599,
+          "id": 1729362903
+        },
+        {
+          "distance": 0.16372179985046387,
+          "id": 1729361021
+        },
+        {
+          "distance": 0.17203718423843384,
+          "id": 1729362371
+        },
+        {
+          "distance": 0.18544155359268188,
+          "id": 1729359209
+        },
+        {
+          "distance": 0.1881096363067627,
+          "id": 1729359209
+        },
+        {
+          "distance": 0.19002628326416016,
+          "id": 1729362371
+        },
+        {
+          "distance": 0.1904541254043579,
+          "id": 1729361021
+        },
+        {
+          "distance": 0.24810874462127686,
+          "id": 1947424915
+        },
+        {
+          "distance": 0.25670647621154785,
+          "id": 1947424973
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729356635,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Happy #WorldBookDay!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

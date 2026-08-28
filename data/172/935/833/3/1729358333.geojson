@@ -39,6 +39,50 @@
       "taken": 1523990280,
       "taken_at": "Apr 17, 2018 6:38 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23860615491867065,
+          "id": 1763559133
+        },
+        {
+          "distance": 0.24983811378479004,
+          "id": 1729358783
+        },
+        {
+          "distance": 0.25732213258743286,
+          "id": 1763558725
+        },
+        {
+          "distance": 0.25732213258743286,
+          "id": 1729358623
+        },
+        {
+          "distance": 0.257563054561615,
+          "id": 1729359609
+        },
+        {
+          "distance": 0.2817947268486023,
+          "id": 1763559133
+        },
+        {
+          "distance": 0.28643524646759033,
+          "id": 1729355167
+        },
+        {
+          "distance": 0.2912861704826355,
+          "id": 1729358501
+        },
+        {
+          "distance": 0.29498130083084106,
+          "id": 1729358625
+        },
+        {
+          "distance": 0.29561835527420044,
+          "id": 1729360007
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729358333,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Iberia, the flag carrier of Spain, was founded on June 28, 1927, and started service later that year in December...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

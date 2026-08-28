@@ -36,6 +36,50 @@
       "taken": 1498585500,
       "taken_at": "Jun 27, 2017 5:45 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3077380061149597,
+          "id": 1729362007
+        },
+        {
+          "distance": 0.31400275230407715,
+          "id": 1729362007
+        },
+        {
+          "distance": 0.3215504288673401,
+          "id": 1729359381
+        },
+        {
+          "distance": 0.3399215340614319,
+          "id": 1729358873
+        },
+        {
+          "distance": 0.34808045625686646,
+          "id": 1729360717
+        },
+        {
+          "distance": 0.34972089529037476,
+          "id": 1729355493
+        },
+        {
+          "distance": 0.3525022268295288,
+          "id": 1729362191
+        },
+        {
+          "distance": 0.3722728490829468,
+          "id": 1729362253
+        },
+        {
+          "distance": 0.3726869225502014,
+          "id": 1729362179
+        },
+        {
+          "distance": 0.37415534257888794,
+          "id": 1729362191
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729359371,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Founded in 1885, the Handel Lamp Company was the preeminent maker of reverse-painted lamps, in which the shades’ interiors were hand-painted...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

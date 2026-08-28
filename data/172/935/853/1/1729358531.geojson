@@ -48,6 +48,50 @@
       "taken": 1519138260,
       "taken_at": "Feb 20, 2018 2:51 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.039882779121398926,
+          "id": 1729358085
+        },
+        {
+          "distance": 0.04840129613876343,
+          "id": 1729357069
+        },
+        {
+          "distance": 0.057252347469329834,
+          "id": 1729358657
+        },
+        {
+          "distance": 0.0630805492401123,
+          "id": 1729357493
+        },
+        {
+          "distance": 0.06329149007797241,
+          "id": 1729358211
+        },
+        {
+          "distance": 0.06596732139587402,
+          "id": 1729357959
+        },
+        {
+          "distance": 0.06783151626586914,
+          "id": 1729357553
+        },
+        {
+          "distance": 0.0805433988571167,
+          "id": 1729357669
+        },
+        {
+          "distance": 0.08469575643539429,
+          "id": 1729357631
+        },
+        {
+          "distance": 0.08469575643539429,
+          "id": 1763558767
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -77,7 +121,7 @@
       }
     ],
     "wof:id": 1729358531,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Developed behind the Iron Curtain by the Tupolev Design Bureau during the late 1950s, the massive Tu-114 Rossiya (Russia) turboprop airliner was introduced by the Soviet national airline Aeroflot in 1961...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -94,5 +138,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

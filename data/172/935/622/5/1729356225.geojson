@@ -32,6 +32,50 @@
       "taken": 1565433720,
       "taken_at": "Aug 10, 2019 10:42 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12817484140396118,
+          "id": 1880151091
+        },
+        {
+          "distance": 0.15659165382385254,
+          "id": 1880151091
+        },
+        {
+          "distance": 0.2258564829826355,
+          "id": 1880150939
+        },
+        {
+          "distance": 0.24272453784942627,
+          "id": 1729355919
+        },
+        {
+          "distance": 0.24459785223007202,
+          "id": 1729355635
+        },
+        {
+          "distance": 0.24980515241622925,
+          "id": 1729355455
+        },
+        {
+          "distance": 0.25198692083358765,
+          "id": 1880151137
+        },
+        {
+          "distance": 0.2651882767677307,
+          "id": 1729357871
+        },
+        {
+          "distance": 0.26601141691207886,
+          "id": 1729355455
+        },
+        {
+          "distance": 0.2683035731315613,
+          "id": 1729357895
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729356225,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777628,
     "wof:name": "Leonardo Drew’s work is a multi-layered installation spanning three walls...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

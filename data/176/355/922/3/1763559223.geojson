@@ -31,6 +31,50 @@
       "taken": 1616514360,
       "taken_at": "Mar 23, 2021 3:46 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.027244269847869873,
+          "id": 1729358981
+        },
+        {
+          "distance": 0.12439483404159546,
+          "id": 1880151097
+        },
+        {
+          "distance": 0.12785589694976807,
+          "id": 1729358981
+        },
+        {
+          "distance": 0.17190158367156982,
+          "id": 1729361525
+        },
+        {
+          "distance": 0.17791837453842163,
+          "id": 1729359497
+        },
+        {
+          "distance": 0.18555498123168945,
+          "id": 1880151097
+        },
+        {
+          "distance": 0.1879008412361145,
+          "id": 1880151449
+        },
+        {
+          "distance": 0.19351047277450562,
+          "id": 1729360199
+        },
+        {
+          "distance": 0.19455355405807495,
+          "id": 1947425253
+        },
+        {
+          "distance": 0.2023574709892273,
+          "id": 1729360199
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559223,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "The San Francisco Airport of yore paid just as much attention to detail to the look and feel of its passenger areas as it does today...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

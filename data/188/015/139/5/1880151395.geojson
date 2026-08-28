@@ -31,6 +31,50 @@
       "taken": 1667554680,
       "taken_at": "Nov 04, 2022 9:38 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0004432797431945801,
+          "id": 1880151581
+        },
+        {
+          "distance": 0.13812750577926636,
+          "id": 1880151581
+        },
+        {
+          "distance": 0.23891961574554443,
+          "id": 1880151199
+        },
+        {
+          "distance": 0.27527040243148804,
+          "id": 1880151199
+        },
+        {
+          "distance": 0.28724944591522217,
+          "id": 1729360625
+        },
+        {
+          "distance": 0.28734755516052246,
+          "id": 1880151009
+        },
+        {
+          "distance": 0.2918589115142822,
+          "id": 1729355617
+        },
+        {
+          "distance": 0.29734230041503906,
+          "id": 1880151259
+        },
+        {
+          "distance": 0.2984163761138916,
+          "id": 1947424927
+        },
+        {
+          "distance": 0.3018534183502197,
+          "id": 1763559341
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151395,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "“Geneva” is an ongoing series by photographer Kari Orvik that offers a glimpse into San Francisco’s Outer Mission neighborhood at the corner of Mission Street and Geneva Avenue...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

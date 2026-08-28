@@ -25,6 +25,50 @@
       "taken": 1472637960,
       "taken_at": "Aug 31, 2016 10:06 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3335690498352051,
+          "id": 1729362371
+        },
+        {
+          "distance": 0.3393360376358032,
+          "id": 1729362799
+        },
+        {
+          "distance": 0.35105299949645996,
+          "id": 1729361991
+        },
+        {
+          "distance": 0.35199815034866333,
+          "id": 1729356231
+        },
+        {
+          "distance": 0.3532212972640991,
+          "id": 1729362371
+        },
+        {
+          "distance": 0.35777151584625244,
+          "id": 1729362799
+        },
+        {
+          "distance": 0.3628726005554199,
+          "id": 1729360331
+        },
+        {
+          "distance": 0.3670949935913086,
+          "id": 1729361991
+        },
+        {
+          "distance": 0.3726292848587036,
+          "id": 1729356231
+        },
+        {
+          "distance": 0.3748563528060913,
+          "id": 1729360331
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360375,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "From the 1950s to the 1980s Pan American produced a number of World Guide books...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

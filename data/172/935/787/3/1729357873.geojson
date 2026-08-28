@@ -46,6 +46,50 @@
       "taken": 1533132300,
       "taken_at": "Aug 01, 2018 2:05 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16036158800125122,
+          "id": 1729360365
+        },
+        {
+          "distance": 0.17224806547164917,
+          "id": 1729360253
+        },
+        {
+          "distance": 0.18020552396774292,
+          "id": 1729359743
+        },
+        {
+          "distance": 0.18572723865509033,
+          "id": 1729361255
+        },
+        {
+          "distance": 0.18900799751281738,
+          "id": 1729361017
+        },
+        {
+          "distance": 0.18983858823776245,
+          "id": 1729357679
+        },
+        {
+          "distance": 0.18995678424835205,
+          "id": 1763558845
+        },
+        {
+          "distance": 0.19006240367889404,
+          "id": 1729356791
+        },
+        {
+          "distance": 0.19348526000976562,
+          "id": 1729359113
+        },
+        {
+          "distance": 0.1936851143836975,
+          "id": 1729360551
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -75,7 +119,7 @@
       }
     ],
     "wof:id": 1729357873,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "A preeminent French couturier, Pierre Balmain (1914–1982) opened his fashion house in 1945...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -92,5 +136,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

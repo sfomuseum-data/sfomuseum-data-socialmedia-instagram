@@ -30,6 +30,50 @@
       "taken": 1495104960,
       "taken_at": "May 18, 2017 10:56 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12703418731689453,
+          "id": 1880151449
+        },
+        {
+          "distance": 0.12944185733795166,
+          "id": 1729361525
+        },
+        {
+          "distance": 0.14938753843307495,
+          "id": 1947425253
+        },
+        {
+          "distance": 0.1608496904373169,
+          "id": 1729361525
+        },
+        {
+          "distance": 0.17382609844207764,
+          "id": 1947425253
+        },
+        {
+          "distance": 0.17781800031661987,
+          "id": 1763559223
+        },
+        {
+          "distance": 0.18347853422164917,
+          "id": 1880151097
+        },
+        {
+          "distance": 0.18464118242263794,
+          "id": 1729360619
+        },
+        {
+          "distance": 0.19151276350021362,
+          "id": 1729358981
+        },
+        {
+          "distance": 0.19703346490859985,
+          "id": 1729360191
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729359497,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "Following WWII, commercial air traffic grew in importance and in scale...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

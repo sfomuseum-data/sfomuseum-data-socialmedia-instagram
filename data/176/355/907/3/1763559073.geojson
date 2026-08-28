@@ -25,6 +25,50 @@
       "taken": 1625675340,
       "taken_at": "Jul 07, 2021 4:29 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17951947450637817,
+          "id": 1729357661
+        },
+        {
+          "distance": 0.18349897861480713,
+          "id": 1729357115
+        },
+        {
+          "distance": 0.18664097785949707,
+          "id": 1729358727
+        },
+        {
+          "distance": 0.18909114599227905,
+          "id": 1729361465
+        },
+        {
+          "distance": 0.19473665952682495,
+          "id": 1729357769
+        },
+        {
+          "distance": 0.19503021240234375,
+          "id": 1729357115
+        },
+        {
+          "distance": 0.1982821822166443,
+          "id": 1729358929
+        },
+        {
+          "distance": 0.1998806595802307,
+          "id": 1729358231
+        },
+        {
+          "distance": 0.2009238600730896,
+          "id": 1729360263
+        },
+        {
+          "distance": 0.20361930131912231,
+          "id": 1729357255
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1763559073,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Douglas developed the DC-8 jetliner during the mid-1950s as a competitive design to Boeing’s 707 jetliner...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -33,6 +33,50 @@
       "taken": 1539791520,
       "taken_at": "Oct 17, 2018 3:52 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1970570683479309,
+          "id": 1729360785
+        },
+        {
+          "distance": 0.204917311668396,
+          "id": 1729359565
+        },
+        {
+          "distance": 0.20706617832183838,
+          "id": 1729355261
+        },
+        {
+          "distance": 0.20799505710601807,
+          "id": 1729361015
+        },
+        {
+          "distance": 0.2080581784248352,
+          "id": 1729360551
+        },
+        {
+          "distance": 0.21051985025405884,
+          "id": 1729357679
+        },
+        {
+          "distance": 0.21284347772598267,
+          "id": 1729361695
+        },
+        {
+          "distance": 0.21418803930282593,
+          "id": 1729356715
+        },
+        {
+          "distance": 0.21581602096557617,
+          "id": 1729360365
+        },
+        {
+          "distance": 0.21989089250564575,
+          "id": 1729361017
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729357541,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777632,
     "wof:name": "World Wings International, Inc., a philanthropic organization of former Pan American World Airways flight attendants, conducted a series of career surveys among the airline’s flight attendants in 1990, 1991, and 2012...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -30,6 +30,50 @@
       "taken": 1623168780,
       "taken_at": "Jun 08, 2021 4:13 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.351245641708374,
+          "id": 1729360587
+        },
+        {
+          "distance": 0.3516883850097656,
+          "id": 1729361113
+        },
+        {
+          "distance": 0.36104363203048706,
+          "id": 1729357905
+        },
+        {
+          "distance": 0.3693200349807739,
+          "id": 1729359845
+        },
+        {
+          "distance": 0.3699110746383667,
+          "id": 1729359515
+        },
+        {
+          "distance": 0.3728944659233093,
+          "id": 1729357513
+        },
+        {
+          "distance": 0.3738429546356201,
+          "id": 1763559233
+        },
+        {
+          "distance": 0.3790856599807739,
+          "id": 1729359587
+        },
+        {
+          "distance": 0.380670428276062,
+          "id": 1729355797
+        },
+        {
+          "distance": 0.38186097145080566,
+          "id": 1763559233
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559115,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Beyond the view of the passenger hall of the 1937 Administration Building, were a restaurant, beverage room, and kitchen...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

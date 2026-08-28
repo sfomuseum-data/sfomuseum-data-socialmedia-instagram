@@ -25,6 +25,50 @@
       "taken": 1601647620,
       "taken_at": "Oct 02, 2020 2:07 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1116594672203064,
+          "id": 1729356099
+        },
+        {
+          "distance": 0.14593154191970825,
+          "id": 1729356099
+        },
+        {
+          "distance": 0.2979888916015625,
+          "id": 1729361797
+        },
+        {
+          "distance": 0.3105846047401428,
+          "id": 1729360113
+        },
+        {
+          "distance": 0.32378512620925903,
+          "id": 1729358175
+        },
+        {
+          "distance": 0.33933013677597046,
+          "id": 1729359461
+        },
+        {
+          "distance": 0.3427778482437134,
+          "id": 1763559323
+        },
+        {
+          "distance": 0.34595268964767456,
+          "id": 1729361797
+        },
+        {
+          "distance": 0.3518170118331909,
+          "id": 1729360057
+        },
+        {
+          "distance": 0.35271161794662476,
+          "id": 1729356881
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729355015,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777613,
     "wof:name": "We are so sad to hear about the passing of the great Bay Area photorealist painter, Robert Bechtle...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

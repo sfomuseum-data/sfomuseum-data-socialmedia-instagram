@@ -31,6 +31,50 @@
       "taken": 1564576800,
       "taken_at": "Jul 31, 2019 12:40 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06079232692718506,
+          "id": 1880151639
+        },
+        {
+          "distance": 0.13085269927978516,
+          "id": 1880151639
+        },
+        {
+          "distance": 0.21102112531661987,
+          "id": 1729356049
+        },
+        {
+          "distance": 0.2160125970840454,
+          "id": 1729355509
+        },
+        {
+          "distance": 0.23059386014938354,
+          "id": 1729358503
+        },
+        {
+          "distance": 0.23458361625671387,
+          "id": 1729355509
+        },
+        {
+          "distance": 0.23740482330322266,
+          "id": 1880151413
+        },
+        {
+          "distance": 0.24620479345321655,
+          "id": 1880151413
+        },
+        {
+          "distance": 0.24661004543304443,
+          "id": 1729358503
+        },
+        {
+          "distance": 0.24998217821121216,
+          "id": 1729356049
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729356265,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Northeast Airlines’ last day of operation occurred #onthisday in 1972...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

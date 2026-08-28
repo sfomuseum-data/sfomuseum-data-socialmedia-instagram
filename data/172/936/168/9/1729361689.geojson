@@ -25,6 +25,50 @@
       "taken": 1438023000,
       "taken_at": "Jul 27, 2015 6:50 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.32800090312957764,
+          "id": 1729361613
+        },
+        {
+          "distance": 0.33889544010162354,
+          "id": 1729356063
+        },
+        {
+          "distance": 0.3495728373527527,
+          "id": 1729362451
+        },
+        {
+          "distance": 0.35159969329833984,
+          "id": 1729361703
+        },
+        {
+          "distance": 0.35387128591537476,
+          "id": 1729356241
+        },
+        {
+          "distance": 0.3550027012825012,
+          "id": 1729361339
+        },
+        {
+          "distance": 0.3556329607963562,
+          "id": 1729361707
+        },
+        {
+          "distance": 0.35622483491897583,
+          "id": 1729362547
+        },
+        {
+          "distance": 0.35692262649536133,
+          "id": 1729362455
+        },
+        {
+          "distance": 0.35708117485046387,
+          "id": 1729362309
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361689,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777646,
     "wof:name": "Thanks for all your hard work for our exhibition and the great photo!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

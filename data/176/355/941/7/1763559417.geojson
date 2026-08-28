@@ -31,6 +31,50 @@
       "taken": 1632238800,
       "taken_at": "Sep 21, 2021 3:40 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.04271268844604492,
+          "id": 1763558935
+        },
+        {
+          "distance": 0.09491413831710815,
+          "id": 1763558935
+        },
+        {
+          "distance": 0.11553913354873657,
+          "id": 1729355237
+        },
+        {
+          "distance": 0.11949634552001953,
+          "id": 1880150993
+        },
+        {
+          "distance": 0.1205093264579773,
+          "id": 1947425151
+        },
+        {
+          "distance": 0.1368979811668396,
+          "id": 1947425251
+        },
+        {
+          "distance": 0.13977301120758057,
+          "id": 1947425151
+        },
+        {
+          "distance": 0.14017260074615479,
+          "id": 1729355237
+        },
+        {
+          "distance": 0.14250898361206055,
+          "id": 1880151649
+        },
+        {
+          "distance": 0.142816424369812,
+          "id": 1880150993
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559417,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "“HARVEY MILK LIVES” proclaimed graffiti spray painted on Castro Street after Milk’s assassination...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

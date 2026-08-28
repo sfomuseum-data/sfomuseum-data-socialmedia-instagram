@@ -31,6 +31,50 @@
       "taken": 1672134840,
       "taken_at": "Dec 27, 2022 9:54 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17665523290634155,
+          "id": 1947424961
+        },
+        {
+          "distance": 0.189161479473114,
+          "id": 1729359429
+        },
+        {
+          "distance": 0.1900271773338318,
+          "id": 1880151285
+        },
+        {
+          "distance": 0.2015058994293213,
+          "id": 1880151253
+        },
+        {
+          "distance": 0.20212888717651367,
+          "id": 1729355707
+        },
+        {
+          "distance": 0.2028476595878601,
+          "id": 1947425185
+        },
+        {
+          "distance": 0.2037995457649231,
+          "id": 1880151253
+        },
+        {
+          "distance": 0.2103879451751709,
+          "id": 1729355723
+        },
+        {
+          "distance": 0.21737223863601685,
+          "id": 1947425185
+        },
+        {
+          "distance": 0.22054582834243774,
+          "id": 1729355723
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151241,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "“Continuous City” is an immersive installation that allows travelers to see themselves reflected in San Francisco’s dynamic past and present...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

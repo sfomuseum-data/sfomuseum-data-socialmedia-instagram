@@ -33,6 +33,50 @@
       "taken": 1656323100,
       "taken_at": "Jun 27, 2022 9:45 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.08619415760040283,
+          "id": 1880151755
+        },
+        {
+          "distance": 0.08619415760040283,
+          "id": 1880151683
+        },
+        {
+          "distance": 0.08619415760040283,
+          "id": 1880151703
+        },
+        {
+          "distance": 0.11739450693130493,
+          "id": 1880151703
+        },
+        {
+          "distance": 0.11739450693130493,
+          "id": 1880151683
+        },
+        {
+          "distance": 0.11739450693130493,
+          "id": 1880151755
+        },
+        {
+          "distance": 0.15726488828659058,
+          "id": 1880151391
+        },
+        {
+          "distance": 0.15858417749404907,
+          "id": 1729362281
+        },
+        {
+          "distance": 0.16412734985351562,
+          "id": 1729362281
+        },
+        {
+          "distance": 0.1766747236251831,
+          "id": 1880151391
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1880151625,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "The quality of nineteenth-century piña textiles and embroidery is unsurpassed...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

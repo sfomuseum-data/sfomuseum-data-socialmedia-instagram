@@ -25,6 +25,50 @@
       "taken": 1475255700,
       "taken_at": "Sep 30, 2016 5:15 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19274771213531494,
+          "id": 1729360135
+        },
+        {
+          "distance": 0.19874650239944458,
+          "id": 1763559079
+        },
+        {
+          "distance": 0.20639175176620483,
+          "id": 1729360205
+        },
+        {
+          "distance": 0.2196112871170044,
+          "id": 1729361509
+        },
+        {
+          "distance": 0.2233983278274536,
+          "id": 1729355257
+        },
+        {
+          "distance": 0.2249775528907776,
+          "id": 1729360473
+        },
+        {
+          "distance": 0.22606706619262695,
+          "id": 1729359535
+        },
+        {
+          "distance": 0.22738206386566162,
+          "id": 1729359467
+        },
+        {
+          "distance": 0.22776108980178833,
+          "id": 1729361509
+        },
+        {
+          "distance": 0.22809070348739624,
+          "id": 1729355983
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360281,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "New York-based fashion designer #StanHerman (b...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

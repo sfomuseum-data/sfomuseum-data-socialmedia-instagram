@@ -32,6 +32,50 @@
       "taken": 1619189460,
       "taken_at": "Apr 23, 2021 2:51 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09916281700134277,
+          "id": 1763559221
+        },
+        {
+          "distance": 0.10061651468276978,
+          "id": 1763558863
+        },
+        {
+          "distance": 0.1281336545944214,
+          "id": 1763559221
+        },
+        {
+          "distance": 0.12913751602172852,
+          "id": 1763558863
+        },
+        {
+          "distance": 0.1608736515045166,
+          "id": 1763559231
+        },
+        {
+          "distance": 0.1855366826057434,
+          "id": 1763559231
+        },
+        {
+          "distance": 0.19619905948638916,
+          "id": 1763558885
+        },
+        {
+          "distance": 0.19909214973449707,
+          "id": 1763558885
+        },
+        {
+          "distance": 0.19983845949172974,
+          "id": 1763559067
+        },
+        {
+          "distance": 0.20559072494506836,
+          "id": 1763559067
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1763559177,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Women have worn hairnets for centuries for reasons including aesthetics, protecting hairstyles, and sanitary purposes...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

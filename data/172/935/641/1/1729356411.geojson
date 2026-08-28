@@ -33,6 +33,50 @@
       "taken": 1561030800,
       "taken_at": "Jun 20, 2019 11:40 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12599927186965942,
+          "id": 1880151109
+        },
+        {
+          "distance": 0.15096527338027954,
+          "id": 1880151409
+        },
+        {
+          "distance": 0.15599054098129272,
+          "id": 1729356403
+        },
+        {
+          "distance": 0.15616118907928467,
+          "id": 1729363009
+        },
+        {
+          "distance": 0.15756362676620483,
+          "id": 1880151175
+        },
+        {
+          "distance": 0.1727156639099121,
+          "id": 1880151049
+        },
+        {
+          "distance": 0.17456907033920288,
+          "id": 1729358313
+        },
+        {
+          "distance": 0.18238085508346558,
+          "id": 1729357959
+        },
+        {
+          "distance": 0.18422752618789673,
+          "id": 1729358211
+        },
+        {
+          "distance": 0.18533819913864136,
+          "id": 1947425187
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729356411,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Beginning with the 1903 Wright Flyer, lightweight aircraft engines made of aluminum were vital to the advancement of aviation...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

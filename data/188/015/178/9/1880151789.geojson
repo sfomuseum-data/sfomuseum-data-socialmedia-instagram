@@ -35,6 +35,50 @@
       "taken": 1650535800,
       "taken_at": "Apr 21, 2022 10:10 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11750245094299316,
+          "id": 1763558947
+        },
+        {
+          "distance": 0.1579509973526001,
+          "id": 1763558947
+        },
+        {
+          "distance": 0.20348399877548218,
+          "id": 1947424985
+        },
+        {
+          "distance": 0.21549034118652344,
+          "id": 1947424929
+        },
+        {
+          "distance": 0.21690678596496582,
+          "id": 1729355177
+        },
+        {
+          "distance": 0.23818516731262207,
+          "id": 1947425063
+        },
+        {
+          "distance": 0.24723756313323975,
+          "id": 1763559439
+        },
+        {
+          "distance": 0.25199830532073975,
+          "id": 1729362959
+        },
+        {
+          "distance": 0.257752001285553,
+          "id": 1763559569
+        },
+        {
+          "distance": 0.25934821367263794,
+          "id": 1729355147
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1880151789,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777663,
     "wof:name": "Richard Diebenkorn was a California-based painter and printmaker who spent much of his renowned career in the Bay Area...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -40,6 +40,50 @@
       "taken": 1521821880,
       "taken_at": "Mar 23, 2018 4:18 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06562066078186035,
+          "id": 1729360919
+        },
+        {
+          "distance": 0.12589681148529053,
+          "id": 1729360919
+        },
+        {
+          "distance": 0.21975862979888916,
+          "id": 1729357683
+        },
+        {
+          "distance": 0.2244940996170044,
+          "id": 1729358225
+        },
+        {
+          "distance": 0.23359191417694092,
+          "id": 1729359389
+        },
+        {
+          "distance": 0.24168694019317627,
+          "id": 1729357679
+        },
+        {
+          "distance": 0.24212360382080078,
+          "id": 1729358607
+        },
+        {
+          "distance": 0.24382668733596802,
+          "id": 1729357903
+        },
+        {
+          "distance": 0.24501490592956543,
+          "id": 1729357341
+        },
+        {
+          "distance": 0.24778074026107788,
+          "id": 1729361161
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729358413,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Colonel Charles A. Lindbergh was deeply involved in commercial aviation's development and early airline planning...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

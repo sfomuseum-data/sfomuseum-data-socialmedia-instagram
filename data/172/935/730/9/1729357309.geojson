@@ -39,6 +39,50 @@
       "taken": 1543256460,
       "taken_at": "Nov 26, 2018, 6:21 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1299363374710083,
+          "id": 1729358007
+        },
+        {
+          "distance": 0.17791283130645752,
+          "id": 1729358007
+        },
+        {
+          "distance": 0.18044805526733398,
+          "id": 1729357693
+        },
+        {
+          "distance": 0.18612051010131836,
+          "id": 1729357325
+        },
+        {
+          "distance": 0.19546526670455933,
+          "id": 1763558761
+        },
+        {
+          "distance": 0.21069437265396118,
+          "id": 1947425291
+        },
+        {
+          "distance": 0.21170896291732788,
+          "id": 1763558925
+        },
+        {
+          "distance": 0.21171718835830688,
+          "id": 1729357951
+        },
+        {
+          "distance": 0.2118052840232849,
+          "id": 1763558907
+        },
+        {
+          "distance": 0.2166956663131714,
+          "id": 1729355059
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729357309,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777631,
     "wof:name": "This is your last week to catch all the tunes in \"On The Radio.\"..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

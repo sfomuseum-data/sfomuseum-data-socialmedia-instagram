@@ -35,6 +35,50 @@
       "taken": 1676393280,
       "taken_at": "Feb 14, 2023 4:48 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.000025391578674316406,
+          "id": 1880151017
+        },
+        {
+          "distance": 0.007283687591552734,
+          "id": 1947425005
+        },
+        {
+          "distance": 0.00857919454574585,
+          "id": 1947425041
+        },
+        {
+          "distance": 0.013829827308654785,
+          "id": 1880150925
+        },
+        {
+          "distance": 0.014310240745544434,
+          "id": 1880150889
+        },
+        {
+          "distance": 0.014310240745544434,
+          "id": 1880151181
+        },
+        {
+          "distance": 0.014310240745544434,
+          "id": 1880150987
+        },
+        {
+          "distance": 0.014310240745544434,
+          "id": 1880150893
+        },
+        {
+          "distance": 0.014310240745544434,
+          "id": 1947425299
+        },
+        {
+          "distance": 0.014310240745544434,
+          "id": 1947425279
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1880151119,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "“As far back as I could remember, I've always felt like a boy...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

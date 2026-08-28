@@ -42,6 +42,50 @@
       "taken": 1437557220,
       "taken_at": "Jul 22, 2015 9:27 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.33780211210250854,
+          "id": 1729362935
+        },
+        {
+          "distance": 0.36571502685546875,
+          "id": 1729361681
+        },
+        {
+          "distance": 0.37339848279953003,
+          "id": 1729362935
+        },
+        {
+          "distance": 0.40340083837509155,
+          "id": 1729361681
+        },
+        {
+          "distance": 0.40436071157455444,
+          "id": 1729361651
+        },
+        {
+          "distance": 0.4056727886199951,
+          "id": 1729361657
+        },
+        {
+          "distance": 0.40663349628448486,
+          "id": 1729362719
+        },
+        {
+          "distance": 0.40981870889663696,
+          "id": 1880151179
+        },
+        {
+          "distance": 0.4131612181663513,
+          "id": 1729361585
+        },
+        {
+          "distance": 0.41646116971969604,
+          "id": 1729361685
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -71,7 +115,7 @@
       }
     ],
     "wof:id": 1729361687,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777646,
     "wof:name": "Love this awesome photo by @lapinvintage!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -88,5 +132,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

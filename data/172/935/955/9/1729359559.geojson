@@ -35,6 +35,50 @@
       "taken": 1493370540,
       "taken_at": "Apr 28, 2017 9:09 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3198166489601135,
+          "id": 1729359659
+        },
+        {
+          "distance": 0.3484157919883728,
+          "id": 1729361949
+        },
+        {
+          "distance": 0.3488473892211914,
+          "id": 1763559155
+        },
+        {
+          "distance": 0.3490227460861206,
+          "id": 1729356715
+        },
+        {
+          "distance": 0.3504844903945923,
+          "id": 1729358339
+        },
+        {
+          "distance": 0.3519681692123413,
+          "id": 1729359217
+        },
+        {
+          "distance": 0.3536316752433777,
+          "id": 1729361897
+        },
+        {
+          "distance": 0.35445570945739746,
+          "id": 1729358317
+        },
+        {
+          "distance": 0.3550255298614502,
+          "id": 1729358709
+        },
+        {
+          "distance": 0.356661856174469,
+          "id": 1729358615
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729359559,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "“No matter how you look at it - here’s America’s no...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

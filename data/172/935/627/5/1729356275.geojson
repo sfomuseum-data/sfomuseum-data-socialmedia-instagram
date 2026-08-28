@@ -40,6 +40,50 @@
       "taken": 1564417140,
       "taken_at": "Jul 29, 2019 4:19 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2526688575744629,
+          "id": 1763558907
+        },
+        {
+          "distance": 0.2533084750175476,
+          "id": 1763559103
+        },
+        {
+          "distance": 0.2551838755607605,
+          "id": 1729356521
+        },
+        {
+          "distance": 0.2578362226486206,
+          "id": 1729356737
+        },
+        {
+          "distance": 0.2616065740585327,
+          "id": 1729355529
+        },
+        {
+          "distance": 0.26629942655563354,
+          "id": 1729360653
+        },
+        {
+          "distance": 0.2726036310195923,
+          "id": 1729356737
+        },
+        {
+          "distance": 0.27698463201522827,
+          "id": 1729356521
+        },
+        {
+          "distance": 0.27794116735458374,
+          "id": 1763558925
+        },
+        {
+          "distance": 0.28042125701904297,
+          "id": 1763558925
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729356275,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777629,
     "wof:name": "It is your last week to see “Reflections in Wood: Surfboards and Shapers.” By pairing iconic shapers with select sources of rare wood, Larry Fuller has assembled a collection of boards that illustrate the progression of surfboard design through a common medium...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

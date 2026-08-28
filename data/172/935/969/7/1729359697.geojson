@@ -38,6 +38,50 @@
       "taken": 1490086560,
       "taken_at": "Mar 21, 2017 8:56 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19216138124465942,
+          "id": 1729361533
+        },
+        {
+          "distance": 0.22070664167404175,
+          "id": 1729361533
+        },
+        {
+          "distance": 0.22664880752563477,
+          "id": 1729358641
+        },
+        {
+          "distance": 0.26518529653549194,
+          "id": 1729361121
+        },
+        {
+          "distance": 0.2653437852859497,
+          "id": 1729358641
+        },
+        {
+          "distance": 0.2794451117515564,
+          "id": 1880151163
+        },
+        {
+          "distance": 0.29274165630340576,
+          "id": 1729360475
+        },
+        {
+          "distance": 0.29378074407577515,
+          "id": 1880151163
+        },
+        {
+          "distance": 0.29913491010665894,
+          "id": 1729361121
+        },
+        {
+          "distance": 0.3112189769744873,
+          "id": 1729359663
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729359697,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "On January 25, 1929, Panagra (Pan American-Grace Airways Inc.)..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

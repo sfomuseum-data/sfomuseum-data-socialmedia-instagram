@@ -38,6 +38,50 @@
       "taken": 1491937920,
       "taken_at": "Apr 11, 2017 7:12 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2416035532951355,
+          "id": 1729360047
+        },
+        {
+          "distance": 0.24233204126358032,
+          "id": 1729359771
+        },
+        {
+          "distance": 0.24840998649597168,
+          "id": 1729359465
+        },
+        {
+          "distance": 0.2504233717918396,
+          "id": 1729358575
+        },
+        {
+          "distance": 0.2505989670753479,
+          "id": 1729356177
+        },
+        {
+          "distance": 0.25076931715011597,
+          "id": 1729355795
+        },
+        {
+          "distance": 0.2535356879234314,
+          "id": 1763559149
+        },
+        {
+          "distance": 0.2585746645927429,
+          "id": 1729356979
+        },
+        {
+          "distance": 0.2588884234428406,
+          "id": 1729357687
+        },
+        {
+          "distance": 0.2591560482978821,
+          "id": 1729358575
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729359629,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "Airline calendars often presented stunning imagery of aircraft in service...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

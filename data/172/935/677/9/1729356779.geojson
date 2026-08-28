@@ -35,6 +35,50 @@
       "taken": 1553619540,
       "taken_at": "Mar 26, 2019, 4:59 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2896381616592407,
+          "id": 1729356765
+        },
+        {
+          "distance": 0.2947766184806824,
+          "id": 1729356331
+        },
+        {
+          "distance": 0.29639822244644165,
+          "id": 1729361811
+        },
+        {
+          "distance": 0.3034977912902832,
+          "id": 1729359161
+        },
+        {
+          "distance": 0.3043810725212097,
+          "id": 1729359161
+        },
+        {
+          "distance": 0.30499929189682007,
+          "id": 1729358489
+        },
+        {
+          "distance": 0.30627965927124023,
+          "id": 1729359799
+        },
+        {
+          "distance": 0.3081292510032654,
+          "id": 1729359217
+        },
+        {
+          "distance": 0.3149014115333557,
+          "id": 1729359975
+        },
+        {
+          "distance": 0.31529611349105835,
+          "id": 1729358299
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729356779,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "By the late 1930s, toasters were redesigned with clean, curved housings reminiscent of streamlined train cars...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

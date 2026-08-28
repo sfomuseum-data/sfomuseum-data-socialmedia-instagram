@@ -25,6 +25,50 @@
       "taken": 1451300880,
       "taken_at": "Dec 28, 2015 11:08 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11050915718078613,
+          "id": 1729361399
+        },
+        {
+          "distance": 0.15033262968063354,
+          "id": 1729361123
+        },
+        {
+          "distance": 0.1711096167564392,
+          "id": 1729361181
+        },
+        {
+          "distance": 0.1773087978363037,
+          "id": 1729361375
+        },
+        {
+          "distance": 0.19226962327957153,
+          "id": 1729361181
+        },
+        {
+          "distance": 0.2008875608444214,
+          "id": 1729361247
+        },
+        {
+          "distance": 0.21358472108840942,
+          "id": 1729361375
+        },
+        {
+          "distance": 0.22948330640792847,
+          "id": 1729361443
+        },
+        {
+          "distance": 0.23540985584259033,
+          "id": 1729361443
+        },
+        {
+          "distance": 0.24262773990631104,
+          "id": 1729361399
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361225,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "In the third round of the 1979 NFL draft, the 49ers selected Notre Dame quarterback Joe Montana, who became the cornerstone of the \"Team of the 1980s.\"..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

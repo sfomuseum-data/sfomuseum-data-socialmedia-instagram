@@ -33,6 +33,50 @@
       "taken": 1660236060,
       "taken_at": "Aug 11, 2022 4:41 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17232108116149902,
+          "id": 1880151221
+        },
+        {
+          "distance": 0.1774059534072876,
+          "id": 1729360591
+        },
+        {
+          "distance": 0.18118441104888916,
+          "id": 1729358071
+        },
+        {
+          "distance": 0.18356847763061523,
+          "id": 1729361351
+        },
+        {
+          "distance": 0.18370789289474487,
+          "id": 1880150943
+        },
+        {
+          "distance": 0.1838046908378601,
+          "id": 1947424791
+        },
+        {
+          "distance": 0.18412500619888306,
+          "id": 1729361351
+        },
+        {
+          "distance": 0.18578147888183594,
+          "id": 1729360081
+        },
+        {
+          "distance": 0.19100677967071533,
+          "id": 1729361297
+        },
+        {
+          "distance": 0.19386112689971924,
+          "id": 1729360081
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1880151523,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Continuation of the epic story of Pan Am for #DefunctThursday: In the early 1930s, Pan American Airways began planning for service across the oceans...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

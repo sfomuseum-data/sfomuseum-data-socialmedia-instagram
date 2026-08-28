@@ -30,6 +30,50 @@
       "taken": 1438946880,
       "taken_at": "Aug 07, 2015 11:28 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1891201138496399,
+          "id": 1729357895
+        },
+        {
+          "distance": 0.23045504093170166,
+          "id": 1729357871
+        },
+        {
+          "distance": 0.23333430290222168,
+          "id": 1729357869
+        },
+        {
+          "distance": 0.2390192747116089,
+          "id": 1729357895
+        },
+        {
+          "distance": 0.24198460578918457,
+          "id": 1729361679
+        },
+        {
+          "distance": 0.25061607360839844,
+          "id": 1729359425
+        },
+        {
+          "distance": 0.25937360525131226,
+          "id": 1729361567
+        },
+        {
+          "distance": 0.27083325386047363,
+          "id": 1729357869
+        },
+        {
+          "distance": 0.2781045436859131,
+          "id": 1880151091
+        },
+        {
+          "distance": 0.2781652808189392,
+          "id": 1729360153
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729361631,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777646,
     "wof:name": "Val Britton's Voyage is located in the connector walkway between Terminal One and Two...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

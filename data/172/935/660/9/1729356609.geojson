@@ -35,6 +35,50 @@
       "taken": 1556533140,
       "taken_at": "Apr 29, 2019 10:19 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0062100887298583984,
+          "id": 1729356571
+        },
+        {
+          "distance": 0.07706040143966675,
+          "id": 1729355889
+        },
+        {
+          "distance": 0.1120983362197876,
+          "id": 1729356571
+        },
+        {
+          "distance": 0.11393266916275024,
+          "id": 1729355889
+        },
+        {
+          "distance": 0.2290666699409485,
+          "id": 1729356307
+        },
+        {
+          "distance": 0.2326323390007019,
+          "id": 1729356209
+        },
+        {
+          "distance": 0.23711705207824707,
+          "id": 1729356295
+        },
+        {
+          "distance": 0.23733913898468018,
+          "id": 1729356371
+        },
+        {
+          "distance": 0.2411438226699829,
+          "id": 1729356297
+        },
+        {
+          "distance": 0.24743777513504028,
+          "id": 1729356593
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729356609,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Our newest exhibition \"The Intriguing World of Insects\" is now on display, pre-security, in the International Terminal...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

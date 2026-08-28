@@ -30,6 +30,50 @@
       "taken": 1656517020,
       "taken_at": "Jun 29, 2022 3:37 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13829058408737183,
+          "id": 1880151677
+        },
+        {
+          "distance": 0.14511603116989136,
+          "id": 1880151557
+        },
+        {
+          "distance": 0.15878891944885254,
+          "id": 1880151677
+        },
+        {
+          "distance": 0.17675089836120605,
+          "id": 1880151369
+        },
+        {
+          "distance": 0.17735087871551514,
+          "id": 1880151783
+        },
+        {
+          "distance": 0.2006734013557434,
+          "id": 1880151737
+        },
+        {
+          "distance": 0.20222985744476318,
+          "id": 1880151007
+        },
+        {
+          "distance": 0.21248257160186768,
+          "id": 1880151557
+        },
+        {
+          "distance": 0.23654353618621826,
+          "id": 1763559039
+        },
+        {
+          "distance": 0.245552659034729,
+          "id": 1880151379
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151621,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Zimbabwean artists carve their sculptures from the indigenous stone that permeates the country and exhibits an array of hues...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

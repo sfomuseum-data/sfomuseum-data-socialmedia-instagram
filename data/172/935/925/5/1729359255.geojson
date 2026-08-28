@@ -47,6 +47,50 @@
       "taken": 1501232220,
       "taken_at": "Jul 28, 2017 8:57 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16499793529510498,
+          "id": 1729359381
+        },
+        {
+          "distance": 0.23186028003692627,
+          "id": 1729360471
+        },
+        {
+          "distance": 0.2720734477043152,
+          "id": 1729356333
+        },
+        {
+          "distance": 0.2763277292251587,
+          "id": 1729356333
+        },
+        {
+          "distance": 0.2856593132019043,
+          "id": 1729359655
+        },
+        {
+          "distance": 0.29154467582702637,
+          "id": 1729361441
+        },
+        {
+          "distance": 0.2962074279785156,
+          "id": 1729359525
+        },
+        {
+          "distance": 0.296323299407959,
+          "id": 1729360775
+        },
+        {
+          "distance": 0.2992900609970093,
+          "id": 1729359037
+        },
+        {
+          "distance": 0.3076777458190918,
+          "id": 1729359499
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -76,7 +120,7 @@
       }
     ],
     "wof:id": 1729359255,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Born in the Netherlands, Dirk van Erp (1862–1933) learned his trade in his homeland from his father, who ran a coppersmith shop with forty employees, crafting utensils for dairies...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -93,5 +137,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

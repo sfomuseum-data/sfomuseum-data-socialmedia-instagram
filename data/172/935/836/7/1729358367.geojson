@@ -43,6 +43,50 @@
       "taken": 1523281800,
       "taken_at": "Apr 09, 2018 1:50 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24325931072235107,
+          "id": 1729356881
+        },
+        {
+          "distance": 0.27180880308151245,
+          "id": 1729356881
+        },
+        {
+          "distance": 0.30046355724334717,
+          "id": 1729359751
+        },
+        {
+          "distance": 0.3143829107284546,
+          "id": 1729360365
+        },
+        {
+          "distance": 0.32407093048095703,
+          "id": 1729359407
+        },
+        {
+          "distance": 0.3248187303543091,
+          "id": 1729359407
+        },
+        {
+          "distance": 0.32717978954315186,
+          "id": 1729359623
+        },
+        {
+          "distance": 0.3329418897628784,
+          "id": 1729359623
+        },
+        {
+          "distance": 0.33539706468582153,
+          "id": 1729359751
+        },
+        {
+          "distance": 0.33938175439834595,
+          "id": 1729357023
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -72,7 +116,7 @@
       }
     ],
     "wof:id": 1729358367,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "During the mid-1970s, Hugh Holland spent three years photographing the early days of skateboarding...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -89,5 +133,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

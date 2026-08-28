@@ -49,6 +49,50 @@
       "taken": 1506681060,
       "taken_at": "Sep 29, 2017 10:31 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2246241569519043,
+          "id": 1729358783
+        },
+        {
+          "distance": 0.24631822109222412,
+          "id": 1729360099
+        },
+        {
+          "distance": 0.24653619527816772,
+          "id": 1729355349
+        },
+        {
+          "distance": 0.2478541135787964,
+          "id": 1729355349
+        },
+        {
+          "distance": 0.24849814176559448,
+          "id": 1729357367
+        },
+        {
+          "distance": 0.2550233006477356,
+          "id": 1947424997
+        },
+        {
+          "distance": 0.2569592595100403,
+          "id": 1947424997
+        },
+        {
+          "distance": 0.2681330442428589,
+          "id": 1729360099
+        },
+        {
+          "distance": 0.27051228284835815,
+          "id": 1729359755
+        },
+        {
+          "distance": 0.27206331491470337,
+          "id": 1729357849
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -78,7 +122,7 @@
       }
     ],
     "wof:id": 1729359041,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "In 1952, BOAC (British Overseas Airways Corporation) introduced the first jetliner into commercial service, the de Havilland Comet...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -95,5 +139,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

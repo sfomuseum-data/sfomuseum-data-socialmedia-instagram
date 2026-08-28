@@ -32,6 +32,50 @@
       "taken": 1678791600,
       "taken_at": "Mar 14, 2023 11:00 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.02542036771774292,
+          "id": 1947425263
+        },
+        {
+          "distance": 0.12270194292068481,
+          "id": 1947425263
+        },
+        {
+          "distance": 0.22828537225723267,
+          "id": 1880151257
+        },
+        {
+          "distance": 0.23258966207504272,
+          "id": 1880150897
+        },
+        {
+          "distance": 0.24857908487319946,
+          "id": 1947424803
+        },
+        {
+          "distance": 0.2488660216331482,
+          "id": 1947425119
+        },
+        {
+          "distance": 0.25480854511260986,
+          "id": 1880151257
+        },
+        {
+          "distance": 0.2562493681907654,
+          "id": 1880151033
+        },
+        {
+          "distance": 0.2562493681907654,
+          "id": 1947425245
+        },
+        {
+          "distance": 0.2572290897369385,
+          "id": 1947425287
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1880151059,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777661,
     "wof:name": "French American coloratura soprano Lily Pons (1898–1976) was a pop-cultural sensation and appeared on radio programs, recorded for RCA Records, starred in Hollywood films, and had perfume, flowers, and even a town—Lilypons, Maryland—named after her...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

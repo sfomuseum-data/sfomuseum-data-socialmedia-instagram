@@ -38,6 +38,50 @@
       "taken": 1557265440,
       "taken_at": "May 07, 2019 9:44 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16423732042312622,
+          "id": 1729360721
+        },
+        {
+          "distance": 0.17915207147598267,
+          "id": 1729360379
+        },
+        {
+          "distance": 0.17981839179992676,
+          "id": 1763558641
+        },
+        {
+          "distance": 0.18992888927459717,
+          "id": 1729358327
+        },
+        {
+          "distance": 0.19535160064697266,
+          "id": 1729359577
+        },
+        {
+          "distance": 0.19582486152648926,
+          "id": 1729360379
+        },
+        {
+          "distance": 0.19786399602890015,
+          "id": 1763558641
+        },
+        {
+          "distance": 0.19976305961608887,
+          "id": 1729358329
+        },
+        {
+          "distance": 0.20111924409866333,
+          "id": 1729360721
+        },
+        {
+          "distance": 0.20168542861938477,
+          "id": 1729358267
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729356611,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "The dedication ceremony of Mills Field Municipal Airport of San Francisco, the original name of San Francisco International Airport, commenced #onthisday in 1927...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

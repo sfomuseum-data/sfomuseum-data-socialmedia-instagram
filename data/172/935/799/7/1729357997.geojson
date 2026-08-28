@@ -37,6 +37,50 @@
       "taken": 1530894960,
       "taken_at": "Jul 06, 2018 4:36 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3047593832015991,
+          "id": 1729355995
+        },
+        {
+          "distance": 0.309628963470459,
+          "id": 1729359331
+        },
+        {
+          "distance": 0.3224717974662781,
+          "id": 1729359331
+        },
+        {
+          "distance": 0.3357561230659485,
+          "id": 1729359881
+        },
+        {
+          "distance": 0.3397330641746521,
+          "id": 1729359961
+        },
+        {
+          "distance": 0.34074145555496216,
+          "id": 1729359469
+        },
+        {
+          "distance": 0.34135252237319946,
+          "id": 1729355995
+        },
+        {
+          "distance": 0.34757912158966064,
+          "id": 1729355439
+        },
+        {
+          "distance": 0.3488781452178955,
+          "id": 1729359869
+        },
+        {
+          "distance": 0.3509451150894165,
+          "id": 1729355439
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729357997,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Have you ever been in a hot air balloon?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

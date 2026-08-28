@@ -42,6 +42,50 @@
       "taken": 1550742360,
       "taken_at": "Feb 21, 2019, 9:46 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.08954298496246338,
+          "id": 1729357019
+        },
+        {
+          "distance": 0.09315448999404907,
+          "id": 1729356901
+        },
+        {
+          "distance": 0.1036805510520935,
+          "id": 1729356943
+        },
+        {
+          "distance": 0.1048576831817627,
+          "id": 1729357019
+        },
+        {
+          "distance": 0.10531920194625854,
+          "id": 1729356901
+        },
+        {
+          "distance": 0.11474782228469849,
+          "id": 1729356943
+        },
+        {
+          "distance": 0.12532997131347656,
+          "id": 1729357021
+        },
+        {
+          "distance": 0.17085283994674683,
+          "id": 1729357021
+        },
+        {
+          "distance": 0.17535340785980225,
+          "id": 1729356945
+        },
+        {
+          "distance": 0.19162726402282715,
+          "id": 1729356945
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -71,7 +115,7 @@
       }
     ],
     "wof:id": 1729356923,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "By the early 1950s, Southern California shapers were creating thin, rounded boards with side profiles that were curved upward at the nose and tail...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -88,5 +132,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

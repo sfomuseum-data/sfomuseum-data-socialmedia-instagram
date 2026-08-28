@@ -28,6 +28,50 @@
       "taken": 1732642920,
       "taken_at": "Nov 26, 2024 5:42 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23575562238693237,
+          "id": 1880151285
+        },
+        {
+          "distance": 0.23826998472213745,
+          "id": 1947424897
+        },
+        {
+          "distance": 0.24264073371887207,
+          "id": 1947425047
+        },
+        {
+          "distance": 0.2448815107345581,
+          "id": 1763558931
+        },
+        {
+          "distance": 0.24535983800888062,
+          "id": 1729357999
+        },
+        {
+          "distance": 0.2455683946609497,
+          "id": 1947425165
+        },
+        {
+          "distance": 0.24741166830062866,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.25068211555480957,
+          "id": 1729358839
+        },
+        {
+          "distance": 0.2527053952217102,
+          "id": 1947425165
+        },
+        {
+          "distance": 0.252765417098999,
+          "id": 1763559685
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1947424811,
-    "wof:lastmodified": 1733175317,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Tile evokes the warm and artistic nature of California along with the historic character of its past...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -70,5 +114,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -33,6 +33,50 @@
       "taken": 1570021920,
       "taken_at": "Oct 2, 2019, 1:12 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.21062445640563965,
+          "id": 1729359307
+        },
+        {
+          "distance": 0.21915757656097412,
+          "id": 1729355505
+        },
+        {
+          "distance": 0.2227952480316162,
+          "id": 1729355867
+        },
+        {
+          "distance": 0.22542673349380493,
+          "id": 1729359307
+        },
+        {
+          "distance": 0.2301950454711914,
+          "id": 1729359645
+        },
+        {
+          "distance": 0.2509273886680603,
+          "id": 1729359645
+        },
+        {
+          "distance": 0.25468218326568604,
+          "id": 1729355415
+        },
+        {
+          "distance": 0.2562580108642578,
+          "id": 1763559085
+        },
+        {
+          "distance": 0.2610899806022644,
+          "id": 1729355505
+        },
+        {
+          "distance": 0.2614486813545227,
+          "id": 1729359511
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729356035,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777628,
     "wof:name": "With the success of its Boeing 747 service, which began in 1970, Continental Airlines introduced its next jumbojet airliner in 1972, the DC-10 trijet, McDonnell Douglas’ first widebody airliner...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

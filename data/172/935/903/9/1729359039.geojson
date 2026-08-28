@@ -45,6 +45,50 @@
       "taken": 1506716160,
       "taken_at": "Sep 29, 2017 8:16 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2450123429298401,
+          "id": 1763558689
+        },
+        {
+          "distance": 0.2450123429298401,
+          "id": 1729359221
+        },
+        {
+          "distance": 0.2741697430610657,
+          "id": 1729359217
+        },
+        {
+          "distance": 0.2828822731971741,
+          "id": 1729359049
+        },
+        {
+          "distance": 0.28806936740875244,
+          "id": 1729360029
+        },
+        {
+          "distance": 0.2910386919975281,
+          "id": 1729356715
+        },
+        {
+          "distance": 0.29922449588775635,
+          "id": 1729361455
+        },
+        {
+          "distance": 0.3066311478614807,
+          "id": 1729359653
+        },
+        {
+          "distance": 0.3067842721939087,
+          "id": 1763558689
+        },
+        {
+          "distance": 0.3067842721939087,
+          "id": 1729359221
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -74,7 +118,7 @@
       }
     ],
     "wof:id": 1729359039,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "“TWA presents three full color motion picture films\"...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -91,5 +135,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

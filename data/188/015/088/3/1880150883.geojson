@@ -31,6 +31,50 @@
       "taken": 1687968660,
       "taken_at": "Jun 28, 2023 4:11 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0375516414642334,
+          "id": 1947425243
+        },
+        {
+          "distance": 0.04065525531768799,
+          "id": 1880151157
+        },
+        {
+          "distance": 0.04234182834625244,
+          "id": 1880151155
+        },
+        {
+          "distance": 0.044366538524627686,
+          "id": 1947425303
+        },
+        {
+          "distance": 0.0914573073387146,
+          "id": 1880150979
+        },
+        {
+          "distance": 0.09292125701904297,
+          "id": 1947425243
+        },
+        {
+          "distance": 0.09702849388122559,
+          "id": 1880151157
+        },
+        {
+          "distance": 0.09845077991485596,
+          "id": 1947425303
+        },
+        {
+          "distance": 0.11095845699310303,
+          "id": 1880151155
+        },
+        {
+          "distance": 0.15874481201171875,
+          "id": 1880151011
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880150883,
-    "wof:lastmodified": 1733175333,
+    "wof:lastmodified": 1787777661,
     "wof:name": "In 1857, Italian composer Giuseppe Verdi (1813–1901) adapted 𝘜𝘯 𝘉𝘢𝘭𝘭𝘰 𝘪𝘯 𝘔𝘢𝘴𝘤𝘩𝘦𝘳𝘢 from 𝘎𝘶𝘴𝘵𝘢𝘷𝘦 𝘐𝘐𝘐; 𝘰𝘶, 𝘓𝘦 𝘉𝘢𝘭 𝘔𝘢𝘴𝘲𝘶é, an opera by French composer Daniel-François-Esprit Auber (1782–1871) and French librettist Augustin-Eugène Scribe (1791–1861)...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

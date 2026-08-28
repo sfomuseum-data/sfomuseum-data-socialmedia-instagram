@@ -29,6 +29,50 @@
       "taken": 1631550360,
       "taken_at": "Sep 13, 2021 4:26 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.313435435295105,
+          "id": 1880151751
+        },
+        {
+          "distance": 0.3176208734512329,
+          "id": 1880151751
+        },
+        {
+          "distance": 0.32898014783859253,
+          "id": 1763559349
+        },
+        {
+          "distance": 0.333615243434906,
+          "id": 1729358083
+        },
+        {
+          "distance": 0.3345436453819275,
+          "id": 1729359861
+        },
+        {
+          "distance": 0.33957791328430176,
+          "id": 1763559349
+        },
+        {
+          "distance": 0.340252161026001,
+          "id": 1729362977
+        },
+        {
+          "distance": 0.34200555086135864,
+          "id": 1729356609
+        },
+        {
+          "distance": 0.34259098768234253,
+          "id": 1729359485
+        },
+        {
+          "distance": 0.3449845314025879,
+          "id": 1880151383
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1763559427,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "New exhibition alert!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

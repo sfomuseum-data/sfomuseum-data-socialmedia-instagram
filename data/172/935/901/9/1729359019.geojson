@@ -46,6 +46,50 @@
       "taken": 1507748520,
       "taken_at": "Oct 11, 2017 7:02 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.002223968505859375,
+          "id": 1729358409
+        },
+        {
+          "distance": 0.0658416748046875,
+          "id": 1763559539
+        },
+        {
+          "distance": 0.12579113245010376,
+          "id": 1763559539
+        },
+        {
+          "distance": 0.15017855167388916,
+          "id": 1729358409
+        },
+        {
+          "distance": 0.15446507930755615,
+          "id": 1880151085
+        },
+        {
+          "distance": 0.16172194480895996,
+          "id": 1729357751
+        },
+        {
+          "distance": 0.16758811473846436,
+          "id": 1729361573
+        },
+        {
+          "distance": 0.19617003202438354,
+          "id": 1729357679
+        },
+        {
+          "distance": 0.2021663784980774,
+          "id": 1729357189
+        },
+        {
+          "distance": 0.20776647329330444,
+          "id": 1729355471
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -75,7 +119,7 @@
       }
     ],
     "wof:id": 1729359019,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777634,
     "wof:name": "In 1973, Bonnie Tiburzi became the first woman pilot hired by a major U.S. commercial airline since Helen Richey was briefly hired by Central Airlines in 1934...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -92,5 +136,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

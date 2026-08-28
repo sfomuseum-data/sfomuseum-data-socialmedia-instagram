@@ -32,6 +32,50 @@
       "taken": 1662048720,
       "taken_at": "Sep 01, 2022 4:12 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1939150094985962,
+          "id": 1729362063
+        },
+        {
+          "distance": 0.1970868706703186,
+          "id": 1729362063
+        },
+        {
+          "distance": 0.25024938583374023,
+          "id": 1880151421
+        },
+        {
+          "distance": 0.252327024936676,
+          "id": 1729355935
+        },
+        {
+          "distance": 0.2579071521759033,
+          "id": 1763559269
+        },
+        {
+          "distance": 0.260547935962677,
+          "id": 1729357483
+        },
+        {
+          "distance": 0.260547935962677,
+          "id": 1763558787
+        },
+        {
+          "distance": 0.26792842149734497,
+          "id": 1729361235
+        },
+        {
+          "distance": 0.26840394735336304,
+          "id": 1729355937
+        },
+        {
+          "distance": 0.2760012745857239,
+          "id": 1729355937
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1880151477,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Happy Birthday to the late Marvin Lipofsky!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

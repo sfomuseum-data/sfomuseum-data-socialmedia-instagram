@@ -33,6 +33,50 @@
       "taken": 1680687540,
       "taken_at": "Apr 05, 2023 9:39 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14858168363571167,
+          "id": 1729356755
+        },
+        {
+          "distance": 0.1664791703224182,
+          "id": 1947425039
+        },
+        {
+          "distance": 0.16677534580230713,
+          "id": 1947424799
+        },
+        {
+          "distance": 0.169100821018219,
+          "id": 1947424927
+        },
+        {
+          "distance": 0.1804494857788086,
+          "id": 1947424917
+        },
+        {
+          "distance": 0.18270200490951538,
+          "id": 1947424929
+        },
+        {
+          "distance": 0.18452751636505127,
+          "id": 1729362959
+        },
+        {
+          "distance": 0.1853049397468567,
+          "id": 1947424985
+        },
+        {
+          "distance": 0.18590009212493896,
+          "id": 1763559281
+        },
+        {
+          "distance": 0.19312840700149536,
+          "id": 1763559379
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1880150991,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777661,
     "wof:name": "The wind tunnel testing and research of NASA’s Ames Research Center, located in the Naval Air Station Moffett Field near Mountain View, California, has accomplished monumental achievements...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

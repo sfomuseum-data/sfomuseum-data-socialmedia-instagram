@@ -35,6 +35,50 @@
       "taken": 1519567020,
       "taken_at": "Feb 25, 2018 1:57 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18903213739395142,
+          "id": 1880151639
+        },
+        {
+          "distance": 0.21733129024505615,
+          "id": 1763559041
+        },
+        {
+          "distance": 0.2297561764717102,
+          "id": 1880151639
+        },
+        {
+          "distance": 0.23036736249923706,
+          "id": 1729361451
+        },
+        {
+          "distance": 0.2330196499824524,
+          "id": 1763559041
+        },
+        {
+          "distance": 0.23909372091293335,
+          "id": 1763559533
+        },
+        {
+          "distance": 0.24634414911270142,
+          "id": 1729356265
+        },
+        {
+          "distance": 0.24717575311660767,
+          "id": 1729361451
+        },
+        {
+          "distance": 0.25528621673583984,
+          "id": 1729358137
+        },
+        {
+          "distance": 0.25749945640563965,
+          "id": 1729356265
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729358503,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777633,
     "wof:name": "#Onthisday, in 1965, the Douglas DC-9 took off on its maiden flight...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

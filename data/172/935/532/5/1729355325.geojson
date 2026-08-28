@@ -30,6 +30,50 @@
       "taken": 1587475800,
       "taken_at": "Apr 21, 2020 1:30 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.25896334648132324,
+          "id": 1729355323
+        },
+        {
+          "distance": 0.2666148543357849,
+          "id": 1729355329
+        },
+        {
+          "distance": 0.27516108751296997,
+          "id": 1947424831
+        },
+        {
+          "distance": 0.2765215039253235,
+          "id": 1729360649
+        },
+        {
+          "distance": 0.2778483033180237,
+          "id": 1729355329
+        },
+        {
+          "distance": 0.28459858894348145,
+          "id": 1729360649
+        },
+        {
+          "distance": 0.2893332839012146,
+          "id": 1729361533
+        },
+        {
+          "distance": 0.2953697443008423,
+          "id": 1729360475
+        },
+        {
+          "distance": 0.2964366674423218,
+          "id": 1947424997
+        },
+        {
+          "distance": 0.29796653985977173,
+          "id": 1947424831
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729355325,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777623,
     "wof:name": "We’re hoping that our collection can help to spread a little sunshine!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

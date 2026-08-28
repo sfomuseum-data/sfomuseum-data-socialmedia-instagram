@@ -32,6 +32,50 @@
       "taken": 1618418760,
       "taken_at": "Apr 14, 2021 4:46 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3007502555847168,
+          "id": 1729358869
+        },
+        {
+          "distance": 0.30079174041748047,
+          "id": 1729357291
+        },
+        {
+          "distance": 0.30503755807876587,
+          "id": 1729358005
+        },
+        {
+          "distance": 0.30615663528442383,
+          "id": 1729357291
+        },
+        {
+          "distance": 0.30635660886764526,
+          "id": 1947425155
+        },
+        {
+          "distance": 0.3063651919364929,
+          "id": 1729357183
+        },
+        {
+          "distance": 0.3070145845413208,
+          "id": 1947425051
+        },
+        {
+          "distance": 0.3094059228897095,
+          "id": 1729358841
+        },
+        {
+          "distance": 0.3111565113067627,
+          "id": 1729360847
+        },
+        {
+          "distance": 0.31349486112594604,
+          "id": 1729360355
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1763559195,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "In the late 1930s, Lockheed was developing a large, high-speed, pressurized airliner, designated the L-044 Excalibur...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

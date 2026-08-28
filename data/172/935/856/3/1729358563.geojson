@@ -43,6 +43,50 @@
       "taken": 1518521100,
       "taken_at": "Feb 13, 2018 11:25 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13388776779174805,
+          "id": 1729358319
+        },
+        {
+          "distance": 0.13731324672698975,
+          "id": 1729355649
+        },
+        {
+          "distance": 0.13961857557296753,
+          "id": 1729358921
+        },
+        {
+          "distance": 0.14025086164474487,
+          "id": 1729355477
+        },
+        {
+          "distance": 0.1412796974182129,
+          "id": 1729358663
+        },
+        {
+          "distance": 0.14669132232666016,
+          "id": 1763558957
+        },
+        {
+          "distance": 0.15280652046203613,
+          "id": 1729355649
+        },
+        {
+          "distance": 0.15380799770355225,
+          "id": 1729360975
+        },
+        {
+          "distance": 0.155816912651062,
+          "id": 1729358663
+        },
+        {
+          "distance": 0.15641361474990845,
+          "id": 1729358319
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -72,7 +116,7 @@
       }
     ],
     "wof:id": 1729358563,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Air New Zealand started as TEAL (Tasman Empire Airways Limited) in 1940...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -89,5 +133,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

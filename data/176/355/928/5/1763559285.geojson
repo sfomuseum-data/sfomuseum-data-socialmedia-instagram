@@ -29,6 +29,50 @@
       "taken": 1638376440,
       "taken_at": "Dec 01, 2021 4:34 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0598873496055603,
+          "id": 1729358935
+        },
+        {
+          "distance": 0.0627017617225647,
+          "id": 1763559007
+        },
+        {
+          "distance": 0.11437660455703735,
+          "id": 1763559007
+        },
+        {
+          "distance": 0.11558377742767334,
+          "id": 1729357437
+        },
+        {
+          "distance": 0.11581683158874512,
+          "id": 1729358935
+        },
+        {
+          "distance": 0.12708008289337158,
+          "id": 1729355861
+        },
+        {
+          "distance": 0.1311246156692505,
+          "id": 1729358695
+        },
+        {
+          "distance": 0.1358860731124878,
+          "id": 1763559247
+        },
+        {
+          "distance": 0.139060378074646,
+          "id": 1947425309
+        },
+        {
+          "distance": 0.13913613557815552,
+          "id": 1729356173
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1763559285,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "The Hughes H-4 flying boat, also known as the “Spruce Goose,” was designed and built by the Hughes Aircraft Company as an ultra-large, transoceanic military transport for use during World War II...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1480090800,
       "taken_at": "Nov 25, 2016 4:20 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1366247534751892,
+          "id": 1729358881
+        },
+        {
+          "distance": 0.16276544332504272,
+          "id": 1729358881
+        },
+        {
+          "distance": 0.3118484616279602,
+          "id": 1729360695
+        },
+        {
+          "distance": 0.324878990650177,
+          "id": 1880151277
+        },
+        {
+          "distance": 0.3270835280418396,
+          "id": 1880151277
+        },
+        {
+          "distance": 0.3334053158760071,
+          "id": 1729357329
+        },
+        {
+          "distance": 0.33702611923217773,
+          "id": 1729357329
+        },
+        {
+          "distance": 0.34027761220932007,
+          "id": 1763558981
+        },
+        {
+          "distance": 0.34080690145492554,
+          "id": 1729360695
+        },
+        {
+          "distance": 0.3429306149482727,
+          "id": 1729360885
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360075,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "How was your #Thanksgiving?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

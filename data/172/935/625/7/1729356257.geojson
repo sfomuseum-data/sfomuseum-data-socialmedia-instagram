@@ -32,6 +32,50 @@
       "taken": 1564667700,
       "taken_at": "Aug 01, 2019 1:55 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.018527448177337646,
+          "id": 1763559353
+        },
+        {
+          "distance": 0.10758334398269653,
+          "id": 1763559353
+        },
+        {
+          "distance": 0.2139487862586975,
+          "id": 1729361575
+        },
+        {
+          "distance": 0.25023090839385986,
+          "id": 1729361575
+        },
+        {
+          "distance": 0.26466667652130127,
+          "id": 1729360475
+        },
+        {
+          "distance": 0.2686060667037964,
+          "id": 1729359643
+        },
+        {
+          "distance": 0.2706776261329651,
+          "id": 1729360839
+        },
+        {
+          "distance": 0.28174346685409546,
+          "id": 1729355197
+        },
+        {
+          "distance": 0.2853286862373352,
+          "id": 1729359455
+        },
+        {
+          "distance": 0.28898268938064575,
+          "id": 1729359319
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729356257,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777629,
     "wof:name": "SAS (Scandinavian Airlines System), founded in 1946, is based in Stockholm, Sweden...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

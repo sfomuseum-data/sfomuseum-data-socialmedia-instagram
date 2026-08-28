@@ -29,6 +29,50 @@
       "taken": 1687778160,
       "taken_at": "Jun 26, 2023 11:16 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2832822799682617,
+          "id": 1729360673
+        },
+        {
+          "distance": 0.2981215715408325,
+          "id": 1729360673
+        },
+        {
+          "distance": 0.32055211067199707,
+          "id": 1947425117
+        },
+        {
+          "distance": 0.33077943325042725,
+          "id": 1729359877
+        },
+        {
+          "distance": 0.34644103050231934,
+          "id": 1729355063
+        },
+        {
+          "distance": 0.3559352159500122,
+          "id": 1729359877
+        },
+        {
+          "distance": 0.35647523403167725,
+          "id": 1729360457
+        },
+        {
+          "distance": 0.3574695587158203,
+          "id": 1729360147
+        },
+        {
+          "distance": 0.36503809690475464,
+          "id": 1763559663
+        },
+        {
+          "distance": 0.3650825619697571,
+          "id": 1729358403
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880150871,
-    "wof:lastmodified": 1733175333,
+    "wof:lastmodified": 1787777661,
     "wof:name": "Too busy to write a post card during your fabulous trip to San Francisco?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

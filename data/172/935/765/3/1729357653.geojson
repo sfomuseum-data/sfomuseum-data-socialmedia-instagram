@@ -34,6 +34,50 @@
       "taken": 1537352220,
       "taken_at": "Sep 19, 2018 10:17 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.08345615863800049,
+          "id": 1729357417
+        },
+        {
+          "distance": 0.09583139419555664,
+          "id": 1729357835
+        },
+        {
+          "distance": 0.1270667314529419,
+          "id": 1729357835
+        },
+        {
+          "distance": 0.1280895471572876,
+          "id": 1729357417
+        },
+        {
+          "distance": 0.16506201028823853,
+          "id": 1729357139
+        },
+        {
+          "distance": 0.17427563667297363,
+          "id": 1729357261
+        },
+        {
+          "distance": 0.1769976019859314,
+          "id": 1729357865
+        },
+        {
+          "distance": 0.17752188444137573,
+          "id": 1729357261
+        },
+        {
+          "distance": 0.1802349090576172,
+          "id": 1880151331
+        },
+        {
+          "distance": 0.18695127964019775,
+          "id": 1729357421
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729357653,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "\"I had only to resort to that often-abandoned aspect of my work which goes back to 1928 when I first made the three-dimensional out of a two-dimensional plate...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

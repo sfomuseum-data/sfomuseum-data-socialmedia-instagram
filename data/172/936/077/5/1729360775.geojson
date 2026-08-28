@@ -25,6 +25,50 @@
       "taken": 1461575220,
       "taken_at": "Apr 25, 2016 9:07 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19910746812820435,
+          "id": 1729360725
+        },
+        {
+          "distance": 0.241929829120636,
+          "id": 1729359381
+        },
+        {
+          "distance": 0.2452082633972168,
+          "id": 1729356361
+        },
+        {
+          "distance": 0.24838227033615112,
+          "id": 1729360725
+        },
+        {
+          "distance": 0.24934148788452148,
+          "id": 1729355853
+        },
+        {
+          "distance": 0.2557399272918701,
+          "id": 1729360871
+        },
+        {
+          "distance": 0.2567346692085266,
+          "id": 1729356743
+        },
+        {
+          "distance": 0.258916974067688,
+          "id": 1729360717
+        },
+        {
+          "distance": 0.2590886950492859,
+          "id": 1729356743
+        },
+        {
+          "distance": 0.2705274224281311,
+          "id": 1729360471
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360775,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Master Art Nouveau furniture designer Louis Majorelle (1859–1926) offered clocks in addition to larger furnishings...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

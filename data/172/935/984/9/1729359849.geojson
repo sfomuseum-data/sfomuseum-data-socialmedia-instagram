@@ -26,6 +26,50 @@
       "taken": 1486115280,
       "taken_at": "Feb 3, 2017, 9:48 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.00002294778823852539,
+          "id": 1763558653
+        },
+        {
+          "distance": 0.13551825284957886,
+          "id": 1763558653
+        },
+        {
+          "distance": 0.2146579623222351,
+          "id": 1763558679
+        },
+        {
+          "distance": 0.22175967693328857,
+          "id": 1729359463
+        },
+        {
+          "distance": 0.25509947538375854,
+          "id": 1763558679
+        },
+        {
+          "distance": 0.26066040992736816,
+          "id": 1729358467
+        },
+        {
+          "distance": 0.2725517153739929,
+          "id": 1729359463
+        },
+        {
+          "distance": 0.2751050591468811,
+          "id": 1729358467
+        },
+        {
+          "distance": 0.3140881657600403,
+          "id": 1729361559
+        },
+        {
+          "distance": 0.32772332429885864,
+          "id": 1729361559
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1729359849,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777637,
     "wof:name": "This 1950s Pan American World Airways drinks and distractions menu in English and French was for the Rainbow class, a reduced-priced, tourist-class service...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

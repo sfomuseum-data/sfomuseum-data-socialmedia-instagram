@@ -53,6 +53,50 @@
       "taken": 1514481360,
       "taken_at": "Dec 28, 2017, 5:16 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.004951119422912598,
+          "id": 1729359181
+        },
+        {
+          "distance": 0.08440560102462769,
+          "id": 1729359181
+        },
+        {
+          "distance": 0.1422857642173767,
+          "id": 1729358989
+        },
+        {
+          "distance": 0.1545516848564148,
+          "id": 1729359125
+        },
+        {
+          "distance": 0.15493780374526978,
+          "id": 1729358983
+        },
+        {
+          "distance": 0.16552692651748657,
+          "id": 1729359317
+        },
+        {
+          "distance": 0.17972660064697266,
+          "id": 1729359179
+        },
+        {
+          "distance": 0.1810985803604126,
+          "id": 1729359439
+        },
+        {
+          "distance": 0.18338382244110107,
+          "id": 1729359001
+        },
+        {
+          "distance": 0.18396931886672974,
+          "id": 1729358773
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -82,7 +126,7 @@
       }
     ],
     "wof:id": 1729358767,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777634,
     "wof:name": "In the 1890s, the cost of a new, full-size typewriter was more than the average American earned in one month...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -99,5 +143,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

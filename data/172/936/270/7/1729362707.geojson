@@ -25,6 +25,50 @@
       "taken": 1367508060,
       "taken_at": "May 02, 2013 3:21 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.28322428464889526,
+          "id": 1729357211
+        },
+        {
+          "distance": 0.28473037481307983,
+          "id": 1729362963
+        },
+        {
+          "distance": 0.2922303080558777,
+          "id": 1729356585
+        },
+        {
+          "distance": 0.2947092652320862,
+          "id": 1729357097
+        },
+        {
+          "distance": 0.299984872341156,
+          "id": 1729359425
+        },
+        {
+          "distance": 0.31035393476486206,
+          "id": 1729356573
+        },
+        {
+          "distance": 0.31564587354660034,
+          "id": 1729362109
+        },
+        {
+          "distance": 0.3170783519744873,
+          "id": 1729363037
+        },
+        {
+          "distance": 0.32180798053741455,
+          "id": 1729362757
+        },
+        {
+          "distance": 0.3275303840637207,
+          "id": 1729359123
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362707,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "Object Tags or: The Remains of an Exhibition Installation..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

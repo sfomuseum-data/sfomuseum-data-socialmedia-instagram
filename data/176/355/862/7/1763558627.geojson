@@ -25,6 +25,50 @@
       "taken": 1461866820,
       "taken_at": "Apr 28, 2016 6:07 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.000023245811462402344,
+          "id": 1729360769
+        },
+        {
+          "distance": 0.11499828100204468,
+          "id": 1729360769
+        },
+        {
+          "distance": 0.385661244392395,
+          "id": 1729361693
+        },
+        {
+          "distance": 0.39315110445022583,
+          "id": 1763558669
+        },
+        {
+          "distance": 0.39315110445022583,
+          "id": 1729359313
+        },
+        {
+          "distance": 0.41183263063430786,
+          "id": 1729361693
+        },
+        {
+          "distance": 0.41362667083740234,
+          "id": 1729359323
+        },
+        {
+          "distance": 0.41868042945861816,
+          "id": 1729360457
+        },
+        {
+          "distance": 0.42332977056503296,
+          "id": 1880151727
+        },
+        {
+          "distance": 0.42354071140289307,
+          "id": 1729360147
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1763558627,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777659,
     "wof:name": "Before the age of instant updates and Google Maps, good old-fashioned paper flyers kept passengers updated on airline and airport changes...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

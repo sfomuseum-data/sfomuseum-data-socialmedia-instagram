@@ -25,6 +25,50 @@
       "taken": 1683797040,
       "taken_at": "May 11, 2023 9:24 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1321846842765808,
+          "id": 1729356835
+        },
+        {
+          "distance": 0.14926260709762573,
+          "id": 1729357337
+        },
+        {
+          "distance": 0.16158682107925415,
+          "id": 1729357405
+        },
+        {
+          "distance": 0.18813931941986084,
+          "id": 1729357337
+        },
+        {
+          "distance": 0.1940411925315857,
+          "id": 1763559237
+        },
+        {
+          "distance": 0.19472891092300415,
+          "id": 1729356835
+        },
+        {
+          "distance": 0.20723950862884521,
+          "id": 1729357431
+        },
+        {
+          "distance": 0.2108919620513916,
+          "id": 1729355221
+        },
+        {
+          "distance": 0.22135013341903687,
+          "id": 1729357405
+        },
+        {
+          "distance": 0.22522306442260742,
+          "id": 1729357431
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1880150917,
-    "wof:lastmodified": 1733175333,
+    "wof:lastmodified": 1787777661,
     "wof:name": "SFO Museum mourns the loss of Chris Strachwitz (1931–2023), founder of Arhoolie Records...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

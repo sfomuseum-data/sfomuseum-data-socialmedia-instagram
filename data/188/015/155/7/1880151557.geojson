@@ -30,6 +30,50 @@
       "taken": 1658332920,
       "taken_at": "Jul 20, 2022 4:02 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12423872947692871,
+          "id": 1880151369
+        },
+        {
+          "distance": 0.14503365755081177,
+          "id": 1880151621
+        },
+        {
+          "distance": 0.1550508737564087,
+          "id": 1880151677
+        },
+        {
+          "distance": 0.16043734550476074,
+          "id": 1880151621
+        },
+        {
+          "distance": 0.172657310962677,
+          "id": 1880151369
+        },
+        {
+          "distance": 0.18144989013671875,
+          "id": 1880151677
+        },
+        {
+          "distance": 0.189658522605896,
+          "id": 1880151737
+        },
+        {
+          "distance": 0.20401382446289062,
+          "id": 1880151783
+        },
+        {
+          "distance": 0.2273181676864624,
+          "id": 1880151783
+        },
+        {
+          "distance": 0.2275639772415161,
+          "id": 1880151737
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151557,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Zimbabwe gained its independence from the United Kingdom in 1980 following decades of conflict between minority white rule and majority Black opposition movements...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

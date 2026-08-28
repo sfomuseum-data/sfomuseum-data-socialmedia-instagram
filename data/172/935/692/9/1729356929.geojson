@@ -33,6 +33,50 @@
       "taken": 1550618040,
       "taken_at": "Feb 19, 2019 11:14 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1507222056388855,
+          "id": 1729358395
+        },
+        {
+          "distance": 0.1731521487236023,
+          "id": 1729358395
+        },
+        {
+          "distance": 0.22631710767745972,
+          "id": 1729360045
+        },
+        {
+          "distance": 0.24898803234100342,
+          "id": 1729358437
+        },
+        {
+          "distance": 0.24941974878311157,
+          "id": 1763558979
+        },
+        {
+          "distance": 0.25278979539871216,
+          "id": 1729360473
+        },
+        {
+          "distance": 0.253365159034729,
+          "id": 1729360045
+        },
+        {
+          "distance": 0.2551773190498352,
+          "id": 1729356033
+        },
+        {
+          "distance": 0.2575684189796448,
+          "id": 1729357255
+        },
+        {
+          "distance": 0.2619786262512207,
+          "id": 1729358785
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729356929,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Air Jamaica was the national airline of Jamaica from 1969 to 2015...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

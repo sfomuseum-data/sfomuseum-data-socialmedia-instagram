@@ -25,6 +25,50 @@
       "taken": 1453972980,
       "taken_at": "Jan 28, 2016 9:23 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14535260200500488,
+          "id": 1763558867
+        },
+        {
+          "distance": 0.1508234143257141,
+          "id": 1729358209
+        },
+        {
+          "distance": 0.15810620784759521,
+          "id": 1729355797
+        },
+        {
+          "distance": 0.16049593687057495,
+          "id": 1763559125
+        },
+        {
+          "distance": 0.16668015718460083,
+          "id": 1763558867
+        },
+        {
+          "distance": 0.16880667209625244,
+          "id": 1729355797
+        },
+        {
+          "distance": 0.16969174146652222,
+          "id": 1729360723
+        },
+        {
+          "distance": 0.1731376051902771,
+          "id": 1729355351
+        },
+        {
+          "distance": 0.1865764856338501,
+          "id": 1729355351
+        },
+        {
+          "distance": 0.1974865198135376,
+          "id": 1880150955
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361117,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777644,
     "wof:name": "Early aircraft did not provide a way to heat meals for passengers, thus meals on flights were served cold...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

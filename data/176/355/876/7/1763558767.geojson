@@ -39,6 +39,50 @@
       "taken": 1538122740,
       "taken_at": "Sep 28, 2018 8:19 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.00002372264862060547,
+          "id": 1729357631
+        },
+        {
+          "distance": 0.022008955478668213,
+          "id": 1729357669
+        },
+        {
+          "distance": 0.04488581418991089,
+          "id": 1729357387
+        },
+        {
+          "distance": 0.07038867473602295,
+          "id": 1729357493
+        },
+        {
+          "distance": 0.0719875693321228,
+          "id": 1729358657
+        },
+        {
+          "distance": 0.07490265369415283,
+          "id": 1729357553
+        },
+        {
+          "distance": 0.07644444704055786,
+          "id": 1729357631
+        },
+        {
+          "distance": 0.07732588052749634,
+          "id": 1729357851
+        },
+        {
+          "distance": 0.07868242263793945,
+          "id": 1729358085
+        },
+        {
+          "distance": 0.08272051811218262,
+          "id": 1729357959
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1763558767,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777659,
     "wof:name": "Introduced in 1952, the de Havilland Comet was the first commercial  passenger jetliner to enter service, years before the introduction of  other jetliners...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

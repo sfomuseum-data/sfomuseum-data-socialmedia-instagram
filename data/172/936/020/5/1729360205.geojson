@@ -25,6 +25,50 @@
       "taken": 1477070100,
       "taken_at": "Oct 21, 2016 5:15 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10330671072006226,
+          "id": 1763559113
+        },
+        {
+          "distance": 0.10504209995269775,
+          "id": 1729360135
+        },
+        {
+          "distance": 0.11246758699417114,
+          "id": 1763559079
+        },
+        {
+          "distance": 0.13373488187789917,
+          "id": 1763559079
+        },
+        {
+          "distance": 0.13774675130844116,
+          "id": 1763559113
+        },
+        {
+          "distance": 0.1479286551475525,
+          "id": 1729360329
+        },
+        {
+          "distance": 0.15031075477600098,
+          "id": 1729360135
+        },
+        {
+          "distance": 0.16439270973205566,
+          "id": 1729361731
+        },
+        {
+          "distance": 0.17094969749450684,
+          "id": 1729361467
+        },
+        {
+          "distance": 0.1725967526435852,
+          "id": 1729360329
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360205,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "This summer uniform created for Northwest is a two-piece suit with a trim, collarless short jacket worn over a spring green short-sleeve knit turtleneck and knee-length, A-line skirt...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

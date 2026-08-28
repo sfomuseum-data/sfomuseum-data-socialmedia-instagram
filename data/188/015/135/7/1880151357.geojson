@@ -32,6 +32,50 @@
       "taken": 1667230560,
       "taken_at": "Oct 31, 2022 3:36 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.158156156539917,
+          "id": 1880151379
+        },
+        {
+          "distance": 0.18250352144241333,
+          "id": 1729360615
+        },
+        {
+          "distance": 0.22142654657363892,
+          "id": 1880151379
+        },
+        {
+          "distance": 0.22882574796676636,
+          "id": 1880151439
+        },
+        {
+          "distance": 0.24542510509490967,
+          "id": 1880151305
+        },
+        {
+          "distance": 0.24934303760528564,
+          "id": 1729355739
+        },
+        {
+          "distance": 0.2537212371826172,
+          "id": 1729362675
+        },
+        {
+          "distance": 0.2600986361503601,
+          "id": 1729360615
+        },
+        {
+          "distance": 0.2619311213493347,
+          "id": 1729355739
+        },
+        {
+          "distance": 0.26324206590652466,
+          "id": 1880151447
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1880151357,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "In 1933, Marguerite Wildenhain (1896–1985) and her husband Frans Wildenhain (1905–1980) moved to Putten in the Netherlands and opened a pottery they named Het Kruikje, or The Little Jug...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

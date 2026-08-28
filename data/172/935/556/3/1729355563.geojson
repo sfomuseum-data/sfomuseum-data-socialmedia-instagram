@@ -32,6 +32,50 @@
       "taken": 1581505320,
       "taken_at": "Feb 12, 2020 11:02 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13305741548538208,
+          "id": 1729355559
+        },
+        {
+          "distance": 0.1382826566696167,
+          "id": 1729356033
+        },
+        {
+          "distance": 0.15578973293304443,
+          "id": 1763559479
+        },
+        {
+          "distance": 0.17459267377853394,
+          "id": 1729356033
+        },
+        {
+          "distance": 0.17682278156280518,
+          "id": 1729355559
+        },
+        {
+          "distance": 0.18208235502243042,
+          "id": 1763558957
+        },
+        {
+          "distance": 0.1846640706062317,
+          "id": 1763559479
+        },
+        {
+          "distance": 0.19501268863677979,
+          "id": 1729357629
+        },
+        {
+          "distance": 0.19637852907180786,
+          "id": 1729357769
+        },
+        {
+          "distance": 0.19673693180084229,
+          "id": 1729357289
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729355563,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777626,
     "wof:name": "#Onthisday in 1991, Continental Airlines introduced their new blue, gold, and grey aircraft livery with a globe logo...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

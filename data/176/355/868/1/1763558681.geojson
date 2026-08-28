@@ -37,6 +37,50 @@
       "taken": 1507321020,
       "taken_at": "Oct 06, 2017 8:17 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.000051975250244140625,
+          "id": 1729359021
+        },
+        {
+          "distance": 0.1093398928642273,
+          "id": 1729359021
+        },
+        {
+          "distance": 0.3046457767486572,
+          "id": 1729362803
+        },
+        {
+          "distance": 0.32405292987823486,
+          "id": 1729362803
+        },
+        {
+          "distance": 0.3723961114883423,
+          "id": 1729358139
+        },
+        {
+          "distance": 0.37815260887145996,
+          "id": 1729361309
+        },
+        {
+          "distance": 0.38522517681121826,
+          "id": 1729358139
+        },
+        {
+          "distance": 0.3983515501022339,
+          "id": 1729360747
+        },
+        {
+          "distance": 0.40461623668670654,
+          "id": 1729358133
+        },
+        {
+          "distance": 0.40506237745285034,
+          "id": 1729361309
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1763558681,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777659,
     "wof:name": "United Air Lines introduced the company’s first passenger recognition program in 1939...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

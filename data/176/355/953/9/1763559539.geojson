@@ -30,6 +30,50 @@
       "taken": 1648049400,
       "taken_at": "Mar 23, 2022 3:30 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06594705581665039,
+          "id": 1729359019
+        },
+        {
+          "distance": 0.06885606050491333,
+          "id": 1729358409
+        },
+        {
+          "distance": 0.08740866184234619,
+          "id": 1880151085
+        },
+        {
+          "distance": 0.08883285522460938,
+          "id": 1729358409
+        },
+        {
+          "distance": 0.08972781896591187,
+          "id": 1729359019
+        },
+        {
+          "distance": 0.09413391351699829,
+          "id": 1729357751
+        },
+        {
+          "distance": 0.10159176588058472,
+          "id": 1729361573
+        },
+        {
+          "distance": 0.16168415546417236,
+          "id": 1729361437
+        },
+        {
+          "distance": 0.1880735158920288,
+          "id": 1729356581
+        },
+        {
+          "distance": 0.19450849294662476,
+          "id": 1729356749
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559539,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Bonnie Tiburzi became the first woman to fly for a major commercial carrier when she was hired by American Airlines in 1973...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

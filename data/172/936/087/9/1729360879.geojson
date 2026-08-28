@@ -25,6 +25,50 @@
       "taken": 1459360440,
       "taken_at": "Mar 30, 2016 5:54 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.39929163455963135,
+          "id": 1880151211
+        },
+        {
+          "distance": 0.4174872636795044,
+          "id": 1763558679
+        },
+        {
+          "distance": 0.4196106791496277,
+          "id": 1880151211
+        },
+        {
+          "distance": 0.41975605487823486,
+          "id": 1729359463
+        },
+        {
+          "distance": 0.43389058113098145,
+          "id": 1880151505
+        },
+        {
+          "distance": 0.4380679130554199,
+          "id": 1763558679
+        },
+        {
+          "distance": 0.43812835216522217,
+          "id": 1729357363
+        },
+        {
+          "distance": 0.4417828917503357,
+          "id": 1729359415
+        },
+        {
+          "distance": 0.44427192211151123,
+          "id": 1763558903
+        },
+        {
+          "distance": 0.44561290740966797,
+          "id": 1729359463
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360879,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Commercial aviation grew rapidly in the 1930s, and male stewards and female stewardesses were a significant part of many airline’s passenger services...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

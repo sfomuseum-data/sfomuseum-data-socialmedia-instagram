@@ -25,6 +25,50 @@
       "taken": 1471969920,
       "taken_at": "Aug 23, 2016 4:32 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14067721366882324,
+          "id": 1729357705
+        },
+        {
+          "distance": 0.14575660228729248,
+          "id": 1729357705
+        },
+        {
+          "distance": 0.20119529962539673,
+          "id": 1729357001
+        },
+        {
+          "distance": 0.2047232985496521,
+          "id": 1729361581
+        },
+        {
+          "distance": 0.20896565914154053,
+          "id": 1729359671
+        },
+        {
+          "distance": 0.21197211742401123,
+          "id": 1729357331
+        },
+        {
+          "distance": 0.21218359470367432,
+          "id": 1729359671
+        },
+        {
+          "distance": 0.212996244430542,
+          "id": 1729357331
+        },
+        {
+          "distance": 0.21953803300857544,
+          "id": 1729361941
+        },
+        {
+          "distance": 0.22408545017242432,
+          "id": 1729361581
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360403,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "Richard E. Byrd, an early aviator, is famous for his early expeditions to the North and South Poles...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

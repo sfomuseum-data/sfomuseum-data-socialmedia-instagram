@@ -32,6 +32,50 @@
       "taken": 1655306520,
       "taken_at": "Jun 15, 2022 3:22 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3771853446960449,
+          "id": 1763559533
+        },
+        {
+          "distance": 0.4028289318084717,
+          "id": 1729359599
+        },
+        {
+          "distance": 0.4071359634399414,
+          "id": 1763558821
+        },
+        {
+          "distance": 0.4129505753517151,
+          "id": 1729356023
+        },
+        {
+          "distance": 0.41394978761672974,
+          "id": 1729357061
+        },
+        {
+          "distance": 0.4180179834365845,
+          "id": 1880151799
+        },
+        {
+          "distance": 0.41969770193099976,
+          "id": 1729358503
+        },
+        {
+          "distance": 0.42097336053848267,
+          "id": 1729357621
+        },
+        {
+          "distance": 0.4214925765991211,
+          "id": 1880151639
+        },
+        {
+          "distance": 0.4217195510864258,
+          "id": 1729359617
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1880151655,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Did you know our collections website has a recently acquired objects button?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

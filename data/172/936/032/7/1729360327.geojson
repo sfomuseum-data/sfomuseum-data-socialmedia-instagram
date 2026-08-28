@@ -30,6 +30,50 @@
       "taken": 1473950400,
       "taken_at": "Sep 15, 2016 2:40 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18753528594970703,
+          "id": 1729355421
+        },
+        {
+          "distance": 0.20212042331695557,
+          "id": 1729360443
+        },
+        {
+          "distance": 0.20424026250839233,
+          "id": 1729355421
+        },
+        {
+          "distance": 0.22643965482711792,
+          "id": 1947424879
+        },
+        {
+          "distance": 0.23371529579162598,
+          "id": 1729360023
+        },
+        {
+          "distance": 0.23445111513137817,
+          "id": 1729355425
+        },
+        {
+          "distance": 0.23552894592285156,
+          "id": 1729356085
+        },
+        {
+          "distance": 0.24280983209609985,
+          "id": 1880151619
+        },
+        {
+          "distance": 0.2458420991897583,
+          "id": 1729360463
+        },
+        {
+          "distance": 0.24592053890228271,
+          "id": 1729360383
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729360327,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "Staffordshire blue-and-white transfer-printed ceramics received their early inspiration from Chinese blue-and-white wares...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

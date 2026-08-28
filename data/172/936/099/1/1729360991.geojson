@@ -25,6 +25,50 @@
       "taken": 1456660980,
       "taken_at": "Feb 28, 2016 12:03 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20336222648620605,
+          "id": 1947425309
+        },
+        {
+          "distance": 0.20836621522903442,
+          "id": 1729356173
+        },
+        {
+          "distance": 0.20981478691101074,
+          "id": 1729359597
+        },
+        {
+          "distance": 0.21116280555725098,
+          "id": 1729355993
+        },
+        {
+          "distance": 0.21408510208129883,
+          "id": 1729361163
+        },
+        {
+          "distance": 0.2156161069869995,
+          "id": 1763559285
+        },
+        {
+          "distance": 0.22231191396713257,
+          "id": 1763559007
+        },
+        {
+          "distance": 0.22595727443695068,
+          "id": 1729358935
+        },
+        {
+          "distance": 0.23556697368621826,
+          "id": 1729360841
+        },
+        {
+          "distance": 0.23728370666503906,
+          "id": 1729356533
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360991,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "The United States Coast Guard Air Station San Francisco acquired a Lockheed HC-130H Hercules turboprop in 1960...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

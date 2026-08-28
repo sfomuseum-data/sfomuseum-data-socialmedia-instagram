@@ -29,6 +29,50 @@
       "taken": 1600182900,
       "taken_at": "Sep 15, 2020 3:15 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.037428438663482666,
+          "id": 1763559425
+        },
+        {
+          "distance": 0.11277109384536743,
+          "id": 1763559425
+        },
+        {
+          "distance": 0.2277059555053711,
+          "id": 1729355279
+        },
+        {
+          "distance": 0.23266679048538208,
+          "id": 1729360619
+        },
+        {
+          "distance": 0.23857688903808594,
+          "id": 1729355091
+        },
+        {
+          "distance": 0.24787169694900513,
+          "id": 1729360279
+        },
+        {
+          "distance": 0.2515542507171631,
+          "id": 1729359159
+        },
+        {
+          "distance": 0.25203317403793335,
+          "id": 1729359431
+        },
+        {
+          "distance": 0.2523201107978821,
+          "id": 1729360121
+        },
+        {
+          "distance": 0.2569631338119507,
+          "id": 1729359497
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729355073,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777615,
     "wof:name": "On September 15, 1963, the South Terminal (now Harvey Milk Terminal 1) was dedicated at San Francisco International Airport...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

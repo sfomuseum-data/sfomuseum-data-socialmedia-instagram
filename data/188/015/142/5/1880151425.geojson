@@ -31,6 +31,50 @@
       "taken": 1664539740,
       "taken_at": "Sep 30, 2022 12:09 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09079360961914062,
+          "id": 1880151405
+        },
+        {
+          "distance": 0.13667511940002441,
+          "id": 1880151405
+        },
+        {
+          "distance": 0.17774993181228638,
+          "id": 1880151383
+        },
+        {
+          "distance": 0.19421029090881348,
+          "id": 1880151537
+        },
+        {
+          "distance": 0.1974426507949829,
+          "id": 1729357385
+        },
+        {
+          "distance": 0.20505905151367188,
+          "id": 1729359343
+        },
+        {
+          "distance": 0.20930087566375732,
+          "id": 1880151605
+        },
+        {
+          "distance": 0.2110424041748047,
+          "id": 1880151537
+        },
+        {
+          "distance": 0.2134057879447937,
+          "id": 1729356997
+        },
+        {
+          "distance": 0.223332941532135,
+          "id": 1880151305
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151425,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Japan’s outstanding metallurgy inspired Western silver manufacturers to reconsider their design and production processes...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

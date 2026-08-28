@@ -25,6 +25,50 @@
       "taken": 1480418400,
       "taken_at": "Nov 29, 2016 11:20 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14100903272628784,
+          "id": 1729360023
+        },
+        {
+          "distance": 0.1702747941017151,
+          "id": 1729360443
+        },
+        {
+          "distance": 0.18247753381729126,
+          "id": 1729360463
+        },
+        {
+          "distance": 0.24666231870651245,
+          "id": 1729360463
+        },
+        {
+          "distance": 0.24962013959884644,
+          "id": 1729359735
+        },
+        {
+          "distance": 0.25087690353393555,
+          "id": 1729360443
+        },
+        {
+          "distance": 0.26028287410736084,
+          "id": 1729360023
+        },
+        {
+          "distance": 0.2661590576171875,
+          "id": 1729360383
+        },
+        {
+          "distance": 0.28202933073043823,
+          "id": 1729360293
+        },
+        {
+          "distance": 0.2901533246040344,
+          "id": 1729360127
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360065,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777639,
     "wof:name": "Lieutenant-Colonel Charles Ramus Forrest (1750–1827) was an amateur artist and East India Company official...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -33,6 +33,50 @@
       "taken": 1490816400,
       "taken_at": "Mar 29, 2017 7:40 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2675067186355591,
+          "id": 1729359875
+        },
+        {
+          "distance": 0.27901238203048706,
+          "id": 1729358575
+        },
+        {
+          "distance": 0.28581833839416504,
+          "id": 1729361179
+        },
+        {
+          "distance": 0.28901541233062744,
+          "id": 1729359879
+        },
+        {
+          "distance": 0.28910964727401733,
+          "id": 1729360925
+        },
+        {
+          "distance": 0.2895996570587158,
+          "id": 1729357687
+        },
+        {
+          "distance": 0.293487548828125,
+          "id": 1729357679
+        },
+        {
+          "distance": 0.29474925994873047,
+          "id": 1729359823
+        },
+        {
+          "distance": 0.2959895133972168,
+          "id": 1729358597
+        },
+        {
+          "distance": 0.29736483097076416,
+          "id": 1729358615
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729359665,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "The mid-1930s were heady times for airlines across the United States...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

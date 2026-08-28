@@ -32,6 +32,50 @@
       "taken": 1570716060,
       "taken_at": "Oct 10, 2019 2:01 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0519411563873291,
+          "id": 1763558621
+        },
+        {
+          "distance": 0.11673885583877563,
+          "id": 1763558621
+        },
+        {
+          "distance": 0.21980726718902588,
+          "id": 1729360781
+        },
+        {
+          "distance": 0.23111611604690552,
+          "id": 1729359645
+        },
+        {
+          "distance": 0.23222017288208008,
+          "id": 1729358339
+        },
+        {
+          "distance": 0.239191472530365,
+          "id": 1763559211
+        },
+        {
+          "distance": 0.2398463487625122,
+          "id": 1763559629
+        },
+        {
+          "distance": 0.24067050218582153,
+          "id": 1729360781
+        },
+        {
+          "distance": 0.24216437339782715,
+          "id": 1763559629
+        },
+        {
+          "distance": 0.24387365579605103,
+          "id": 1729355171
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729356009,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777627,
     "wof:name": "#Onthisday in 1956, the Lockheed Constellation L-1649 Starliner embarked on its maiden flight...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

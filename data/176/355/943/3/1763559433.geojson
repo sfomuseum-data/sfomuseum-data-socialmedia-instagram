@@ -30,6 +30,50 @@
       "taken": 1631107680,
       "taken_at": "Sep 08, 2021 1:28 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07402461767196655,
+          "id": 1763559205
+        },
+        {
+          "distance": 0.07438701391220093,
+          "id": 1763559463
+        },
+        {
+          "distance": 0.10246598720550537,
+          "id": 1763559463
+        },
+        {
+          "distance": 0.10777008533477783,
+          "id": 1763559205
+        },
+        {
+          "distance": 0.11498117446899414,
+          "id": 1763559227
+        },
+        {
+          "distance": 0.13699191808700562,
+          "id": 1763559245
+        },
+        {
+          "distance": 0.14019417762756348,
+          "id": 1763559227
+        },
+        {
+          "distance": 0.1860712170600891,
+          "id": 1763559245
+        },
+        {
+          "distance": 0.1874828338623047,
+          "id": 1763559121
+        },
+        {
+          "distance": 0.19858217239379883,
+          "id": 1763559121
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559433,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Joseph Frederic Merkel (1872–1978) road-tested his first motorcycle in 1900...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

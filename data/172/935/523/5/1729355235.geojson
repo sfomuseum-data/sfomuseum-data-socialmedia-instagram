@@ -32,6 +32,50 @@
       "taken": 1590171480,
       "taken_at": "May 22, 2020 6:18 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24019676446914673,
+          "id": 1947424993
+        },
+        {
+          "distance": 0.262781023979187,
+          "id": 1947424993
+        },
+        {
+          "distance": 0.2665826678276062,
+          "id": 1729357341
+        },
+        {
+          "distance": 0.2946934700012207,
+          "id": 1729355781
+        },
+        {
+          "distance": 0.30234628915786743,
+          "id": 1729355669
+        },
+        {
+          "distance": 0.31478893756866455,
+          "id": 1729355669
+        },
+        {
+          "distance": 0.33380717039108276,
+          "id": 1763559325
+        },
+        {
+          "distance": 0.3354465365409851,
+          "id": 1729359389
+        },
+        {
+          "distance": 0.3364226222038269,
+          "id": 1763559661
+        },
+        {
+          "distance": 0.3364560008049011,
+          "id": 1880151729
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729355235,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777621,
     "wof:name": "Happy Birthday, Harvey Milk!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

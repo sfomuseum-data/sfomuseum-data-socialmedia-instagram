@@ -31,6 +31,50 @@
       "taken": 1674234000,
       "taken_at": "Jan 20, 2023 5:00 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18664246797561646,
+          "id": 1729357397
+        },
+        {
+          "distance": 0.2251395583152771,
+          "id": 1729360257
+        },
+        {
+          "distance": 0.22694158554077148,
+          "id": 1763559491
+        },
+        {
+          "distance": 0.23308271169662476,
+          "id": 1763559537
+        },
+        {
+          "distance": 0.23656094074249268,
+          "id": 1763559643
+        },
+        {
+          "distance": 0.23854565620422363,
+          "id": 1880151465
+        },
+        {
+          "distance": 0.23863953351974487,
+          "id": 1729357397
+        },
+        {
+          "distance": 0.23915469646453857,
+          "id": 1729360257
+        },
+        {
+          "distance": 0.2435052990913391,
+          "id": 1763559491
+        },
+        {
+          "distance": 0.24707096815109253,
+          "id": 1729361467
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151177,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "On January 21, 1905, legendary fashion designer Christian Dior was born in Granville, France...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

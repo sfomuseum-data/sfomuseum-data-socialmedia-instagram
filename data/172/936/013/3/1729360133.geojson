@@ -34,6 +34,50 @@
       "taken": 1478778240,
       "taken_at": "Nov 10, 2016 11:44 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18410724401474,
+          "id": 1729355279
+        },
+        {
+          "distance": 0.20791810750961304,
+          "id": 1947425147
+        },
+        {
+          "distance": 0.22415512800216675,
+          "id": 1729361459
+        },
+        {
+          "distance": 0.23039358854293823,
+          "id": 1729355279
+        },
+        {
+          "distance": 0.23734933137893677,
+          "id": 1729355251
+        },
+        {
+          "distance": 0.23948222398757935,
+          "id": 1729357743
+        },
+        {
+          "distance": 0.23966413736343384,
+          "id": 1729355763
+        },
+        {
+          "distance": 0.24407070875167847,
+          "id": 1729360573
+        },
+        {
+          "distance": 0.24509888887405396,
+          "id": 1729358327
+        },
+        {
+          "distance": 0.24980658292770386,
+          "id": 1729358079
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729360133,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "This year marks the 50th anniversary of the USO Lounge at SFO...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

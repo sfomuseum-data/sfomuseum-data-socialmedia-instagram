@@ -25,6 +25,50 @@
       "taken": 1346156700,
       "taken_at": "Aug 28, 2012 12:25 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.08763211965560913,
+          "id": 1729356635
+        },
+        {
+          "distance": 0.15579652786254883,
+          "id": 1729356635
+        },
+        {
+          "distance": 0.15837913751602173,
+          "id": 1729362371
+        },
+        {
+          "distance": 0.17918944358825684,
+          "id": 1729362371
+        },
+        {
+          "distance": 0.204417884349823,
+          "id": 1729359209
+        },
+        {
+          "distance": 0.21722781658172607,
+          "id": 1729361021
+        },
+        {
+          "distance": 0.22299885749816895,
+          "id": 1729359209
+        },
+        {
+          "distance": 0.23937034606933594,
+          "id": 1729362799
+        },
+        {
+          "distance": 0.25839030742645264,
+          "id": 1729361021
+        },
+        {
+          "distance": 0.26646167039871216,
+          "id": 1729361991
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362903,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777656,
     "wof:name": "Did you know we're a library \u0026 archives, as well as a museum?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

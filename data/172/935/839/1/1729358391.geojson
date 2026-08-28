@@ -46,6 +46,50 @@
       "taken": 1522918380,
       "taken_at": "Apr 5, 2018, 8:53 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0036394596099853516,
+          "id": 1729358035
+        },
+        {
+          "distance": 0.015971004962921143,
+          "id": 1729358377
+        },
+        {
+          "distance": 0.03724783658981323,
+          "id": 1763559047
+        },
+        {
+          "distance": 0.06253379583358765,
+          "id": 1729358381
+        },
+        {
+          "distance": 0.07844805717468262,
+          "id": 1729358041
+        },
+        {
+          "distance": 0.09105932712554932,
+          "id": 1729358035
+        },
+        {
+          "distance": 0.09503281116485596,
+          "id": 1729358377
+        },
+        {
+          "distance": 0.09841400384902954,
+          "id": 1763559047
+        },
+        {
+          "distance": 0.10096895694732666,
+          "id": 1729358381
+        },
+        {
+          "distance": 0.14478647708892822,
+          "id": 1729358041
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -75,7 +119,7 @@
       }
     ],
     "wof:id": 1729358391,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777633,
     "wof:name": "The de Havilland DH-60G Moth was a two-seat biplane of mostly wood construction, with a plywood covered fuselage and cloth covered wings...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -92,5 +136,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -30,6 +30,50 @@
       "taken": 1622132880,
       "taken_at": "May 27, 2021 4:28 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14433467388153076,
+          "id": 1729359993
+        },
+        {
+          "distance": 0.1924799084663391,
+          "id": 1729359993
+        },
+        {
+          "distance": 0.23576343059539795,
+          "id": 1729361653
+        },
+        {
+          "distance": 0.2558996081352234,
+          "id": 1729355635
+        },
+        {
+          "distance": 0.2630908489227295,
+          "id": 1880151609
+        },
+        {
+          "distance": 0.27196192741394043,
+          "id": 1729355461
+        },
+        {
+          "distance": 0.27388572692871094,
+          "id": 1729355461
+        },
+        {
+          "distance": 0.27411186695098877,
+          "id": 1880151621
+        },
+        {
+          "distance": 0.28105849027633667,
+          "id": 1880150939
+        },
+        {
+          "distance": 0.2838594317436218,
+          "id": 1880151091
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559127,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Look who's back!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

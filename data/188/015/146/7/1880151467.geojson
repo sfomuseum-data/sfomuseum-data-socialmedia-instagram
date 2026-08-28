@@ -30,6 +30,50 @@
       "taken": 1662979500,
       "taken_at": "Sep 12, 2022 10:45 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11336344480514526,
+          "id": 1763559559
+        },
+        {
+          "distance": 0.12247216701507568,
+          "id": 1763559559
+        },
+        {
+          "distance": 0.23767787218093872,
+          "id": 1947424867
+        },
+        {
+          "distance": 0.2433050274848938,
+          "id": 1880151407
+        },
+        {
+          "distance": 0.2589724659919739,
+          "id": 1880151785
+        },
+        {
+          "distance": 0.2599793076515198,
+          "id": 1763559097
+        },
+        {
+          "distance": 0.2616441249847412,
+          "id": 1947425181
+        },
+        {
+          "distance": 0.2622387409210205,
+          "id": 1947425305
+        },
+        {
+          "distance": 0.27232736349105835,
+          "id": 1729356499
+        },
+        {
+          "distance": 0.2747218608856201,
+          "id": 1729358933
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151467,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "The sculpting process for Shona artists starts by locating a stone and excavating it before sketching a rough shape in charcoal...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

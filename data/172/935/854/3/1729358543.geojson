@@ -31,6 +31,50 @@
       "taken": 1518782100,
       "taken_at": "Feb 16, 2018 11:55 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1309838891029358,
+          "id": 1729359229
+        },
+        {
+          "distance": 0.17835301160812378,
+          "id": 1729357727
+        },
+        {
+          "distance": 0.1783955693244934,
+          "id": 1729357727
+        },
+        {
+          "distance": 0.18585848808288574,
+          "id": 1729359229
+        },
+        {
+          "distance": 0.20327889919281006,
+          "id": 1729355339
+        },
+        {
+          "distance": 0.20717120170593262,
+          "id": 1729355665
+        },
+        {
+          "distance": 0.21120166778564453,
+          "id": 1880150909
+        },
+        {
+          "distance": 0.2112463116645813,
+          "id": 1729355339
+        },
+        {
+          "distance": 0.21685761213302612,
+          "id": 1729359805
+        },
+        {
+          "distance": 0.2195245623588562,
+          "id": 1880150909
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729358543,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777633,
     "wof:name": "China Basin and Mission Bay in San Francisco have gone through an enormous transformation within the last twenty years...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

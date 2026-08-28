@@ -46,6 +46,50 @@
       "taken": 1511181180,
       "taken_at": "Nov 20, 2017 12:33 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.008736848831176758,
+          "id": 1729359199
+        },
+        {
+          "distance": 0.07066625356674194,
+          "id": 1729359199
+        },
+        {
+          "distance": 0.12553071975708008,
+          "id": 1729360641
+        },
+        {
+          "distance": 0.188720703125,
+          "id": 1947425093
+        },
+        {
+          "distance": 0.1906602382659912,
+          "id": 1729360641
+        },
+        {
+          "distance": 0.207760751247406,
+          "id": 1947425093
+        },
+        {
+          "distance": 0.229295015335083,
+          "id": 1763559487
+        },
+        {
+          "distance": 0.23138391971588135,
+          "id": 1763559327
+        },
+        {
+          "distance": 0.24838006496429443,
+          "id": 1763558725
+        },
+        {
+          "distance": 0.24838006496429443,
+          "id": 1729358623
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -75,7 +119,7 @@
       }
     ],
     "wof:id": 1729358887,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777634,
     "wof:name": "In 1946, the Civil Aeronautics Board granted United Air Lines the transpacific route to Hawai'i, and in 1947, the airline inaugurated passenger service...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -92,5 +136,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

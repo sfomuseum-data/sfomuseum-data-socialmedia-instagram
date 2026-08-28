@@ -33,6 +33,50 @@
       "taken": 1576684080,
       "taken_at": "Dec 18, 2019, 3:48 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.00809568166732788,
+          "id": 1763558827
+        },
+        {
+          "distance": 0.09246760606765747,
+          "id": 1763558827
+        },
+        {
+          "distance": 0.13429731130599976,
+          "id": 1880151121
+        },
+        {
+          "distance": 0.14479964971542358,
+          "id": 1880151121
+        },
+        {
+          "distance": 0.15239578485488892,
+          "id": 1729357493
+        },
+        {
+          "distance": 0.15470528602600098,
+          "id": 1729361489
+        },
+        {
+          "distance": 0.1568775773048401,
+          "id": 1947425021
+        },
+        {
+          "distance": 0.1709524393081665,
+          "id": 1729357069
+        },
+        {
+          "distance": 0.17102420330047607,
+          "id": 1729355699
+        },
+        {
+          "distance": 0.17249995470046997,
+          "id": 1947424969
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729355755,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777627,
     "wof:name": "During the Vietnam War, commercial airliners along with their crews were chartered to fly US troops into combat zones...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

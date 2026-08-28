@@ -30,6 +30,50 @@
       "taken": 1666282620,
       "taken_at": "Oct 20, 2022 4:17 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09345906972885132,
+          "id": 1729356691
+        },
+        {
+          "distance": 0.15733295679092407,
+          "id": 1729356691
+        },
+        {
+          "distance": 0.36943966150283813,
+          "id": 1729360423
+        },
+        {
+          "distance": 0.37168818712234497,
+          "id": 1763559453
+        },
+        {
+          "distance": 0.38046568632125854,
+          "id": 1729360423
+        },
+        {
+          "distance": 0.38361018896102905,
+          "id": 1763559453
+        },
+        {
+          "distance": 0.39649271965026855,
+          "id": 1729359663
+        },
+        {
+          "distance": 0.3997318744659424,
+          "id": 1880151413
+        },
+        {
+          "distance": 0.4066106081008911,
+          "id": 1880151413
+        },
+        {
+          "distance": 0.40895378589630127,
+          "id": 1729360475
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151377,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Initially for temporary publicity, in 1969, Pacific Southwest Airlines or PSA began painting smiles on the nose of its aircraft...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

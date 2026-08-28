@@ -33,6 +33,50 @@
       "taken": 1637754900,
       "taken_at": "Nov 24, 2021 11:55 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3311142921447754,
+          "id": 1729359123
+        },
+        {
+          "distance": 0.3734034299850464,
+          "id": 1729360055
+        },
+        {
+          "distance": 0.37408125400543213,
+          "id": 1729357285
+        },
+        {
+          "distance": 0.3752082586288452,
+          "id": 1763559193
+        },
+        {
+          "distance": 0.37778759002685547,
+          "id": 1947425011
+        },
+        {
+          "distance": 0.37830090522766113,
+          "id": 1763559271
+        },
+        {
+          "distance": 0.3813338875770569,
+          "id": 1729355515
+        },
+        {
+          "distance": 0.3897465467453003,
+          "id": 1947425011
+        },
+        {
+          "distance": 0.3902149200439453,
+          "id": 1729355797
+        },
+        {
+          "distance": 0.3904879689216614,
+          "id": 1729355483
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1763559307,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Our newest gallery, the Kadish Gallery, is now open!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

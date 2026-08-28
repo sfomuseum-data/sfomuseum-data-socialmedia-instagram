@@ -48,6 +48,50 @@
       "taken": 1509100740,
       "taken_at": "Oct 27, 2017 10:39 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2338622808456421,
+          "id": 1729358691
+        },
+        {
+          "distance": 0.24713993072509766,
+          "id": 1729359519
+        },
+        {
+          "distance": 0.25150543451309204,
+          "id": 1729360549
+        },
+        {
+          "distance": 0.25283682346343994,
+          "id": 1729358691
+        },
+        {
+          "distance": 0.2569637894630432,
+          "id": 1729359519
+        },
+        {
+          "distance": 0.2588045001029968,
+          "id": 1729355185
+        },
+        {
+          "distance": 0.2595880627632141,
+          "id": 1729358125
+        },
+        {
+          "distance": 0.26316261291503906,
+          "id": 1729358125
+        },
+        {
+          "distance": 0.2663067579269409,
+          "id": 1729355927
+        },
+        {
+          "distance": 0.2679659128189087,
+          "id": 1729355185
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -77,7 +121,7 @@
       }
     ],
     "wof:id": 1729358951,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777634,
     "wof:name": "In the mid-1960s, American commercial aviation was primed for transformation...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -94,5 +138,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

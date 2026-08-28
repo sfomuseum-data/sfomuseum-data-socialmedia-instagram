@@ -49,6 +49,50 @@
       "taken": 1507628940,
       "taken_at": "Oct 10, 2017 9:49 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14311563968658447,
+          "id": 1729355197
+        },
+        {
+          "distance": 0.1441900134086609,
+          "id": 1729357961
+        },
+        {
+          "distance": 0.14427202939987183,
+          "id": 1729360867
+        },
+        {
+          "distance": 0.14567744731903076,
+          "id": 1729359319
+        },
+        {
+          "distance": 0.19351685047149658,
+          "id": 1729360867
+        },
+        {
+          "distance": 0.19851070642471313,
+          "id": 1729359319
+        },
+        {
+          "distance": 0.1992853283882141,
+          "id": 1729357961
+        },
+        {
+          "distance": 0.20231032371520996,
+          "id": 1729355197
+        },
+        {
+          "distance": 0.22919929027557373,
+          "id": 1729359715
+        },
+        {
+          "distance": 0.23077183961868286,
+          "id": 1729359715
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -78,7 +122,7 @@
       }
     ],
     "wof:id": 1729359015,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Air France was founded on October 7, 1933...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -95,5 +139,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

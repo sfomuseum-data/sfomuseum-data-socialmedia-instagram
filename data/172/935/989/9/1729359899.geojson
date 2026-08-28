@@ -25,6 +25,50 @@
       "taken": 1485365880,
       "taken_at": "Jan 25, 2017 5:38 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14770054817199707,
+          "id": 1729361659
+        },
+        {
+          "distance": 0.1868106722831726,
+          "id": 1729360723
+        },
+        {
+          "distance": 0.20195931196212769,
+          "id": 1729359509
+        },
+        {
+          "distance": 0.20543473958969116,
+          "id": 1729361659
+        },
+        {
+          "distance": 0.21518391370773315,
+          "id": 1729358609
+        },
+        {
+          "distance": 0.22417038679122925,
+          "id": 1729358609
+        },
+        {
+          "distance": 0.23363417387008667,
+          "id": 1763559125
+        },
+        {
+          "distance": 0.23564088344573975,
+          "id": 1729359503
+        },
+        {
+          "distance": 0.23776865005493164,
+          "id": 1729358079
+        },
+        {
+          "distance": 0.238416850566864,
+          "id": 1880151765
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359899,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "In 1949, Pan American World Airways introduced its new long-range, double-decked, transoceanic luxury airliner, the Boeing 377 Stratocruiser and installed the Sleeperette seat within a convertible sleeping berth configuration...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -31,6 +31,50 @@
       "taken": 1630339260,
       "taken_at": "Aug 30, 2021 4:01 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11083984375,
+          "id": 1729359555
+        },
+        {
+          "distance": 0.12165749073028564,
+          "id": 1729359555
+        },
+        {
+          "distance": 0.1308014988899231,
+          "id": 1729360877
+        },
+        {
+          "distance": 0.13326221704483032,
+          "id": 1729361143
+        },
+        {
+          "distance": 0.14205646514892578,
+          "id": 1729361697
+        },
+        {
+          "distance": 0.14555025100708008,
+          "id": 1729361143
+        },
+        {
+          "distance": 0.1487700343132019,
+          "id": 1763559233
+        },
+        {
+          "distance": 0.15235024690628052,
+          "id": 1763559233
+        },
+        {
+          "distance": 0.16190123558044434,
+          "id": 1947425255
+        },
+        {
+          "distance": 0.1625223159790039,
+          "id": 1729359805
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559449,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "#OnThisDay in 1930, the City and County of San Francisco began to purchase the property of Mills Field, which would become San Francisco International Airport...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

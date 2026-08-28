@@ -39,6 +39,50 @@
       "taken": 1547048340,
       "taken_at": "Jan 9, 2019, 3:39 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15355318784713745,
+          "id": 1729357575
+        },
+        {
+          "distance": 0.16856437921524048,
+          "id": 1729357661
+        },
+        {
+          "distance": 0.16872751712799072,
+          "id": 1729357769
+        },
+        {
+          "distance": 0.17343813180923462,
+          "id": 1729357043
+        },
+        {
+          "distance": 0.17390185594558716,
+          "id": 1729357345
+        },
+        {
+          "distance": 0.1775754690170288,
+          "id": 1729358437
+        },
+        {
+          "distance": 0.18339604139328003,
+          "id": 1763559073
+        },
+        {
+          "distance": 0.18782496452331543,
+          "id": 1729361465
+        },
+        {
+          "distance": 0.19170016050338745,
+          "id": 1729358651
+        },
+        {
+          "distance": 0.19312834739685059,
+          "id": 1729357769
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729357115,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777630,
     "wof:name": "The Douglas DC-8 was developed during the mid-1950s as a competitive design to Boeing’s 707...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

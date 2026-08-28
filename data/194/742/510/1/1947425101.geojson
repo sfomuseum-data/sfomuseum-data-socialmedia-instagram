@@ -28,6 +28,50 @@
       "taken": 1710259440,
       "taken_at": "Mar 12, 2024 4:04 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.03105562925338745,
+          "id": 1729361553
+        },
+        {
+          "distance": 0.1162382960319519,
+          "id": 1729361553
+        },
+        {
+          "distance": 0.23498117923736572,
+          "id": 1729360739
+        },
+        {
+          "distance": 0.24318188428878784,
+          "id": 1729357413
+        },
+        {
+          "distance": 0.258609414100647,
+          "id": 1729359509
+        },
+        {
+          "distance": 0.25902634859085083,
+          "id": 1729359685
+        },
+        {
+          "distance": 0.263380765914917,
+          "id": 1729357391
+        },
+        {
+          "distance": 0.2650296092033386,
+          "id": 1947425065
+        },
+        {
+          "distance": 0.26525670289993286,
+          "id": 1729358107
+        },
+        {
+          "distance": 0.2715209126472473,
+          "id": 1729361471
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1947425101,
-    "wof:lastmodified": 1733175326,
+    "wof:lastmodified": 1787777664,
     "wof:name": "The remarkable Edith Lauterbach (1921-2013) helped establish, what is now known as, the Association of Flight Attendants-CWA, which now represents nearly 60,000 flight attendants at 19 airlines...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -70,5 +114,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

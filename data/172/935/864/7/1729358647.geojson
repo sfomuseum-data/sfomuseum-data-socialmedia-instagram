@@ -40,6 +40,50 @@
       "taken": 1517314680,
       "taken_at": "Jan 30, 2018, 12:18 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06442058086395264,
+          "id": 1763558725
+        },
+        {
+          "distance": 0.06442058086395264,
+          "id": 1729358623
+        },
+        {
+          "distance": 0.11406821012496948,
+          "id": 1729358625
+        },
+        {
+          "distance": 0.12889182567596436,
+          "id": 1729358623
+        },
+        {
+          "distance": 0.12889182567596436,
+          "id": 1763558725
+        },
+        {
+          "distance": 0.1767372488975525,
+          "id": 1729358625
+        },
+        {
+          "distance": 0.25478363037109375,
+          "id": 1729359199
+        },
+        {
+          "distance": 0.25585901737213135,
+          "id": 1729359199
+        },
+        {
+          "distance": 0.25795626640319824,
+          "id": 1729358887
+        },
+        {
+          "distance": 0.2654826045036316,
+          "id": 1729360641
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729358647,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Founded as Inter-Island Airways #onthisday in 1929, Hawaiian Airlines is one of the oldest airlines still in operation in the United States...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

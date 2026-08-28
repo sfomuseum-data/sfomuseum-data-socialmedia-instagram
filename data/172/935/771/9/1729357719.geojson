@@ -37,6 +37,50 @@
       "taken": 1535829240,
       "taken_at": "Sep 01, 2018 7:14 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0031279921531677246,
+          "id": 1729357067
+        },
+        {
+          "distance": 0.07019400596618652,
+          "id": 1729357067
+        },
+        {
+          "distance": 0.19329631328582764,
+          "id": 1729357847
+        },
+        {
+          "distance": 0.20228511095046997,
+          "id": 1729357507
+        },
+        {
+          "distance": 0.2058941125869751,
+          "id": 1729358399
+        },
+        {
+          "distance": 0.2133922576904297,
+          "id": 1729358485
+        },
+        {
+          "distance": 0.2142069935798645,
+          "id": 1729358445
+        },
+        {
+          "distance": 0.2171696424484253,
+          "id": 1729358591
+        },
+        {
+          "distance": 0.2225603461265564,
+          "id": 1729358149
+        },
+        {
+          "distance": 0.2234519124031067,
+          "id": 1729356935
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729357719,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Turquoise-glazed temple cats are regarded as symbols of good luck in many Chinese traditions...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

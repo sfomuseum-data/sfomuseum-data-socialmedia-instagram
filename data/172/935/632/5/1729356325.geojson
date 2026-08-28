@@ -36,6 +36,50 @@
       "taken": 1562941200,
       "taken_at": "Jul 12, 2019 2:20 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24181175231933594,
+          "id": 1729356419
+        },
+        {
+          "distance": 0.2577185034751892,
+          "id": 1729356323
+        },
+        {
+          "distance": 0.2730056047439575,
+          "id": 1729356419
+        },
+        {
+          "distance": 0.2933874726295471,
+          "id": 1729356323
+        },
+        {
+          "distance": 0.29366785287857056,
+          "id": 1763558817
+        },
+        {
+          "distance": 0.2952176332473755,
+          "id": 1729355849
+        },
+        {
+          "distance": 0.2952176332473755,
+          "id": 1729356359
+        },
+        {
+          "distance": 0.3013697862625122,
+          "id": 1729356487
+        },
+        {
+          "distance": 0.30255115032196045,
+          "id": 1729355831
+        },
+        {
+          "distance": 0.30358046293258667,
+          "id": 1729355831
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729356325,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Anglo-Japanese furniture was typically painted with a shiny black lacquer to mimic Japanese lacquer...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

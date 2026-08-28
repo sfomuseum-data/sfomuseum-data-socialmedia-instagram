@@ -34,6 +34,50 @@
       "taken": 1574787720,
       "taken_at": "Nov 26, 2019, 5:02 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.019461750984191895,
+          "id": 1729355357
+        },
+        {
+          "distance": 0.09839266538619995,
+          "id": 1729355357
+        },
+        {
+          "distance": 0.21797078847885132,
+          "id": 1729361851
+        },
+        {
+          "distance": 0.2327536940574646,
+          "id": 1880151773
+        },
+        {
+          "distance": 0.23295050859451294,
+          "id": 1729359003
+        },
+        {
+          "distance": 0.23295050859451294,
+          "id": 1763558711
+        },
+        {
+          "distance": 0.23959976434707642,
+          "id": 1729358853
+        },
+        {
+          "distance": 0.24101203680038452,
+          "id": 1729359359
+        },
+        {
+          "distance": 0.24118572473526,
+          "id": 1729356059
+        },
+        {
+          "distance": 0.24189990758895874,
+          "id": 1947424849
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729355845,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777627,
     "wof:name": "BOAC (British Overseas Airways Corporation) launched Boeing 747 widebody transatlantic service in April 1971 between London and New York...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

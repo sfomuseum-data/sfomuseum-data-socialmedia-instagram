@@ -28,6 +28,50 @@
       "taken": 1597854900,
       "taken_at": "Aug 19, 2020 4:35 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.26146769523620605,
+          "id": 1763559281
+        },
+        {
+          "distance": 0.26941221952438354,
+          "id": 1729362075
+        },
+        {
+          "distance": 0.2845152020454407,
+          "id": 1729357603
+        },
+        {
+          "distance": 0.29365330934524536,
+          "id": 1947425149
+        },
+        {
+          "distance": 0.2945546507835388,
+          "id": 1729357603
+        },
+        {
+          "distance": 0.29643797874450684,
+          "id": 1729355383
+        },
+        {
+          "distance": 0.2965310215950012,
+          "id": 1947424929
+        },
+        {
+          "distance": 0.3004121780395508,
+          "id": 1947424985
+        },
+        {
+          "distance": 0.30066877603530884,
+          "id": 1763559281
+        },
+        {
+          "distance": 0.3035714030265808,
+          "id": 1729362959
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1729355111,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777617,
     "wof:name": "Today is #WorldPhotographyDay!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

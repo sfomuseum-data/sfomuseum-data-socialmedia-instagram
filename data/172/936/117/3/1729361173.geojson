@@ -25,6 +25,50 @@
       "taken": 1452595320,
       "taken_at": "Jan 12, 2016 10:42 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1749081015586853,
+          "id": 1729361057
+        },
+        {
+          "distance": 0.18679088354110718,
+          "id": 1729361057
+        },
+        {
+          "distance": 0.23267221450805664,
+          "id": 1729356533
+        },
+        {
+          "distance": 0.23316437005996704,
+          "id": 1729359597
+        },
+        {
+          "distance": 0.23773980140686035,
+          "id": 1729355993
+        },
+        {
+          "distance": 0.23807543516159058,
+          "id": 1880151313
+        },
+        {
+          "distance": 0.23853379487991333,
+          "id": 1729357581
+        },
+        {
+          "distance": 0.23940187692642212,
+          "id": 1729355377
+        },
+        {
+          "distance": 0.23949581384658813,
+          "id": 1729359611
+        },
+        {
+          "distance": 0.23976069688796997,
+          "id": 1729356533
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361173,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "Pan American Airways’ Clipper flying boats were named after the clipper ships of history...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

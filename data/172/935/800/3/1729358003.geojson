@@ -38,6 +38,50 @@
       "taken": 1531235220,
       "taken_at": "Jul 10, 2018 3:07 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.31256580352783203,
+          "id": 1880151221
+        },
+        {
+          "distance": 0.33499205112457275,
+          "id": 1729357815
+        },
+        {
+          "distance": 0.33499205112457275,
+          "id": 1763558777
+        },
+        {
+          "distance": 0.3548464775085449,
+          "id": 1880151523
+        },
+        {
+          "distance": 0.3554189205169678,
+          "id": 1729357815
+        },
+        {
+          "distance": 0.3554189205169678,
+          "id": 1763558777
+        },
+        {
+          "distance": 0.356303334236145,
+          "id": 1729361605
+        },
+        {
+          "distance": 0.357869029045105,
+          "id": 1880150943
+        },
+        {
+          "distance": 0.35957401990890503,
+          "id": 1763559347
+        },
+        {
+          "distance": 0.3600066900253296,
+          "id": 1763559347
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729358003,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777632,
     "wof:name": "In the mountainous country of Nepal, the flag carrying airline, Nepal Airlines (previously Royal Nepal Airlines), traverses the country, landing and taking off on smalls airstrips...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -34,6 +34,50 @@
       "taken": 1682419200,
       "taken_at": "Apr 25, 2023 10:40 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06897920370101929,
+          "id": 1729355331
+        },
+        {
+          "distance": 0.12213891744613647,
+          "id": 1729355341
+        },
+        {
+          "distance": 0.14142519235610962,
+          "id": 1880151607
+        },
+        {
+          "distance": 0.1513703465461731,
+          "id": 1880151607
+        },
+        {
+          "distance": 0.19893872737884521,
+          "id": 1729355331
+        },
+        {
+          "distance": 0.20215874910354614,
+          "id": 1729355309
+        },
+        {
+          "distance": 0.20739316940307617,
+          "id": 1729355341
+        },
+        {
+          "distance": 0.20895665884017944,
+          "id": 1729357871
+        },
+        {
+          "distance": 0.21750128269195557,
+          "id": 1729359429
+        },
+        {
+          "distance": 0.2243262529373169,
+          "id": 1729355493
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1880150959,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777661,
     "wof:name": "“Green Map” by Ellen Harvey inverts the traditional idea of a map to highlight the region’s green space...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

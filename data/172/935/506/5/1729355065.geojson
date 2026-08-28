@@ -31,6 +31,50 @@
       "taken": 1600799220,
       "taken_at": "Sep 22, 2020, 6:27 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15393948554992676,
+          "id": 1880151103
+        },
+        {
+          "distance": 0.17184025049209595,
+          "id": 1763559635
+        },
+        {
+          "distance": 0.17882508039474487,
+          "id": 1880151103
+        },
+        {
+          "distance": 0.19975340366363525,
+          "id": 1729355055
+        },
+        {
+          "distance": 0.21938824653625488,
+          "id": 1763559635
+        },
+        {
+          "distance": 0.24474716186523438,
+          "id": 1729355045
+        },
+        {
+          "distance": 0.24665725231170654,
+          "id": 1880151677
+        },
+        {
+          "distance": 0.27918553352355957,
+          "id": 1880151783
+        },
+        {
+          "distance": 0.2913205027580261,
+          "id": 1880151007
+        },
+        {
+          "distance": 0.2951520085334778,
+          "id": 1880151783
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729355065,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777615,
     "wof:name": "“Time, Turn, and Light” by #WoodyDeOthello depicts ambiguous sets of hands interacting with everyday objects such as clocks, a flashlight, a candle, and a doorknob...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

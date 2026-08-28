@@ -32,6 +32,50 @@
       "taken": 1581427920,
       "taken_at": "Feb 11, 2020 1:32 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17411565780639648,
+          "id": 1729356341
+        },
+        {
+          "distance": 0.17483854293823242,
+          "id": 1763558963
+        },
+        {
+          "distance": 0.1767435073852539,
+          "id": 1729356341
+        },
+        {
+          "distance": 0.18150711059570312,
+          "id": 1729359579
+        },
+        {
+          "distance": 0.18218296766281128,
+          "id": 1763559313
+        },
+        {
+          "distance": 0.18585246801376343,
+          "id": 1729356565
+        },
+        {
+          "distance": 0.18922334909439087,
+          "id": 1729358315
+        },
+        {
+          "distance": 0.19369393587112427,
+          "id": 1729355709
+        },
+        {
+          "distance": 0.20300012826919556,
+          "id": 1763559313
+        },
+        {
+          "distance": 0.21140187978744507,
+          "id": 1729356383
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729355557,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777626,
     "wof:name": "The Big 2-0!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

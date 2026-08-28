@@ -25,6 +25,50 @@
       "taken": 1450088580,
       "taken_at": "Dec 14, 2015 10:23 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14022678136825562,
+          "id": 1729361081
+        },
+        {
+          "distance": 0.17690759897232056,
+          "id": 1729361081
+        },
+        {
+          "distance": 0.1837071180343628,
+          "id": 1729361139
+        },
+        {
+          "distance": 0.19992494583129883,
+          "id": 1729361201
+        },
+        {
+          "distance": 0.20132523775100708,
+          "id": 1729361077
+        },
+        {
+          "distance": 0.20969659090042114,
+          "id": 1729361417
+        },
+        {
+          "distance": 0.21450233459472656,
+          "id": 1729361089
+        },
+        {
+          "distance": 0.21835064888000488,
+          "id": 1729361139
+        },
+        {
+          "distance": 0.2275790572166443,
+          "id": 1729361083
+        },
+        {
+          "distance": 0.23827660083770752,
+          "id": 1729361089
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361269,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "The New York #Giants face off against the Miami #Dolphins in tonight’s #MondayNightFootball game...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -35,6 +35,50 @@
       "taken": 1491245760,
       "taken_at": "Apr 03, 2017 6:56 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2966422438621521,
+          "id": 1729361455
+        },
+        {
+          "distance": 0.3004438877105713,
+          "id": 1729360029
+        },
+        {
+          "distance": 0.3069831132888794,
+          "id": 1729359039
+        },
+        {
+          "distance": 0.30922234058380127,
+          "id": 1729356329
+        },
+        {
+          "distance": 0.31606364250183105,
+          "id": 1763558689
+        },
+        {
+          "distance": 0.31606364250183105,
+          "id": 1729359221
+        },
+        {
+          "distance": 0.3194742798805237,
+          "id": 1729360855
+        },
+        {
+          "distance": 0.3231423497200012,
+          "id": 1729360029
+        },
+        {
+          "distance": 0.32565903663635254,
+          "id": 1729361455
+        },
+        {
+          "distance": 0.3268817067146301,
+          "id": 1729361167
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729359653,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "Would you like to fly out west to your horse?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

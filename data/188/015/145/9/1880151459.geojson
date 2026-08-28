@@ -32,6 +32,50 @@
       "taken": 1662721320,
       "taken_at": "Sep 09, 2022 11:02 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.48385608196258545,
+          "id": 1729361531
+        },
+        {
+          "distance": 0.4948154091835022,
+          "id": 1729360617
+        },
+        {
+          "distance": 0.4974821209907532,
+          "id": 1729361485
+        },
+        {
+          "distance": 0.4976924657821655,
+          "id": 1729355105
+        },
+        {
+          "distance": 0.5099989175796509,
+          "id": 1729360969
+        },
+        {
+          "distance": 0.5104569792747498,
+          "id": 1729359455
+        },
+        {
+          "distance": 0.5112203359603882,
+          "id": 1763558627
+        },
+        {
+          "distance": 0.5112203359603882,
+          "id": 1729360769
+        },
+        {
+          "distance": 0.5127084255218506,
+          "id": 1947424925
+        },
+        {
+          "distance": 0.5140658617019653,
+          "id": 1729360769
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1880151459,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Happy Birthday, BART!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

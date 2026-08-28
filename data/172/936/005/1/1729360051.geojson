@@ -31,6 +31,50 @@
       "taken": 1480933320,
       "taken_at": "Dec 05, 2016 10:22 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2770066261291504,
+          "id": 1763558821
+        },
+        {
+          "distance": 0.27940768003463745,
+          "id": 1729356023
+        },
+        {
+          "distance": 0.2876744270324707,
+          "id": 1763559133
+        },
+        {
+          "distance": 0.29881322383880615,
+          "id": 1729359663
+        },
+        {
+          "distance": 0.3033639192581177,
+          "id": 1729360469
+        },
+        {
+          "distance": 0.30511021614074707,
+          "id": 1763559133
+        },
+        {
+          "distance": 0.30906498432159424,
+          "id": 1763559557
+        },
+        {
+          "distance": 0.3142673969268799,
+          "id": 1729361533
+        },
+        {
+          "distance": 0.31587469577789307,
+          "id": 1880151551
+        },
+        {
+          "distance": 0.3164292573928833,
+          "id": 1729360469
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729360051,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777639,
     "wof:name": "Aerovías del Continente Americano S.A. or Avianca traces its beginning back to 1919...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

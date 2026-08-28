@@ -25,6 +25,50 @@
       "taken": 1397226120,
       "taken_at": "Apr 11, 2014 2:22 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2274441123008728,
+          "id": 1729362515
+        },
+        {
+          "distance": 0.23615491390228271,
+          "id": 1729362291
+        },
+        {
+          "distance": 0.24651628732681274,
+          "id": 1729355955
+        },
+        {
+          "distance": 0.24847006797790527,
+          "id": 1729362949
+        },
+        {
+          "distance": 0.24883347749710083,
+          "id": 1729362515
+        },
+        {
+          "distance": 0.24951320886611938,
+          "id": 1729362119
+        },
+        {
+          "distance": 0.2531752586364746,
+          "id": 1729356155
+        },
+        {
+          "distance": 0.2596304416656494,
+          "id": 1729362743
+        },
+        {
+          "distance": 0.2669583559036255,
+          "id": 1729362451
+        },
+        {
+          "distance": 0.27439814805984497,
+          "id": 1729355955
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362327,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "How awesome is he?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

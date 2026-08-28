@@ -25,6 +25,50 @@
       "taken": 1454698500,
       "taken_at": "Feb 05, 2016 6:55 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1772046685218811,
+          "id": 1729361219
+        },
+        {
+          "distance": 0.1838310956954956,
+          "id": 1729361289
+        },
+        {
+          "distance": 0.19042694568634033,
+          "id": 1729360235
+        },
+        {
+          "distance": 0.20023435354232788,
+          "id": 1729359933
+        },
+        {
+          "distance": 0.20284974575042725,
+          "id": 1729357747
+        },
+        {
+          "distance": 0.21073246002197266,
+          "id": 1729361317
+        },
+        {
+          "distance": 0.21398210525512695,
+          "id": 1729361603
+        },
+        {
+          "distance": 0.21556174755096436,
+          "id": 1729361383
+        },
+        {
+          "distance": 0.2167586088180542,
+          "id": 1729361227
+        },
+        {
+          "distance": 0.2190738320350647,
+          "id": 1729361577
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361071,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777643,
     "wof:name": "#OnThisDay in 1939, Pan American Airways’ first scheduled flight from Treasure Island departed...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

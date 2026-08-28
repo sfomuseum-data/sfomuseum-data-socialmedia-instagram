@@ -34,6 +34,50 @@
       "taken": 1500724560,
       "taken_at": "Jul 22, 2017 11:56 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20895171165466309,
+          "id": 1729360867
+        },
+        {
+          "distance": 0.21083343029022217,
+          "id": 1729357961
+        },
+        {
+          "distance": 0.21375584602355957,
+          "id": 1729359319
+        },
+        {
+          "distance": 0.2153196930885315,
+          "id": 1729355197
+        },
+        {
+          "distance": 0.23074573278427124,
+          "id": 1729359015
+        },
+        {
+          "distance": 0.24328267574310303,
+          "id": 1729359015
+        },
+        {
+          "distance": 0.2501251697540283,
+          "id": 1729360867
+        },
+        {
+          "distance": 0.2507621645927429,
+          "id": 1729359319
+        },
+        {
+          "distance": 0.252912700176239,
+          "id": 1729357961
+        },
+        {
+          "distance": 0.26147395372390747,
+          "id": 1729355197
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729359281,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "\"Going Abroad?\"..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

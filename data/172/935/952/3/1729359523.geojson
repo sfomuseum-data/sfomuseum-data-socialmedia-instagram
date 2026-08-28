@@ -33,6 +33,50 @@
       "taken": 1493888160,
       "taken_at": "May 04, 2017 8:56 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09023785591125488,
+          "id": 1729361227
+        },
+        {
+          "distance": 0.10626661777496338,
+          "id": 1729357593
+        },
+        {
+          "distance": 0.1455150842666626,
+          "id": 1729361227
+        },
+        {
+          "distance": 0.15092921257019043,
+          "id": 1729360877
+        },
+        {
+          "distance": 0.1571083664894104,
+          "id": 1763559345
+        },
+        {
+          "distance": 0.16986846923828125,
+          "id": 1729355115
+        },
+        {
+          "distance": 0.1710929274559021,
+          "id": 1947425271
+        },
+        {
+          "distance": 0.17308813333511353,
+          "id": 1729361577
+        },
+        {
+          "distance": 0.1736186146736145,
+          "id": 1880151675
+        },
+        {
+          "distance": 0.17564481496810913,
+          "id": 1880151675
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729359523,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "This year SFO turns 90!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

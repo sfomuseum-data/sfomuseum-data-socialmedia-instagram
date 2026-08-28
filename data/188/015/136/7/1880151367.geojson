@@ -31,6 +31,50 @@
       "taken": 1667381400,
       "taken_at": "Nov 02, 2022 9:30 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.02107071876525879,
+          "id": 1880151061
+        },
+        {
+          "distance": 0.10385274887084961,
+          "id": 1880151061
+        },
+        {
+          "distance": 0.14988577365875244,
+          "id": 1880151287
+        },
+        {
+          "distance": 0.17314612865447998,
+          "id": 1880151473
+        },
+        {
+          "distance": 0.17769819498062134,
+          "id": 1947425237
+        },
+        {
+          "distance": 0.17775475978851318,
+          "id": 1947425209
+        },
+        {
+          "distance": 0.1910613775253296,
+          "id": 1880151191
+        },
+        {
+          "distance": 0.1932479739189148,
+          "id": 1880150965
+        },
+        {
+          "distance": 0.19514250755310059,
+          "id": 1880151287
+        },
+        {
+          "distance": 0.19684821367263794,
+          "id": 1947425141
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151367,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "During the 1990s, Qantas operated a large fleet of the Boeing 747-400 widebody airliner, which was introduced in 1989...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

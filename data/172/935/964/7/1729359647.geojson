@@ -25,6 +25,50 @@
       "taken": 1491420600,
       "taken_at": "Apr 05, 2017 7:30 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.42060500383377075,
+          "id": 1729359689
+        },
+        {
+          "distance": 0.4491168260574341,
+          "id": 1729357723
+        },
+        {
+          "distance": 0.4575549364089966,
+          "id": 1729359689
+        },
+        {
+          "distance": 0.4686087369918823,
+          "id": 1729357793
+        },
+        {
+          "distance": 0.4707674980163574,
+          "id": 1729358711
+        },
+        {
+          "distance": 0.47162574529647827,
+          "id": 1729358587
+        },
+        {
+          "distance": 0.4723629951477051,
+          "id": 1729357793
+        },
+        {
+          "distance": 0.47343599796295166,
+          "id": 1729358711
+        },
+        {
+          "distance": 0.47599858045578003,
+          "id": 1729358697
+        },
+        {
+          "distance": 0.4775538444519043,
+          "id": 1729359861
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359647,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "Board game manufacturer #MiltonBradley first released their unusual take on the talking board in 1892...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

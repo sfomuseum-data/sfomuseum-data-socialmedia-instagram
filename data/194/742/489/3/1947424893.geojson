@@ -28,6 +28,50 @@
       "taken": 1723810500,
       "taken_at": "Aug 16, 2024 12:15 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20339316129684448,
+          "id": 1947425079
+        },
+        {
+          "distance": 0.22898995876312256,
+          "id": 1947425079
+        },
+        {
+          "distance": 0.26545655727386475,
+          "id": 1947424983
+        },
+        {
+          "distance": 0.2719961404800415,
+          "id": 1947425131
+        },
+        {
+          "distance": 0.29877734184265137,
+          "id": 1729355987
+        },
+        {
+          "distance": 0.2998870611190796,
+          "id": 1947424857
+        },
+        {
+          "distance": 0.3004361391067505,
+          "id": 1729355501
+        },
+        {
+          "distance": 0.3007863163948059,
+          "id": 1947424935
+        },
+        {
+          "distance": 0.3079547882080078,
+          "id": 1947424983
+        },
+        {
+          "distance": 0.3119388818740845,
+          "id": 1947425153
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1947424893,
-    "wof:lastmodified": 1733175320,
+    "wof:lastmodified": 1787777664,
     "wof:name": "During its first year of operations, Virgin America flew to only eight cities...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -70,5 +114,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

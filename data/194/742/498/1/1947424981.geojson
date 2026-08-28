@@ -27,6 +27,50 @@
       "taken": 1718785800,
       "taken_at": "Jun 19, 2024 8:30 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.22277796268463135,
+          "id": 1947425227
+        },
+        {
+          "distance": 0.24682819843292236,
+          "id": 1947425227
+        },
+        {
+          "distance": 0.2511976361274719,
+          "id": 1947425223
+        },
+        {
+          "distance": 0.25120896100997925,
+          "id": 1947425025
+        },
+        {
+          "distance": 0.2570115923881531,
+          "id": 1947425025
+        },
+        {
+          "distance": 0.25869178771972656,
+          "id": 1947425223
+        },
+        {
+          "distance": 0.3007749319076538,
+          "id": 1947425037
+        },
+        {
+          "distance": 0.310716450214386,
+          "id": 1947425083
+        },
+        {
+          "distance": 0.3555024266242981,
+          "id": 1947425083
+        },
+        {
+          "distance": 0.3653428554534912,
+          "id": 1947425037
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947424981,
-    "wof:lastmodified": 1733175322,
+    "wof:lastmodified": 1787777664,
     "wof:name": "The Aviation Museum and Library will be closed today to celebrate Juneteenth and will reopen tomorrow, June 20th at 10am...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -42,6 +42,50 @@
       "taken": 1504777560,
       "taken_at": "Sep 07, 2017 9:46 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2903793454170227,
+          "id": 1729360873
+        },
+        {
+          "distance": 0.294097900390625,
+          "id": 1729357989
+        },
+        {
+          "distance": 0.3076730966567993,
+          "id": 1763559345
+        },
+        {
+          "distance": 0.30794674158096313,
+          "id": 1729357231
+        },
+        {
+          "distance": 0.3116169571876526,
+          "id": 1729359523
+        },
+        {
+          "distance": 0.3250182867050171,
+          "id": 1729361227
+        },
+        {
+          "distance": 0.33634889125823975,
+          "id": 1729359523
+        },
+        {
+          "distance": 0.33733224868774414,
+          "id": 1763559345
+        },
+        {
+          "distance": 0.3373602032661438,
+          "id": 1729359987
+        },
+        {
+          "distance": 0.33940643072128296,
+          "id": 1729359951
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -71,7 +115,7 @@
       }
     ],
     "wof:id": 1729359111,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Do you remember this sign?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -88,5 +132,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

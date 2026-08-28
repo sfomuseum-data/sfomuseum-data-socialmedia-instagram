@@ -25,6 +25,50 @@
       "taken": 1492273920,
       "taken_at": "Apr 15, 2017 4:32 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2344176173210144,
+          "id": 1729358623
+        },
+        {
+          "distance": 0.2344176173210144,
+          "id": 1763558725
+        },
+        {
+          "distance": 0.25158339738845825,
+          "id": 1763559155
+        },
+        {
+          "distance": 0.2534559965133667,
+          "id": 1729359097
+        },
+        {
+          "distance": 0.2577695846557617,
+          "id": 1729358333
+        },
+        {
+          "distance": 0.2592276930809021,
+          "id": 1729359067
+        },
+        {
+          "distance": 0.26000410318374634,
+          "id": 1729360029
+        },
+        {
+          "distance": 0.2603158950805664,
+          "id": 1947425117
+        },
+        {
+          "distance": 0.2607959508895874,
+          "id": 1729359739
+        },
+        {
+          "distance": 0.2612181305885315,
+          "id": 1947424855
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359609,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "Happy Birthday, American Airlines!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

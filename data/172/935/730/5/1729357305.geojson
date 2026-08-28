@@ -38,6 +38,50 @@
       "taken": 1543321680,
       "taken_at": "Nov 27, 2018, 12:28 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14694291353225708,
+          "id": 1729357205
+        },
+        {
+          "distance": 0.16013652086257935,
+          "id": 1729357205
+        },
+        {
+          "distance": 0.17440348863601685,
+          "id": 1729357399
+        },
+        {
+          "distance": 0.19267672300338745,
+          "id": 1729357399
+        },
+        {
+          "distance": 0.22031676769256592,
+          "id": 1729356621
+        },
+        {
+          "distance": 0.23386216163635254,
+          "id": 1729357099
+        },
+        {
+          "distance": 0.2380150556564331,
+          "id": 1729357099
+        },
+        {
+          "distance": 0.239016592502594,
+          "id": 1729356647
+        },
+        {
+          "distance": 0.2435130476951599,
+          "id": 1729362253
+        },
+        {
+          "distance": 0.2460954785346985,
+          "id": 1729357241
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729357305,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777631,
     "wof:name": "\"When invited to exhibit at the inaugural \"Elements\" silver show in Edinburgh…my memories of the Periodic Table hung in my science classroom…sparked the idea to use them as the basis for my piece, executed with a mixture of precision and freedom that I hope characterizes all my work.\"..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

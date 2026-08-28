@@ -28,6 +28,50 @@
       "taken": 1492805160,
       "taken_at": "Apr 21, 2017 8:06 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3224231004714966,
+          "id": 1729358873
+        },
+        {
+          "distance": 0.3278406858444214,
+          "id": 1729359475
+        },
+        {
+          "distance": 0.3307532072067261,
+          "id": 1729358873
+        },
+        {
+          "distance": 0.34178584814071655,
+          "id": 1729359475
+        },
+        {
+          "distance": 0.4006514549255371,
+          "id": 1729359163
+        },
+        {
+          "distance": 0.4062706232070923,
+          "id": 1729359163
+        },
+        {
+          "distance": 0.40730583667755127,
+          "id": 1729357867
+        },
+        {
+          "distance": 0.40761756896972656,
+          "id": 1729357917
+        },
+        {
+          "distance": 0.40829014778137207,
+          "id": 1729359091
+        },
+        {
+          "distance": 0.40850329399108887,
+          "id": 1763559385
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1729359581,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "The Arts and Crafts movement emerged in England in the 1880s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

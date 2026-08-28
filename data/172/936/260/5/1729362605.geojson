@@ -25,6 +25,50 @@
       "taken": 1375099020,
       "taken_at": "Jul 29, 2013 11:57 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19510620832443237,
+          "id": 1729362797
+        },
+        {
+          "distance": 0.19622117280960083,
+          "id": 1729362517
+        },
+        {
+          "distance": 0.21639961004257202,
+          "id": 1729362491
+        },
+        {
+          "distance": 0.21823549270629883,
+          "id": 1729362379
+        },
+        {
+          "distance": 0.2225046157836914,
+          "id": 1729362647
+        },
+        {
+          "distance": 0.23709964752197266,
+          "id": 1729362517
+        },
+        {
+          "distance": 0.2381616234779358,
+          "id": 1729363021
+        },
+        {
+          "distance": 0.23917561769485474,
+          "id": 1729358237
+        },
+        {
+          "distance": 0.24010270833969116,
+          "id": 1729362491
+        },
+        {
+          "distance": 0.24851000308990479,
+          "id": 1729362797
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362605,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "Photography owes a lot to early #plastics...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

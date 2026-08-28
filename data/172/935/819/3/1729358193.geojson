@@ -39,6 +39,50 @@
       "taken": 1526991900,
       "taken_at": "May 22, 2018 12:25 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24667954444885254,
+          "id": 1729361989
+        },
+        {
+          "distance": 0.28902095556259155,
+          "id": 1729361989
+        },
+        {
+          "distance": 0.2995362877845764,
+          "id": 1729359643
+        },
+        {
+          "distance": 0.3022797703742981,
+          "id": 1729360475
+        },
+        {
+          "distance": 0.3055092692375183,
+          "id": 1729359931
+        },
+        {
+          "distance": 0.31371235847473145,
+          "id": 1729359767
+        },
+        {
+          "distance": 0.3167601227760315,
+          "id": 1729358623
+        },
+        {
+          "distance": 0.3167601227760315,
+          "id": 1763558725
+        },
+        {
+          "distance": 0.3281903862953186,
+          "id": 1947424859
+        },
+        {
+          "distance": 0.3285192847251892,
+          "id": 1947424855
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729358193,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Introduced in 1947, the Lockheed L-749 Constellation was the first major postwar production version of the Constellation designed specifically for the commercial market...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -32,6 +32,50 @@
       "taken": 1680278820,
       "taken_at": "Mar 31, 2023 4:07 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1163325309753418,
+          "id": 1729355477
+        },
+        {
+          "distance": 0.11681503057479858,
+          "id": 1729360975
+        },
+        {
+          "distance": 0.11786144971847534,
+          "id": 1729355649
+        },
+        {
+          "distance": 0.12098568677902222,
+          "id": 1729358663
+        },
+        {
+          "distance": 0.12807315587997437,
+          "id": 1729355477
+        },
+        {
+          "distance": 0.12860840559005737,
+          "id": 1729360975
+        },
+        {
+          "distance": 0.1370181441307068,
+          "id": 1729358663
+        },
+        {
+          "distance": 0.1401652693748474,
+          "id": 1729355649
+        },
+        {
+          "distance": 0.1449146270751953,
+          "id": 1729357345
+        },
+        {
+          "distance": 0.1460566520690918,
+          "id": 1729361153
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1880151013,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777661,
     "wof:name": "Happy anniversary to our friends at The Pan Am Historical Foundation!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -30,6 +30,50 @@
       "taken": 1670575920,
       "taken_at": "Dec 09, 2022 8:52 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16212105751037598,
+          "id": 1729360861
+        },
+        {
+          "distance": 0.2521633505821228,
+          "id": 1729360861
+        },
+        {
+          "distance": 0.33414292335510254,
+          "id": 1729360185
+        },
+        {
+          "distance": 0.3401423692703247,
+          "id": 1729361299
+        },
+        {
+          "distance": 0.34376198053359985,
+          "id": 1729360141
+        },
+        {
+          "distance": 0.3449942469596863,
+          "id": 1729360223
+        },
+        {
+          "distance": 0.3449942469596863,
+          "id": 1763558637
+        },
+        {
+          "distance": 0.35721850395202637,
+          "id": 1763559633
+        },
+        {
+          "distance": 0.36324459314346313,
+          "id": 1729361273
+        },
+        {
+          "distance": 0.3648485541343689,
+          "id": 1729358023
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151281,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Ever wonder what airplane tickets looked like in the 1920s?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

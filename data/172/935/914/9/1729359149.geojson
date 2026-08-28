@@ -45,6 +45,50 @@
       "taken": 1503836700,
       "taken_at": "Aug 27, 2017 12:25 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20562529563903809,
+          "id": 1729360411
+        },
+        {
+          "distance": 0.20925503969192505,
+          "id": 1729359947
+        },
+        {
+          "distance": 0.21430879831314087,
+          "id": 1729360379
+        },
+        {
+          "distance": 0.2151065468788147,
+          "id": 1729356439
+        },
+        {
+          "distance": 0.21552062034606934,
+          "id": 1763558641
+        },
+        {
+          "distance": 0.21976077556610107,
+          "id": 1729361307
+        },
+        {
+          "distance": 0.22038602828979492,
+          "id": 1729361019
+        },
+        {
+          "distance": 0.22199082374572754,
+          "id": 1729356145
+        },
+        {
+          "distance": 0.22635191679000854,
+          "id": 1729355165
+        },
+        {
+          "distance": 0.22888952493667603,
+          "id": 1729356843
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -74,7 +118,7 @@
       }
     ],
     "wof:id": 1729359149,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "#Onthisday in 1954, the new Terminal Building at SFO was dedicated...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -91,5 +135,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -31,6 +31,50 @@
       "taken": 1616167560,
       "taken_at": "Mar 19, 2021 3:26 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.08043533563613892,
+          "id": 1763559205
+        },
+        {
+          "distance": 0.10011309385299683,
+          "id": 1763559245
+        },
+        {
+          "distance": 0.11518239974975586,
+          "id": 1763559433
+        },
+        {
+          "distance": 0.11684173345565796,
+          "id": 1763559463
+        },
+        {
+          "distance": 0.1323145031929016,
+          "id": 1763559205
+        },
+        {
+          "distance": 0.14040988683700562,
+          "id": 1763559245
+        },
+        {
+          "distance": 0.14339804649353027,
+          "id": 1763559433
+        },
+        {
+          "distance": 0.14946794509887695,
+          "id": 1763559463
+        },
+        {
+          "distance": 0.19148939847946167,
+          "id": 1763558851
+        },
+        {
+          "distance": 0.20332175493240356,
+          "id": 1763559121
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559227,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Before Glenn Curtiss (1878-1930) shifted his attention to aviation, he was one of the first manufacturers to design motorcycles that significantly improved on their bicycle heritage...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

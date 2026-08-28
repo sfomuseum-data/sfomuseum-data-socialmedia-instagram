@@ -29,6 +29,50 @@
       "taken": 1610470500,
       "taken_at": "Jan 12, 2021 4:55 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.25400590896606445,
+          "id": 1729358483
+        },
+        {
+          "distance": 0.2559177875518799,
+          "id": 1763559685
+        },
+        {
+          "distance": 0.2674522399902344,
+          "id": 1729357701
+        },
+        {
+          "distance": 0.2689913511276245,
+          "id": 1880151285
+        },
+        {
+          "distance": 0.2694072723388672,
+          "id": 1729356071
+        },
+        {
+          "distance": 0.27000176906585693,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.2727404236793518,
+          "id": 1729361499
+        },
+        {
+          "distance": 0.2727501392364502,
+          "id": 1729355529
+        },
+        {
+          "distance": 0.2746458649635315,
+          "id": 1729358483
+        },
+        {
+          "distance": 0.2748236060142517,
+          "id": 1763559105
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1763558909,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777659,
     "wof:name": "Using the language of cartography, “Strangerhood” by Lordy Rodriguez features maps depicting six iconic San Francisco neighborhoods reimagined as independent countries...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

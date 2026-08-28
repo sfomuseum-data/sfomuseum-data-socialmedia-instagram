@@ -25,6 +25,50 @@
       "taken": 1487438700,
       "taken_at": "Feb 18, 2017 5:25 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0042768120765686035,
+          "id": 1729357573
+        },
+        {
+          "distance": 0.0660896897315979,
+          "id": 1763558985
+        },
+        {
+          "distance": 0.1077737808227539,
+          "id": 1729357573
+        },
+        {
+          "distance": 0.12603837251663208,
+          "id": 1763558985
+        },
+        {
+          "distance": 0.1906055212020874,
+          "id": 1729356029
+        },
+        {
+          "distance": 0.19678395986557007,
+          "id": 1729360319
+        },
+        {
+          "distance": 0.1987174153327942,
+          "id": 1729356037
+        },
+        {
+          "distance": 0.204542338848114,
+          "id": 1729360513
+        },
+        {
+          "distance": 0.20472484827041626,
+          "id": 1729361271
+        },
+        {
+          "distance": 0.20510464906692505,
+          "id": 1880151611
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359809,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "In the early days of aviation, barnstorming was a popular entertainment event...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -44,6 +44,50 @@
       "taken": 1517852400,
       "taken_at": "Feb 05, 2018 5:40 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3348116874694824,
+          "id": 1729361759
+        },
+        {
+          "distance": 0.3886075019836426,
+          "id": 1729358591
+        },
+        {
+          "distance": 0.3967416286468506,
+          "id": 1880150945
+        },
+        {
+          "distance": 0.39849263429641724,
+          "id": 1947425007
+        },
+        {
+          "distance": 0.3986417055130005,
+          "id": 1729361849
+        },
+        {
+          "distance": 0.3994830846786499,
+          "id": 1729355387
+        },
+        {
+          "distance": 0.40011048316955566,
+          "id": 1729358723
+        },
+        {
+          "distance": 0.40131688117980957,
+          "id": 1729358759
+        },
+        {
+          "distance": 0.40237492322921753,
+          "id": 1729360601
+        },
+        {
+          "distance": 0.40470248460769653,
+          "id": 1729358357
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -73,7 +117,7 @@
       }
     ],
     "wof:id": 1729358593,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Fraternal organizations thrived in America in the nineteenth century...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -90,5 +134,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

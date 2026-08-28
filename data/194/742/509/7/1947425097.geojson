@@ -30,6 +30,50 @@
       "taken": 1709655720,
       "taken_at": "Mar 05, 2024 4:22 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1899208426475525,
+          "id": 1729359319
+        },
+        {
+          "distance": 0.1921062469482422,
+          "id": 1729355197
+        },
+        {
+          "distance": 0.19325047731399536,
+          "id": 1729357961
+        },
+        {
+          "distance": 0.19621872901916504,
+          "id": 1729360867
+        },
+        {
+          "distance": 0.22184091806411743,
+          "id": 1729360867
+        },
+        {
+          "distance": 0.22391003370285034,
+          "id": 1729357961
+        },
+        {
+          "distance": 0.22434687614440918,
+          "id": 1729359319
+        },
+        {
+          "distance": 0.22689050436019897,
+          "id": 1729355197
+        },
+        {
+          "distance": 0.2304266095161438,
+          "id": 1729359455
+        },
+        {
+          "distance": 0.24934571981430054,
+          "id": 1763559109
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1947425097,
-    "wof:lastmodified": 1733175325,
+    "wof:lastmodified": 1787777664,
     "wof:name": "In the 1930s, the CAB (Civil Aeronautics Board) awarded Pan American World Airways (PAA) exclusive rights to serve international destinations...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

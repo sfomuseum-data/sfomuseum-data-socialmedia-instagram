@@ -31,6 +31,50 @@
       "taken": 1664359800,
       "taken_at": "Sep 28, 2022 10:10 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1301174759864807,
+          "id": 1880151379
+        },
+        {
+          "distance": 0.153924822807312,
+          "id": 1880151497
+        },
+        {
+          "distance": 0.153924822807312,
+          "id": 1880151447
+        },
+        {
+          "distance": 0.16897821426391602,
+          "id": 1880151379
+        },
+        {
+          "distance": 0.1692858338356018,
+          "id": 1880151115
+        },
+        {
+          "distance": 0.1774582862854004,
+          "id": 1880151187
+        },
+        {
+          "distance": 0.18372392654418945,
+          "id": 1880151115
+        },
+        {
+          "distance": 0.19769978523254395,
+          "id": 1729357337
+        },
+        {
+          "distance": 0.19940918684005737,
+          "id": 1880151305
+        },
+        {
+          "distance": 0.20016396045684814,
+          "id": 1947425291
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151439,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "In 1925, Dorr Bothwell became a charter member of the San Francisco Society of Women Artists...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

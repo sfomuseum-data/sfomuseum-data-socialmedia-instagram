@@ -27,6 +27,50 @@
       "taken": 1708966020,
       "taken_at": "Feb 26, 2024 4:47 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.26071107387542725,
+          "id": 1729360641
+        },
+        {
+          "distance": 0.2992509603500366,
+          "id": 1729361057
+        },
+        {
+          "distance": 0.30601978302001953,
+          "id": 1880150923
+        },
+        {
+          "distance": 0.3112637996673584,
+          "id": 1880150923
+        },
+        {
+          "distance": 0.31168657541275024,
+          "id": 1729361057
+        },
+        {
+          "distance": 0.3146555423736572,
+          "id": 1729360641
+        },
+        {
+          "distance": 0.3154335021972656,
+          "id": 1729355377
+        },
+        {
+          "distance": 0.3194332718849182,
+          "id": 1729359611
+        },
+        {
+          "distance": 0.3226533532142639,
+          "id": 1729359709
+        },
+        {
+          "distance": 0.32468533515930176,
+          "id": 1729359833
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947425107,
-    "wof:lastmodified": 1733175326,
+    "wof:lastmodified": 1787777664,
     "wof:name": "This Pan American Airways poster from circa 1939 by the artist Frank McIntosh advertises travel from San Francisco to Hawaii on a Boeing 314...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

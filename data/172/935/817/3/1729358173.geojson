@@ -40,6 +40,50 @@
       "taken": 1527591300,
       "taken_at": "May 29, 2018 10:55 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0910501480102539,
+          "id": 1729358025
+        },
+        {
+          "distance": 0.10701853036880493,
+          "id": 1729358025
+        },
+        {
+          "distance": 0.11064118146896362,
+          "id": 1729358301
+        },
+        {
+          "distance": 0.11126697063446045,
+          "id": 1729361627
+        },
+        {
+          "distance": 0.1137661337852478,
+          "id": 1729358485
+        },
+        {
+          "distance": 0.11449486017227173,
+          "id": 1729358399
+        },
+        {
+          "distance": 0.11981695890426636,
+          "id": 1729358149
+        },
+        {
+          "distance": 0.14097094535827637,
+          "id": 1729358399
+        },
+        {
+          "distance": 0.14217454195022583,
+          "id": 1729358149
+        },
+        {
+          "distance": 0.14354729652404785,
+          "id": 1729358485
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729358173,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Seto potters first achieved production of true porcelain during the opening decades of the 1800s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -26,6 +26,50 @@
       "taken": 1484905260,
       "taken_at": "Jan 20, 2017, 9:41 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.00002300739288330078,
+          "id": 1763558657
+        },
+        {
+          "distance": 0.11042124032974243,
+          "id": 1763558657
+        },
+        {
+          "distance": 0.13588613271713257,
+          "id": 1729358929
+        },
+        {
+          "distance": 0.14211881160736084,
+          "id": 1763558705
+        },
+        {
+          "distance": 0.1754441261291504,
+          "id": 1729358929
+        },
+        {
+          "distance": 0.17945551872253418,
+          "id": 1763558705
+        },
+        {
+          "distance": 0.18787097930908203,
+          "id": 1729355843
+        },
+        {
+          "distance": 0.1882476806640625,
+          "id": 1729358663
+        },
+        {
+          "distance": 0.19099903106689453,
+          "id": 1729355649
+        },
+        {
+          "distance": 0.19100850820541382,
+          "id": 1729358851
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1729359895,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777637,
     "wof:name": "United has announced that they will retire their Boeing 747 fleet by the end of the year...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

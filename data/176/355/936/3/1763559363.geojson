@@ -31,6 +31,50 @@
       "taken": 1635179100,
       "taken_at": "Oct 25, 2021 4:25 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.22786855697631836,
+          "id": 1763559431
+        },
+        {
+          "distance": 0.2518634796142578,
+          "id": 1729360823
+        },
+        {
+          "distance": 0.25260424613952637,
+          "id": 1763559295
+        },
+        {
+          "distance": 0.2565615177154541,
+          "id": 1763559295
+        },
+        {
+          "distance": 0.26407694816589355,
+          "id": 1763559395
+        },
+        {
+          "distance": 0.26930588483810425,
+          "id": 1763559431
+        },
+        {
+          "distance": 0.2728056311607361,
+          "id": 1729355937
+        },
+        {
+          "distance": 0.2731437087059021,
+          "id": 1947425257
+        },
+        {
+          "distance": 0.2759472727775574,
+          "id": 1947425291
+        },
+        {
+          "distance": 0.2770170569419861,
+          "id": 1729359343
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559363,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Intrigued by topology—the study of geometric properties that do not change when you stretch a shape— Bay Area physicist Cliff Stoll began making Klein bottles...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

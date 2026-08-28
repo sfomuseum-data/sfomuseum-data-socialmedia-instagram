@@ -28,6 +28,50 @@
       "taken": 1698681480,
       "taken_at": "Oct 30, 2023 3:58 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.04850113391876221,
+          "id": 1880151449
+        },
+        {
+          "distance": 0.05507272481918335,
+          "id": 1729361525
+        },
+        {
+          "distance": 0.0936327576637268,
+          "id": 1729361525
+        },
+        {
+          "distance": 0.11678200960159302,
+          "id": 1880151449
+        },
+        {
+          "distance": 0.14588195085525513,
+          "id": 1880151097
+        },
+        {
+          "distance": 0.14920461177825928,
+          "id": 1729359497
+        },
+        {
+          "distance": 0.19271600246429443,
+          "id": 1729359719
+        },
+        {
+          "distance": 0.19466054439544678,
+          "id": 1763559223
+        },
+        {
+          "distance": 0.1957833170890808,
+          "id": 1729361593
+        },
+        {
+          "distance": 0.19791477918624878,
+          "id": 1729360619
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1947425253,
-    "wof:lastmodified": 1733175330,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Many objects preserved in museums are just that, preserved for future generations...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -70,5 +114,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

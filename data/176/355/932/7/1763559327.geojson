@@ -28,6 +28,50 @@
       "taken": 1636735800,
       "taken_at": "Nov 12, 2021 4:50 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0037415027618408203,
+          "id": 1763559487
+        },
+        {
+          "distance": 0.04908573627471924,
+          "id": 1947425117
+        },
+        {
+          "distance": 0.08207106590270996,
+          "id": 1763559487
+        },
+        {
+          "distance": 0.09145689010620117,
+          "id": 1947425117
+        },
+        {
+          "distance": 0.13087058067321777,
+          "id": 1729359455
+        },
+        {
+          "distance": 0.15402495861053467,
+          "id": 1729361549
+        },
+        {
+          "distance": 0.15528017282485962,
+          "id": 1729359455
+        },
+        {
+          "distance": 0.1804875135421753,
+          "id": 1729361543
+        },
+        {
+          "distance": 0.1828269362449646,
+          "id": 1729361531
+        },
+        {
+          "distance": 0.18373388051986694,
+          "id": 1729355323
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1763559327,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "#Onthisday in 1936, the San Francisco – Oakland Bay Bridge opened to the public...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

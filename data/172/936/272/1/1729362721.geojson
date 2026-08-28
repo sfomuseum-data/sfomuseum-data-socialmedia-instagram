@@ -25,6 +25,50 @@
       "taken": 1367228940,
       "taken_at": "Apr 29, 2013 9:49 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16707760095596313,
+          "id": 1729362373
+        },
+        {
+          "distance": 0.18707400560379028,
+          "id": 1729362617
+        },
+        {
+          "distance": 0.2001083493232727,
+          "id": 1729362475
+        },
+        {
+          "distance": 0.20021778345108032,
+          "id": 1729362373
+        },
+        {
+          "distance": 0.20268923044204712,
+          "id": 1729362475
+        },
+        {
+          "distance": 0.21803289651870728,
+          "id": 1729362229
+        },
+        {
+          "distance": 0.22364866733551025,
+          "id": 1729362617
+        },
+        {
+          "distance": 0.23261600732803345,
+          "id": 1729362655
+        },
+        {
+          "distance": 0.2344619631767273,
+          "id": 1729362817
+        },
+        {
+          "distance": 0.23528248071670532,
+          "id": 1729362993
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362721,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "Disassembling and packing the cutaway models for transport back to our facility...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

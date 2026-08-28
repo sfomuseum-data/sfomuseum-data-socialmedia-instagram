@@ -30,6 +30,50 @@
       "taken": 1616775600,
       "taken_at": "Mar 26, 2021 4:20 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.26885437965393066,
+          "id": 1763559237
+        },
+        {
+          "distance": 0.27049797773361206,
+          "id": 1763559251
+        },
+        {
+          "distance": 0.2980117201805115,
+          "id": 1729363055
+        },
+        {
+          "distance": 0.30971264839172363,
+          "id": 1763559237
+        },
+        {
+          "distance": 0.31027573347091675,
+          "id": 1729363055
+        },
+        {
+          "distance": 0.31850743293762207,
+          "id": 1763559251
+        },
+        {
+          "distance": 0.3220961093902588,
+          "id": 1763559111
+        },
+        {
+          "distance": 0.34667354822158813,
+          "id": 1763559169
+        },
+        {
+          "distance": 0.3503873944282532,
+          "id": 1763559169
+        },
+        {
+          "distance": 0.3524324297904968,
+          "id": 1729356835
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559219,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "The first wave of instrumental surf music captivated young people all across the United States...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

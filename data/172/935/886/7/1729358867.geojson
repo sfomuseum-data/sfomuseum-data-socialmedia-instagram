@@ -51,6 +51,50 @@
       "taken": 1512303300,
       "taken_at": "Dec 03, 2017 12:15 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.36742526292800903,
+          "id": 1729356955
+        },
+        {
+          "distance": 0.36983591318130493,
+          "id": 1729361809
+        },
+        {
+          "distance": 0.3705458641052246,
+          "id": 1729355313
+        },
+        {
+          "distance": 0.3732335567474365,
+          "id": 1729361325
+        },
+        {
+          "distance": 0.3787190318107605,
+          "id": 1763558729
+        },
+        {
+          "distance": 0.3787190318107605,
+          "id": 1729358233
+        },
+        {
+          "distance": 0.3824496269226074,
+          "id": 1729356191
+        },
+        {
+          "distance": 0.3845817446708679,
+          "id": 1729355613
+        },
+        {
+          "distance": 0.3855336308479309,
+          "id": 1729356883
+        },
+        {
+          "distance": 0.38819438219070435,
+          "id": 1729360387
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -80,7 +124,7 @@
       }
     ],
     "wof:id": 1729358867,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Born in England in 1964, Annu Palakunnathu Matthew spent her teenage years living in India before moving to the United States, where she currently resides...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -97,5 +141,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

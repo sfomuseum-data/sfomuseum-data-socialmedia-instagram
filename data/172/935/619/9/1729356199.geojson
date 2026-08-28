@@ -32,6 +32,50 @@
       "taken": 1565951520,
       "taken_at": "Aug 16, 2019, 10:32 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16798007488250732,
+          "id": 1729355591
+        },
+        {
+          "distance": 0.19467473030090332,
+          "id": 1729355591
+        },
+        {
+          "distance": 0.23215526342391968,
+          "id": 1729356117
+        },
+        {
+          "distance": 0.2661430835723877,
+          "id": 1729356117
+        },
+        {
+          "distance": 0.2988882064819336,
+          "id": 1729355485
+        },
+        {
+          "distance": 0.3511895537376404,
+          "id": 1729356169
+        },
+        {
+          "distance": 0.36193716526031494,
+          "id": 1729355423
+        },
+        {
+          "distance": 0.36321908235549927,
+          "id": 1729356151
+        },
+        {
+          "distance": 0.36420589685440063,
+          "id": 1729356101
+        },
+        {
+          "distance": 0.37266916036605835,
+          "id": 1729355485
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729356199,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777628,
     "wof:name": "Our newest exhibition is now on view!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

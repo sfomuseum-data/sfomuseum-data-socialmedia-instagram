@@ -25,6 +25,50 @@
       "taken": 1553857860,
       "taken_at": "Mar 29, 2019 11:11 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13097268342971802,
+          "id": 1729358319
+        },
+        {
+          "distance": 0.13745099306106567,
+          "id": 1729357345
+        },
+        {
+          "distance": 0.13803768157958984,
+          "id": 1729358319
+        },
+        {
+          "distance": 0.14352649450302124,
+          "id": 1729356033
+        },
+        {
+          "distance": 0.1446043848991394,
+          "id": 1729360469
+        },
+        {
+          "distance": 0.14854151010513306,
+          "id": 1729356033
+        },
+        {
+          "distance": 0.15330898761749268,
+          "id": 1729357345
+        },
+        {
+          "distance": 0.16069751977920532,
+          "id": 1729359569
+        },
+        {
+          "distance": 0.16413390636444092,
+          "id": 1729357061
+        },
+        {
+          "distance": 0.16496461629867554,
+          "id": 1729359569
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729356753,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Thai Airways International was founded #onthisday in 1960 as a joint venture between SAS (Scandinavian Airlines System), the flag carrier of Denmark, Norway, and Sweden, and Thai Airways Company (TAC), Thailand's flag carrier, to expand the Thai aviation industry beyond Asia...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

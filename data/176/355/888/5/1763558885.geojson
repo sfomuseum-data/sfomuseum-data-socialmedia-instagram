@@ -29,6 +29,50 @@
       "taken": 1611244140,
       "taken_at": "Jan 21, 2021 3:49 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19684475660324097,
+          "id": 1763559067
+        },
+        {
+          "distance": 0.1984647512435913,
+          "id": 1763559177
+        },
+        {
+          "distance": 0.20012474060058594,
+          "id": 1763559221
+        },
+        {
+          "distance": 0.20518416166305542,
+          "id": 1763558863
+        },
+        {
+          "distance": 0.20837515592575073,
+          "id": 1763559231
+        },
+        {
+          "distance": 0.20941543579101562,
+          "id": 1763559067
+        },
+        {
+          "distance": 0.2107785940170288,
+          "id": 1763559221
+        },
+        {
+          "distance": 0.21869373321533203,
+          "id": 1763558863
+        },
+        {
+          "distance": 0.22092342376708984,
+          "id": 1763559177
+        },
+        {
+          "distance": 0.25556641817092896,
+          "id": 1763559231
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1763558885,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777659,
     "wof:name": "Gas-heated curling irons were commonplace at the turn of the twentieth century...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

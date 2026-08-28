@@ -25,6 +25,50 @@
       "taken": 1462530840,
       "taken_at": "May 06, 2016 10:34 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17770522832870483,
+          "id": 1729360957
+        },
+        {
+          "distance": 0.18763196468353271,
+          "id": 1729360741
+        },
+        {
+          "distance": 0.1900985836982727,
+          "id": 1729360957
+        },
+        {
+          "distance": 0.24526244401931763,
+          "id": 1729360741
+        },
+        {
+          "distance": 0.26266855001449585,
+          "id": 1729361309
+        },
+        {
+          "distance": 0.2660502791404724,
+          "id": 1729357381
+        },
+        {
+          "distance": 0.2685352563858032,
+          "id": 1729357357
+        },
+        {
+          "distance": 0.2697904109954834,
+          "id": 1729357363
+        },
+        {
+          "distance": 0.27387702465057373,
+          "id": 1729358133
+        },
+        {
+          "distance": 0.2868881821632385,
+          "id": 1729357955
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360747,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "These Pan American service pins feature the company's old winged globe logo...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

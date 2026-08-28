@@ -32,6 +32,50 @@
       "taken": 1601305140,
       "taken_at": "Sep 28, 2020, 2:59 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19594991207122803,
+          "id": 1729355039
+        },
+        {
+          "distance": 0.21413618326187134,
+          "id": 1729355081
+        },
+        {
+          "distance": 0.21947520971298218,
+          "id": 1729355021
+        },
+        {
+          "distance": 0.22284150123596191,
+          "id": 1729355077
+        },
+        {
+          "distance": 0.232988178730011,
+          "id": 1729355021
+        },
+        {
+          "distance": 0.23304015398025513,
+          "id": 1729355069
+        },
+        {
+          "distance": 0.25300145149230957,
+          "id": 1729355039
+        },
+        {
+          "distance": 0.258611798286438,
+          "id": 1729357567
+        },
+        {
+          "distance": 0.2607657313346863,
+          "id": 1729357567
+        },
+        {
+          "distance": 0.2704901099205017,
+          "id": 1729355081
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729355051,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777614,
     "wof:name": "During the 1850s, the Meriden Britannia Company of Meriden, Connecticut, perfected mass-manufacturing techniques for electroplating metal items with silver plate...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

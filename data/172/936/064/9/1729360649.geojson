@@ -25,6 +25,50 @@
       "taken": 1464959340,
       "taken_at": "Jun 03, 2016 1:09 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.02514958381652832,
+          "id": 1729355323
+        },
+        {
+          "distance": 0.1289423108100891,
+          "id": 1729355323
+        },
+        {
+          "distance": 0.1920785903930664,
+          "id": 1729361531
+        },
+        {
+          "distance": 0.19468152523040771,
+          "id": 1763559487
+        },
+        {
+          "distance": 0.19535106420516968,
+          "id": 1763559327
+        },
+        {
+          "distance": 0.20165836811065674,
+          "id": 1947424925
+        },
+        {
+          "distance": 0.21646648645401,
+          "id": 1729359455
+        },
+        {
+          "distance": 0.2301892638206482,
+          "id": 1729361569
+        },
+        {
+          "distance": 0.23068022727966309,
+          "id": 1729355329
+        },
+        {
+          "distance": 0.2308049201965332,
+          "id": 1947424925
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360649,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Have you ever taken a ride on one of San Francisco's historic cable cars?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

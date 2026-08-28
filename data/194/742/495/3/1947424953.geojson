@@ -27,6 +27,50 @@
       "taken": 1720099140,
       "taken_at": "Jul 04, 2024 1:19 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12679630517959595,
+          "id": 1729358851
+        },
+        {
+          "distance": 0.1288067102432251,
+          "id": 1729360005
+        },
+        {
+          "distance": 0.15732407569885254,
+          "id": 1763558959
+        },
+        {
+          "distance": 0.1577187180519104,
+          "id": 1729357293
+        },
+        {
+          "distance": 0.15823876857757568,
+          "id": 1729355327
+        },
+        {
+          "distance": 0.15960079431533813,
+          "id": 1729358851
+        },
+        {
+          "distance": 0.1610286831855774,
+          "id": 1729358863
+        },
+        {
+          "distance": 0.16122084856033325,
+          "id": 1729357215
+        },
+        {
+          "distance": 0.16361582279205322,
+          "id": 1729361127
+        },
+        {
+          "distance": 0.16769951581954956,
+          "id": 1729355649
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947424953,
-    "wof:lastmodified": 1733175321,
+    "wof:lastmodified": 1787777664,
     "wof:name": "The Boeing 747SP (Special Performance) took off on its maiden flight on July 4, 1975...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

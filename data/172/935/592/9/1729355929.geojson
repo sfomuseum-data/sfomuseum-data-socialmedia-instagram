@@ -32,6 +32,50 @@
       "taken": 1572541080,
       "taken_at": "Oct 31, 2019 4:58 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09062397480010986,
+          "id": 1729356307
+        },
+        {
+          "distance": 0.11361634731292725,
+          "id": 1729356063
+        },
+        {
+          "distance": 0.14397412538528442,
+          "id": 1729356433
+        },
+        {
+          "distance": 0.16098856925964355,
+          "id": 1729356181
+        },
+        {
+          "distance": 0.16099101305007935,
+          "id": 1729356211
+        },
+        {
+          "distance": 0.16797351837158203,
+          "id": 1729355917
+        },
+        {
+          "distance": 0.16890841722488403,
+          "id": 1729356307
+        },
+        {
+          "distance": 0.17072510719299316,
+          "id": 1729356241
+        },
+        {
+          "distance": 0.17075467109680176,
+          "id": 1729356045
+        },
+        {
+          "distance": 0.17834198474884033,
+          "id": 1729356461
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729355929,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777627,
     "wof:name": "Bees, wasps, and ants all belong to the order Hymenoptera, meaning membranous wings...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

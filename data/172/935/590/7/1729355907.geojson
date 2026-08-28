@@ -36,6 +36,50 @@
       "taken": 1573142400,
       "taken_at": "Nov 07, 2019 4:00 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12342679500579834,
+          "id": 1729361087
+        },
+        {
+          "distance": 0.13908112049102783,
+          "id": 1729357863
+        },
+        {
+          "distance": 0.2001955509185791,
+          "id": 1729357863
+        },
+        {
+          "distance": 0.21168720722198486,
+          "id": 1729361087
+        },
+        {
+          "distance": 0.25200074911117554,
+          "id": 1729355393
+        },
+        {
+          "distance": 0.27081429958343506,
+          "id": 1763559233
+        },
+        {
+          "distance": 0.281965434551239,
+          "id": 1729359515
+        },
+        {
+          "distance": 0.28227698802948,
+          "id": 1729357547
+        },
+        {
+          "distance": 0.28285807371139526,
+          "id": 1729356843
+        },
+        {
+          "distance": 0.28758764266967773,
+          "id": 1729359805
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729355907,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777627,
     "wof:name": "Midway Atoll, also called Midway Island, is part of the territory now called the United States Minor Outlying Islands...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

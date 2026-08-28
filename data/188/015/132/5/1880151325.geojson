@@ -31,6 +31,50 @@
       "taken": 1668510660,
       "taken_at": "Nov 15, 2022 11:11 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14534991979599,
+          "id": 1763559323
+        },
+        {
+          "distance": 0.14733529090881348,
+          "id": 1763559323
+        },
+        {
+          "distance": 0.2038029432296753,
+          "id": 1729361797
+        },
+        {
+          "distance": 0.24317878484725952,
+          "id": 1729356755
+        },
+        {
+          "distance": 0.2504241466522217,
+          "id": 1880151299
+        },
+        {
+          "distance": 0.25409549474716187,
+          "id": 1729361597
+        },
+        {
+          "distance": 0.25657153129577637,
+          "id": 1947424799
+        },
+        {
+          "distance": 0.257160484790802,
+          "id": 1880150939
+        },
+        {
+          "distance": 0.25986164808273315,
+          "id": 1947425185
+        },
+        {
+          "distance": 0.2630155682563782,
+          "id": 1729362959
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151325,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Happy birthday to the late Wayne Thiebaud, who passed last year at the age of 101...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

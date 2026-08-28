@@ -25,6 +25,50 @@
       "taken": 1337354820,
       "taken_at": "May 18, 2012 3:27 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13589775562286377,
+          "id": 1729362905
+        },
+        {
+          "distance": 0.1438584327697754,
+          "id": 1729356403
+        },
+        {
+          "distance": 0.14864587783813477,
+          "id": 1729361535
+        },
+        {
+          "distance": 0.15348201990127563,
+          "id": 1729356403
+        },
+        {
+          "distance": 0.15643930435180664,
+          "id": 1729356411
+        },
+        {
+          "distance": 0.17401498556137085,
+          "id": 1729356411
+        },
+        {
+          "distance": 0.18293023109436035,
+          "id": 1729362905
+        },
+        {
+          "distance": 0.18730688095092773,
+          "id": 1729362737
+        },
+        {
+          "distance": 0.19367432594299316,
+          "id": 1729361535
+        },
+        {
+          "distance": 0.19389700889587402,
+          "id": 1729362527
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729363009,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777657,
     "wof:name": "If you're not an #aviation engineer or #AVgeek, this could look modern...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

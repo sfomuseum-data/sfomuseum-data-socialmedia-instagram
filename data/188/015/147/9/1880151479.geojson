@@ -30,6 +30,50 @@
       "taken": 1661792400,
       "taken_at": "Aug 29, 2022 5:00 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.30847829580307007,
+          "id": 1763559557
+        },
+        {
+          "distance": 0.34131699800491333,
+          "id": 1729359907
+        },
+        {
+          "distance": 0.3446788787841797,
+          "id": 1763559483
+        },
+        {
+          "distance": 0.3460231423377991,
+          "id": 1763559557
+        },
+        {
+          "distance": 0.36112403869628906,
+          "id": 1763559191
+        },
+        {
+          "distance": 0.3632364869117737,
+          "id": 1729359907
+        },
+        {
+          "distance": 0.368552565574646,
+          "id": 1729361315
+        },
+        {
+          "distance": 0.3685567378997803,
+          "id": 1729357085
+        },
+        {
+          "distance": 0.3720710277557373,
+          "id": 1729361125
+        },
+        {
+          "distance": 0.37716054916381836,
+          "id": 1729360193
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151479,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Don’t leave a condensation ring behind, put a coaster under your cold drink!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

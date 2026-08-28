@@ -38,6 +38,50 @@
       "taken": 1522755060,
       "taken_at": "Apr 03, 2018 11:31 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1032910943031311,
+          "id": 1729358485
+        },
+        {
+          "distance": 0.10840445756912231,
+          "id": 1729358149
+        },
+        {
+          "distance": 0.11477506160736084,
+          "id": 1729358173
+        },
+        {
+          "distance": 0.12336897850036621,
+          "id": 1729358445
+        },
+        {
+          "distance": 0.12377077341079712,
+          "id": 1729358591
+        },
+        {
+          "distance": 0.12476956844329834,
+          "id": 1729358445
+        },
+        {
+          "distance": 0.13676756620407104,
+          "id": 1729357773
+        },
+        {
+          "distance": 0.14424526691436768,
+          "id": 1729357773
+        },
+        {
+          "distance": 0.1447305679321289,
+          "id": 1729358149
+        },
+        {
+          "distance": 0.14519953727722168,
+          "id": 1729358485
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729358399,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "The Mikawa kilns, located in central Japan, began producing unique versions of maneki neko by the early twentieth century...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

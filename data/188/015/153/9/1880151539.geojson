@@ -32,6 +32,50 @@
       "taken": 1659433980,
       "taken_at": "Aug 02, 2022 9:53 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09552454948425293,
+          "id": 1880150969
+        },
+        {
+          "distance": 0.09849423170089722,
+          "id": 1880151023
+        },
+        {
+          "distance": 0.11663860082626343,
+          "id": 1880151475
+        },
+        {
+          "distance": 0.13742464780807495,
+          "id": 1880150969
+        },
+        {
+          "distance": 0.14101934432983398,
+          "id": 1880151117
+        },
+        {
+          "distance": 0.14101934432983398,
+          "id": 1880151227
+        },
+        {
+          "distance": 0.14313048124313354,
+          "id": 1880151023
+        },
+        {
+          "distance": 0.14604324102401733,
+          "id": 1880151227
+        },
+        {
+          "distance": 0.14604324102401733,
+          "id": 1880151117
+        },
+        {
+          "distance": 0.1516200304031372,
+          "id": 1880151475
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1880151539,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Innovative combinations of natural materials were at the core of the success of Sausalito, California’s @heathceramics, started by Edith Heath (1911–2005) and her husband Brian Heath (1913–2001)...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

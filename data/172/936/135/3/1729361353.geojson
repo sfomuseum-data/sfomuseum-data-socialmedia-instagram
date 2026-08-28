@@ -25,6 +25,50 @@
       "taken": 1447851420,
       "taken_at": "Nov 18, 2015 12:57 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18228203058242798,
+          "id": 1729361017
+        },
+        {
+          "distance": 0.18969380855560303,
+          "id": 1729360365
+        },
+        {
+          "distance": 0.2019858956336975,
+          "id": 1729355335
+        },
+        {
+          "distance": 0.20201325416564941,
+          "id": 1763558845
+        },
+        {
+          "distance": 0.20330685377120972,
+          "id": 1729360551
+        },
+        {
+          "distance": 0.21342766284942627,
+          "id": 1729361017
+        },
+        {
+          "distance": 0.2171207070350647,
+          "id": 1729361795
+        },
+        {
+          "distance": 0.22263693809509277,
+          "id": 1763558845
+        },
+        {
+          "distance": 0.22393858432769775,
+          "id": 1729355335
+        },
+        {
+          "distance": 0.22462248802185059,
+          "id": 1729355261
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361353,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "In 1965, Pacific Air Lines leased two Boeing 727 jet airliners and placed orders for four more...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

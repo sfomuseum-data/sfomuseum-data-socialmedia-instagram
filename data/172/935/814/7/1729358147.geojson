@@ -36,6 +36,50 @@
       "taken": 1527864300,
       "taken_at": "Jun 01, 2018 2:45 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1638941764831543,
+          "id": 1729358737
+        },
+        {
+          "distance": 0.16489267349243164,
+          "id": 1729358693
+        },
+        {
+          "distance": 0.17044585943222046,
+          "id": 1729358711
+        },
+        {
+          "distance": 0.18090713024139404,
+          "id": 1729357793
+        },
+        {
+          "distance": 0.19785207509994507,
+          "id": 1729358737
+        },
+        {
+          "distance": 0.2000114917755127,
+          "id": 1729358735
+        },
+        {
+          "distance": 0.21352213621139526,
+          "id": 1729358711
+        },
+        {
+          "distance": 0.2252206802368164,
+          "id": 1729358353
+        },
+        {
+          "distance": 0.22608578205108643,
+          "id": 1729357723
+        },
+        {
+          "distance": 0.2293664813041687,
+          "id": 1729357723
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729358147,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "At the saloon?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

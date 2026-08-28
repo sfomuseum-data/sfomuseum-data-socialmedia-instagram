@@ -25,6 +25,50 @@
       "taken": 1342434780,
       "taken_at": "Jul 16, 2012 10:33 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23993420600891113,
+          "id": 1729362877
+        },
+        {
+          "distance": 0.30011022090911865,
+          "id": 1729362751
+        },
+        {
+          "distance": 0.3031914234161377,
+          "id": 1729362877
+        },
+        {
+          "distance": 0.3088337182998657,
+          "id": 1729362635
+        },
+        {
+          "distance": 0.3158041834831238,
+          "id": 1729362999
+        },
+        {
+          "distance": 0.31990140676498413,
+          "id": 1729362525
+        },
+        {
+          "distance": 0.3236544132232666,
+          "id": 1729362129
+        },
+        {
+          "distance": 0.32839345932006836,
+          "id": 1729362749
+        },
+        {
+          "distance": 0.3347633481025696,
+          "id": 1729362551
+        },
+        {
+          "distance": 0.3389681577682495,
+          "id": 1729362163
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362967,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777657,
     "wof:name": "1946 condiment set by London's Central School of Arts \u0026 Crafts..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

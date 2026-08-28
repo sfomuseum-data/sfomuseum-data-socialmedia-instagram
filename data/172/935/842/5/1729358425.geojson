@@ -26,6 +26,50 @@
       "taken": 1521806880,
       "taken_at": "Mar 23, 2018, 12:08 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1450149416923523,
+          "id": 1729358411
+        },
+        {
+          "distance": 0.1671684980392456,
+          "id": 1729358411
+        },
+        {
+          "distance": 0.2143009901046753,
+          "id": 1763558737
+        },
+        {
+          "distance": 0.2143009901046753,
+          "id": 1729358417
+        },
+        {
+          "distance": 0.2286788821220398,
+          "id": 1729358735
+        },
+        {
+          "distance": 0.2398592233657837,
+          "id": 1729357723
+        },
+        {
+          "distance": 0.24038678407669067,
+          "id": 1729358737
+        },
+        {
+          "distance": 0.24189335107803345,
+          "id": 1763558737
+        },
+        {
+          "distance": 0.24189335107803345,
+          "id": 1729358417
+        },
+        {
+          "distance": 0.25815993547439575,
+          "id": 1729357723
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1729358425,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Allwin games were produced in large numbers throughout Europe for more than half a century...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

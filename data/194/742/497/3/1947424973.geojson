@@ -28,6 +28,50 @@
       "taken": 1720792740,
       "taken_at": "Jul 12, 2024 1:59 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.04177391529083252,
+          "id": 1947424915
+        },
+        {
+          "distance": 0.08988696336746216,
+          "id": 1947424899
+        },
+        {
+          "distance": 0.10213160514831543,
+          "id": 1947424899
+        },
+        {
+          "distance": 0.10569649934768677,
+          "id": 1947424915
+        },
+        {
+          "distance": 0.24844974279403687,
+          "id": 1947425087
+        },
+        {
+          "distance": 0.25348150730133057,
+          "id": 1947425291
+        },
+        {
+          "distance": 0.2569715976715088,
+          "id": 1729356635
+        },
+        {
+          "distance": 0.2592214345932007,
+          "id": 1729360667
+        },
+        {
+          "distance": 0.2621455192565918,
+          "id": 1947424873
+        },
+        {
+          "distance": 0.2673335671424866,
+          "id": 1729355059
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1947424973,
-    "wof:lastmodified": 1733175322,
+    "wof:lastmodified": 1787777664,
     "wof:name": "During the postwar era, Pan American World Airways expanded its services throughout the globe and replaced its flying boat fleet with the latest land-based airliners...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -70,5 +114,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

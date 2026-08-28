@@ -30,6 +30,50 @@
       "taken": 1665652740,
       "taken_at": "Oct 13, 2022 9:19 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09080332517623901,
+          "id": 1880151425
+        },
+        {
+          "distance": 0.09367907047271729,
+          "id": 1880151383
+        },
+        {
+          "distance": 0.12811285257339478,
+          "id": 1880151425
+        },
+        {
+          "distance": 0.17317253351211548,
+          "id": 1880151383
+        },
+        {
+          "distance": 0.18781393766403198,
+          "id": 1880151305
+        },
+        {
+          "distance": 0.18815433979034424,
+          "id": 1729356997
+        },
+        {
+          "distance": 0.1993100643157959,
+          "id": 1729357229
+        },
+        {
+          "distance": 0.2015286087989807,
+          "id": 1763558803
+        },
+        {
+          "distance": 0.2015286087989807,
+          "id": 1729357165
+        },
+        {
+          "distance": 0.21079784631729126,
+          "id": 1729357239
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151405,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Tiffany \u0026 Company was America’s most distinguished artistic goods manufacturer and one of the first to adopt Japanese-influenced decoration, which was lauded as far as Europe and Japan...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

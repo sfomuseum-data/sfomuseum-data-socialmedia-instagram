@@ -29,6 +29,50 @@
       "taken": 1728402600,
       "taken_at": "Oct 08, 2024 3:50 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.22637563943862915,
+          "id": 1729357139
+        },
+        {
+          "distance": 0.23304462432861328,
+          "id": 1763559407
+        },
+        {
+          "distance": 0.2366378903388977,
+          "id": 1729355475
+        },
+        {
+          "distance": 0.24844074249267578,
+          "id": 1880151737
+        },
+        {
+          "distance": 0.25026410818099976,
+          "id": 1729355475
+        },
+        {
+          "distance": 0.265386164188385,
+          "id": 1880151677
+        },
+        {
+          "distance": 0.2656102180480957,
+          "id": 1729357261
+        },
+        {
+          "distance": 0.266072154045105,
+          "id": 1880151557
+        },
+        {
+          "distance": 0.26758819818496704,
+          "id": 1763558925
+        },
+        {
+          "distance": 0.2686920762062073,
+          "id": 1729355461
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1947424841,
-    "wof:lastmodified": 1733175318,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Manuel Neri was a prominent member in the San Francisco Bay Area figurative movement in the 1950s and 1960s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

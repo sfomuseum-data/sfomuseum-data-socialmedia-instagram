@@ -25,6 +25,50 @@
       "taken": 1459535760,
       "taken_at": "Apr 01, 2016 6:36 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.007474243640899658,
+          "id": 1947424877
+        },
+        {
+          "distance": 0.11070889234542847,
+          "id": 1947424877
+        },
+        {
+          "distance": 0.26638108491897583,
+          "id": 1729361531
+        },
+        {
+          "distance": 0.29806816577911377,
+          "id": 1729359739
+        },
+        {
+          "distance": 0.30365467071533203,
+          "id": 1729360649
+        },
+        {
+          "distance": 0.30614548921585083,
+          "id": 1729359609
+        },
+        {
+          "distance": 0.309667706489563,
+          "id": 1729355323
+        },
+        {
+          "distance": 0.320672869682312,
+          "id": 1729358293
+        },
+        {
+          "distance": 0.32134389877319336,
+          "id": 1729355329
+        },
+        {
+          "distance": 0.32179927825927734,
+          "id": 1729359455
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360883,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Spring is finally here, and we would love to be on a warm California beach...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

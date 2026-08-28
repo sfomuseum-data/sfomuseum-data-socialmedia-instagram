@@ -37,6 +37,50 @@
       "taken": 1521042600,
       "taken_at": "Mar 14, 2018 3:50 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.03898012638092041,
+          "id": 1729361355
+        },
+        {
+          "distance": 0.13852936029434204,
+          "id": 1729358225
+        },
+        {
+          "distance": 0.1548316478729248,
+          "id": 1729359503
+        },
+        {
+          "distance": 0.1551768183708191,
+          "id": 1880151765
+        },
+        {
+          "distance": 0.16298460960388184,
+          "id": 1729357679
+        },
+        {
+          "distance": 0.17245978116989136,
+          "id": 1729361355
+        },
+        {
+          "distance": 0.18833684921264648,
+          "id": 1729360785
+        },
+        {
+          "distance": 0.2001279592514038,
+          "id": 1729357679
+        },
+        {
+          "distance": 0.2174561619758606,
+          "id": 1729358945
+        },
+        {
+          "distance": 0.21854311227798462,
+          "id": 1729359503
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729358463,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Ida Staggers was first hired by TWA (Transcontinental \u0026 Western Air) as a hostess in 1936...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

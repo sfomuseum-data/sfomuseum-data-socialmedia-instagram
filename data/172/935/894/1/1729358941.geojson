@@ -54,6 +54,50 @@
       "taken": 1509447300,
       "taken_at": "Oct 31, 2017 10:55 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.26104462146759033,
+          "id": 1729357279
+        },
+        {
+          "distance": 0.2814076542854309,
+          "id": 1729360397
+        },
+        {
+          "distance": 0.28466683626174927,
+          "id": 1729357279
+        },
+        {
+          "distance": 0.29098689556121826,
+          "id": 1729359659
+        },
+        {
+          "distance": 0.29292696714401245,
+          "id": 1729360479
+        },
+        {
+          "distance": 0.29332977533340454,
+          "id": 1729359833
+        },
+        {
+          "distance": 0.3030099868774414,
+          "id": 1729359217
+        },
+        {
+          "distance": 0.30620694160461426,
+          "id": 1729361533
+        },
+        {
+          "distance": 0.306801438331604,
+          "id": 1729359659
+        },
+        {
+          "distance": 0.309955358505249,
+          "id": 1729359527
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -83,7 +127,7 @@
       }
     ],
     "wof:id": 1729358941,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777634,
     "wof:name": "“We felt the lure of Latin America the instant we boarded the Clipper.\"..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -100,5 +144,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

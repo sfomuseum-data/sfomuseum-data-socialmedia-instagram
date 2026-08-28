@@ -37,6 +37,50 @@
       "taken": 1521204540,
       "taken_at": "Mar 16, 2018 12:49 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.00004100799560546875,
+          "id": 1729358459
+        },
+        {
+          "distance": 0.07769960165023804,
+          "id": 1729358459
+        },
+        {
+          "distance": 0.20949727296829224,
+          "id": 1729355665
+        },
+        {
+          "distance": 0.21678537130355835,
+          "id": 1729359229
+        },
+        {
+          "distance": 0.23354041576385498,
+          "id": 1729359229
+        },
+        {
+          "distance": 0.23621821403503418,
+          "id": 1729355339
+        },
+        {
+          "distance": 0.24734658002853394,
+          "id": 1729355665
+        },
+        {
+          "distance": 0.2547910213470459,
+          "id": 1729355339
+        },
+        {
+          "distance": 0.25717419385910034,
+          "id": 1729361289
+        },
+        {
+          "distance": 0.26825809478759766,
+          "id": 1729357231
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1763558741,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777659,
     "wof:name": "Do you recognize this cityscape?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

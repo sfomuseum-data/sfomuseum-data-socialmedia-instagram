@@ -25,6 +25,50 @@
       "taken": 1493031240,
       "taken_at": "Apr 24, 2017 10:54 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16742008924484253,
+          "id": 1729360031
+        },
+        {
+          "distance": 0.22199088335037231,
+          "id": 1729360031
+        },
+        {
+          "distance": 0.23107367753982544,
+          "id": 1729358735
+        },
+        {
+          "distance": 0.23606503009796143,
+          "id": 1729358411
+        },
+        {
+          "distance": 0.23994207382202148,
+          "id": 1729359887
+        },
+        {
+          "distance": 0.24250560998916626,
+          "id": 1729359445
+        },
+        {
+          "distance": 0.24566525220870972,
+          "id": 1729358737
+        },
+        {
+          "distance": 0.25768375396728516,
+          "id": 1729359445
+        },
+        {
+          "distance": 0.26792824268341064,
+          "id": 1729359887
+        },
+        {
+          "distance": 0.27407771348953247,
+          "id": 1729357739
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359575,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "Some of the photographs featured in \"The American Saloon: Historical Photographs from the Collection of Roger E. Kislingbury\" capture the usage of objects similar to those on display in \"#GamesofChance: Gambling Devices of the Mechanical Age\"...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

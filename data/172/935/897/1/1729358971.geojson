@@ -46,6 +46,50 @@
       "taken": 1508862780,
       "taken_at": "Oct 24, 2017 4:33 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07198697328567505,
+          "id": 1729360209
+        },
+        {
+          "distance": 0.07770425081253052,
+          "id": 1763559419
+        },
+        {
+          "distance": 0.09569782018661499,
+          "id": 1729357503
+        },
+        {
+          "distance": 0.09623265266418457,
+          "id": 1729355495
+        },
+        {
+          "distance": 0.1060488224029541,
+          "id": 1729356065
+        },
+        {
+          "distance": 0.107327401638031,
+          "id": 1729355687
+        },
+        {
+          "distance": 0.1159294843673706,
+          "id": 1729361435
+        },
+        {
+          "distance": 0.11868160963058472,
+          "id": 1729356529
+        },
+        {
+          "distance": 0.12033557891845703,
+          "id": 1763559419
+        },
+        {
+          "distance": 0.13063651323318481,
+          "id": 1880151261
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -75,7 +119,7 @@
       }
     ],
     "wof:id": 1729358971,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777634,
     "wof:name": "#Onthisday in 2003, the last scheduled eastbound Concorde flight took off from New York bound for London...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -92,5 +136,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

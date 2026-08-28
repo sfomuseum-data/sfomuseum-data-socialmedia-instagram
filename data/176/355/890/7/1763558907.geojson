@@ -30,6 +30,50 @@
       "taken": 1610644800,
       "taken_at": "Jan 14, 2021 5:20 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1645498275756836,
+          "id": 1763558925
+        },
+        {
+          "distance": 0.18075120449066162,
+          "id": 1729355059
+        },
+        {
+          "distance": 0.18193680047988892,
+          "id": 1880151227
+        },
+        {
+          "distance": 0.18193680047988892,
+          "id": 1880151117
+        },
+        {
+          "distance": 0.1836422085762024,
+          "id": 1947424987
+        },
+        {
+          "distance": 0.19091033935546875,
+          "id": 1880151475
+        },
+        {
+          "distance": 0.19238895177841187,
+          "id": 1763559119
+        },
+        {
+          "distance": 0.19611847400665283,
+          "id": 1729360245
+        },
+        {
+          "distance": 0.20364153385162354,
+          "id": 1947424919
+        },
+        {
+          "distance": 0.20421791076660156,
+          "id": 1729357693
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763558907,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777659,
     "wof:name": "By the turn of the twentieth century, a number of hair products became available to women...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

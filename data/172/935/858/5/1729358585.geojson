@@ -51,6 +51,50 @@
       "taken": 1518189360,
       "taken_at": "Feb 09, 2018 3:16 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07384228706359863,
+          "id": 1729358525
+        },
+        {
+          "distance": 0.07612061500549316,
+          "id": 1729358797
+        },
+        {
+          "distance": 0.09122955799102783,
+          "id": 1729358713
+        },
+        {
+          "distance": 0.11598342657089233,
+          "id": 1729358525
+        },
+        {
+          "distance": 0.1261444091796875,
+          "id": 1729358539
+        },
+        {
+          "distance": 0.13504433631896973,
+          "id": 1729358713
+        },
+        {
+          "distance": 0.13600856065750122,
+          "id": 1729358797
+        },
+        {
+          "distance": 0.13662654161453247,
+          "id": 1729358671
+        },
+        {
+          "distance": 0.14157283306121826,
+          "id": 1729358967
+        },
+        {
+          "distance": 0.14305847883224487,
+          "id": 1729358579
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -80,7 +124,7 @@
       }
     ],
     "wof:id": 1729358585,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "\"In the past the weaving process was very arduous...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -97,5 +141,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

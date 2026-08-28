@@ -31,6 +31,50 @@
       "taken": 1546957560,
       "taken_at": "Jan 08, 2019 2:26 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24201971292495728,
+          "id": 1763558705
+        },
+        {
+          "distance": 0.24454140663146973,
+          "id": 1729358929
+        },
+        {
+          "distance": 0.24530446529388428,
+          "id": 1729358929
+        },
+        {
+          "distance": 0.24667787551879883,
+          "id": 1729358441
+        },
+        {
+          "distance": 0.25060421228408813,
+          "id": 1763558705
+        },
+        {
+          "distance": 0.2684917449951172,
+          "id": 1729356023
+        },
+        {
+          "distance": 0.2691681981086731,
+          "id": 1729358563
+        },
+        {
+          "distance": 0.26958566904067993,
+          "id": 1729356023
+        },
+        {
+          "distance": 0.2709723711013794,
+          "id": 1729360469
+        },
+        {
+          "distance": 0.2718750834465027,
+          "id": 1880151013
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729357121,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777630,
     "wof:name": "Air France was formed on October 7, 1933, from a merger between Air Orient, Air Union, Compagnie Générale Aéropostale, Compagnie Internationale de Navigation Aérienne (CIDNA), and Société Générale de Transport Aériens (SGTA), this poster showcases the aircraft and liveries used between 1970 and 1994...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

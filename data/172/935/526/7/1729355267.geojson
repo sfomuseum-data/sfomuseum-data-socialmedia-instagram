@@ -30,6 +30,50 @@
       "taken": 1589451900,
       "taken_at": "May 14, 2020 10:25 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.28858494758605957,
+          "id": 1729357463
+        },
+        {
+          "distance": 0.3076874613761902,
+          "id": 1729357463
+        },
+        {
+          "distance": 0.3359752893447876,
+          "id": 1729356145
+        },
+        {
+          "distance": 0.3385021686553955,
+          "id": 1729355763
+        },
+        {
+          "distance": 0.3425198197364807,
+          "id": 1729361017
+        },
+        {
+          "distance": 0.34457820653915405,
+          "id": 1729360981
+        },
+        {
+          "distance": 0.34491246938705444,
+          "id": 1729356567
+        },
+        {
+          "distance": 0.3458101153373718,
+          "id": 1729360109
+        },
+        {
+          "distance": 0.34616929292678833,
+          "id": 1729360109
+        },
+        {
+          "distance": 0.3467106819152832,
+          "id": 1729361307
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729355267,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777622,
     "wof:name": "This year marks the 60th year of Lufthansa serving SFO...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

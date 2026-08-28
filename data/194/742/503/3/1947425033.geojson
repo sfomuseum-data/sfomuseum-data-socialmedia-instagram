@@ -28,6 +28,50 @@
       "taken": 1715702640,
       "taken_at": "May 14, 2024 4:04 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.31401515007019043,
+          "id": 1729359663
+        },
+        {
+          "distance": 0.34612494707107544,
+          "id": 1763558983
+        },
+        {
+          "distance": 0.3562304973602295,
+          "id": 1729361605
+        },
+        {
+          "distance": 0.35719823837280273,
+          "id": 1729355377
+        },
+        {
+          "distance": 0.3602088689804077,
+          "id": 1763559185
+        },
+        {
+          "distance": 0.36699533462524414,
+          "id": 1729360147
+        },
+        {
+          "distance": 0.37285685539245605,
+          "id": 1729362581
+        },
+        {
+          "distance": 0.3753158450126648,
+          "id": 1729359733
+        },
+        {
+          "distance": 0.3768070340156555,
+          "id": 1763559093
+        },
+        {
+          "distance": 0.3794206976890564,
+          "id": 1729356671
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1947425033,
-    "wof:lastmodified": 1733175324,
+    "wof:lastmodified": 1787777664,
     "wof:name": "This 1966 poster from the San Mateo County Historical Association celebrates the history of Mills Field, renamed to San Francisco Airport in 1931...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -70,5 +114,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

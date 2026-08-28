@@ -31,6 +31,50 @@
       "taken": 1572338280,
       "taken_at": "Oct 29, 2019 8:38 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.004188060760498047,
+          "id": 1729358121
+        },
+        {
+          "distance": 0.068855881690979,
+          "id": 1729358121
+        },
+        {
+          "distance": 0.08268791437149048,
+          "id": 1947424813
+        },
+        {
+          "distance": 0.09900408983230591,
+          "id": 1947424813
+        },
+        {
+          "distance": 0.24662435054779053,
+          "id": 1729355459
+        },
+        {
+          "distance": 0.26282697916030884,
+          "id": 1729357689
+        },
+        {
+          "distance": 0.2650248408317566,
+          "id": 1729355171
+        },
+        {
+          "distance": 0.2659198045730591,
+          "id": 1729357689
+        },
+        {
+          "distance": 0.26797324419021606,
+          "id": 1729357817
+        },
+        {
+          "distance": 0.2685670852661133,
+          "id": 1729355459
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729355941,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777627,
     "wof:name": "The Airbus A300 was the first wide-body airliner produced by Airbus Industries, a European aerospace manufacturing consortium formed in 1970...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

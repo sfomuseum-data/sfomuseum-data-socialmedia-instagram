@@ -42,6 +42,50 @@
       "taken": 1518960300,
       "taken_at": "Feb 18, 2018 1:25 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.03702068328857422,
+          "id": 1729360783
+        },
+        {
+          "distance": 0.11982160806655884,
+          "id": 1729360783
+        },
+        {
+          "distance": 0.19387447834014893,
+          "id": 1729360693
+        },
+        {
+          "distance": 0.2291361689567566,
+          "id": 1729360693
+        },
+        {
+          "distance": 0.24802857637405396,
+          "id": 1729360137
+        },
+        {
+          "distance": 0.24878454208374023,
+          "id": 1880151359
+        },
+        {
+          "distance": 0.25963306427001953,
+          "id": 1729360163
+        },
+        {
+          "distance": 0.2706447243690491,
+          "id": 1729361299
+        },
+        {
+          "distance": 0.2745714783668518,
+          "id": 1729360137
+        },
+        {
+          "distance": 0.2768236994743347,
+          "id": 1729361057
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -71,7 +115,7 @@
       }
     ],
     "wof:id": 1729358535,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Our online database features over 10,000 objects from our collection, including over 200 airmail covers from all over the world, commemorating different airmail routes...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -88,5 +132,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

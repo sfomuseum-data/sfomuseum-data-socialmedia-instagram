@@ -36,6 +36,50 @@
       "taken": 1547637000,
       "taken_at": "Jan 16, 2019 11:10 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23124748468399048,
+          "id": 1729356835
+        },
+        {
+          "distance": 0.2439563274383545,
+          "id": 1763558801
+        },
+        {
+          "distance": 0.2439563274383545,
+          "id": 1729357135
+        },
+        {
+          "distance": 0.25136178731918335,
+          "id": 1729358737
+        },
+        {
+          "distance": 0.2580588459968567,
+          "id": 1763559187
+        },
+        {
+          "distance": 0.261979341506958,
+          "id": 1763558891
+        },
+        {
+          "distance": 0.2620217204093933,
+          "id": 1729356835
+        },
+        {
+          "distance": 0.26533955335617065,
+          "id": 1729361555
+        },
+        {
+          "distance": 0.2665613293647766,
+          "id": 1763558859
+        },
+        {
+          "distance": 0.2677023410797119,
+          "id": 1763558859
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729357079,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777630,
     "wof:name": "The lap steel guitar developed in Hawai’i in the late-nineteenth and early-twentieth centuries and is attributed to an adolescent named Joseph Kekuku (1874–1932)...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

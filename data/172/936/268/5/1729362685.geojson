@@ -25,6 +25,50 @@
       "taken": 1369214640,
       "taken_at": "May 22, 2013 9:24 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24133163690567017,
+          "id": 1729362631
+        },
+        {
+          "distance": 0.25473344326019287,
+          "id": 1729362631
+        },
+        {
+          "distance": 0.26096445322036743,
+          "id": 1729363015
+        },
+        {
+          "distance": 0.2725391387939453,
+          "id": 1729362367
+        },
+        {
+          "distance": 0.27337807416915894,
+          "id": 1729362119
+        },
+        {
+          "distance": 0.2751460671424866,
+          "id": 1729362451
+        },
+        {
+          "distance": 0.2775722146034241,
+          "id": 1729361703
+        },
+        {
+          "distance": 0.2813202142715454,
+          "id": 1729362119
+        },
+        {
+          "distance": 0.28201621770858765,
+          "id": 1729362451
+        },
+        {
+          "distance": 0.2849203944206238,
+          "id": 1729362615
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362685,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "And away they go...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

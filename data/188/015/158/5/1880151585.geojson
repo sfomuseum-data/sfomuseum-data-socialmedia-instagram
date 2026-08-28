@@ -25,6 +25,50 @@
       "taken": 1657724760,
       "taken_at": "Jul 13, 2022 3:06 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1069902777671814,
+          "id": 1729356351
+        },
+        {
+          "distance": 0.1678617000579834,
+          "id": 1729356351
+        },
+        {
+          "distance": 0.20409971475601196,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.2042739987373352,
+          "id": 1763558931
+        },
+        {
+          "distance": 0.20577698945999146,
+          "id": 1763559469
+        },
+        {
+          "distance": 0.20678794384002686,
+          "id": 1763559555
+        },
+        {
+          "distance": 0.2087499499320984,
+          "id": 1729359177
+        },
+        {
+          "distance": 0.2088664174079895,
+          "id": 1729359177
+        },
+        {
+          "distance": 0.21041864156723022,
+          "id": 1729357999
+        },
+        {
+          "distance": 0.21269887685775757,
+          "id": 1763559679
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1880151585,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "This large-scale image is a photographic close-up of five central figures involved in the familiar yet deeply symbolic drama of waiting in an airport for the return of loved ones...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

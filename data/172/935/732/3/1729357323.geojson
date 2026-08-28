@@ -35,6 +35,50 @@
       "taken": 1543151040,
       "taken_at": "Nov 25, 2018 1:04 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06875598430633545,
+          "id": 1729358457
+        },
+        {
+          "distance": 0.07887917757034302,
+          "id": 1880150909
+        },
+        {
+          "distance": 0.09159451723098755,
+          "id": 1729358135
+        },
+        {
+          "distance": 0.09665864706039429,
+          "id": 1729356859
+        },
+        {
+          "distance": 0.09671485424041748,
+          "id": 1880151063
+        },
+        {
+          "distance": 0.10693037509918213,
+          "id": 1729359451
+        },
+        {
+          "distance": 0.10936903953552246,
+          "id": 1729360531
+        },
+        {
+          "distance": 0.12393343448638916,
+          "id": 1880150909
+        },
+        {
+          "distance": 0.13045603036880493,
+          "id": 1729359145
+        },
+        {
+          "distance": 0.1306612491607666,
+          "id": 1729357547
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729357323,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777631,
     "wof:name": "#Onthisday in 1935, the first airfield expansion was completed at SFO extending Runway “C” from 1,900 to 3,000 feet...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

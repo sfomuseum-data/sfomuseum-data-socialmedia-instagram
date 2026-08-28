@@ -35,6 +35,50 @@
       "taken": 1554313620,
       "taken_at": "Apr 3, 2019, 5:47 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11726623773574829,
+          "id": 1729356697
+        },
+        {
+          "distance": 0.12983298301696777,
+          "id": 1729356717
+        },
+        {
+          "distance": 0.16005903482437134,
+          "id": 1729356697
+        },
+        {
+          "distance": 0.1836540699005127,
+          "id": 1729356717
+        },
+        {
+          "distance": 0.3162517547607422,
+          "id": 1729358159
+        },
+        {
+          "distance": 0.32563596963882446,
+          "id": 1729356299
+        },
+        {
+          "distance": 0.33886241912841797,
+          "id": 1729363035
+        },
+        {
+          "distance": 0.3393012285232544,
+          "id": 1729358159
+        },
+        {
+          "distance": 0.34363532066345215,
+          "id": 1729363035
+        },
+        {
+          "distance": 0.3449127674102783,
+          "id": 1729361865
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729356709,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "The use of aluminum in airplane airframes was pioneered by Jugo Junkers, who introduced the F 13 in 1920...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

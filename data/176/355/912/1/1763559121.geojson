@@ -31,6 +31,50 @@
       "taken": 1622739840,
       "taken_at": "Jun 03, 2021 5:04 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09868377447128296,
+          "id": 1763558875
+        },
+        {
+          "distance": 0.11945390701293945,
+          "id": 1763558875
+        },
+        {
+          "distance": 0.17509102821350098,
+          "id": 1763559205
+        },
+        {
+          "distance": 0.1881246566772461,
+          "id": 1763559433
+        },
+        {
+          "distance": 0.20067012310028076,
+          "id": 1763559433
+        },
+        {
+          "distance": 0.2033786177635193,
+          "id": 1763559227
+        },
+        {
+          "distance": 0.20484352111816406,
+          "id": 1763558851
+        },
+        {
+          "distance": 0.20819848775863647,
+          "id": 1763559245
+        },
+        {
+          "distance": 0.21135443449020386,
+          "id": 1763559463
+        },
+        {
+          "distance": 0.21334624290466309,
+          "id": 1763559205
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559121,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "To no surprise, racing began almost as soon as motorcycles were introduced to the market, and the first organized race was held in 1901 at Agriculture Park in Los Angeles...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

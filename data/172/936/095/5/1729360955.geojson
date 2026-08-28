@@ -25,6 +25,50 @@
       "taken": 1457457660,
       "taken_at": "Mar 08, 2016 5:21 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19209611415863037,
+          "id": 1729356843
+        },
+        {
+          "distance": 0.22407400608062744,
+          "id": 1729356843
+        },
+        {
+          "distance": 0.23006081581115723,
+          "id": 1729361261
+        },
+        {
+          "distance": 0.25194448232650757,
+          "id": 1729356611
+        },
+        {
+          "distance": 0.25218749046325684,
+          "id": 1763559233
+        },
+        {
+          "distance": 0.25311750173568726,
+          "id": 1729359515
+        },
+        {
+          "distance": 0.26729124784469604,
+          "id": 1729361143
+        },
+        {
+          "distance": 0.2709711790084839,
+          "id": 1729362257
+        },
+        {
+          "distance": 0.27133864164352417,
+          "id": 1729356859
+        },
+        {
+          "distance": 0.2717345356941223,
+          "id": 1763559233
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360955,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "#Onthisday in 1929, the Brownsville Municipal Airport in Brownsville, Texas opened...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

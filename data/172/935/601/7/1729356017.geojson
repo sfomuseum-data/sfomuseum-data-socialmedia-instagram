@@ -32,6 +32,50 @@
       "taken": 1570537080,
       "taken_at": "Oct 08, 2019 12:18 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1807258129119873,
+          "id": 1729357105
+        },
+        {
+          "distance": 0.22941112518310547,
+          "id": 1729357105
+        },
+        {
+          "distance": 0.23557806015014648,
+          "id": 1729359833
+        },
+        {
+          "distance": 0.27054929733276367,
+          "id": 1729360785
+        },
+        {
+          "distance": 0.28151583671569824,
+          "id": 1729357279
+        },
+        {
+          "distance": 0.28362345695495605,
+          "id": 1729359833
+        },
+        {
+          "distance": 0.2855744957923889,
+          "id": 1729360479
+        },
+        {
+          "distance": 0.2951732277870178,
+          "id": 1729359527
+        },
+        {
+          "distance": 0.30251115560531616,
+          "id": 1729359609
+        },
+        {
+          "distance": 0.30672889947891235,
+          "id": 1880150923
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729356017,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777627,
     "wof:name": "Pan American World Airways’ 1948 advertisement in the Saturday Evening Post promoted the luxury of Sleeperette service to Australia and New Zealand with a color illustration of a woman holding a koala...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

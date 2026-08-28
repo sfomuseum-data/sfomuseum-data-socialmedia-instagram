@@ -30,6 +30,50 @@
       "taken": 1621440720,
       "taken_at": "May 19, 2021 4:12 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20283615589141846,
+          "id": 1729355115
+        },
+        {
+          "distance": 0.23555105924606323,
+          "id": 1729358575
+        },
+        {
+          "distance": 0.23567217588424683,
+          "id": 1729360045
+        },
+        {
+          "distance": 0.23695975542068481,
+          "id": 1880151051
+        },
+        {
+          "distance": 0.23760336637496948,
+          "id": 1729357943
+        },
+        {
+          "distance": 0.24092811346054077,
+          "id": 1729355833
+        },
+        {
+          "distance": 0.2417389154434204,
+          "id": 1729357179
+        },
+        {
+          "distance": 0.2417389154434204,
+          "id": 1763558807
+        },
+        {
+          "distance": 0.24345940351486206,
+          "id": 1729356439
+        },
+        {
+          "distance": 0.24614375829696655,
+          "id": 1729358437
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559141,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "It's Wing Wednesday!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

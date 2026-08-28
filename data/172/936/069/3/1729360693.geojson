@@ -25,6 +25,50 @@
       "taken": 1463749800,
       "taken_at": "May 20, 2016 1:10 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19395989179611206,
+          "id": 1729358535
+        },
+        {
+          "distance": 0.198076069355011,
+          "id": 1729360783
+        },
+        {
+          "distance": 0.21207791566848755,
+          "id": 1729360137
+        },
+        {
+          "distance": 0.2601158022880554,
+          "id": 1729360783
+        },
+        {
+          "distance": 0.26132339239120483,
+          "id": 1729358535
+        },
+        {
+          "distance": 0.2618812918663025,
+          "id": 1729360137
+        },
+        {
+          "distance": 0.28750526905059814,
+          "id": 1729360391
+        },
+        {
+          "distance": 0.29548436403274536,
+          "id": 1880151359
+        },
+        {
+          "distance": 0.3035576343536377,
+          "id": 1729361299
+        },
+        {
+          "distance": 0.3106151819229126,
+          "id": 1729361397
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360693,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Just before World War II, #onthisday in 1939, Pan American Airways claimed the honor for the United States of establishing the first regular air mail service across the Atlantic, mirroring their earlier feat of establishing of the first regular air service across the Pacific...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

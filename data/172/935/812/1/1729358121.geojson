@@ -36,6 +36,50 @@
       "taken": 1528985760,
       "taken_at": "Jun 14, 2018 2:16 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0041838884353637695,
+          "id": 1729355941
+        },
+        {
+          "distance": 0.07028710842132568,
+          "id": 1729355941
+        },
+        {
+          "distance": 0.08524912595748901,
+          "id": 1947424813
+        },
+        {
+          "distance": 0.10359436273574829,
+          "id": 1947424813
+        },
+        {
+          "distance": 0.25091981887817383,
+          "id": 1729355459
+        },
+        {
+          "distance": 0.26645225286483765,
+          "id": 1729357689
+        },
+        {
+          "distance": 0.2696940302848816,
+          "id": 1729357689
+        },
+        {
+          "distance": 0.26992642879486084,
+          "id": 1729355171
+        },
+        {
+          "distance": 0.27068018913269043,
+          "id": 1729360221
+        },
+        {
+          "distance": 0.27274543046951294,
+          "id": 1729357817
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729358121,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777632,
     "wof:name": "The world’s first twin-engine wide body aircraft, the Airbus A300, was introduced on May 30, 1974...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

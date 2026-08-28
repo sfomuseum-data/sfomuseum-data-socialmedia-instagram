@@ -25,6 +25,50 @@
       "taken": 1449003840,
       "taken_at": "Dec 01, 2015 9:04 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.26565784215927124,
+          "id": 1729360193
+        },
+        {
+          "distance": 0.2708900570869446,
+          "id": 1729359907
+        },
+        {
+          "distance": 0.2839452028274536,
+          "id": 1763559557
+        },
+        {
+          "distance": 0.2947520613670349,
+          "id": 1729359015
+        },
+        {
+          "distance": 0.29872870445251465,
+          "id": 1729360367
+        },
+        {
+          "distance": 0.3022094964981079,
+          "id": 1729360193
+        },
+        {
+          "distance": 0.3022714853286743,
+          "id": 1729356937
+        },
+        {
+          "distance": 0.3122318387031555,
+          "id": 1729362125
+        },
+        {
+          "distance": 0.3155815601348877,
+          "id": 1729359433
+        },
+        {
+          "distance": 0.3207021951675415,
+          "id": 1763559557
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361315,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "Air India’s inaugural non-stop flight from Delhi to San Francisco is taking off tomorrow...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

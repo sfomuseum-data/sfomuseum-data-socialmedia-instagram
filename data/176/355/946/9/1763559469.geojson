@@ -25,6 +25,50 @@
       "taken": 1628513280,
       "taken_at": "Aug 09, 2021 12:48 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06522983312606812,
+          "id": 1763559599
+        },
+        {
+          "distance": 0.11495888233184814,
+          "id": 1763559599
+        },
+        {
+          "distance": 0.14561426639556885,
+          "id": 1729355291
+        },
+        {
+          "distance": 0.16277801990509033,
+          "id": 1947425003
+        },
+        {
+          "distance": 0.16277837753295898,
+          "id": 1729355291
+        },
+        {
+          "distance": 0.17640620470046997,
+          "id": 1880150947
+        },
+        {
+          "distance": 0.17743152379989624,
+          "id": 1947425003
+        },
+        {
+          "distance": 0.18495488166809082,
+          "id": 1763559555
+        },
+        {
+          "distance": 0.18612653017044067,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.18719452619552612,
+          "id": 1763558931
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1763559469,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "We are saddened to hear about the passing of artist Hung Liu...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

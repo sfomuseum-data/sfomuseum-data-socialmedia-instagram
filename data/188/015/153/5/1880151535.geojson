@@ -31,6 +31,50 @@
       "taken": 1659628920,
       "taken_at": "Aug 04, 2022 4:02 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.163752019405365,
+          "id": 1880151163
+        },
+        {
+          "distance": 0.2148730754852295,
+          "id": 1880151163
+        },
+        {
+          "distance": 0.22778642177581787,
+          "id": 1729358641
+        },
+        {
+          "distance": 0.22940105199813843,
+          "id": 1729361121
+        },
+        {
+          "distance": 0.2762632369995117,
+          "id": 1729361533
+        },
+        {
+          "distance": 0.27644944190979004,
+          "id": 1880151767
+        },
+        {
+          "distance": 0.27827227115631104,
+          "id": 1729360475
+        },
+        {
+          "distance": 0.279155969619751,
+          "id": 1729361121
+        },
+        {
+          "distance": 0.28288590908050537,
+          "id": 1729360029
+        },
+        {
+          "distance": 0.28671854734420776,
+          "id": 1729360175
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151535,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "The history of one of the United States’ most storied airlines, Pan American Airways, stretches back to 1927 and will be a multi-part #DefunctThursday...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

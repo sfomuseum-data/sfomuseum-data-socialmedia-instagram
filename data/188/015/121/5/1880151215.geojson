@@ -29,6 +29,50 @@
       "taken": 1672938360,
       "taken_at": "Jan 05, 2023 5:06 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.015873610973358154,
+          "id": 1729357125
+        },
+        {
+          "distance": 0.04785442352294922,
+          "id": 1729355227
+        },
+        {
+          "distance": 0.051358044147491455,
+          "id": 1763558929
+        },
+        {
+          "distance": 0.0962095856666565,
+          "id": 1729358177
+        },
+        {
+          "distance": 0.11838454008102417,
+          "id": 1729357125
+        },
+        {
+          "distance": 0.12881672382354736,
+          "id": 1763558929
+        },
+        {
+          "distance": 0.1331881880760193,
+          "id": 1729355227
+        },
+        {
+          "distance": 0.15930795669555664,
+          "id": 1729358177
+        },
+        {
+          "distance": 0.1690894365310669,
+          "id": 1729355899
+        },
+        {
+          "distance": 0.1700231432914734,
+          "id": 1729361381
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880151215,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Construction of the Golden Gate Bridge, an internationally recognized symbol of San Francisco, started #onthisday in 1933...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

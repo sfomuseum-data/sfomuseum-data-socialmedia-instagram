@@ -25,6 +25,50 @@
       "taken": 1468436160,
       "taken_at": "Jul 13, 2016 6:56 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2041844129562378,
+          "id": 1729359201
+        },
+        {
+          "distance": 0.22142696380615234,
+          "id": 1729358327
+        },
+        {
+          "distance": 0.2230399250984192,
+          "id": 1729359947
+        },
+        {
+          "distance": 0.22528153657913208,
+          "id": 1729355311
+        },
+        {
+          "distance": 0.22921401262283325,
+          "id": 1729357743
+        },
+        {
+          "distance": 0.23465919494628906,
+          "id": 1729357743
+        },
+        {
+          "distance": 0.23919814825057983,
+          "id": 1729360925
+        },
+        {
+          "distance": 0.2402210235595703,
+          "id": 1729360981
+        },
+        {
+          "distance": 0.2433428168296814,
+          "id": 1729355261
+        },
+        {
+          "distance": 0.24378293752670288,
+          "id": 1729355251
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360545,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "San Francisco launched a master plan in 1951 to create the modern airport terminal facilities and extended runways needed to serve the international community in the coming jet age...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

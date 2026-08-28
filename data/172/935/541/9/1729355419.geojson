@@ -31,6 +31,50 @@
       "taken": 1584624720,
       "taken_at": "Mar 19, 2020 1:32 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06687241792678833,
+          "id": 1729359683
+        },
+        {
+          "distance": 0.16249912977218628,
+          "id": 1729359683
+        },
+        {
+          "distance": 0.19075900316238403,
+          "id": 1729358405
+        },
+        {
+          "distance": 0.1947895884513855,
+          "id": 1729355091
+        },
+        {
+          "distance": 0.22255682945251465,
+          "id": 1729358877
+        },
+        {
+          "distance": 0.22287088632583618,
+          "id": 1763559131
+        },
+        {
+          "distance": 0.22635698318481445,
+          "id": 1729359719
+        },
+        {
+          "distance": 0.2274366021156311,
+          "id": 1729361055
+        },
+        {
+          "distance": 0.23457938432693481,
+          "id": 1729361615
+        },
+        {
+          "distance": 0.23690009117126465,
+          "id": 1729359497
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729355419,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777624,
     "wof:name": "This photo from 1948 shows the airport’s information counter inside SFO’s passenger terminal built in 1937...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

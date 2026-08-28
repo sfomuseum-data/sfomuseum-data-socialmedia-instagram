@@ -32,6 +32,50 @@
       "taken": 1484850180,
       "taken_at": "Jan 19, 2017 6:23 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20844578742980957,
+          "id": 1729357447
+        },
+        {
+          "distance": 0.230771005153656,
+          "id": 1729357169
+        },
+        {
+          "distance": 0.2466808557510376,
+          "id": 1729357447
+        },
+        {
+          "distance": 0.25033116340637207,
+          "id": 1729357031
+        },
+        {
+          "distance": 0.251997709274292,
+          "id": 1729357169
+        },
+        {
+          "distance": 0.2524089813232422,
+          "id": 1729357549
+        },
+        {
+          "distance": 0.2671329975128174,
+          "id": 1729357549
+        },
+        {
+          "distance": 0.27809590101242065,
+          "id": 1729357071
+        },
+        {
+          "distance": 0.2862691283226013,
+          "id": 1729357049
+        },
+        {
+          "distance": 0.2929764986038208,
+          "id": 1729360451
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729359903,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "Born in Northern California and raised in Italy, jeweler and sculptor Peter Macchiarini (1909–2001) trained at the Art Academy in Pietrasanta in marble carving and ornamental art...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

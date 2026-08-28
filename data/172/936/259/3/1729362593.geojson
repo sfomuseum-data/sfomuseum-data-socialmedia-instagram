@@ -25,6 +25,50 @@
       "taken": 1375965240,
       "taken_at": "Aug 08, 2013 12:34 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.300275981426239,
+          "id": 1729358357
+        },
+        {
+          "distance": 0.3223053216934204,
+          "id": 1729362563
+        },
+        {
+          "distance": 0.32884126901626587,
+          "id": 1729362525
+        },
+        {
+          "distance": 0.3319895267486572,
+          "id": 1729362551
+        },
+        {
+          "distance": 0.33231425285339355,
+          "id": 1729362551
+        },
+        {
+          "distance": 0.3333767056465149,
+          "id": 1729362525
+        },
+        {
+          "distance": 0.3403133153915405,
+          "id": 1729358357
+        },
+        {
+          "distance": 0.3408842086791992,
+          "id": 1729362977
+        },
+        {
+          "distance": 0.3451465964317322,
+          "id": 1729362629
+        },
+        {
+          "distance": 0.34688717126846313,
+          "id": 1729362349
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362593,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "What to do with a sunken ship?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

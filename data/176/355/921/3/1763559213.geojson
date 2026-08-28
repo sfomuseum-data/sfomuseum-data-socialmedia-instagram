@@ -35,6 +35,50 @@
       "taken": 1617031080,
       "taken_at": "Mar 29, 2021 3:18 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1888452172279358,
+          "id": 1729355483
+        },
+        {
+          "distance": 0.220270574092865,
+          "id": 1763559193
+        },
+        {
+          "distance": 0.2501731514930725,
+          "id": 1729355541
+        },
+        {
+          "distance": 0.25523489713668823,
+          "id": 1729358551
+        },
+        {
+          "distance": 0.2575506567955017,
+          "id": 1729358551
+        },
+        {
+          "distance": 0.260763943195343,
+          "id": 1729361401
+        },
+        {
+          "distance": 0.2668076753616333,
+          "id": 1729358089
+        },
+        {
+          "distance": 0.2711235284805298,
+          "id": 1729361401
+        },
+        {
+          "distance": 0.2744022607803345,
+          "id": 1947425011
+        },
+        {
+          "distance": 0.2844454050064087,
+          "id": 1729356941
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1763559213,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Women's History Month isn't over yet!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

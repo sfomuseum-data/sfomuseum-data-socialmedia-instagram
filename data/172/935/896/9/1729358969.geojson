@@ -48,6 +48,50 @@
       "taken": 1508964000,
       "taken_at": "Oct 25, 2017 8:40 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.29338330030441284,
+          "id": 1729356473
+        },
+        {
+          "distance": 0.2940747141838074,
+          "id": 1729355909
+        },
+        {
+          "distance": 0.3028413653373718,
+          "id": 1729355909
+        },
+        {
+          "distance": 0.31723326444625854,
+          "id": 1729357483
+        },
+        {
+          "distance": 0.31723326444625854,
+          "id": 1763558787
+        },
+        {
+          "distance": 0.3254120349884033,
+          "id": 1880151477
+        },
+        {
+          "distance": 0.3309776782989502,
+          "id": 1880150867
+        },
+        {
+          "distance": 0.33399462699890137,
+          "id": 1729362617
+        },
+        {
+          "distance": 0.3383502960205078,
+          "id": 1729360455
+        },
+        {
+          "distance": 0.3384963274002075,
+          "id": 1729357637
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -77,7 +121,7 @@
       }
     ],
     "wof:id": 1729358969,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Jim Lund, a Bay Area native, has a passionate interest in aviation dating back to his childhood when he first constructed aircraft models...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -94,5 +138,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

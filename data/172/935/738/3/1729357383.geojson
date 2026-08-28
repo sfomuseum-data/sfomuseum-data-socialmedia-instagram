@@ -37,6 +37,50 @@
       "taken": 1541855280,
       "taken_at": "Nov 10, 2018 1:08 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3823676109313965,
+          "id": 1880151569
+        },
+        {
+          "distance": 0.4147959351539612,
+          "id": 1880151569
+        },
+        {
+          "distance": 0.41940176486968994,
+          "id": 1880151113
+        },
+        {
+          "distance": 0.42352187633514404,
+          "id": 1729360767
+        },
+        {
+          "distance": 0.43347543478012085,
+          "id": 1729355999
+        },
+        {
+          "distance": 0.43364274501800537,
+          "id": 1729359211
+        },
+        {
+          "distance": 0.4346960186958313,
+          "id": 1729355999
+        },
+        {
+          "distance": 0.4348989725112915,
+          "id": 1880151711
+        },
+        {
+          "distance": 0.4353232979774475,
+          "id": 1729358497
+        },
+        {
+          "distance": 0.43538713455200195,
+          "id": 1880151113
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729357383,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777631,
     "wof:name": "The paper dress was a 1960s pop-cultural phenomenon and fashion fad...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

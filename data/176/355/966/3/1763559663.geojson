@@ -30,6 +30,50 @@
       "taken": 1641404460,
       "taken_at": "Jan 05, 2022 5:41 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20257145166397095,
+          "id": 1729360673
+        },
+        {
+          "distance": 0.21517986059188843,
+          "id": 1729358177
+        },
+        {
+          "distance": 0.22121888399124146,
+          "id": 1729359877
+        },
+        {
+          "distance": 0.22669726610183716,
+          "id": 1729360673
+        },
+        {
+          "distance": 0.22806841135025024,
+          "id": 1729358177
+        },
+        {
+          "distance": 0.23043721914291382,
+          "id": 1729355227
+        },
+        {
+          "distance": 0.2364652156829834,
+          "id": 1729361381
+        },
+        {
+          "distance": 0.24822783470153809,
+          "id": 1729359455
+        },
+        {
+          "distance": 0.2507825493812561,
+          "id": 1729357125
+        },
+        {
+          "distance": 0.25379103422164917,
+          "id": 1763558929
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559663,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "The Golden Gate Bridge, an internationally recognized symbol of San Francisco, spans almost two miles of water between Marin and San Francisco...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

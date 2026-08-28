@@ -28,6 +28,50 @@
       "taken": 1701883500,
       "taken_at": "Dec 06, 2023 5:25 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17623156309127808,
+          "id": 1880151407
+        },
+        {
+          "distance": 0.18280619382858276,
+          "id": 1763559129
+        },
+        {
+          "distance": 0.1883806586265564,
+          "id": 1763559129
+        },
+        {
+          "distance": 0.19578617811203003,
+          "id": 1947424999
+        },
+        {
+          "distance": 0.20129376649856567,
+          "id": 1880151407
+        },
+        {
+          "distance": 0.20248949527740479,
+          "id": 1947424867
+        },
+        {
+          "distance": 0.21440285444259644,
+          "id": 1880150873
+        },
+        {
+          "distance": 0.21646541357040405,
+          "id": 1763559407
+        },
+        {
+          "distance": 0.2171844244003296,
+          "id": 1729361931
+        },
+        {
+          "distance": 0.22501146793365479,
+          "id": 1947424839
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1947425199,
-    "wof:lastmodified": 1733175329,
+    "wof:lastmodified": 1787777664,
     "wof:name": "A prominent leader in advancing women’s suffrage, Clara Barck Welles represented the “new woman”—a term coined in 1894 to describe the newfound independence many women began to seek...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -70,5 +114,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1443637860,
       "taken_at": "Sep 30, 2015 6:31 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2023584246635437,
+          "id": 1763559651
+        },
+        {
+          "distance": 0.22186219692230225,
+          "id": 1729361271
+        },
+        {
+          "distance": 0.22366225719451904,
+          "id": 1729361881
+        },
+        {
+          "distance": 0.2248978614807129,
+          "id": 1763559651
+        },
+        {
+          "distance": 0.23228740692138672,
+          "id": 1729361391
+        },
+        {
+          "distance": 0.23297232389450073,
+          "id": 1729357537
+        },
+        {
+          "distance": 0.24334311485290527,
+          "id": 1729356037
+        },
+        {
+          "distance": 0.24460333585739136,
+          "id": 1880151691
+        },
+        {
+          "distance": 0.25001639127731323,
+          "id": 1729361271
+        },
+        {
+          "distance": 0.25013232231140137,
+          "id": 1729357041
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361513,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "In 1915, for the first time in human history, the general public had access to the crowning achievement of the industrial age—the “aeroplane.” Death defying aviators performed aerial stunts at the 1915 Panama Pacific International Exposition as huge audiences swooned...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

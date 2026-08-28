@@ -37,6 +37,50 @@
       "taken": 1528389180,
       "taken_at": "Jun 07, 2018 4:33 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.005794644355773926,
+          "id": 1729359451
+        },
+        {
+          "distance": 0.0714227557182312,
+          "id": 1729359451
+        },
+        {
+          "distance": 0.0732470154762268,
+          "id": 1880151063
+        },
+        {
+          "distance": 0.09141862392425537,
+          "id": 1729357323
+        },
+        {
+          "distance": 0.09431999921798706,
+          "id": 1729358457
+        },
+        {
+          "distance": 0.10712677240371704,
+          "id": 1880150909
+        },
+        {
+          "distance": 0.11057150363922119,
+          "id": 1880150909
+        },
+        {
+          "distance": 0.1394321322441101,
+          "id": 1880151063
+        },
+        {
+          "distance": 0.14190834760665894,
+          "id": 1729356859
+        },
+        {
+          "distance": 0.14295923709869385,
+          "id": 1729359713
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729358135,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777632,
     "wof:name": "#OnThisDay in 1927, the Mills Field Municipal Airport of San Francisco officially began operations...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

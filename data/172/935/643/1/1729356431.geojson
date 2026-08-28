@@ -30,6 +30,50 @@
       "taken": 1560762600,
       "taken_at": "Jun 17, 2019 9:10 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.4110177755355835,
+          "id": 1729355807
+        },
+        {
+          "distance": 0.41290539503097534,
+          "id": 1729356119
+        },
+        {
+          "distance": 0.4135552644729614,
+          "id": 1763559465
+        },
+        {
+          "distance": 0.42581695318222046,
+          "id": 1729355807
+        },
+        {
+          "distance": 0.4283861517906189,
+          "id": 1729359581
+        },
+        {
+          "distance": 0.42881500720977783,
+          "id": 1880151447
+        },
+        {
+          "distance": 0.42881500720977783,
+          "id": 1880151497
+        },
+        {
+          "distance": 0.44697827100753784,
+          "id": 1763559447
+        },
+        {
+          "distance": 0.44743484258651733,
+          "id": 1729357369
+        },
+        {
+          "distance": 0.44911086559295654,
+          "id": 1729362423
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729356431,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Studio craft combines the characteristics of traditional, handmade craft with the refined qualities of fine art...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

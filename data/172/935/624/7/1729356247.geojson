@@ -36,6 +36,50 @@
       "taken": 1565171520,
       "taken_at": "Aug 7, 2019, 9:52 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.05976289510726929,
+          "id": 1729356141
+        },
+        {
+          "distance": 0.09907561540603638,
+          "id": 1729356141
+        },
+        {
+          "distance": 0.13317519426345825,
+          "id": 1729356593
+        },
+        {
+          "distance": 0.20301324129104614,
+          "id": 1729356245
+        },
+        {
+          "distance": 0.21225666999816895,
+          "id": 1729356209
+        },
+        {
+          "distance": 0.21513837575912476,
+          "id": 1729356371
+        },
+        {
+          "distance": 0.21644139289855957,
+          "id": 1729356245
+        },
+        {
+          "distance": 0.2241949439048767,
+          "id": 1729356213
+        },
+        {
+          "distance": 0.23177003860473633,
+          "id": 1729356181
+        },
+        {
+          "distance": 0.24081552028656006,
+          "id": 1729356461
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729356247,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777628,
     "wof:name": "Blue pigments are incredibly rare in nature...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

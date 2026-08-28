@@ -25,6 +25,50 @@
       "taken": 1442608440,
       "taken_at": "Sep 18, 2015 8:34 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18275290727615356,
+          "id": 1763559327
+        },
+        {
+          "distance": 0.18551701307296753,
+          "id": 1763559487
+        },
+        {
+          "distance": 0.1920543909072876,
+          "id": 1729355323
+        },
+        {
+          "distance": 0.1921015977859497,
+          "id": 1729360649
+        },
+        {
+          "distance": 0.19470417499542236,
+          "id": 1729359455
+        },
+        {
+          "distance": 0.21147704124450684,
+          "id": 1947425117
+        },
+        {
+          "distance": 0.2156738042831421,
+          "id": 1729359455
+        },
+        {
+          "distance": 0.2204303741455078,
+          "id": 1729360339
+        },
+        {
+          "distance": 0.22325676679611206,
+          "id": 1947424925
+        },
+        {
+          "distance": 0.22526812553405762,
+          "id": 1729356319
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361531,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "This Alaska Airlines poster from the 1980s features an amalgamation of different San Francisco landmarks...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -35,6 +35,50 @@
       "taken": 1515340080,
       "taken_at": "Jan 07, 2018 3:48 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11773115396499634,
+          "id": 1729360009
+        },
+        {
+          "distance": 0.13566690683364868,
+          "id": 1729355947
+        },
+        {
+          "distance": 0.15454310178756714,
+          "id": 1729360009
+        },
+        {
+          "distance": 0.16516172885894775,
+          "id": 1729355947
+        },
+        {
+          "distance": 0.2056604027748108,
+          "id": 1880151063
+        },
+        {
+          "distance": 0.22257548570632935,
+          "id": 1729357727
+        },
+        {
+          "distance": 0.22498232126235962,
+          "id": 1763559173
+        },
+        {
+          "distance": 0.23348933458328247,
+          "id": 1729357727
+        },
+        {
+          "distance": 0.2360108494758606,
+          "id": 1880150909
+        },
+        {
+          "distance": 0.23779773712158203,
+          "id": 1729358135
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729358729,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "From 1859 to 1933, San Francisco Bay's most (in)famous island, Alcatraz Island, served as a military prison...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

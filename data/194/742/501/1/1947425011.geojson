@@ -28,6 +28,50 @@
       "taken": 1717081680,
       "taken_at": "May 30, 2024 3:08 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2571033835411072,
+          "id": 1729358551
+        },
+        {
+          "distance": 0.26427704095840454,
+          "id": 1729355483
+        },
+        {
+          "distance": 0.2669333815574646,
+          "id": 1729356941
+        },
+        {
+          "distance": 0.27092796564102173,
+          "id": 1729355541
+        },
+        {
+          "distance": 0.2830340266227722,
+          "id": 1763559271
+        },
+        {
+          "distance": 0.28742820024490356,
+          "id": 1729355483
+        },
+        {
+          "distance": 0.2995228171348572,
+          "id": 1763559271
+        },
+        {
+          "distance": 0.300376296043396,
+          "id": 1763559193
+        },
+        {
+          "distance": 0.3035678267478943,
+          "id": 1763559091
+        },
+        {
+          "distance": 0.30406755208969116,
+          "id": 1729356941
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1947425011,
-    "wof:lastmodified": 1733175323,
+    "wof:lastmodified": 1787777664,
     "wof:name": "CALL FOR ARTISTS!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -70,5 +114,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

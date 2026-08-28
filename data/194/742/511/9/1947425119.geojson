@@ -29,6 +29,50 @@
       "taken": 1707844440,
       "taken_at": "Feb 13, 2024 5:14 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.004978179931640625,
+          "id": 1880151033
+        },
+        {
+          "distance": 0.004978179931640625,
+          "id": 1947425245
+        },
+        {
+          "distance": 0.12096923589706421,
+          "id": 1947425245
+        },
+        {
+          "distance": 0.12096923589706421,
+          "id": 1880151033
+        },
+        {
+          "distance": 0.1785571575164795,
+          "id": 1880150897
+        },
+        {
+          "distance": 0.209173321723938,
+          "id": 1880150897
+        },
+        {
+          "distance": 0.2105553150177002,
+          "id": 1947425287
+        },
+        {
+          "distance": 0.21595287322998047,
+          "id": 1729360547
+        },
+        {
+          "distance": 0.21692824363708496,
+          "id": 1880151257
+        },
+        {
+          "distance": 0.22922509908676147,
+          "id": 1880150979
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1947425119,
-    "wof:lastmodified": 1733175326,
+    "wof:lastmodified": 1787777664,
     "wof:name": "This is your last week to see “San Francisco Ballet at 90!”..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

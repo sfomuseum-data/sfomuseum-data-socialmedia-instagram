@@ -34,6 +34,50 @@
       "taken": 1646826000,
       "taken_at": "Mar 09, 2022 11:40 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.22094154357910156,
+          "id": 1947425289
+        },
+        {
+          "distance": 0.2267656922340393,
+          "id": 1763559519
+        },
+        {
+          "distance": 0.23163098096847534,
+          "id": 1729356061
+        },
+        {
+          "distance": 0.23260772228240967,
+          "id": 1763559519
+        },
+        {
+          "distance": 0.23295652866363525,
+          "id": 1729356061
+        },
+        {
+          "distance": 0.23786401748657227,
+          "id": 1947425289
+        },
+        {
+          "distance": 0.24159640073776245,
+          "id": 1729356847
+        },
+        {
+          "distance": 0.25013673305511475,
+          "id": 1729358661
+        },
+        {
+          "distance": 0.25532007217407227,
+          "id": 1729356847
+        },
+        {
+          "distance": 0.2655099034309387,
+          "id": 1880151139
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1763559565,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Throughout World War II and the Space Race of the 1950s and ’60s, mechanical calculators and slide rules aided “human computers” whose calculations contributed to groundbreaking projects...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

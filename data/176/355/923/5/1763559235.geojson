@@ -29,6 +29,50 @@
       "taken": 1615379040,
       "taken_at": "Mar 10, 2021 12:24 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.182691752910614,
+          "id": 1763559547
+        },
+        {
+          "distance": 0.18274134397506714,
+          "id": 1729358009
+        },
+        {
+          "distance": 0.1868627667427063,
+          "id": 1729360277
+        },
+        {
+          "distance": 0.18729180097579956,
+          "id": 1729356043
+        },
+        {
+          "distance": 0.1913132667541504,
+          "id": 1729356979
+        },
+        {
+          "distance": 0.19535720348358154,
+          "id": 1729357145
+        },
+        {
+          "distance": 0.19600260257720947,
+          "id": 1729355833
+        },
+        {
+          "distance": 0.1967529058456421,
+          "id": 1729362315
+        },
+        {
+          "distance": 0.19700676202774048,
+          "id": 1729359361
+        },
+        {
+          "distance": 0.19814366102218628,
+          "id": 1729356043
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1763559235,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "The Douglas DC-3 was arguably the most significant commercial airliner introduced prior to World War II...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

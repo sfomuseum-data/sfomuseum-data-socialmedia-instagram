@@ -25,6 +25,50 @@
       "taken": 1339679640,
       "taken_at": "Jun 14, 2012 1:14 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13543587923049927,
+          "id": 1729362983
+        },
+        {
+          "distance": 0.14188092947006226,
+          "id": 1729362989
+        },
+        {
+          "distance": 0.1773626208305359,
+          "id": 1880151751
+        },
+        {
+          "distance": 0.17793375253677368,
+          "id": 1729362989
+        },
+        {
+          "distance": 0.18463373184204102,
+          "id": 1729362983
+        },
+        {
+          "distance": 0.19006037712097168,
+          "id": 1729362981
+        },
+        {
+          "distance": 0.20713961124420166,
+          "id": 1729363015
+        },
+        {
+          "distance": 0.21469366550445557,
+          "id": 1880151751
+        },
+        {
+          "distance": 0.21788716316223145,
+          "id": 1729363007
+        },
+        {
+          "distance": 0.21841716766357422,
+          "id": 1729363007
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362977,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777657,
     "wof:name": "Powell \u0026 Leland's Model No.1, introduced in 1841, is considered one of the great masterpieces in the history of microscopy!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -32,6 +32,50 @@
       "taken": 1495615200,
       "taken_at": "May 24, 2017 8:40 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.08956581354141235,
+          "id": 1729359971
+        },
+        {
+          "distance": 0.11355453729629517,
+          "id": 1763559499
+        },
+        {
+          "distance": 0.11506634950637817,
+          "id": 1729360135
+        },
+        {
+          "distance": 0.1368962526321411,
+          "id": 1729359971
+        },
+        {
+          "distance": 0.1421005129814148,
+          "id": 1729359139
+        },
+        {
+          "distance": 0.14851129055023193,
+          "id": 1763559147
+        },
+        {
+          "distance": 0.15755659341812134,
+          "id": 1763559499
+        },
+        {
+          "distance": 0.16002696752548218,
+          "id": 1729360135
+        },
+        {
+          "distance": 0.1730879545211792,
+          "id": 1729360205
+        },
+        {
+          "distance": 0.1745346188545227,
+          "id": 1729359625
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729359467,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "From 1946 to 1962, an entire generation of Cathay Pacific’s uniforms were presented in various shades of blue...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

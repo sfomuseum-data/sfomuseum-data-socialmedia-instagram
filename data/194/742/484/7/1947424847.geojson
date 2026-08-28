@@ -27,6 +27,50 @@
       "taken": 1729515720,
       "taken_at": "Oct 21, 2024 1:02 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.225136399269104,
+          "id": 1880151047
+        },
+        {
+          "distance": 0.2465149164199829,
+          "id": 1880150965
+        },
+        {
+          "distance": 0.2520434260368347,
+          "id": 1880151011
+        },
+        {
+          "distance": 0.25826960802078247,
+          "id": 1763558801
+        },
+        {
+          "distance": 0.25826960802078247,
+          "id": 1729357135
+        },
+        {
+          "distance": 0.2589240074157715,
+          "id": 1729355689
+        },
+        {
+          "distance": 0.262107253074646,
+          "id": 1763559049
+        },
+        {
+          "distance": 0.26235735416412354,
+          "id": 1729358671
+        },
+        {
+          "distance": 0.26939260959625244,
+          "id": 1729361431
+        },
+        {
+          "distance": 0.272388756275177,
+          "id": 1729357337
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947424847,
-    "wof:lastmodified": 1733175319,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Ground crews and other support personnel were essential to keeping Virgin America’s operations running smoothly...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

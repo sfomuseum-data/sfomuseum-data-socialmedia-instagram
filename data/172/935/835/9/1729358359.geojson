@@ -40,6 +40,50 @@
       "taken": 1523544660,
       "taken_at": "Apr 12, 2018 2:51 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06921911239624023,
+          "id": 1729357825
+        },
+        {
+          "distance": 0.10195106267929077,
+          "id": 1729358223
+        },
+        {
+          "distance": 0.13346534967422485,
+          "id": 1729358375
+        },
+        {
+          "distance": 0.1363532543182373,
+          "id": 1729357825
+        },
+        {
+          "distance": 0.1414167284965515,
+          "id": 1729358223
+        },
+        {
+          "distance": 0.14169663190841675,
+          "id": 1729358295
+        },
+        {
+          "distance": 0.1456758975982666,
+          "id": 1729358021
+        },
+        {
+          "distance": 0.14585798978805542,
+          "id": 1729356511
+        },
+        {
+          "distance": 0.15142041444778442,
+          "id": 1729356513
+        },
+        {
+          "distance": 0.1523788571357727,
+          "id": 1729358345
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729358359,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Bakelite was the first plastic used to make radio cases, allowing for sleek, modern designs not possible with wooden construction...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

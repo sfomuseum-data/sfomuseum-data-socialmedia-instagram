@@ -36,6 +36,50 @@
       "taken": 1547407020,
       "taken_at": "Jan 13, 2019 7:17 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12048035860061646,
+          "id": 1729359425
+        },
+        {
+          "distance": 0.12564164400100708,
+          "id": 1729355023
+        },
+        {
+          "distance": 0.1498568058013916,
+          "id": 1729356549
+        },
+        {
+          "distance": 0.16242653131484985,
+          "id": 1729358233
+        },
+        {
+          "distance": 0.16242653131484985,
+          "id": 1763558729
+        },
+        {
+          "distance": 0.1649225354194641,
+          "id": 1729359427
+        },
+        {
+          "distance": 0.16899359226226807,
+          "id": 1729357429
+        },
+        {
+          "distance": 0.17013084888458252,
+          "id": 1729356955
+        },
+        {
+          "distance": 0.1750197410583496,
+          "id": 1729357827
+        },
+        {
+          "distance": 0.17617392539978027,
+          "id": 1729356811
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729357097,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777630,
     "wof:name": "In his series, \"Standard Stars\", Eric William Carroll examines and engages with an archive of decaying astronomical glass plate negatives held by the Pisgah Astronomical Research Institute in Rosman, North Carolina...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

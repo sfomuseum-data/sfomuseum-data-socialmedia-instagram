@@ -32,6 +32,50 @@
       "taken": 1571741040,
       "taken_at": "Oct 22, 2019 10:44 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.4062928557395935,
+          "id": 1729359739
+        },
+        {
+          "distance": 0.4139733910560608,
+          "id": 1729358067
+        },
+        {
+          "distance": 0.4210875630378723,
+          "id": 1729359653
+        },
+        {
+          "distance": 0.424058198928833,
+          "id": 1729361341
+        },
+        {
+          "distance": 0.42995840311050415,
+          "id": 1729359739
+        },
+        {
+          "distance": 0.4313945770263672,
+          "id": 1729356715
+        },
+        {
+          "distance": 0.4324572682380676,
+          "id": 1729360883
+        },
+        {
+          "distance": 0.43548381328582764,
+          "id": 1947424877
+        },
+        {
+          "distance": 0.43550240993499756,
+          "id": 1763558689
+        },
+        {
+          "distance": 0.43550240993499756,
+          "id": 1729359221
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729355969,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777627,
     "wof:name": "Northwest Orient Airlines advertised Miami as a destination in the 1950s in a number of ways, including an alluring beachside poster with the airline’s promotional Miami beach bag...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

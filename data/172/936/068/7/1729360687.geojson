@@ -25,6 +25,50 @@
       "taken": 1464165240,
       "taken_at": "May 25, 2016 8:34 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15010571479797363,
+          "id": 1729356693
+        },
+        {
+          "distance": 0.15689098834991455,
+          "id": 1729356693
+        },
+        {
+          "distance": 0.19526678323745728,
+          "id": 1729357463
+        },
+        {
+          "distance": 0.20338833332061768,
+          "id": 1729357463
+        },
+        {
+          "distance": 0.2049923539161682,
+          "id": 1729360551
+        },
+        {
+          "distance": 0.21347039937973022,
+          "id": 1729360405
+        },
+        {
+          "distance": 0.21416527032852173,
+          "id": 1729360365
+        },
+        {
+          "distance": 0.21494364738464355,
+          "id": 1763558671
+        },
+        {
+          "distance": 0.21494364738464355,
+          "id": 1729359335
+        },
+        {
+          "distance": 0.21957004070281982,
+          "id": 1729360405
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360687,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "This is your last week to see \"Catch Our Style\"...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

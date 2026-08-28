@@ -29,6 +29,50 @@
       "taken": 1618937580,
       "taken_at": "Apr 20, 2021 4:53 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2674417495727539,
+          "id": 1729359305
+        },
+        {
+          "distance": 0.2797001004219055,
+          "id": 1763559093
+        },
+        {
+          "distance": 0.30117690563201904,
+          "id": 1729359701
+        },
+        {
+          "distance": 0.30743247270584106,
+          "id": 1729360029
+        },
+        {
+          "distance": 0.30900609493255615,
+          "id": 1729359733
+        },
+        {
+          "distance": 0.31194019317626953,
+          "id": 1729359605
+        },
+        {
+          "distance": 0.3123186230659485,
+          "id": 1763559249
+        },
+        {
+          "distance": 0.3128284811973572,
+          "id": 1729359733
+        },
+        {
+          "distance": 0.31301528215408325,
+          "id": 1729360029
+        },
+        {
+          "distance": 0.3165087103843689,
+          "id": 1729359701
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1763559185,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "It's National Parks Week!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

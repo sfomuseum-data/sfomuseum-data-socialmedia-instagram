@@ -27,6 +27,50 @@
       "taken": 1724415120,
       "taken_at": "Aug 23, 2024 12:12 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09821337461471558,
+          "id": 1947425021
+        },
+        {
+          "distance": 0.12084847688674927,
+          "id": 1947424849
+        },
+        {
+          "distance": 0.12310510873794556,
+          "id": 1947424969
+        },
+        {
+          "distance": 0.13817155361175537,
+          "id": 1947425297
+        },
+        {
+          "distance": 0.13853836059570312,
+          "id": 1947424969
+        },
+        {
+          "distance": 0.1441534161567688,
+          "id": 1729357069
+        },
+        {
+          "distance": 0.14726847410202026,
+          "id": 1947424849
+        },
+        {
+          "distance": 0.14748388528823853,
+          "id": 1947425021
+        },
+        {
+          "distance": 0.1489701271057129,
+          "id": 1947425051
+        },
+        {
+          "distance": 0.15083515644073486,
+          "id": 1729357493
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947424895,
-    "wof:lastmodified": 1733175320,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Developed by the Lockheed Corporation, the L-188 Electra was the only large turboprop airliner produced in the U.S...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

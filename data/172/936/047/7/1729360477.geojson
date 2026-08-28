@@ -25,6 +25,50 @@
       "taken": 1470043980,
       "taken_at": "Aug 01, 2016 9:33 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19107317924499512,
+          "id": 1729360019
+        },
+        {
+          "distance": 0.21577399969100952,
+          "id": 1729360435
+        },
+        {
+          "distance": 0.21949106454849243,
+          "id": 1729356845
+        },
+        {
+          "distance": 0.2260926365852356,
+          "id": 1763559241
+        },
+        {
+          "distance": 0.22831851243972778,
+          "id": 1947425065
+        },
+        {
+          "distance": 0.22841542959213257,
+          "id": 1729361263
+        },
+        {
+          "distance": 0.23100072145462036,
+          "id": 1729356845
+        },
+        {
+          "distance": 0.23205214738845825,
+          "id": 1729359789
+        },
+        {
+          "distance": 0.23396927118301392,
+          "id": 1729360959
+        },
+        {
+          "distance": 0.23443686962127686,
+          "id": 1729359355
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360477,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "This photo from circa 1927 features three men checking weather conditions and other important information before the air mail pilot takes off for his next destination...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

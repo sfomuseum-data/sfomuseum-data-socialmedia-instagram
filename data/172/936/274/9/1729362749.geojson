@@ -25,6 +25,50 @@
       "taken": 1365512760,
       "taken_at": "Apr 09, 2013 1:06 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1822083592414856,
+          "id": 1729362751
+        },
+        {
+          "distance": 0.20191192626953125,
+          "id": 1729362175
+        },
+        {
+          "distance": 0.23469406366348267,
+          "id": 1729362751
+        },
+        {
+          "distance": 0.23622620105743408,
+          "id": 1729362733
+        },
+        {
+          "distance": 0.24676138162612915,
+          "id": 1729359655
+        },
+        {
+          "distance": 0.2562164068222046,
+          "id": 1729362733
+        },
+        {
+          "distance": 0.25789326429367065,
+          "id": 1729362175
+        },
+        {
+          "distance": 0.2755160331726074,
+          "id": 1763559361
+        },
+        {
+          "distance": 0.27593523263931274,
+          "id": 1729362225
+        },
+        {
+          "distance": 0.2850463390350342,
+          "id": 1729361441
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362749,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "A great way to learn about ancient trading routes?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1662546420,
       "taken_at": "Sep 07, 2022 10:27 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.212091863155365,
+          "id": 1729357397
+        },
+        {
+          "distance": 0.2501886487007141,
+          "id": 1880151177
+        },
+        {
+          "distance": 0.2708147168159485,
+          "id": 1763559491
+        },
+        {
+          "distance": 0.28755515813827515,
+          "id": 1729357397
+        },
+        {
+          "distance": 0.29266244173049927,
+          "id": 1763559491
+        },
+        {
+          "distance": 0.2937890291213989,
+          "id": 1763559537
+        },
+        {
+          "distance": 0.2989506721496582,
+          "id": 1729357403
+        },
+        {
+          "distance": 0.3008803129196167,
+          "id": 1729361467
+        },
+        {
+          "distance": 0.3010764718055725,
+          "id": 1729360257
+        },
+        {
+          "distance": 0.30304473638534546,
+          "id": 1729360519
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1880151465,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "A hat often topped off a flight attendant’s uniform...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

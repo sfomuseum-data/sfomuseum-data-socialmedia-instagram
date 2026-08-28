@@ -30,6 +30,50 @@
       "taken": 1693236600,
       "taken_at": "Aug 28, 2023 3:30 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2956944704055786,
+          "id": 1729360411
+        },
+        {
+          "distance": 0.29961544275283813,
+          "id": 1729359465
+        },
+        {
+          "distance": 0.30130451917648315,
+          "id": 1729357593
+        },
+        {
+          "distance": 0.3015289306640625,
+          "id": 1729359071
+        },
+        {
+          "distance": 0.30617719888687134,
+          "id": 1729359947
+        },
+        {
+          "distance": 0.3154461979866028,
+          "id": 1729361577
+        },
+        {
+          "distance": 0.31784987449645996,
+          "id": 1729360411
+        },
+        {
+          "distance": 0.32221317291259766,
+          "id": 1729355115
+        },
+        {
+          "distance": 0.3238772749900818,
+          "id": 1729359465
+        },
+        {
+          "distance": 0.32935255765914917,
+          "id": 1729356145
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1947425313,
-    "wof:lastmodified": 1733175332,
+    "wof:lastmodified": 1787777664,
     "wof:name": "In late August 1954, the new Central Terminal (now Terminal 2) at San Francisco International Airport was dedicated during a three-day ceremony...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

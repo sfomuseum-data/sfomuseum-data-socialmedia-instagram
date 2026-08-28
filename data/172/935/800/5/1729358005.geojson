@@ -45,6 +45,50 @@
       "taken": 1530807240,
       "taken_at": "Jul 5, 2018, 4:14 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06744891405105591,
+          "id": 1729358011
+        },
+        {
+          "distance": 0.09258913993835449,
+          "id": 1729356973
+        },
+        {
+          "distance": 0.10154008865356445,
+          "id": 1729357183
+        },
+        {
+          "distance": 0.11662864685058594,
+          "id": 1729358869
+        },
+        {
+          "distance": 0.12332993745803833,
+          "id": 1729356973
+        },
+        {
+          "distance": 0.12723523378372192,
+          "id": 1729358011
+        },
+        {
+          "distance": 0.1391361951828003,
+          "id": 1729358171
+        },
+        {
+          "distance": 0.14321619272232056,
+          "id": 1729357207
+        },
+        {
+          "distance": 0.14648467302322388,
+          "id": 1729357945
+        },
+        {
+          "distance": 0.15732568502426147,
+          "id": 1729358841
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -74,7 +118,7 @@
       }
     ],
     "wof:id": 1729358005,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777632,
     "wof:name": "The Boeing 307 Stratoliner was the first commercial airliner put in service to have a pressurized cabin...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -91,5 +135,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

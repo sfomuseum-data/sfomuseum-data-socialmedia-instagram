@@ -37,6 +37,50 @@
       "taken": 1495531680,
       "taken_at": "May 23, 2017 9:28 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2110210657119751,
+          "id": 1729359785
+        },
+        {
+          "distance": 0.23796099424362183,
+          "id": 1729359871
+        },
+        {
+          "distance": 0.24854028224945068,
+          "id": 1729359331
+        },
+        {
+          "distance": 0.24871927499771118,
+          "id": 1729359331
+        },
+        {
+          "distance": 0.26648926734924316,
+          "id": 1729359871
+        },
+        {
+          "distance": 0.27258068323135376,
+          "id": 1729359223
+        },
+        {
+          "distance": 0.2742280960083008,
+          "id": 1729359223
+        },
+        {
+          "distance": 0.2750697135925293,
+          "id": 1729359785
+        },
+        {
+          "distance": 0.29789674282073975,
+          "id": 1729359347
+        },
+        {
+          "distance": 0.2987508773803711,
+          "id": 1729355439
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729359469,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Giovanni Battista Piranesi’s view of the Pantheon presents the temple much larger than its actual height...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

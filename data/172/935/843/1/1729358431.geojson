@@ -44,6 +44,50 @@
       "taken": 1521728280,
       "taken_at": "Mar 22, 2018 2:18 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19385957717895508,
+          "id": 1729357973
+        },
+        {
+          "distance": 0.20503956079483032,
+          "id": 1729357973
+        },
+        {
+          "distance": 0.23996049165725708,
+          "id": 1729357945
+        },
+        {
+          "distance": 0.2429865002632141,
+          "id": 1729357123
+        },
+        {
+          "distance": 0.24335503578186035,
+          "id": 1763559389
+        },
+        {
+          "distance": 0.24359047412872314,
+          "id": 1729358099
+        },
+        {
+          "distance": 0.2451547384262085,
+          "id": 1729358643
+        },
+        {
+          "distance": 0.24602681398391724,
+          "id": 1880151413
+        },
+        {
+          "distance": 0.2519068121910095,
+          "id": 1763559453
+        },
+        {
+          "distance": 0.2526944875717163,
+          "id": 1880151413
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -73,7 +117,7 @@
       }
     ],
     "wof:id": 1729358431,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Last week, the 10,000th Boeing 737 rolled off the Boeing production line for delivery to Southwest Airlines...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -90,5 +134,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1461692160,
       "taken_at": "Apr 26, 2016 5:36 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.00612407922744751,
+          "id": 1729356451
+        },
+        {
+          "distance": 0.13187098503112793,
+          "id": 1729356451
+        },
+        {
+          "distance": 0.28166502714157104,
+          "id": 1729361065
+        },
+        {
+          "distance": 0.3021512031555176,
+          "id": 1729362317
+        },
+        {
+          "distance": 0.31584447622299194,
+          "id": 1729361065
+        },
+        {
+          "distance": 0.330544114112854,
+          "id": 1729362317
+        },
+        {
+          "distance": 0.35575711727142334,
+          "id": 1729357363
+        },
+        {
+          "distance": 0.36778467893600464,
+          "id": 1729357357
+        },
+        {
+          "distance": 0.36831939220428467,
+          "id": 1729357381
+        },
+        {
+          "distance": 0.384501576423645,
+          "id": 1880151587
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360789,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "In the 1970s, TWA introduced plastic swizzle sticks formed into the shapes of easily-identifiable symbols representing the airline’s major flight destinations...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -32,6 +32,50 @@
       "taken": 1551291240,
       "taken_at": "Feb 27, 2019 6:14 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12264448404312134,
+          "id": 1729355491
+        },
+        {
+          "distance": 0.15174275636672974,
+          "id": 1947425051
+        },
+        {
+          "distance": 0.15799975395202637,
+          "id": 1729355491
+        },
+        {
+          "distance": 0.17219913005828857,
+          "id": 1729360497
+        },
+        {
+          "distance": 0.17907631397247314,
+          "id": 1729357455
+        },
+        {
+          "distance": 0.18386709690093994,
+          "id": 1729357493
+        },
+        {
+          "distance": 0.1895308494567871,
+          "id": 1729357033
+        },
+        {
+          "distance": 0.1907966136932373,
+          "id": 1729357959
+        },
+        {
+          "distance": 0.19543766975402832,
+          "id": 1729358383
+        },
+        {
+          "distance": 0.19825387001037598,
+          "id": 1729357275
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729356899,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777629,
     "wof:name": "The adventurous nature of the first scheduled air service from the San Francisco Bay Area to Hong Kong is captured in our China Clipper exhibition...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

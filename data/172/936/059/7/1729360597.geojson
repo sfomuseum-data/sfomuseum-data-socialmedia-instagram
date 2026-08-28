@@ -25,6 +25,50 @@
       "taken": 1466506440,
       "taken_at": "Jun 21, 2016 10:54 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.210068941116333,
+          "id": 1763559527
+        },
+        {
+          "distance": 0.21379214525222778,
+          "id": 1729355863
+        },
+        {
+          "distance": 0.21817666292190552,
+          "id": 1729361255
+        },
+        {
+          "distance": 0.21913355588912964,
+          "id": 1729358071
+        },
+        {
+          "distance": 0.22297579050064087,
+          "id": 1729355251
+        },
+        {
+          "distance": 0.2256287932395935,
+          "id": 1729360591
+        },
+        {
+          "distance": 0.2270653247833252,
+          "id": 1729357709
+        },
+        {
+          "distance": 0.23126351833343506,
+          "id": 1729356749
+        },
+        {
+          "distance": 0.23514163494110107,
+          "id": 1729355759
+        },
+        {
+          "distance": 0.24014675617218018,
+          "id": 1729356749
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360597,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Have you ever wondered how airplanes are photographed mid-flight?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

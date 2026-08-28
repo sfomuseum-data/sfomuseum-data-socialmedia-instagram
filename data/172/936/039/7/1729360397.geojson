@@ -25,6 +25,50 @@
       "taken": 1472034240,
       "taken_at": "Aug 24, 2016 10:24 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2108389139175415,
+          "id": 1880150923
+        },
+        {
+          "distance": 0.22212457656860352,
+          "id": 1729359339
+        },
+        {
+          "distance": 0.22930049896240234,
+          "id": 1880150923
+        },
+        {
+          "distance": 0.2333267331123352,
+          "id": 1729359833
+        },
+        {
+          "distance": 0.24378365278244019,
+          "id": 1729357105
+        },
+        {
+          "distance": 0.2449631690979004,
+          "id": 1729357279
+        },
+        {
+          "distance": 0.25181400775909424,
+          "id": 1729359659
+        },
+        {
+          "distance": 0.252724826335907,
+          "id": 1729361559
+        },
+        {
+          "distance": 0.2529921531677246,
+          "id": 1729359213
+        },
+        {
+          "distance": 0.2537696957588196,
+          "id": 1729360427
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360397,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "Pan American World Airways issued this in-flight “Meet Your Clipper Captain” brochure circa 1950...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

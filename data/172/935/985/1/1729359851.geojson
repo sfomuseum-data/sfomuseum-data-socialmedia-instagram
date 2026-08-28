@@ -25,6 +25,50 @@
       "taken": 1486150560,
       "taken_at": "Feb 03, 2017 7:36 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.263999879360199,
+          "id": 1729359455
+        },
+        {
+          "distance": 0.2728109359741211,
+          "id": 1729361549
+        },
+        {
+          "distance": 0.28751033544540405,
+          "id": 1763559487
+        },
+        {
+          "distance": 0.28934407234191895,
+          "id": 1763559327
+        },
+        {
+          "distance": 0.2968212366104126,
+          "id": 1729361531
+        },
+        {
+          "distance": 0.3064226508140564,
+          "id": 1729360029
+        },
+        {
+          "distance": 0.3065171241760254,
+          "id": 1729356329
+        },
+        {
+          "distance": 0.30715101957321167,
+          "id": 1729357175
+        },
+        {
+          "distance": 0.3144211173057556,
+          "id": 1729359739
+        },
+        {
+          "distance": 0.31560343503952026,
+          "id": 1729360649
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359851,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "This cover art on this seat-pocket flight information packet features various landmarks from Western Airlines’ travel destinations...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

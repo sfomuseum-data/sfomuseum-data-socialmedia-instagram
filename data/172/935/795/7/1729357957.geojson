@@ -40,6 +40,50 @@
       "taken": 1531676280,
       "taken_at": "Jul 15, 2018 5:38 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.26160120964050293,
+          "id": 1729358321
+        },
+        {
+          "distance": 0.28064626455307007,
+          "id": 1729358197
+        },
+        {
+          "distance": 0.29002517461776733,
+          "id": 1729358321
+        },
+        {
+          "distance": 0.3462454080581665,
+          "id": 1763559021
+        },
+        {
+          "distance": 0.34772008657455444,
+          "id": 1729355235
+        },
+        {
+          "distance": 0.35646915435791016,
+          "id": 1729358081
+        },
+        {
+          "distance": 0.36333441734313965,
+          "id": 1729358081
+        },
+        {
+          "distance": 0.36508113145828247,
+          "id": 1729357297
+        },
+        {
+          "distance": 0.3657371401786804,
+          "id": 1729355581
+        },
+        {
+          "distance": 0.376034677028656,
+          "id": 1729356007
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729357957,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Who says Pride month needs to stop at June?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

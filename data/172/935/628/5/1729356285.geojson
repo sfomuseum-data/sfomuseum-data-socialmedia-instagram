@@ -36,6 +36,50 @@
       "taken": 1564005480,
       "taken_at": "Jul 24, 2019 9:58 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.34105706214904785,
+          "id": 1729362781
+        },
+        {
+          "distance": 0.36483925580978394,
+          "id": 1729359185
+        },
+        {
+          "distance": 0.36576271057128906,
+          "id": 1729361873
+        },
+        {
+          "distance": 0.3661568760871887,
+          "id": 1729362469
+        },
+        {
+          "distance": 0.36643821001052856,
+          "id": 1729360795
+        },
+        {
+          "distance": 0.36676013469696045,
+          "id": 1729361873
+        },
+        {
+          "distance": 0.367168128490448,
+          "id": 1729360795
+        },
+        {
+          "distance": 0.3688795566558838,
+          "id": 1729362053
+        },
+        {
+          "distance": 0.372620165348053,
+          "id": 1729362801
+        },
+        {
+          "distance": 0.37472301721572876,
+          "id": 1729358879
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729356285,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777629,
     "wof:name": "SFO Museum received a special visit from filmmaker Howard Kung and his sister Michelle, who flew to SFO  to see Howard’s wonderful animated short The Lonely Stoplight, now playing at our Video Arts screening room in the International Terminal Main Hall...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

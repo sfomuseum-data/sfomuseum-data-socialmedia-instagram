@@ -29,6 +29,50 @@
       "taken": 1712678880,
       "taken_at": "Apr 09, 2024 4:08 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18518555164337158,
+          "id": 1729355523
+        },
+        {
+          "distance": 0.18633121252059937,
+          "id": 1947425293
+        },
+        {
+          "distance": 0.20105797052383423,
+          "id": 1729355523
+        },
+        {
+          "distance": 0.2105332612991333,
+          "id": 1763559519
+        },
+        {
+          "distance": 0.21433097124099731,
+          "id": 1947425289
+        },
+        {
+          "distance": 0.21536767482757568,
+          "id": 1729356061
+        },
+        {
+          "distance": 0.21847772598266602,
+          "id": 1763559519
+        },
+        {
+          "distance": 0.22047895193099976,
+          "id": 1947425293
+        },
+        {
+          "distance": 0.22227424383163452,
+          "id": 1729358661
+        },
+        {
+          "distance": 0.22732001543045044,
+          "id": 1947425289
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1947425059,
-    "wof:lastmodified": 1733175324,
+    "wof:lastmodified": 1787777664,
     "wof:name": "During the 1960s, June Schwarcz pioneered electroforming, an innovative method that involved electroplating pieces made from thin copper foil...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

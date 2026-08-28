@@ -38,6 +38,50 @@
       "taken": 1549459500,
       "taken_at": "Feb 6, 2019, 1:25 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12203049659729004,
+          "id": 1729357159
+        },
+        {
+          "distance": 0.14652758836746216,
+          "id": 1729357235
+        },
+        {
+          "distance": 0.16669625043869019,
+          "id": 1729357393
+        },
+        {
+          "distance": 0.17137110233306885,
+          "id": 1729357159
+        },
+        {
+          "distance": 0.18206775188446045,
+          "id": 1729357025
+        },
+        {
+          "distance": 0.18736737966537476,
+          "id": 1729356727
+        },
+        {
+          "distance": 0.18855571746826172,
+          "id": 1763558787
+        },
+        {
+          "distance": 0.18855571746826172,
+          "id": 1729357483
+        },
+        {
+          "distance": 0.18924349546432495,
+          "id": 1729357315
+        },
+        {
+          "distance": 0.1921880841255188,
+          "id": 1729357089
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729356991,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Rod Kelly’s pair of Carp vases, completed in 1987 for Garrard and Company, was the artist’s first major commercial commission...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

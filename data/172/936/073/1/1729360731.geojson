@@ -25,6 +25,50 @@
       "taken": 1462957740,
       "taken_at": "May 11, 2016 9:09 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.37852293252944946,
+          "id": 1729357247
+        },
+        {
+          "distance": 0.39539432525634766,
+          "id": 1729361161
+        },
+        {
+          "distance": 0.39539432525634766,
+          "id": 1763558609
+        },
+        {
+          "distance": 0.4061739444732666,
+          "id": 1729361805
+        },
+        {
+          "distance": 0.4127710461616516,
+          "id": 1729357725
+        },
+        {
+          "distance": 0.4146616458892822,
+          "id": 1947425277
+        },
+        {
+          "distance": 0.41678643226623535,
+          "id": 1729361357
+        },
+        {
+          "distance": 0.4180763363838196,
+          "id": 1729358225
+        },
+        {
+          "distance": 0.41895365715026855,
+          "id": 1729357267
+        },
+        {
+          "distance": 0.4210151433944702,
+          "id": 1880151765
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360731,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Anne and Charles Lindbergh made headlines around the world with their 1931 arctic flight to Asia from New York...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

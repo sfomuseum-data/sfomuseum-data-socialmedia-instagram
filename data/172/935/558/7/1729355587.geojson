@@ -32,6 +32,50 @@
       "taken": 1581098220,
       "taken_at": "Feb 7, 2020, 5:57 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.05291646718978882,
+          "id": 1729359251
+        },
+        {
+          "distance": 0.11562949419021606,
+          "id": 1729359251
+        },
+        {
+          "distance": 0.14740383625030518,
+          "id": 1947425081
+        },
+        {
+          "distance": 0.15266209840774536,
+          "id": 1729356563
+        },
+        {
+          "distance": 0.1632915735244751,
+          "id": 1947425081
+        },
+        {
+          "distance": 0.16511470079421997,
+          "id": 1729357841
+        },
+        {
+          "distance": 0.16835659742355347,
+          "id": 1729357953
+        },
+        {
+          "distance": 0.17297381162643433,
+          "id": 1729359841
+        },
+        {
+          "distance": 0.17466038465499878,
+          "id": 1729355113
+        },
+        {
+          "distance": 0.17577648162841797,
+          "id": 1729356563
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729355587,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777626,
     "wof:name": "The first flight of the Boeing Model 247 took place #onthisday in 1933...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

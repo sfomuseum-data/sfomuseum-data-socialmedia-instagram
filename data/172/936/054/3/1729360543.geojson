@@ -25,6 +25,50 @@
       "taken": 1468231200,
       "taken_at": "Jul 11, 2016 10:00 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.487464964389801,
+          "id": 1729360735
+        },
+        {
+          "distance": 0.5128185153007507,
+          "id": 1729360763
+        },
+        {
+          "distance": 0.5219883918762207,
+          "id": 1729360661
+        },
+        {
+          "distance": 0.5226770639419556,
+          "id": 1729360763
+        },
+        {
+          "distance": 0.5230584740638733,
+          "id": 1729360659
+        },
+        {
+          "distance": 0.5268955230712891,
+          "id": 1729360565
+        },
+        {
+          "distance": 0.5284885168075562,
+          "id": 1729360219
+        },
+        {
+          "distance": 0.5295232534408569,
+          "id": 1729360735
+        },
+        {
+          "distance": 0.5297458171844482,
+          "id": 1729360581
+        },
+        {
+          "distance": 0.5361067056655884,
+          "id": 1729360447
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360543,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "\"Celebrating a Vision: #ArtAndDisability\" has been extended until December!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

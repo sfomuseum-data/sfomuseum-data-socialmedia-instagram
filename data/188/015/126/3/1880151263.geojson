@@ -30,6 +30,50 @@
       "taken": 1671028200,
       "taken_at": "Dec 14, 2022 2:30 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17350417375564575,
+          "id": 1729361605
+        },
+        {
+          "distance": 0.1852666139602661,
+          "id": 1763558983
+        },
+        {
+          "distance": 0.19750261306762695,
+          "id": 1880151169
+        },
+        {
+          "distance": 0.20314639806747437,
+          "id": 1880150943
+        },
+        {
+          "distance": 0.2151106595993042,
+          "id": 1729359443
+        },
+        {
+          "distance": 0.21524888277053833,
+          "id": 1729360207
+        },
+        {
+          "distance": 0.21570873260498047,
+          "id": 1880151313
+        },
+        {
+          "distance": 0.21682852506637573,
+          "id": 1729361605
+        },
+        {
+          "distance": 0.22181838750839233,
+          "id": 1729359611
+        },
+        {
+          "distance": 0.2231811285018921,
+          "id": 1880151169
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151263,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "John T. McCoy, aeronautical artist and historian, was born in Brooklyn, New York in 1909...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

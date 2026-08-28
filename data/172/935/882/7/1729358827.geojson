@@ -33,6 +33,50 @@
       "taken": 1512817680,
       "taken_at": "Dec 09, 2017 11:08 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17676591873168945,
+          "id": 1763559593
+        },
+        {
+          "distance": 0.1783962845802307,
+          "id": 1763559593
+        },
+        {
+          "distance": 0.2073878049850464,
+          "id": 1729357999
+        },
+        {
+          "distance": 0.22078412771224976,
+          "id": 1729355723
+        },
+        {
+          "distance": 0.22775483131408691,
+          "id": 1729355723
+        },
+        {
+          "distance": 0.23202651739120483,
+          "id": 1729355707
+        },
+        {
+          "distance": 0.2360384464263916,
+          "id": 1729355703
+        },
+        {
+          "distance": 0.23709368705749512,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.2413347363471985,
+          "id": 1729355703
+        },
+        {
+          "distance": 0.2543702721595764,
+          "id": 1880151253
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729358827,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Fred Eversley worked as an aerospace engineer until 1967, when he turned to making sculpture...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

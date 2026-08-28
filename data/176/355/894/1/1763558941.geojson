@@ -28,6 +28,50 @@
       "taken": 1609423380,
       "taken_at": "Dec 31, 2020 2:03 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.03896939754486084,
+          "id": 1763558611
+        },
+        {
+          "distance": 0.03896939754486084,
+          "id": 1729361207
+        },
+        {
+          "distance": 0.20375430583953857,
+          "id": 1729361207
+        },
+        {
+          "distance": 0.20375430583953857,
+          "id": 1763558611
+        },
+        {
+          "distance": 0.4750902056694031,
+          "id": 1729360181
+        },
+        {
+          "distance": 0.47915828227996826,
+          "id": 1763558679
+        },
+        {
+          "distance": 0.4864545464515686,
+          "id": 1729359463
+        },
+        {
+          "distance": 0.48912376165390015,
+          "id": 1729361485
+        },
+        {
+          "distance": 0.49093902111053467,
+          "id": 1729360075
+        },
+        {
+          "distance": 0.495704710483551,
+          "id": 1729360075
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1763558941,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Happy New Year from SFO Museum!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

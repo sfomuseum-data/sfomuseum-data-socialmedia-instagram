@@ -32,6 +32,50 @@
       "taken": 1623083820,
       "taken_at": "Jun 07, 2021 4:37 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13916456699371338,
+          "id": 1763559145
+        },
+        {
+          "distance": 0.1573745608329773,
+          "id": 1763558891
+        },
+        {
+          "distance": 0.15816152095794678,
+          "id": 1763559187
+        },
+        {
+          "distance": 0.17134928703308105,
+          "id": 1763559169
+        },
+        {
+          "distance": 0.17322969436645508,
+          "id": 1763558859
+        },
+        {
+          "distance": 0.17466264963150024,
+          "id": 1763558859
+        },
+        {
+          "distance": 0.17484283447265625,
+          "id": 1729357431
+        },
+        {
+          "distance": 0.17692548036575317,
+          "id": 1763559169
+        },
+        {
+          "distance": 0.17823857069015503,
+          "id": 1763558891
+        },
+        {
+          "distance": 0.18083268404006958,
+          "id": 1763559251
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1763559111,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "The Astronauts formed in Boulder, Colorado, in the late 1950s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

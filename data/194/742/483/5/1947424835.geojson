@@ -25,6 +25,50 @@
       "taken": 1729871820,
       "taken_at": "Oct 25, 2024 3:57 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20140385627746582,
+          "id": 1947424865
+        },
+        {
+          "distance": 0.24714922904968262,
+          "id": 1947424865
+        },
+        {
+          "distance": 0.25172489881515503,
+          "id": 1729355227
+        },
+        {
+          "distance": 0.2567315697669983,
+          "id": 1763558929
+        },
+        {
+          "distance": 0.2568103075027466,
+          "id": 1763558929
+        },
+        {
+          "distance": 0.2633702754974365,
+          "id": 1729358177
+        },
+        {
+          "distance": 0.263591468334198,
+          "id": 1729358177
+        },
+        {
+          "distance": 0.27138757705688477,
+          "id": 1763559663
+        },
+        {
+          "distance": 0.27445924282073975,
+          "id": 1729357125
+        },
+        {
+          "distance": 0.27532410621643066,
+          "id": 1729360673
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -53,7 +97,7 @@
       }
     ],
     "wof:id": 1947424835,
-    "wof:lastmodified": 1733175318,
+    "wof:lastmodified": 1787777664,
     "wof:name": "An engineering marvel, the Art Deco-inspired Golden Gate Bridge has stood as an iconic symbol of San Francisco since its opening in 1937...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -67,5 +111,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

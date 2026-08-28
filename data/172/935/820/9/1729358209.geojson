@@ -38,6 +38,50 @@
       "taken": 1526810460,
       "taken_at": "May 20, 2018 10:01 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10768723487854004,
+          "id": 1763559125
+        },
+        {
+          "distance": 0.10953199863433838,
+          "id": 1729359645
+        },
+        {
+          "distance": 0.12962132692337036,
+          "id": 1763558867
+        },
+        {
+          "distance": 0.12989884614944458,
+          "id": 1729359397
+        },
+        {
+          "distance": 0.1314619779586792,
+          "id": 1763558867
+        },
+        {
+          "distance": 0.1368030309677124,
+          "id": 1729355605
+        },
+        {
+          "distance": 0.1509166955947876,
+          "id": 1729361117
+        },
+        {
+          "distance": 0.15253448486328125,
+          "id": 1729360723
+        },
+        {
+          "distance": 0.1589556336402893,
+          "id": 1763559125
+        },
+        {
+          "distance": 0.15903902053833008,
+          "id": 1729358635
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729358209,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "What did people eat on aircraft in the early days of aviation?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -36,6 +36,50 @@
       "taken": 1541775060,
       "taken_at": "Nov 09, 2018 2:51 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.000022649765014648438,
+          "id": 1729357409
+        },
+        {
+          "distance": 0.04839354753494263,
+          "id": 1729357229
+        },
+        {
+          "distance": 0.10289901494979858,
+          "id": 1729357239
+        },
+        {
+          "distance": 0.10463988780975342,
+          "id": 1729357409
+        },
+        {
+          "distance": 0.10549944639205933,
+          "id": 1729357239
+        },
+        {
+          "distance": 0.11478686332702637,
+          "id": 1729357229
+        },
+        {
+          "distance": 0.17047405242919922,
+          "id": 1729356997
+        },
+        {
+          "distance": 0.1728283166885376,
+          "id": 1729357385
+        },
+        {
+          "distance": 0.19187015295028687,
+          "id": 1729356631
+        },
+        {
+          "distance": 0.21163052320480347,
+          "id": 1729357111
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1763558785,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777659,
     "wof:name": "\"Behind the world of the artisan is…that desire to take an inanimate material, and bring it to life in a form or image that will sing out; that desire to pay homage to my surroundings, to my creativity; that thanksgiving to that first bite into the apple of awareness.\"..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

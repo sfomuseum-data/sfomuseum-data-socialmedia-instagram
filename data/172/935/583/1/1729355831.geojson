@@ -34,6 +34,50 @@
       "taken": 1575310380,
       "taken_at": "Dec 02, 2019 6:13 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09160804748535156,
+          "id": 1729356175
+        },
+        {
+          "distance": 0.13382810354232788,
+          "id": 1729355835
+        },
+        {
+          "distance": 0.14701342582702637,
+          "id": 1729355975
+        },
+        {
+          "distance": 0.1712929606437683,
+          "id": 1729356419
+        },
+        {
+          "distance": 0.18652164936065674,
+          "id": 1729356175
+        },
+        {
+          "distance": 0.19206607341766357,
+          "id": 1729356125
+        },
+        {
+          "distance": 0.2183161973953247,
+          "id": 1729355835
+        },
+        {
+          "distance": 0.2225307822227478,
+          "id": 1729355973
+        },
+        {
+          "distance": 0.22484278678894043,
+          "id": 1729362111
+        },
+        {
+          "distance": 0.22903943061828613,
+          "id": 1729355975
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729355831,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777627,
     "wof:name": "In response to the Victorians’ love of collecting and eclectic display, furniture firms also produced smaller, shorter stands to display all manner of items—from plants, vases, and candleholders to smoking paraphernalia...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

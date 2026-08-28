@@ -34,6 +34,50 @@
       "taken": 1573120140,
       "taken_at": "Nov 07, 2019 9:49 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.022866010665893555,
+          "id": 1729356161
+        },
+        {
+          "distance": 0.10500073432922363,
+          "id": 1729356161
+        },
+        {
+          "distance": 0.15737581253051758,
+          "id": 1729356125
+        },
+        {
+          "distance": 0.19026672840118408,
+          "id": 1729356419
+        },
+        {
+          "distance": 0.1942870020866394,
+          "id": 1729356487
+        },
+        {
+          "distance": 0.2082398533821106,
+          "id": 1729355681
+        },
+        {
+          "distance": 0.21017539501190186,
+          "id": 1729356487
+        },
+        {
+          "distance": 0.2117307186126709,
+          "id": 1729356205
+        },
+        {
+          "distance": 0.21414470672607422,
+          "id": 1729356125
+        },
+        {
+          "distance": 0.22825270891189575,
+          "id": 1729356397
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729355901,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777627,
     "wof:name": "Ancient Egyptian decoration and ornamentation were frequently derived from the flora and fauna found along the Nile...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

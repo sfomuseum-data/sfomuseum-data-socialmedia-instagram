@@ -30,6 +30,50 @@
       "taken": 1609254780,
       "taken_at": "Dec 29, 2020 3:13 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18908542394638062,
+          "id": 1763559151
+        },
+        {
+          "distance": 0.21979212760925293,
+          "id": 1763559151
+        },
+        {
+          "distance": 0.24768632650375366,
+          "id": 1729355963
+        },
+        {
+          "distance": 0.25922536849975586,
+          "id": 1729355963
+        },
+        {
+          "distance": 0.27168983221054077,
+          "id": 1729355961
+        },
+        {
+          "distance": 0.3040214776992798,
+          "id": 1729355961
+        },
+        {
+          "distance": 0.31965118646621704,
+          "id": 1729360931
+        },
+        {
+          "distance": 0.32372719049453735,
+          "id": 1729360931
+        },
+        {
+          "distance": 0.34397828578948975,
+          "id": 1729360103
+        },
+        {
+          "distance": 0.34570783376693726,
+          "id": 1763558967
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763558945,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Our newest exhibition, “Hair Style” features sculptures by Jeff Hafler of Beauty Bubble Salon and Museum (@beautybubblesalon)...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

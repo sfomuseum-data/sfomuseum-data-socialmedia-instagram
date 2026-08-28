@@ -34,6 +34,50 @@
       "taken": 1549980780,
       "taken_at": "Feb 12, 2019 2:13 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06269311904907227,
+          "id": 1729360553
+        },
+        {
+          "distance": 0.11148369312286377,
+          "id": 1729360553
+        },
+        {
+          "distance": 0.2872808575630188,
+          "id": 1729360987
+        },
+        {
+          "distance": 0.3214825391769409,
+          "id": 1729360987
+        },
+        {
+          "distance": 0.32447218894958496,
+          "id": 1729359803
+        },
+        {
+          "distance": 0.3258916139602661,
+          "id": 1947424967
+        },
+        {
+          "distance": 0.3260347247123718,
+          "id": 1947424967
+        },
+        {
+          "distance": 0.32706278562545776,
+          "id": 1729359015
+        },
+        {
+          "distance": 0.3329099416732788,
+          "id": 1729359455
+        },
+        {
+          "distance": 0.3354291319847107,
+          "id": 1729359715
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729356959,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Pan American World Airways' service to South Africa began in 1947...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

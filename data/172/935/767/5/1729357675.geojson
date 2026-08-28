@@ -39,6 +39,50 @@
       "taken": 1537039980,
       "taken_at": "Sep 15, 2018 7:33 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.37296634912490845,
+          "id": 1947425035
+        },
+        {
+          "distance": 0.38078027963638306,
+          "id": 1729356835
+        },
+        {
+          "distance": 0.3815298080444336,
+          "id": 1947424971
+        },
+        {
+          "distance": 0.3838251829147339,
+          "id": 1729356627
+        },
+        {
+          "distance": 0.3841686248779297,
+          "id": 1729357079
+        },
+        {
+          "distance": 0.3871006965637207,
+          "id": 1729356653
+        },
+        {
+          "distance": 0.3876515030860901,
+          "id": 1729356835
+        },
+        {
+          "distance": 0.3880426287651062,
+          "id": 1729357079
+        },
+        {
+          "distance": 0.39349228143692017,
+          "id": 1729356627
+        },
+        {
+          "distance": 0.39932340383529663,
+          "id": 1729357405
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729357675,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Our newest exhibition, \"Down-Home Music: The Story of Arhoolie Records\" traces the story of Arhoolie Records, a Bay Area-based label that recorded a variety of American traditional music, including blues, Cajun/Creole, and conjunto/norteño music...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

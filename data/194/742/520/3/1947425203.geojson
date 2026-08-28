@@ -30,6 +30,50 @@
       "taken": 1701364440,
       "taken_at": "Nov 30, 2023 5:14 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17943191528320312,
+          "id": 1947425257
+        },
+        {
+          "distance": 0.2554660439491272,
+          "id": 1729358693
+        },
+        {
+          "distance": 0.2609413266181946,
+          "id": 1729357135
+        },
+        {
+          "distance": 0.2609413266181946,
+          "id": 1763558801
+        },
+        {
+          "distance": 0.26591724157333374,
+          "id": 1947425087
+        },
+        {
+          "distance": 0.268368661403656,
+          "id": 1763558737
+        },
+        {
+          "distance": 0.268368661403656,
+          "id": 1729358417
+        },
+        {
+          "distance": 0.26875221729278564,
+          "id": 1729357609
+        },
+        {
+          "distance": 0.2712476849555969,
+          "id": 1763559119
+        },
+        {
+          "distance": 0.271912157535553,
+          "id": 1729357069
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1947425203,
-    "wof:lastmodified": 1733175329,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Many of the assemblages in the Unknown Museum were conceived as conceptual art, inviting people to embark on their own unique “personal scavenger hunt.” When confronted with so many common objects from years past, visitors often asked curator, Mickey McGowan, to see a specific item, and then proceeded to search for it among a multitude of similar things...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

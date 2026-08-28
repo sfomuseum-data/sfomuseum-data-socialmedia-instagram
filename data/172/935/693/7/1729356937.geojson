@@ -32,6 +32,50 @@
       "taken": 1550773140,
       "taken_at": "Feb 21, 2019 6:19 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1833782196044922,
+          "id": 1729360759
+        },
+        {
+          "distance": 0.24367427825927734,
+          "id": 1729361059
+        },
+        {
+          "distance": 0.248681902885437,
+          "id": 1729360759
+        },
+        {
+          "distance": 0.2546030879020691,
+          "id": 1729362755
+        },
+        {
+          "distance": 0.25937145948410034,
+          "id": 1729357809
+        },
+        {
+          "distance": 0.26342642307281494,
+          "id": 1729362755
+        },
+        {
+          "distance": 0.2642160654067993,
+          "id": 1729359415
+        },
+        {
+          "distance": 0.27216988801956177,
+          "id": 1729355737
+        },
+        {
+          "distance": 0.2730684280395508,
+          "id": 1729358965
+        },
+        {
+          "distance": 0.27570587396621704,
+          "id": 1729361153
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729356937,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777629,
     "wof:name": "The iconic flight bag...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -35,6 +35,50 @@
       "taken": 1527455100,
       "taken_at": "May 27, 2018 9:05 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2510337233543396,
+          "id": 1729361219
+        },
+        {
+          "distance": 0.2692157030105591,
+          "id": 1729355947
+        },
+        {
+          "distance": 0.2806131839752197,
+          "id": 1763559173
+        },
+        {
+          "distance": 0.2881530523300171,
+          "id": 1729361219
+        },
+        {
+          "distance": 0.28902649879455566,
+          "id": 1729360009
+        },
+        {
+          "distance": 0.2943931818008423,
+          "id": 1729358729
+        },
+        {
+          "distance": 0.29533034563064575,
+          "id": 1729360929
+        },
+        {
+          "distance": 0.2961782217025757,
+          "id": 1729361305
+        },
+        {
+          "distance": 0.29763197898864746,
+          "id": 1729360009
+        },
+        {
+          "distance": 0.3099493384361267,
+          "id": 1729355947
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729358179,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "What a spectacular view!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

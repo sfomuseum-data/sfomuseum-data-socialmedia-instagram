@@ -29,6 +29,50 @@
       "taken": 1654708740,
       "taken_at": "Jun 08, 2022 5:19 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06620430946350098,
+          "id": 1880151595
+        },
+        {
+          "distance": 0.0961795449256897,
+          "id": 1880151661
+        },
+        {
+          "distance": 0.11855018138885498,
+          "id": 1880151611
+        },
+        {
+          "distance": 0.13015687465667725,
+          "id": 1880151595
+        },
+        {
+          "distance": 0.13032841682434082,
+          "id": 1880151641
+        },
+        {
+          "distance": 0.13148504495620728,
+          "id": 1729360513
+        },
+        {
+          "distance": 0.1402462124824524,
+          "id": 1880151661
+        },
+        {
+          "distance": 0.14285975694656372,
+          "id": 1729355651
+        },
+        {
+          "distance": 0.14810842275619507,
+          "id": 1729356029
+        },
+        {
+          "distance": 0.15466409921646118,
+          "id": 1729355471
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880151673,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Before becoming an aviator, the Belgian-born Hélène Dutrieu was a world-champion cyclist, an automobile racer, a stunt performer, and a comedic actor...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

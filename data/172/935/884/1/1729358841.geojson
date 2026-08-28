@@ -53,6 +53,50 @@
       "taken": 1512740820,
       "taken_at": "Dec 08, 2017 1:47 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06894576549530029,
+          "id": 1729357491
+        },
+        {
+          "distance": 0.07935541868209839,
+          "id": 1729358869
+        },
+        {
+          "distance": 0.11720430850982666,
+          "id": 1729357291
+        },
+        {
+          "distance": 0.11827021837234497,
+          "id": 1729357763
+        },
+        {
+          "distance": 0.13108325004577637,
+          "id": 1729358011
+        },
+        {
+          "distance": 0.13761746883392334,
+          "id": 1729356973
+        },
+        {
+          "distance": 0.14324408769607544,
+          "id": 1729357273
+        },
+        {
+          "distance": 0.1440613865852356,
+          "id": 1729357491
+        },
+        {
+          "distance": 0.14561337232589722,
+          "id": 1729357673
+        },
+        {
+          "distance": 0.15243655443191528,
+          "id": 1729357291
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -82,7 +126,7 @@
       }
     ],
     "wof:id": 1729358841,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "In 1939, Hollywood producer, financial magnate, and visionary aviator Howard Hughes acquired a majority share of TWA (Transcontinental \u0026 Western Air)...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -99,5 +143,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

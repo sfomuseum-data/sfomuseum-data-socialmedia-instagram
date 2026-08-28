@@ -25,6 +25,50 @@
       "taken": 1455184860,
       "taken_at": "Feb 11, 2016 10:01 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23516058921813965,
+          "id": 1729362317
+        },
+        {
+          "distance": 0.26028841733932495,
+          "id": 1880151587
+        },
+        {
+          "distance": 0.26677531003952026,
+          "id": 1729362317
+        },
+        {
+          "distance": 0.3019748330116272,
+          "id": 1729356451
+        },
+        {
+          "distance": 0.3130018711090088,
+          "id": 1880151587
+        },
+        {
+          "distance": 0.31534236669540405,
+          "id": 1729360789
+        },
+        {
+          "distance": 0.36132681369781494,
+          "id": 1729360789
+        },
+        {
+          "distance": 0.37462031841278076,
+          "id": 1729356451
+        },
+        {
+          "distance": 0.4049423933029175,
+          "id": 1729357955
+        },
+        {
+          "distance": 0.40686047077178955,
+          "id": 1729362635
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361065,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777643,
     "wof:name": "Our collection features more than 600 swizzle sticks, used for stirring beverages on flights...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

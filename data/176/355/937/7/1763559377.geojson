@@ -30,6 +30,50 @@
       "taken": 1634226600,
       "taken_at": "Oct 14, 2021 3:50 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2300085425376892,
+          "id": 1729360171
+        },
+        {
+          "distance": 0.23633533716201782,
+          "id": 1729359335
+        },
+        {
+          "distance": 0.23633533716201782,
+          "id": 1763558671
+        },
+        {
+          "distance": 0.24367761611938477,
+          "id": 1729360981
+        },
+        {
+          "distance": 0.24493753910064697,
+          "id": 1729358293
+        },
+        {
+          "distance": 0.24531185626983643,
+          "id": 1729359989
+        },
+        {
+          "distance": 0.24625718593597412,
+          "id": 1729359989
+        },
+        {
+          "distance": 0.2476797103881836,
+          "id": 1729358079
+        },
+        {
+          "distance": 0.2588411569595337,
+          "id": 1729356405
+        },
+        {
+          "distance": 0.26943111419677734,
+          "id": 1729359107
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559377,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Happy Birthday, Ralph Lauren!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

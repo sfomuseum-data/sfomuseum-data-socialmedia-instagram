@@ -32,6 +32,50 @@
       "taken": 1488394860,
       "taken_at": "Mar 01, 2017 7:01 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19218933582305908,
+          "id": 1729359449
+        },
+        {
+          "distance": 0.24032437801361084,
+          "id": 1729359449
+        },
+        {
+          "distance": 0.24269956350326538,
+          "id": 1729359347
+        },
+        {
+          "distance": 0.2750587463378906,
+          "id": 1729359469
+        },
+        {
+          "distance": 0.2809355854988098,
+          "id": 1729359347
+        },
+        {
+          "distance": 0.3208404779434204,
+          "id": 1729359469
+        },
+        {
+          "distance": 0.39579659700393677,
+          "id": 1729359871
+        },
+        {
+          "distance": 0.39627015590667725,
+          "id": 1729360183
+        },
+        {
+          "distance": 0.3979785442352295,
+          "id": 1729360173
+        },
+        {
+          "distance": 0.3989713788032532,
+          "id": 1729359331
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729359785,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "Born in Bergamo, Italy in 1606, painter Viviano Codazzi reached Naples by the 1620s, where he demonstrated remarkable skill with \"quadratura\"—architectural perspective...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

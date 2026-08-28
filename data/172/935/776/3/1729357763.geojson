@@ -38,6 +38,50 @@
       "taken": 1535141640,
       "taken_at": "Aug 24, 2018 8:14 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09864813089370728,
+          "id": 1729358869
+        },
+        {
+          "distance": 0.11812633275985718,
+          "id": 1729358841
+        },
+        {
+          "distance": 0.13018274307250977,
+          "id": 1729357673
+        },
+        {
+          "distance": 0.1338026523590088,
+          "id": 1729357491
+        },
+        {
+          "distance": 0.16372501850128174,
+          "id": 1729357291
+        },
+        {
+          "distance": 0.16394633054733276,
+          "id": 1729357291
+        },
+        {
+          "distance": 0.16430753469467163,
+          "id": 1729356973
+        },
+        {
+          "distance": 0.1662641167640686,
+          "id": 1729358171
+        },
+        {
+          "distance": 0.16778892278671265,
+          "id": 1729357183
+        },
+        {
+          "distance": 0.16942554712295532,
+          "id": 1729358841
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729357763,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "At the end of World War II, the French aircraft manufacturer Breguet began designing a large-capacity, mid-range airliner that would ultimately become the four-engine, double-deck 763 Provence...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

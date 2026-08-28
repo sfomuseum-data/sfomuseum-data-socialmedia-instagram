@@ -25,6 +25,50 @@
       "taken": 1366621200,
       "taken_at": "Apr 22, 2013 9:00 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2601790428161621,
+          "id": 1729363039
+        },
+        {
+          "distance": 0.28937971591949463,
+          "id": 1729362991
+        },
+        {
+          "distance": 0.30083149671554565,
+          "id": 1729363039
+        },
+        {
+          "distance": 0.3201764225959778,
+          "id": 1729362453
+        },
+        {
+          "distance": 0.320385217666626,
+          "id": 1729362647
+        },
+        {
+          "distance": 0.32190579175949097,
+          "id": 1729362175
+        },
+        {
+          "distance": 0.3243855834007263,
+          "id": 1729362651
+        },
+        {
+          "distance": 0.32830625772476196,
+          "id": 1729362739
+        },
+        {
+          "distance": 0.3341488242149353,
+          "id": 1729362283
+        },
+        {
+          "distance": 0.33873897790908813,
+          "id": 1729362963
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362725,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "Scott Oliver aims to explore the meaning of everyday objects by melding mass produced objects with labor-intensive handicraft...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

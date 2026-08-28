@@ -25,6 +25,50 @@
       "taken": 1455098760,
       "taken_at": "Feb 10, 2016 10:06 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.21459347009658813,
+          "id": 1729358717
+        },
+        {
+          "distance": 0.22761595249176025,
+          "id": 1729356485
+        },
+        {
+          "distance": 0.23869329690933228,
+          "id": 1880151071
+        },
+        {
+          "distance": 0.24653875827789307,
+          "id": 1729357345
+        },
+        {
+          "distance": 0.2514806389808655,
+          "id": 1729358717
+        },
+        {
+          "distance": 0.2570035457611084,
+          "id": 1729357769
+        },
+        {
+          "distance": 0.26252591609954834,
+          "id": 1880151071
+        },
+        {
+          "distance": 0.2654010057449341,
+          "id": 1729358785
+        },
+        {
+          "distance": 0.2686976194381714,
+          "id": 1729356485
+        },
+        {
+          "distance": 0.27167052030563354,
+          "id": 1729357345
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361067,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777643,
     "wof:name": "Did you know that Pan American World Airways had its own helicopter service?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -30,6 +30,50 @@
       "taken": 1542660660,
       "taken_at": "Nov 19, 2018 8:51 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.05942648649215698,
+          "id": 1729355781
+        },
+        {
+          "distance": 0.13190847635269165,
+          "id": 1729355781
+        },
+        {
+          "distance": 0.2261059284210205,
+          "id": 1729357285
+        },
+        {
+          "distance": 0.22774887084960938,
+          "id": 1729355235
+        },
+        {
+          "distance": 0.22937923669815063,
+          "id": 1880151729
+        },
+        {
+          "distance": 0.23013830184936523,
+          "id": 1729360919
+        },
+        {
+          "distance": 0.2375594973564148,
+          "id": 1880151627
+        },
+        {
+          "distance": 0.2395206093788147,
+          "id": 1729359417
+        },
+        {
+          "distance": 0.24270129203796387,
+          "id": 1763558765
+        },
+        {
+          "distance": 0.24270129203796387,
+          "id": 1729357579
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729357341,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777631,
     "wof:name": "Do you or a friend or family member hold material pertaining to the life and legacy of San Francisco Supervisor Harvey B. Milk?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

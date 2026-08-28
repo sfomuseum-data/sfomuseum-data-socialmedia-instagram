@@ -47,6 +47,50 @@
       "taken": 1503141240,
       "taken_at": "Aug 19, 2017 11:14 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17982006072998047,
+          "id": 1729361735
+        },
+        {
+          "distance": 0.19392156600952148,
+          "id": 1763559357
+        },
+        {
+          "distance": 0.20710039138793945,
+          "id": 1729357215
+        },
+        {
+          "distance": 0.20826822519302368,
+          "id": 1763558959
+        },
+        {
+          "distance": 0.21549183130264282,
+          "id": 1729359933
+        },
+        {
+          "distance": 0.21609795093536377,
+          "id": 1729360259
+        },
+        {
+          "distance": 0.21651095151901245,
+          "id": 1729358851
+        },
+        {
+          "distance": 0.21687138080596924,
+          "id": 1729361019
+        },
+        {
+          "distance": 0.22388440370559692,
+          "id": 1729359601
+        },
+        {
+          "distance": 0.2270182967185974,
+          "id": 1763559357
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -76,7 +120,7 @@
       }
     ],
     "wof:id": 1729359165,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "It's National Aviation Day!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -93,5 +137,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

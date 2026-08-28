@@ -25,6 +25,50 @@
       "taken": 1466940000,
       "taken_at": "Jun 26, 2016 11:20 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3145316243171692,
+          "id": 1729359277
+        },
+        {
+          "distance": 0.3544926643371582,
+          "id": 1729359277
+        },
+        {
+          "distance": 0.4020938277244568,
+          "id": 1729360475
+        },
+        {
+          "distance": 0.40631741285324097,
+          "id": 1880151645
+        },
+        {
+          "distance": 0.4110642671585083,
+          "id": 1729362931
+        },
+        {
+          "distance": 0.4158214330673218,
+          "id": 1729362039
+        },
+        {
+          "distance": 0.41669392585754395,
+          "id": 1729361941
+        },
+        {
+          "distance": 0.4187779426574707,
+          "id": 1763558987
+        },
+        {
+          "distance": 0.4209005832672119,
+          "id": 1729359671
+        },
+        {
+          "distance": 0.42567765712738037,
+          "id": 1729362931
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360585,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "An inspiring poster from the 1930s!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

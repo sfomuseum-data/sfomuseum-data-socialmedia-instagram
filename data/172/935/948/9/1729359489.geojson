@@ -34,6 +34,50 @@
       "taken": 1495038060,
       "taken_at": "May 17, 2017 4:21 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.05626899003982544,
+          "id": 1729361311
+        },
+        {
+          "distance": 0.07802742719650269,
+          "id": 1729355241
+        },
+        {
+          "distance": 0.0793839693069458,
+          "id": 1729355241
+        },
+        {
+          "distance": 0.0833539366722107,
+          "id": 1729361311
+        },
+        {
+          "distance": 0.14382165670394897,
+          "id": 1729355335
+        },
+        {
+          "distance": 0.1442052125930786,
+          "id": 1763558845
+        },
+        {
+          "distance": 0.16143542528152466,
+          "id": 1729355335
+        },
+        {
+          "distance": 0.16271603107452393,
+          "id": 1729359201
+        },
+        {
+          "distance": 0.16570711135864258,
+          "id": 1763558845
+        },
+        {
+          "distance": 0.17372596263885498,
+          "id": 1729359201
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729359489,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "In 1966, Pan American World Airways started hiring Japanese nationals in expectation of growth and expansion of its Pacific routes...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

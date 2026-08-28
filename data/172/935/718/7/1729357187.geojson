@@ -35,6 +35,50 @@
       "taken": 1545667620,
       "taken_at": "Dec 24, 2018 4:07 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3787883520126343,
+          "id": 1729356985
+        },
+        {
+          "distance": 0.3846184015274048,
+          "id": 1763559437
+        },
+        {
+          "distance": 0.3857029676437378,
+          "id": 1729357469
+        },
+        {
+          "distance": 0.38797491788864136,
+          "id": 1729359177
+        },
+        {
+          "distance": 0.3883107304573059,
+          "id": 1763559437
+        },
+        {
+          "distance": 0.38918012380599976,
+          "id": 1729359427
+        },
+        {
+          "distance": 0.3907032012939453,
+          "id": 1729355677
+        },
+        {
+          "distance": 0.3929702639579773,
+          "id": 1729356549
+        },
+        {
+          "distance": 0.3937755227088928,
+          "id": 1729355677
+        },
+        {
+          "distance": 0.3939315676689148,
+          "id": 1729355903
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729357187,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777630,
     "wof:name": "With deadpan humor, filmmaker James P. Gannon profiles his friend, a decidedly grinchy Jimmy Cochran, whose seasonal job is to turn out the lights along a two-mile stretch of “winter wonderland” in a small suburb of Philadelphia...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -32,6 +32,50 @@
       "taken": 1662463620,
       "taken_at": "Sep 06, 2022 11:27 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.21010172367095947,
+          "id": 1880151337
+        },
+        {
+          "distance": 0.23707419633865356,
+          "id": 1880151337
+        },
+        {
+          "distance": 0.24993956089019775,
+          "id": 1729355755
+        },
+        {
+          "distance": 0.2553197145462036,
+          "id": 1763558827
+        },
+        {
+          "distance": 0.26409876346588135,
+          "id": 1729357069
+        },
+        {
+          "distance": 0.26449382305145264,
+          "id": 1880151191
+        },
+        {
+          "distance": 0.2693159580230713,
+          "id": 1729358085
+        },
+        {
+          "distance": 0.27030354738235474,
+          "id": 1880151191
+        },
+        {
+          "distance": 0.2704184651374817,
+          "id": 1880151393
+        },
+        {
+          "distance": 0.27048957347869873,
+          "id": 1880151293
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1880151461,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "The scale 1:10 United Air Lines DC-8 model on display in our exhibition \"Jet Mainliner in Miniature: The United Air Lines Douglas DC-8 Cutaway Model” is one of the largest models in SFO Museum's collection...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

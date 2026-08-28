@@ -39,6 +39,50 @@
       "taken": 1546620600,
       "taken_at": "Jan 4, 2019, 4:50 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1967860460281372,
+          "id": 1729358853
+        },
+        {
+          "distance": 0.21281450986862183,
+          "id": 1763559053
+        },
+        {
+          "distance": 0.21618574857711792,
+          "id": 1729357395
+        },
+        {
+          "distance": 0.2252761721611023,
+          "id": 1729358853
+        },
+        {
+          "distance": 0.22606664896011353,
+          "id": 1729357123
+        },
+        {
+          "distance": 0.2304820418357849,
+          "id": 1729361973
+        },
+        {
+          "distance": 0.231889545917511,
+          "id": 1729358643
+        },
+        {
+          "distance": 0.23596996068954468,
+          "id": 1729357251
+        },
+        {
+          "distance": 0.23609620332717896,
+          "id": 1729361973
+        },
+        {
+          "distance": 0.2374035120010376,
+          "id": 1729357251
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729357131,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777630,
     "wof:name": "The Boeing 727 was a medium range, intermediate-capacity jetliner that could serve regional airports with short runways...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1448537520,
       "taken_at": "Nov 26, 2015 11:32 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.34226298332214355,
+          "id": 1729355011
+        },
+        {
+          "distance": 0.34486210346221924,
+          "id": 1763558729
+        },
+        {
+          "distance": 0.34486210346221924,
+          "id": 1729358233
+        },
+        {
+          "distance": 0.3567642569541931,
+          "id": 1729358239
+        },
+        {
+          "distance": 0.3600764274597168,
+          "id": 1729356191
+        },
+        {
+          "distance": 0.3603547215461731,
+          "id": 1729362217
+        },
+        {
+          "distance": 0.36131900548934937,
+          "id": 1729362613
+        },
+        {
+          "distance": 0.3614411950111389,
+          "id": 1729358239
+        },
+        {
+          "distance": 0.3715026378631592,
+          "id": 1729361699
+        },
+        {
+          "distance": 0.37328678369522095,
+          "id": 1729356191
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361335,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "Happy Thanksgiving!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

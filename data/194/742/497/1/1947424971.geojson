@@ -27,6 +27,50 @@
       "taken": 1719848880,
       "taken_at": "Jul 01, 2024 3:48 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07939594984054565,
+          "id": 1947425035
+        },
+        {
+          "distance": 0.10680419206619263,
+          "id": 1947425035
+        },
+        {
+          "distance": 0.3259648084640503,
+          "id": 1763559597
+        },
+        {
+          "distance": 0.3338834047317505,
+          "id": 1947425315
+        },
+        {
+          "distance": 0.3432226777076721,
+          "id": 1947424921
+        },
+        {
+          "distance": 0.34862709045410156,
+          "id": 1880151439
+        },
+        {
+          "distance": 0.35204142332077026,
+          "id": 1729358083
+        },
+        {
+          "distance": 0.3523058295249939,
+          "id": 1729357143
+        },
+        {
+          "distance": 0.3581274151802063,
+          "id": 1729356475
+        },
+        {
+          "distance": 0.3594834804534912,
+          "id": 1947425315
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947424971,
-    "wof:lastmodified": 1733175322,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Carved human or animal forms, heads, or faces in high or low relief animate instruments...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

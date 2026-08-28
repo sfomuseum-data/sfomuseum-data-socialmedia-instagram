@@ -30,6 +30,50 @@
       "taken": 1441041360,
       "taken_at": "Aug 31, 2015 5:16 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2795265316963196,
+          "id": 1729361905
+        },
+        {
+          "distance": 0.2817386984825134,
+          "id": 1729361829
+        },
+        {
+          "distance": 0.29624414443969727,
+          "id": 1729361537
+        },
+        {
+          "distance": 0.3091832399368286,
+          "id": 1729361813
+        },
+        {
+          "distance": 0.3096539378166199,
+          "id": 1729361765
+        },
+        {
+          "distance": 0.31215840578079224,
+          "id": 1729361829
+        },
+        {
+          "distance": 0.31545233726501465,
+          "id": 1729361389
+        },
+        {
+          "distance": 0.31771236658096313,
+          "id": 1729361407
+        },
+        {
+          "distance": 0.3221268057823181,
+          "id": 1729361725
+        },
+        {
+          "distance": 0.3227226138114929,
+          "id": 1729361321
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729361579,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777646,
     "wof:name": "The Wolf Man (1941) launched Universal’s second wave of horror films...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

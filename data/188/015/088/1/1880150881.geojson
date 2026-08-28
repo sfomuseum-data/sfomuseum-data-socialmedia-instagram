@@ -25,6 +25,50 @@
       "taken": 1688401200,
       "taken_at": "Jul 03, 2023 4:20 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.30621767044067383,
+          "id": 1729356623
+        },
+        {
+          "distance": 0.3113791346549988,
+          "id": 1763559109
+        },
+        {
+          "distance": 0.31840264797210693,
+          "id": 1729356319
+        },
+        {
+          "distance": 0.33426809310913086,
+          "id": 1729360469
+        },
+        {
+          "distance": 0.3381153345108032,
+          "id": 1729359227
+        },
+        {
+          "distance": 0.34299176931381226,
+          "id": 1729358537
+        },
+        {
+          "distance": 0.34624606370925903,
+          "id": 1880151603
+        },
+        {
+          "distance": 0.34754908084869385,
+          "id": 1729356623
+        },
+        {
+          "distance": 0.35001319646835327,
+          "id": 1729360249
+        },
+        {
+          "distance": 0.3501061797142029,
+          "id": 1729357707
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1880150881,
-    "wof:lastmodified": 1733175333,
+    "wof:lastmodified": 1787777661,
     "wof:name": "Happy Fourth of July!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

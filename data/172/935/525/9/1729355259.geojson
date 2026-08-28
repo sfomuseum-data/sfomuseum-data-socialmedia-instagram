@@ -28,6 +28,50 @@
       "taken": 1589281200,
       "taken_at": "May 12, 2020 11:00 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0021927356719970703,
+          "id": 1729361131
+        },
+        {
+          "distance": 0.15464788675308228,
+          "id": 1729361131
+        },
+        {
+          "distance": 0.15630847215652466,
+          "id": 1729356563
+        },
+        {
+          "distance": 0.1650211215019226,
+          "id": 1947425081
+        },
+        {
+          "distance": 0.17142528295516968,
+          "id": 1729355587
+        },
+        {
+          "distance": 0.1794980764389038,
+          "id": 1729359251
+        },
+        {
+          "distance": 0.18430829048156738,
+          "id": 1729359841
+        },
+        {
+          "distance": 0.18609899282455444,
+          "id": 1947425081
+        },
+        {
+          "distance": 0.187411367893219,
+          "id": 1729361245
+        },
+        {
+          "distance": 0.1911296248435974,
+          "id": 1729360843
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1729355259,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777621,
     "wof:name": "Happy #InternationalNursesDay!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

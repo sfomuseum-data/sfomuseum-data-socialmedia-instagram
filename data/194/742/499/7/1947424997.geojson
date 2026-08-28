@@ -27,6 +27,50 @@
       "taken": 1716531660,
       "taken_at": "May 24, 2024 6:21 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13626450300216675,
+          "id": 1729355349
+        },
+        {
+          "distance": 0.1430252194404602,
+          "id": 1763559575
+        },
+        {
+          "distance": 0.14868605136871338,
+          "id": 1763559029
+        },
+        {
+          "distance": 0.15084367990493774,
+          "id": 1729355349
+        },
+        {
+          "distance": 0.15292030572891235,
+          "id": 1763559575
+        },
+        {
+          "distance": 0.2006327509880066,
+          "id": 1880151261
+        },
+        {
+          "distance": 0.2022724747657776,
+          "id": 1729355945
+        },
+        {
+          "distance": 0.20552802085876465,
+          "id": 1729355945
+        },
+        {
+          "distance": 0.20656561851501465,
+          "id": 1763559029
+        },
+        {
+          "distance": 0.20850783586502075,
+          "id": 1729355495
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947424997,
-    "wof:lastmodified": 1733175323,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Initially, Congress banned Concorde service to the United States due to concerns over the aircraft’s sonic boom, but on May 24, 1976, an exception was made for transatlantic service to Washington Dulles International Airport from London and Paris...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1458934560,
       "taken_at": "Mar 25, 2016 7:36 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15171760320663452,
+          "id": 1729359953
+        },
+        {
+          "distance": 0.21246176958084106,
+          "id": 1729359953
+        },
+        {
+          "distance": 0.22837454080581665,
+          "id": 1729357197
+        },
+        {
+          "distance": 0.2654256224632263,
+          "id": 1729358877
+        },
+        {
+          "distance": 0.27135127782821655,
+          "id": 1729357197
+        },
+        {
+          "distance": 0.2733047604560852,
+          "id": 1729357593
+        },
+        {
+          "distance": 0.2828185558319092,
+          "id": 1729359523
+        },
+        {
+          "distance": 0.2871028184890747,
+          "id": 1729359497
+        },
+        {
+          "distance": 0.29541444778442383,
+          "id": 1729360607
+        },
+        {
+          "distance": 0.29554468393325806,
+          "id": 1729358903
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360901,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "The United Air Lines Ticket office opened in the 1930s on the northwest corner of Union Square in downtown San Francisco...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

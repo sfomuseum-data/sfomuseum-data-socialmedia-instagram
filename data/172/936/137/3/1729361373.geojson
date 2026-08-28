@@ -25,6 +25,50 @@
       "taken": 1447185780,
       "taken_at": "Nov 10, 2015 8:03 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1483404040336609,
+          "id": 1729361351
+        },
+        {
+          "distance": 0.15335428714752197,
+          "id": 1729361297
+        },
+        {
+          "distance": 0.20908457040786743,
+          "id": 1947424791
+        },
+        {
+          "distance": 0.21213573217391968,
+          "id": 1729360081
+        },
+        {
+          "distance": 0.21258801221847534,
+          "id": 1729361351
+        },
+        {
+          "distance": 0.2144991159439087,
+          "id": 1947424791
+        },
+        {
+          "distance": 0.21502447128295898,
+          "id": 1729362077
+        },
+        {
+          "distance": 0.21555835008621216,
+          "id": 1880151523
+        },
+        {
+          "distance": 0.21581268310546875,
+          "id": 1729360561
+        },
+        {
+          "distance": 0.21775013208389282,
+          "id": 1729360081
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361373,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "Celebrating new routes is a big deal in the airlines industry...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

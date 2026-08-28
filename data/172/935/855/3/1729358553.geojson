@@ -32,6 +32,50 @@
       "taken": 1518698820,
       "taken_at": "Feb 15, 2018, 12:47 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.000021398067474365234,
+          "id": 1763558717
+        },
+        {
+          "distance": 0.1354506015777588,
+          "id": 1729358419
+        },
+        {
+          "distance": 0.14969050884246826,
+          "id": 1763558717
+        },
+        {
+          "distance": 0.17654961347579956,
+          "id": 1729358671
+        },
+        {
+          "distance": 0.17875272035598755,
+          "id": 1729358419
+        },
+        {
+          "distance": 0.20125353336334229,
+          "id": 1729358525
+        },
+        {
+          "distance": 0.20855748653411865,
+          "id": 1729358797
+        },
+        {
+          "distance": 0.22915512323379517,
+          "id": 1729358585
+        },
+        {
+          "distance": 0.23348379135131836,
+          "id": 1729358713
+        },
+        {
+          "distance": 0.2396644949913025,
+          "id": 1729358671
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729358553,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777633,
     "wof:name": "The universe is central to Mayan mythology and often appears symbolically in traditional weaving...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

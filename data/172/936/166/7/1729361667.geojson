@@ -40,6 +40,50 @@
       "taken": 1438371600,
       "taken_at": "Jul 31, 2015 7:40 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.323140025138855,
+          "id": 1729359219
+        },
+        {
+          "distance": 0.3522382378578186,
+          "id": 1729361679
+        },
+        {
+          "distance": 0.3525850772857666,
+          "id": 1729361681
+        },
+        {
+          "distance": 0.36207520961761475,
+          "id": 1729361585
+        },
+        {
+          "distance": 0.36284691095352173,
+          "id": 1729359219
+        },
+        {
+          "distance": 0.36426252126693726,
+          "id": 1729361631
+        },
+        {
+          "distance": 0.3654647469520569,
+          "id": 1729361661
+        },
+        {
+          "distance": 0.36686384677886963,
+          "id": 1729361597
+        },
+        {
+          "distance": 0.36867719888687134,
+          "id": 1729362923
+        },
+        {
+          "distance": 0.3719351291656494,
+          "id": 1729362959
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729361667,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777646,
     "wof:name": "Salty Peanuts by Mildred Howard can be found in the International Terminal in Boarding Area A...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

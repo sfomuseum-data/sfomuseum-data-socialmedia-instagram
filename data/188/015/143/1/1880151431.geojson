@@ -30,6 +30,50 @@
       "taken": 1664811600,
       "taken_at": "Oct 03, 2022 3:40 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.210890531539917,
+          "id": 1729359611
+        },
+        {
+          "distance": 0.22650295495986938,
+          "id": 1729355377
+        },
+        {
+          "distance": 0.2265889048576355,
+          "id": 1763558983
+        },
+        {
+          "distance": 0.2352527379989624,
+          "id": 1729361605
+        },
+        {
+          "distance": 0.24444317817687988,
+          "id": 1729359611
+        },
+        {
+          "distance": 0.2467731237411499,
+          "id": 1763558983
+        },
+        {
+          "distance": 0.25390541553497314,
+          "id": 1729361605
+        },
+        {
+          "distance": 0.25591105222702026,
+          "id": 1880151169
+        },
+        {
+          "distance": 0.2570416331291199,
+          "id": 1763559247
+        },
+        {
+          "distance": 0.2572152018547058,
+          "id": 1729356533
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151431,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "How many menus did Pan Am issue?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

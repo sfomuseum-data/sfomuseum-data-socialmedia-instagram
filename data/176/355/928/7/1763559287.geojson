@@ -34,6 +34,50 @@
       "taken": 1638290280,
       "taken_at": "Nov 30, 2021 4:38 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06925433874130249,
+          "id": 1763559627
+        },
+        {
+          "distance": 0.10701209306716919,
+          "id": 1763559627
+        },
+        {
+          "distance": 0.12447869777679443,
+          "id": 1763559391
+        },
+        {
+          "distance": 0.14339590072631836,
+          "id": 1763559391
+        },
+        {
+          "distance": 0.14788085222244263,
+          "id": 1763559655
+        },
+        {
+          "distance": 0.16012078523635864,
+          "id": 1763559049
+        },
+        {
+          "distance": 0.17920881509780884,
+          "id": 1763559655
+        },
+        {
+          "distance": 0.18698489665985107,
+          "id": 1763559049
+        },
+        {
+          "distance": 0.20362216234207153,
+          "id": 1763559113
+        },
+        {
+          "distance": 0.21379244327545166,
+          "id": 1729360547
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1763559287,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Braniff International Airways declared 1965 as “The End of the Plain Plane” after they hired advertising executive Mary Wells Lawrence (b...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

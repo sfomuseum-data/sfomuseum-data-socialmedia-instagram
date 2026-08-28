@@ -30,6 +30,50 @@
       "taken": 1588856760,
       "taken_at": "May 7, 2020, 1:06 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.029104113578796387,
+          "id": 1763558731
+        },
+        {
+          "distance": 0.031680405139923096,
+          "id": 1729358267
+        },
+        {
+          "distance": 0.07806700468063354,
+          "id": 1729360729
+        },
+        {
+          "distance": 0.11364960670471191,
+          "id": 1729358267
+        },
+        {
+          "distance": 0.1261683702468872,
+          "id": 1729360729
+        },
+        {
+          "distance": 0.1358843445777893,
+          "id": 1763558731
+        },
+        {
+          "distance": 0.1486380696296692,
+          "id": 1729356843
+        },
+        {
+          "distance": 0.1623663306236267,
+          "id": 1729359529
+        },
+        {
+          "distance": 0.16822373867034912,
+          "id": 1729359529
+        },
+        {
+          "distance": 0.17416757345199585,
+          "id": 1729356843
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729355277,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777622,
     "wof:name": "Happy Birthday, San Francisco International Airport!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

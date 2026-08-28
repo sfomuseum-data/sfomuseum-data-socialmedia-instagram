@@ -32,6 +32,50 @@
       "taken": 1648817760,
       "taken_at": "Apr 01, 2022 12:56 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2849733233451843,
+          "id": 1729355117
+        },
+        {
+          "distance": 0.2922545075416565,
+          "id": 1763559383
+        },
+        {
+          "distance": 0.3073699474334717,
+          "id": 1763559311
+        },
+        {
+          "distance": 0.3125722408294678,
+          "id": 1729355117
+        },
+        {
+          "distance": 0.3168987035751343,
+          "id": 1763559383
+        },
+        {
+          "distance": 0.3179209232330322,
+          "id": 1763559311
+        },
+        {
+          "distance": 0.3217066526412964,
+          "id": 1729359185
+        },
+        {
+          "distance": 0.3320412039756775,
+          "id": 1729359185
+        },
+        {
+          "distance": 0.3328424096107483,
+          "id": 1729360393
+        },
+        {
+          "distance": 0.3416817784309387,
+          "id": 1763559043
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1763559517,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Our upcoming exhibit on piña lace, a textile from the Philippines made from pineapple fiber, presented our preparators with the challenge of how to safely display these delicate works of art...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

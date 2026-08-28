@@ -25,6 +25,50 @@
       "taken": 1467740460,
       "taken_at": "Jul 05, 2016 5:41 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06262385845184326,
+          "id": 1729356959
+        },
+        {
+          "distance": 0.1732492446899414,
+          "id": 1729356959
+        },
+        {
+          "distance": 0.3214886784553528,
+          "id": 1729360987
+        },
+        {
+          "distance": 0.3385440707206726,
+          "id": 1729359803
+        },
+        {
+          "distance": 0.34524422883987427,
+          "id": 1947424967
+        },
+        {
+          "distance": 0.3533306121826172,
+          "id": 1729360641
+        },
+        {
+          "distance": 0.3768753409385681,
+          "id": 1729360987
+        },
+        {
+          "distance": 0.37710702419281006,
+          "id": 1729359803
+        },
+        {
+          "distance": 0.38185036182403564,
+          "id": 1947424967
+        },
+        {
+          "distance": 0.3828607201576233,
+          "id": 1729360427
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360553,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Pan American's service to South Africa began in 1947...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -31,6 +31,50 @@
       "taken": 1481191680,
       "taken_at": "Dec 08, 2016 10:08 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.32713139057159424,
+          "id": 1729360765
+        },
+        {
+          "distance": 0.3416867256164551,
+          "id": 1729357309
+        },
+        {
+          "distance": 0.3451709747314453,
+          "id": 1729362119
+        },
+        {
+          "distance": 0.3461301922798157,
+          "id": 1729355785
+        },
+        {
+          "distance": 0.3466644883155823,
+          "id": 1729355149
+        },
+        {
+          "distance": 0.35189253091812134,
+          "id": 1729357325
+        },
+        {
+          "distance": 0.35275721549987793,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.35357117652893066,
+          "id": 1729362773
+        },
+        {
+          "distance": 0.3542059063911438,
+          "id": 1729360795
+        },
+        {
+          "distance": 0.355461061000824,
+          "id": 1729355529
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729360055,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777639,
     "wof:name": "This year marks five years since DJ Qbert performed in Terminal 2 in conjunction with our exhibition Revolutions per Minute: the Evolution of the Record...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

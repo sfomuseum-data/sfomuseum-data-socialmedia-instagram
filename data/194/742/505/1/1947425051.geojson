@@ -27,6 +27,50 @@
       "taken": 1713369240,
       "taken_at": "Apr 17, 2024 3:54 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.08616214990615845,
+          "id": 1729357493
+        },
+        {
+          "distance": 0.10472166538238525,
+          "id": 1729357959
+        },
+        {
+          "distance": 0.1071813702583313,
+          "id": 1947424969
+        },
+        {
+          "distance": 0.11346942186355591,
+          "id": 1729357387
+        },
+        {
+          "distance": 0.11846905946731567,
+          "id": 1729358657
+        },
+        {
+          "distance": 0.12074929475784302,
+          "id": 1729356977
+        },
+        {
+          "distance": 0.12510931491851807,
+          "id": 1729357669
+        },
+        {
+          "distance": 0.12578511238098145,
+          "id": 1729357455
+        },
+        {
+          "distance": 0.12990498542785645,
+          "id": 1729357033
+        },
+        {
+          "distance": 0.1303505301475525,
+          "id": 1729357631
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947425051,
-    "wof:lastmodified": 1733175324,
+    "wof:lastmodified": 1787777664,
     "wof:name": "During the last half of the twentieth century, commercial aviation progressed at an unprecedented pace...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

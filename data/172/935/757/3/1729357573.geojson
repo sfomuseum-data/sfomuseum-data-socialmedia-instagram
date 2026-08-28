@@ -40,6 +40,50 @@
       "taken": 1539211620,
       "taken_at": "Oct 10, 2018 10:47 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.004319131374359131,
+          "id": 1729359809
+        },
+        {
+          "distance": 0.0646548867225647,
+          "id": 1763558985
+        },
+        {
+          "distance": 0.11149674654006958,
+          "id": 1729359809
+        },
+        {
+          "distance": 0.12700819969177246,
+          "id": 1763558985
+        },
+        {
+          "distance": 0.1778935194015503,
+          "id": 1729356029
+        },
+        {
+          "distance": 0.19086509943008423,
+          "id": 1729360319
+        },
+        {
+          "distance": 0.19132471084594727,
+          "id": 1729356037
+        },
+        {
+          "distance": 0.19312649965286255,
+          "id": 1880151611
+        },
+        {
+          "distance": 0.1945098638534546,
+          "id": 1729360513
+        },
+        {
+          "distance": 0.19887828826904297,
+          "id": 1880151445
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729357573,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777632,
     "wof:name": "In the 1920s, barnstorming was a popular form of entertainment...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

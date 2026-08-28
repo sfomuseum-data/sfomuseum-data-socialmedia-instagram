@@ -32,6 +32,50 @@
       "taken": 1587753600,
       "taken_at": "Apr 24, 2020 6:40 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.25643402338027954,
+          "id": 1729355579
+        },
+        {
+          "distance": 0.25974059104919434,
+          "id": 1729355405
+        },
+        {
+          "distance": 0.2909775972366333,
+          "id": 1729355575
+        },
+        {
+          "distance": 0.3028002977371216,
+          "id": 1729355405
+        },
+        {
+          "distance": 0.30507147312164307,
+          "id": 1729355579
+        },
+        {
+          "distance": 0.3131863474845886,
+          "id": 1729355585
+        },
+        {
+          "distance": 0.3213232159614563,
+          "id": 1729355575
+        },
+        {
+          "distance": 0.3281692862510681,
+          "id": 1729355411
+        },
+        {
+          "distance": 0.334966242313385,
+          "id": 1729355413
+        },
+        {
+          "distance": 0.33842933177948,
+          "id": 1729355577
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729355299,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777622,
     "wof:name": "In his essay, “Shadows of Change”, late photographer and photojournalist Stanley Greene visits the town of Uummannaq in central-western Greenland and draws focus on the effects of climate change in the region...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

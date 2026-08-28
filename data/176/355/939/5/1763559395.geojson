@@ -35,6 +35,50 @@
       "taken": 1633364220,
       "taken_at": "Oct 04, 2021 4:17 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.22246456146240234,
+          "id": 1763559431
+        },
+        {
+          "distance": 0.23886054754257202,
+          "id": 1763559431
+        },
+        {
+          "distance": 0.25351375341415405,
+          "id": 1763559497
+        },
+        {
+          "distance": 0.25522464513778687,
+          "id": 1763559295
+        },
+        {
+          "distance": 0.25738173723220825,
+          "id": 1947425291
+        },
+        {
+          "distance": 0.2620616555213928,
+          "id": 1763559497
+        },
+        {
+          "distance": 0.2642747163772583,
+          "id": 1763559363
+        },
+        {
+          "distance": 0.2649351954460144,
+          "id": 1947425257
+        },
+        {
+          "distance": 0.2693551182746887,
+          "id": 1763559363
+        },
+        {
+          "distance": 0.2702234983444214,
+          "id": 1763558761
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1763559395,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Artist Stacy Speyer began making this series of geometric metal sculptures as an artist-in-residence at the Exploratorium...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

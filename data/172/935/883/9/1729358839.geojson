@@ -32,6 +32,50 @@
       "taken": 1512414180,
       "taken_at": "Dec 04, 2017 7:03 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.22763019800186157,
+          "id": 1947425047
+        },
+        {
+          "distance": 0.22995638847351074,
+          "id": 1880151781
+        },
+        {
+          "distance": 0.2301756739616394,
+          "id": 1729356499
+        },
+        {
+          "distance": 0.24126911163330078,
+          "id": 1880151785
+        },
+        {
+          "distance": 0.24529480934143066,
+          "id": 1947425077
+        },
+        {
+          "distance": 0.2463352084159851,
+          "id": 1880150873
+        },
+        {
+          "distance": 0.24733376502990723,
+          "id": 1947424897
+        },
+        {
+          "distance": 0.25273412466049194,
+          "id": 1729357701
+        },
+        {
+          "distance": 0.2551303505897522,
+          "id": 1947425305
+        },
+        {
+          "distance": 0.2583464980125427,
+          "id": 1729355487
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729358839,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "This is your last week to see \"At Home with Arts and Crafts!”..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

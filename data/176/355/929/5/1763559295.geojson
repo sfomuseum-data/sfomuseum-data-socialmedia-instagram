@@ -30,6 +30,50 @@
       "taken": 1638268440,
       "taken_at": "Nov 30, 2021 10:34 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1979634165763855,
+          "id": 1729360823
+        },
+        {
+          "distance": 0.20087140798568726,
+          "id": 1729357135
+        },
+        {
+          "distance": 0.20087140798568726,
+          "id": 1763558801
+        },
+        {
+          "distance": 0.20230931043624878,
+          "id": 1947425291
+        },
+        {
+          "distance": 0.2025349736213684,
+          "id": 1729355059
+        },
+        {
+          "distance": 0.20802074670791626,
+          "id": 1729359343
+        },
+        {
+          "distance": 0.22380763292312622,
+          "id": 1729357385
+        },
+        {
+          "distance": 0.23189949989318848,
+          "id": 1729358007
+        },
+        {
+          "distance": 0.2358478307723999,
+          "id": 1947425257
+        },
+        {
+          "distance": 0.23653340339660645,
+          "id": 1729357309
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559295,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Henry Segerman (@henryseg) is a professor of mathematics at Oklahoma State University...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

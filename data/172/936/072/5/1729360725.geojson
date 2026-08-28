@@ -27,6 +27,50 @@
       "taken": 1463134200,
       "taken_at": "May 13, 2016 10:10 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16419976949691772,
+          "id": 1729360871
+        },
+        {
+          "distance": 0.17343878746032715,
+          "id": 1729360717
+        },
+        {
+          "distance": 0.19339311122894287,
+          "id": 1729360871
+        },
+        {
+          "distance": 0.19909822940826416,
+          "id": 1729360775
+        },
+        {
+          "distance": 0.2045000195503235,
+          "id": 1729359037
+        },
+        {
+          "distance": 0.2101803421974182,
+          "id": 1729359525
+        },
+        {
+          "distance": 0.2314947247505188,
+          "id": 1729359037
+        },
+        {
+          "distance": 0.2355288863182068,
+          "id": 1729359525
+        },
+        {
+          "distance": 0.23884296417236328,
+          "id": 1729360941
+        },
+        {
+          "distance": 0.2464936375617981,
+          "id": 1729359499
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1729360725,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "One of the most significant figures in the Art Nouveau movement, glassmaker Emile Gallé (1846–1904) combined naturalistic designs with innovative techniques...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -73,5 +117,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

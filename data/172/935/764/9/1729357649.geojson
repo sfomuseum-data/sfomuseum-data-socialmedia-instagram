@@ -37,6 +37,50 @@
       "taken": 1537455360,
       "taken_at": "Sep 20, 2018 2:56 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15400159358978271,
+          "id": 1763558843
+        },
+        {
+          "distance": 0.156507670879364,
+          "id": 1729355293
+        },
+        {
+          "distance": 0.1616380214691162,
+          "id": 1763559015
+        },
+        {
+          "distance": 0.1754116415977478,
+          "id": 1729357627
+        },
+        {
+          "distance": 0.1795702576637268,
+          "id": 1763559411
+        },
+        {
+          "distance": 0.17976301908493042,
+          "id": 1729355165
+        },
+        {
+          "distance": 0.18084168434143066,
+          "id": 1729359043
+        },
+        {
+          "distance": 0.1812240481376648,
+          "id": 1729358771
+        },
+        {
+          "distance": 0.18195676803588867,
+          "id": 1729358903
+        },
+        {
+          "distance": 0.18693280220031738,
+          "id": 1729360111
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729357649,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Skidmore, Owings \u0026 Merrill LLP (SOM), one of the largest architectural firms in the world, has been fundamental to the architecture of the airport...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

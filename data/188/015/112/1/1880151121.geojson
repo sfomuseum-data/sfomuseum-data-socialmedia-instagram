@@ -29,6 +29,50 @@
       "taken": 1676567820,
       "taken_at": "Feb 16, 2023 5:17 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1344062089920044,
+          "id": 1729355755
+        },
+        {
+          "distance": 0.13632506132125854,
+          "id": 1729361489
+        },
+        {
+          "distance": 0.1450188159942627,
+          "id": 1763558827
+        },
+        {
+          "distance": 0.14854216575622559,
+          "id": 1729357069
+        },
+        {
+          "distance": 0.15640342235565186,
+          "id": 1947425021
+        },
+        {
+          "distance": 0.15736150741577148,
+          "id": 1729358211
+        },
+        {
+          "distance": 0.15895164012908936,
+          "id": 1947425297
+        },
+        {
+          "distance": 0.1643781065940857,
+          "id": 1729358313
+        },
+        {
+          "distance": 0.16707158088684082,
+          "id": 1880151337
+        },
+        {
+          "distance": 0.16847974061965942,
+          "id": 1729357609
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880151121,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "One of the first Australian airlines to operate transpacific commercial air services to America was BCPA (British Commonwealth Pacific Airlines) which was formed by the governments of Australia, Great Britain, and New Zealand in 1947...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

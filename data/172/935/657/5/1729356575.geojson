@@ -39,6 +39,50 @@
       "taken": 1557831840,
       "taken_at": "May 14, 2019, 11:04 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.00321352481842041,
+          "id": 1729356047
+        },
+        {
+          "distance": 0.09975749254226685,
+          "id": 1729356047
+        },
+        {
+          "distance": 0.27900516986846924,
+          "id": 1729356569
+        },
+        {
+          "distance": 0.287483274936676,
+          "id": 1729356269
+        },
+        {
+          "distance": 0.2927476763725281,
+          "id": 1729356209
+        },
+        {
+          "distance": 0.29536956548690796,
+          "id": 1729356209
+        },
+        {
+          "distance": 0.30143922567367554,
+          "id": 1729356371
+        },
+        {
+          "distance": 0.3088933825492859,
+          "id": 1729356287
+        },
+        {
+          "distance": 0.3113669157028198,
+          "id": 1729356569
+        },
+        {
+          "distance": 0.31148725748062134,
+          "id": 1729356287
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729356575,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Ladybird beetles, also known as ladybugs, all belong to the beetle family Coccinellidae...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

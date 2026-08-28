@@ -30,6 +30,50 @@
       "taken": 1676458140,
       "taken_at": "Feb 15, 2023 10:49 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11528909206390381,
+          "id": 1729359989
+        },
+        {
+          "distance": 0.12384730577468872,
+          "id": 1729356405
+        },
+        {
+          "distance": 0.1411568522453308,
+          "id": 1729359989
+        },
+        {
+          "distance": 0.18493753671646118,
+          "id": 1729356405
+        },
+        {
+          "distance": 0.2064775824546814,
+          "id": 1729360171
+        },
+        {
+          "distance": 0.21679013967514038,
+          "id": 1729359901
+        },
+        {
+          "distance": 0.21728962659835815,
+          "id": 1729359901
+        },
+        {
+          "distance": 0.23164212703704834,
+          "id": 1729358079
+        },
+        {
+          "distance": 0.24353283643722534,
+          "id": 1729359335
+        },
+        {
+          "distance": 0.24353283643722534,
+          "id": 1763558671
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151123,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "The late Cuban-born designer Adolfo Sardiña, who was born #onthisday in 1933, established his New York salon in 1963...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

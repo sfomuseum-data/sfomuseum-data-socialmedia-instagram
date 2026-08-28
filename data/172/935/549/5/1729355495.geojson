@@ -30,6 +30,50 @@
       "taken": 1583138760,
       "taken_at": "Mar 02, 2020 8:46 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06149989366531372,
+          "id": 1729356065
+        },
+        {
+          "distance": 0.08045709133148193,
+          "id": 1763559419
+        },
+        {
+          "distance": 0.08172261714935303,
+          "id": 1729360209
+        },
+        {
+          "distance": 0.09639638662338257,
+          "id": 1729358971
+        },
+        {
+          "distance": 0.0983816385269165,
+          "id": 1729356065
+        },
+        {
+          "distance": 0.10276705026626587,
+          "id": 1729355945
+        },
+        {
+          "distance": 0.10336083173751831,
+          "id": 1729357503
+        },
+        {
+          "distance": 0.10584384202957153,
+          "id": 1729355687
+        },
+        {
+          "distance": 0.11054545640945435,
+          "id": 1729356529
+        },
+        {
+          "distance": 0.11408787965774536,
+          "id": 1729358665
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729355495,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777625,
     "wof:name": "#Onthisday in 1969, the first Concorde took off on its maiden flight departing from Toulouse, France...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

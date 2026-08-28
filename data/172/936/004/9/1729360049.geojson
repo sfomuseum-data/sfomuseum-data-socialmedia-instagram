@@ -30,6 +30,50 @@
       "taken": 1480853580,
       "taken_at": "Dec 04, 2016 12:13 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2225819230079651,
+          "id": 1763559563
+        },
+        {
+          "distance": 0.24355357885360718,
+          "id": 1763559563
+        },
+        {
+          "distance": 0.2751174569129944,
+          "id": 1729355701
+        },
+        {
+          "distance": 0.27631163597106934,
+          "id": 1763559037
+        },
+        {
+          "distance": 0.2800567150115967,
+          "id": 1729363035
+        },
+        {
+          "distance": 0.28207069635391235,
+          "id": 1729360517
+        },
+        {
+          "distance": 0.2831779718399048,
+          "id": 1729357237
+        },
+        {
+          "distance": 0.2834424376487732,
+          "id": 1729355701
+        },
+        {
+          "distance": 0.286313533782959,
+          "id": 1729357237
+        },
+        {
+          "distance": 0.28685158491134644,
+          "id": 1729355597
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729360049,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777639,
     "wof:name": "Eight years ago, artist Joseph Finkleman began photographing high-rise buildings with a digital camera, rather than a traditional film camera...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

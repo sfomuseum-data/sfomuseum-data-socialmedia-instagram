@@ -33,6 +33,50 @@
       "taken": 1494929940,
       "taken_at": "May 16, 2017 10:19 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12832963466644287,
+          "id": 1729356143
+        },
+        {
+          "distance": 0.13175714015960693,
+          "id": 1729357243
+        },
+        {
+          "distance": 0.1317983865737915,
+          "id": 1729357925
+        },
+        {
+          "distance": 0.15159398317337036,
+          "id": 1729356143
+        },
+        {
+          "distance": 0.15832924842834473,
+          "id": 1729357243
+        },
+        {
+          "distance": 0.1603747010231018,
+          "id": 1729357189
+        },
+        {
+          "distance": 0.16925835609436035,
+          "id": 1729361573
+        },
+        {
+          "distance": 0.17470276355743408,
+          "id": 1729357751
+        },
+        {
+          "distance": 0.17747408151626587,
+          "id": 1729357925
+        },
+        {
+          "distance": 0.18084633350372314,
+          "id": 1729358519
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729359501,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "What does it take to fly an airplane?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

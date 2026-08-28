@@ -31,6 +31,50 @@
       "taken": 1631892120,
       "taken_at": "Sep 17, 2021 3:22 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2961723804473877,
+          "id": 1880151711
+        },
+        {
+          "distance": 0.309684693813324,
+          "id": 1729358755
+        },
+        {
+          "distance": 0.3195638656616211,
+          "id": 1880151711
+        },
+        {
+          "distance": 0.36076825857162476,
+          "id": 1880151775
+        },
+        {
+          "distance": 0.3713803291320801,
+          "id": 1729358755
+        },
+        {
+          "distance": 0.37306249141693115,
+          "id": 1729358681
+        },
+        {
+          "distance": 0.3745154142379761,
+          "id": 1729358527
+        },
+        {
+          "distance": 0.3751484751701355,
+          "id": 1729358075
+        },
+        {
+          "distance": 0.38590359687805176,
+          "id": 1729358443
+        },
+        {
+          "distance": 0.38713759183883667,
+          "id": 1729358673
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559415,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Happy birthday, Stan Herman!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

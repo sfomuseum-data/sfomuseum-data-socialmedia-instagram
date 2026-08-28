@@ -29,6 +29,50 @@
       "taken": 1683557760,
       "taken_at": "May 08, 2023 2:56 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23956382274627686,
+          "id": 1729357861
+        },
+        {
+          "distance": 0.24511933326721191,
+          "id": 1729358159
+        },
+        {
+          "distance": 0.24756121635437012,
+          "id": 1729357861
+        },
+        {
+          "distance": 0.2517477869987488,
+          "id": 1729358159
+        },
+        {
+          "distance": 0.2822149395942688,
+          "id": 1729358533
+        },
+        {
+          "distance": 0.2872677445411682,
+          "id": 1729360669
+        },
+        {
+          "distance": 0.29815351963043213,
+          "id": 1729356299
+        },
+        {
+          "distance": 0.30019503831863403,
+          "id": 1729358195
+        },
+        {
+          "distance": 0.3006139397621155,
+          "id": 1729358167
+        },
+        {
+          "distance": 0.3013913631439209,
+          "id": 1729363021
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880150945,
-    "wof:lastmodified": 1733175333,
+    "wof:lastmodified": 1787777661,
     "wof:name": "Happy Birthday SFO!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

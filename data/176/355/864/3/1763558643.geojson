@@ -25,6 +25,50 @@
       "taken": 1482172500,
       "taken_at": "Dec 19, 2016 6:35 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.00657343864440918,
+          "id": 1729359997
+        },
+        {
+          "distance": 0.1307639479637146,
+          "id": 1729359997
+        },
+        {
+          "distance": 0.4210887551307678,
+          "id": 1729359939
+        },
+        {
+          "distance": 0.43059056997299194,
+          "id": 1729355631
+        },
+        {
+          "distance": 0.4584910273551941,
+          "id": 1880151361
+        },
+        {
+          "distance": 0.46310287714004517,
+          "id": 1880151361
+        },
+        {
+          "distance": 0.4635334014892578,
+          "id": 1729355631
+        },
+        {
+          "distance": 0.467166006565094,
+          "id": 1729360321
+        },
+        {
+          "distance": 0.4698217511177063,
+          "id": 1763558639
+        },
+        {
+          "distance": 0.4705304503440857,
+          "id": 1729359307
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1763558643,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777659,
     "wof:name": "Have you gotten your fall fashion forecast from your Ouija board yet?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

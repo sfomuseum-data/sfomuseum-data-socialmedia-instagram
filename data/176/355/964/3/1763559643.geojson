@@ -30,6 +30,50 @@
       "taken": 1642784700,
       "taken_at": "Jan 21, 2022 5:05 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11583679914474487,
+          "id": 1729361467
+        },
+        {
+          "distance": 0.16760337352752686,
+          "id": 1729360257
+        },
+        {
+          "distance": 0.17171072959899902,
+          "id": 1729360135
+        },
+        {
+          "distance": 0.18255239725112915,
+          "id": 1729359139
+        },
+        {
+          "distance": 0.18583393096923828,
+          "id": 1729357403
+        },
+        {
+          "distance": 0.19212687015533447,
+          "id": 1729361467
+        },
+        {
+          "distance": 0.19744789600372314,
+          "id": 1763559113
+        },
+        {
+          "distance": 0.2005397081375122,
+          "id": 1729359401
+        },
+        {
+          "distance": 0.2032986283302307,
+          "id": 1763559079
+        },
+        {
+          "distance": 0.21223396062850952,
+          "id": 1729360519
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559643,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "#Onthisday in 1895, legendary fashion designer Cristóbal Balenciaga was born in Getaria, Spain...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -27,6 +27,50 @@
       "taken": 1719392100,
       "taken_at": "Jun 26, 2024 8:55 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1943255066871643,
+          "id": 1729360699
+        },
+        {
+          "distance": 0.20601379871368408,
+          "id": 1729360699
+        },
+        {
+          "distance": 0.29200679063796997,
+          "id": 1729356591
+        },
+        {
+          "distance": 0.2942381501197815,
+          "id": 1729361103
+        },
+        {
+          "distance": 0.30027180910110474,
+          "id": 1729361713
+        },
+        {
+          "distance": 0.30313384532928467,
+          "id": 1729356591
+        },
+        {
+          "distance": 0.31924474239349365,
+          "id": 1729361103
+        },
+        {
+          "distance": 0.3304292559623718,
+          "id": 1729357709
+        },
+        {
+          "distance": 0.33505892753601074,
+          "id": 1729356059
+        },
+        {
+          "distance": 0.33557993173599243,
+          "id": 1729355079
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947424963,
-    "wof:lastmodified": 1733175321,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Virgin America's premium, first-class services included these twenty-one-inch-wide, ultra-plush leather seats arranged in sets of two on each bulkhead...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

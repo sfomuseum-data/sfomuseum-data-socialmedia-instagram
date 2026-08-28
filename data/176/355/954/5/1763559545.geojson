@@ -31,6 +31,50 @@
       "taken": 1647535080,
       "taken_at": "Mar 17, 2022 4:38 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.38047558069229126,
+          "id": 1880151123
+        },
+        {
+          "distance": 0.39609766006469727,
+          "id": 1729355037
+        },
+        {
+          "distance": 0.3979194760322571,
+          "id": 1729358079
+        },
+        {
+          "distance": 0.40191686153411865,
+          "id": 1729359739
+        },
+        {
+          "distance": 0.40307706594467163,
+          "id": 1729361257
+        },
+        {
+          "distance": 0.40553295612335205,
+          "id": 1729361353
+        },
+        {
+          "distance": 0.40906625986099243,
+          "id": 1729360171
+        },
+        {
+          "distance": 0.41004663705825806,
+          "id": 1763559533
+        },
+        {
+          "distance": 0.41241782903671265,
+          "id": 1763558977
+        },
+        {
+          "distance": 0.4151398539543152,
+          "id": 1729358293
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559545,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "In 1968, Air West was formed out of a merger of three regional carriers: Pacific Air Lines, Bonanza Air Lines, and West Coast Airlines...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

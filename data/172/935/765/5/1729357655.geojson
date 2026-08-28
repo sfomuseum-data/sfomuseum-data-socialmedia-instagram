@@ -25,6 +25,50 @@
       "taken": 1537952280,
       "taken_at": "Sep 26, 2018 8:58 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15594512224197388,
+          "id": 1729357703
+        },
+        {
+          "distance": 0.19189828634262085,
+          "id": 1729357703
+        },
+        {
+          "distance": 0.29918211698532104,
+          "id": 1729360469
+        },
+        {
+          "distance": 0.30286896228790283,
+          "id": 1729358663
+        },
+        {
+          "distance": 0.30648690462112427,
+          "id": 1729355649
+        },
+        {
+          "distance": 0.30816906690597534,
+          "id": 1729358929
+        },
+        {
+          "distance": 0.3092882037162781,
+          "id": 1729358563
+        },
+        {
+          "distance": 0.3097546696662903,
+          "id": 1729358663
+        },
+        {
+          "distance": 0.31033438444137573,
+          "id": 1763558657
+        },
+        {
+          "distance": 0.31033438444137573,
+          "id": 1729359895
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729357655,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Cast your mind far, far back to the days before cell phones.....",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

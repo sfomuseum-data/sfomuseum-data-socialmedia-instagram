@@ -26,6 +26,50 @@
       "taken": 1472547360,
       "taken_at": "Aug 30, 2016, 8:56 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0020810961723327637,
+          "id": 1763558641
+        },
+        {
+          "distance": 0.07154089212417603,
+          "id": 1729360721
+        },
+        {
+          "distance": 0.11297953128814697,
+          "id": 1763558641
+        },
+        {
+          "distance": 0.12372595071792603,
+          "id": 1729360721
+        },
+        {
+          "distance": 0.16945558786392212,
+          "id": 1729358329
+        },
+        {
+          "distance": 0.17492729425430298,
+          "id": 1880151797
+        },
+        {
+          "distance": 0.1757633090019226,
+          "id": 1729359555
+        },
+        {
+          "distance": 0.1782846450805664,
+          "id": 1729358329
+        },
+        {
+          "distance": 0.17906814813613892,
+          "id": 1729356611
+        },
+        {
+          "distance": 0.17913252115249634,
+          "id": 1880151797
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1729360379,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777639,
     "wof:name": "#OnThisDay in 1930, the City and County of San Francisco began purchasing Mills Field and the surrounding property...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

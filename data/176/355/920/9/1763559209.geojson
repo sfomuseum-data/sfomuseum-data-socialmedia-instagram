@@ -30,6 +30,50 @@
       "taken": 1617290400,
       "taken_at": "Apr 01, 2021 3:20 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.30331486463546753,
+          "id": 1763559221
+        },
+        {
+          "distance": 0.3139423131942749,
+          "id": 1763559177
+        },
+        {
+          "distance": 0.317325234413147,
+          "id": 1880151499
+        },
+        {
+          "distance": 0.3270420432090759,
+          "id": 1763558863
+        },
+        {
+          "distance": 0.3284490704536438,
+          "id": 1763559023
+        },
+        {
+          "distance": 0.3293095827102661,
+          "id": 1729359983
+        },
+        {
+          "distance": 0.330569863319397,
+          "id": 1763558885
+        },
+        {
+          "distance": 0.33106887340545654,
+          "id": 1729356535
+        },
+        {
+          "distance": 0.33581459522247314,
+          "id": 1729361783
+        },
+        {
+          "distance": 0.3392692804336548,
+          "id": 1729358987
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559209,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "“I am a woman who came from the cotton fields of the South...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

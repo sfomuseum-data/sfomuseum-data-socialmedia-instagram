@@ -25,6 +25,50 @@
       "taken": 1377252000,
       "taken_at": "Aug 23, 2013 10:00 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2167985439300537,
+          "id": 1729362547
+        },
+        {
+          "distance": 0.22317975759506226,
+          "id": 1729362953
+        },
+        {
+          "distance": 0.22637122869491577,
+          "id": 1729362367
+        },
+        {
+          "distance": 0.2345179319381714,
+          "id": 1729362547
+        },
+        {
+          "distance": 0.2355579137802124,
+          "id": 1729362959
+        },
+        {
+          "distance": 0.24113857746124268,
+          "id": 1729355951
+        },
+        {
+          "distance": 0.24870556592941284,
+          "id": 1729362581
+        },
+        {
+          "distance": 0.25282496213912964,
+          "id": 1729362237
+        },
+        {
+          "distance": 0.2529134750366211,
+          "id": 1729356751
+        },
+        {
+          "distance": 0.2574509382247925,
+          "id": 1729362793
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362579,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "Our exhibit on the early history of the #AmericasCup is almost fully installed!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -40,6 +40,50 @@
       "taken": 1514288040,
       "taken_at": "Dec 26, 2017 11:34 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2245650291442871,
+          "id": 1729359041
+        },
+        {
+          "distance": 0.2490147352218628,
+          "id": 1729358333
+        },
+        {
+          "distance": 0.2502485513687134,
+          "id": 1729358333
+        },
+        {
+          "distance": 0.26781517267227173,
+          "id": 1729355349
+        },
+        {
+          "distance": 0.27110809087753296,
+          "id": 1729360479
+        },
+        {
+          "distance": 0.27243882417678833,
+          "id": 1729355349
+        },
+        {
+          "distance": 0.27735161781311035,
+          "id": 1729359065
+        },
+        {
+          "distance": 0.2787668704986572,
+          "id": 1729357307
+        },
+        {
+          "distance": 0.28412747383117676,
+          "id": 1729357849
+        },
+        {
+          "distance": 0.2843719720840454,
+          "id": 1729360237
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729358783,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "The flag carrier of Argentina, Aerolineas Argentinas, was founded in 1949...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

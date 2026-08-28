@@ -41,6 +41,50 @@
       "taken": 1519392660,
       "taken_at": "Feb 23, 2018, 1:31 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1773795485496521,
+          "id": 1729356143
+        },
+        {
+          "distance": 0.18047314882278442,
+          "id": 1729359501
+        },
+        {
+          "distance": 0.18156641721725464,
+          "id": 1729358511
+        },
+        {
+          "distance": 0.18156641721725464,
+          "id": 1763558715
+        },
+        {
+          "distance": 0.18174314498901367,
+          "id": 1729358511
+        },
+        {
+          "distance": 0.18174314498901367,
+          "id": 1763558715
+        },
+        {
+          "distance": 0.1881246566772461,
+          "id": 1729355165
+        },
+        {
+          "distance": 0.18927431106567383,
+          "id": 1729358629
+        },
+        {
+          "distance": 0.18949604034423828,
+          "id": 1729360559
+        },
+        {
+          "distance": 0.19399243593215942,
+          "id": 1729356439
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -70,7 +114,7 @@
       }
     ],
     "wof:id": 1729358519,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Being an air traffic controller means coordinating multiple arriving and departing airplanes...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -87,5 +131,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

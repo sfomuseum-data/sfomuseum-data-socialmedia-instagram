@@ -28,6 +28,50 @@
       "taken": 1683886320,
       "taken_at": "May 12, 2023 10:12 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07887876033782959,
+          "id": 1729357323
+        },
+        {
+          "distance": 0.09259474277496338,
+          "id": 1729360531
+        },
+        {
+          "distance": 0.10014849901199341,
+          "id": 1880151063
+        },
+        {
+          "distance": 0.11037510633468628,
+          "id": 1729356859
+        },
+        {
+          "distance": 0.11073392629623413,
+          "id": 1729358135
+        },
+        {
+          "distance": 0.11978179216384888,
+          "id": 1729358457
+        },
+        {
+          "distance": 0.1259121298789978,
+          "id": 1729357727
+        },
+        {
+          "distance": 0.12722879648208618,
+          "id": 1729359451
+        },
+        {
+          "distance": 0.1284967064857483,
+          "id": 1729357547
+        },
+        {
+          "distance": 0.1342451572418213,
+          "id": 1729359933
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1880150909,
-    "wof:lastmodified": 1733175333,
+    "wof:lastmodified": 1787777661,
     "wof:name": "What did the Airport look like #onthisday in 1940?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

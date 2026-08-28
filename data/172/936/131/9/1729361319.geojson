@@ -25,6 +25,50 @@
       "taken": 1449055020,
       "taken_at": "Dec 02, 2015 11:17 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07042747735977173,
+          "id": 1729358401
+        },
+        {
+          "distance": 0.10355633497238159,
+          "id": 1729358401
+        },
+        {
+          "distance": 0.14189410209655762,
+          "id": 1763558923
+        },
+        {
+          "distance": 0.1593034863471985,
+          "id": 1763558923
+        },
+        {
+          "distance": 0.17441236972808838,
+          "id": 1947425155
+        },
+        {
+          "distance": 0.19151389598846436,
+          "id": 1729357729
+        },
+        {
+          "distance": 0.19338029623031616,
+          "id": 1729357039
+        },
+        {
+          "distance": 0.19856661558151245,
+          "id": 1947425155
+        },
+        {
+          "distance": 0.20417243242263794,
+          "id": 1763558881
+        },
+        {
+          "distance": 0.20632565021514893,
+          "id": 1729355627
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361319,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "In addition to the aviation publications from our special collections in the exhibition “Early Birds” are aircraft models on view courtesy of Jim Lund...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

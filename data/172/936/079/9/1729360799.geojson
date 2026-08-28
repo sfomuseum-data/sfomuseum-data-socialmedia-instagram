@@ -25,6 +25,50 @@
       "taken": 1461181800,
       "taken_at": "Apr 20, 2016 7:50 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2654185891151428,
+          "id": 1729358023
+        },
+        {
+          "distance": 0.28064101934432983,
+          "id": 1729361051
+        },
+        {
+          "distance": 0.314647376537323,
+          "id": 1729360861
+        },
+        {
+          "distance": 0.31676942110061646,
+          "id": 1729361051
+        },
+        {
+          "distance": 0.3220377564430237,
+          "id": 1729358023
+        },
+        {
+          "distance": 0.3436916470527649,
+          "id": 1763559277
+        },
+        {
+          "distance": 0.34831082820892334,
+          "id": 1729361039
+        },
+        {
+          "distance": 0.3508984446525574,
+          "id": 1729357475
+        },
+        {
+          "distance": 0.35332000255584717,
+          "id": 1763559291
+        },
+        {
+          "distance": 0.35400813817977905,
+          "id": 1729358231
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360799,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "This ticket for Lieselotte Mitchell was issued on January 18, 1963...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

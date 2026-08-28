@@ -30,6 +30,50 @@
       "taken": 1668790860,
       "taken_at": "Nov 18, 2022 5:01 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10212159156799316,
+          "id": 1880150875
+        },
+        {
+          "distance": 0.12358015775680542,
+          "id": 1880151197
+        },
+        {
+          "distance": 0.18025505542755127,
+          "id": 1880150875
+        },
+        {
+          "distance": 0.18456107378005981,
+          "id": 1880151197
+        },
+        {
+          "distance": 0.2101641297340393,
+          "id": 1880151785
+        },
+        {
+          "distance": 0.23468393087387085,
+          "id": 1880150873
+        },
+        {
+          "distance": 0.25534141063690186,
+          "id": 1880151781
+        },
+        {
+          "distance": 0.25722259283065796,
+          "id": 1947424897
+        },
+        {
+          "distance": 0.2588457465171814,
+          "id": 1947425047
+        },
+        {
+          "distance": 0.26278156042099,
+          "id": 1880151785
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151317,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Presented within “More than a Meal: Airline Meal Service Sets, 1960s–80s” are Jason Peterson’s striking photographs made while flying on commercial airliners...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

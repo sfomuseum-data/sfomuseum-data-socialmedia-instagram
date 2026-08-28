@@ -39,6 +39,50 @@
       "taken": 1529509020,
       "taken_at": "Jun 20, 2018 3:37 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1763373613357544,
+          "id": 1729358113
+        },
+        {
+          "distance": 0.19104629755020142,
+          "id": 1729358103
+        },
+        {
+          "distance": 0.20795273780822754,
+          "id": 1729358117
+        },
+        {
+          "distance": 0.23319488763809204,
+          "id": 1729358113
+        },
+        {
+          "distance": 0.255950927734375,
+          "id": 1729358117
+        },
+        {
+          "distance": 0.26123470067977905,
+          "id": 1729358373
+        },
+        {
+          "distance": 0.2705405354499817,
+          "id": 1729358359
+        },
+        {
+          "distance": 0.27107226848602295,
+          "id": 1729358237
+        },
+        {
+          "distance": 0.27258557081222534,
+          "id": 1729357521
+        },
+        {
+          "distance": 0.2803007960319519,
+          "id": 1729358309
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729358095,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Novelty radios focused on fitting in rather than standing out...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

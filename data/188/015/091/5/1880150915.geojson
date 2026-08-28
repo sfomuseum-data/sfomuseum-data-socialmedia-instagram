@@ -25,6 +25,50 @@
       "taken": 1683736380,
       "taken_at": "May 10, 2023 4:33 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2491949200630188,
+          "id": 1763559661
+        },
+        {
+          "distance": 0.2699947953224182,
+          "id": 1729357705
+        },
+        {
+          "distance": 0.2707470655441284,
+          "id": 1729357903
+        },
+        {
+          "distance": 0.2786017060279846,
+          "id": 1880151595
+        },
+        {
+          "distance": 0.2816935181617737,
+          "id": 1729357705
+        },
+        {
+          "distance": 0.28382980823516846,
+          "id": 1880151641
+        },
+        {
+          "distance": 0.2845514416694641,
+          "id": 1880151595
+        },
+        {
+          "distance": 0.28488361835479736,
+          "id": 1880151623
+        },
+        {
+          "distance": 0.29723769426345825,
+          "id": 1880151661
+        },
+        {
+          "distance": 0.2997318506240845,
+          "id": 1880151387
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1880150915,
-    "wof:lastmodified": 1733175333,
+    "wof:lastmodified": 1787777661,
     "wof:name": "In 1928, Igloo, a wire fox terrier, accompanied Admiral Richard Byrd and his party to the South Pole for the purposes of exploration and map making...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

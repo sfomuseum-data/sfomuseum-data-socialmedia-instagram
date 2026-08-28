@@ -31,6 +31,50 @@
       "taken": 1655910120,
       "taken_at": "Jun 22, 2022 3:02 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.024241328239440918,
+          "id": 1880151235
+        },
+        {
+          "distance": 0.08859902620315552,
+          "id": 1880150869
+        },
+        {
+          "distance": 0.0942697525024414,
+          "id": 1729355237
+        },
+        {
+          "distance": 0.09536522626876831,
+          "id": 1880150993
+        },
+        {
+          "distance": 0.1111757755279541,
+          "id": 1947425151
+        },
+        {
+          "distance": 0.1281520128250122,
+          "id": 1880151235
+        },
+        {
+          "distance": 0.14197295904159546,
+          "id": 1763559417
+        },
+        {
+          "distance": 0.1554620862007141,
+          "id": 1880150869
+        },
+        {
+          "distance": 0.15851420164108276,
+          "id": 1763559417
+        },
+        {
+          "distance": 0.16376864910125732,
+          "id": 1763558935
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151649,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Harvey Bernard Milk (1930–78) was a visionary human rights leader, a groundbreaking political luminary, and a seminal figure of the LGBTQ rights movement...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

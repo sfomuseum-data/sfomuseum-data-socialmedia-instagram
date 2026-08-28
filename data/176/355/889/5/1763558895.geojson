@@ -29,6 +29,50 @@
       "taken": 1610711400,
       "taken_at": "Jan 15, 2021 11:50 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19495683908462524,
+          "id": 1763559569
+        },
+        {
+          "distance": 0.21112287044525146,
+          "id": 1880150939
+        },
+        {
+          "distance": 0.21134454011917114,
+          "id": 1947424985
+        },
+        {
+          "distance": 0.21257102489471436,
+          "id": 1947424929
+        },
+        {
+          "distance": 0.21322739124298096,
+          "id": 1947424929
+        },
+        {
+          "distance": 0.21584439277648926,
+          "id": 1763559569
+        },
+        {
+          "distance": 0.21721500158309937,
+          "id": 1729356755
+        },
+        {
+          "distance": 0.221210777759552,
+          "id": 1763559473
+        },
+        {
+          "distance": 0.22146731615066528,
+          "id": 1880150939
+        },
+        {
+          "distance": 0.22158962488174438,
+          "id": 1947424985
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1763558895,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777659,
     "wof:name": "“Alternative Process” was produced by San Francisco State University students for the course Advanced Topics in Photography: Alternative Process...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

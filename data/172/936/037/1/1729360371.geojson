@@ -25,6 +25,50 @@
       "taken": 1472725620,
       "taken_at": "Sep 01, 2016 10:27 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.22381889820098877,
+          "id": 1729360121
+        },
+        {
+          "distance": 0.2552056908607483,
+          "id": 1729357103
+        },
+        {
+          "distance": 0.2565762996673584,
+          "id": 1880151243
+        },
+        {
+          "distance": 0.27607160806655884,
+          "id": 1729360121
+        },
+        {
+          "distance": 0.29863595962524414,
+          "id": 1729359159
+        },
+        {
+          "distance": 0.3012893795967102,
+          "id": 1729359497
+        },
+        {
+          "distance": 0.3033844828605652,
+          "id": 1729360619
+        },
+        {
+          "distance": 0.31197023391723633,
+          "id": 1729355091
+        },
+        {
+          "distance": 0.31680190563201904,
+          "id": 1763559131
+        },
+        {
+          "distance": 0.31735682487487793,
+          "id": 1729355207
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360371,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "The services and amenities at SFO have changed vastly over the years...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -30,6 +30,50 @@
       "taken": 1652113500,
       "taken_at": "May 09, 2022 4:25 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14875102043151855,
+          "id": 1729355115
+        },
+        {
+          "distance": 0.1497480869293213,
+          "id": 1729357593
+        },
+        {
+          "distance": 0.1591213345527649,
+          "id": 1729356131
+        },
+        {
+          "distance": 0.16175389289855957,
+          "id": 1729357057
+        },
+        {
+          "distance": 0.16667622327804565,
+          "id": 1729359077
+        },
+        {
+          "distance": 0.16902804374694824,
+          "id": 1880151675
+        },
+        {
+          "distance": 0.1816057562828064,
+          "id": 1729360337
+        },
+        {
+          "distance": 0.18766379356384277,
+          "id": 1729359523
+        },
+        {
+          "distance": 0.1891491413116455,
+          "id": 1880151675
+        },
+        {
+          "distance": 0.19176596403121948,
+          "id": 1729356281
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151727,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777663,
     "wof:name": "One of our favorite features on our collection’s website is the ‘Random Object’ button, which is a fun way to get a speed tour through our online holdings...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -36,6 +36,50 @@
       "taken": 1540750740,
       "taken_at": "Oct 28, 2018 6:19 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2622552514076233,
+          "id": 1729361485
+        },
+        {
+          "distance": 0.28136491775512695,
+          "id": 1729355801
+        },
+        {
+          "distance": 0.28514522314071655,
+          "id": 1947424967
+        },
+        {
+          "distance": 0.28982168436050415,
+          "id": 1947424967
+        },
+        {
+          "distance": 0.30400824546813965,
+          "id": 1880151013
+        },
+        {
+          "distance": 0.3051071763038635,
+          "id": 1880151013
+        },
+        {
+          "distance": 0.31041204929351807,
+          "id": 1729361485
+        },
+        {
+          "distance": 0.3125561475753784,
+          "id": 1729355325
+        },
+        {
+          "distance": 0.31560009717941284,
+          "id": 1729358481
+        },
+        {
+          "distance": 0.3217635750770569,
+          "id": 1729360641
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729357473,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777631,
     "wof:name": "An iconic New York City landmark, the Statue of Liberty was dedicated #onthisday in 1886...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

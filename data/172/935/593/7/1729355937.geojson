@@ -33,6 +33,50 @@
       "taken": 1572432000,
       "taken_at": "Oct 30, 2019 10:40 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15100544691085815,
+          "id": 1763559269
+        },
+        {
+          "distance": 0.17664378881454468,
+          "id": 1729355933
+        },
+        {
+          "distance": 0.1924527883529663,
+          "id": 1763559269
+        },
+        {
+          "distance": 0.19387608766555786,
+          "id": 1729355939
+        },
+        {
+          "distance": 0.21151268482208252,
+          "id": 1763559659
+        },
+        {
+          "distance": 0.22063332796096802,
+          "id": 1729355933
+        },
+        {
+          "distance": 0.22330188751220703,
+          "id": 1729355939
+        },
+        {
+          "distance": 0.24075961112976074,
+          "id": 1763559431
+        },
+        {
+          "distance": 0.244118332862854,
+          "id": 1729355739
+        },
+        {
+          "distance": 0.2493445873260498,
+          "id": 1729355739
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729355937,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777627,
     "wof:name": "Marvin Lipofsky’s (1938–2016) formed and stretched, blown-glass sculpture merged studio glass with fine art...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

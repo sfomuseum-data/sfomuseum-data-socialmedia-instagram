@@ -31,6 +31,50 @@
       "taken": 1492360920,
       "taken_at": "Apr 16, 2017 4:42 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.003549933433532715,
+          "id": 1729355993
+        },
+        {
+          "distance": 0.07454758882522583,
+          "id": 1729356533
+        },
+        {
+          "distance": 0.07918524742126465,
+          "id": 1729361109
+        },
+        {
+          "distance": 0.08906573057174683,
+          "id": 1947425309
+        },
+        {
+          "distance": 0.09271621704101562,
+          "id": 1729361163
+        },
+        {
+          "distance": 0.09466820955276489,
+          "id": 1729356173
+        },
+        {
+          "distance": 0.11478912830352783,
+          "id": 1729355993
+        },
+        {
+          "distance": 0.12057185173034668,
+          "id": 1729361109
+        },
+        {
+          "distance": 0.12134969234466553,
+          "id": 1729355659
+        },
+        {
+          "distance": 0.12167656421661377,
+          "id": 1729356533
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729359597,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "Pan American Airways’ first Sikorsky S-42 test flight to Hawaii took off #onthisday in 1935 from Alameda, California...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -34,6 +34,50 @@
       "taken": 1531040640,
       "taken_at": "Jul 08, 2018 9:04 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11641722917556763,
+          "id": 1729361381
+        },
+        {
+          "distance": 0.15331459045410156,
+          "id": 1729359877
+        },
+        {
+          "distance": 0.16972285509109497,
+          "id": 1729361381
+        },
+        {
+          "distance": 0.17266327142715454,
+          "id": 1729355227
+        },
+        {
+          "distance": 0.17847198247909546,
+          "id": 1729355899
+        },
+        {
+          "distance": 0.178821861743927,
+          "id": 1729358177
+        },
+        {
+          "distance": 0.18231040239334106,
+          "id": 1763558929
+        },
+        {
+          "distance": 0.18572187423706055,
+          "id": 1729359877
+        },
+        {
+          "distance": 0.18769800662994385,
+          "id": 1729361289
+        },
+        {
+          "distance": 0.19472980499267578,
+          "id": 1729360873
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729357989,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Construction on the San Francisco-Oakland Bay Bridge began #onthisday in 1933...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

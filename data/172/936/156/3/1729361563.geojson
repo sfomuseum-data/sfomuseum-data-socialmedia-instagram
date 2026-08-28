@@ -25,6 +25,50 @@
       "taken": 1441180080,
       "taken_at": "Sep 02, 2015 7:48 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10973131656646729,
+          "id": 1880151029
+        },
+        {
+          "distance": 0.13915282487869263,
+          "id": 1880151029
+        },
+        {
+          "distance": 0.22326797246932983,
+          "id": 1763559551
+        },
+        {
+          "distance": 0.2271425724029541,
+          "id": 1763559551
+        },
+        {
+          "distance": 0.2639451026916504,
+          "id": 1729357541
+        },
+        {
+          "distance": 0.2742977738380432,
+          "id": 1880151505
+        },
+        {
+          "distance": 0.2788912057876587,
+          "id": 1729361309
+        },
+        {
+          "distance": 0.3088877201080322,
+          "id": 1729360785
+        },
+        {
+          "distance": 0.3142573833465576,
+          "id": 1729361121
+        },
+        {
+          "distance": 0.31711864471435547,
+          "id": 1729361153
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361563,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777646,
     "wof:name": "The eight-foot high Pan American World Airways floor globe featured in the aviation museum at SFO was exhibited at the 1939–1940 Golden Gate International Exposition on Treasure Island in San Francisco where the airline operated its famous flying boats...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

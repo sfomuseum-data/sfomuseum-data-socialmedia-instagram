@@ -25,6 +25,50 @@
       "taken": 1465043520,
       "taken_at": "Jun 04, 2016 12:32 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.26856285333633423,
+          "id": 1729360841
+        },
+        {
+          "distance": 0.2908557057380676,
+          "id": 1729360841
+        },
+        {
+          "distance": 0.353840708732605,
+          "id": 1729361157
+        },
+        {
+          "distance": 0.3576579689979553,
+          "id": 1729360991
+        },
+        {
+          "distance": 0.36180031299591064,
+          "id": 1729361157
+        },
+        {
+          "distance": 0.3642081618309021,
+          "id": 1763559381
+        },
+        {
+          "distance": 0.36680787801742554,
+          "id": 1880151005
+        },
+        {
+          "distance": 0.36982351541519165,
+          "id": 1729361227
+        },
+        {
+          "distance": 0.37208276987075806,
+          "id": 1729361227
+        },
+        {
+          "distance": 0.37379199266433716,
+          "id": 1763559327
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360645,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Don’t miss \"United States Coast Guard Air Station San Francisco: Honoring the Guardians of the Golden Gate 75th\"...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

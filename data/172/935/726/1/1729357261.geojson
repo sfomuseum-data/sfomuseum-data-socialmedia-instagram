@@ -34,6 +34,50 @@
       "taken": 1544538420,
       "taken_at": "Dec 11, 2018 2:27 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15755891799926758,
+          "id": 1729357139
+        },
+        {
+          "distance": 0.17755138874053955,
+          "id": 1729357653
+        },
+        {
+          "distance": 0.19174224138259888,
+          "id": 1880151331
+        },
+        {
+          "distance": 0.20699995756149292,
+          "id": 1729357139
+        },
+        {
+          "distance": 0.22586816549301147,
+          "id": 1729357417
+        },
+        {
+          "distance": 0.23514986038208008,
+          "id": 1729357421
+        },
+        {
+          "distance": 0.23705613613128662,
+          "id": 1880151331
+        },
+        {
+          "distance": 0.2518129348754883,
+          "id": 1729357835
+        },
+        {
+          "distance": 0.2527822256088257,
+          "id": 1729355937
+        },
+        {
+          "distance": 0.2556697130203247,
+          "id": 1729357385
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729357261,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777630,
     "wof:name": "\"…Isamu travelled on and on, not as a tourist, not as a dilettante escapist, not as a routine airline pilot, nor as a sailor, soldier or gypsy, but as the intuitive artist precursor of the evoluting, kinetic one-town world man.\"..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

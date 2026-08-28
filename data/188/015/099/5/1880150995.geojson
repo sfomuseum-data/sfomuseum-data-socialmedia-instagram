@@ -29,6 +29,50 @@
       "taken": 1681119000,
       "taken_at": "Apr 10, 2023 9:30 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.236403226852417,
+          "id": 1729358635
+        },
+        {
+          "distance": 0.25580406188964844,
+          "id": 1763559125
+        },
+        {
+          "distance": 0.2610286474227905,
+          "id": 1729358635
+        },
+        {
+          "distance": 0.2817855477333069,
+          "id": 1763559211
+        },
+        {
+          "distance": 0.2847723960876465,
+          "id": 1763559125
+        },
+        {
+          "distance": 0.28715693950653076,
+          "id": 1729359645
+        },
+        {
+          "distance": 0.2879621982574463,
+          "id": 1763559211
+        },
+        {
+          "distance": 0.2881163954734802,
+          "id": 1763559229
+        },
+        {
+          "distance": 0.2886515259742737,
+          "id": 1729359659
+        },
+        {
+          "distance": 0.2890712022781372,
+          "id": 1763558867
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880150995,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777661,
     "wof:name": "Our newest exhibition “Remain Seated: Airliner Passenger Chairs,” is now on display in the Aviation Museum and Library...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -30,6 +30,50 @@
       "taken": 1639410540,
       "taken_at": "Dec 13, 2021 3:49 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1582837700843811,
+          "id": 1880151267
+        },
+        {
+          "distance": 0.16957032680511475,
+          "id": 1880151267
+        },
+        {
+          "distance": 0.26329731941223145,
+          "id": 1880151373
+        },
+        {
+          "distance": 0.27663326263427734,
+          "id": 1729361489
+        },
+        {
+          "distance": 0.27723532915115356,
+          "id": 1880151563
+        },
+        {
+          "distance": 0.27723532915115356,
+          "id": 1880151575
+        },
+        {
+          "distance": 0.2787131667137146,
+          "id": 1729355755
+        },
+        {
+          "distance": 0.28339052200317383,
+          "id": 1763559371
+        },
+        {
+          "distance": 0.2856406569480896,
+          "id": 1763559371
+        },
+        {
+          "distance": 0.28791511058807373,
+          "id": 1763558827
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559263,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Maxine Crookston (1915–2016) was known as “The Voice of San Francisco Airport” from the late 1940s through the 1950s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

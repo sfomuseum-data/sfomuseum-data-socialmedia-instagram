@@ -36,6 +36,50 @@
       "taken": 1571232000,
       "taken_at": "Oct 16, 2019 1:20 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.003552258014678955,
+          "id": 1729359597
+        },
+        {
+          "distance": 0.06769078969955444,
+          "id": 1729356533
+        },
+        {
+          "distance": 0.0817992091178894,
+          "id": 1729361109
+        },
+        {
+          "distance": 0.08603549003601074,
+          "id": 1947425309
+        },
+        {
+          "distance": 0.09226298332214355,
+          "id": 1729356173
+        },
+        {
+          "distance": 0.09394413232803345,
+          "id": 1729361163
+        },
+        {
+          "distance": 0.10342299938201904,
+          "id": 1729359597
+        },
+        {
+          "distance": 0.11906218528747559,
+          "id": 1729355659
+        },
+        {
+          "distance": 0.1213272213935852,
+          "id": 1729356989
+        },
+        {
+          "distance": 0.1215164065361023,
+          "id": 1729361109
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729355993,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777627,
     "wof:name": "In 1923, Igor Sikorsky founded the Sikorsky Aero Engineering Corporation (later renamed the Sikorsky Manufacturing Company)...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

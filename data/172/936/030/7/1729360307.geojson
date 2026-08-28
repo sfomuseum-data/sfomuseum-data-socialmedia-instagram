@@ -28,6 +28,50 @@
       "taken": 1474197660,
       "taken_at": "Sep 18, 2016 11:21 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23086249828338623,
+          "id": 1729358005
+        },
+        {
+          "distance": 0.2331719994544983,
+          "id": 1729357943
+        },
+        {
+          "distance": 0.2341364622116089,
+          "id": 1729355833
+        },
+        {
+          "distance": 0.23639822006225586,
+          "id": 1729357943
+        },
+        {
+          "distance": 0.23647421598434448,
+          "id": 1729357687
+        },
+        {
+          "distance": 0.23951870203018188,
+          "id": 1729358869
+        },
+        {
+          "distance": 0.24147862195968628,
+          "id": 1729358011
+        },
+        {
+          "distance": 0.24234884977340698,
+          "id": 1729356979
+        },
+        {
+          "distance": 0.2438671588897705,
+          "id": 1729355429
+        },
+        {
+          "distance": 0.24468284845352173,
+          "id": 1729359771
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1729360307,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "David Levinthal was born in 1949 in San Francisco and grew up in the Bay Area...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

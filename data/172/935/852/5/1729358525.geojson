@@ -52,6 +52,50 @@
       "taken": 1519220100,
       "taken_at": "Feb 21, 2018, 1:35 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07400780916213989,
+          "id": 1729358585
+        },
+        {
+          "distance": 0.080594003200531,
+          "id": 1729358797
+        },
+        {
+          "distance": 0.10824066400527954,
+          "id": 1729358713
+        },
+        {
+          "distance": 0.10995268821716309,
+          "id": 1729358585
+        },
+        {
+          "distance": 0.11355084180831909,
+          "id": 1729358539
+        },
+        {
+          "distance": 0.12603580951690674,
+          "id": 1729358671
+        },
+        {
+          "distance": 0.13134020566940308,
+          "id": 1729358797
+        },
+        {
+          "distance": 0.14280176162719727,
+          "id": 1729358967
+        },
+        {
+          "distance": 0.1438584327697754,
+          "id": 1729358579
+        },
+        {
+          "distance": 0.14470279216766357,
+          "id": 1729358713
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -81,7 +125,7 @@
       }
     ],
     "wof:id": 1729358525,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Traditional female attire in San Andrés, Mexico, are huipiles (blouses) with extensive decoration at the neck and sleeves...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -98,5 +142,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

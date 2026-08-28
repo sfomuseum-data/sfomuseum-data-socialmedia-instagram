@@ -31,6 +31,50 @@
       "taken": 1569946440,
       "taken_at": "Oct 01, 2019 4:14 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12156510353088379,
+          "id": 1729356979
+        },
+        {
+          "distance": 0.13796186447143555,
+          "id": 1763559505
+        },
+        {
+          "distance": 0.1601751446723938,
+          "id": 1729357647
+        },
+        {
+          "distance": 0.16408687829971313,
+          "id": 1729358009
+        },
+        {
+          "distance": 0.16851961612701416,
+          "id": 1729358161
+        },
+        {
+          "distance": 0.17126363515853882,
+          "id": 1763559203
+        },
+        {
+          "distance": 0.17577171325683594,
+          "id": 1729355429
+        },
+        {
+          "distance": 0.1770765781402588,
+          "id": 1729355043
+        },
+        {
+          "distance": 0.17736399173736572,
+          "id": 1729361005
+        },
+        {
+          "distance": 0.17740392684936523,
+          "id": 1763559547
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729356043,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777628,
     "wof:name": "The first #PanAm delivery of a Douglas DC-3 was #onthisday in 1937...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

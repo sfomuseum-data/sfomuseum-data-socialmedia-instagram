@@ -31,6 +31,50 @@
       "taken": 1554713400,
       "taken_at": "Apr 08, 2019 8:50 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09659141302108765,
+          "id": 1729361161
+        },
+        {
+          "distance": 0.09659141302108765,
+          "id": 1763558609
+        },
+        {
+          "distance": 0.12910771369934082,
+          "id": 1729357247
+        },
+        {
+          "distance": 0.12993139028549194,
+          "id": 1729360319
+        },
+        {
+          "distance": 0.13770699501037598,
+          "id": 1729356091
+        },
+        {
+          "distance": 0.13773447275161743,
+          "id": 1880151445
+        },
+        {
+          "distance": 0.14350521564483643,
+          "id": 1729357841
+        },
+        {
+          "distance": 0.15147972106933594,
+          "id": 1729358203
+        },
+        {
+          "distance": 0.1535038948059082,
+          "id": 1763558839
+        },
+        {
+          "distance": 0.15351468324661255,
+          "id": 1729355287
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729356707,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "On April 6, 1926, Walter T. Varney, a flight school and air taxi operator from San Francisco, launched his air mail service...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

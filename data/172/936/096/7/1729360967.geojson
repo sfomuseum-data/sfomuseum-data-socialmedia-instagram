@@ -26,6 +26,50 @@
       "taken": 1457263680,
       "taken_at": "Mar 6, 2016, 11:28 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.000021636486053466797,
+          "id": 1763558619
+        },
+        {
+          "distance": 0.09521466493606567,
+          "id": 1763558619
+        },
+        {
+          "distance": 0.2799602150917053,
+          "id": 1729356269
+        },
+        {
+          "distance": 0.2934707999229431,
+          "id": 1729355879
+        },
+        {
+          "distance": 0.3004601001739502,
+          "id": 1729356269
+        },
+        {
+          "distance": 0.3076293468475342,
+          "id": 1729355879
+        },
+        {
+          "distance": 0.3142912983894348,
+          "id": 1729359109
+        },
+        {
+          "distance": 0.3220070004463196,
+          "id": 1729356593
+        },
+        {
+          "distance": 0.326759934425354,
+          "id": 1729356491
+        },
+        {
+          "distance": 0.3373129963874817,
+          "id": 1729360177
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1729360967,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777640,
     "wof:name": "To create “The Hexapodarium” series, Gail Wight focused her creative vision on the housefly, an insect that evolved sixty-five-million-years ago...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

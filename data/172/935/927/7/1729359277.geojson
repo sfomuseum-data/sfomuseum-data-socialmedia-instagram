@@ -38,6 +38,50 @@
       "taken": 1500889140,
       "taken_at": "Jul 24, 2017 9:39 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2791284918785095,
+          "id": 1729359671
+        },
+        {
+          "distance": 0.2886417508125305,
+          "id": 1729361581
+        },
+        {
+          "distance": 0.28985416889190674,
+          "id": 1729355385
+        },
+        {
+          "distance": 0.29922789335250854,
+          "id": 1729361581
+        },
+        {
+          "distance": 0.30036085844039917,
+          "id": 1880151645
+        },
+        {
+          "distance": 0.3008774518966675,
+          "id": 1729357331
+        },
+        {
+          "distance": 0.3012404441833496,
+          "id": 1729357903
+        },
+        {
+          "distance": 0.3037697672843933,
+          "id": 1763558903
+        },
+        {
+          "distance": 0.30474328994750977,
+          "id": 1729361941
+        },
+        {
+          "distance": 0.30546092987060547,
+          "id": 1729357391
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729359277,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Happy Birthday Amelia Earhart!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

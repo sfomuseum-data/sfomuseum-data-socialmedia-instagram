@@ -29,6 +29,50 @@
       "taken": 1626106020,
       "taken_at": "Jul 12, 2021 4:07 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16586655378341675,
+          "id": 1763559221
+        },
+        {
+          "distance": 0.19437384605407715,
+          "id": 1763558863
+        },
+        {
+          "distance": 0.1972000002861023,
+          "id": 1763558885
+        },
+        {
+          "distance": 0.19943761825561523,
+          "id": 1763559221
+        },
+        {
+          "distance": 0.19984865188598633,
+          "id": 1763559177
+        },
+        {
+          "distance": 0.20635312795639038,
+          "id": 1763558885
+        },
+        {
+          "distance": 0.2256460189819336,
+          "id": 1763559177
+        },
+        {
+          "distance": 0.24057376384735107,
+          "id": 1763558863
+        },
+        {
+          "distance": 0.24659353494644165,
+          "id": 1763559231
+        },
+        {
+          "distance": 0.26125359535217285,
+          "id": 1763559231
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1763559067,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Visiting your hairstylist soon?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

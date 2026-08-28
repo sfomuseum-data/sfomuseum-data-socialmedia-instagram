@@ -54,6 +54,50 @@
       "taken": 1508435160,
       "taken_at": "Oct 19, 2017, 5:46 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09392774105072021,
+          "id": 1729358989
+        },
+        {
+          "distance": 0.10570430755615234,
+          "id": 1729358859
+        },
+        {
+          "distance": 0.12220418453216553,
+          "id": 1729359439
+        },
+        {
+          "distance": 0.1283353567123413,
+          "id": 1729359485
+        },
+        {
+          "distance": 0.12875515222549438,
+          "id": 1729359125
+        },
+        {
+          "distance": 0.12887465953826904,
+          "id": 1729358939
+        },
+        {
+          "distance": 0.13739418983459473,
+          "id": 1729359179
+        },
+        {
+          "distance": 0.14156067371368408,
+          "id": 1729356347
+        },
+        {
+          "distance": 0.15112531185150146,
+          "id": 1729359435
+        },
+        {
+          "distance": 0.15497565269470215,
+          "id": 1729359187
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -83,7 +127,7 @@
       }
     ],
     "wof:id": 1729359001,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777634,
     "wof:name": "George C. Blickensderfer (1850–1917) introduced the first portable typewriter with a full keyboard in 1893...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -100,5 +144,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

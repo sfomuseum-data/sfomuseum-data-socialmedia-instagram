@@ -30,6 +30,50 @@
       "taken": 1653048180,
       "taken_at": "May 20, 2022 12:03 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20346403121948242,
+          "id": 1729357725
+        },
+        {
+          "distance": 0.2071704864501953,
+          "id": 1729355471
+        },
+        {
+          "distance": 0.21106523275375366,
+          "id": 1729356091
+        },
+        {
+          "distance": 0.21206730604171753,
+          "id": 1729359667
+        },
+        {
+          "distance": 0.21368151903152466,
+          "id": 1729361677
+        },
+        {
+          "distance": 0.21571040153503418,
+          "id": 1880151445
+        },
+        {
+          "distance": 0.21745014190673828,
+          "id": 1729357841
+        },
+        {
+          "distance": 0.21833443641662598,
+          "id": 1729360319
+        },
+        {
+          "distance": 0.21901839971542358,
+          "id": 1729361179
+        },
+        {
+          "distance": 0.22292989492416382,
+          "id": 1880151673
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151709,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777663,
     "wof:name": "#Onthisday in 1932, Amelia Earhart departed from Harbour Grace, Newfoundland, in a single-engine Lockheed Vega 5B...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

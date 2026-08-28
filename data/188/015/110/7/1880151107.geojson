@@ -28,6 +28,50 @@
       "taken": 1677670740,
       "taken_at": "Mar 01, 2023 11:39 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19881099462509155,
+          "id": 1729361265
+        },
+        {
+          "distance": 0.20188456773757935,
+          "id": 1729357217
+        },
+        {
+          "distance": 0.20504111051559448,
+          "id": 1763558923
+        },
+        {
+          "distance": 0.2055443525314331,
+          "id": 1729358813
+        },
+        {
+          "distance": 0.21665304899215698,
+          "id": 1763559683
+        },
+        {
+          "distance": 0.21894758939743042,
+          "id": 1763558923
+        },
+        {
+          "distance": 0.22016698122024536,
+          "id": 1729361265
+        },
+        {
+          "distance": 0.22742289304733276,
+          "id": 1763559683
+        },
+        {
+          "distance": 0.22811007499694824,
+          "id": 1729358813
+        },
+        {
+          "distance": 0.22845059633255005,
+          "id": 1729357217
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1880151107,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "#OnThisDay in 1803, Ohio was admitted into the Union...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

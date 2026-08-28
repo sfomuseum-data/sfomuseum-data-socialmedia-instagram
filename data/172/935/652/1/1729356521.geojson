@@ -25,6 +25,50 @@
       "taken": 1558946400,
       "taken_at": "May 27, 2019 8:40 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.00616532564163208,
+          "id": 1729356737
+        },
+        {
+          "distance": 0.11253678798675537,
+          "id": 1729356737
+        },
+        {
+          "distance": 0.17666101455688477,
+          "id": 1729356275
+        },
+        {
+          "distance": 0.18305367231369019,
+          "id": 1729356925
+        },
+        {
+          "distance": 0.19552212953567505,
+          "id": 1729356925
+        },
+        {
+          "distance": 0.21593403816223145,
+          "id": 1729356751
+        },
+        {
+          "distance": 0.2441665530204773,
+          "id": 1729356751
+        },
+        {
+          "distance": 0.25484412908554077,
+          "id": 1729356275
+        },
+        {
+          "distance": 0.25829243659973145,
+          "id": 1763558925
+        },
+        {
+          "distance": 0.27448779344558716,
+          "id": 1729355529
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729356521,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Happy Memorial Day!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

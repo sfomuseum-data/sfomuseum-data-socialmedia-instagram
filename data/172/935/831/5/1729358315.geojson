@@ -37,6 +37,50 @@
       "taken": 1524828720,
       "taken_at": "Apr 27, 2018 11:32 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.03259730339050293,
+          "id": 1729359579
+        },
+        {
+          "distance": 0.033414363861083984,
+          "id": 1729356565
+        },
+        {
+          "distance": 0.07582235336303711,
+          "id": 1763559329
+        },
+        {
+          "distance": 0.08608847856521606,
+          "id": 1729359579
+        },
+        {
+          "distance": 0.09011977910995483,
+          "id": 1729356565
+        },
+        {
+          "distance": 0.10271960496902466,
+          "id": 1729355303
+        },
+        {
+          "distance": 0.10865551233291626,
+          "id": 1763559329
+        },
+        {
+          "distance": 0.11696803569793701,
+          "id": 1880150957
+        },
+        {
+          "distance": 0.11768984794616699,
+          "id": 1729359769
+        },
+        {
+          "distance": 0.1266160011291504,
+          "id": 1729358993
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729358315,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "The first Airbus A380, the world's largest commercial passenger jet, took off on its maiden flight #onthisday in 2005...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

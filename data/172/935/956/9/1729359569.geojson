@@ -31,6 +31,50 @@
       "taken": 1493196300,
       "taken_at": "Apr 26, 2017 8:45 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1605575680732727,
+          "id": 1729356753
+        },
+        {
+          "distance": 0.16159683465957642,
+          "id": 1729357345
+        },
+        {
+          "distance": 0.16272783279418945,
+          "id": 1763559631
+        },
+        {
+          "distance": 0.1633790135383606,
+          "id": 1763559631
+        },
+        {
+          "distance": 0.1709192395210266,
+          "id": 1729356033
+        },
+        {
+          "distance": 0.17680257558822632,
+          "id": 1729356033
+        },
+        {
+          "distance": 0.1843767762184143,
+          "id": 1729357345
+        },
+        {
+          "distance": 0.1882757544517517,
+          "id": 1729359867
+        },
+        {
+          "distance": 0.1931104063987732,
+          "id": 1729359793
+        },
+        {
+          "distance": 0.19560545682907104,
+          "id": 1729356753
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729359569,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "The Lockheed L-1011 TriStar was introduced #onthisday in 1972 with Eastern Air Lines...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -41,6 +41,50 @@
       "taken": 1529666460,
       "taken_at": "Jun 22, 2018 11:21 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24812668561935425,
+          "id": 1880151751
+        },
+        {
+          "distance": 0.2539438009262085,
+          "id": 1729356433
+        },
+        {
+          "distance": 0.25876283645629883,
+          "id": 1729362689
+        },
+        {
+          "distance": 0.2660074234008789,
+          "id": 1729356433
+        },
+        {
+          "distance": 0.2695767283439636,
+          "id": 1763559023
+        },
+        {
+          "distance": 0.2739996314048767,
+          "id": 1729358693
+        },
+        {
+          "distance": 0.27440840005874634,
+          "id": 1880151499
+        },
+        {
+          "distance": 0.27844661474227905,
+          "id": 1880151751
+        },
+        {
+          "distance": 0.2790278196334839,
+          "id": 1729356063
+        },
+        {
+          "distance": 0.2806142568588257,
+          "id": 1763558763
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -70,7 +114,7 @@
       }
     ],
     "wof:id": 1729358077,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Similar to ships-in-bottles, but positioned upright, whimsey bottles contain a variety of imagery...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -87,5 +131,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

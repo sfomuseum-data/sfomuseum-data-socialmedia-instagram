@@ -25,6 +25,50 @@
       "taken": 1545645240,
       "taken_at": "Dec 24, 2018 9:54 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.27100902795791626,
+          "id": 1729357447
+        },
+        {
+          "distance": 0.27624720335006714,
+          "id": 1729360451
+        },
+        {
+          "distance": 0.2977592349052429,
+          "id": 1729357447
+        },
+        {
+          "distance": 0.316189169883728,
+          "id": 1880151761
+        },
+        {
+          "distance": 0.3163487911224365,
+          "id": 1729361191
+        },
+        {
+          "distance": 0.32237088680267334,
+          "id": 1729360451
+        },
+        {
+          "distance": 0.33967727422714233,
+          "id": 1729362239
+        },
+        {
+          "distance": 0.354465126991272,
+          "id": 1729357549
+        },
+        {
+          "distance": 0.3549156188964844,
+          "id": 1729361191
+        },
+        {
+          "distance": 0.35495293140411377,
+          "id": 1729356647
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729357193,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777630,
     "wof:name": "Our online database features highlights from our #mealservice collection...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

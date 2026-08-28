@@ -25,6 +25,50 @@
       "taken": 1342006080,
       "taken_at": "Jul 11, 2012 11:28 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19881081581115723,
+          "id": 1729362225
+        },
+        {
+          "distance": 0.23193466663360596,
+          "id": 1729362175
+        },
+        {
+          "distance": 0.24072307348251343,
+          "id": 1729362883
+        },
+        {
+          "distance": 0.2476242184638977,
+          "id": 1729362175
+        },
+        {
+          "distance": 0.24955803155899048,
+          "id": 1729362225
+        },
+        {
+          "distance": 0.26524025201797485,
+          "id": 1729362883
+        },
+        {
+          "distance": 0.2844058871269226,
+          "id": 1729361983
+        },
+        {
+          "distance": 0.2856767773628235,
+          "id": 1729361967
+        },
+        {
+          "distance": 0.2913782000541687,
+          "id": 1729363013
+        },
+        {
+          "distance": 0.2927525043487549,
+          "id": 1729362343
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362971,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777657,
     "wof:name": "Swedish-born Tyre Lundgren's bird figurine is an impish little thing, isn't he?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

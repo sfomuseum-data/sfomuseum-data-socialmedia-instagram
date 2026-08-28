@@ -32,6 +32,50 @@
       "taken": 1477598700,
       "taken_at": "Oct 27, 2016 8:05 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17841923236846924,
+          "id": 1729360173
+        },
+        {
+          "distance": 0.20581156015396118,
+          "id": 1729355439
+        },
+        {
+          "distance": 0.2384682297706604,
+          "id": 1729360173
+        },
+        {
+          "distance": 0.2432149052619934,
+          "id": 1729359731
+        },
+        {
+          "distance": 0.2460227608680725,
+          "id": 1729355439
+        },
+        {
+          "distance": 0.24749475717544556,
+          "id": 1729360309
+        },
+        {
+          "distance": 0.24936586618423462,
+          "id": 1729359961
+        },
+        {
+          "distance": 0.2578336000442505,
+          "id": 1729359869
+        },
+        {
+          "distance": 0.26385509967803955,
+          "id": 1729359881
+        },
+        {
+          "distance": 0.27903515100479126,
+          "id": 1729359827
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729360183,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "The aquatint technique was introduced to England from France in the mid-eighteenth century...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

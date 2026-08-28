@@ -31,6 +31,50 @@
       "taken": 1632413880,
       "taken_at": "Sep 23, 2021 4:18 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.058192670345306396,
+          "id": 1729357547
+        },
+        {
+          "distance": 0.07997727394104004,
+          "id": 1729359805
+        },
+        {
+          "distance": 0.12324756383895874,
+          "id": 1729359077
+        },
+        {
+          "distance": 0.12347185611724854,
+          "id": 1880151063
+        },
+        {
+          "distance": 0.12826716899871826,
+          "id": 1729356859
+        },
+        {
+          "distance": 0.13549071550369263,
+          "id": 1729358457
+        },
+        {
+          "distance": 0.13582128286361694,
+          "id": 1729358985
+        },
+        {
+          "distance": 0.13649994134902954,
+          "id": 1763559233
+        },
+        {
+          "distance": 0.14183765649795532,
+          "id": 1729361129
+        },
+        {
+          "distance": 0.14413464069366455,
+          "id": 1729360337
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559413,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "By September 21, 1927, Hangar No...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -41,6 +41,50 @@
       "taken": 1538216160,
       "taken_at": "Sep 29, 2018 10:16 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06382304430007935,
+          "id": 1729356961
+        },
+        {
+          "distance": 0.11760902404785156,
+          "id": 1729356961
+        },
+        {
+          "distance": 0.23699790239334106,
+          "id": 1729357719
+        },
+        {
+          "distance": 0.23902827501296997,
+          "id": 1729358591
+        },
+        {
+          "distance": 0.2407727837562561,
+          "id": 1729357505
+        },
+        {
+          "distance": 0.24308544397354126,
+          "id": 1729357507
+        },
+        {
+          "distance": 0.2432725429534912,
+          "id": 1729357067
+        },
+        {
+          "distance": 0.2528908848762512,
+          "id": 1729357719
+        },
+        {
+          "distance": 0.265181303024292,
+          "id": 1729357067
+        },
+        {
+          "distance": 0.2662845849990845,
+          "id": 1729357847
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -70,7 +114,7 @@
       }
     ],
     "wof:id": 1729357617,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777632,
     "wof:name": "An ancient Chinese creation myth tells of a time when the world was new and the gods appointed cats to oversee life...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -87,5 +131,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

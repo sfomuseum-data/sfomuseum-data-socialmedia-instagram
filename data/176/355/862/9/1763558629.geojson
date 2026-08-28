@@ -25,6 +25,50 @@
       "taken": 1461350340,
       "taken_at": "Apr 22, 2016 6:39 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.013314485549926758,
+          "id": 1729360779
+        },
+        {
+          "distance": 0.09927988052368164,
+          "id": 1729360779
+        },
+        {
+          "distance": 0.16718685626983643,
+          "id": 1763558807
+        },
+        {
+          "distance": 0.16718685626983643,
+          "id": 1729357179
+        },
+        {
+          "distance": 0.17119377851486206,
+          "id": 1729360007
+        },
+        {
+          "distance": 0.1739743947982788,
+          "id": 1729358537
+        },
+        {
+          "distance": 0.19151854515075684,
+          "id": 1729355245
+        },
+        {
+          "distance": 0.19308549165725708,
+          "id": 1729357489
+        },
+        {
+          "distance": 0.19666510820388794,
+          "id": 1763559293
+        },
+        {
+          "distance": 0.20341342687606812,
+          "id": 1763558807
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1763558629,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777659,
     "wof:name": "This Pan Am postcard of a watercolor painting by John T. McCoy depicts a Lockheed Constellation flying over the San Francisco Bay in 1947 on the world’s first scheduled round-the-world commercial flight...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -40,6 +40,50 @@
       "taken": 1534968300,
       "taken_at": "Aug 22, 2018 8:05 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24432247877120972,
+          "id": 1729356845
+        },
+        {
+          "distance": 0.2468278408050537,
+          "id": 1729359365
+        },
+        {
+          "distance": 0.2563822865486145,
+          "id": 1729359417
+        },
+        {
+          "distance": 0.2571168541908264,
+          "id": 1729361459
+        },
+        {
+          "distance": 0.2650880217552185,
+          "id": 1729357683
+        },
+        {
+          "distance": 0.2693125605583191,
+          "id": 1729357413
+        },
+        {
+          "distance": 0.2732795476913452,
+          "id": 1729361015
+        },
+        {
+          "distance": 0.27330464124679565,
+          "id": 1729359417
+        },
+        {
+          "distance": 0.27339351177215576,
+          "id": 1729361055
+        },
+        {
+          "distance": 0.27916526794433594,
+          "id": 1729360019
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729357761,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Radio is one of the great technological triumphs of the 20th century...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

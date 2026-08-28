@@ -34,6 +34,50 @@
       "taken": 1545152760,
       "taken_at": "Dec 18, 2018, 5:06 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11575663089752197,
+          "id": 1729357219
+        },
+        {
+          "distance": 0.1242678165435791,
+          "id": 1729357219
+        },
+        {
+          "distance": 0.3146042823791504,
+          "id": 1763559195
+        },
+        {
+          "distance": 0.31816792488098145,
+          "id": 1729360243
+        },
+        {
+          "distance": 0.3226773142814636,
+          "id": 1729357581
+        },
+        {
+          "distance": 0.32432693243026733,
+          "id": 1729361057
+        },
+        {
+          "distance": 0.33382993936538696,
+          "id": 1880151313
+        },
+        {
+          "distance": 0.339336633682251,
+          "id": 1729359733
+        },
+        {
+          "distance": 0.34376078844070435,
+          "id": 1729360943
+        },
+        {
+          "distance": 0.3439342975616455,
+          "id": 1763559195
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729357213,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777630,
     "wof:name": "In the 1930s, Pan American Airways’ flying boats captured the imagination of a generation, as they dramatically reduced the amount of time it took to travel between continents...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

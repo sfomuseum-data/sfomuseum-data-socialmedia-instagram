@@ -29,6 +29,50 @@
       "taken": 1651591860,
       "taken_at": "May 03, 2022 3:31 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.34345370531082153,
+          "id": 1729359015
+        },
+        {
+          "distance": 0.3501206040382385,
+          "id": 1729357849
+        },
+        {
+          "distance": 0.35452884435653687,
+          "id": 1729359281
+        },
+        {
+          "distance": 0.3555682897567749,
+          "id": 1729360099
+        },
+        {
+          "distance": 0.3595729470252991,
+          "id": 1729357961
+        },
+        {
+          "distance": 0.3602985143661499,
+          "id": 1729359319
+        },
+        {
+          "distance": 0.3611522912979126,
+          "id": 1729355197
+        },
+        {
+          "distance": 0.36160755157470703,
+          "id": 1729355225
+        },
+        {
+          "distance": 0.3634111285209656,
+          "id": 1729359553
+        },
+        {
+          "distance": 0.3654141426086426,
+          "id": 1729360867
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880151763,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777663,
     "wof:name": "Did you know that in the 1960s, Air France produced a cookbook featuring recipes from their professional chefs?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

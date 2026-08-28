@@ -31,6 +31,50 @@
       "taken": 1597832820,
       "taken_at": "Aug 19, 2020, 10:27 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1507076621055603,
+          "id": 1729355141
+        },
+        {
+          "distance": 0.1852969527244568,
+          "id": 1729355127
+        },
+        {
+          "distance": 0.2135758399963379,
+          "id": 1729355141
+        },
+        {
+          "distance": 0.22281527519226074,
+          "id": 1729355127
+        },
+        {
+          "distance": 0.2582911252975464,
+          "id": 1729356445
+        },
+        {
+          "distance": 0.26440542936325073,
+          "id": 1729355313
+        },
+        {
+          "distance": 0.2773142457008362,
+          "id": 1729356785
+        },
+        {
+          "distance": 0.2859255075454712,
+          "id": 1729356787
+        },
+        {
+          "distance": 0.28809911012649536,
+          "id": 1729355307
+        },
+        {
+          "distance": 0.2886253595352173,
+          "id": 1729360563
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729355125,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777617,
     "wof:name": "From 1997 to 2002, Richard Misrach photographed the Golden Gate Bridge from the front porch of his house in the Berkeley Hills...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -34,6 +34,50 @@
       "taken": 1519752660,
       "taken_at": "Feb 27, 2018 5:31 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18589287996292114,
+          "id": 1729359367
+        },
+        {
+          "distance": 0.22771477699279785,
+          "id": 1729359367
+        },
+        {
+          "distance": 0.26469773054122925,
+          "id": 1880151563
+        },
+        {
+          "distance": 0.26469773054122925,
+          "id": 1880151575
+        },
+        {
+          "distance": 0.289975106716156,
+          "id": 1880151575
+        },
+        {
+          "distance": 0.289975106716156,
+          "id": 1880151563
+        },
+        {
+          "distance": 0.29059040546417236,
+          "id": 1880151571
+        },
+        {
+          "distance": 0.2941834330558777,
+          "id": 1880151571
+        },
+        {
+          "distance": 0.30366045236587524,
+          "id": 1729359167
+        },
+        {
+          "distance": 0.315937876701355,
+          "id": 1729355755
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729358507,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777633,
     "wof:name": "This is your last week to see \"Flying the Main Line: A History of United Airlines.\"..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

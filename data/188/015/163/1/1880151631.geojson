@@ -31,6 +31,50 @@
       "taken": 1656072420,
       "taken_at": "Jun 24, 2022 12:07 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.04237723350524902,
+          "id": 1880151521
+        },
+        {
+          "distance": 0.07905846834182739,
+          "id": 1880151175
+        },
+        {
+          "distance": 0.08257871866226196,
+          "id": 1880151643
+        },
+        {
+          "distance": 0.08991605043411255,
+          "id": 1880151613
+        },
+        {
+          "distance": 0.09451311826705933,
+          "id": 1880151685
+        },
+        {
+          "distance": 0.09499859809875488,
+          "id": 1880151521
+        },
+        {
+          "distance": 0.10191577672958374,
+          "id": 1880151049
+        },
+        {
+          "distance": 0.10799962282180786,
+          "id": 1880151175
+        },
+        {
+          "distance": 0.1194162368774414,
+          "id": 1947425187
+        },
+        {
+          "distance": 0.123013436794281,
+          "id": 1880151685
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151631,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Following the historic first flight from North America to Australia by Charles Kingsford Smith and crew in 1928, the transpacific “Southern Cross” route— named after the aircraft they flew, the Fokker F.VIIb/3m Southern Cross—received worldwide fame...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

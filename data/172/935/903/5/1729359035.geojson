@@ -47,6 +47,50 @@
       "taken": 1507107000,
       "taken_at": "Oct 04, 2017 8:50 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23249024152755737,
+          "id": 1729358689
+        },
+        {
+          "distance": 0.23314183950424194,
+          "id": 1729358689
+        },
+        {
+          "distance": 0.3101603388786316,
+          "id": 1729355557
+        },
+        {
+          "distance": 0.3116307854652405,
+          "id": 1763559403
+        },
+        {
+          "distance": 0.3197060823440552,
+          "id": 1729355557
+        },
+        {
+          "distance": 0.3246351480484009,
+          "id": 1729359579
+        },
+        {
+          "distance": 0.3259239196777344,
+          "id": 1729362965
+        },
+        {
+          "distance": 0.3259483575820923,
+          "id": 1729356565
+        },
+        {
+          "distance": 0.32682961225509644,
+          "id": 1729355357
+        },
+        {
+          "distance": 0.3276916742324829,
+          "id": 1729358997
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -76,7 +120,7 @@
       }
     ],
     "wof:id": 1729359035,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777634,
     "wof:name": "We're getting ready for our newest exhibition in our design lab...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -93,5 +137,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

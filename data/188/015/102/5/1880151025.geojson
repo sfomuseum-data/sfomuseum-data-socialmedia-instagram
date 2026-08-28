@@ -29,6 +29,50 @@
       "taken": 1680258480,
       "taken_at": "Mar 31, 2023 10:28 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2911241054534912,
+          "id": 1880151799
+        },
+        {
+          "distance": 0.29846858978271484,
+          "id": 1880151779
+        },
+        {
+          "distance": 0.30124515295028687,
+          "id": 1763559533
+        },
+        {
+          "distance": 0.3019315004348755,
+          "id": 1880151601
+        },
+        {
+          "distance": 0.30931156873703003,
+          "id": 1880151251
+        },
+        {
+          "distance": 0.3120819330215454,
+          "id": 1763559059
+        },
+        {
+          "distance": 0.31679731607437134,
+          "id": 1763559059
+        },
+        {
+          "distance": 0.32032811641693115,
+          "id": 1880151799
+        },
+        {
+          "distance": 0.3218802213668823,
+          "id": 1880151739
+        },
+        {
+          "distance": 0.3233540654182434,
+          "id": 1880151251
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880151025,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777661,
     "wof:name": "Like many post-war airlines, Aloha Airlines, based in Hawaii, started charter passenger and cargo service with a single surplus DC-3 in 1946...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

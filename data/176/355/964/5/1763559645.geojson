@@ -30,6 +30,50 @@
       "taken": 1642700640,
       "taken_at": "Jan 20, 2022 5:44 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.424646258354187,
+          "id": 1763559557
+        },
+        {
+          "distance": 0.4307072162628174,
+          "id": 1729361309
+        },
+        {
+          "distance": 0.43632668256759644,
+          "id": 1763559557
+        },
+        {
+          "distance": 0.454346239566803,
+          "id": 1729361309
+        },
+        {
+          "distance": 0.46025270223617554,
+          "id": 1729358139
+        },
+        {
+          "distance": 0.4645337462425232,
+          "id": 1729358133
+        },
+        {
+          "distance": 0.4655885696411133,
+          "id": 1729358133
+        },
+        {
+          "distance": 0.4710463881492615,
+          "id": 1729357357
+        },
+        {
+          "distance": 0.4722963571548462,
+          "id": 1729357357
+        },
+        {
+          "distance": 0.47361820936203003,
+          "id": 1880151479
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559645,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Air California was formed in 1965 by a group of Orange County businessmen who recognized a great need to serve the rapidly expanding business communities and population centers of the region with intrastate air service from their local Orange County Airport (later renamed John Wayne Airport)...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

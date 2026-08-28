@@ -36,6 +36,50 @@
       "taken": 1489052700,
       "taken_at": "Mar 09, 2017 9:45 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.04944032430648804,
+          "id": 1763558987
+        },
+        {
+          "distance": 0.0590132474899292,
+          "id": 1729362039
+        },
+        {
+          "distance": 0.1113579273223877,
+          "id": 1729362039
+        },
+        {
+          "distance": 0.11524295806884766,
+          "id": 1763558987
+        },
+        {
+          "distance": 0.2155049443244934,
+          "id": 1729361677
+        },
+        {
+          "distance": 0.22493058443069458,
+          "id": 1729359667
+        },
+        {
+          "distance": 0.234768807888031,
+          "id": 1729360417
+        },
+        {
+          "distance": 0.24417626857757568,
+          "id": 1729358463
+        },
+        {
+          "distance": 0.2518065571784973,
+          "id": 1729357331
+        },
+        {
+          "distance": 0.2581327557563782,
+          "id": 1729361355
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729359749,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "Under the wing of a Stearman 4D, these two aviatrixes, clad in aviator helmets and goggles, were part of an air show held at SFO on November 20, 1932...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

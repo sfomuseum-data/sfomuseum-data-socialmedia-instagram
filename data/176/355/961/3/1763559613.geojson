@@ -28,6 +28,50 @@
       "taken": 1644423900,
       "taken_at": "Feb 09, 2022 4:25 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10167652368545532,
+          "id": 1729357673
+        },
+        {
+          "distance": 0.12608027458190918,
+          "id": 1729357945
+        },
+        {
+          "distance": 0.13312280178070068,
+          "id": 1729357673
+        },
+        {
+          "distance": 0.13358408212661743,
+          "id": 1729357183
+        },
+        {
+          "distance": 0.14103561639785767,
+          "id": 1729358869
+        },
+        {
+          "distance": 0.14688611030578613,
+          "id": 1763558711
+        },
+        {
+          "distance": 0.14688611030578613,
+          "id": 1729359003
+        },
+        {
+          "distance": 0.14733314514160156,
+          "id": 1729357183
+        },
+        {
+          "distance": 0.15292781591415405,
+          "id": 1729358011
+        },
+        {
+          "distance": 0.15647244453430176,
+          "id": 1729357395
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1763559613,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Have you visited our new aviation collections website?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

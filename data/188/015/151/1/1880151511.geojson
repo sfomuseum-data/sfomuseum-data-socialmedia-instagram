@@ -32,6 +32,50 @@
       "taken": 1660578240,
       "taken_at": "Aug 15, 2022 3:44 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14980542659759521,
+          "id": 1947425317
+        },
+        {
+          "distance": 0.17521464824676514,
+          "id": 1947425317
+        },
+        {
+          "distance": 0.2086409330368042,
+          "id": 1729361567
+        },
+        {
+          "distance": 0.22740930318832397,
+          "id": 1880151053
+        },
+        {
+          "distance": 0.24103868007659912,
+          "id": 1880151131
+        },
+        {
+          "distance": 0.24228733777999878,
+          "id": 1729359425
+        },
+        {
+          "distance": 0.24376404285430908,
+          "id": 1880151137
+        },
+        {
+          "distance": 0.24518150091171265,
+          "id": 1729356163
+        },
+        {
+          "distance": 0.25927597284317017,
+          "id": 1880150891
+        },
+        {
+          "distance": 0.2658991813659668,
+          "id": 1729357895
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1880151511,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Viola Frey (1933-2004) created a vocabulary of figures and objects that form a personal mythology, which are shown in her painting \"World Civilization\"...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -44,6 +44,50 @@
       "taken": 1530272040,
       "taken_at": "Jun 29, 2018, 11:34 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15656787157058716,
+          "id": 1729357849
+        },
+        {
+          "distance": 0.167316734790802,
+          "id": 1729358231
+        },
+        {
+          "distance": 0.17750215530395508,
+          "id": 1729359691
+        },
+        {
+          "distance": 0.1895046830177307,
+          "id": 1729358651
+        },
+        {
+          "distance": 0.18961101770401,
+          "id": 1729357489
+        },
+        {
+          "distance": 0.1901983618736267,
+          "id": 1729356065
+        },
+        {
+          "distance": 0.19406020641326904,
+          "id": 1729357769
+        },
+        {
+          "distance": 0.19490700960159302,
+          "id": 1729355495
+        },
+        {
+          "distance": 0.19813328981399536,
+          "id": 1763559637
+        },
+        {
+          "distance": 0.2000199556350708,
+          "id": 1729357017
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -73,7 +117,7 @@
       }
     ],
     "wof:id": 1729358047,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777632,
     "wof:name": "#OnThisDay in 1962, the Vickers VC10 took off on its maiden flight...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -90,5 +134,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

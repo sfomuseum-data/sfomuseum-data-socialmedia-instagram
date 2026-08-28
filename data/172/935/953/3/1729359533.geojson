@@ -33,6 +33,50 @@
       "taken": 1494268920,
       "taken_at": "May 08, 2017 6:42 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17042100429534912,
+          "id": 1729355033
+        },
+        {
+          "distance": 0.17858201265335083,
+          "id": 1763559547
+        },
+        {
+          "distance": 0.18552249670028687,
+          "id": 1729359361
+        },
+        {
+          "distance": 0.19065076112747192,
+          "id": 1729358009
+        },
+        {
+          "distance": 0.1917704939842224,
+          "id": 1763559247
+        },
+        {
+          "distance": 0.1933666467666626,
+          "id": 1763559617
+        },
+        {
+          "distance": 0.19616085290908813,
+          "id": 1880151589
+        },
+        {
+          "distance": 0.19805645942687988,
+          "id": 1729355429
+        },
+        {
+          "distance": 0.19812893867492676,
+          "id": 1729359173
+        },
+        {
+          "distance": 0.2010716199874878,
+          "id": 1763559167
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729359533,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "The first commercial pressurized transport aircraft was the Boeing 307 Stratoliner, which first flew in 1938...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

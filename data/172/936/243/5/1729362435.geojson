@@ -25,6 +25,50 @@
       "taken": 1387383120,
       "taken_at": "Dec 18, 2013 4:12 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2131391167640686,
+          "id": 1729362469
+        },
+        {
+          "distance": 0.2626166343688965,
+          "id": 1729362331
+        },
+        {
+          "distance": 0.27459245920181274,
+          "id": 1729362469
+        },
+        {
+          "distance": 0.2775506377220154,
+          "id": 1729362719
+        },
+        {
+          "distance": 0.2835603952407837,
+          "id": 1880151689
+        },
+        {
+          "distance": 0.2888975739479065,
+          "id": 1729361591
+        },
+        {
+          "distance": 0.2896416187286377,
+          "id": 1729362913
+        },
+        {
+          "distance": 0.2921984791755676,
+          "id": 1729361953
+        },
+        {
+          "distance": 0.2935452461242676,
+          "id": 1880151689
+        },
+        {
+          "distance": 0.30300629138946533,
+          "id": 1947424913
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362435,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "New permanent art from Merge is being installed in the new, soon-to-be-unveiled Boarding Area E!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

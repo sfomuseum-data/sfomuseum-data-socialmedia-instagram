@@ -31,6 +31,50 @@
       "taken": 1661532600,
       "taken_at": "Aug 26, 2022 4:50 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2799500823020935,
+          "id": 1880151049
+        },
+        {
+          "distance": 0.2822344899177551,
+          "id": 1880151175
+        },
+        {
+          "distance": 0.2833639979362488,
+          "id": 1947425187
+        },
+        {
+          "distance": 0.28587812185287476,
+          "id": 1880151521
+        },
+        {
+          "distance": 0.29301130771636963,
+          "id": 1880151643
+        },
+        {
+          "distance": 0.29572588205337524,
+          "id": 1880150963
+        },
+        {
+          "distance": 0.2959085702896118,
+          "id": 1880151685
+        },
+        {
+          "distance": 0.29693466424942017,
+          "id": 1880151643
+        },
+        {
+          "distance": 0.29859811067581177,
+          "id": 1880151175
+        },
+        {
+          "distance": 0.3002529740333557,
+          "id": 1880151613
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151483,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Captain Zoya Agarwal (@CaptainZoya) led an all-female crew for a record-breaking @AirIndia.in flight from San Francisco to Bengaluru over the North Pole to celebrate International Women’s Day in January 2021...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

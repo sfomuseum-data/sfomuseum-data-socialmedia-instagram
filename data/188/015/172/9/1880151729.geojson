@@ -29,6 +29,50 @@
       "taken": 1652461620,
       "taken_at": "May 13, 2022 5:07 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19770276546478271,
+          "id": 1880151627
+        },
+        {
+          "distance": 0.2216225266456604,
+          "id": 1880151719
+        },
+        {
+          "distance": 0.22930842638015747,
+          "id": 1729357341
+        },
+        {
+          "distance": 0.23029565811157227,
+          "id": 1880151139
+        },
+        {
+          "distance": 0.23923587799072266,
+          "id": 1729358111
+        },
+        {
+          "distance": 0.24217694997787476,
+          "id": 1880151139
+        },
+        {
+          "distance": 0.24542808532714844,
+          "id": 1947425289
+        },
+        {
+          "distance": 0.2489711046218872,
+          "id": 1880151719
+        },
+        {
+          "distance": 0.25516241788864136,
+          "id": 1880151627
+        },
+        {
+          "distance": 0.25528210401535034,
+          "id": 1763558765
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1880151729,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777663,
     "wof:name": "As part of #AAPI Heritage Month, we’re celebrating some of @flySFO’s own trailblazers!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

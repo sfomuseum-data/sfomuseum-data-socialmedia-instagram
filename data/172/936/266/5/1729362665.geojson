@@ -25,6 +25,50 @@
       "taken": 1371042480,
       "taken_at": "Jun 12, 2013 1:08 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24907678365707397,
+          "id": 1729362193
+        },
+        {
+          "distance": 0.2840214967727661,
+          "id": 1729362751
+        },
+        {
+          "distance": 0.28795909881591797,
+          "id": 1729362207
+        },
+        {
+          "distance": 0.28971636295318604,
+          "id": 1729362749
+        },
+        {
+          "distance": 0.2906346917152405,
+          "id": 1729362697
+        },
+        {
+          "distance": 0.30324190855026245,
+          "id": 1729362113
+        },
+        {
+          "distance": 0.307170033454895,
+          "id": 1729362733
+        },
+        {
+          "distance": 0.3167598843574524,
+          "id": 1729362193
+        },
+        {
+          "distance": 0.3259526491165161,
+          "id": 1729362749
+        },
+        {
+          "distance": 0.32707202434539795,
+          "id": 1729362751
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362665,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "Detail of a colorful ceramic wine and glass cooler, made in China between 1662-1722 for export to the European market...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

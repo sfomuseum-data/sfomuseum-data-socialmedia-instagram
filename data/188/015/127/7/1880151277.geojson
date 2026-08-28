@@ -25,6 +25,50 @@
       "taken": 1671817140,
       "taken_at": "Dec 23, 2022 5:39 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3048553466796875,
+          "id": 1763558953
+        },
+        {
+          "distance": 0.3271524906158447,
+          "id": 1729360075
+        },
+        {
+          "distance": 0.3333290219306946,
+          "id": 1729358881
+        },
+        {
+          "distance": 0.34905052185058594,
+          "id": 1729360075
+        },
+        {
+          "distance": 0.36520713567733765,
+          "id": 1729358881
+        },
+        {
+          "distance": 0.3869183659553528,
+          "id": 1880150921
+        },
+        {
+          "distance": 0.3890601396560669,
+          "id": 1729355239
+        },
+        {
+          "distance": 0.39506781101226807,
+          "id": 1729356167
+        },
+        {
+          "distance": 0.396434485912323,
+          "id": 1763559609
+        },
+        {
+          "distance": 0.3970823884010315,
+          "id": 1729355957
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1880151277,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Happy Holidays!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

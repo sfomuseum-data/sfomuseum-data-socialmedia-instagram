@@ -25,6 +25,50 @@
       "taken": 1390558500,
       "taken_at": "Jan 24, 2014 10:15 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1659778356552124,
+          "id": 1729362079
+        },
+        {
+          "distance": 0.21021294593811035,
+          "id": 1729362079
+        },
+        {
+          "distance": 0.21559268236160278,
+          "id": 1729362453
+        },
+        {
+          "distance": 0.22392207384109497,
+          "id": 1729362615
+        },
+        {
+          "distance": 0.237138032913208,
+          "id": 1729362615
+        },
+        {
+          "distance": 0.23766690492630005,
+          "id": 1729362063
+        },
+        {
+          "distance": 0.24087011814117432,
+          "id": 1729362453
+        },
+        {
+          "distance": 0.2501019239425659,
+          "id": 1729361983
+        },
+        {
+          "distance": 0.2531588077545166,
+          "id": 1729362631
+        },
+        {
+          "distance": 0.2541993260383606,
+          "id": 1729361703
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362419,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "Making sure the #vessels are safe in their mounts...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

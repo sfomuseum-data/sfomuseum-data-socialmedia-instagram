@@ -25,6 +25,50 @@
       "taken": 1460137320,
       "taken_at": "Apr 08, 2016 5:42 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12947583198547363,
+          "id": 1763559547
+        },
+        {
+          "distance": 0.12952804565429688,
+          "id": 1763558815
+        },
+        {
+          "distance": 0.13300162553787231,
+          "id": 1729358009
+        },
+        {
+          "distance": 0.13393473625183105,
+          "id": 1729356337
+        },
+        {
+          "distance": 0.1399250030517578,
+          "id": 1880151589
+        },
+        {
+          "distance": 0.1433585286140442,
+          "id": 1729359361
+        },
+        {
+          "distance": 0.1444416046142578,
+          "id": 1729357687
+        },
+        {
+          "distance": 0.1474745273590088,
+          "id": 1763559275
+        },
+        {
+          "distance": 0.14912772178649902,
+          "id": 1729359771
+        },
+        {
+          "distance": 0.15446996688842773,
+          "id": 1729357943
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360847,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "#Onthisday in 1946, the first scheduled passenger flight departed from San Francisco Airport to Honolulu, Hawai’i...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

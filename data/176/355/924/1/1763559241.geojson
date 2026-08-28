@@ -30,6 +30,50 @@
       "taken": 1615308360,
       "taken_at": "Mar 09, 2021 4:46 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20134615898132324,
+          "id": 1729360019
+        },
+        {
+          "distance": 0.2199205756187439,
+          "id": 1729359365
+        },
+        {
+          "distance": 0.2260352373123169,
+          "id": 1729360477
+        },
+        {
+          "distance": 0.23347729444503784,
+          "id": 1729357905
+        },
+        {
+          "distance": 0.24326562881469727,
+          "id": 1729359119
+        },
+        {
+          "distance": 0.24378806352615356,
+          "id": 1729359365
+        },
+        {
+          "distance": 0.25205421447753906,
+          "id": 1729359719
+        },
+        {
+          "distance": 0.25239312648773193,
+          "id": 1729361055
+        },
+        {
+          "distance": 0.25266528129577637,
+          "id": 1729359119
+        },
+        {
+          "distance": 0.2562408447265625,
+          "id": 1729356987
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559241,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "We had a request recently for some #TerminalTuesday posts, and where better to start than at the beginning?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

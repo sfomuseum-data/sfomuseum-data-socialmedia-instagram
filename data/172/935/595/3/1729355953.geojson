@@ -36,6 +36,50 @@
       "taken": 1572276600,
       "taken_at": "Oct 28, 2019 3:30 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09396898746490479,
+          "id": 1729358961
+        },
+        {
+          "distance": 0.09877556562423706,
+          "id": 1880151387
+        },
+        {
+          "distance": 0.1089821457862854,
+          "id": 1763559017
+        },
+        {
+          "distance": 0.11395388841629028,
+          "id": 1729357075
+        },
+        {
+          "distance": 0.11884379386901855,
+          "id": 1880151189
+        },
+        {
+          "distance": 0.1194918155670166,
+          "id": 1729358961
+        },
+        {
+          "distance": 0.12344241142272949,
+          "id": 1763558607
+        },
+        {
+          "distance": 0.12458634376525879,
+          "id": 1729355657
+        },
+        {
+          "distance": 0.12547510862350464,
+          "id": 1729361159
+        },
+        {
+          "distance": 0.12813830375671387,
+          "id": 1729358701
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729355953,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777627,
     "wof:name": "The official inauguration of Pan American Airways’ daily airmail service from Key West to Havana, Cuba began #onthisday in 1927...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

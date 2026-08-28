@@ -32,6 +32,50 @@
       "taken": 1580239140,
       "taken_at": "Jan 28, 2020 7:19 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09705305099487305,
+          "id": 1880151657
+        },
+        {
+          "distance": 0.11125832796096802,
+          "id": 1880151657
+        },
+        {
+          "distance": 0.15105217695236206,
+          "id": 1763559341
+        },
+        {
+          "distance": 0.1531779170036316,
+          "id": 1880151351
+        },
+        {
+          "distance": 0.1584354043006897,
+          "id": 1763559355
+        },
+        {
+          "distance": 0.1771707534790039,
+          "id": 1880151081
+        },
+        {
+          "distance": 0.17753976583480835,
+          "id": 1763559355
+        },
+        {
+          "distance": 0.22118747234344482,
+          "id": 1763559341
+        },
+        {
+          "distance": 0.22152471542358398,
+          "id": 1947424799
+        },
+        {
+          "distance": 0.22267621755599976,
+          "id": 1880151351
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729355617,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777626,
     "wof:name": "Tammy Rae Carland conceived of the “On Becoming” series out of a desire to re-create a lost archive of her family...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

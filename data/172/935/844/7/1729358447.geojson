@@ -40,6 +40,50 @@
       "taken": 1521294120,
       "taken_at": "Mar 17, 2018 1:42 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2804853320121765,
+          "id": 1729358825
+        },
+        {
+          "distance": 0.3007833957672119,
+          "id": 1729358821
+        },
+        {
+          "distance": 0.31353217363357544,
+          "id": 1729358821
+        },
+        {
+          "distance": 0.3361167907714844,
+          "id": 1729358131
+        },
+        {
+          "distance": 0.3943842053413391,
+          "id": 1729355957
+        },
+        {
+          "distance": 0.40464818477630615,
+          "id": 1729358131
+        },
+        {
+          "distance": 0.40901702642440796,
+          "id": 1729362413
+        },
+        {
+          "distance": 0.41337335109710693,
+          "id": 1729359115
+        },
+        {
+          "distance": 0.4263061285018921,
+          "id": 1729359091
+        },
+        {
+          "distance": 0.4345569610595703,
+          "id": 1880151625
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729358447,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Can you guess what type of lettering this is?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

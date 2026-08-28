@@ -41,6 +41,50 @@
       "taken": 1537806120,
       "taken_at": "Sep 24, 2018 4:22 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.016933798789978027,
+          "id": 1729355043
+        },
+        {
+          "distance": 0.059031128883361816,
+          "id": 1729361005
+        },
+        {
+          "distance": 0.08761250972747803,
+          "id": 1729355043
+        },
+        {
+          "distance": 0.10658538341522217,
+          "id": 1729361005
+        },
+        {
+          "distance": 0.16046589612960815,
+          "id": 1729356043
+        },
+        {
+          "distance": 0.192501962184906,
+          "id": 1729358655
+        },
+        {
+          "distance": 0.19643431901931763,
+          "id": 1729356043
+        },
+        {
+          "distance": 0.20271611213684082,
+          "id": 1763559235
+        },
+        {
+          "distance": 0.20497000217437744,
+          "id": 1763559293
+        },
+        {
+          "distance": 0.20761680603027344,
+          "id": 1880151589
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -70,7 +114,7 @@
       }
     ],
     "wof:id": 1729357647,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Cathay Pacific Airways was registered in Hong Kong #onthisday in 1946 by former WWII pilots Sydney de Kantzow and Roy Farrell...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -87,5 +131,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

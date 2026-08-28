@@ -45,6 +45,50 @@
       "taken": 1506008460,
       "taken_at": "Sep 21, 2017 3:41 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16417092084884644,
+          "id": 1729355115
+        },
+        {
+          "distance": 0.1723020076751709,
+          "id": 1729355115
+        },
+        {
+          "distance": 0.19206899404525757,
+          "id": 1729361577
+        },
+        {
+          "distance": 0.19427382946014404,
+          "id": 1729361577
+        },
+        {
+          "distance": 0.20647597312927246,
+          "id": 1729360411
+        },
+        {
+          "distance": 0.2099010944366455,
+          "id": 1729360411
+        },
+        {
+          "distance": 0.21148371696472168,
+          "id": 1880151727
+        },
+        {
+          "distance": 0.21675509214401245,
+          "id": 1729357593
+        },
+        {
+          "distance": 0.21745586395263672,
+          "id": 1729357789
+        },
+        {
+          "distance": 0.2179155945777893,
+          "id": 1729360541
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -74,7 +118,7 @@
       }
     ],
     "wof:id": 1729359071,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Built in 1954, a spacious restaurant named the International Room provided panoramic views of the airfield at SFO...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -91,5 +135,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

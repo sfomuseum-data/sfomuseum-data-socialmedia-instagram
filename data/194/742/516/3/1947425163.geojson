@@ -25,6 +25,50 @@
       "taken": 1705599300,
       "taken_at": "Jan 18, 2024 5:35 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2818010449409485,
+          "id": 1763559655
+        },
+        {
+          "distance": 0.29061394929885864,
+          "id": 1729361509
+        },
+        {
+          "distance": 0.2948267459869385,
+          "id": 1729360461
+        },
+        {
+          "distance": 0.29685407876968384,
+          "id": 1763559655
+        },
+        {
+          "distance": 0.31118160486221313,
+          "id": 1729359139
+        },
+        {
+          "distance": 0.31158459186553955,
+          "id": 1880150997
+        },
+        {
+          "distance": 0.31447136402130127,
+          "id": 1880151491
+        },
+        {
+          "distance": 0.3156224489212036,
+          "id": 1880151155
+        },
+        {
+          "distance": 0.325117290019989,
+          "id": 1729360313
+        },
+        {
+          "distance": 0.32853686809539795,
+          "id": 1729360461
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -53,7 +97,7 @@
       }
     ],
     "wof:id": 1947425163,
-    "wof:lastmodified": 1733175328,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Choreographer Danielle Rowe’s first repertory length work for San Francisco Ballet faced a complex path due to the COVID-19 pandemic in 2020...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -67,5 +111,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

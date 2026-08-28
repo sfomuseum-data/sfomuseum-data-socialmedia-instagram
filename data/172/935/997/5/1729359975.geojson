@@ -25,6 +25,50 @@
       "taken": 1482516060,
       "taken_at": "Dec 23, 2016 6:01 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.22945153713226318,
+          "id": 1729356715
+        },
+        {
+          "distance": 0.25329363346099854,
+          "id": 1729359565
+        },
+        {
+          "distance": 0.2573755383491516,
+          "id": 1729359217
+        },
+        {
+          "distance": 0.26470744609832764,
+          "id": 1729360397
+        },
+        {
+          "distance": 0.2691946029663086,
+          "id": 1729361695
+        },
+        {
+          "distance": 0.26978152990341187,
+          "id": 1729359799
+        },
+        {
+          "distance": 0.2784486413002014,
+          "id": 1729357541
+        },
+        {
+          "distance": 0.27942609786987305,
+          "id": 1729359161
+        },
+        {
+          "distance": 0.28593647480010986,
+          "id": 1729359161
+        },
+        {
+          "distance": 0.29141759872436523,
+          "id": 1729359659
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359975,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777638,
     "wof:name": "This 1951 #PanAm packet advertises the luxury accommodations on the #Boeing 377 Double-Decked \"Strato\" Clippers...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

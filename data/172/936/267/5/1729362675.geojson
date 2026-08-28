@@ -25,6 +25,50 @@
       "taken": 1369840320,
       "taken_at": "May 29, 2013 3:12 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11384904384613037,
+          "id": 1947424879
+        },
+        {
+          "distance": 0.1543470025062561,
+          "id": 1880151305
+        },
+        {
+          "distance": 0.1931334137916565,
+          "id": 1880151605
+        },
+        {
+          "distance": 0.1947135329246521,
+          "id": 1947424879
+        },
+        {
+          "distance": 0.19601982831954956,
+          "id": 1947424945
+        },
+        {
+          "distance": 0.19718962907791138,
+          "id": 1729361283
+        },
+        {
+          "distance": 0.19797712564468384,
+          "id": 1880151619
+        },
+        {
+          "distance": 0.20045369863510132,
+          "id": 1947424945
+        },
+        {
+          "distance": 0.2186335325241089,
+          "id": 1729362697
+        },
+        {
+          "distance": 0.22304672002792358,
+          "id": 1880151143
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362675,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "Part of the 17th century ceramics trade: a Japanese-made plate with the monogram of the Dutch East India Company...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

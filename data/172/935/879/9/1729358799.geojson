@@ -40,6 +40,50 @@
       "taken": 1513771620,
       "taken_at": "Dec 20, 2017, 12:07 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.000024139881134033203,
+          "id": 1763558691
+        },
+        {
+          "distance": 0.12629717588424683,
+          "id": 1763558691
+        },
+        {
+          "distance": 0.1751173734664917,
+          "id": 1729357215
+        },
+        {
+          "distance": 0.17734861373901367,
+          "id": 1763558623
+        },
+        {
+          "distance": 0.18803292512893677,
+          "id": 1763559637
+        },
+        {
+          "distance": 0.19086390733718872,
+          "id": 1729361039
+        },
+        {
+          "distance": 0.19130319356918335,
+          "id": 1729359691
+        },
+        {
+          "distance": 0.19222235679626465,
+          "id": 1729355743
+        },
+        {
+          "distance": 0.19230902194976807,
+          "id": 1729355743
+        },
+        {
+          "distance": 0.20247846841812134,
+          "id": 1729357627
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729358799,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777634,
     "wof:name": "#Onthisday in 1957, the first Boeing 707 departed on a raining day from Renton Municipal Airport...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

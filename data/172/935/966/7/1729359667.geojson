@@ -35,6 +35,50 @@
       "taken": 1490865540,
       "taken_at": "Mar 30, 2017 9:19 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.020612239837646484,
+          "id": 1729361677
+        },
+        {
+          "distance": 0.11061674356460571,
+          "id": 1729361677
+        },
+        {
+          "distance": 0.17842483520507812,
+          "id": 1763559319
+        },
+        {
+          "distance": 0.18144047260284424,
+          "id": 1880151673
+        },
+        {
+          "distance": 0.1832316517829895,
+          "id": 1729360417
+        },
+        {
+          "distance": 0.18464064598083496,
+          "id": 1729361271
+        },
+        {
+          "distance": 0.18586963415145874,
+          "id": 1729359419
+        },
+        {
+          "distance": 0.19551867246627808,
+          "id": 1729361391
+        },
+        {
+          "distance": 0.19587689638137817,
+          "id": 1729361333
+        },
+        {
+          "distance": 0.19636863470077515,
+          "id": 1880151673
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729359667,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "What did flight gear look like in 1932?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

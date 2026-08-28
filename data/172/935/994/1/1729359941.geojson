@@ -28,6 +28,50 @@
       "taken": 1483873320,
       "taken_at": "Jan 08, 2017 11:02 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1925954818725586,
+          "id": 1729356549
+        },
+        {
+          "distance": 0.2043147087097168,
+          "id": 1729357097
+        },
+        {
+          "distance": 0.21565139293670654,
+          "id": 1729359425
+        },
+        {
+          "distance": 0.21838527917861938,
+          "id": 1729356553
+        },
+        {
+          "distance": 0.22289884090423584,
+          "id": 1729356547
+        },
+        {
+          "distance": 0.2342768907546997,
+          "id": 1729355749
+        },
+        {
+          "distance": 0.23811954259872437,
+          "id": 1729359363
+        },
+        {
+          "distance": 0.24109405279159546,
+          "id": 1729356811
+        },
+        {
+          "distance": 0.2423919439315796,
+          "id": 1729360563
+        },
+        {
+          "distance": 0.24362128973007202,
+          "id": 1729356955
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1729359941,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "John Alfano first fell in love with photography in Yosemite National Park, where he lived in the early 1980s...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

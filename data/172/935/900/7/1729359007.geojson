@@ -47,6 +47,50 @@
       "taken": 1507373520,
       "taken_at": "Oct 07, 2017 10:52 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.21231305599212646,
+          "id": 1729356023
+        },
+        {
+          "distance": 0.21957755088806152,
+          "id": 1763558821
+        },
+        {
+          "distance": 0.2530074715614319,
+          "id": 1729360175
+        },
+        {
+          "distance": 0.2530122995376587,
+          "id": 1729356053
+        },
+        {
+          "distance": 0.2542543411254883,
+          "id": 1763558821
+        },
+        {
+          "distance": 0.2555076479911804,
+          "id": 1729356023
+        },
+        {
+          "distance": 0.26030731201171875,
+          "id": 1729356053
+        },
+        {
+          "distance": 0.2604351043701172,
+          "id": 1729359301
+        },
+        {
+          "distance": 0.2771347165107727,
+          "id": 1729356495
+        },
+        {
+          "distance": 0.2822039723396301,
+          "id": 1729358403
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -76,7 +120,7 @@
       }
     ],
     "wof:id": 1729359007,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777634,
     "wof:name": "#Onthisday in 1919, KLM (Koninklijke Luchtvaart Maatschappij N.V., or KLM Royal Dutch Airlines) was founded...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -93,5 +137,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

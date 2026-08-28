@@ -42,6 +42,50 @@
       "taken": 1523391840,
       "taken_at": "Apr 10, 2018 8:24 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.301597535610199,
+          "id": 1729360895
+        },
+        {
+          "distance": 0.33302342891693115,
+          "id": 1729360505
+        },
+        {
+          "distance": 0.33302342891693115,
+          "id": 1763558635
+        },
+        {
+          "distance": 0.33721649646759033,
+          "id": 1729360895
+        },
+        {
+          "distance": 0.34008729457855225,
+          "id": 1729362593
+        },
+        {
+          "distance": 0.3424553871154785,
+          "id": 1729360775
+        },
+        {
+          "distance": 0.35028940439224243,
+          "id": 1729358787
+        },
+        {
+          "distance": 0.35164374113082886,
+          "id": 1729362235
+        },
+        {
+          "distance": 0.3557109236717224,
+          "id": 1729361481
+        },
+        {
+          "distance": 0.35827863216400146,
+          "id": 1729360835
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -71,7 +115,7 @@
       }
     ],
     "wof:id": 1729358357,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "For centuries, canes served as compulsory fashion accessories, similar to hats...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -88,5 +132,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -31,6 +31,50 @@
       "taken": 1480264260,
       "taken_at": "Nov 27, 2016 4:31 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3840615153312683,
+          "id": 1729361415
+        },
+        {
+          "distance": 0.40096378326416016,
+          "id": 1729361623
+        },
+        {
+          "distance": 0.4015706777572632,
+          "id": 1729360475
+        },
+        {
+          "distance": 0.4047374725341797,
+          "id": 1729361463
+        },
+        {
+          "distance": 0.4055253863334656,
+          "id": 1763559353
+        },
+        {
+          "distance": 0.40577250719070435,
+          "id": 1729356257
+        },
+        {
+          "distance": 0.40825921297073364,
+          "id": 1947424997
+        },
+        {
+          "distance": 0.40988653898239136,
+          "id": 1729357705
+        },
+        {
+          "distance": 0.41530662775039673,
+          "id": 1729360867
+        },
+        {
+          "distance": 0.4161340594291687,
+          "id": 1729359865
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729360079,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777639,
     "wof:name": "#Onthisday in 1929, Richard Byrd and his crew completed the first flight over the South Pole in the Ford Tri-Motor “Floyd Bennett.” \"With Byrd at the South Pole,\" was released in 1930, documenting the fourteen months Byrd and his crew spent in the Antarctic...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

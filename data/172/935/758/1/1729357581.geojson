@@ -34,6 +34,50 @@
       "taken": 1539119820,
       "taken_at": "Oct 09, 2018 9:17 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.00622248649597168,
+          "id": 1729360243
+        },
+        {
+          "distance": 0.07292306423187256,
+          "id": 1729360243
+        },
+        {
+          "distance": 0.1448734998703003,
+          "id": 1880151169
+        },
+        {
+          "distance": 0.14656484127044678,
+          "id": 1729361057
+        },
+        {
+          "distance": 0.16175097227096558,
+          "id": 1729358695
+        },
+        {
+          "distance": 0.16460317373275757,
+          "id": 1763559247
+        },
+        {
+          "distance": 0.16812843084335327,
+          "id": 1729357041
+        },
+        {
+          "distance": 0.17040520906448364,
+          "id": 1880151169
+        },
+        {
+          "distance": 0.1734483242034912,
+          "id": 1729356541
+        },
+        {
+          "distance": 0.1778101921081543,
+          "id": 1729360207
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729357581,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777632,
     "wof:name": "#OnThisDay in 1935, the first of three Martin M-130 flying boats was delivered to Pan American Airways...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

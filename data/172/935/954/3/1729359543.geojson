@@ -46,6 +46,50 @@
       "taken": 1493874300,
       "taken_at": "May 04, 2017 5:05 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24470579624176025,
+          "id": 1729360461
+        },
+        {
+          "distance": 0.24489396810531616,
+          "id": 1729361509
+        },
+        {
+          "distance": 0.24921715259552002,
+          "id": 1729361731
+        },
+        {
+          "distance": 0.2569093704223633,
+          "id": 1729360329
+        },
+        {
+          "distance": 0.25776737928390503,
+          "id": 1729359133
+        },
+        {
+          "distance": 0.2600318193435669,
+          "id": 1729359139
+        },
+        {
+          "distance": 0.26196593046188354,
+          "id": 1729360329
+        },
+        {
+          "distance": 0.2683870196342468,
+          "id": 1729360205
+        },
+        {
+          "distance": 0.2713896632194519,
+          "id": 1763559655
+        },
+        {
+          "distance": 0.27289146184921265,
+          "id": 1729360461
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -75,7 +119,7 @@
       }
     ],
     "wof:id": 1729359543,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "In 1970, industrialist and aviation entrepreneur Howard Hughes (1905–1976) bought Air West, added his name to the airline, and kept its home base at San Francisco International Airport...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -92,5 +136,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

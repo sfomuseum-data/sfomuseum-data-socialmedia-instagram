@@ -32,6 +32,50 @@
       "taken": 1545988140,
       "taken_at": "Dec 28, 2018, 9:09 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.35579854249954224,
+          "id": 1729357203
+        },
+        {
+          "distance": 0.35642141103744507,
+          "id": 1729360453
+        },
+        {
+          "distance": 0.36835306882858276,
+          "id": 1729360533
+        },
+        {
+          "distance": 0.3931453824043274,
+          "id": 1729360615
+        },
+        {
+          "distance": 0.39610201120376587,
+          "id": 1729359499
+        },
+        {
+          "distance": 0.40329402685165405,
+          "id": 1729360533
+        },
+        {
+          "distance": 0.4035707712173462,
+          "id": 1729357241
+        },
+        {
+          "distance": 0.4081563353538513,
+          "id": 1729357201
+        },
+        {
+          "distance": 0.4116572141647339,
+          "id": 1729356127
+        },
+        {
+          "distance": 0.41183096170425415,
+          "id": 1729356659
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729357171,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777630,
     "wof:name": "TV lamps were designed to preserve one’s eyesight while watching television in the dark...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -53,6 +53,50 @@
       "taken": 1510236840,
       "taken_at": "Nov 09, 2017 2:14 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20604181289672852,
+          "id": 1729359365
+        },
+        {
+          "distance": 0.2340591549873352,
+          "id": 1729358661
+        },
+        {
+          "distance": 0.24180376529693604,
+          "id": 1729359119
+        },
+        {
+          "distance": 0.25224584341049194,
+          "id": 1729359417
+        },
+        {
+          "distance": 0.26485931873321533,
+          "id": 1729356497
+        },
+        {
+          "distance": 0.2765681743621826,
+          "id": 1729360019
+        },
+        {
+          "distance": 0.2818690538406372,
+          "id": 1729355615
+        },
+        {
+          "distance": 0.2902286648750305,
+          "id": 1729357413
+        },
+        {
+          "distance": 0.2902403473854065,
+          "id": 1729360739
+        },
+        {
+          "distance": 0.2922089695930481,
+          "id": 1729358761
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -82,7 +126,7 @@
       }
     ],
     "wof:id": 1729358907,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777634,
     "wof:name": "The Corona 3 was a revolutionary portable, first patented as the Standard Folding Typewriter in 1904...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -99,5 +143,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -45,6 +45,50 @@
       "taken": 1545395700,
       "taken_at": "Dec 21, 2018, 12:35 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07186686992645264,
+          "id": 1729356127
+        },
+        {
+          "distance": 0.14296066761016846,
+          "id": 1729356127
+        },
+        {
+          "distance": 0.2517300248146057,
+          "id": 1729357199
+        },
+        {
+          "distance": 0.2645280361175537,
+          "id": 1729356109
+        },
+        {
+          "distance": 0.26807504892349243,
+          "id": 1729357203
+        },
+        {
+          "distance": 0.28442227840423584,
+          "id": 1729356109
+        },
+        {
+          "distance": 0.318894624710083,
+          "id": 1729357199
+        },
+        {
+          "distance": 0.3428375720977783,
+          "id": 1729356105
+        },
+        {
+          "distance": 0.35021114349365234,
+          "id": 1729356107
+        },
+        {
+          "distance": 0.36643165349960327,
+          "id": 1729360615
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -74,7 +118,7 @@
       }
     ],
     "wof:id": 1729357201,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777630,
     "wof:name": "Modern entertaining called for contemporary and expressive dinnerware...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -91,5 +135,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

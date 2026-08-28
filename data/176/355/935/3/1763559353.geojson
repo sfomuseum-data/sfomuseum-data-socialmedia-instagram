@@ -31,6 +31,50 @@
       "taken": 1635526680,
       "taken_at": "Oct 29, 2021 4:58 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.01854187250137329,
+          "id": 1729356257
+        },
+        {
+          "distance": 0.09776973724365234,
+          "id": 1729356257
+        },
+        {
+          "distance": 0.19762581586837769,
+          "id": 1729361575
+        },
+        {
+          "distance": 0.23620390892028809,
+          "id": 1729361575
+        },
+        {
+          "distance": 0.25767821073532104,
+          "id": 1729360475
+        },
+        {
+          "distance": 0.2598569989204407,
+          "id": 1729360839
+        },
+        {
+          "distance": 0.26330405473709106,
+          "id": 1729359643
+        },
+        {
+          "distance": 0.2837378978729248,
+          "id": 1729360839
+        },
+        {
+          "distance": 0.28476864099502563,
+          "id": 1729356023
+        },
+        {
+          "distance": 0.28760826587677,
+          "id": 1729359455
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559353,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "#Onthisday in 1918, DDL (Det Danske Luftfartselskab A/S), or Danish Air Lines, was founded...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

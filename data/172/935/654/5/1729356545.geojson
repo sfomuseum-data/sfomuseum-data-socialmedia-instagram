@@ -45,6 +45,50 @@
       "taken": 1558451640,
       "taken_at": "May 21, 2019 3:14 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10825556516647339,
+          "id": 1763558833
+        },
+        {
+          "distance": 0.118899405002594,
+          "id": 1729355233
+        },
+        {
+          "distance": 0.13969099521636963,
+          "id": 1763558833
+        },
+        {
+          "distance": 0.14002209901809692,
+          "id": 1729355233
+        },
+        {
+          "distance": 0.2515157461166382,
+          "id": 1729362189
+        },
+        {
+          "distance": 0.2563283443450928,
+          "id": 1729359483
+        },
+        {
+          "distance": 0.25963830947875977,
+          "id": 1729358607
+        },
+        {
+          "distance": 0.26845717430114746,
+          "id": 1763558961
+        },
+        {
+          "distance": 0.2783825397491455,
+          "id": 1880150903
+        },
+        {
+          "distance": 0.2810068726539612,
+          "id": 1729359843
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -74,7 +118,7 @@
       }
     ],
     "wof:id": 1729356545,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "#OnThisDay in 1927, Charles A. Lindbergh landed in Paris, France, after completing his historic, first solo crossing of the Atlantic Ocean...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -91,5 +135,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -33,6 +33,50 @@
       "taken": 1658227560,
       "taken_at": "Jul 19, 2022 10:46 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14785492420196533,
+          "id": 1763559037
+        },
+        {
+          "distance": 0.16437184810638428,
+          "id": 1763559057
+        },
+        {
+          "distance": 0.17016780376434326,
+          "id": 1763559037
+        },
+        {
+          "distance": 0.1967197060585022,
+          "id": 1763559057
+        },
+        {
+          "distance": 0.20422333478927612,
+          "id": 1729360983
+        },
+        {
+          "distance": 0.20868593454360962,
+          "id": 1763559183
+        },
+        {
+          "distance": 0.21376532316207886,
+          "id": 1729356893
+        },
+        {
+          "distance": 0.2193223237991333,
+          "id": 1729359011
+        },
+        {
+          "distance": 0.2256128191947937,
+          "id": 1729359011
+        },
+        {
+          "distance": 0.2271592617034912,
+          "id": 1729355207
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1880151573,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Norie Sato’s imagery was inspired by our relationship to clouds and flight...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

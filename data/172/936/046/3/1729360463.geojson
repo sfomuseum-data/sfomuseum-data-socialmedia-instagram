@@ -25,6 +25,50 @@
       "taken": 1470387480,
       "taken_at": "Aug 05, 2016 8:58 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13120269775390625,
+          "id": 1729360443
+        },
+        {
+          "distance": 0.17164337635040283,
+          "id": 1729360023
+        },
+        {
+          "distance": 0.18165242671966553,
+          "id": 1729360065
+        },
+        {
+          "distance": 0.19084477424621582,
+          "id": 1729360443
+        },
+        {
+          "distance": 0.19373619556427002,
+          "id": 1729360383
+        },
+        {
+          "distance": 0.19758611917495728,
+          "id": 1729360065
+        },
+        {
+          "distance": 0.21462160348892212,
+          "id": 1729360293
+        },
+        {
+          "distance": 0.22423988580703735,
+          "id": 1729360383
+        },
+        {
+          "distance": 0.22607332468032837,
+          "id": 1729360293
+        },
+        {
+          "distance": 0.2323170304298401,
+          "id": 1729359735
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360463,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "The Taj Mahal, a Mughal monument and tomb, is located along the southern bank of the Yamuna (Jumna) River in Agra, India...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

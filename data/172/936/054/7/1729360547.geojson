@@ -25,6 +25,50 @@
       "taken": 1468064100,
       "taken_at": "Jul 09, 2016 11:35 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13286715745925903,
+          "id": 1763559049
+        },
+        {
+          "distance": 0.16763460636138916,
+          "id": 1729355689
+        },
+        {
+          "distance": 0.16957086324691772,
+          "id": 1763559049
+        },
+        {
+          "distance": 0.18135040998458862,
+          "id": 1729355725
+        },
+        {
+          "distance": 0.1858113408088684,
+          "id": 1947425201
+        },
+        {
+          "distance": 0.19200950860977173,
+          "id": 1729355689
+        },
+        {
+          "distance": 0.19231003522872925,
+          "id": 1729356031
+        },
+        {
+          "distance": 0.1923730969429016,
+          "id": 1880150965
+        },
+        {
+          "distance": 0.19249075651168823,
+          "id": 1880151047
+        },
+        {
+          "distance": 0.19319748878479004,
+          "id": 1729356031
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360547,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Do your summer travel plans include flying through SFO?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

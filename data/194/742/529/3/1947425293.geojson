@@ -28,6 +28,50 @@
       "taken": 1696249440,
       "taken_at": "Oct 02, 2023 12:24 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13247013092041016,
+          "id": 1729355523
+        },
+        {
+          "distance": 0.13584649562835693,
+          "id": 1729355523
+        },
+        {
+          "distance": 0.20883846282958984,
+          "id": 1880151545
+        },
+        {
+          "distance": 0.22095543146133423,
+          "id": 1947425059
+        },
+        {
+          "distance": 0.23828542232513428,
+          "id": 1729358661
+        },
+        {
+          "distance": 0.2453594207763672,
+          "id": 1947425059
+        },
+        {
+          "distance": 0.2767505645751953,
+          "id": 1729360963
+        },
+        {
+          "distance": 0.28823715448379517,
+          "id": 1763559661
+        },
+        {
+          "distance": 0.28856658935546875,
+          "id": 1729356847
+        },
+        {
+          "distance": 0.2890819311141968,
+          "id": 1729355539
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1947425293,
-    "wof:lastmodified": 1733175331,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Over the weekend, pioneering Bay Area fiber artist Kay Sekimachi celebrated her 97th birthday!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -70,5 +114,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

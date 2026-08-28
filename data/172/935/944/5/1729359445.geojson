@@ -30,6 +30,50 @@
       "taken": 1496311860,
       "taken_at": "Jun 01, 2017 10:11 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.21611356735229492,
+          "id": 1729358735
+        },
+        {
+          "distance": 0.22863918542861938,
+          "id": 1729358737
+        },
+        {
+          "distance": 0.24208807945251465,
+          "id": 1729359575
+        },
+        {
+          "distance": 0.24757641553878784,
+          "id": 1729360031
+        },
+        {
+          "distance": 0.25260353088378906,
+          "id": 1729358711
+        },
+        {
+          "distance": 0.25625091791152954,
+          "id": 1729357793
+        },
+        {
+          "distance": 0.27709394693374634,
+          "id": 1729359575
+        },
+        {
+          "distance": 0.2789071798324585,
+          "id": 1729359887
+        },
+        {
+          "distance": 0.27986395359039307,
+          "id": 1729359473
+        },
+        {
+          "distance": 0.28083139657974243,
+          "id": 1729360031
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729359445,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "During the late 1890s, as machining became prevalent and mechanical appliances were increasingly accessible, slot machine companies proliferated...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -28,6 +28,50 @@
       "taken": 1674837780,
       "taken_at": "Jan 27, 2023 4:43 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24994200468063354,
+          "id": 1947425185
+        },
+        {
+          "distance": 0.2699010968208313,
+          "id": 1763559341
+        },
+        {
+          "distance": 0.2732776999473572,
+          "id": 1880151351
+        },
+        {
+          "distance": 0.2758485674858093,
+          "id": 1947425089
+        },
+        {
+          "distance": 0.27606093883514404,
+          "id": 1763559439
+        },
+        {
+          "distance": 0.2770100235939026,
+          "id": 1880151253
+        },
+        {
+          "distance": 0.28586381673812866,
+          "id": 1880151785
+        },
+        {
+          "distance": 0.2885565757751465,
+          "id": 1947425185
+        },
+        {
+          "distance": 0.29062318801879883,
+          "id": 1729357871
+        },
+        {
+          "distance": 0.29276520013809204,
+          "id": 1729355383
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1880151173,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Yorgo Alexopoulos creates paintings, time-based media artworks, and installations...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

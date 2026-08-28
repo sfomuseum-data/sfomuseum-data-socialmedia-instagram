@@ -37,6 +37,50 @@
       "taken": 1549302660,
       "taken_at": "Feb 4, 2019, 5:51 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23674070835113525,
+          "id": 1729357037
+        },
+        {
+          "distance": 0.2625548839569092,
+          "id": 1729355645
+        },
+        {
+          "distance": 0.26416683197021484,
+          "id": 1729357037
+        },
+        {
+          "distance": 0.2944023609161377,
+          "id": 1729356941
+        },
+        {
+          "distance": 0.2970736622810364,
+          "id": 1729357097
+        },
+        {
+          "distance": 0.31222784519195557,
+          "id": 1729357161
+        },
+        {
+          "distance": 0.3140438199043274,
+          "id": 1729355541
+        },
+        {
+          "distance": 0.31625866889953613,
+          "id": 1729357827
+        },
+        {
+          "distance": 0.31630152463912964,
+          "id": 1729359425
+        },
+        {
+          "distance": 0.3205896019935608,
+          "id": 1729361155
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729356985,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "In Katy Wang’s thesis film for London’s Kingston University, a solitary astronaut sends out a signal for others in a story that reflects the filmmaker’s feelings of loneliness and her desire for contact while experiencing a long-distance relationship...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

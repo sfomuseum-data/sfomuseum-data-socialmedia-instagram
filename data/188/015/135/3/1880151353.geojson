@@ -30,6 +30,50 @@
       "taken": 1667490540,
       "taken_at": "Nov 03, 2022 3:49 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23455381393432617,
+          "id": 1880151767
+        },
+        {
+          "distance": 0.2761958837509155,
+          "id": 1880151767
+        },
+        {
+          "distance": 0.2913288474082947,
+          "id": 1880151535
+        },
+        {
+          "distance": 0.3011404871940613,
+          "id": 1729356053
+        },
+        {
+          "distance": 0.30801939964294434,
+          "id": 1729356053
+        },
+        {
+          "distance": 0.3093128204345703,
+          "id": 1729358849
+        },
+        {
+          "distance": 0.31220299005508423,
+          "id": 1880151163
+        },
+        {
+          "distance": 0.31224608421325684,
+          "id": 1729356495
+        },
+        {
+          "distance": 0.3180227279663086,
+          "id": 1729359007
+        },
+        {
+          "distance": 0.32246720790863037,
+          "id": 1763558669
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151353,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Republic Airlines was formed as a result of a merger between North Central Airlines and Southern Airways in 1979 and was based at Minneapolis–Saint Paul...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

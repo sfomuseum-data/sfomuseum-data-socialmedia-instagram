@@ -44,6 +44,50 @@
       "taken": 1508410140,
       "taken_at": "Oct 19, 2017 10:49 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07359927892684937,
+          "id": 1729357057
+        },
+        {
+          "distance": 0.09516048431396484,
+          "id": 1729359077
+        },
+        {
+          "distance": 0.11392909288406372,
+          "id": 1729361129
+        },
+        {
+          "distance": 0.1139838695526123,
+          "id": 1729360337
+        },
+        {
+          "distance": 0.11759036779403687,
+          "id": 1729359005
+        },
+        {
+          "distance": 0.1320059895515442,
+          "id": 1729357667
+        },
+        {
+          "distance": 0.13581371307373047,
+          "id": 1763559413
+        },
+        {
+          "distance": 0.14045709371566772,
+          "id": 1729356131
+        },
+        {
+          "distance": 0.14171957969665527,
+          "id": 1729360213
+        },
+        {
+          "distance": 0.14177244901657104,
+          "id": 1729360259
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -73,7 +117,7 @@
       }
     ],
     "wof:id": 1729358985,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777634,
     "wof:name": "In 1960, before the construction of the South Terminal and the central garage, San Francisco International Airport looked very different than it does today...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -90,5 +134,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1705425900,
       "taken_at": "Jan 16, 2024 5:25 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.060856759548187256,
+          "id": 1729357729
+        },
+        {
+          "distance": 0.1273411512374878,
+          "id": 1729358155
+        },
+        {
+          "distance": 0.1287052035331726,
+          "id": 1729357039
+        },
+        {
+          "distance": 0.13005554676055908,
+          "id": 1729357729
+        },
+        {
+          "distance": 0.13025426864624023,
+          "id": 1763558881
+        },
+        {
+          "distance": 0.13055360317230225,
+          "id": 1729357291
+        },
+        {
+          "distance": 0.15507620573043823,
+          "id": 1729357273
+        },
+        {
+          "distance": 0.15667057037353516,
+          "id": 1729357291
+        },
+        {
+          "distance": 0.16157448291778564,
+          "id": 1729358401
+        },
+        {
+          "distance": 0.16197335720062256,
+          "id": 1729357601
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -53,7 +97,7 @@
       }
     ],
     "wof:id": 1947425155,
-    "wof:lastmodified": 1733175327,
+    "wof:lastmodified": 1787777664,
     "wof:name": "The first Pan American Airways scheduled passenger flight took off on this day in 1928 from Key West, Florida, to Havana, Cuba...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -67,5 +111,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

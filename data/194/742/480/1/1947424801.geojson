@@ -27,6 +27,50 @@
       "taken": 1732115340,
       "taken_at": "Nov 20, 2024 3:09 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23794996738433838,
+          "id": 1729358501
+        },
+        {
+          "distance": 0.2407892346382141,
+          "id": 1729355167
+        },
+        {
+          "distance": 0.2551596164703369,
+          "id": 1729359247
+        },
+        {
+          "distance": 0.26291489601135254,
+          "id": 1729356907
+        },
+        {
+          "distance": 0.2768450975418091,
+          "id": 1729359247
+        },
+        {
+          "distance": 0.2909913659095764,
+          "id": 1729355167
+        },
+        {
+          "distance": 0.2942126989364624,
+          "id": 1729358501
+        },
+        {
+          "distance": 0.3028488755226135,
+          "id": 1729356907
+        },
+        {
+          "distance": 0.3043362498283386,
+          "id": 1729359777
+        },
+        {
+          "distance": 0.33612215518951416,
+          "id": 1947424855
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947424801,
-    "wof:lastmodified": 1733175316,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Philippine Air Lines (PAL) was established in 1941 by various businessmen, including Andrés Soriano...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

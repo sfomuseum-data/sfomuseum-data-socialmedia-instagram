@@ -30,6 +30,50 @@
       "taken": 1657889280,
       "taken_at": "Jul 15, 2022 12:48 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.00045478343963623047,
+          "id": 1880151395
+        },
+        {
+          "distance": 0.1394229531288147,
+          "id": 1880151395
+        },
+        {
+          "distance": 0.2379370927810669,
+          "id": 1880151199
+        },
+        {
+          "distance": 0.2751597762107849,
+          "id": 1880151199
+        },
+        {
+          "distance": 0.2863306999206543,
+          "id": 1729360625
+        },
+        {
+          "distance": 0.2875463366508484,
+          "id": 1880151009
+        },
+        {
+          "distance": 0.2901475429534912,
+          "id": 1729355617
+        },
+        {
+          "distance": 0.29507505893707275,
+          "id": 1880151259
+        },
+        {
+          "distance": 0.2980659008026123,
+          "id": 1947424927
+        },
+        {
+          "distance": 0.30029159784317017,
+          "id": 1763559341
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151581,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Last month, Kari Orvik (@kariorviktintypes) visited the airport to give a short talk on her photographs displayed in “Geneva.” “Geneva” is an ongoing photography series that offers a glimpse into San Francisco’s Outer Mission neighborhood at the corner of Mission Street and Geneva Avenue...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

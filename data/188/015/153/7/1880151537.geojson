@@ -31,6 +31,50 @@
       "taken": 1660138440,
       "taken_at": "Aug 10, 2022 1:34 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19456857442855835,
+          "id": 1880151425
+        },
+        {
+          "distance": 0.22250288724899292,
+          "id": 1880151383
+        },
+        {
+          "distance": 0.22867107391357422,
+          "id": 1880151425
+        },
+        {
+          "distance": 0.23959040641784668,
+          "id": 1880151405
+        },
+        {
+          "distance": 0.24215954542160034,
+          "id": 1880151383
+        },
+        {
+          "distance": 0.2558829188346863,
+          "id": 1729357385
+        },
+        {
+          "distance": 0.25727421045303345,
+          "id": 1880151405
+        },
+        {
+          "distance": 0.2626510262489319,
+          "id": 1729359343
+        },
+        {
+          "distance": 0.27189552783966064,
+          "id": 1729356997
+        },
+        {
+          "distance": 0.27503418922424316,
+          "id": 1729357049
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151537,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "How’s this for a stylish and elaborate way to announce dinner?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

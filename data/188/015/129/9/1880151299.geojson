@@ -31,6 +31,50 @@
       "taken": 1669983120,
       "taken_at": "Dec 02, 2022 12:12 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13876163959503174,
+          "id": 1880150939
+        },
+        {
+          "distance": 0.14450526237487793,
+          "id": 1880151137
+        },
+        {
+          "distance": 0.16947418451309204,
+          "id": 1729357871
+        },
+        {
+          "distance": 0.1744060516357422,
+          "id": 1880151131
+        },
+        {
+          "distance": 0.17651677131652832,
+          "id": 1729359429
+        },
+        {
+          "distance": 0.17925000190734863,
+          "id": 1947425185
+        },
+        {
+          "distance": 0.19653469324111938,
+          "id": 1880150939
+        },
+        {
+          "distance": 0.19950228929519653,
+          "id": 1729359429
+        },
+        {
+          "distance": 0.21074926853179932,
+          "id": 1729355147
+        },
+        {
+          "distance": 0.21128827333450317,
+          "id": 1880151253
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151299,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "#Onthisday in 1919, Lee Mullican was born in Chickasha, Oklahoma...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

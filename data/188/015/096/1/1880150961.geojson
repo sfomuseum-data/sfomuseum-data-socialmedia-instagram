@@ -28,6 +28,50 @@
       "taken": 1682352240,
       "taken_at": "Apr 24, 2023 4:04 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15073776245117188,
+          "id": 1763558971
+        },
+        {
+          "distance": 0.2329382300376892,
+          "id": 1763558971
+        },
+        {
+          "distance": 0.28322088718414307,
+          "id": 1763558869
+        },
+        {
+          "distance": 0.3331405520439148,
+          "id": 1729359461
+        },
+        {
+          "distance": 0.3340485692024231,
+          "id": 1729357117
+        },
+        {
+          "distance": 0.3346365690231323,
+          "id": 1880151225
+        },
+        {
+          "distance": 0.34099411964416504,
+          "id": 1729357603
+        },
+        {
+          "distance": 0.34313535690307617,
+          "id": 1763558869
+        },
+        {
+          "distance": 0.34422045946121216,
+          "id": 1880151225
+        },
+        {
+          "distance": 0.349611759185791,
+          "id": 1729360993
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1880150961,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777661,
     "wof:name": "Do you recognize this building?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

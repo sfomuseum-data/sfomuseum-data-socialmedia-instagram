@@ -25,6 +25,50 @@
       "taken": 1376992020,
       "taken_at": "Aug 20, 2013 9:47 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07713407278060913,
+          "id": 1729363025
+        },
+        {
+          "distance": 0.10266679525375366,
+          "id": 1729361911
+        },
+        {
+          "distance": 0.11772936582565308,
+          "id": 1729363025
+        },
+        {
+          "distance": 0.12158048152923584,
+          "id": 1729361911
+        },
+        {
+          "distance": 0.23199069499969482,
+          "id": 1729361913
+        },
+        {
+          "distance": 0.24460625648498535,
+          "id": 1729362935
+        },
+        {
+          "distance": 0.26567327976226807,
+          "id": 1729361937
+        },
+        {
+          "distance": 0.2703014612197876,
+          "id": 1729361937
+        },
+        {
+          "distance": 0.27137500047683716,
+          "id": 1729361585
+        },
+        {
+          "distance": 0.2773074507713318,
+          "id": 1729362935
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362583,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "Talk underway on first responder duties of flight attendants at #FlightAttendant Celebration Day...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

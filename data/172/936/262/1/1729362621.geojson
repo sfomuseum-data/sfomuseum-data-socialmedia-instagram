@@ -25,6 +25,50 @@
       "taken": 1374675060,
       "taken_at": "Jul 24, 2013 2:11 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2224123477935791,
+          "id": 1729362547
+        },
+        {
+          "distance": 0.256841778755188,
+          "id": 1729362547
+        },
+        {
+          "distance": 0.2708345651626587,
+          "id": 1729362689
+        },
+        {
+          "distance": 0.27121835947036743,
+          "id": 1729362689
+        },
+        {
+          "distance": 0.29855483770370483,
+          "id": 1729358475
+        },
+        {
+          "distance": 0.31185877323150635,
+          "id": 1729358077
+        },
+        {
+          "distance": 0.3252888321876526,
+          "id": 1729358475
+        },
+        {
+          "distance": 0.33039355278015137,
+          "id": 1729355151
+        },
+        {
+          "distance": 0.33336836099624634,
+          "id": 1729362677
+        },
+        {
+          "distance": 0.3386021852493286,
+          "id": 1729355151
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362621,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "Built in Scotland in 1886, the Balclutha traveled to San Francisco five times before many transfers of ownership landed it at the San Francisco Maritime Museum, where it was restored in 1954...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

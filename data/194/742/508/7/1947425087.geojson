@@ -31,6 +31,50 @@
       "taken": 1709917620,
       "taken_at": "Mar 08, 2024 5:07 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12533724308013916,
+          "id": 1763559119
+        },
+        {
+          "distance": 0.14004439115524292,
+          "id": 1729360823
+        },
+        {
+          "distance": 0.15477800369262695,
+          "id": 1947425291
+        },
+        {
+          "distance": 0.1580008864402771,
+          "id": 1947424919
+        },
+        {
+          "distance": 0.1727871298789978,
+          "id": 1763559119
+        },
+        {
+          "distance": 0.1776362657546997,
+          "id": 1880151337
+        },
+        {
+          "distance": 0.17946654558181763,
+          "id": 1880151305
+        },
+        {
+          "distance": 0.1866384744644165,
+          "id": 1729355059
+        },
+        {
+          "distance": 0.18827158212661743,
+          "id": 1947425257
+        },
+        {
+          "distance": 0.1887362003326416,
+          "id": 1729355019
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1947425087,
-    "wof:lastmodified": 1733175325,
+    "wof:lastmodified": 1787777664,
     "wof:name": "June Schwarcz made unconventional enameled art, pioneering an art form called electroforming, an innovative method that involved electroplating pieces made from thin copper foil...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -73,5 +117,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

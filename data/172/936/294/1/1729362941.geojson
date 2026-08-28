@@ -25,6 +25,50 @@
       "taken": 1342615740,
       "taken_at": "Jul 18, 2012 12:49 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1548585295677185,
+          "id": 1729362953
+        },
+        {
+          "distance": 0.16035544872283936,
+          "id": 1729362947
+        },
+        {
+          "distance": 0.1907268762588501,
+          "id": 1729362801
+        },
+        {
+          "distance": 0.20962971448898315,
+          "id": 1729362815
+        },
+        {
+          "distance": 0.24335426092147827,
+          "id": 1729362815
+        },
+        {
+          "distance": 0.24392831325531006,
+          "id": 1729362947
+        },
+        {
+          "distance": 0.24801349639892578,
+          "id": 1729362953
+        },
+        {
+          "distance": 0.2570428252220154,
+          "id": 1729362801
+        },
+        {
+          "distance": 0.2665508985519409,
+          "id": 1729362955
+        },
+        {
+          "distance": 0.2693879008293152,
+          "id": 1729362367
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362941,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777657,
     "wof:name": "What's it like to install an exhibit at a busy airport?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

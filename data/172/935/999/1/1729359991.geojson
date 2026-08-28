@@ -25,6 +25,50 @@
       "taken": 1482059220,
       "taken_at": "Dec 18, 2016 11:07 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.340146005153656,
+          "id": 1763559633
+        },
+        {
+          "distance": 0.35071563720703125,
+          "id": 1729360861
+        },
+        {
+          "distance": 0.36008572578430176,
+          "id": 1729360613
+        },
+        {
+          "distance": 0.3612465262413025,
+          "id": 1763559633
+        },
+        {
+          "distance": 0.36273330450057983,
+          "id": 1763559443
+        },
+        {
+          "distance": 0.36621254682540894,
+          "id": 1729359097
+        },
+        {
+          "distance": 0.3723026514053345,
+          "id": 1729360617
+        },
+        {
+          "distance": 0.37324583530426025,
+          "id": 1729361577
+        },
+        {
+          "distance": 0.3739761710166931,
+          "id": 1763559557
+        },
+        {
+          "distance": 0.3767080307006836,
+          "id": 1763559453
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359991,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777638,
     "wof:name": "Our online database contains a selection of ticket jackets from our collection...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1466076300,
       "taken_at": "Jun 16, 2016 11:25 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2671392560005188,
+          "id": 1729361307
+        },
+        {
+          "distance": 0.2696974277496338,
+          "id": 1729357841
+        },
+        {
+          "distance": 0.2697206139564514,
+          "id": 1880151691
+        },
+        {
+          "distance": 0.2703781723976135,
+          "id": 1880151189
+        },
+        {
+          "distance": 0.2723754644393921,
+          "id": 1729355587
+        },
+        {
+          "distance": 0.275543749332428,
+          "id": 1880151329
+        },
+        {
+          "distance": 0.27614647150039673,
+          "id": 1729355113
+        },
+        {
+          "distance": 0.2794363498687744,
+          "id": 1729361029
+        },
+        {
+          "distance": 0.2808988094329834,
+          "id": 1729360973
+        },
+        {
+          "distance": 0.2822469472885132,
+          "id": 1729355887
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360627,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Our photography exhibition, \"United States Coast Guard Air Station San Francisco: Honoring the Guardians of the Golden Gate 75th\" has been extended until the end of next month!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -30,6 +30,50 @@
       "taken": 1698854940,
       "taken_at": "Nov 01, 2023 4:09 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.000022172927856445312,
+          "id": 1880151033
+        },
+        {
+          "distance": 0.005013704299926758,
+          "id": 1947425119
+        },
+        {
+          "distance": 0.12629926204681396,
+          "id": 1947425119
+        },
+        {
+          "distance": 0.1302158236503601,
+          "id": 1880151033
+        },
+        {
+          "distance": 0.18428689241409302,
+          "id": 1880150897
+        },
+        {
+          "distance": 0.2141951322555542,
+          "id": 1729360547
+        },
+        {
+          "distance": 0.21445375680923462,
+          "id": 1947425287
+        },
+        {
+          "distance": 0.21899598836898804,
+          "id": 1880150897
+        },
+        {
+          "distance": 0.21941077709197998,
+          "id": 1880151257
+        },
+        {
+          "distance": 0.22371280193328857,
+          "id": 1880150979
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1947425245,
-    "wof:lastmodified": 1733175330,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Many ballet dancers customize their pointe shoes depending on their needs...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

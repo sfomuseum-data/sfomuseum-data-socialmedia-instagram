@@ -37,6 +37,50 @@
       "taken": 1554065580,
       "taken_at": "Mar 31, 2019 8:53 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2678568363189697,
+          "id": 1729359327
+        },
+        {
+          "distance": 0.3123806118965149,
+          "id": 1729356329
+        },
+        {
+          "distance": 0.32909321784973145,
+          "id": 1729359327
+        },
+        {
+          "distance": 0.34083908796310425,
+          "id": 1729360475
+        },
+        {
+          "distance": 0.34317368268966675,
+          "id": 1729359643
+        },
+        {
+          "distance": 0.34916841983795166,
+          "id": 1729356329
+        },
+        {
+          "distance": 0.3505200147628784,
+          "id": 1729358333
+        },
+        {
+          "distance": 0.35170507431030273,
+          "id": 1729360267
+        },
+        {
+          "distance": 0.35172146558761597,
+          "id": 1729357307
+        },
+        {
+          "distance": 0.35572928190231323,
+          "id": 1729359015
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -66,7 +110,7 @@
       }
     ],
     "wof:id": 1729356735,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Based in Croydon Airport in South London, Imperial Airways was established as a merger between four different British companies in 1924...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -83,5 +127,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -34,6 +34,50 @@
       "taken": 1537546080,
       "taken_at": "Sep 21, 2018 4:08 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2506644129753113,
+          "id": 1729355909
+        },
+        {
+          "distance": 0.2563702464103699,
+          "id": 1763558765
+        },
+        {
+          "distance": 0.2563702464103699,
+          "id": 1729357579
+        },
+        {
+          "distance": 0.25705474615097046,
+          "id": 1729357285
+        },
+        {
+          "distance": 0.27344661951065063,
+          "id": 1729356007
+        },
+        {
+          "distance": 0.2831237316131592,
+          "id": 1763558897
+        },
+        {
+          "distance": 0.289420485496521,
+          "id": 1729356473
+        },
+        {
+          "distance": 0.29445111751556396,
+          "id": 1729355909
+        },
+        {
+          "distance": 0.2997056245803833,
+          "id": 1729359417
+        },
+        {
+          "distance": 0.3022439479827881,
+          "id": 1729356007
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729357637,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Chris Strachwitz (b...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

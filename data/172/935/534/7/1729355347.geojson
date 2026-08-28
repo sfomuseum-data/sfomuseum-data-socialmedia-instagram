@@ -30,6 +30,50 @@
       "taken": 1586781300,
       "taken_at": "Apr 13, 2020 12:35 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1389930248260498,
+          "id": 1763559015
+        },
+        {
+          "distance": 0.14050155878067017,
+          "id": 1729361111
+        },
+        {
+          "distance": 0.14344459772109985,
+          "id": 1729358017
+        },
+        {
+          "distance": 0.16653913259506226,
+          "id": 1729359955
+        },
+        {
+          "distance": 0.16794759035110474,
+          "id": 1729361111
+        },
+        {
+          "distance": 0.16900819540023804,
+          "id": 1729359043
+        },
+        {
+          "distance": 0.17459827661514282,
+          "id": 1729358017
+        },
+        {
+          "distance": 0.17556971311569214,
+          "id": 1729356303
+        },
+        {
+          "distance": 0.18954670429229736,
+          "id": 1729355863
+        },
+        {
+          "distance": 0.1915612816810608,
+          "id": 1729361505
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729355347,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777624,
     "wof:name": "Ever wonder what aircraft maintenance looked like in the late 1930s?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

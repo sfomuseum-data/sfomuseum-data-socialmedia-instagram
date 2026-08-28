@@ -33,6 +33,50 @@
       "taken": 1496769060,
       "taken_at": "Jun 06, 2017 5:11 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.01641601324081421,
+          "id": 1729362125
+        },
+        {
+          "distance": 0.08741068840026855,
+          "id": 1729362125
+        },
+        {
+          "distance": 0.22329896688461304,
+          "id": 1763559557
+        },
+        {
+          "distance": 0.2647104859352112,
+          "id": 1763559557
+        },
+        {
+          "distance": 0.2790873050689697,
+          "id": 1763559483
+        },
+        {
+          "distance": 0.2837243676185608,
+          "id": 1729360339
+        },
+        {
+          "distance": 0.28936493396759033,
+          "id": 1729355167
+        },
+        {
+          "distance": 0.28991538286209106,
+          "id": 1763559191
+        },
+        {
+          "distance": 0.29553425312042236,
+          "id": 1729360943
+        },
+        {
+          "distance": 0.29669249057769775,
+          "id": 1729359247
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729359433,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Although Alaska Airlines can trace its roots back through various incarnations to the early 1930s, it officially began operating as Alaska Airlines on June 6, 1944...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

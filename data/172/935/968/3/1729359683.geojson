@@ -33,6 +33,50 @@
       "taken": 1490281740,
       "taken_at": "Mar 23, 2017 3:09 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0668148398399353,
+          "id": 1729355419
+        },
+        {
+          "distance": 0.13202446699142456,
+          "id": 1729355419
+        },
+        {
+          "distance": 0.2003515362739563,
+          "id": 1729361593
+        },
+        {
+          "distance": 0.20228642225265503,
+          "id": 1729361615
+        },
+        {
+          "distance": 0.20803797245025635,
+          "id": 1729359719
+        },
+        {
+          "distance": 0.21116328239440918,
+          "id": 1880151449
+        },
+        {
+          "distance": 0.21219629049301147,
+          "id": 1947425253
+        },
+        {
+          "distance": 0.22210222482681274,
+          "id": 1729360637
+        },
+        {
+          "distance": 0.22746360301971436,
+          "id": 1729360723
+        },
+        {
+          "distance": 0.2327730655670166,
+          "id": 1729361525
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729359683,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "Flying for the first time?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -31,6 +31,50 @@
       "taken": 1651161480,
       "taken_at": "Apr 28, 2022 3:58 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12865132093429565,
+          "id": 1880151799
+        },
+        {
+          "distance": 0.14485740661621094,
+          "id": 1880151251
+        },
+        {
+          "distance": 0.14896875619888306,
+          "id": 1880151799
+        },
+        {
+          "distance": 0.1565583348274231,
+          "id": 1763559059
+        },
+        {
+          "distance": 0.16391128301620483,
+          "id": 1880151805
+        },
+        {
+          "distance": 0.166340172290802,
+          "id": 1729358231
+        },
+        {
+          "distance": 0.16925299167633057,
+          "id": 1729357575
+        },
+        {
+          "distance": 0.17398381233215332,
+          "id": 1880151739
+        },
+        {
+          "distance": 0.17521315813064575,
+          "id": 1729359691
+        },
+        {
+          "distance": 0.1796036958694458,
+          "id": 1729357769
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151779,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777663,
     "wof:name": "Operating from 1946 to 1968, China's Civil Air Transport’s (CAT) initial mission was to carry relief supplies on westbound flights from coastal ports to the war-devastated interior, and commercial cargo and passengers on return fights to the coast...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

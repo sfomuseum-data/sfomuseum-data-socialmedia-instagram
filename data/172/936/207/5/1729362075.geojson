@@ -25,6 +25,50 @@
       "taken": 1414510020,
       "taken_at": "Oct 28, 2014 3:27 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23559463024139404,
+          "id": 1729357603
+        },
+        {
+          "distance": 0.2473219633102417,
+          "id": 1729357603
+        },
+        {
+          "distance": 0.2474178671836853,
+          "id": 1729356445
+        },
+        {
+          "distance": 0.25044912099838257,
+          "id": 1763559197
+        },
+        {
+          "distance": 0.2522267699241638,
+          "id": 1880151131
+        },
+        {
+          "distance": 0.2531278133392334,
+          "id": 1729355401
+        },
+        {
+          "distance": 0.260223925113678,
+          "id": 1729356819
+        },
+        {
+          "distance": 0.2637885808944702,
+          "id": 1729357895
+        },
+        {
+          "distance": 0.26772600412368774,
+          "id": 1947425149
+        },
+        {
+          "distance": 0.2681942582130432,
+          "id": 1729355155
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362075,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777646,
     "wof:name": "\"I am less interested in the landscape seen by the early photographers of the American West than in the landscapes created through their images.\"..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

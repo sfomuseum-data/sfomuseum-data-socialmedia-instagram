@@ -33,6 +33,50 @@
       "taken": 1664271000,
       "taken_at": "Sep 27, 2022 9:30 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1710212230682373,
+          "id": 1880151491
+        },
+        {
+          "distance": 0.1734241247177124,
+          "id": 1880151517
+        },
+        {
+          "distance": 0.1899961233139038,
+          "id": 1880151391
+        },
+        {
+          "distance": 0.19849812984466553,
+          "id": 1729362281
+        },
+        {
+          "distance": 0.1993439793586731,
+          "id": 1880151625
+        },
+        {
+          "distance": 0.20040792226791382,
+          "id": 1880151391
+        },
+        {
+          "distance": 0.20355218648910522,
+          "id": 1880151625
+        },
+        {
+          "distance": 0.21471500396728516,
+          "id": 1880151703
+        },
+        {
+          "distance": 0.21471500396728516,
+          "id": 1880151755
+        },
+        {
+          "distance": 0.21471500396728516,
+          "id": 1880151683
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1880151441,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Handkerchiefs, like samplers, display an infinite variety of handwork to showcase embroiderers’ talent and skills...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -45,6 +45,50 @@
       "taken": 1515087300,
       "taken_at": "Jan 04, 2018 5:35 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2901844382286072,
+          "id": 1729358207
+        },
+        {
+          "distance": 0.3070870637893677,
+          "id": 1729358335
+        },
+        {
+          "distance": 0.3151702284812927,
+          "id": 1729355957
+        },
+        {
+          "distance": 0.3200875520706177,
+          "id": 1729358491
+        },
+        {
+          "distance": 0.3210272192955017,
+          "id": 1729358335
+        },
+        {
+          "distance": 0.32129281759262085,
+          "id": 1729358475
+        },
+        {
+          "distance": 0.33085548877716064,
+          "id": 1729362197
+        },
+        {
+          "distance": 0.333739697933197,
+          "id": 1729358491
+        },
+        {
+          "distance": 0.33569061756134033,
+          "id": 1729356305
+        },
+        {
+          "distance": 0.33683574199676514,
+          "id": 1729356429
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -74,7 +118,7 @@
       }
     ],
     "wof:id": 1729358759,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "People have used devices to measure the wind since ancient times...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -91,5 +135,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

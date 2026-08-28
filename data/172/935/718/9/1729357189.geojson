@@ -25,6 +25,50 @@
       "taken": 1545655860,
       "taken_at": "Dec 24, 2018 12:51 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09582263231277466,
+          "id": 1729356143
+        },
+        {
+          "distance": 0.13833487033843994,
+          "id": 1729356749
+        },
+        {
+          "distance": 0.1436496376991272,
+          "id": 1729356143
+        },
+        {
+          "distance": 0.1520591378211975,
+          "id": 1729356749
+        },
+        {
+          "distance": 0.1549181342124939,
+          "id": 1729356581
+        },
+        {
+          "distance": 0.15999597311019897,
+          "id": 1729359501
+        },
+        {
+          "distance": 0.16440826654434204,
+          "id": 1729356581
+        },
+        {
+          "distance": 0.16487723588943481,
+          "id": 1729355863
+        },
+        {
+          "distance": 0.16575229167938232,
+          "id": 1729357243
+        },
+        {
+          "distance": 0.16708087921142578,
+          "id": 1729357925
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729357189,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777630,
     "wof:name": "Howard Hughes, Hollywood mogul, financial tycoon, and visionary aviator, was born #onthisday in 1905...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

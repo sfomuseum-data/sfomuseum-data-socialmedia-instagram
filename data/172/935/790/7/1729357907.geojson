@@ -38,6 +38,50 @@
       "taken": 1532508480,
       "taken_at": "Jul 25, 2018, 8:48 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.22732847929000854,
+          "id": 1729357899
+        },
+        {
+          "distance": 0.29175013303756714,
+          "id": 1729357899
+        },
+        {
+          "distance": 0.300937294960022,
+          "id": 1729357915
+        },
+        {
+          "distance": 0.3180321455001831,
+          "id": 1729357915
+        },
+        {
+          "distance": 0.33561772108078003,
+          "id": 1729357921
+        },
+        {
+          "distance": 0.34696346521377563,
+          "id": 1729358795
+        },
+        {
+          "distance": 0.356891393661499,
+          "id": 1729357927
+        },
+        {
+          "distance": 0.36363768577575684,
+          "id": 1729358697
+        },
+        {
+          "distance": 0.36567819118499756,
+          "id": 1729358711
+        },
+        {
+          "distance": 0.36753904819488525,
+          "id": 1729357793
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729357907,
-    "wof:lastmodified": 1716929951,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Modern jukeboxes trace their origins to coin-operated phonographs...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

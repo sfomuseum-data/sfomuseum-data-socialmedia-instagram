@@ -32,6 +32,50 @@
       "taken": 1549192020,
       "taken_at": "Feb 03, 2019 11:07 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.4113500714302063,
+          "id": 1880151341
+        },
+        {
+          "distance": 0.45030641555786133,
+          "id": 1763559337
+        },
+        {
+          "distance": 0.4644492268562317,
+          "id": 1880151511
+        },
+        {
+          "distance": 0.47694867849349976,
+          "id": 1729361895
+        },
+        {
+          "distance": 0.4840879440307617,
+          "id": 1729357415
+        },
+        {
+          "distance": 0.4883878827095032,
+          "id": 1729357757
+        },
+        {
+          "distance": 0.4959290623664856,
+          "id": 1729359241
+        },
+        {
+          "distance": 0.4960567355155945,
+          "id": 1729359013
+        },
+        {
+          "distance": 0.49744701385498047,
+          "id": 1729356041
+        },
+        {
+          "distance": 0.49818873405456543,
+          "id": 1729361285
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729356999,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777629,
     "wof:name": "What was the last in-flight meal you had?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

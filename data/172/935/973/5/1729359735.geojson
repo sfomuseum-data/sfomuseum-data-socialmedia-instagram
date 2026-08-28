@@ -25,6 +25,50 @@
       "taken": 1489084740,
       "taken_at": "Mar 09, 2017 6:39 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13603079319000244,
+          "id": 1729360173
+        },
+        {
+          "distance": 0.14521664381027222,
+          "id": 1729360023
+        },
+        {
+          "distance": 0.18299704790115356,
+          "id": 1729360443
+        },
+        {
+          "distance": 0.2291538119316101,
+          "id": 1729360127
+        },
+        {
+          "distance": 0.23230361938476562,
+          "id": 1729360463
+        },
+        {
+          "distance": 0.23251837491989136,
+          "id": 1729360173
+        },
+        {
+          "distance": 0.24033355712890625,
+          "id": 1729360023
+        },
+        {
+          "distance": 0.24038225412368774,
+          "id": 1729360183
+        },
+        {
+          "distance": 0.24893862009048462,
+          "id": 1729360065
+        },
+        {
+          "distance": 0.252751886844635,
+          "id": 1729360293
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729359735,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "Spode Pottery introduced their Caramanian series around 1809...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

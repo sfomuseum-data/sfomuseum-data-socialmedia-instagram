@@ -27,6 +27,50 @@
       "taken": 1470242100,
       "taken_at": "Aug 03, 2016 4:35 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13369494676589966,
+          "id": 1729360523
+        },
+        {
+          "distance": 0.14900809526443481,
+          "id": 1729360551
+        },
+        {
+          "distance": 0.15904569625854492,
+          "id": 1729360981
+        },
+        {
+          "distance": 0.1597834825515747,
+          "id": 1729360523
+        },
+        {
+          "distance": 0.1630365252494812,
+          "id": 1729359267
+        },
+        {
+          "distance": 0.16517114639282227,
+          "id": 1729360405
+        },
+        {
+          "distance": 0.1672857403755188,
+          "id": 1763559475
+        },
+        {
+          "distance": 0.17205458879470825,
+          "id": 1729360289
+        },
+        {
+          "distance": 0.179881751537323,
+          "id": 1729359743
+        },
+        {
+          "distance": 0.18011856079101562,
+          "id": 1729355335
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1729360473,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777640,
     "wof:name": "Hired by Braniff International Airways in 1965, Mary Wells Lawrence created one of the most successful airline advertising campaigns ever, “The End of the Plain Plane”, which introduced airliner liveries with unique, bright color combinations and revolutionized the airline industry...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -73,5 +117,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

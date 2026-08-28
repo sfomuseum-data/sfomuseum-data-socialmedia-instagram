@@ -27,6 +27,50 @@
       "taken": 1725551160,
       "taken_at": "Sep 05, 2024 3:46 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11374670267105103,
+          "id": 1729362675
+        },
+        {
+          "distance": 0.12544149160385132,
+          "id": 1880151305
+        },
+        {
+          "distance": 0.1625538468360901,
+          "id": 1729362675
+        },
+        {
+          "distance": 0.16403335332870483,
+          "id": 1947424945
+        },
+        {
+          "distance": 0.18145829439163208,
+          "id": 1880151305
+        },
+        {
+          "distance": 0.18532615900039673,
+          "id": 1947424823
+        },
+        {
+          "distance": 0.19245558977127075,
+          "id": 1947424945
+        },
+        {
+          "distance": 0.193200945854187,
+          "id": 1880151619
+        },
+        {
+          "distance": 0.20105105638504028,
+          "id": 1880151605
+        },
+        {
+          "distance": 0.20299839973449707,
+          "id": 1947424823
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947424879,
-    "wof:lastmodified": 1733175319,
+    "wof:lastmodified": 1787777664,
     "wof:name": "During the fourteenth century, Chinese ceramicists at the kilns at Jingdezhen, located in the southeastern province of Jiangxi, refined and perfected the art of porcelain painted with cobalt-blue decoration...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

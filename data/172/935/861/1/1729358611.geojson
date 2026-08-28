@@ -36,6 +36,50 @@
       "taken": 1517419800,
       "taken_at": "Jan 31, 2018 5:30 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17924833297729492,
+          "id": 1729357723
+        },
+        {
+          "distance": 0.18717581033706665,
+          "id": 1729359887
+        },
+        {
+          "distance": 0.19308924674987793,
+          "id": 1729357723
+        },
+        {
+          "distance": 0.1942138671875,
+          "id": 1729358735
+        },
+        {
+          "distance": 0.21278423070907593,
+          "id": 1729358737
+        },
+        {
+          "distance": 0.2142643928527832,
+          "id": 1729358735
+        },
+        {
+          "distance": 0.2311495542526245,
+          "id": 1729358737
+        },
+        {
+          "distance": 0.23165130615234375,
+          "id": 1729358711
+        },
+        {
+          "distance": 0.2334686517715454,
+          "id": 1729358411
+        },
+        {
+          "distance": 0.23748689889907837,
+          "id": 1729357793
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729358611,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "Horse racing is one of the world's oldest sports...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

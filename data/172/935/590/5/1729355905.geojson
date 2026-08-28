@@ -36,6 +36,50 @@
       "taken": 1572890700,
       "taken_at": "Nov 4, 2019, 6:05 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07952642440795898,
+          "id": 1729356523
+        },
+        {
+          "distance": 0.1605623960494995,
+          "id": 1729356523
+        },
+        {
+          "distance": 0.2134774923324585,
+          "id": 1729355925
+        },
+        {
+          "distance": 0.23301446437835693,
+          "id": 1729355911
+        },
+        {
+          "distance": 0.24362695217132568,
+          "id": 1729355925
+        },
+        {
+          "distance": 0.24970096349716187,
+          "id": 1729355911
+        },
+        {
+          "distance": 0.29094618558883667,
+          "id": 1729362261
+        },
+        {
+          "distance": 0.3232014775276184,
+          "id": 1729362261
+        },
+        {
+          "distance": 0.3232882618904114,
+          "id": 1729356239
+        },
+        {
+          "distance": 0.32353442907333374,
+          "id": 1729355817
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729355905,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777627,
     "wof:name": "Most animals do not eat wood because of tough lignin fibers and cellulose sugars that are difficult to digest...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

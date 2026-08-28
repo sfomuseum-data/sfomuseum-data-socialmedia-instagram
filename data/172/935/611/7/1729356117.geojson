@@ -25,6 +25,50 @@
       "taken": 1568121420,
       "taken_at": "Sep 10, 2019 1:17 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2320692539215088,
+          "id": 1729356199
+        },
+        {
+          "distance": 0.23220372200012207,
+          "id": 1729355719
+        },
+        {
+          "distance": 0.2524862289428711,
+          "id": 1729355719
+        },
+        {
+          "distance": 0.25679850578308105,
+          "id": 1729355591
+        },
+        {
+          "distance": 0.27109581232070923,
+          "id": 1729355591
+        },
+        {
+          "distance": 0.28666460514068604,
+          "id": 1763558877
+        },
+        {
+          "distance": 0.3067644238471985,
+          "id": 1729355727
+        },
+        {
+          "distance": 0.31091147661209106,
+          "id": 1729356199
+        },
+        {
+          "distance": 0.31250935792922974,
+          "id": 1729355721
+        },
+        {
+          "distance": 0.3172122836112976,
+          "id": 1729355741
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729356117,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777628,
     "wof:name": "Join us this Saturday at 12pm at the Aviation Museum for a book signing and lecture to accompany our exhibit \"#Zuber: The Art of French Scenic Wallpaper.\"..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

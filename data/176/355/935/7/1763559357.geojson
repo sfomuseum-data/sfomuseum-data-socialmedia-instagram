@@ -30,6 +30,50 @@
       "taken": 1635263940,
       "taken_at": "Oct 26, 2021 3:59 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1072688102722168,
+          "id": 1729355109
+        },
+        {
+          "distance": 0.13272595405578613,
+          "id": 1763559069
+        },
+        {
+          "distance": 0.14859598875045776,
+          "id": 1729358851
+        },
+        {
+          "distance": 0.15776145458221436,
+          "id": 1729357215
+        },
+        {
+          "distance": 0.1665465235710144,
+          "id": 1729355109
+        },
+        {
+          "distance": 0.17654192447662354,
+          "id": 1880151527
+        },
+        {
+          "distance": 0.1765604019165039,
+          "id": 1763559069
+        },
+        {
+          "distance": 0.18355417251586914,
+          "id": 1729359691
+        },
+        {
+          "distance": 0.18563073873519897,
+          "id": 1729360005
+        },
+        {
+          "distance": 0.18630623817443848,
+          "id": 1729358851
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559357,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Taking off from Idlewild Airport in New York #onthisday in 1958, Pan American World Airways became the first airline to inaugurate scheduled transatlantic commercial jet service on a Boeing 707...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

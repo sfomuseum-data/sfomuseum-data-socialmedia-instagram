@@ -30,6 +30,50 @@
       "taken": 1652976120,
       "taken_at": "May 19, 2022 4:02 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14531564712524414,
+          "id": 1880151233
+        },
+        {
+          "distance": 0.18996119499206543,
+          "id": 1880151617
+        },
+        {
+          "distance": 0.20506662130355835,
+          "id": 1880151233
+        },
+        {
+          "distance": 0.23791921138763428,
+          "id": 1880151617
+        },
+        {
+          "distance": 0.24076426029205322,
+          "id": 1729361413
+        },
+        {
+          "distance": 0.2532140612602234,
+          "id": 1729359761
+        },
+        {
+          "distance": 0.25552576780319214,
+          "id": 1763559553
+        },
+        {
+          "distance": 0.25806868076324463,
+          "id": 1763559533
+        },
+        {
+          "distance": 0.2581520080566406,
+          "id": 1729358785
+        },
+        {
+          "distance": 0.25818032026290894,
+          "id": 1729355989
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151717,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777663,
     "wof:name": "Founded in 1924 by George Rihl, Compañía Mexicana de Aviación was Mexico’s flagship airline...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

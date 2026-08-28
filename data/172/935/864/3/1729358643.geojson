@@ -47,6 +47,50 @@
       "taken": 1516810620,
       "taken_at": "Jan 24, 2018, 4:17 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14422470331192017,
+          "id": 1729357619
+        },
+        {
+          "distance": 0.14902031421661377,
+          "id": 1729357123
+        },
+        {
+          "distance": 0.15826034545898438,
+          "id": 1763559101
+        },
+        {
+          "distance": 0.16551601886749268,
+          "id": 1729358051
+        },
+        {
+          "distance": 0.1788945198059082,
+          "id": 1729357395
+        },
+        {
+          "distance": 0.18520867824554443,
+          "id": 1763559587
+        },
+        {
+          "distance": 0.1908077597618103,
+          "id": 1729358687
+        },
+        {
+          "distance": 0.1932317614555359,
+          "id": 1763559101
+        },
+        {
+          "distance": 0.19521045684814453,
+          "id": 1729357123
+        },
+        {
+          "distance": 0.19563335180282593,
+          "id": 1729356909
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -76,7 +120,7 @@
       }
     ],
     "wof:id": 1729358643,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777634,
     "wof:name": "First flown in 1957, the Boeing Model 707 was the first US-made, pure-turbojet airliner to be introduced...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -93,5 +137,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

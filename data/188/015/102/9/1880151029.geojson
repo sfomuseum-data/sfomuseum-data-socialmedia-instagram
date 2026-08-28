@@ -32,6 +32,50 @@
       "taken": 1680537660,
       "taken_at": "Apr 03, 2023 4:01 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10981297492980957,
+          "id": 1729361563
+        },
+        {
+          "distance": 0.12148535251617432,
+          "id": 1729361563
+        },
+        {
+          "distance": 0.1956530213356018,
+          "id": 1763559551
+        },
+        {
+          "distance": 0.22821193933486938,
+          "id": 1763559551
+        },
+        {
+          "distance": 0.2678855061531067,
+          "id": 1729361309
+        },
+        {
+          "distance": 0.2927682399749756,
+          "id": 1729358133
+        },
+        {
+          "distance": 0.2935523986816406,
+          "id": 1880151505
+        },
+        {
+          "distance": 0.30734002590179443,
+          "id": 1729361309
+        },
+        {
+          "distance": 0.31007057428359985,
+          "id": 1729358133
+        },
+        {
+          "distance": 0.3206445574760437,
+          "id": 1729360957
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1880151029,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777661,
     "wof:name": "Visitors to the Aviation Museum will no doubt recognize this large Pan Am floor globe!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

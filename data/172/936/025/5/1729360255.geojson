@@ -25,6 +25,50 @@
       "taken": 1475927220,
       "taken_at": "Oct 08, 2016 11:47 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2514899969100952,
+          "id": 1729360403
+        },
+        {
+          "distance": 0.2538147568702698,
+          "id": 1729360403
+        },
+        {
+          "distance": 0.2638189196586609,
+          "id": 1729357705
+        },
+        {
+          "distance": 0.2678452134132385,
+          "id": 1729357705
+        },
+        {
+          "distance": 0.2882087826728821,
+          "id": 1729357903
+        },
+        {
+          "distance": 0.28962600231170654,
+          "id": 1729357725
+        },
+        {
+          "distance": 0.2980862259864807,
+          "id": 1729356037
+        },
+        {
+          "distance": 0.3084108233451843,
+          "id": 1729357725
+        },
+        {
+          "distance": 0.3089084029197693,
+          "id": 1729356037
+        },
+        {
+          "distance": 0.3121967315673828,
+          "id": 1729357841
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360255,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "In 1925, the Norwegian explorer Roald Amundsen (first to the South Pole in 1911) and Lincoln Ellsworth unsuccessfully attempted to fly two Dornier Do J Wal flying boats to the North Pole, as Amundsen described in “My Polar Flight.” In 1926, Amundsen and Ellsworth again attempted to fly over the North Pole, this time accompanied by an Italian crew and Umberto Nobile; they took to the skies in Nobile's airship “Norge” and flew from Spitsbergen, Norway, over the North Pole to Alaska...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -38,6 +38,50 @@
       "taken": 1527114000,
       "taken_at": "May 23, 2018 10:20 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2900126576423645,
+          "id": 1729358759
+        },
+        {
+          "distance": 0.32291215658187866,
+          "id": 1729358723
+        },
+        {
+          "distance": 0.34165817499160767,
+          "id": 1729358491
+        },
+        {
+          "distance": 0.3513380289077759,
+          "id": 1729358759
+        },
+        {
+          "distance": 0.352738618850708,
+          "id": 1947425007
+        },
+        {
+          "distance": 0.35355937480926514,
+          "id": 1729362347
+        },
+        {
+          "distance": 0.3584572672843933,
+          "id": 1947424939
+        },
+        {
+          "distance": 0.3589605689048767,
+          "id": 1729362671
+        },
+        {
+          "distance": 0.3598688840866089,
+          "id": 1729358277
+        },
+        {
+          "distance": 0.3709394335746765,
+          "id": 1947424975
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729358207,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "Armed with a new sense of patriotism following the Revolutionary War, farmers and settlers produced a variety of uniquely American weathervanes...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

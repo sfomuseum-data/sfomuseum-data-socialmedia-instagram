@@ -32,6 +32,50 @@
       "taken": 1635955500,
       "taken_at": "Nov 03, 2021 4:05 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11986589431762695,
+          "id": 1880151437
+        },
+        {
+          "distance": 0.1374880075454712,
+          "id": 1763558963
+        },
+        {
+          "distance": 0.14939814805984497,
+          "id": 1763559403
+        },
+        {
+          "distance": 0.16005516052246094,
+          "id": 1763559313
+        },
+        {
+          "distance": 0.16483068466186523,
+          "id": 1880151437
+        },
+        {
+          "distance": 0.1661248803138733,
+          "id": 1729355709
+        },
+        {
+          "distance": 0.1741180419921875,
+          "id": 1763558963
+        },
+        {
+          "distance": 0.1745527982711792,
+          "id": 1763559313
+        },
+        {
+          "distance": 0.19538235664367676,
+          "id": 1763559403
+        },
+        {
+          "distance": 0.2024669647216797,
+          "id": 1729355709
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1763559343,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Boeing adopted the two-engine, widebody concept with its 777 airliner, which was introduced on June 7, 1995, with United Airlines...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

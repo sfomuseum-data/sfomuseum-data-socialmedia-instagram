@@ -34,6 +34,50 @@
       "taken": 1567704000,
       "taken_at": "Sep 05, 2019 5:20 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1436641812324524,
+          "id": 1729356161
+        },
+        {
+          "distance": 0.14597958326339722,
+          "id": 1729355975
+        },
+        {
+          "distance": 0.151924729347229,
+          "id": 1729356419
+        },
+        {
+          "distance": 0.15700137615203857,
+          "id": 1729355901
+        },
+        {
+          "distance": 0.1604565978050232,
+          "id": 1729355681
+        },
+        {
+          "distance": 0.16083192825317383,
+          "id": 1729356205
+        },
+        {
+          "distance": 0.16817224025726318,
+          "id": 1729355775
+        },
+        {
+          "distance": 0.18532800674438477,
+          "id": 1729356487
+        },
+        {
+          "distance": 0.1914615035057068,
+          "id": 1729356161
+        },
+        {
+          "distance": 0.19154787063598633,
+          "id": 1729355831
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729356125,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777628,
     "wof:name": "During the 1870s, collecting antiques and objets d’art became a national pastime...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

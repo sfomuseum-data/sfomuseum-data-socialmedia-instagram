@@ -44,6 +44,50 @@
       "taken": 1512498720,
       "taken_at": "Dec 05, 2017 6:32 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20693016052246094,
+          "id": 1729356053
+        },
+        {
+          "distance": 0.23875349760055542,
+          "id": 1729360175
+        },
+        {
+          "distance": 0.23962312936782837,
+          "id": 1729356053
+        },
+        {
+          "distance": 0.2712416648864746,
+          "id": 1729360175
+        },
+        {
+          "distance": 0.27984553575515747,
+          "id": 1729359007
+        },
+        {
+          "distance": 0.28321266174316406,
+          "id": 1729356495
+        },
+        {
+          "distance": 0.3003695011138916,
+          "id": 1729359007
+        },
+        {
+          "distance": 0.30122822523117065,
+          "id": 1729359301
+        },
+        {
+          "distance": 0.30349165201187134,
+          "id": 1880151353
+        },
+        {
+          "distance": 0.30863022804260254,
+          "id": 1729356907
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -73,7 +117,7 @@
       }
     ],
     "wof:id": 1729358849,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "South African Airways (SAA), the flag carrier of the Republic of South Africa, began operations in 1934...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -90,5 +134,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

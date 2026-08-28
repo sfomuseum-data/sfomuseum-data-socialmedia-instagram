@@ -34,6 +34,50 @@
       "taken": 1570730280,
       "taken_at": "Oct 10, 2019, 5:58 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.005785763263702393,
+          "id": 1729355371
+        },
+        {
+          "distance": 0.09990805387496948,
+          "id": 1729355371
+        },
+        {
+          "distance": 0.22538912296295166,
+          "id": 1729355203
+        },
+        {
+          "distance": 0.2633110284805298,
+          "id": 1729355203
+        },
+        {
+          "distance": 0.33109116554260254,
+          "id": 1729355641
+        },
+        {
+          "distance": 0.3475393056869507,
+          "id": 1729356005
+        },
+        {
+          "distance": 0.3512500524520874,
+          "id": 1729356097
+        },
+        {
+          "distance": 0.35631662607192993,
+          "id": 1729356133
+        },
+        {
+          "distance": 0.3705979585647583,
+          "id": 1729356157
+        },
+        {
+          "distance": 0.3759617805480957,
+          "id": 1729355981
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729356011,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777627,
     "wof:name": "A romantic, classical composition in grisaille featuring architectural elements dotting a tranquil garden, “Les Lointains” was first offered in 1825...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -33,6 +33,50 @@
       "taken": 1661342100,
       "taken_at": "Aug 24, 2022 11:55 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.000024080276489257812,
+          "id": 1880151447
+        },
+        {
+          "distance": 0.10764777660369873,
+          "id": 1880151447
+        },
+        {
+          "distance": 0.1511710286140442,
+          "id": 1880151379
+        },
+        {
+          "distance": 0.15320950746536255,
+          "id": 1880151439
+        },
+        {
+          "distance": 0.18104654550552368,
+          "id": 1880151539
+        },
+        {
+          "distance": 0.20313501358032227,
+          "id": 1880151379
+        },
+        {
+          "distance": 0.21385347843170166,
+          "id": 1880151439
+        },
+        {
+          "distance": 0.21987998485565186,
+          "id": 1880150969
+        },
+        {
+          "distance": 0.22131836414337158,
+          "id": 1880151023
+        },
+        {
+          "distance": 0.2294861078262329,
+          "id": 1880151305
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1880151497,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Edith Heath (1911–2005) created ceramics that combined modern design with the hand-made aesthetics of studio pottery...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

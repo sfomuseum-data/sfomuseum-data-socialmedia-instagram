@@ -27,6 +27,50 @@
       "taken": 1706547660,
       "taken_at": "Jan 29, 2024 5:01 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11793786287307739,
+          "id": 1947425007
+        },
+        {
+          "distance": 0.16856169700622559,
+          "id": 1947425007
+        },
+        {
+          "distance": 0.18287158012390137,
+          "id": 1947424939
+        },
+        {
+          "distance": 0.19148486852645874,
+          "id": 1947424975
+        },
+        {
+          "distance": 0.2468634843826294,
+          "id": 1947424939
+        },
+        {
+          "distance": 0.2716596722602844,
+          "id": 1947425235
+        },
+        {
+          "distance": 0.2736290693283081,
+          "id": 1880151011
+        },
+        {
+          "distance": 0.2750224471092224,
+          "id": 1947425273
+        },
+        {
+          "distance": 0.27561330795288086,
+          "id": 1947424903
+        },
+        {
+          "distance": 0.27594321966171265,
+          "id": 1947425269
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -55,7 +99,7 @@
       }
     ],
     "wof:id": 1947425145,
-    "wof:lastmodified": 1733175327,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Much of visionary Haitian artist, Georges Liautaud’s (1899–1991) work reflects Vodou, an African Diasporic religion and way of life—from his crosses, which symbolize the crossroads (kafou), where the mortal world meets the spiritual world, to his sculptures depicting various omnipresent Vodou spirits, or lwa, which mirror different facets of nature and life...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -69,5 +113,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

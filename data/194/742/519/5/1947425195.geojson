@@ -29,6 +29,50 @@
       "taken": 1701795960,
       "taken_at": "Dec 05, 2023 5:06 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.03029453754425049,
+          "id": 1880150963
+        },
+        {
+          "distance": 0.09389132261276245,
+          "id": 1880151049
+        },
+        {
+          "distance": 0.09490317106246948,
+          "id": 1947425187
+        },
+        {
+          "distance": 0.1051587462425232,
+          "id": 1880150963
+        },
+        {
+          "distance": 0.12615489959716797,
+          "id": 1880151685
+        },
+        {
+          "distance": 0.1290585994720459,
+          "id": 1880151643
+        },
+        {
+          "distance": 0.13242530822753906,
+          "id": 1880151613
+        },
+        {
+          "distance": 0.13664913177490234,
+          "id": 1880151175
+        },
+        {
+          "distance": 0.14389824867248535,
+          "id": 1880151521
+        },
+        {
+          "distance": 0.14678281545639038,
+          "id": 1880151631
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1947425195,
-    "wof:lastmodified": 1733175329,
+    "wof:lastmodified": 1787777664,
     "wof:name": "The development of the Wright J-5 Whirlwind began in the early 1920s with the Lawrance Aero-Engine Corporation, a company founded in 1917 by Charles L. Lawrance (1882–1950)...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

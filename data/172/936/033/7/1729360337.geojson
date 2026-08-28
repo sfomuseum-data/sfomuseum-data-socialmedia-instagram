@@ -25,6 +25,50 @@
       "taken": 1473930300,
       "taken_at": "Sep 15, 2016 9:05 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07799994945526123,
+          "id": 1729359077
+        },
+        {
+          "distance": 0.09667414426803589,
+          "id": 1729357057
+        },
+        {
+          "distance": 0.11311322450637817,
+          "id": 1729361129
+        },
+        {
+          "distance": 0.11407607793807983,
+          "id": 1729358985
+        },
+        {
+          "distance": 0.11599725484848022,
+          "id": 1729360689
+        },
+        {
+          "distance": 0.11668121814727783,
+          "id": 1729360247
+        },
+        {
+          "distance": 0.12555956840515137,
+          "id": 1729359005
+        },
+        {
+          "distance": 0.12742012739181519,
+          "id": 1729360213
+        },
+        {
+          "distance": 0.13599735498428345,
+          "id": 1729360247
+        },
+        {
+          "distance": 0.1442463994026184,
+          "id": 1763559413
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360337,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "On September 15, 1963, the South Terminal (now Terminal 1) was dedicated at San Francisco International Airport...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -28,6 +28,50 @@
       "taken": 1721055840,
       "taken_at": "Jul 15, 2024 3:04 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.07931268215179443,
+          "id": 1947425017
+        },
+        {
+          "distance": 0.10473227500915527,
+          "id": 1947425017
+        },
+        {
+          "distance": 0.1337081789970398,
+          "id": 1947425009
+        },
+        {
+          "distance": 0.1337081789970398,
+          "id": 1947425027
+        },
+        {
+          "distance": 0.16536056995391846,
+          "id": 1947424845
+        },
+        {
+          "distance": 0.16536056995391846,
+          "id": 1947424837
+        },
+        {
+          "distance": 0.19498497247695923,
+          "id": 1947425027
+        },
+        {
+          "distance": 0.19498497247695923,
+          "id": 1947425009
+        },
+        {
+          "distance": 0.20817118883132935,
+          "id": 1947424837
+        },
+        {
+          "distance": 0.20817118883132935,
+          "id": 1947424845
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1947424943,
-    "wof:lastmodified": 1733175321,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Shaped by decades of creating posters and sets for the stage and movies, Mark von Arenburg’s airline poster painting style evoked a similar drama and allure to his previous work in the entertainment industry...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -70,5 +114,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

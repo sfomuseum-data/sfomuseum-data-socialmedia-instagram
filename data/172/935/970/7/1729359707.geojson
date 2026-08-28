@@ -30,6 +30,50 @@
       "taken": 1489835280,
       "taken_at": "Mar 18, 2017 11:08 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.31489092111587524,
+          "id": 1947424813
+        },
+        {
+          "distance": 0.33816713094711304,
+          "id": 1763559389
+        },
+        {
+          "distance": 0.34747427701950073,
+          "id": 1763559443
+        },
+        {
+          "distance": 0.3520168662071228,
+          "id": 1763559329
+        },
+        {
+          "distance": 0.3532435894012451,
+          "id": 1729357121
+        },
+        {
+          "distance": 0.3645339608192444,
+          "id": 1763559389
+        },
+        {
+          "distance": 0.3734961748123169,
+          "id": 1729358315
+        },
+        {
+          "distance": 0.3789563775062561,
+          "id": 1729355941
+        },
+        {
+          "distance": 0.3816778063774109,
+          "id": 1729356565
+        },
+        {
+          "distance": 0.3819657564163208,
+          "id": 1729358121
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729359707,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "Our online database features a few gems from our collection of over a thousand safety information cards, including this Lufthansa German Airlines safety information card featuring the Airbus A380, the largest commercial passenger aircraft in service today...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

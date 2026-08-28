@@ -31,6 +31,50 @@
       "taken": 1661173140,
       "taken_at": "Aug 22, 2022 12:59 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19166922569274902,
+          "id": 1947425291
+        },
+        {
+          "distance": 0.20570766925811768,
+          "id": 1729355059
+        },
+        {
+          "distance": 0.20737242698669434,
+          "id": 1880151625
+        },
+        {
+          "distance": 0.21888422966003418,
+          "id": 1729357405
+        },
+        {
+          "distance": 0.22403603792190552,
+          "id": 1880151683
+        },
+        {
+          "distance": 0.22403603792190552,
+          "id": 1880151703
+        },
+        {
+          "distance": 0.22403603792190552,
+          "id": 1880151755
+        },
+        {
+          "distance": 0.2252616286277771,
+          "id": 1880151143
+        },
+        {
+          "distance": 0.22528326511383057,
+          "id": 1763559497
+        },
+        {
+          "distance": 0.22808367013931274,
+          "id": 1880151625
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151499,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "During the 1870s, stores specializing in Japanese art and merchandise, commonly referred to as Japanese novelty stores or fancy goods stores, opened across the United States—from New York and Boston to Philadelphia, Houston, and San Francisco...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

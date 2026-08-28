@@ -31,6 +31,50 @@
       "taken": 1666014720,
       "taken_at": "Oct 17, 2022 1:52 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23132801055908203,
+          "id": 1763559473
+        },
+        {
+          "distance": 0.23688817024230957,
+          "id": 1763559569
+        },
+        {
+          "distance": 0.24547713994979858,
+          "id": 1947424799
+        },
+        {
+          "distance": 0.24946779012680054,
+          "id": 1947425039
+        },
+        {
+          "distance": 0.25760942697525024,
+          "id": 1763559591
+        },
+        {
+          "distance": 0.2604273557662964,
+          "id": 1729357325
+        },
+        {
+          "distance": 0.2606368064880371,
+          "id": 1763559281
+        },
+        {
+          "distance": 0.2623445391654968,
+          "id": 1763558895
+        },
+        {
+          "distance": 0.26756614446640015,
+          "id": 1880151657
+        },
+        {
+          "distance": 0.2731441855430603,
+          "id": 1947424929
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151389,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "“What would you take with you if you had to leave home and could only take three things?” This was the question asked of beginning sculpture students at Notre Dame Belmont...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

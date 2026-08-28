@@ -31,6 +31,50 @@
       "taken": 1651765020,
       "taken_at": "May 05, 2022 3:37 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.234239399433136,
+          "id": 1880151353
+        },
+        {
+          "distance": 0.27548980712890625,
+          "id": 1880151353
+        },
+        {
+          "distance": 0.27605849504470825,
+          "id": 1880151535
+        },
+        {
+          "distance": 0.2841603755950928,
+          "id": 1729359007
+        },
+        {
+          "distance": 0.2863362431526184,
+          "id": 1729356053
+        },
+        {
+          "distance": 0.2943088412284851,
+          "id": 1729356053
+        },
+        {
+          "distance": 0.2956831455230713,
+          "id": 1729357035
+        },
+        {
+          "distance": 0.29838335514068604,
+          "id": 1729360267
+        },
+        {
+          "distance": 0.3036233186721802,
+          "id": 1729360029
+        },
+        {
+          "distance": 0.3049989938735962,
+          "id": 1729359663
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151767,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777663,
     "wof:name": "Eastern Air Lines’ origins go back to the 1920s with routes throughout the Atlantic states...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

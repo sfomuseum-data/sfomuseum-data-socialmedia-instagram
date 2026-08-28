@@ -30,6 +30,50 @@
       "taken": 1696355040,
       "taken_at": "Oct 03, 2023 5:44 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1466255784034729,
+          "id": 1729360561
+        },
+        {
+          "distance": 0.1582009196281433,
+          "id": 1729359257
+        },
+        {
+          "distance": 0.18135559558868408,
+          "id": 1729357841
+        },
+        {
+          "distance": 0.1826552152633667,
+          "id": 1729362077
+        },
+        {
+          "distance": 0.18684446811676025,
+          "id": 1729361159
+        },
+        {
+          "distance": 0.1871456503868103,
+          "id": 1729357075
+        },
+        {
+          "distance": 0.1877232789993286,
+          "id": 1729359257
+        },
+        {
+          "distance": 0.19060224294662476,
+          "id": 1729358317
+        },
+        {
+          "distance": 0.19291502237319946,
+          "id": 1763558607
+        },
+        {
+          "distance": 0.1964816451072693,
+          "id": 1880151189
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1947425277,
-    "wof:lastmodified": 1733175331,
+    "wof:lastmodified": 1787777664,
     "wof:name": "Our newest exhibition “Unlocking an Archival Treasure: The Harold Bixby Collection” is a two-part exhibition containing selections from The Harold Bixby Collection of over six hundred letters and documents and roughly five hundred photographic prints and negatives collected throughout his career...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

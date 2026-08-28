@@ -35,6 +35,50 @@
       "taken": 1545243360,
       "taken_at": "Dec 19, 2018 6:16 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19179463386535645,
+          "id": 1729360149
+        },
+        {
+          "distance": 0.19350981712341309,
+          "id": 1729360657
+        },
+        {
+          "distance": 0.19404524564743042,
+          "id": 1729360149
+        },
+        {
+          "distance": 0.20438361167907715,
+          "id": 1729359775
+        },
+        {
+          "distance": 0.21555614471435547,
+          "id": 1729360907
+        },
+        {
+          "distance": 0.22593426704406738,
+          "id": 1729357681
+        },
+        {
+          "distance": 0.23425060510635376,
+          "id": 1729359775
+        },
+        {
+          "distance": 0.23798680305480957,
+          "id": 1729360907
+        },
+        {
+          "distance": 0.2421906590461731,
+          "id": 1729360657
+        },
+        {
+          "distance": 0.2451263666152954,
+          "id": 1763559475
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729357223,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777630,
     "wof:name": "American designer Roy Halston Frowick (1932–1990), who began designing hats in 1953, was a celebrated figure in fashion and four-time Coty Award winner...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -32,6 +32,50 @@
       "taken": 1579109640,
       "taken_at": "Jan 15, 2020 5:34 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.005596458911895752,
+          "id": 1729355883
+        },
+        {
+          "distance": 0.10875570774078369,
+          "id": 1729355883
+        },
+        {
+          "distance": 0.15616077184677124,
+          "id": 1729355903
+        },
+        {
+          "distance": 0.1584712266921997,
+          "id": 1729355677
+        },
+        {
+          "distance": 0.16835790872573853,
+          "id": 1729355677
+        },
+        {
+          "distance": 0.17255806922912598,
+          "id": 1729355903
+        },
+        {
+          "distance": 0.18078941106796265,
+          "id": 1729355663
+        },
+        {
+          "distance": 0.18537557125091553,
+          "id": 1729355885
+        },
+        {
+          "distance": 0.19440323114395142,
+          "id": 1729355885
+        },
+        {
+          "distance": 0.20052456855773926,
+          "id": 1729355663
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1729355667,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777627,
     "wof:name": "“Light has become more important than anything in the object world...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

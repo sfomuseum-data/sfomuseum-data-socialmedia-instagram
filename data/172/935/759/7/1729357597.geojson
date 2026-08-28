@@ -39,6 +39,50 @@
       "taken": 1538562720,
       "taken_at": "Oct 3, 2018, 10:32 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13609325885772705,
+          "id": 1729358317
+        },
+        {
+          "distance": 0.14091163873672485,
+          "id": 1729359257
+        },
+        {
+          "distance": 0.1660526990890503,
+          "id": 1729359257
+        },
+        {
+          "distance": 0.17146539688110352,
+          "id": 1880151387
+        },
+        {
+          "distance": 0.1794050931930542,
+          "id": 1729362077
+        },
+        {
+          "distance": 0.18268144130706787,
+          "id": 1729359251
+        },
+        {
+          "distance": 0.1843940019607544,
+          "id": 1729358161
+        },
+        {
+          "distance": 0.18592417240142822,
+          "id": 1729355569
+        },
+        {
+          "distance": 0.18788570165634155,
+          "id": 1880151387
+        },
+        {
+          "distance": 0.18896305561065674,
+          "id": 1729358317
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729357597,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777632,
     "wof:name": "The Stinson Model A was one of the last commercial airliners produced in the United States with a steel-tube and fabric fuselage...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

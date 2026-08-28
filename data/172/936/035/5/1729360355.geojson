@@ -25,6 +25,50 @@
       "taken": 1473330120,
       "taken_at": "Sep 08, 2016 10:22 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1931479573249817,
+          "id": 1729358489
+        },
+        {
+          "distance": 0.19373399019241333,
+          "id": 1729356879
+        },
+        {
+          "distance": 0.20547837018966675,
+          "id": 1729361811
+        },
+        {
+          "distance": 0.20868194103240967,
+          "id": 1729357521
+        },
+        {
+          "distance": 0.21389949321746826,
+          "id": 1729358115
+        },
+        {
+          "distance": 0.22007352113723755,
+          "id": 1729357987
+        },
+        {
+          "distance": 0.22007352113723755,
+          "id": 1729357985
+        },
+        {
+          "distance": 0.2239624261856079,
+          "id": 1729356765
+        },
+        {
+          "distance": 0.23214364051818848,
+          "id": 1729358223
+        },
+        {
+          "distance": 0.232455313205719,
+          "id": 1729358021
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360355,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "By the 1930s, American industrial designers were balancing form and function with technological innovation and new materials...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

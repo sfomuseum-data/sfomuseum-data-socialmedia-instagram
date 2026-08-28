@@ -34,6 +34,50 @@
       "taken": 1498211280,
       "taken_at": "Jun 23, 2017 9:48 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15296196937561035,
+          "id": 1729359417
+        },
+        {
+          "distance": 0.16716468334197998,
+          "id": 1729357683
+        },
+        {
+          "distance": 0.20290738344192505,
+          "id": 1729357579
+        },
+        {
+          "distance": 0.20290738344192505,
+          "id": 1763558765
+        },
+        {
+          "distance": 0.20312201976776123,
+          "id": 1729359417
+        },
+        {
+          "distance": 0.22018659114837646,
+          "id": 1880151627
+        },
+        {
+          "distance": 0.22243553400039673,
+          "id": 1729357683
+        },
+        {
+          "distance": 0.2335960865020752,
+          "id": 1729358413
+        },
+        {
+          "distance": 0.24105960130691528,
+          "id": 1729355539
+        },
+        {
+          "distance": 0.24617403745651245,
+          "id": 1729357341
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729359389,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777635,
     "wof:name": "Ernest Hemingway (1899–1961) was a master of American literature...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

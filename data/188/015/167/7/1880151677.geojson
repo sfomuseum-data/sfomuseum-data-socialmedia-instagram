@@ -30,6 +30,50 @@
       "taken": 1654864440,
       "taken_at": "Jun 10, 2022 12:34 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1222028136253357,
+          "id": 1880151621
+        },
+        {
+          "distance": 0.12696409225463867,
+          "id": 1880151783
+        },
+        {
+          "distance": 0.13826602697372437,
+          "id": 1880151621
+        },
+        {
+          "distance": 0.1552640199661255,
+          "id": 1880151557
+        },
+        {
+          "distance": 0.16467291116714478,
+          "id": 1880151007
+        },
+        {
+          "distance": 0.1724051833152771,
+          "id": 1880151783
+        },
+        {
+          "distance": 0.17845022678375244,
+          "id": 1880151369
+        },
+        {
+          "distance": 0.17861151695251465,
+          "id": 1880151737
+        },
+        {
+          "distance": 0.17950564622879028,
+          "id": 1880151557
+        },
+        {
+          "distance": 0.20043295621871948,
+          "id": 1880151007
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151677,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "“I am proud to be a Shona and that the art movement is enlightening the world on our myths and beliefs...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

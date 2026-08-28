@@ -40,6 +40,50 @@
       "taken": 1532700000,
       "taken_at": "Jul 27, 2018, 2:00 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.10667455196380615,
+          "id": 1729357895
+        },
+        {
+          "distance": 0.18377411365509033,
+          "id": 1729357895
+        },
+        {
+          "distance": 0.19019776582717896,
+          "id": 1729359425
+        },
+        {
+          "distance": 0.20416343212127686,
+          "id": 1880151091
+        },
+        {
+          "distance": 0.22236961126327515,
+          "id": 1729355145
+        },
+        {
+          "distance": 0.2249496579170227,
+          "id": 1729357871
+        },
+        {
+          "distance": 0.22851580381393433,
+          "id": 1729359363
+        },
+        {
+          "distance": 0.23330384492874146,
+          "id": 1729361631
+        },
+        {
+          "distance": 0.23550254106521606,
+          "id": 1729356819
+        },
+        {
+          "distance": 0.23741620779037476,
+          "id": 1729355309
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +113,7 @@
       }
     ],
     "wof:id": 1729357869,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777632,
     "wof:name": "\"Voyage\" is a glass panel installation that depicts an imaginary panoramic space in continuous flux...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -86,5 +130,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

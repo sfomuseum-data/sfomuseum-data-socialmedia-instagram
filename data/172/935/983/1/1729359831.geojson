@@ -29,6 +29,50 @@
       "taken": 1487151780,
       "taken_at": "Feb 15, 2017 9:43 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.33439022302627563,
+          "id": 1729359689
+        },
+        {
+          "distance": 0.3421597480773926,
+          "id": 1729359939
+        },
+        {
+          "distance": 0.35939693450927734,
+          "id": 1729359689
+        },
+        {
+          "distance": 0.36850059032440186,
+          "id": 1729359939
+        },
+        {
+          "distance": 0.37216269969940186,
+          "id": 1729359607
+        },
+        {
+          "distance": 0.38364970684051514,
+          "id": 1729358711
+        },
+        {
+          "distance": 0.3868597149848938,
+          "id": 1729359607
+        },
+        {
+          "distance": 0.3883337378501892,
+          "id": 1729357793
+        },
+        {
+          "distance": 0.392727255821228,
+          "id": 1880151361
+        },
+        {
+          "distance": 0.40938466787338257,
+          "id": 1729358353
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729359831,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "Game manufacturer Selchow and Righter most likely introduced their Scientific Planchette around 1880...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

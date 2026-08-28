@@ -29,6 +29,50 @@
       "taken": 1568720220,
       "taken_at": "Sep 17, 2019 11:37 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.4007999897003174,
+          "id": 1729356023
+        },
+        {
+          "distance": 0.4016503691673279,
+          "id": 1729360663
+        },
+        {
+          "distance": 0.40267789363861084,
+          "id": 1729360663
+        },
+        {
+          "distance": 0.40759265422821045,
+          "id": 1763558821
+        },
+        {
+          "distance": 0.4124646782875061,
+          "id": 1880151261
+        },
+        {
+          "distance": 0.41567057371139526,
+          "id": 1729360499
+        },
+        {
+          "distance": 0.4160945415496826,
+          "id": 1763559353
+        },
+        {
+          "distance": 0.4161074757575989,
+          "id": 1729358193
+        },
+        {
+          "distance": 0.4179392457008362,
+          "id": 1729356257
+        },
+        {
+          "distance": 0.4184262156486511,
+          "id": 1763559533
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729356103,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777628,
     "wof:name": "Malev Hungarian Airlines was the flag carrier of Hungary from 1946 to 2012...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

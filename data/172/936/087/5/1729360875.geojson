@@ -25,6 +25,50 @@
       "taken": 1459271460,
       "taken_at": "Mar 29, 2016 5:11 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3226016163825989,
+          "id": 1729355943
+        },
+        {
+          "distance": 0.33785301446914673,
+          "id": 1729359007
+        },
+        {
+          "distance": 0.3474823236465454,
+          "id": 1729357179
+        },
+        {
+          "distance": 0.3474823236465454,
+          "id": 1763558807
+        },
+        {
+          "distance": 0.3491281270980835,
+          "id": 1729359443
+        },
+        {
+          "distance": 0.35196834802627563,
+          "id": 1880151221
+        },
+        {
+          "distance": 0.35340988636016846,
+          "id": 1729361603
+        },
+        {
+          "distance": 0.35632866621017456,
+          "id": 1729358743
+        },
+        {
+          "distance": 0.35902905464172363,
+          "id": 1729360779
+        },
+        {
+          "distance": 0.3606552481651306,
+          "id": 1729359143
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360875,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "United Airlines will start nonstop service from SFO to Tel Aviv this week...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

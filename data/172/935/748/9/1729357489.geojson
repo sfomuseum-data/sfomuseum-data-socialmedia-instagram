@@ -39,6 +39,50 @@
       "taken": 1540469700,
       "taken_at": "Oct 25, 2018, 12:15 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12561768293380737,
+          "id": 1729355245
+        },
+        {
+          "distance": 0.13404572010040283,
+          "id": 1729358743
+        },
+        {
+          "distance": 0.146253764629364,
+          "id": 1729358651
+        },
+        {
+          "distance": 0.1520298719406128,
+          "id": 1729355245
+        },
+        {
+          "distance": 0.16188842058181763,
+          "id": 1729358895
+        },
+        {
+          "distance": 0.16394823789596558,
+          "id": 1729359691
+        },
+        {
+          "distance": 0.16856354475021362,
+          "id": 1729357491
+        },
+        {
+          "distance": 0.17001140117645264,
+          "id": 1729357179
+        },
+        {
+          "distance": 0.17001140117645264,
+          "id": 1763558807
+        },
+        {
+          "distance": 0.1713152527809143,
+          "id": 1763559167
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729357489,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777631,
     "wof:name": "Introduced in 1951, the Lockheed 1049 Super Constellation was an enhanced-range, stretched upgrade of the 049 Constellation and was designed primarily to compete on transatlantic routes with the Douglas DC-6...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

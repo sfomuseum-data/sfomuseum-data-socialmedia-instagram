@@ -32,6 +32,50 @@
       "taken": 1674205200,
       "taken_at": "Jan 20, 2023 9:00 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.000022530555725097656,
+          "id": 1947425311
+        },
+        {
+          "distance": 0.000022530555725097656,
+          "id": 1947425279
+        },
+        {
+          "distance": 0.000022530555725097656,
+          "id": 1947425239
+        },
+        {
+          "distance": 0.000022530555725097656,
+          "id": 1880150987
+        },
+        {
+          "distance": 0.000022530555725097656,
+          "id": 1880150893
+        },
+        {
+          "distance": 0.000022530555725097656,
+          "id": 1947425299
+        },
+        {
+          "distance": 0.000022530555725097656,
+          "id": 1880150889
+        },
+        {
+          "distance": 0.000029802322387695312,
+          "id": 1947424827
+        },
+        {
+          "distance": 0.00006842613220214844,
+          "id": 1947425213
+        },
+        {
+          "distance": 0.00013697147369384766,
+          "id": 1947425023
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1880151181,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "“I remember I was four years old when I first told my mother – well, no, it was actually my grandmother – that I was a girl.”  “The activism keeps me young...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

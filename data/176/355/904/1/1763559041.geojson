@@ -32,6 +32,50 @@
       "taken": 1627488900,
       "taken_at": "Jul 28, 2021 4:15 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1240885853767395,
+          "id": 1729361451
+        },
+        {
+          "distance": 0.18506228923797607,
+          "id": 1729361451
+        },
+        {
+          "distance": 0.21289634704589844,
+          "id": 1880151639
+        },
+        {
+          "distance": 0.21361583471298218,
+          "id": 1729355559
+        },
+        {
+          "distance": 0.2330632209777832,
+          "id": 1729358503
+        },
+        {
+          "distance": 0.23478448390960693,
+          "id": 1729358503
+        },
+        {
+          "distance": 0.2348688840866089,
+          "id": 1729359267
+        },
+        {
+          "distance": 0.23493880033493042,
+          "id": 1729360067
+        },
+        {
+          "distance": 0.2450394630432129,
+          "id": 1729360289
+        },
+        {
+          "distance": 0.24572277069091797,
+          "id": 1729355989
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1763559041,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "The DC-9 was designed by Douglas as a mid-range jetliner with a smaller capacity than the Boeing 727 and with the ability to serve the short runways of small regional airports...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

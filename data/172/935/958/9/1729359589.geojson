@@ -35,6 +35,50 @@
       "taken": 1492505700,
       "taken_at": "Apr 18, 2017 8:55 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3171544671058655,
+          "id": 1729361675
+        },
+        {
+          "distance": 0.32397782802581787,
+          "id": 1729361675
+        },
+        {
+          "distance": 0.3420872688293457,
+          "id": 1729356089
+        },
+        {
+          "distance": 0.34903234243392944,
+          "id": 1729356089
+        },
+        {
+          "distance": 0.36180782318115234,
+          "id": 1729359961
+        },
+        {
+          "distance": 0.3653872013092041,
+          "id": 1729358065
+        },
+        {
+          "distance": 0.365622341632843,
+          "id": 1729355423
+        },
+        {
+          "distance": 0.36649686098098755,
+          "id": 1729362613
+        },
+        {
+          "distance": 0.36851418018341064,
+          "id": 1729359875
+        },
+        {
+          "distance": 0.3696866035461426,
+          "id": 1729355439
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729359589,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "Air India, the flag carrier of India, commenced operations in July 1946...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

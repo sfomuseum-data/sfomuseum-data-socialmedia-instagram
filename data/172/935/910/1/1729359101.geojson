@@ -54,6 +54,50 @@
       "taken": 1505155440,
       "taken_at": "Sep 11, 2017 6:44 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1550465226173401,
+          "id": 1729358939
+        },
+        {
+          "distance": 0.1624525785446167,
+          "id": 1729359485
+        },
+        {
+          "distance": 0.1646360158920288,
+          "id": 1729358989
+        },
+        {
+          "distance": 0.18046534061431885,
+          "id": 1729358859
+        },
+        {
+          "distance": 0.18328368663787842,
+          "id": 1729359439
+        },
+        {
+          "distance": 0.18766528367996216,
+          "id": 1729358773
+        },
+        {
+          "distance": 0.1883818507194519,
+          "id": 1729359299
+        },
+        {
+          "distance": 0.1883818507194519,
+          "id": 1763558663
+        },
+        {
+          "distance": 0.19098424911499023,
+          "id": 1729356347
+        },
+        {
+          "distance": 0.19516634941101074,
+          "id": 1729359179
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -83,7 +127,7 @@
       }
     ],
     "wof:id": 1729359101,
-    "wof:lastmodified": 1733175346,
+    "wof:lastmodified": 1787777635,
     "wof:name": "After the Second World War, typewriter manufacturers that had converted to arms production returned to the typewriter business...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -100,5 +144,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

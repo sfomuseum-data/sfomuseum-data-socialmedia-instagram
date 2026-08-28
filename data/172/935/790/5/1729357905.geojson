@@ -38,6 +38,50 @@
       "taken": 1532551980,
       "taken_at": "Jul 25, 2018 8:53 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2072271704673767,
+          "id": 1729360435
+        },
+        {
+          "distance": 0.21060669422149658,
+          "id": 1729360019
+        },
+        {
+          "distance": 0.2280140519142151,
+          "id": 1729359365
+        },
+        {
+          "distance": 0.23349452018737793,
+          "id": 1763559241
+        },
+        {
+          "distance": 0.23521137237548828,
+          "id": 1729360477
+        },
+        {
+          "distance": 0.23858344554901123,
+          "id": 1729360477
+        },
+        {
+          "distance": 0.24600988626480103,
+          "id": 1729361041
+        },
+        {
+          "distance": 0.24871224164962769,
+          "id": 1729359983
+        },
+        {
+          "distance": 0.25473713874816895,
+          "id": 1729359983
+        },
+        {
+          "distance": 0.2549920082092285,
+          "id": 1729359119
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729357905,
-    "wof:lastmodified": 1733175343,
+    "wof:lastmodified": 1787777632,
     "wof:name": "Bay Area history: An avid inventor and a professor of electrical engineering, Charles Herrold (1875–1948) conducted the first scheduled radio broadcasts by inventing his own wireless transmitting technology...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

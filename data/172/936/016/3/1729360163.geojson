@@ -25,6 +25,50 @@
       "taken": 1478341740,
       "taken_at": "Nov 05, 2016 10:29 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15693902969360352,
+          "id": 1880151359
+        },
+        {
+          "distance": 0.18523192405700684,
+          "id": 1729361299
+        },
+        {
+          "distance": 0.20387864112854004,
+          "id": 1729361397
+        },
+        {
+          "distance": 0.22954851388931274,
+          "id": 1729361397
+        },
+        {
+          "distance": 0.241196870803833,
+          "id": 1729361965
+        },
+        {
+          "distance": 0.2597694993019104,
+          "id": 1729358535
+        },
+        {
+          "distance": 0.27915167808532715,
+          "id": 1729360693
+        },
+        {
+          "distance": 0.2889062166213989,
+          "id": 1729360783
+        },
+        {
+          "distance": 0.2894960641860962,
+          "id": 1729361299
+        },
+        {
+          "distance": 0.29291194677352905,
+          "id": 1729360861
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360163,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "#Onthisday in 1941, Pan American Airways’ Captain John Tilton departed San Francisco for the first airmail service to Fiji...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

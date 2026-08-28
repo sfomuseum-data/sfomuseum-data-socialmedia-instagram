@@ -30,6 +30,50 @@
       "taken": 1674038880,
       "taken_at": "Jan 18, 2023 10:48 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.20512038469314575,
+          "id": 1880151305
+        },
+        {
+          "distance": 0.2263113260269165,
+          "id": 1880151269
+        },
+        {
+          "distance": 0.22880971431732178,
+          "id": 1729356997
+        },
+        {
+          "distance": 0.23541909456253052,
+          "id": 1729357239
+        },
+        {
+          "distance": 0.24212580919265747,
+          "id": 1947424879
+        },
+        {
+          "distance": 0.24520611763000488,
+          "id": 1729357229
+        },
+        {
+          "distance": 0.25365543365478516,
+          "id": 1729360823
+        },
+        {
+          "distance": 0.2577243447303772,
+          "id": 1880151305
+        },
+        {
+          "distance": 0.25853729248046875,
+          "id": 1729358693
+        },
+        {
+          "distance": 0.2600729465484619,
+          "id": 1947424823
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151195,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "The Gorham Manufacturing Company, along with Tiffany \u0026 Company, was a leading manufacturer of precious metals at the height of Japonisme in the late 19th century...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

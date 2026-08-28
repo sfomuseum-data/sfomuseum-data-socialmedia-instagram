@@ -29,6 +29,50 @@
       "taken": 1637253420,
       "taken_at": "Nov 18, 2021 4:37 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.08699840307235718,
+          "id": 1729359419
+        },
+        {
+          "distance": 0.09366679191589355,
+          "id": 1729361333
+        },
+        {
+          "distance": 0.14398819208145142,
+          "id": 1729362189
+        },
+        {
+          "distance": 0.16103774309158325,
+          "id": 1729359671
+        },
+        {
+          "distance": 0.16975939273834229,
+          "id": 1729361333
+        },
+        {
+          "distance": 0.17227041721343994,
+          "id": 1729359419
+        },
+        {
+          "distance": 0.17846661806106567,
+          "id": 1729357001
+        },
+        {
+          "distance": 0.17849242687225342,
+          "id": 1729359667
+        },
+        {
+          "distance": 0.17958176136016846,
+          "id": 1729361391
+        },
+        {
+          "distance": 0.18676620721817017,
+          "id": 1729361581
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1763559319,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "From the career history of Captain Charles Marinus Sundby, who served with companies including the Danish Naval Air Service and the China National Aviation Corporation (CNAC): a celebration of his first solo flight on June 21, 1935, at the Avnø Air Station...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

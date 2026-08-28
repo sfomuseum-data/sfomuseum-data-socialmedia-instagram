@@ -25,6 +25,50 @@
       "taken": 1477906560,
       "taken_at": "Oct 31, 2016 9:36 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.31222766637802124,
+          "id": 1729356535
+        },
+        {
+          "distance": 0.3452518582344055,
+          "id": 1729362823
+        },
+        {
+          "distance": 0.3504297137260437,
+          "id": 1729362823
+        },
+        {
+          "distance": 0.3544653058052063,
+          "id": 1729356535
+        },
+        {
+          "distance": 0.3547862768173218,
+          "id": 1729358987
+        },
+        {
+          "distance": 0.36386412382125854,
+          "id": 1880151065
+        },
+        {
+          "distance": 0.36742979288101196,
+          "id": 1729356207
+        },
+        {
+          "distance": 0.3728150725364685,
+          "id": 1729358987
+        },
+        {
+          "distance": 0.37775373458862305,
+          "id": 1729359365
+        },
+        {
+          "distance": 0.3837481141090393,
+          "id": 1729362985
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360169,
-    "wof:lastmodified": 1733175348,
+    "wof:lastmodified": 1787777639,
     "wof:name": "#HappyHalloween!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

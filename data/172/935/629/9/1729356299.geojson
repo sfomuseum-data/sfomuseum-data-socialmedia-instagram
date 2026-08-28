@@ -34,6 +34,50 @@
       "taken": 1563735840,
       "taken_at": "Jul 21, 2019 7:04 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2872489094734192,
+          "id": 1729356221
+        },
+        {
+          "distance": 0.2947688698768616,
+          "id": 1729356403
+        },
+        {
+          "distance": 0.29717355966567993,
+          "id": 1763558809
+        },
+        {
+          "distance": 0.2976193428039551,
+          "id": 1880150945
+        },
+        {
+          "distance": 0.2979968786239624,
+          "id": 1880150945
+        },
+        {
+          "distance": 0.30325818061828613,
+          "id": 1729356717
+        },
+        {
+          "distance": 0.30989861488342285,
+          "id": 1729356617
+        },
+        {
+          "distance": 0.30998682975769043,
+          "id": 1729355137
+        },
+        {
+          "distance": 0.3126832842826843,
+          "id": 1729358159
+        },
+        {
+          "distance": 0.3139997124671936,
+          "id": 1729356167
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729356299,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777629,
     "wof:name": "One of the first uses of aluminum helicopter rotor blades was in the Hiller XH-44 “Hiller-copter”, designed and built by Stanley Hiller, Jr. (1924–2006) in 1944 at the age of nineteen...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

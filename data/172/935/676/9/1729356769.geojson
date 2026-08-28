@@ -35,6 +35,50 @@
       "taken": 1553706180,
       "taken_at": "Mar 27, 2019, 5:03 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1357421875,
+          "id": 1729356749
+        },
+        {
+          "distance": 0.16769766807556152,
+          "id": 1729356581
+        },
+        {
+          "distance": 0.16784650087356567,
+          "id": 1729361263
+        },
+        {
+          "distance": 0.17393499612808228,
+          "id": 1729355863
+        },
+        {
+          "distance": 0.17434906959533691,
+          "id": 1729356749
+        },
+        {
+          "distance": 0.17612338066101074,
+          "id": 1729360723
+        },
+        {
+          "distance": 0.18209147453308105,
+          "id": 1729361497
+        },
+        {
+          "distance": 0.18378037214279175,
+          "id": 1729356143
+        },
+        {
+          "distance": 0.18677383661270142,
+          "id": 1729357189
+        },
+        {
+          "distance": 0.20324933528900146,
+          "id": 1729356581
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729356769,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "Ever wonder what the cockpit of the Boeing 377 looked like?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

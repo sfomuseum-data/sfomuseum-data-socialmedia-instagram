@@ -29,6 +29,50 @@
       "taken": 1571326860,
       "taken_at": "Oct 17, 2019 3:41 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1279394030570984,
+          "id": 1880151233
+        },
+        {
+          "distance": 0.14610707759857178,
+          "id": 1880151233
+        },
+        {
+          "distance": 0.17996084690093994,
+          "id": 1729355559
+        },
+        {
+          "distance": 0.2010941505432129,
+          "id": 1763559479
+        },
+        {
+          "distance": 0.20231783390045166,
+          "id": 1729360353
+        },
+        {
+          "distance": 0.2032841444015503,
+          "id": 1729356121
+        },
+        {
+          "distance": 0.20683521032333374,
+          "id": 1729360921
+        },
+        {
+          "distance": 0.21170467138290405,
+          "id": 1729355563
+        },
+        {
+          "distance": 0.21497786045074463,
+          "id": 1729355559
+        },
+        {
+          "distance": 0.21763980388641357,
+          "id": 1729356485
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729355989,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777627,
     "wof:name": "#OnThisDay in 2015, the last branded US Airways flight departed from Philadelphia International Airport and landed at San Francisco International Airport as American Airlines Flight 1939 (for the year the airline was established as All American Aviation)...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

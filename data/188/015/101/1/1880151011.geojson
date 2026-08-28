@@ -31,6 +31,50 @@
       "taken": 1680171300,
       "taken_at": "Mar 30, 2023 10:15 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09898829460144043,
+          "id": 1880150979
+        },
+        {
+          "distance": 0.14399230480194092,
+          "id": 1947425303
+        },
+        {
+          "distance": 0.1446433663368225,
+          "id": 1947425243
+        },
+        {
+          "distance": 0.15041810274124146,
+          "id": 1880151157
+        },
+        {
+          "distance": 0.1588078737258911,
+          "id": 1880150883
+        },
+        {
+          "distance": 0.16162753105163574,
+          "id": 1880151155
+        },
+        {
+          "distance": 0.17165714502334595,
+          "id": 1880151207
+        },
+        {
+          "distance": 0.17491042613983154,
+          "id": 1880150979
+        },
+        {
+          "distance": 0.1857125163078308,
+          "id": 1947425261
+        },
+        {
+          "distance": 0.18763864040374756,
+          "id": 1880150997
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1880151011,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777661,
     "wof:name": "“I have always been happy in San Francisco...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -39,6 +39,50 @@
       "taken": 1531153200,
       "taken_at": "Jul 9, 2018, 4:20 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.03734523057937622,
+          "id": 1729358747
+        },
+        {
+          "distance": 0.12085014581680298,
+          "id": 1729358747
+        },
+        {
+          "distance": 0.2157917022705078,
+          "id": 1729357995
+        },
+        {
+          "distance": 0.2615077495574951,
+          "id": 1729357995
+        },
+        {
+          "distance": 0.2942037582397461,
+          "id": 1729358839
+        },
+        {
+          "distance": 0.30162525177001953,
+          "id": 1880151713
+        },
+        {
+          "distance": 0.307758092880249,
+          "id": 1947425047
+        },
+        {
+          "distance": 0.32739776372909546,
+          "id": 1947424867
+        },
+        {
+          "distance": 0.32763904333114624,
+          "id": 1763559555
+        },
+        {
+          "distance": 0.3281140923500061,
+          "id": 1729359429
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,7 +112,7 @@
       }
     ],
     "wof:id": 1729357991,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777632,
     "wof:name": "This is your last week to see \"American Folk Art\"...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -85,5 +129,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

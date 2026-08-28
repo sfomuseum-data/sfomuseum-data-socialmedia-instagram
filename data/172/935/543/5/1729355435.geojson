@@ -33,6 +33,50 @@
       "taken": 1584460860,
       "taken_at": "Mar 17, 2020 4:01 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11191141605377197,
+          "id": 1729356861
+        },
+        {
+          "distance": 0.13801705837249756,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.1405026912689209,
+          "id": 1729355453
+        },
+        {
+          "distance": 0.1456330418586731,
+          "id": 1729355453
+        },
+        {
+          "distance": 0.14612197875976562,
+          "id": 1729356861
+        },
+        {
+          "distance": 0.15397882461547852,
+          "id": 1729359847
+        },
+        {
+          "distance": 0.17475515604019165,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.1805829405784607,
+          "id": 1729357611
+        },
+        {
+          "distance": 0.18095511198043823,
+          "id": 1729356865
+        },
+        {
+          "distance": 0.1838032603263855,
+          "id": 1729355437
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729355435,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777625,
     "wof:name": "Sanaz Mazinani's series of photographic montages, 'Forever in the Sky’, takes as its subject clouds over San Francisco...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

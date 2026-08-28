@@ -25,6 +25,50 @@
       "taken": 1678709340,
       "taken_at": "Mar 13, 2023 12:09 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2124704122543335,
+          "id": 1947425289
+        },
+        {
+          "distance": 0.21691185235977173,
+          "id": 1763559519
+        },
+        {
+          "distance": 0.2170148491859436,
+          "id": 1729356061
+        },
+        {
+          "distance": 0.22010457515716553,
+          "id": 1763559661
+        },
+        {
+          "distance": 0.22800761461257935,
+          "id": 1729356847
+        },
+        {
+          "distance": 0.23451781272888184,
+          "id": 1729356847
+        },
+        {
+          "distance": 0.245833158493042,
+          "id": 1729355239
+        },
+        {
+          "distance": 0.2582891583442688,
+          "id": 1947425289
+        },
+        {
+          "distance": 0.2587285041809082,
+          "id": 1729355239
+        },
+        {
+          "distance": 0.2618291974067688,
+          "id": 1729357903
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1880151065,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777661,
     "wof:name": "Ruth Kadish was the first woman to serve on the San Francisco Airport Commission upon being appointed in 1976 by Mayor George Moscone; she served until 1984...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

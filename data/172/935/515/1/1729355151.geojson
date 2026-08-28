@@ -31,6 +31,50 @@
       "taken": 1596663900,
       "taken_at": "Aug 05, 2020 9:45 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16452765464782715,
+          "id": 1729356101
+        },
+        {
+          "distance": 0.1905478835105896,
+          "id": 1729356095
+        },
+        {
+          "distance": 0.19404399394989014,
+          "id": 1729356085
+        },
+        {
+          "distance": 0.19687074422836304,
+          "id": 1729355425
+        },
+        {
+          "distance": 0.19868725538253784,
+          "id": 1729356005
+        },
+        {
+          "distance": 0.2006438970565796,
+          "id": 1729355727
+        },
+        {
+          "distance": 0.20353132486343384,
+          "id": 1729356087
+        },
+        {
+          "distance": 0.2054930329322815,
+          "id": 1729355981
+        },
+        {
+          "distance": 0.20696508884429932,
+          "id": 1729355727
+        },
+        {
+          "distance": 0.21334904432296753,
+          "id": 1729356085
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729355151,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777618,
     "wof:name": "Take a short trip with us back in time with our French wallpaper exhibition...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

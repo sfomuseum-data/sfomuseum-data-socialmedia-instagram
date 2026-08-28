@@ -36,6 +36,50 @@
       "taken": 1521641460,
       "taken_at": "Mar 21, 2018 2:11 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.3397976756095886,
+          "id": 1729358449
+        },
+        {
+          "distance": 0.36624449491500854,
+          "id": 1729356535
+        },
+        {
+          "distance": 0.3694654703140259,
+          "id": 1763559241
+        },
+        {
+          "distance": 0.3721879720687866,
+          "id": 1763559233
+        },
+        {
+          "distance": 0.3738853335380554,
+          "id": 1763559017
+        },
+        {
+          "distance": 0.37607812881469727,
+          "id": 1729359515
+        },
+        {
+          "distance": 0.37916505336761475,
+          "id": 1729356037
+        },
+        {
+          "distance": 0.37966835498809814,
+          "id": 1729358267
+        },
+        {
+          "distance": 0.3811274766921997,
+          "id": 1729355491
+        },
+        {
+          "distance": 0.3816501498222351,
+          "id": 1729359695
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729358439,
-    "wof:lastmodified": 1733175344,
+    "wof:lastmodified": 1787777633,
     "wof:name": "\"The Hangar, Shrine of the Air\" was located on 2211 Union Street in Berkeley, California...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -41,6 +41,50 @@
       "taken": 1490208180,
       "taken_at": "Mar 22, 2017 6:43 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1830715537071228,
+          "id": 1729359989
+        },
+        {
+          "distance": 0.19642502069473267,
+          "id": 1729356405
+        },
+        {
+          "distance": 0.2248293161392212,
+          "id": 1729360195
+        },
+        {
+          "distance": 0.23189961910247803,
+          "id": 1729360981
+        },
+        {
+          "distance": 0.24301767349243164,
+          "id": 1729355113
+        },
+        {
+          "distance": 0.2462010383605957,
+          "id": 1729361015
+        },
+        {
+          "distance": 0.24666178226470947,
+          "id": 1729360733
+        },
+        {
+          "distance": 0.24795854091644287,
+          "id": 1729355261
+        },
+        {
+          "distance": 0.2484649419784546,
+          "id": 1729360843
+        },
+        {
+          "distance": 0.2508407235145569,
+          "id": 1729360195
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -70,7 +114,7 @@
       }
     ],
     "wof:id": 1729359685,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "United Air Lines produced this 1957 flight attendant employee pamphlet that introduces potential applicants to the profession...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -87,5 +131,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

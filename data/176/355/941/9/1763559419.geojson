@@ -33,6 +33,50 @@
       "taken": 1631725020,
       "taken_at": "Sep 15, 2021 4:57 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06689327955245972,
+          "id": 1729360209
+        },
+        {
+          "distance": 0.0777125358581543,
+          "id": 1729358971
+        },
+        {
+          "distance": 0.08049309253692627,
+          "id": 1729355495
+        },
+        {
+          "distance": 0.08350121974945068,
+          "id": 1729355687
+        },
+        {
+          "distance": 0.08504223823547363,
+          "id": 1729357503
+        },
+        {
+          "distance": 0.08932965993881226,
+          "id": 1729356529
+        },
+        {
+          "distance": 0.09487545490264893,
+          "id": 1729356065
+        },
+        {
+          "distance": 0.11519426107406616,
+          "id": 1729355945
+        },
+        {
+          "distance": 0.12340652942657471,
+          "id": 1729355495
+        },
+        {
+          "distance": 0.1267082691192627,
+          "id": 1729358971
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1763559419,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "The Concorde SST (supersonic transport) was the first successful transoceanic supersonic airliner—although the Soviet Tupolev Tu-144 was the first supersonic airliner to be introduced...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

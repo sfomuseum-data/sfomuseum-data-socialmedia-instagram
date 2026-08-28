@@ -30,6 +30,50 @@
       "taken": 1656432540,
       "taken_at": "Jun 28, 2022 4:09 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17857372760772705,
+          "id": 1763559661
+        },
+        {
+          "distance": 0.1982954740524292,
+          "id": 1763559661
+        },
+        {
+          "distance": 0.22879546880722046,
+          "id": 1729357903
+        },
+        {
+          "distance": 0.2385668158531189,
+          "id": 1729355239
+        },
+        {
+          "distance": 0.24527418613433838,
+          "id": 1729356847
+        },
+        {
+          "distance": 0.2478315234184265,
+          "id": 1729356061
+        },
+        {
+          "distance": 0.25283002853393555,
+          "id": 1763559519
+        },
+        {
+          "distance": 0.25312483310699463,
+          "id": 1729355471
+        },
+        {
+          "distance": 0.25829076766967773,
+          "id": 1729356847
+        },
+        {
+          "distance": 0.2584710121154785,
+          "id": 1729357331
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151623,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Mary Fuller McChesney (1922 – 2022) was a largely self-taught sculptor and art historian...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -25,6 +25,50 @@
       "taken": 1443781860,
       "taken_at": "Oct 02, 2015 10:31 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2514932155609131,
+          "id": 1729360265
+        },
+        {
+          "distance": 0.2765020728111267,
+          "id": 1729355023
+        },
+        {
+          "distance": 0.284340500831604,
+          "id": 1880151627
+        },
+        {
+          "distance": 0.2898164391517639,
+          "id": 1729357579
+        },
+        {
+          "distance": 0.2898164391517639,
+          "id": 1763558765
+        },
+        {
+          "distance": 0.29085659980773926,
+          "id": 1729359417
+        },
+        {
+          "distance": 0.31001293659210205,
+          "id": 1729355613
+        },
+        {
+          "distance": 0.3103296160697937,
+          "id": 1880151623
+        },
+        {
+          "distance": 0.31463873386383057,
+          "id": 1729356473
+        },
+        {
+          "distance": 0.3147716522216797,
+          "id": 1729357683
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729361487,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777645,
     "wof:name": "John Muir (1838–1914), one of California’s first and most active environmentalists, championed the revolutionary idea that wild spaces should be preserved for generations to enjoy...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

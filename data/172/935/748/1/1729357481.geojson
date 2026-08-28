@@ -38,6 +38,50 @@
       "taken": 1540561680,
       "taken_at": "Oct 26, 2018 1:48 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.06524240970611572,
+          "id": 1729358963
+        },
+        {
+          "distance": 0.12760722637176514,
+          "id": 1729358963
+        },
+        {
+          "distance": 0.16223782300949097,
+          "id": 1729356217
+        },
+        {
+          "distance": 0.168346107006073,
+          "id": 1729358575
+        },
+        {
+          "distance": 0.16856658458709717,
+          "id": 1729358009
+        },
+        {
+          "distance": 0.17250454425811768,
+          "id": 1729357687
+        },
+        {
+          "distance": 0.1731656789779663,
+          "id": 1729358763
+        },
+        {
+          "distance": 0.1736825704574585,
+          "id": 1729359361
+        },
+        {
+          "distance": 0.17550796270370483,
+          "id": 1880151589
+        },
+        {
+          "distance": 0.18010979890823364,
+          "id": 1729359771
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -67,7 +111,7 @@
       }
     ],
     "wof:id": 1729357481,
-    "wof:lastmodified": 1733175342,
+    "wof:lastmodified": 1787777631,
     "wof:name": "#OnThisDay in 1958, the first scheduled Pan American World Airways Boeing 707 transatlantic commercial jet service was launched from Idlewild Airport, New York...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -84,5 +128,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -34,6 +34,50 @@
       "taken": 1623427740,
       "taken_at": "Jun 11, 2021 4:09 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.17111992835998535,
+          "id": 1763559521
+        },
+        {
+          "distance": 0.1829357147216797,
+          "id": 1880151253
+        },
+        {
+          "distance": 0.193029522895813,
+          "id": 1880151285
+        },
+        {
+          "distance": 0.19314897060394287,
+          "id": 1880150939
+        },
+        {
+          "distance": 0.19363462924957275,
+          "id": 1763559555
+        },
+        {
+          "distance": 0.1950608491897583,
+          "id": 1947424961
+        },
+        {
+          "distance": 0.19512325525283813,
+          "id": 1763558931
+        },
+        {
+          "distance": 0.19825881719589233,
+          "id": 1729355777
+        },
+        {
+          "distance": 0.20174109935760498,
+          "id": 1763559569
+        },
+        {
+          "distance": 0.20738095045089722,
+          "id": 1763559685
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1763559105,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Presenting candid snapshots of four of San Francisco's most beloved and iconic neighborhoods, Emily Fromm's mosaic installation \"Four Corners\" captures the diverse urban beauty of the city in single-moment vignettes...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

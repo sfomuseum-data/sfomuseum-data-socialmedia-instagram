@@ -34,6 +34,50 @@
       "taken": 1548328260,
       "taken_at": "Jan 24, 2019 11:11 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1334453821182251,
+          "id": 1763559637
+        },
+        {
+          "distance": 0.13902175426483154,
+          "id": 1729357769
+        },
+        {
+          "distance": 0.16588127613067627,
+          "id": 1729355245
+        },
+        {
+          "distance": 0.1691875457763672,
+          "id": 1729355033
+        },
+        {
+          "distance": 0.17101269960403442,
+          "id": 1729357575
+        },
+        {
+          "distance": 0.17323791980743408,
+          "id": 1729358651
+        },
+        {
+          "distance": 0.17368566989898682,
+          "id": 1729357115
+        },
+        {
+          "distance": 0.17615216970443726,
+          "id": 1729357769
+        },
+        {
+          "distance": 0.17809176445007324,
+          "id": 1763559637
+        },
+        {
+          "distance": 0.1803075075149536,
+          "id": 1729358231
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -63,7 +107,7 @@
       }
     ],
     "wof:id": 1729357043,
-    "wof:lastmodified": 1733175341,
+    "wof:lastmodified": 1787777629,
     "wof:name": "The Convair 990 Coronado took off on its maiden flight #onthisday in 1961...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -80,5 +124,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -33,6 +33,50 @@
       "taken": 1558372020,
       "taken_at": "May 20, 2019 5:07 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.08197528123855591,
+          "id": 1729360591
+        },
+        {
+          "distance": 0.08701872825622559,
+          "id": 1729358071
+        },
+        {
+          "distance": 0.08774930238723755,
+          "id": 1729358695
+        },
+        {
+          "distance": 0.09108740091323853,
+          "id": 1729355659
+        },
+        {
+          "distance": 0.10550206899642944,
+          "id": 1880151169
+        },
+        {
+          "distance": 0.11045730113983154,
+          "id": 1729355861
+        },
+        {
+          "distance": 0.1210290789604187,
+          "id": 1763558939
+        },
+        {
+          "distance": 0.12263709306716919,
+          "id": 1880151229
+        },
+        {
+          "distance": 0.12333011627197266,
+          "id": 1729355861
+        },
+        {
+          "distance": 0.1313166618347168,
+          "id": 1729360081
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729356541,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "#Onthisday in 1939, Pan American Airways established the first regular air mail service across the Atlantic...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

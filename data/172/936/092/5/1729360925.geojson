@@ -25,6 +25,50 @@
       "taken": 1458149760,
       "taken_at": "Mar 16, 2016 5:36 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.15455448627471924,
+          "id": 1729355587
+        },
+        {
+          "distance": 0.15903520584106445,
+          "id": 1729359251
+        },
+        {
+          "distance": 0.17665696144104004,
+          "id": 1729361245
+        },
+        {
+          "distance": 0.18353092670440674,
+          "id": 1729359251
+        },
+        {
+          "distance": 0.19078558683395386,
+          "id": 1729359841
+        },
+        {
+          "distance": 0.19254302978515625,
+          "id": 1729355587
+        },
+        {
+          "distance": 0.19723862409591675,
+          "id": 1729355113
+        },
+        {
+          "distance": 0.20015954971313477,
+          "id": 1729361245
+        },
+        {
+          "distance": 0.20493030548095703,
+          "id": 1763559617
+        },
+        {
+          "distance": 0.20685935020446777,
+          "id": 1729355113
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729360925,
-    "wof:lastmodified": 1733175349,
+    "wof:lastmodified": 1787777640,
     "wof:name": "United Air Lines stewardesses stand in formation to receive their wings from Don G. Maggerell, Vice-President, Passenger Service, in front of a Douglas DC-3 airliner...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

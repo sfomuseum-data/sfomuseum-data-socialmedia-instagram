@@ -31,6 +31,50 @@
       "taken": 1586521380,
       "taken_at": "Apr 10, 2020 12:23 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1732385754585266,
+          "id": 1729361117
+        },
+        {
+          "distance": 0.1800881028175354,
+          "id": 1729356015
+        },
+        {
+          "distance": 0.1860750913619995,
+          "id": 1729359879
+        },
+        {
+          "distance": 0.1863042712211609,
+          "id": 1763559125
+        },
+        {
+          "distance": 0.1889810562133789,
+          "id": 1763559125
+        },
+        {
+          "distance": 0.1975104808807373,
+          "id": 1763558867
+        },
+        {
+          "distance": 0.19859790802001953,
+          "id": 1729358209
+        },
+        {
+          "distance": 0.20170563459396362,
+          "id": 1763558867
+        },
+        {
+          "distance": 0.2054382562637329,
+          "id": 1729359329
+        },
+        {
+          "distance": 0.20719611644744873,
+          "id": 1729360723
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729355351,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777624,
     "wof:name": "Have you flown on Air Canada?..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

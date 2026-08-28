@@ -34,6 +34,50 @@
       "taken": 1705684020,
       "taken_at": "Jan 19, 2024 5:07 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.18911212682724,
+          "id": 1729355383
+        },
+        {
+          "distance": 0.22224509716033936,
+          "id": 1729355147
+        },
+        {
+          "distance": 0.22562313079833984,
+          "id": 1729356755
+        },
+        {
+          "distance": 0.23805516958236694,
+          "id": 1880151131
+        },
+        {
+          "distance": 0.23926502466201782,
+          "id": 1729362959
+        },
+        {
+          "distance": 0.23945772647857666,
+          "id": 1729355383
+        },
+        {
+          "distance": 0.2494247555732727,
+          "id": 1729355147
+        },
+        {
+          "distance": 0.2514188289642334,
+          "id": 1763559281
+        },
+        {
+          "distance": 0.25922417640686035,
+          "id": 1880151137
+        },
+        {
+          "distance": 0.26262712478637695,
+          "id": 1947425063
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1947425149,
-    "wof:lastmodified": 1733175327,
+    "wof:lastmodified": 1787777664,
     "wof:name": "In an era of digital technology and one-click ease, John Chiara prefers a complex, analog approach to making photographs...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

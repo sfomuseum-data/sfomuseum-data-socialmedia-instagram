@@ -25,6 +25,50 @@
       "taken": 1366383300,
       "taken_at": "Apr 19, 2013 2:55 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.23634272813796997,
+          "id": 1729362749
+        },
+        {
+          "distance": 0.2591831684112549,
+          "id": 1729362751
+        },
+        {
+          "distance": 0.26596421003341675,
+          "id": 1729362749
+        },
+        {
+          "distance": 0.2857081890106201,
+          "id": 1729362175
+        },
+        {
+          "distance": 0.28584200143814087,
+          "id": 1880151771
+        },
+        {
+          "distance": 0.29293394088745117,
+          "id": 1729362675
+        },
+        {
+          "distance": 0.29621750116348267,
+          "id": 1729362675
+        },
+        {
+          "distance": 0.2967877984046936,
+          "id": 1729362697
+        },
+        {
+          "distance": 0.29780083894729614,
+          "id": 1729362751
+        },
+        {
+          "distance": 0.2984209656715393,
+          "id": 1729362175
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362733,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777647,
     "wof:name": "Hand-built, this 18th C. Yixing ware teapot was made in China for export to Europe...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

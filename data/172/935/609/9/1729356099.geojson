@@ -31,6 +31,50 @@
       "taken": 1568383200,
       "taken_at": "Sep 13, 2019 2:00 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.11187136173248291,
+          "id": 1729355015
+        },
+        {
+          "distance": 0.15088379383087158,
+          "id": 1729355015
+        },
+        {
+          "distance": 0.3275129795074463,
+          "id": 1729359461
+        },
+        {
+          "distance": 0.34811991453170776,
+          "id": 1729356391
+        },
+        {
+          "distance": 0.3526160717010498,
+          "id": 1729360113
+        },
+        {
+          "distance": 0.35298603773117065,
+          "id": 1729358175
+        },
+        {
+          "distance": 0.35813355445861816,
+          "id": 1729361797
+        },
+        {
+          "distance": 0.3581451177597046,
+          "id": 1729359623
+        },
+        {
+          "distance": 0.360695481300354,
+          "id": 1729360057
+        },
+        {
+          "distance": 0.3625803589820862,
+          "id": 1729356393
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729356099,
-    "wof:lastmodified": 1733175339,
+    "wof:lastmodified": 1787777628,
     "wof:name": "Robert Bechtle’s early work was as a Bay Area figurative painter, but in the 1970s, he received national acclaim as a Photorealist...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

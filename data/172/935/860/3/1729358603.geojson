@@ -36,6 +36,50 @@
       "taken": 1517599500,
       "taken_at": "Feb 02, 2018 7:25 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.14154177904129028,
+          "id": 1729357853
+        },
+        {
+          "distance": 0.14429277181625366,
+          "id": 1729357853
+        },
+        {
+          "distance": 0.20341354608535767,
+          "id": 1729361627
+        },
+        {
+          "distance": 0.20571333169937134,
+          "id": 1729361627
+        },
+        {
+          "distance": 0.2524688243865967,
+          "id": 1729358173
+        },
+        {
+          "distance": 0.25965416431427,
+          "id": 1729358591
+        },
+        {
+          "distance": 0.2696625590324402,
+          "id": 1729358025
+        },
+        {
+          "distance": 0.2757289409637451,
+          "id": 1729358399
+        },
+        {
+          "distance": 0.27889710664749146,
+          "id": 1729357773
+        },
+        {
+          "distance": 0.2791772484779358,
+          "id": 1729358173
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -65,7 +109,7 @@
       }
     ],
     "wof:id": 1729358603,
-    "wof:lastmodified": 1733175345,
+    "wof:lastmodified": 1787777634,
     "wof:name": "During the late Edo period (1615-1868), Japanese artisans began making maneki neko or beckoning cat figurines, which have an upraised paw intending to draw people forth into businesses and homes...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -82,5 +126,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

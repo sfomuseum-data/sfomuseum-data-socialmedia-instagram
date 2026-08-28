@@ -28,6 +28,50 @@
       "taken": 1484159160,
       "taken_at": "Jan 11, 2017 6:26 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19903701543807983,
+          "id": 1729359741
+        },
+        {
+          "distance": 0.20428955554962158,
+          "id": 1729359741
+        },
+        {
+          "distance": 0.2198583483695984,
+          "id": 1729358735
+        },
+        {
+          "distance": 0.22208714485168457,
+          "id": 1729359445
+        },
+        {
+          "distance": 0.2271895408630371,
+          "id": 1729358737
+        },
+        {
+          "distance": 0.227697491645813,
+          "id": 1729361811
+        },
+        {
+          "distance": 0.2353200912475586,
+          "id": 1729359887
+        },
+        {
+          "distance": 0.2411244511604309,
+          "id": 1729360031
+        },
+        {
+          "distance": 0.24896115064620972,
+          "id": 1729359723
+        },
+        {
+          "distance": 0.25039851665496826,
+          "id": 1729359723
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1729359923,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777637,
     "wof:name": "Inventor Charles Fey had been making coin-operated machines in San Francisco for nearly ten years prior to creating his Liberty Bell in 1898...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

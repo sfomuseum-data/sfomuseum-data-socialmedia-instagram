@@ -30,6 +30,50 @@
       "taken": 1633449120,
       "taken_at": "Oct 05, 2021 3:52 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12465965747833252,
+          "id": 1763559287
+        },
+        {
+          "distance": 0.12707990407943726,
+          "id": 1763559049
+        },
+        {
+          "distance": 0.12875407934188843,
+          "id": 1763559049
+        },
+        {
+          "distance": 0.13768315315246582,
+          "id": 1763559627
+        },
+        {
+          "distance": 0.15710437297821045,
+          "id": 1763559287
+        },
+        {
+          "distance": 0.17216867208480835,
+          "id": 1763559627
+        },
+        {
+          "distance": 0.18361365795135498,
+          "id": 1880150965
+        },
+        {
+          "distance": 0.18390607833862305,
+          "id": 1763559113
+        },
+        {
+          "distance": 0.18541431427001953,
+          "id": 1763559113
+        },
+        {
+          "distance": 0.19173669815063477,
+          "id": 1763559079
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1763559391,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "Happy Birthday Jean Louis!..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

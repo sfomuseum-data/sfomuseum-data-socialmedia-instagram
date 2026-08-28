@@ -35,6 +35,50 @@
       "taken": 1551696480,
       "taken_at": "Mar 4, 2019, 10:48 AM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.26569247245788574,
+          "id": 1729355527
+        },
+        {
+          "distance": 0.26656967401504517,
+          "id": 1729356883
+        },
+        {
+          "distance": 0.27741867303848267,
+          "id": 1729360727
+        },
+        {
+          "distance": 0.281244695186615,
+          "id": 1729356883
+        },
+        {
+          "distance": 0.2850074768066406,
+          "id": 1729355527
+        },
+        {
+          "distance": 0.2887316346168518,
+          "id": 1729356189
+        },
+        {
+          "distance": 0.2896565794944763,
+          "id": 1729362075
+        },
+        {
+          "distance": 0.28983986377716064,
+          "id": 1729355757
+        },
+        {
+          "distance": 0.2986971139907837,
+          "id": 1729356877
+        },
+        {
+          "distance": 0.3059461712837219,
+          "id": 1729356877
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729356871,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777629,
     "wof:name": "In his ongoing series, “Of Heaven and Earth”, artist David Shannon-Lier produces large-scale photographs that consider the landscape on both a human and cosmic scale...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

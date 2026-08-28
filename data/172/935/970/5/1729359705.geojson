@@ -42,6 +42,50 @@
       "taken": 1489687860,
       "taken_at": "Mar 16, 2017 6:11 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2988513112068176,
+          "id": 1729359813
+        },
+        {
+          "distance": 0.32762807607650757,
+          "id": 1729360831
+        },
+        {
+          "distance": 0.34601283073425293,
+          "id": 1729359871
+        },
+        {
+          "distance": 0.3515256643295288,
+          "id": 1763559397
+        },
+        {
+          "distance": 0.3578639030456543,
+          "id": 1729359259
+        },
+        {
+          "distance": 0.3662418723106384,
+          "id": 1729358605
+        },
+        {
+          "distance": 0.36868900060653687,
+          "id": 1729359377
+        },
+        {
+          "distance": 0.36958640813827515,
+          "id": 1729359383
+        },
+        {
+          "distance": 0.37208205461502075,
+          "id": 1729360831
+        },
+        {
+          "distance": 0.3740614652633667,
+          "id": 1729359373
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -71,7 +115,7 @@
       }
     ],
     "wof:id": 1729359705,
-    "wof:lastmodified": 1733175347,
+    "wof:lastmodified": 1787777636,
     "wof:name": "The Trevi Fountain in Rome, Italy was designed as a Papal commission by architect Nicola Salvi (1697–1751) in 1730...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -88,5 +132,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

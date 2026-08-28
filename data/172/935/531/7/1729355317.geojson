@@ -29,6 +29,50 @@
       "taken": 1588064400,
       "taken_at": "Apr 28, 2020 9:00 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.29426395893096924,
+          "id": 1729356949
+        },
+        {
+          "distance": 0.319465696811676,
+          "id": 1729362351
+        },
+        {
+          "distance": 0.324259877204895,
+          "id": 1880151505
+        },
+        {
+          "distance": 0.3258189558982849,
+          "id": 1729360759
+        },
+        {
+          "distance": 0.330755352973938,
+          "id": 1729361315
+        },
+        {
+          "distance": 0.3423243761062622,
+          "id": 1729362351
+        },
+        {
+          "distance": 0.3425360321998596,
+          "id": 1729361995
+        },
+        {
+          "distance": 0.3465598225593567,
+          "id": 1729361059
+        },
+        {
+          "distance": 0.35293126106262207,
+          "id": 1763559443
+        },
+        {
+          "distance": 0.35302287340164185,
+          "id": 1729362203
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729355317,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777623,
     "wof:name": "Playing cards, because of their size and weight, were ideally suited for use on airliners...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

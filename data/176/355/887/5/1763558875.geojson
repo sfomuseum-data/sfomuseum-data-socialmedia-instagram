@@ -29,6 +29,50 @@
       "taken": 1611851760,
       "taken_at": "Jan 28, 2021 4:36 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09852474927902222,
+          "id": 1763559121
+        },
+        {
+          "distance": 0.1498633623123169,
+          "id": 1763559121
+        },
+        {
+          "distance": 0.2156517505645752,
+          "id": 1729356403
+        },
+        {
+          "distance": 0.2301974892616272,
+          "id": 1763559463
+        },
+        {
+          "distance": 0.23487138748168945,
+          "id": 1763559433
+        },
+        {
+          "distance": 0.23537802696228027,
+          "id": 1729356403
+        },
+        {
+          "distance": 0.23733443021774292,
+          "id": 1763559245
+        },
+        {
+          "distance": 0.23892498016357422,
+          "id": 1763559205
+        },
+        {
+          "distance": 0.24146103858947754,
+          "id": 1763558855
+        },
+        {
+          "distance": 0.24825578927993774,
+          "id": 1763559139
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1763558875,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777659,
     "wof:name": "Coming soon to the International Terminal…..",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

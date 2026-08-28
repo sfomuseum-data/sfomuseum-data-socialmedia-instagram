@@ -35,6 +35,50 @@
       "taken": 1559153040,
       "taken_at": "May 29, 2019 6:04 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2666529417037964,
+          "id": 1729355047
+        },
+        {
+          "distance": 0.296612024307251,
+          "id": 1729355075
+        },
+        {
+          "distance": 0.29843151569366455,
+          "id": 1880151115
+        },
+        {
+          "distance": 0.30158621072769165,
+          "id": 1880151115
+        },
+        {
+          "distance": 0.30327755212783813,
+          "id": 1729356583
+        },
+        {
+          "distance": 0.30480772256851196,
+          "id": 1947425257
+        },
+        {
+          "distance": 0.3052847981452942,
+          "id": 1729355075
+        },
+        {
+          "distance": 0.3064373731613159,
+          "id": 1880151439
+        },
+        {
+          "distance": 0.306454062461853,
+          "id": 1729360097
+        },
+        {
+          "distance": 0.3097113370895386,
+          "id": 1729356335
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729356503,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "The husband-and-wife team of Charles (1907–78) and Ray (1912–88) Eames implemented the brilliance of postwar, modern design on the greatest scale, producing more than two million fiberglass chairs through Herman Miller, Inc. by 1966...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

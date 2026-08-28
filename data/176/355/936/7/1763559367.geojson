@@ -29,6 +29,50 @@
       "taken": 1634831280,
       "taken_at": "Oct 21, 2021 3:48 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.16121655702590942,
+          "id": 1729358863
+        },
+        {
+          "distance": 0.17660844326019287,
+          "id": 1729361735
+        },
+        {
+          "distance": 0.17937564849853516,
+          "id": 1729361577
+        },
+        {
+          "distance": 0.18301492929458618,
+          "id": 1729355133
+        },
+        {
+          "distance": 0.18425041437149048,
+          "id": 1729355133
+        },
+        {
+          "distance": 0.18796545267105103,
+          "id": 1729355109
+        },
+        {
+          "distance": 0.1912245750427246,
+          "id": 1729358851
+        },
+        {
+          "distance": 0.19142037630081177,
+          "id": 1729360411
+        },
+        {
+          "distance": 0.19282060861587524,
+          "id": 1729361735
+        },
+        {
+          "distance": 0.19685393571853638,
+          "id": 1729355165
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1763559367,
-    "wof:lastmodified": 1733175336,
+    "wof:lastmodified": 1787777660,
     "wof:name": "#OnThisDay in 1974, the Aérospatiale/British Aircraft Corporation Concorde supersonic transport (SST) landed at SFO...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

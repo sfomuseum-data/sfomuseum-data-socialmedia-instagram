@@ -28,6 +28,50 @@
       "taken": 1584440100,
       "taken_at": "Mar 17, 2020 10:15 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.36982250213623047,
+          "id": 1729355209
+        },
+        {
+          "distance": 0.3771514296531677,
+          "id": 1729355231
+        },
+        {
+          "distance": 0.3781663179397583,
+          "id": 1880151175
+        },
+        {
+          "distance": 0.3859845995903015,
+          "id": 1880151049
+        },
+        {
+          "distance": 0.3934366703033447,
+          "id": 1947425187
+        },
+        {
+          "distance": 0.4003763198852539,
+          "id": 1880151521
+        },
+        {
+          "distance": 0.4142165780067444,
+          "id": 1880151631
+        },
+        {
+          "distance": 0.4158210754394531,
+          "id": 1729355209
+        },
+        {
+          "distance": 0.4182671308517456,
+          "id": 1880151175
+        },
+        {
+          "distance": 0.4185311198234558,
+          "id": 1880150963
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -57,7 +101,7 @@
       }
     ],
     "wof:id": 1729355433,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777625,
     "wof:name": "The health and safety of our visitors, volunteers, and staff is our highest priority...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -74,5 +118,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -31,6 +31,50 @@
       "taken": 1619020200,
       "taken_at": "Apr 21, 2021 3:50 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.25397205352783203,
+          "id": 1729359489
+        },
+        {
+          "distance": 0.2637256383895874,
+          "id": 1729359489
+        },
+        {
+          "distance": 0.26401108503341675,
+          "id": 1729361311
+        },
+        {
+          "distance": 0.26407110691070557,
+          "id": 1729358395
+        },
+        {
+          "distance": 0.27016395330429077,
+          "id": 1729358395
+        },
+        {
+          "distance": 0.2730793356895447,
+          "id": 1729357687
+        },
+        {
+          "distance": 0.27366065979003906,
+          "id": 1763558845
+        },
+        {
+          "distance": 0.2738215923309326,
+          "id": 1729355241
+        },
+        {
+          "distance": 0.2761029005050659,
+          "id": 1729355335
+        },
+        {
+          "distance": 0.2780958414077759,
+          "id": 1729360551
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1763559181,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777660,
     "wof:name": "The Douglas DC-6 was initially conceived of as a military transport but its design was changed to a civilian airliner following the end of World War II...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

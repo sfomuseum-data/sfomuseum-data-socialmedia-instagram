@@ -25,6 +25,50 @@
       "taken": 1337957100,
       "taken_at": "May 25, 2012 2:45 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.24417972564697266,
+          "id": 1729362877
+        },
+        {
+          "distance": 0.2572856545448303,
+          "id": 1729362981
+        },
+        {
+          "distance": 0.26341646909713745,
+          "id": 1729362163
+        },
+        {
+          "distance": 0.2674388289451599,
+          "id": 1729362235
+        },
+        {
+          "distance": 0.27145159244537354,
+          "id": 1729363015
+        },
+        {
+          "distance": 0.2794935703277588,
+          "id": 1729362985
+        },
+        {
+          "distance": 0.28500545024871826,
+          "id": 1729363007
+        },
+        {
+          "distance": 0.2889305353164673,
+          "id": 1729362977
+        },
+        {
+          "distance": 0.2902333736419678,
+          "id": 1729362349
+        },
+        {
+          "distance": 0.2941511273384094,
+          "id": 1729362235
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -54,7 +98,7 @@
       }
     ],
     "wof:id": 1729362999,
-    "wof:lastmodified": 1733175350,
+    "wof:lastmodified": 1787777657,
     "wof:name": "Luxurious sewing cases (like this one from the late 1800s) were prized items to be displayed \u0026 admired...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -71,5 +115,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -30,6 +30,50 @@
       "taken": 1704736080,
       "taken_at": "Jan 08, 2024 5:48 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.0004962682723999023,
+          "id": 1947425207
+        },
+        {
+          "distance": 0.10273128747940063,
+          "id": 1947425057
+        },
+        {
+          "distance": 0.12782704830169678,
+          "id": 1947425207
+        },
+        {
+          "distance": 0.1375637650489807,
+          "id": 1947425057
+        },
+        {
+          "distance": 0.18464022874832153,
+          "id": 1947424901
+        },
+        {
+          "distance": 0.1886686086654663,
+          "id": 1947424843
+        },
+        {
+          "distance": 0.22538650035858154,
+          "id": 1729361489
+        },
+        {
+          "distance": 0.22546249628067017,
+          "id": 1729361495
+        },
+        {
+          "distance": 0.22687864303588867,
+          "id": 1947425291
+        },
+        {
+          "distance": 0.22896194458007812,
+          "id": 1947424901
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1947425169,
-    "wof:lastmodified": 1733175328,
+    "wof:lastmodified": 1787777664,
     "wof:name": "In 1927, Harold Bixby joined a consortium of St. Louis businessmen to help finance Charles Lindbergh’s (1902-74) historic non-stop transatlantic flight later that year...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -72,5 +116,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

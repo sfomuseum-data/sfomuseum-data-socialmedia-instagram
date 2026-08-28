@@ -32,6 +32,50 @@
       "taken": 1666090440,
       "taken_at": "Oct 18, 2022 10:54 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.09607547521591187,
+          "id": 1947425297
+        },
+        {
+          "distance": 0.11143702268600464,
+          "id": 1880151337
+        },
+        {
+          "distance": 0.14485114812850952,
+          "id": 1947425297
+        },
+        {
+          "distance": 0.15234369039535522,
+          "id": 1880151337
+        },
+        {
+          "distance": 0.15596628189086914,
+          "id": 1947425051
+        },
+        {
+          "distance": 0.16648781299591064,
+          "id": 1729357669
+        },
+        {
+          "distance": 0.17100131511688232,
+          "id": 1729357387
+        },
+        {
+          "distance": 0.17205733060836792,
+          "id": 1880151121
+        },
+        {
+          "distance": 0.17410850524902344,
+          "id": 1729357455
+        },
+        {
+          "distance": 0.17475390434265137,
+          "id": 1729357631
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -61,7 +105,7 @@
       }
     ],
     "wof:id": 1880151393,
-    "wof:lastmodified": 1733175335,
+    "wof:lastmodified": 1787777662,
     "wof:name": "Our 1:10-scale cutaway model of a United Air Lines DC-8 was created by Pacific Miniatures to be a promotional presentation of the Jet Mainliner in miniature...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -78,5 +122,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

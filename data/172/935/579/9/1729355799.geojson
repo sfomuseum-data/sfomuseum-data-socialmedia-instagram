@@ -33,6 +33,50 @@
       "taken": 1575988560,
       "taken_at": "Dec 10, 2019 2:36 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.19111651182174683,
+          "id": 1729359641
+        },
+        {
+          "distance": 0.1929120421409607,
+          "id": 1729359631
+        },
+        {
+          "distance": 0.1979212760925293,
+          "id": 1947425197
+        },
+        {
+          "distance": 0.2074298858642578,
+          "id": 1729359641
+        },
+        {
+          "distance": 0.20840561389923096,
+          "id": 1729356113
+        },
+        {
+          "distance": 0.21323877573013306,
+          "id": 1729356113
+        },
+        {
+          "distance": 0.2135116457939148,
+          "id": 1729360247
+        },
+        {
+          "distance": 0.2180389165878296,
+          "id": 1763559411
+        },
+        {
+          "distance": 0.21888011693954468,
+          "id": 1729359159
+        },
+        {
+          "distance": 0.2195262908935547,
+          "id": 1729360337
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -62,7 +106,7 @@
       }
     ],
     "wof:id": 1729355799,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777627,
     "wof:name": "Officially opened to the public #onthisday in 2000, the International Terminal at SFO was then the largest public works project in Northern California...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -79,5 +123,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

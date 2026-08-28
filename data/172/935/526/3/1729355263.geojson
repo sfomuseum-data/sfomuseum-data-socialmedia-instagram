@@ -29,6 +29,50 @@
       "taken": 1589218200,
       "taken_at": "May 11, 2020 5:30 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.1455310583114624,
+          "id": 1729360249
+        },
+        {
+          "distance": 0.1966269612312317,
+          "id": 1729360249
+        },
+        {
+          "distance": 0.2623065710067749,
+          "id": 1729360805
+        },
+        {
+          "distance": 0.26635754108428955,
+          "id": 1763559155
+        },
+        {
+          "distance": 0.26722168922424316,
+          "id": 1729358635
+        },
+        {
+          "distance": 0.2879149317741394,
+          "id": 1729359969
+        },
+        {
+          "distance": 0.29134249687194824,
+          "id": 1729360029
+        },
+        {
+          "distance": 0.2933143377304077,
+          "id": 1729358727
+        },
+        {
+          "distance": 0.29486745595932007,
+          "id": 1729359167
+        },
+        {
+          "distance": 0.2952430248260498,
+          "id": 1729358929
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -58,7 +102,7 @@
       }
     ],
     "wof:id": 1729355263,
-    "wof:lastmodified": 1733175337,
+    "wof:lastmodified": 1787777622,
     "wof:name": "While we can’t offer a full course meal like this one served by United in the 1950s, many people have been cooking up a storm while sheltering in place...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -75,5 +119,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -30,6 +30,50 @@
       "taken": 1674556260,
       "taken_at": "Jan 24, 2023 10:31 am"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.05107772350311279,
+          "id": 1880151049
+        },
+        {
+          "distance": 0.05671584606170654,
+          "id": 1880151521
+        },
+        {
+          "distance": 0.06708502769470215,
+          "id": 1947425187
+        },
+        {
+          "distance": 0.07900238037109375,
+          "id": 1880151631
+        },
+        {
+          "distance": 0.09197986125946045,
+          "id": 1880151631
+        },
+        {
+          "distance": 0.09260362386703491,
+          "id": 1880151109
+        },
+        {
+          "distance": 0.0952920913696289,
+          "id": 1880151049
+        },
+        {
+          "distance": 0.09623682498931885,
+          "id": 1947425187
+        },
+        {
+          "distance": 0.10079574584960938,
+          "id": 1880151643
+        },
+        {
+          "distance": 0.11311674118041992,
+          "id": 1880151521
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1880151175,
-    "wof:lastmodified": 1733175334,
+    "wof:lastmodified": 1787777662,
     "wof:name": "In 1917, Katherine Stinson asked Glenn Curtiss to build a new exhibition aircraft for her...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

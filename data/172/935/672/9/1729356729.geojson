@@ -31,6 +31,50 @@
       "taken": 1554139200,
       "taken_at": "Apr 01, 2019 5:20 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.13565278053283691,
+          "id": 1763559203
+        },
+        {
+          "distance": 0.15679991245269775,
+          "id": 1729355429
+        },
+        {
+          "distance": 0.162203848361969,
+          "id": 1729359173
+        },
+        {
+          "distance": 0.16232353448867798,
+          "id": 1729358009
+        },
+        {
+          "distance": 0.16876518726348877,
+          "id": 1763559547
+        },
+        {
+          "distance": 0.1688551902770996,
+          "id": 1880151589
+        },
+        {
+          "distance": 0.1700945496559143,
+          "id": 1729355033
+        },
+        {
+          "distance": 0.17086505889892578,
+          "id": 1729359361
+        },
+        {
+          "distance": 0.17360925674438477,
+          "id": 1880151067
+        },
+        {
+          "distance": 0.1759854555130005,
+          "id": 1729355245
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -60,7 +104,7 @@
       }
     ],
     "wof:id": 1729356729,
-    "wof:lastmodified": 1733175340,
+    "wof:lastmodified": 1787777629,
     "wof:name": "#Onthisday in 1949, Pan American World Airways introduced the Boeing 377 into service on the densely traveled San Francisco to Honolulu route...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -77,5 +121,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

@@ -35,6 +35,50 @@
       "taken": 1585671660,
       "taken_at": "Mar 31, 2020, 4:21 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.12674492597579956,
+          "id": 1729356773
+        },
+        {
+          "distance": 0.13114964962005615,
+          "id": 1729355379
+        },
+        {
+          "distance": 0.18622523546218872,
+          "id": 1729356549
+        },
+        {
+          "distance": 0.19559931755065918,
+          "id": 1729355379
+        },
+        {
+          "distance": 0.20100581645965576,
+          "id": 1729356819
+        },
+        {
+          "distance": 0.20613664388656616,
+          "id": 1729359363
+        },
+        {
+          "distance": 0.20764780044555664,
+          "id": 1729356547
+        },
+        {
+          "distance": 0.2077925205230713,
+          "id": 1729356001
+        },
+        {
+          "distance": 0.2095785140991211,
+          "id": 1729356557
+        },
+        {
+          "distance": 0.2111777663230896,
+          "id": 1729356785
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +108,7 @@
       }
     ],
     "wof:id": 1729355401,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777624,
     "wof:name": "In her “Psychscapes”, Terri Loewenthal draws upon the history of California landscape photography, reimagining the genre in a psychedelic light...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -81,5 +125,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

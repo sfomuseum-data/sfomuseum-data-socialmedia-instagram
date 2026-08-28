@@ -42,6 +42,50 @@
       "taken": 1531829220,
       "taken_at": "Jul 17, 2018, 12:07 PM"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.2536451816558838,
+          "id": 1729358021
+        },
+        {
+          "distance": 0.25392359495162964,
+          "id": 1729357939
+        },
+        {
+          "distance": 0.2600654363632202,
+          "id": 1729357825
+        },
+        {
+          "distance": 0.2678178548812866,
+          "id": 1729358359
+        },
+        {
+          "distance": 0.2877844572067261,
+          "id": 1729358223
+        },
+        {
+          "distance": 0.29174715280532837,
+          "id": 1729357013
+        },
+        {
+          "distance": 0.3012157082557678,
+          "id": 1729357939
+        },
+        {
+          "distance": 0.3012765049934387,
+          "id": 1729357921
+        },
+        {
+          "distance": 0.30201834440231323,
+          "id": 1729358115
+        },
+        {
+          "distance": 0.3089558482170105,
+          "id": 1729358809
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -71,7 +115,7 @@
       }
     ],
     "wof:id": 1729357949,
-    "wof:lastmodified": 1716929952,
+    "wof:lastmodified": 1787777632,
     "wof:name": "In 1922, Howard Carter’s discovery of King Tutankhamun’s tomb and the extensive artifacts uncovered with it sparked renewed enthusiasm for all things Egyptian, including this lavishly decorated, early battery powered radio set manufactured by Metro Electric of Chicago...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -88,5 +132,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

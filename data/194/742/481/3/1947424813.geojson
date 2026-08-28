@@ -28,6 +28,50 @@
       "taken": 1730130660,
       "taken_at": "Oct 28, 2024 3:51 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.08301061391830444,
+          "id": 1729355941
+        },
+        {
+          "distance": 0.08547824621200562,
+          "id": 1729358121
+        },
+        {
+          "distance": 0.1282976269721985,
+          "id": 1729355941
+        },
+        {
+          "distance": 0.13016724586486816,
+          "id": 1729358121
+        },
+        {
+          "distance": 0.3052203059196472,
+          "id": 1729360915
+        },
+        {
+          "distance": 0.3104749321937561,
+          "id": 1729355459
+        },
+        {
+          "distance": 0.3118746280670166,
+          "id": 1729356383
+        },
+        {
+          "distance": 0.3160075545310974,
+          "id": 1729359707
+        },
+        {
+          "distance": 0.3194548487663269,
+          "id": 1729360221
+        },
+        {
+          "distance": 0.3255799412727356,
+          "id": 1729356383
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -56,7 +100,7 @@
       }
     ],
     "wof:id": 1947424813,
-    "wof:lastmodified": 1733175317,
+    "wof:lastmodified": 1787777664,
     "wof:name": "#OnThisDay in 1972, the first Airbus A300 took off on its maiden flight...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -70,5 +114,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }

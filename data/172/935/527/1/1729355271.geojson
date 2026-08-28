@@ -30,6 +30,50 @@
       "taken": 1588964400,
       "taken_at": "May 08, 2020 7:00 pm"
     },
+    "millsfield:similar": {
+      "google/siglip2-so400m-patch16-naflex": [
+        {
+          "distance": 0.37771767377853394,
+          "id": 1729360515
+        },
+        {
+          "distance": 0.3783116936683655,
+          "id": 1729360515
+        },
+        {
+          "distance": 0.397274911403656,
+          "id": 1729359339
+        },
+        {
+          "distance": 0.4035237431526184,
+          "id": 1729357981
+        },
+        {
+          "distance": 0.4085460901260376,
+          "id": 1763558755
+        },
+        {
+          "distance": 0.4178749918937683,
+          "id": 1729359079
+        },
+        {
+          "distance": 0.42464280128479004,
+          "id": 1763558755
+        },
+        {
+          "distance": 0.43076908588409424,
+          "id": 1729360975
+        },
+        {
+          "distance": 0.43105751276016235,
+          "id": 1729360817
+        },
+        {
+          "distance": 0.43273627758026123,
+          "id": 1729355477
+        }
+      ]
+    },
     "sfomuseum:placetype": "instagram",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +103,7 @@
       }
     ],
     "wof:id": 1729355271,
-    "wof:lastmodified": 1733175338,
+    "wof:lastmodified": 1787777622,
     "wof:name": "In the 1970s and 1980s, Pan American produced a series of children’s activity kits with the mascots Pierre and Penny Panda...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
@@ -76,5 +120,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
 }
